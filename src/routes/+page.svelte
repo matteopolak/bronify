@@ -2,11 +2,13 @@
 	import bronify from '$lib/images/bronify.png?enhanced';
 	import songData from '$lib/content/songs.json';
 
-	import { Play, Pause } from '@lucide/svelte';
+	import { Play, Pause, Volume1, Volume2, VolumeX } from '@lucide/svelte';
 	import Player from 'youtube-player';
 	import type { YouTubePlayer } from 'youtube-player/dist/types';
 
 	type Song = (typeof songData)[number];
+
+	const MAX_VOLUME = 50;
 
 	const thumbnails: Record<string, { default: string }> = import.meta.glob(
 		'/src/lib/content/*.webp',
@@ -42,7 +44,8 @@
 	let status = $state({
 		paused: true,
 		lengthSeconds: 60,
-		currentSeconds: 0
+		currentSeconds: 0,
+		volume: 20
 	});
 
 	async function toggle(song: Song) {
@@ -78,11 +81,13 @@
 				autoplay: 0
 			}
 		});
-		player.setVolume(1);
+
+		player.setVolume(status.volume);
 
 		player.on('stateChange', async (event) => {
 			if (event.data === 1) {
 				status.lengthSeconds = await player.getDuration();
+				status.volume = await player.getVolume();
 			}
 
 			if (event.data === 0) {
@@ -98,18 +103,31 @@
 		}, 100);
 	});
 
-	function onMouseDown(event: MouseEvent) {
+	function onSeekClick(event: MouseEvent) {
 		const progress = event.target as HTMLProgressElement;
 		const value = event.offsetX / progress.offsetWidth;
 
-		status.currentSeconds = status.lengthSeconds * value;
-		player.seekTo(status.currentSeconds, true);
+		player.seekTo(status.lengthSeconds * value, true);
 	}
 
-	function onMouseMove(event: MouseEvent) {
+	function onSeekDrag(event: MouseEvent) {
 		if (event.buttons !== 1) return;
 
-		onMouseDown(event);
+		onSeekClick(event);
+	}
+
+	function onVolumeClick(event: MouseEvent) {
+		const progress = event.target as HTMLProgressElement;
+		const value = event.offsetX / progress.offsetWidth;
+
+		status.volume = value * MAX_VOLUME;
+		player.setVolume(status.volume);
+	}
+
+	function onVolumeDrag(event: MouseEvent) {
+		if (event.buttons !== 1) return;
+
+		onVolumeClick(event);
 	}
 
 	function formatSeconds(seconds: number) {
@@ -214,8 +232,8 @@
 			</button>
 		</div>
 
-		<div class="flex flex-col gap-2">
-			<h3 class="text-md font-semibold">{song.title}</h3>
+		<div class="flex flex-col">
+			<h3 class="text-md line-clamp-1 font-semibold">{song.title}</h3>
 			<span class="text-sm text-slate-300">
 				By
 				{#if song.username}
@@ -227,9 +245,9 @@
 			</span>
 		</div>
 
-		<div class="flex flex-row gap-1">
+		<div class="hide-scrollbar flex flex-row flex-nowrap gap-1 overflow-x-auto">
 			{#each song.tags as tag (tag)}
-				<span class="badge badge-ghost">{tag}</span>
+				<span class="badge badge-ghost break-keep">{tag}</span>
 			{/each}
 		</div>
 	</div>
@@ -244,6 +262,25 @@
 		{/each}
 	</div>
 </div>
+
+{#snippet volume(value: number)}
+	{#if value > 50}
+		<Volume2 fill="currentColor" size="1em" />
+	{:else if value > 0}
+		<Volume1 fill="currentColor" size="1em" />
+	{:else}
+		<VolumeX fill="currentColor" size="1em" />
+	{/if}
+
+	<button
+		onmousedown={onVolumeClick}
+		onmousemove={onVolumeDrag}
+		class="flex cursor-pointer place-items-center"
+		aria-label="Volume"
+	>
+		<progress class="progress h-1.5 w-20" value={value / 100} max={MAX_VOLUME / 100}></progress>
+	</button>
+{/snippet}
 
 <!-- Sticky to bottom of page, current song status -->
 {#snippet controls(song: Song)}
@@ -266,17 +303,25 @@
 		</div>
 	</div>
 
-	<div class="navbar-end lg:navbar-center w-auto max-w-lg flex-row gap-2 lg:w-full lg:flex-col">
-		<div class="flex flex-row place-items-center lg:hidden">
-			<span class="text-xs text-slate-300">
-				{formatSeconds(status.currentSeconds)}
-			</span>
+	<div
+		class="navbar-end lg:navbar-center w-auto max-w-lg flex-row gap-8 pr-4 lg:w-full lg:flex-col lg:gap-2"
+	>
+		<div class="flex flex-col lg:hidden">
+			<div class="flex flex-row place-items-center gap-2 place-self-end">
+				<span class="text-xs text-slate-300">
+					{formatSeconds(status.currentSeconds)}
+				</span>
 
-			<span> / </span>
+				<span> / </span>
 
-			<span class="text-xs text-slate-300">
-				{formatSeconds(status.lengthSeconds)}
-			</span>
+				<span class="text-xs text-slate-300">
+					{formatSeconds(status.lengthSeconds)}
+				</span>
+			</div>
+
+			<div class="flex flex-row">
+				{@render volume(status.volume)}
+			</div>
 		</div>
 
 		<button
@@ -294,7 +339,12 @@
 			<span class="text-xs text-slate-300">
 				{formatSeconds(status.currentSeconds)}
 			</span>
-			<button onmousedown={onMouseDown} class="flex w-full cursor-pointer">
+			<button
+				onmousedown={onSeekClick}
+				onmousemove={onSeekDrag}
+				class="flex w-full cursor-pointer"
+				aria-label="Seek"
+			>
 				<progress
 					class="progress h-1.5 w-full"
 					value={status.currentSeconds / status.lengthSeconds}
@@ -306,16 +356,18 @@
 			</span>
 		</div>
 	</div>
-	<div class="lg:navbar-end"></div>
+	<div class="lg:navbar-end hidden pr-4">
+		{@render volume(status.volume)}
+	</div>
 {/snippet}
 
 <footer
 	class="footer footer-horizontal footer-center bg-base-100 text-base-content rounded p-10 pb-30"
 >
 	<nav class="grid grid-flow-col gap-4">
-		<a class="link link-hover" href="mailto:bronifyplaceholders@gmail.com"
-			>Contact (for takedown requests or additions)</a
-		>
+		<a class="link link-hover" href="mailto:bronifyplaceholders@gmail.com">
+			Contact (for takedown requests or additions)
+		</a>
 	</nav>
 	<aside>
 		<p>
@@ -329,11 +381,27 @@
 		{@render controls(playing ?? songData[0])}
 	</div>
 
-	<button onmousedown={onMouseDown} onmousemove={onMouseMove} class="flex w-full cursor-pointer">
+	<button
+		onmousedown={onSeekClick}
+		onmousemove={onSeekDrag}
+		class="flex w-full cursor-pointer"
+		aria-label="Seek"
+	>
 		<progress
-			class="progress h-auto w-full !rounded-none lg:hidden lg:hidden [&::-moz-progress-bar]:rounded-l-none [&::-webkit-progress-bar]:rounded-l-none"
+			class="progress h-auto w-full !rounded-none lg:hidden [&::-moz-progress-bar]:rounded-l-none [&::-webkit-progress-bar]:rounded-l-none"
 			value={status.currentSeconds / status.lengthSeconds}
 			max={1}
 		></progress>
 	</button>
 </div>
+
+<style>
+	.hide-scrollbar::-webkit-scrollbar {
+		display: none;
+	}
+
+	.hide-scrollbar {
+		-ms-overflow-style: none;
+		scrollbar-width: none;
+	}
+</style>
