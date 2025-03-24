@@ -260,7 +260,7 @@
 			<span class="text-xs text-slate-300">
 				{formatSeconds(status.currentSeconds)}
 			</span>
-			<button onmousedown={onMouseDown} class="hidden w-full lg:flex">
+			<button onmousedown={onMouseDown} class="hidden w-full cursor-pointer lg:flex">
 				<progress
 					class="progress h-1.5 w-full"
 					value={status.currentSeconds / status.lengthSeconds}
