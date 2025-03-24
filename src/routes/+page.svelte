@@ -399,7 +399,7 @@
 		aria-label="Seek"
 	>
 		<progress
-			class="progress h-auto w-full !rounded-none lg:hidden [&::-moz-progress-bar]:rounded-l-none [&::-webkit-progress-bar]:rounded-l-none"
+			class="progress square-progress h-2 w-full !rounded-none lg:hidden"
 			value={status.currentSeconds / status.lengthSeconds}
 			max={1}
 		></progress>
@@ -414,5 +414,25 @@
 	.hide-scrollbar {
 		-ms-overflow-style: none;
 		scrollbar-width: none;
+	}
+
+	.square-progress::-webkit-progress-bar {
+		border-bottom-left-radius: 0;
+		border-top-left-radius: 0;
+	}
+
+	.square-progress::-webkit-progress-value {
+		border-bottom-left-radius: 0;
+		border-top-left-radius: 0;
+	}
+
+	.square-progress::-moz-progress-bar {
+		border-bottom-left-radius: 0;
+		border-top-left-radius: 0;
+	}
+
+	.square-progress::-moz-progress-value {
+		border-bottom-left-radius: 0;
+		border-top-left-radius: 0;
 	}
 </style>
