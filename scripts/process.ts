@@ -26,6 +26,8 @@ const songs: Song[] = [
 		title: 'The LeBron That I Used To Know',
 		artist: 'ilyaugust',
 		username: '.ilyaugust',
+		thumbnail:
+			'https://www.cantonrep.com/gcdn/authoring/2010/07/07/NREP/ghows-OH-58e8214e-a55b-49ee-bb5c-50cea622d300-225f1f5f.jpeg?width=660&height=788&fit=crop&format=pjpg&auto=webp',
 		tags: ['mid-tempo', 'reflective'],
 
 		youtube: 'Ewqz5BFC3L4'
@@ -34,6 +36,8 @@ const songs: Song[] = [
 		title: 'Let LeBron Know',
 		artist: 'ilyaugust',
 		username: '.ilyaugust',
+		thumbnail:
+			'https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2023-12/GettyImages-1804953858%20%281%29.jpg?h=920929c4&itok=qSPPtKit',
 		tags: ['upbeat', 'anthemic', 'motivational'],
 
 		youtube: 'eOugkPrO-Yw'
@@ -42,6 +46,8 @@ const songs: Song[] = [
 		title: 'LeBron Hour',
 		artist: 'ilyaugust',
 		username: '.ilyaugust',
+		thumbnail:
+			'https://st4.depositphotos.com/21607914/23442/i/450/depositphotos_234423390-stock-photo-nba-star-lebron-james-los.jpg',
 		tags: ['high-energy', 'hype', 'triumphant'],
 
 		youtube: 'NjvaYclj5f4'
@@ -50,6 +56,8 @@ const songs: Song[] = [
 		title: 'Towards The Bron',
 		artist: 'ilyaugust',
 		username: '.ilyaugust',
+		thumbnail:
+			'https://st4.depositphotos.com/21607914/23637/i/450/depositphotos_236372956-stock-photo-nba-star-lebron-james-cleveland.jpg',
 		tags: ['cinematic', 'slow-build', 'inspirational'],
 
 		youtube: '7SlHETBLpOo'
@@ -58,6 +66,8 @@ const songs: Song[] = [
 		title: "I'd Catch A LeNade For You",
 		artist: 'ilyaugust',
 		username: '.ilyaugust',
+		thumbnail:
+			'https://www.cantonrep.com/gcdn/authoring/2010/07/07/NREP/ghows-OH-58e8214e-a55b-49ee-bb5c-50cea622d300-225f1f5f.jpeg?width=660&height=788&fit=crop&format=pjpg&auto=webp',
 		tags: ['emotional', 'ballad', 'dramatic'],
 
 		youtube: 'oEnqveeyids'
@@ -82,6 +92,8 @@ const songs: Song[] = [
 		title: 'Marry Bron',
 		artist: 'ilyaugust',
 		username: '.ilyaugust',
+		thumbnail:
+			'https://media-api.xogrp.com/images/a89f2c95-2e3a-44d9-9793-0fa7faac724d~rs_768.h-cr_0.139.1080.1219',
 		tags: ['romantic', 'slow-jam', 'sincere'],
 
 		youtube: 'V6i7vkI3dpE'
@@ -90,6 +102,8 @@ const songs: Song[] = [
 		title: 'Bring Me Back To Bron',
 		artist: 'ilyaugust',
 		username: '.ilyaugust',
+		thumbnail:
+			'https://image-cdn.essentiallysports.com/wp-content/uploads/USATSI_24369675.jpg?width=600',
 		tags: ['nostalgic', 'emotional', 'mid-tempo'],
 
 		youtube: 'IY_XvFqfzds'
