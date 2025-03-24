@@ -6,7 +6,7 @@
 	import Player from 'youtube-player';
 	import type { YouTubePlayer } from 'youtube-player/dist/types';
 
-	type Song = (typeof songData)[0];
+	type Song = (typeof songData)[number];
 
 	const thumbnails: Record<string, { default: string }> = import.meta.glob(
 		'/src/lib/content/*.webp',
@@ -21,7 +21,7 @@
 	import { onMount } from 'svelte';
 
 	const songIndex = new Fuse(songData, {
-		keys: ['title', 'artist', 'tags'],
+		keys: ['title', 'artist', 'tags', 'username'],
 		threshold: 0.4
 	});
 
@@ -210,7 +210,15 @@
 
 		<div class="flex flex-col gap-2">
 			<h3 class="text-md font-semibold">{song.title}</h3>
-			<p class="text-sm text-slate-300">By {song.artist}</p>
+			<span class="text-sm text-slate-300">
+				By
+				{#if song.username}
+					<a href="https://www.tiktok.com/@{song.username}" class="hover:underline">{song.artist}</a
+					>
+				{:else}
+					{song.artist}
+				{/if}
+			</span>
 		</div>
 
 		<div class="flex flex-row gap-1">
@@ -240,7 +248,15 @@
 
 		<div>
 			<h3 class="text-sm font-semibold">{song.title}</h3>
-			<p class="text-xs text-slate-300">By {song.artist}</p>
+			<span class="text-sm text-slate-300">
+				By
+				{#if song.username}
+					<a href="https://www.tiktok.com/@{song.username}" class="hover:underline">{song.artist}</a
+					>
+				{:else}
+					{song.artist}
+				{/if}
+			</span>
 		</div>
 	</div>
 
@@ -276,6 +292,23 @@
 	<div class="lg:navbar-end"></div>
 {/snippet}
 
-<div class="bg-base-100 navbar fixed right-0 bottom-0 left-0 h-20 flex-row gap-0 p-4">
+<footer
+	class="footer footer-horizontal footer-center bg-base-100 text-base-content rounded p-10 pb-30"
+>
+	<nav class="grid grid-flow-col gap-4">
+		<a class="link link-hover" href="mailto:bronifyplaceholders@gmail.com"
+			>Contact (for takedown requests or additions)</a
+		>
+	</nav>
+	<aside>
+		<p>
+			Copyright © {new Date().getFullYear()} - No rights reserved by Bronify. Feel free to take anything.
+		</p>
+	</aside>
+</footer>
+
+<div
+	class="bg-base-100 navbar border-base-200 fixed right-0 bottom-0 left-0 h-20 flex-row gap-0 border-t p-4"
+>
 	{@render controls(playing ?? songData[0])}
 </div>

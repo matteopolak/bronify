@@ -10,6 +10,7 @@ type Song = {
 	id?: string;
 	title: string;
 	artist: string;
+	username?: string;
 	thumbnail?: string;
 	tags: string[];
 
@@ -24,6 +25,7 @@ const songs: Song[] = [
 	{
 		title: 'The LeBron That I Used To Know',
 		artist: 'ilyaugust',
+		username: '.ilyaugust',
 		tags: ['chill', 'lofi'],
 
 		youtube: 'Ewqz5BFC3L4'
@@ -31,6 +33,7 @@ const songs: Song[] = [
 	{
 		title: 'Let LeBron Know',
 		artist: 'ilyaugust',
+		username: '.ilyaugust',
 		tags: ['chill', 'lofi'],
 
 		youtube: 'eOugkPrO-Yw'
@@ -38,6 +41,7 @@ const songs: Song[] = [
 	{
 		title: 'LeBron Hour',
 		artist: 'ilyaugust',
+		username: '.ilyaugust',
 		tags: ['chill', 'lofi'],
 
 		youtube: 'NjvaYclj5f4'
@@ -45,6 +49,7 @@ const songs: Song[] = [
 	{
 		title: 'Towards The Bron',
 		artist: 'ilyaugust',
+		username: '.ilyaugust',
 		tags: ['chill', 'lofi'],
 
 		youtube: '7SlHETBLpOo'
@@ -52,6 +57,7 @@ const songs: Song[] = [
 	{
 		title: "I'd Catch A LeNade For You",
 		artist: 'ilyaugust',
+		username: '.ilyaugust',
 		tags: ['chill', 'lofi'],
 
 		youtube: 'oEnqveeyids'
@@ -59,6 +65,7 @@ const songs: Song[] = [
 	{
 		title: "That's Bron",
 		artist: 'ilyaugust',
+		username: '.ilyaugust',
 		tags: ['chill', 'lofi'],
 
 		youtube: 'kbUbLKTzHpE'
@@ -66,6 +73,7 @@ const songs: Song[] = [
 	{
 		title: 'I Write Brons Not Brongedies',
 		artist: 'ilyaugust',
+		username: '.ilyaugust',
 		tags: ['chill', 'lofi'],
 
 		youtube: '_Qgzr4RZnOE'
@@ -73,6 +81,7 @@ const songs: Song[] = [
 	{
 		title: 'Marry Bron',
 		artist: 'ilyaugust',
+		username: '.ilyaugust',
 		tags: ['chill', 'lofi'],
 
 		youtube: 'V6i7vkI3dpE'
@@ -80,13 +89,15 @@ const songs: Song[] = [
 	{
 		title: 'Bring Me Back To Bron',
 		artist: 'ilyaugust',
+		username: '.ilyaugust',
 		tags: ['chill', 'lofi'],
 
 		youtube: 'IY_XvFqfzds'
 	},
 	{
 		title: 'Dunk with a Smile',
-		artist: '*wicked*',
+		artist: 'gouenji',
+		username: 'g0uenji',
 		thumbnail: 'https://i.ytimg.com/vi/NwQPDUlJKiI/maxresdefault.jpg',
 		tags: ['chill', 'lofi'],
 
@@ -159,7 +170,25 @@ const songs: Song[] = [
 
 		spotify: '2DXWNVR00eZMyVEQp5qx2y',
 		youtube: 's9g_Qo-YgvY'
+	},
+	{
+		title: 'Lebron(aback girl)',
+		artist: 'mbthewave',
+		username: 'mbthewave',
+		tags: ['chill', 'lofi'],
+
+		youtube: 'gYTsoZpx-DI'
 	}
+	/*
+	{
+		title: 'LeBron LeBron LeBron James',
+		artist: 'jettasnfl',
+		username: 'jettasnfl',
+		tags: ['chill', 'lofi'],
+
+		youtube: ''
+	}
+	*/
 ] satisfies Song[];
 
 const outDir = 'src/lib/content';
@@ -204,7 +233,7 @@ async function main() {
 	// write songs
 	fs.writeFileSync(path.join(outDir, 'songs.json'), JSON.stringify(songs));
 
-	const index = Fuse.createIndex(['title', 'artist', 'tags'], songs);
+	const index = Fuse.createIndex(['title', 'artist', 'tags', 'username'], songs);
 
 	fs.writeFileSync(path.join(outDir, 'index.json'), JSON.stringify(index.toJSON()));
 }
