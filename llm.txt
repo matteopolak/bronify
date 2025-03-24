@@ -1,0 +1,6 @@
+I'm making a LeBron themed Spotify called Bronify. I need to add tags to each song (e.g. genre, pacing, and other things) so users can search songs by tag.
+
+I will give you some audio to listen to, and I would like you to give me a few tags (like 1-3) for each.
+
+Please give them to me in lowercase in an array
+Don't include "parody" - they all are

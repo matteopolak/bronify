@@ -106,6 +106,12 @@
 		player.seekTo(status.currentSeconds, true);
 	}
 
+	function onMouseMove(event: MouseEvent) {
+		if (event.buttons !== 1) return;
+
+		onMouseDown(event);
+	}
+
 	function formatSeconds(seconds: number) {
 		const minutes = Math.floor(seconds / 60);
 		const remainingSeconds = Math.floor(seconds % 60);
@@ -231,7 +237,7 @@
 
 <div class="flex w-full place-content-center">
 	<div
-		class="grid max-w-7xl grid-cols-1 gap-8 p-8 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5"
+		class="grid max-w-7xl grid-cols-1 gap-4 p-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5"
 	>
 		{#each songs as song (song.id)}
 			{@render cover(song)}
@@ -260,7 +266,19 @@
 		</div>
 	</div>
 
-	<div class="navbar-end lg:navbar-center w-auto max-w-lg flex-col gap-2 lg:w-full">
+	<div class="navbar-end lg:navbar-center w-auto max-w-lg flex-row gap-2 lg:w-full lg:flex-col">
+		<div class="flex flex-row place-items-center lg:hidden">
+			<span class="text-xs text-slate-300">
+				{formatSeconds(status.currentSeconds)}
+			</span>
+
+			<span> / </span>
+
+			<span class="text-xs text-slate-300">
+				{formatSeconds(status.lengthSeconds)}
+			</span>
+		</div>
+
 		<button
 			onclick={() => toggle(song)}
 			class="bg-base-content cursor-pointer rounded-full p-2 text-left text-black transition-all duration-100 ease-in-out hover:-m-0.5 hover:p-2.5"
@@ -272,18 +290,17 @@
 			{/if}
 		</button>
 
-		<div class="flex flex-row place-items-center gap-2 lg:w-full">
+		<div class="hidden flex-row place-items-center gap-2 lg:flex lg:w-full">
 			<span class="text-xs text-slate-300">
 				{formatSeconds(status.currentSeconds)}
 			</span>
-			<button onmousedown={onMouseDown} class="hidden w-full cursor-pointer lg:flex">
+			<button onmousedown={onMouseDown} class="flex w-full cursor-pointer">
 				<progress
 					class="progress h-1.5 w-full"
 					value={status.currentSeconds / status.lengthSeconds}
 					max={1}
 				></progress>
 			</button>
-			<span class="lg:hidden"> / </span>
 			<span class="text-xs text-slate-300">
 				{formatSeconds(status.lengthSeconds)}
 			</span>
@@ -307,8 +324,16 @@
 	</aside>
 </footer>
 
-<div
-	class="bg-base-100 navbar border-base-200 fixed right-0 bottom-0 left-0 h-20 flex-row gap-0 border-t p-4"
->
-	{@render controls(playing ?? songData[0])}
+<div class="bg-base-100 border-base-200 fixed right-0 bottom-0 left-0 border-t">
+	<div class="navbar h-20">
+		{@render controls(playing ?? songData[0])}
+	</div>
+
+	<button onmousedown={onMouseDown} onmousemove={onMouseMove} class="flex w-full cursor-pointer">
+		<progress
+			class="progress h-auto w-full !rounded-none lg:hidden lg:hidden [&::-moz-progress-bar]:rounded-l-none [&::-webkit-progress-bar]:rounded-l-none"
+			value={status.currentSeconds / status.lengthSeconds}
+			max={1}
+		></progress>
+	</button>
 </div>

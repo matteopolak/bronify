@@ -26,7 +26,7 @@ const songs: Song[] = [
 		title: 'The LeBron That I Used To Know',
 		artist: 'ilyaugust',
 		username: '.ilyaugust',
-		tags: ['chill', 'lofi'],
+		tags: ['mid-tempo', 'reflective'],
 
 		youtube: 'Ewqz5BFC3L4'
 	},
@@ -34,7 +34,7 @@ const songs: Song[] = [
 		title: 'Let LeBron Know',
 		artist: 'ilyaugust',
 		username: '.ilyaugust',
-		tags: ['chill', 'lofi'],
+		tags: ['upbeat', 'anthemic', 'motivational'],
 
 		youtube: 'eOugkPrO-Yw'
 	},
@@ -42,7 +42,7 @@ const songs: Song[] = [
 		title: 'LeBron Hour',
 		artist: 'ilyaugust',
 		username: '.ilyaugust',
-		tags: ['chill', 'lofi'],
+		tags: ['high-energy', 'hype', 'triumphant'],
 
 		youtube: 'NjvaYclj5f4'
 	},
@@ -50,7 +50,7 @@ const songs: Song[] = [
 		title: 'Towards The Bron',
 		artist: 'ilyaugust',
 		username: '.ilyaugust',
-		tags: ['chill', 'lofi'],
+		tags: ['cinematic', 'slow-build', 'inspirational'],
 
 		youtube: '7SlHETBLpOo'
 	},
@@ -58,7 +58,7 @@ const songs: Song[] = [
 		title: "I'd Catch A LeNade For You",
 		artist: 'ilyaugust',
 		username: '.ilyaugust',
-		tags: ['chill', 'lofi'],
+		tags: ['emotional', 'ballad', 'dramatic'],
 
 		youtube: 'oEnqveeyids'
 	},
@@ -66,7 +66,7 @@ const songs: Song[] = [
 		title: "That's Bron",
 		artist: 'ilyaugust',
 		username: '.ilyaugust',
-		tags: ['chill', 'lofi'],
+		tags: ['catchy', 'upbeat', 'confident'],
 
 		youtube: 'kbUbLKTzHpE'
 	},
@@ -74,7 +74,7 @@ const songs: Song[] = [
 		title: 'I Write Brons Not Brongedies',
 		artist: 'ilyaugust',
 		username: '.ilyaugust',
-		tags: ['chill', 'lofi'],
+		tags: ['theatrical', 'high-energy', 'emo-pop'],
 
 		youtube: '_Qgzr4RZnOE'
 	},
@@ -82,7 +82,7 @@ const songs: Song[] = [
 		title: 'Marry Bron',
 		artist: 'ilyaugust',
 		username: '.ilyaugust',
-		tags: ['chill', 'lofi'],
+		tags: ['romantic', 'slow-jam', 'sincere'],
 
 		youtube: 'V6i7vkI3dpE'
 	},
@@ -90,7 +90,7 @@ const songs: Song[] = [
 		title: 'Bring Me Back To Bron',
 		artist: 'ilyaugust',
 		username: '.ilyaugust',
-		tags: ['chill', 'lofi'],
+		tags: ['nostalgic', 'emotional', 'mid-tempo'],
 
 		youtube: 'IY_XvFqfzds'
 	},
@@ -99,7 +99,7 @@ const songs: Song[] = [
 		artist: 'gouenji',
 		username: 'g0uenji',
 		thumbnail: 'https://i.ytimg.com/vi/NwQPDUlJKiI/maxresdefault.jpg',
-		tags: ['chill', 'lofi'],
+		tags: ['playful', 'funky', 'feel-good'],
 
 		spotify: '03e1DoLgfvtFGeMqOQRO5g',
 		youtube: '1C7-wKtDRG0'
@@ -108,7 +108,7 @@ const songs: Song[] = [
 		title: 'Thinking Bout Lebron',
 		artist: 'DARK MEAT UPC',
 		thumbnail: 'https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84e84b833ace730c9b3bdbb9d1',
-		tags: ['chill', 'lofi'],
+		tags: ['emotional', 'r&b', 'yearning'],
 
 		spotify: '3VKiLsUzx0hT8zLAARxESG',
 		youtube: 'UUY_uOSSnYw'
@@ -117,7 +117,7 @@ const songs: Song[] = [
 		title: 'I Believe in Lebron',
 		artist: 'DARK MEAT UPC',
 		thumbnail: 'https://i.ytimg.com/vi/t1mTgxXCc9o/maxresdefault.jpg',
-		tags: ['chill', 'lofi'],
+		tags: ['inspirational', 'anthemic', 'uplifting'],
 
 		spotify: '0lpp83OLbp8DdTzM7Q9OLi',
 		youtube: 't1mTgxXCc9o'
@@ -126,7 +126,7 @@ const songs: Song[] = [
 		title: 'Towards The Bron',
 		artist: 'DARK MEAT UPC',
 		thumbnail: 'https://i.ytimg.com/vi/6QRPvIsH88s/maxresdefault.jpg',
-		tags: ['chill', 'lofi'],
+		tags: ['cinematic', 'epic', 'motivational'],
 
 		spotify: '0izzGvHBiBNMiGPIQP76aW',
 		youtube: 'yTMTXh2pT2I'
@@ -136,7 +136,7 @@ const songs: Song[] = [
 		artist: 'DARK MEAT UPC',
 		thumbnail:
 			'https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/04/896/500/lebron-hyped-playoffs.jpg?ve=1&tl=1',
-		tags: ['chill', 'lofi'],
+		tags: ['moody', 'introspective', 'modern-rock'],
 
 		spotify: '3doVZI24VAUTrXWDTbPTl6',
 		youtube: 'Til0sIaxzbY'
@@ -146,7 +146,7 @@ const songs: Song[] = [
 		artist: 'DARK MEAT UPC',
 		thumbnail:
 			'https://www.usatoday.com/gcdn/presto/2023/04/25/USAT/ae6c67f6-bec1-4f30-aaa9-bb81e0488a51-USP_NBA__Playoffs-Memphis_Grizzlies_at_Los_Angeles_2.jpg',
-		tags: ['chill', 'lofi'],
+		tags: ['confident', 'anthemic', 'swagger'],
 
 		spotify: '7Dt40sqcEpsyQ43vGyoHsP',
 		youtube: '-__U4OTAoDQ'
@@ -156,7 +156,7 @@ const songs: Song[] = [
 		artist: 'DARK MEAT UPC',
 		thumbnail:
 			'https://thespun.com/.image/t_share/MjAxODY2ODQyNzgyODM2MDAy/los-angeles-lakers-v-sacramento-kings.jpg',
-		tags: ['chill', 'lofi'],
+		tags: ['theatrical', 'retro', 'playful'],
 
 		spotify: '3w327RoLVeZFqs0YttFWQp',
 		youtube: 'b1d86TJnjEo'
@@ -166,18 +166,10 @@ const songs: Song[] = [
 		artist: 'DARK MEAT UPC',
 		thumbnail:
 			'https://phantom-marca.unidadeditorial.es/1e46892a28a1a1e8cb49a2ed030e250d/resize/828/f/jpg/assets/multimedia/imagenes/2024/11/30/17329966091923.jpg',
-		tags: ['chill', 'lofi'],
+		tags: ['emo-pop', 'high-energy', 'dramatic'],
 
 		spotify: '2DXWNVR00eZMyVEQp5qx2y',
 		youtube: 's9g_Qo-YgvY'
-	},
-	{
-		title: 'Lebron(aback girl)',
-		artist: 'mbthewave',
-		username: 'mbthewave',
-		tags: ['chill', 'lofi'],
-
-		youtube: 'gYTsoZpx-DI'
 	}
 	/*
 	{
