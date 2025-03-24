@@ -140,6 +140,13 @@
 
 <svelte:head>
 	<link rel="icon" href={bronify.img.src} />
+	<link rel="apple-touch-icon" href={bronify.img.src} />
+
+	<!-- Manifest -->
+	<link rel="manifest" href="/manifest.webmanifest" />
+
+	<meta name="description" content="Bronify: LeMusic for everyone" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<title>Bronify: LeMusic for everyone</title>
 </svelte:head>
 
