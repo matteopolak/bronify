@@ -213,8 +213,11 @@
 {#snippet cover(song: Song)}
 	{@const url = thumbnails[`/src/lib/content/${song.id}.webp`].default}
 
-	<div
-		class="group card hover:bg-base-200 flex h-28 w-auto flex-row gap-2 p-2 transition-all duration-100 sm:h-auto sm:flex-col"
+	<button
+		class="group card hover:bg-base-200 flex h-28 w-auto cursor-pointer flex-row gap-2 p-2 text-left transition-all duration-100 sm:h-auto sm:flex-col"
+		onclick={() => toggle(song)}
+		role="button"
+		aria-label="Play song"
 	>
 		<div class="relative">
 			<img
@@ -224,8 +227,7 @@
 			/>
 
 			<!-- Play button -->
-			<button
-				onclick={() => toggle(song)}
+			<div
 				class="sm:bg-primary absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 cursor-pointer rounded-full p-3.5 text-left text-white transition-all duration-100 ease-in-out group-hover:opacity-100 sm:top-auto sm:right-2 sm:bottom-2 sm:left-auto sm:translate-x-0 sm:translate-y-0 sm:text-black sm:opacity-0 sm:hover:right-[0.45rem] sm:hover:bottom-[0.45rem] sm:hover:p-[0.925rem]"
 			>
 				{#if song.id === playing?.id && !status.paused}
@@ -233,7 +235,7 @@
 				{:else}
 					<Play fill="currentColor" size="1.5em" />
 				{/if}
-			</button>
+			</div>
 		</div>
 
 		<div class="flex flex-col gap-1">
@@ -242,8 +244,10 @@
 				<span class="text-sm text-slate-300">
 					By
 					{#if song.username}
-						<a href="https://www.tiktok.com/@{song.username}" class="hover:underline"
-							>{song.artist}</a
+						<a
+							href="https://www.tiktok.com/@{song.username}"
+							onclick={(e) => e.stopPropagation()}
+							class="hover:underline">{song.artist}</a
 						>
 					{:else}
 						{song.artist}
@@ -257,7 +261,7 @@
 				{/each}
 			</div>
 		</div>
-	</div>
+	</button>
 {/snippet}
 
 <div class="flex w-full place-content-center">
