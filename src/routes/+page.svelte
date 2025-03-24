@@ -216,11 +216,11 @@
 	<button
 		class="group card hover:bg-base-200 flex h-28 w-auto cursor-pointer flex-row gap-2 p-2 text-left transition-all duration-100 sm:h-auto sm:flex-col"
 		onclick={() => toggle(song)}
-		role="button"
 		aria-label="Play song"
 	>
 		<div class="relative">
 			<img
+				loading="lazy"
 				src={url}
 				alt={song.title}
 				class="h-24 w-24 rounded-lg brightness-50 sm:h-auto sm:w-auto sm:brightness-100"
