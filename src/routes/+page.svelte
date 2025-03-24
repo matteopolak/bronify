@@ -2,7 +2,18 @@
 	import bronify from '$lib/images/bronify.png?enhanced';
 	import songData from '$lib/content/songs.json';
 
-	import { Play, Pause, Volume1, Volume2, VolumeX } from '@lucide/svelte';
+	import {
+		Play,
+		Pause,
+		Volume1,
+		Volume2,
+		VolumeX,
+		SkipBack,
+		SkipForward,
+		Repeat,
+		Repeat1,
+		Shuffle
+	} from '@lucide/svelte';
 	import Player from 'youtube-player';
 	import type { YouTubePlayer } from 'youtube-player/dist/types';
 
@@ -48,6 +59,17 @@
 		volume: 20
 	});
 
+	function normalizeIndex(index: number, length: number) {
+		return ((index % length) + length) % length;
+	}
+
+	function nextRelative(offset: number, overflow = true) {
+		const currentIndex = songs.findIndex((s) => s.id === playing?.id);
+		const nextIndex = normalizeIndex(currentIndex + offset, songs.length);
+
+		return toggle(songs[nextIndex]);
+	}
+
 	async function toggle(song: Song) {
 		if (playing?.id !== song.id) {
 			playing = undefined;
@@ -75,6 +97,9 @@
 	let playerElement: HTMLDivElement = $state()!;
 	let player: YouTubePlayer = $state()!;
 
+	let loopBehaviour: 'one' | 'all' | 'none' = $state('none');
+	let shuffleBehaviour: 'on' | 'off' = $state('off');
+
 	onMount(() => {
 		player = Player(playerElement, {
 			playerVars: {
@@ -91,7 +116,19 @@
 			}
 
 			if (event.data === 0) {
-				status.paused = true;
+				if (shuffleBehaviour === 'on') {
+					const nextIndex = Math.floor(Math.random() * songs.length);
+					return toggle(songs[nextIndex]);
+				}
+
+				if (loopBehaviour === 'one') {
+					await player.seekTo(0, true);
+					await player.playVideo();
+				} else if (loopBehaviour === 'all') {
+					await nextRelative(1);
+				} else {
+					await nextRelative(1, false);
+				}
 			}
 		});
 
@@ -304,7 +341,7 @@
 {#snippet controls(song: Song)}
 	{@const url = thumbnails[`/src/lib/content/${song.id}.webp`].default}
 
-	<div class="navbar-start h-16 grow gap-2 self-start md:self-auto">
+	<div class="navbar-start h-16 grow basis-full gap-2 self-start md:basis-auto md:self-auto">
 		<img src={url} alt={song.title} sizes="16px" class="h-full rounded-lg" />
 
 		<div>
@@ -319,12 +356,8 @@
 				{/if}
 			</span>
 		</div>
-	</div>
 
-	<div
-		class="navbar-end lg:navbar-center w-auto max-w-lg flex-row gap-8 pr-4 lg:w-full lg:flex-col lg:gap-2"
-	>
-		<div class="flex flex-col lg:hidden">
+		<div class="ml-auto flex flex-col lg:hidden">
 			<div class="flex flex-row place-items-center gap-2 place-self-end">
 				<span class="text-xs text-slate-300">
 					{formatSeconds(status.currentSeconds)}
@@ -341,17 +374,66 @@
 				{@render volume(status.volume)}
 			</div>
 		</div>
+	</div>
 
-		<button
-			onclick={() => toggle(song)}
-			class="bg-base-content cursor-pointer rounded-full p-2 text-left text-black transition-all duration-100 ease-in-out hover:-m-0.5 hover:p-2.5"
-		>
-			{#if !status.paused}
-				<Pause fill="currentColor" size="1em" />
-			{:else}
-				<Play fill="currentColor" size="1em" />
-			{/if}
-		</button>
+	<div
+		class="navbar-end lg:navbar-center w-auto max-w-lg flex-row gap-8 pr-4 lg:w-full lg:flex-col lg:gap-2"
+	>
+		<div class="flex flex-row gap-4">
+			<button
+				onclick={() => {
+					shuffleBehaviour = shuffleBehaviour === 'off' ? 'on' : 'off';
+				}}
+				class="cursor-pointer text-left transition-all duration-100 ease-in-out"
+				class:text-slate-400={shuffleBehaviour === 'off'}
+				class:hover:text-white={shuffleBehaviour === 'off'}
+				class:text-primary={shuffleBehaviour !== 'off'}
+			>
+				<Shuffle size="1.3em" />
+			</button>
+
+			<button
+				onclick={() => nextRelative(-1)}
+				class="cursor-pointer text-left text-slate-400 transition-all duration-100 ease-in-out hover:text-white"
+			>
+				<SkipBack fill="currentColor" size="1.3em" />
+			</button>
+
+			<button
+				onclick={() => toggle(song)}
+				class="bg-base-content cursor-pointer rounded-full p-2 text-left text-black transition-all duration-100 ease-in-out hover:-m-0.5 hover:p-2.5"
+			>
+				{#if !status.paused}
+					<Pause fill="currentColor" size="1em" />
+				{:else}
+					<Play fill="currentColor" size="1em" />
+				{/if}
+			</button>
+
+			<button
+				onclick={() => nextRelative(1)}
+				class="cursor-pointer text-left text-slate-400 transition-all duration-100 ease-in-out hover:text-white"
+			>
+				<SkipForward fill="currentColor" size="1.3em" />
+			</button>
+
+			<button
+				onclick={() => {
+					loopBehaviour =
+						loopBehaviour === 'none' ? 'all' : loopBehaviour === 'all' ? 'one' : 'none';
+				}}
+				class="cursor-pointer text-left transition-all duration-100 ease-in-out"
+				class:text-slate-400={loopBehaviour === 'none'}
+				class:hover:text-white={loopBehaviour === 'none'}
+				class:text-primary={loopBehaviour !== 'none'}
+			>
+				{#if loopBehaviour === 'one'}
+					<Repeat1 size="1.3em" />
+				{:else}
+					<Repeat size="1.3em" />
+				{/if}
+			</button>
+		</div>
 
 		<div class="hidden flex-row place-items-center gap-2 lg:flex lg:w-full">
 			<span class="text-xs text-slate-300">
@@ -395,7 +477,7 @@
 </footer>
 
 <div class="bg-base-100 border-base-200 fixed right-0 bottom-0 left-0 border-t">
-	<div class="navbar h-20">
+	<div class="navbar h-36 flex-wrap place-content-center md:h-20 md:flex-nowrap">
 		{@render controls(playing ?? songData[0])}
 	</div>
 
