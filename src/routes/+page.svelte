@@ -153,29 +153,31 @@
 		</a>
 	</div>
 
-	<label class="input input-lg navbar-center w-sm">
-		<svg class="h-[1.5em] opacity-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
-			><g
-				stroke-linejoin="round"
-				stroke-linecap="round"
-				stroke-width="2.5"
-				fill="none"
-				stroke="currentColor"
-				><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.3-4.3"></path></g
-			></svg
-		>
-		<input
-			bind:this={searchInput}
-			bind:value={search}
-			type="search"
-			class="grow"
-			placeholder="What do you want to play?"
-		/>
-		<kbd class="kbd kbd-sm">⌘</kbd>
-		<kbd class="kbd kbd-sm">K</kbd>
-	</label>
+	<div class="navbar-center">
+		<label class="input input-lg">
+			<svg class="h-[1.5em] opacity-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+				><g
+					stroke-linejoin="round"
+					stroke-linecap="round"
+					stroke-width="2.5"
+					fill="none"
+					stroke="currentColor"
+					><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.3-4.3"></path></g
+				></svg
+			>
+			<input
+				bind:this={searchInput}
+				bind:value={search}
+				type="search"
+				class="grow"
+				placeholder="What do you want to play?"
+			/>
+			<kbd class="kbd kbd-sm">⌘</kbd>
+			<kbd class="kbd kbd-sm">K</kbd>
+		</label>
+	</div>
 
-	<div class="navbar-end gap-2">
+	<div class="lg:navbar-end hidden gap-2">
 		<button class="btn btn-md" onclick={() => comingSoonModal.showModal()}>Sign in</button>
 		<button class="btn btn-md btn-primary" onclick={() => comingSoonModal.showModal()}
 			>Sign up</button
