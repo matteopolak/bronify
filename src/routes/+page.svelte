@@ -170,7 +170,7 @@
 	</form>
 </dialog>
 
-<div class="navbar px-12">
+<div class="navbar px-4 md:px-12">
 	<div class="md:navbar-start hidden">
 		<a href="/" class="flex flex-row place-items-center gap-2" aria-label="Bronify Home">
 			<enhanced:img src={bronify} alt="Bronify" sizes="48px" class="h-12 w-12" />
@@ -214,15 +214,19 @@
 	{@const url = thumbnails[`/src/lib/content/${song.id}.webp`].default}
 
 	<div
-		class="group card hover:bg-base-200 flex w-auto flex-col gap-2 p-2 transition-all duration-100"
+		class="group card hover:bg-base-200 flex h-28 w-auto flex-row gap-2 p-2 transition-all duration-100 sm:h-auto sm:flex-col"
 	>
 		<div class="relative">
-			<img src={url} alt={song.title} sizes="100px" class="h-auto w-auto rounded-lg" />
+			<img
+				src={url}
+				alt={song.title}
+				class="h-24 w-24 rounded-lg group-hover:brightness-50 sm:h-auto sm:w-auto sm:group-hover:brightness-100"
+			/>
 
 			<!-- Play button -->
 			<button
 				onclick={() => toggle(song)}
-				class="bg-primary absolute right-2 bottom-2 cursor-pointer rounded-full p-3.5 text-left text-black transition-all duration-100 ease-in-out hover:right-1.5 hover:bottom-1.5 hover:p-4 md:opacity-0 md:group-hover:opacity-100"
+				class="sm:bg-primary absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 cursor-pointer rounded-full p-3.5 text-left text-white opacity-0 transition-all duration-100 ease-in-out group-hover:opacity-100 sm:top-auto sm:right-2 sm:bottom-2 sm:left-auto sm:translate-x-0 sm:translate-y-0 sm:text-black sm:hover:right-[0.45rem] sm:hover:bottom-[0.45rem] sm:hover:p-[0.925rem]"
 			>
 				{#if song.id === playing?.id && !status.paused}
 					<Pause fill="currentColor" size="1.5em" />
@@ -232,30 +236,33 @@
 			</button>
 		</div>
 
-		<div class="flex flex-col">
-			<h3 class="text-md line-clamp-1 font-semibold">{song.title}</h3>
-			<span class="text-sm text-slate-300">
-				By
-				{#if song.username}
-					<a href="https://www.tiktok.com/@{song.username}" class="hover:underline">{song.artist}</a
-					>
-				{:else}
-					{song.artist}
-				{/if}
-			</span>
-		</div>
+		<div class="flex flex-col gap-1">
+			<div class="flex flex-col">
+				<h3 class="text-md line-clamp-1 font-semibold">{song.title}</h3>
+				<span class="text-sm text-slate-300">
+					By
+					{#if song.username}
+						<a href="https://www.tiktok.com/@{song.username}" class="hover:underline"
+							>{song.artist}</a
+						>
+					{:else}
+						{song.artist}
+					{/if}
+				</span>
+			</div>
 
-		<div class="hide-scrollbar flex flex-row flex-nowrap gap-1 overflow-x-auto">
-			{#each song.tags as tag (tag)}
-				<span class="badge badge-ghost break-keep">{tag}</span>
-			{/each}
+			<div class="hide-scrollbar mt-auto flex flex-row flex-nowrap gap-1 overflow-x-auto">
+				{#each song.tags as tag (tag)}
+					<span class="badge badge-ghost break-keep">{tag}</span>
+				{/each}
+			</div>
 		</div>
 	</div>
 {/snippet}
 
 <div class="flex w-full place-content-center">
 	<div
-		class="grid max-w-7xl grid-cols-1 gap-4 p-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5"
+		class="grid w-full max-w-7xl grid-cols-1 gap-4 p-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5"
 	>
 		{#each songs as song (song.id)}
 			{@render cover(song)}
