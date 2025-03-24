@@ -149,7 +149,7 @@
 <div class="navbar px-12">
 	<div class="navbar-start">
 		<a href="/" class="flex flex-row place-items-center gap-2" aria-label="Bronify Home">
-			<enhanced:img src={bronify} alt="Bronify" sizes="48px" class="h-auto w-auto" />
+			<enhanced:img src={bronify} alt="Bronify" sizes="48px" class="h-12" />
 		</a>
 	</div>
 
