@@ -220,13 +220,13 @@
 			<img
 				src={url}
 				alt={song.title}
-				class="h-24 w-24 rounded-lg group-hover:brightness-50 sm:h-auto sm:w-auto sm:group-hover:brightness-100"
+				class="h-24 w-24 rounded-lg brightness-50 sm:h-auto sm:w-auto sm:brightness-100"
 			/>
 
 			<!-- Play button -->
 			<button
 				onclick={() => toggle(song)}
-				class="sm:bg-primary absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 cursor-pointer rounded-full p-3.5 text-left text-white opacity-0 transition-all duration-100 ease-in-out group-hover:opacity-100 sm:top-auto sm:right-2 sm:bottom-2 sm:left-auto sm:translate-x-0 sm:translate-y-0 sm:text-black sm:hover:right-[0.45rem] sm:hover:bottom-[0.45rem] sm:hover:p-[0.925rem]"
+				class="sm:bg-primary absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 cursor-pointer rounded-full p-3.5 text-left text-white transition-all duration-100 ease-in-out group-hover:opacity-100 sm:top-auto sm:right-2 sm:bottom-2 sm:left-auto sm:translate-x-0 sm:translate-y-0 sm:text-black sm:opacity-0 sm:hover:right-[0.45rem] sm:hover:bottom-[0.45rem] sm:hover:p-[0.925rem]"
 			>
 				{#if song.id === playing?.id && !status.paused}
 					<Pause fill="currentColor" size="1.5em" />
