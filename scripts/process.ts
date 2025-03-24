@@ -19,6 +19,8 @@ type Song = {
 	appleMusic?: string;
 	soundcloud?: string;
 	other?: string;
+
+	lyrics?: boolean;
 };
 
 const songs: Song[] = [
@@ -230,8 +232,9 @@ async function main() {
 
 		fs.writeFileSync(path.join(outDir, `${id}.webp`), result);
 
-		// @ts-expect-error - a
 		song.thumbnail = undefined;
+		// located in static/lyrics/{id}.srt
+		song.lyrics = fs.existsSync(path.join('static', 'lyrics', `${id}.srt`));
 	}
 
 	songs.sort((a, b) => a.id!.localeCompare(b.id!));
