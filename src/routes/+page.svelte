@@ -147,14 +147,14 @@
 </dialog>
 
 <div class="navbar px-12">
-	<div class="navbar-start">
+	<div class="md:navbar-start hidden">
 		<a href="/" class="flex flex-row place-items-center gap-2" aria-label="Bronify Home">
 			<enhanced:img src={bronify} alt="Bronify" sizes="48px" class="h-12 w-12" />
 		</a>
 	</div>
 
-	<div class="navbar-center">
-		<label class="input input-lg">
+	<div class="navbar-center mx-auto w-full md:mx-0 md:w-auto">
+		<label class="input input-lg w-full">
 			<svg class="h-[1.5em] opacity-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
 				><g
 					stroke-linejoin="round"
@@ -177,7 +177,7 @@
 		</label>
 	</div>
 
-	<div class="lg:navbar-end hidden gap-2">
+	<div class="md:navbar-end hidden gap-2">
 		<button class="btn btn-md" onclick={() => comingSoonModal.showModal()}>Sign in</button>
 		<button class="btn btn-md btn-primary" onclick={() => comingSoonModal.showModal()}
 			>Sign up</button
@@ -198,7 +198,7 @@
 			<!-- Play button -->
 			<button
 				onclick={() => toggle(song)}
-				class="bg-primary absolute right-2 bottom-2 cursor-pointer rounded-full p-3.5 text-left text-black opacity-0 transition-all duration-100 ease-in-out group-hover:opacity-100 hover:right-1.5 hover:bottom-1.5 hover:p-4"
+				class="bg-primary absolute right-2 bottom-2 cursor-pointer rounded-full p-3.5 text-left text-black transition-all duration-100 ease-in-out hover:right-1.5 hover:bottom-1.5 hover:p-4 md:opacity-0 md:group-hover:opacity-100"
 			>
 				{#if song.id === playing?.id && !status.paused}
 					<Pause fill="currentColor" size="1.5em" />
