@@ -11,7 +11,7 @@
 	href="/artists/{artist.id}"
 	data-sveltekit-reload
 >
-	<div class="relative">
+	<div class="relative h-24 w-24 rounded-lg sm:h-auto sm:w-auto">
 		<img
 			loading="lazy"
 			src={url}

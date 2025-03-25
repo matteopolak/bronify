@@ -1,4 +1,6 @@
 <script lang="ts">
+	import { onDestroy, onMount } from 'svelte';
+
 	let {
 		srt,
 		currentTime,
@@ -79,12 +81,19 @@
 			});
 		}
 	});
+
+	onMount(() => {
+		document.documentElement.scrollTo({
+			top: 0,
+			behavior: 'smooth'
+		});
+	});
 </script>
 
 <!-- Scrollable lyrics container -->
 <div
 	bind:this={lyricsContainer}
-	class="hide-scrollbar h-[calc(100vh)] max-w-lg space-y-4 overflow-y-scroll px-2 py-4 text-2xl font-bold text-slate-400 md:text-3xl"
+	class="hide-scrollbar h-[calc(100vh)] max-w-lg space-y-4 overflow-y-scroll px-4 py-4 text-2xl font-bold text-slate-400 md:text-3xl"
 >
 	<div class="pt-[50vh]"></div>
 
