@@ -88,7 +88,7 @@
 	});
 
 	onDestroy(() => {
-		player.destroy();
+		player?.destroy();
 	});
 </script>
 
