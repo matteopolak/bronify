@@ -1,8 +1,13 @@
 <script lang="ts">
-	let { srt, currentTime } = $props<{
+	let {
+		srt,
+		currentTime,
+		onLyricClick
+	}: {
 		srt: string;
 		currentTime: number;
-	}>();
+		onLyricClick: (start: number) => void;
+	} = $props();
 
 	function parseSRT(srt: string) {
 		const regex =
@@ -30,8 +35,9 @@
 	}
 
 	let lyrics = $derived(parseSRT(srt));
-	let activeIndex = $state(0);
+	let activeIndex = $state(-1);
 	let lyricsContainer: HTMLDivElement;
+	let lyricElements: HTMLElement[] = $state([]);
 
 	$effect(() => {
 		let lastActiveIndex = activeIndex;
@@ -64,17 +70,13 @@
 
 		if (lastActiveIndex !== activeIndex) {
 			// Scroll smoothly in the parent container instead of jumping
-			const activeElement = document.querySelector('.active');
+			const activeElement = lyricElements[activeIndex];
 
-			if (activeElement && lyricsContainer) {
-				lyricsContainer.scrollTo({
-					top:
-						activeElement.offsetTop -
-						lyricsContainer.clientHeight / 2 +
-						activeElement.clientHeight / 2,
-					behavior: 'smooth'
-				});
-			}
+			// scroll to the line such that it's in the middle of the container
+			lyricsContainer.scrollTo({
+				top: activeElement.offsetTop - lyricsContainer.clientHeight / 2,
+				behavior: 'smooth'
+			});
 		}
 	});
 </script>
@@ -82,15 +84,32 @@
 <!-- Scrollable lyrics container -->
 <div
 	bind:this={lyricsContainer}
-	class="pointer-events-auto h-[50vh] max-w-lg space-y-4 overflow-y-auto text-3xl font-bold text-slate-400"
+	class="hide-scrollbar h-[calc(100vh)] max-w-lg space-y-4 overflow-y-scroll px-2 py-4 text-2xl font-bold text-slate-400 md:text-3xl"
 >
+	<div class="pt-[50vh]"></div>
+
 	{#each lyrics as lyric, i (lyric.start)}
-		<p
+		<button
 			id="lyric-{i}"
 			class:text-white={i === activeIndex}
-			class="leading-9 transition-all duration-300 ease-in-out"
+			class="block cursor-pointer text-left leading-9 transition-all duration-300 ease-in-out hover:text-white"
+			bind:this={lyricElements[i]}
+			onclick={() => onLyricClick(lyric.start)}
 		>
 			{lyric.text}
-		</p>
+		</button>
 	{/each}
+
+	<div class="pt-[50vh]"></div>
 </div>
+
+<style>
+	.hide-scrollbar::-webkit-scrollbar {
+		display: none;
+	}
+
+	.hide-scrollbar {
+		-ms-overflow-style: none;
+		scrollbar-width: none;
+	}
+</style>
