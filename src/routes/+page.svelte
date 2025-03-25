@@ -199,9 +199,9 @@
 
 {#if srt === undefined || !settings.lyrics}
 	<!-- Search results -->
-	<div class="flex w-full flex-col place-items-center">
+	<div class="flex w-full flex-col place-items-center gap-6">
 		<div
-			class="grid w-full max-w-7xl grid-cols-3 gap-4 p-2 sm:grid-cols-5 md:grid-cols-6 lg:grid-cols-7"
+			class="grid w-full max-w-7xl grid-cols-3 gap-4 p-2 sm:grid-cols-3 md:grid-cols-5 lg:grid-cols-8"
 		>
 			{#each artists as artist (artist.id)}
 				<Artist {artist} />

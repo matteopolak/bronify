@@ -7,7 +7,7 @@
 </script>
 
 <a
-	class="group card hover:bg-base-200 flex h-28 w-auto cursor-pointer flex-row gap-2 p-2 text-left transition-all duration-100 sm:h-auto sm:flex-col"
+	class="group card hover:bg-base-200 flex h-28 w-auto cursor-pointer flex-col gap-2 p-2 text-left transition-all duration-100 sm:h-auto"
 	href="/artists/{artist.id}"
 >
 	<div class="relative">
