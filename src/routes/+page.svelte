@@ -291,15 +291,17 @@
 			/>
 
 			<!-- Various badges (top right) like YouTube, Spotify, lyrics support -->
-			<div class="absolute top-2 right-2 flex flex-row gap-1">
+			<div class="absolute top-2 left-2 flex flex-row gap-1 text-xs md:text-base">
 				{#if song.lyrics}
 					<MicVocal size="1.2em" />
 				{/if}
+			</div>
 
+			<div class="absolute top-2 right-2 flex flex-row gap-1 text-xs md:text-base">
 				<a
 					href="https://youtube.com/watch?v=${song.youtube}"
 					aria-label="YouTube"
-					on:click={(e) => e.stopPropagation()}
+					onclick={(e) => e.stopPropagation()}
 				>
 					<svg
 						width="313.23315mm"
@@ -334,7 +336,7 @@
 					<a
 						href="https://open.spotify.com/track/${song.spotify}"
 						aria-label="Spotify"
-						on:click={(e) => e.stopPropagation()}
+						onclick={(e) => e.stopPropagation()}
 					>
 						<svg
 							xmlns="http://www.w3.org/2000/svg"
@@ -462,7 +464,7 @@
 	<div
 		class="navbar-end lg:navbar-center w-auto max-w-lg flex-row gap-8 pr-4 lg:w-full lg:flex-col lg:gap-2"
 	>
-		<div class="flex flex-row gap-4">
+		<div class="flex flex-row gap-4 md:pr-7 lg:pr-0">
 			<button
 				onclick={() => {
 					shuffleBehaviour = shuffleBehaviour === 'off' ? 'on' : 'off';
@@ -515,6 +517,16 @@
 				{:else}
 					<Repeat size="1.3em" />
 				{/if}
+			</button>
+
+			<button
+				onclick={() => (lyricsBehaviour = lyricsBehaviour === 'off' ? 'on' : 'off')}
+				class="absolute right-4 bottom-[1.9rem] cursor-pointer self-end text-left transition-all duration-100 ease-in-out lg:hidden"
+				class:text-slate-400={lyricsBehaviour === 'off'}
+				class:hover:text-white={lyricsBehaviour === 'off'}
+				class:text-white={lyricsBehaviour !== 'off'}
+			>
+				<MicVocal size="1.3em" />
 			</button>
 		</div>
 
@@ -581,7 +593,7 @@
 </footer>
 
 <div class="bg-base-100 border-base-200 fixed right-0 bottom-0 left-0 border-t">
-	<div class="navbar h-36 flex-wrap place-content-center md:h-20 md:flex-nowrap">
+	<div class="navbar relative h-36 flex-wrap place-content-center md:h-20 md:flex-nowrap">
 		{@render controls(playing ?? songData[0])}
 	</div>
 
