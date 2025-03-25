@@ -81,6 +81,12 @@ const artists: Artist[] = [
 		id: 'DARK MEAT UPC',
 		thumbnail:
 			'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=b4f3d28f&x-expires=1743033600&x-signature=UpRKvnkCHQC488O2LLvopgoMxhw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva'
+	},
+	{
+		id: 'Talented Blake',
+		tiktok: 'imakeparodyzz',
+		thumbnail:
+			'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/783adb9a9c8f63e0841349c8614f9360~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=64e0ac41&x-expires=1743112800&x-signature=cBsiLh1rLQhDVrwLi%2BR1e%2BW8oBc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva'
 	}
 ];
 
@@ -209,7 +215,7 @@ const songs: Song[] = [
 	},
 	{
 		title: 'Thinking Bout Lebron',
-		artist: 'DARK MEAT UPC',
+		artist: 'ilyaugust',
 		thumbnail: 'https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84e84b833ace730c9b3bdbb9d1',
 		tags: ['emotional', 'r&b', 'yearning'],
 
@@ -227,7 +233,7 @@ const songs: Song[] = [
 	},
 	{
 		title: 'Towards The Bron',
-		artist: 'DARK MEAT UPC',
+		artist: 'ilyaugust',
 		thumbnail: 'https://i.ytimg.com/vi/6QRPvIsH88s/maxresdefault.jpg',
 		tags: ['cinematic', 'epic', 'motivational'],
 
@@ -236,7 +242,7 @@ const songs: Song[] = [
 	},
 	{
 		title: 'Man On The Lakers',
-		artist: 'DARK MEAT UPC',
+		artist: 'Talented Blake',
 		thumbnail:
 			'https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/04/896/500/lebron-hyped-playoffs.jpg?ve=1&tl=1',
 		tags: ['moody', 'introspective', 'modern-rock'],
@@ -246,7 +252,7 @@ const songs: Song[] = [
 	},
 	{
 		title: 'Thats Bron',
-		artist: 'DARK MEAT UPC',
+		artist: 'ilyaugust',
 		thumbnail:
 			'https://www.usatoday.com/gcdn/presto/2023/04/25/USAT/ae6c67f6-bec1-4f30-aaa9-bb81e0488a51-USP_NBA__Playoffs-Memphis_Grizzlies_at_Los_Angeles_2.jpg',
 		tags: ['confident', 'anthemic', 'swagger'],
@@ -256,7 +262,7 @@ const songs: Song[] = [
 	},
 	{
 		title: 'Oh Mister Lebron',
-		artist: 'DARK MEAT UPC',
+		artist: 'ilyaugust',
 		thumbnail:
 			'https://thespun.com/.image/t_share/MjAxODY2ODQyNzgyODM2MDAy/los-angeles-lakers-v-sacramento-kings.jpg',
 		tags: ['theatrical', 'retro', 'playful'],
