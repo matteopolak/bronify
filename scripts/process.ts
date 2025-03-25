@@ -32,7 +32,7 @@ type Song = {
 
 type Artist = {
 	id: string;
-	thumbnail: string;
+	thumbnail?: string;
 	tiktok?: string;
 };
 
@@ -47,6 +47,24 @@ const albums: Album[] = [
 ];
 
 const artists: Artist[] = [
+	{
+		id: 'nacuri',
+		tiktok: 'nacuri',
+		thumbnail:
+			'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3a17ab744b86fb847936e1f753369065~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=9216ec2a&x-expires=1743048000&x-signature=S14iR47zUeSGJs0H0kR4YE6O5E8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva'
+	},
+	{
+		id: 'izzydrip',
+		tiktok: 'izzydrip',
+		thumbnail:
+			'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3742e936d15b655ee65f124265aa13a1~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=99db1472&x-expires=1743048000&x-signature=So99ZUYPVmRrjRBN2dO2sLXBqHM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva'
+	},
+	{
+		id: 'kronke',
+		tiktok: 'kidkronke',
+		thumbnail:
+			'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3a7b3b2e12314408bd4bdfeedc55f500~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=2807ec3e&x-expires=1743048000&x-signature=gFsKtO9Xsc4iHGzXoAICNkxzsik%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva'
+	},
 	{
 		id: 'ilyaugust',
 		tiktok: '.ilyaugust',
@@ -67,6 +85,42 @@ const artists: Artist[] = [
 ];
 
 const songs: Song[] = [
+	{
+		title: "LeBron's Idea",
+		artist: 'kronke',
+		thumbnail:
+			'https://hips.hearstapps.com/hmg-prod/images/lebron-james-of-the-united-states-defended-by-dennis-news-photo-1722010656.jpg?crop=0.88932xw:1xh;center,top&resize=1200:*',
+		tags: ['upbeat', 'pop', 'catchy'],
+
+		youtube: 'LLuoZltZfIU'
+	},
+	{
+		title: "When I See Bron's Face",
+		artist: 'nacuri',
+		thumbnail:
+			'https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/11/1280/1280/lebronjames.jpg?ve=1&tl=1',
+		tags: ['emotional', 'ballad', 'dramatic'],
+
+		youtube: 'd7X6Wx--n8k'
+	},
+	{
+		title: 'LeBronifornia Girls',
+		artist: 'izzydrip',
+		thumbnail:
+			'https://lalweb.blob.core.windows.net/public/lakers/product-marketing/web/player-page/2024-2025/2425_PlayerPage_Headshot_1920x2304_James_LeBron.jpg',
+		tags: ['upbeat', 'pop', 'catchy'],
+
+		youtube: 'L9RKIyRA5jE'
+	},
+	{
+		title: 'Lebeauty And A Beat',
+		artist: 'kronke',
+		thumbnail:
+			'https://media.cnn.com/api/v1/images/stellar/prod/230208002315-01b-lebron-james-gallery-restricted.jpg?q=w_3000,c_fill',
+		tags: ['high-energy', 'pop', 'anthemic'],
+
+		youtube: 'FG-ASbFCXh4'
+	},
 	{
 		title: 'The LeBron That I Used To Know',
 		artist: 'ilyaugust',
