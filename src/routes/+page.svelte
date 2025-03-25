@@ -2,12 +2,12 @@
 	import bronify from '$lib/images/bronify.png?enhanced';
 
 	import { Heart } from '@lucide/svelte';
-	import Player from 'youtube-player';
+	import PlayerFactory from 'youtube-player';
 	import type { YouTubePlayer } from 'youtube-player/dist/types';
 
 	import { shortcut, type ShortcutEventDetail } from '@svelte-put/shortcut';
 	import Fuse from 'fuse.js';
-	import { onMount } from 'svelte';
+	import { onDestroy, onMount } from 'svelte';
 	import Lyrics from '$lib/components/lyrics.svelte';
 	import type { Song, TrackSettings } from '$lib/types';
 	import Controls from '$lib/components/controls.svelte';
@@ -74,18 +74,21 @@
 		shuffle: 'off'
 	});
 	let currentSeconds = $state(0);
-
 	let playing: Song | undefined = $state();
 
 	let playerElement: HTMLDivElement = $state()!;
 	let player: YouTubePlayer = $state()!;
 
 	onMount(() => {
-		player = Player(playerElement, {
+		player = PlayerFactory(playerElement, {
 			playerVars: {
 				autoplay: 0
 			}
 		});
+	});
+
+	onDestroy(() => {
+		player.destroy();
 	});
 </script>
 
@@ -223,21 +226,6 @@
 	</div>
 {/if}
 
-<footer
-	class="footer footer-horizontal footer-center bg-base-100 text-base-content rounded p-10 pb-30"
->
-	<nav class="grid grid-flow-col gap-4">
-		<a class="link link-hover" href="mailto:contact@bronify.love">
-			Contact (for takedown requests or additions)
-		</a>
-	</nav>
-	<aside>
-		<p>
-			Copyright © {new Date().getFullYear()} - No rights reserved by Bronify. Feel free to take anything.
-		</p>
-	</aside>
-</footer>
-
 <div class="bg-base-100 border-base-200 fixed right-0 bottom-0 left-0 border-t">
 	<Controls
 		bind:this={controls}
@@ -248,5 +236,6 @@
 		bind:lyricsSrt={srt}
 		bind:currentSeconds
 		bind:settings
+		bind:playing
 	/>
 </div>

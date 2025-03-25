@@ -15,7 +15,7 @@
 			loading="lazy"
 			src={url}
 			alt={artist.id}
-			class="h-24 w-24 rounded-lg brightness-50 sm:h-auto sm:w-auto sm:brightness-100"
+			class="h-24 w-24 rounded-lg sm:h-auto sm:w-auto"
 		/>
 
 		<div class="absolute top-2 right-2 flex flex-row gap-1 text-xs md:text-base">

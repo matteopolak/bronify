@@ -24,7 +24,8 @@
 		maxVolume = 50,
 		songs,
 		currentSeconds = $bindable(),
-		settings = $bindable()
+		settings = $bindable(),
+		playing = $bindable()
 	}: {
 		initialSong: Song;
 		lyricsSrt: string | undefined;
@@ -33,13 +34,13 @@
 		songs: Song[];
 		currentSeconds: number;
 		settings: TrackSettings;
+		playing: Song | undefined;
 	} = $props();
 
 	let song = $state(initialSong);
 	let artist = $derived(getArtist(song.artist));
 	let lengthSeconds = $state(60);
 	let url = $derived(songThumbnail(song.id));
-	let playing: Song | undefined = $state();
 
 	export async function toggleSong(next: Song) {
 		if (playing?.id !== next.id) {
