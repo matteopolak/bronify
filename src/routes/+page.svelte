@@ -14,7 +14,7 @@
 		Repeat1,
 		Shuffle,
 		MicVocal,
-		Youtube
+		Heart
 	} from '@lucide/svelte';
 	import Player from 'youtube-player';
 	import type { YouTubePlayer } from 'youtube-player/dist/types';
@@ -234,10 +234,31 @@
 	</form>
 </dialog>
 
+<div class="navbar px-4 md:hidden">
+	<div class="navbar-start">
+		<a href="/" class="flex flex-row place-items-center gap-2 font-bold" aria-label="Bronify Home">
+			<span class="text-red-500">
+				<Heart size="1.5em" fill="currentColor" />
+			</span>
+			bronify.love
+		</a>
+	</div>
+
+	<div class="navbar-end gap-2">
+		<button class="btn btn-md" onclick={() => comingSoonModal.showModal()}>Sign in</button>
+		<button class="btn btn-md btn-primary" onclick={() => comingSoonModal.showModal()}
+			>Sign up</button
+		>
+	</div>
+</div>
+
 <div class="navbar px-4 md:px-12">
 	<div class="md:navbar-start hidden">
-		<a href="/" class="flex flex-row place-items-center gap-2" aria-label="Bronify Home">
-			<enhanced:img src={bronify} alt="Bronify" sizes="48px" class="h-12 w-12" />
+		<a href="/" class="flex flex-row place-items-center gap-2 font-bold" aria-label="Bronify Home">
+			<span class="text-red-500">
+				<Heart size="1.5em" fill="currentColor" />
+			</span>
+			bronify.love
 		</a>
 	</div>
 
@@ -581,7 +602,7 @@
 	class="footer footer-horizontal footer-center bg-base-100 text-base-content rounded p-10 pb-30"
 >
 	<nav class="grid grid-flow-col gap-4">
-		<a class="link link-hover" href="mailto:bronifyplaceholders@gmail.com">
+		<a class="link link-hover" href="mailto:contact@bronify.love">
 			Contact (for takedown requests or additions)
 		</a>
 	</nav>
