@@ -1,9 +1,3 @@
-export type Album = {
-	id: string;
-	title: string;
-	artist: string;
-};
-
 export type Song = {
 	id: string;
 	title: string;
@@ -31,4 +25,12 @@ export type TrackSettings = {
 	lyrics: boolean;
 	loop: 'one' | 'all' | 'none';
 	shuffle: 'on' | 'off';
+};
+
+export type Collection = {
+	id: string;
+	title: string;
+	subtitle: string;
+	cover?: string;
+	type: 'album' | 'playlist' | 'artist';
 };

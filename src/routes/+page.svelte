@@ -1,7 +1,7 @@
 <script lang="ts">
 	import bronify from '$lib/images/bronify.png?enhanced';
 
-	import { Heart } from '@lucide/svelte';
+	import { Heart, Home } from '@lucide/svelte';
 	import PlayerFactory from 'youtube-player';
 	import type { YouTubePlayer } from 'youtube-player/dist/types';
 
@@ -14,6 +14,8 @@
 	import { artistData, songData } from '$lib/get';
 	import Cover from '$lib/components/cover.svelte';
 	import Artist from '$lib/components/artist.svelte';
+	import Sidebar from '$lib/components/sidebar.svelte';
+	import { DYNAMIC_HEIGHT_CLASS } from '$lib/constants';
 
 	/*const albums: Record<string, Album> = {};
 
@@ -165,8 +167,16 @@
 		</a>
 	</div>
 
-	<div class="navbar-center mx-auto w-full md:mx-0 md:w-auto">
-		<label class="input input-lg w-full">
+	<div class="navbar-center mx-auto w-full max-w-lg gap-2 md:mx-0 md:w-auto lg:w-full">
+		<a
+			href="/"
+			aria-label="Bronify Home"
+			class="bg-base-200 hover:bg-base-200/80 aspect-square rounded-full p-3"
+		>
+			<Home size="1.5em" fill="currentColor" />
+		</a>
+
+		<label class="input input-lg w-full border-none">
 			<svg class="h-[1.5em] opacity-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
 				><g
 					stroke-linejoin="round"
@@ -197,36 +207,45 @@
 	</div>
 </div>
 
-{#if srt === undefined || !settings.lyrics}
-	<!-- Search results -->
-	<div class="flex w-full flex-col place-items-center gap-6">
-		<div
-			class="grid w-full max-w-7xl grid-cols-3 gap-4 p-2 sm:grid-cols-3 md:grid-cols-5 lg:grid-cols-8"
-		>
-			{#each artists as artist (artist.id)}
-				<Artist {artist} />
-			{/each}
-		</div>
+<Sidebar>
+	{#if srt === undefined || playing === undefined || !settings.lyrics}
+		<div class="bg-base-200 overflow-y-auto rounded-lg {DYNAMIC_HEIGHT_CLASS}">
+			<!-- Search results -->
+			<div
+				class="grid w-full max-w-7xl grid-cols-3 gap-4 p-2 sm:grid-cols-3 md:grid-cols-5 lg:grid-cols-8"
+			>
+				{#each artists as artist (artist.id)}
+					<Artist {artist} />
+				{/each}
+			</div>
 
-		<div
-			class="grid w-full max-w-7xl grid-cols-1 gap-4 p-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5"
-		>
-			{#each songs as song (song.id)}
-				<Cover
-					{song}
-					onClick={() => controls.toggleSong(song)}
-					playing={playing?.id === song.id && !settings.paused}
-				/>
-			{/each}
+			<div
+				class="grid w-full max-w-7xl grid-cols-1 gap-4 p-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5"
+			>
+				{#each songs as song (song.id)}
+					<Cover
+						{song}
+						onClick={() => controls.toggleSong(song)}
+						playing={playing?.id === song.id && !settings.paused}
+					/>
+				{/each}
+			</div>
 		</div>
-	</div>
-{:else}
-	<div class="flex w-full justify-center py-8">
-		<Lyrics {srt} currentTime={currentSeconds} onLyricClick={(start) => controls.seekTo(start)} />
-	</div>
-{/if}
+	{:else}
+		<div
+			class="flex w-full justify-center overflow-y-auto rounded-lg bg-blue-500 py-8 {DYNAMIC_HEIGHT_CLASS}"
+		>
+			<Lyrics
+				{srt}
+				song={playing}
+				currentTime={currentSeconds}
+				onLyricClick={(start) => controls.seekTo(start)}
+			/>
+		</div>
+	{/if}
+</Sidebar>
 
-<div class="bg-base-100 border-base-200 fixed right-0 bottom-0 left-0 border-t">
+<div class="bg-base-100 border-base-200">
 	<Controls
 		bind:this={controls}
 		maxVolume={50}

@@ -1,12 +1,15 @@
 <script lang="ts">
+	import type { Song } from '$lib/types';
 	import { onDestroy, onMount } from 'svelte';
 
 	let {
 		srt,
+		song,
 		currentTime,
 		onLyricClick
 	}: {
 		srt: string;
+		song: Song;
 		currentTime: number;
 		onLyricClick: (start: number) => void;
 	} = $props();
@@ -76,7 +79,7 @@
 
 			// scroll to the line such that it's in the middle of the container
 			lyricsContainer.scrollTo({
-				top: activeElement.offsetTop - lyricsContainer.clientHeight / 2,
+				top: activeElement.offsetTop - lyricsContainer.clientHeight / 2 + 100,
 				behavior: 'smooth'
 			});
 		}
@@ -93,7 +96,7 @@
 <!-- Scrollable lyrics container -->
 <div
 	bind:this={lyricsContainer}
-	class="hide-scrollbar h-[calc(100vh)] max-w-lg space-y-4 overflow-y-scroll px-4 py-4 text-2xl font-bold text-slate-400 md:text-3xl"
+	class="hide-scrollbar h-screen max-w-lg space-y-4 overflow-y-scroll px-4 py-4 text-2xl font-bold text-white/70 md:text-3xl"
 >
 	<div class="pt-[50vh]"></div>
 
