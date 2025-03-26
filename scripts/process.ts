@@ -87,16 +87,39 @@ const artists: Artist[] = [
 		tiktok: 'imakeparodyzz',
 		thumbnail:
 			'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/783adb9a9c8f63e0841349c8614f9360~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=64e0ac41&x-expires=1743112800&x-signature=cBsiLh1rLQhDVrwLi%2BR1e%2BW8oBc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva'
+	},
+	{
+		id: 'Andreas',
+		tiktok: 'andreas.prod5',
+		thumbnail:
+			'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/29ea639998507390f7595092c05b8ccd~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=4fdb8be7&x-expires=1743112800&x-signature=pEWPbuBI4QI8V8ZlD7NzSLXd%2BvE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva'
 	}
 ];
 
 const songs: Song[] = [
+	// has lyrics
+	{
+		title: 'Bring Me Back To Bron',
+		artist: 'ilyaugust',
+		thumbnail:
+			'https://image-cdn.essentiallysports.com/wp-content/uploads/USATSI_24369675.jpg?width=600',
+		tags: ['nostalgic', 'emotional', 'mid-tempo'],
+
+		youtube: 'IY_XvFqfzds'
+	},
+	{
+		title: 'Mr. LeBron',
+		artist: 'Andreas',
+		tags: ['upbeat', 'pop', 'catchy'],
+
+		youtube: '5KzT6yDXTPo'
+	},
 	{
 		title: "LeBron's Idea",
 		artist: 'kronke',
 		thumbnail:
 			'https://hips.hearstapps.com/hmg-prod/images/lebron-james-of-the-united-states-defended-by-dennis-news-photo-1722010656.jpg?crop=0.88932xw:1xh;center,top&resize=1200:*',
-		tags: ['upbeat', 'pop', 'catchy'],
+		tags: ['high-energy', 'pop', 'anthemic'],
 
 		youtube: 'LLuoZltZfIU'
 	},
@@ -126,15 +149,6 @@ const songs: Song[] = [
 		tags: ['high-energy', 'pop', 'anthemic'],
 
 		youtube: 'FG-ASbFCXh4'
-	},
-	{
-		title: 'The LeBron That I Used To Know',
-		artist: 'ilyaugust',
-		thumbnail:
-			'https://www.cantonrep.com/gcdn/authoring/2010/07/07/NREP/ghows-OH-58e8214e-a55b-49ee-bb5c-50cea622d300-225f1f5f.jpeg?width=660&height=788&fit=crop&format=pjpg&auto=webp',
-		tags: ['mid-tempo', 'reflective'],
-
-		youtube: 'Ewqz5BFC3L4'
 	},
 	{
 		title: 'Let LeBron Know',
@@ -196,22 +210,13 @@ const songs: Song[] = [
 		youtube: 'V6i7vkI3dpE'
 	},
 	{
-		title: 'Bring Me Back To Bron',
-		artist: 'ilyaugust',
-		thumbnail:
-			'https://image-cdn.essentiallysports.com/wp-content/uploads/USATSI_24369675.jpg?width=600',
-		tags: ['nostalgic', 'emotional', 'mid-tempo'],
-
-		youtube: 'IY_XvFqfzds'
-	},
-	{
 		title: 'Dunk with a Smile',
 		artist: 'gouenji',
 		thumbnail: 'https://i.ytimg.com/vi/NwQPDUlJKiI/maxresdefault.jpg',
 		tags: ['playful', 'funky', 'feel-good'],
 
 		spotify: '03e1DoLgfvtFGeMqOQRO5g',
-		youtube: '1C7-wKtDRG0'
+		youtube: '-jogTy3Pbz0'
 	},
 	{
 		title: 'Thinking Bout Lebron',
@@ -232,53 +237,23 @@ const songs: Song[] = [
 		youtube: 't1mTgxXCc9o'
 	},
 	{
-		title: 'Towards The Bron',
-		artist: 'ilyaugust',
-		thumbnail: 'https://i.ytimg.com/vi/6QRPvIsH88s/maxresdefault.jpg',
-		tags: ['cinematic', 'epic', 'motivational'],
-
-		spotify: '0izzGvHBiBNMiGPIQP76aW',
-		youtube: 'yTMTXh2pT2I'
-	},
-	{
 		title: 'Man On The Lakers',
 		artist: 'Talented Blake',
-		thumbnail:
-			'https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/04/896/500/lebron-hyped-playoffs.jpg?ve=1&tl=1',
 		tags: ['moody', 'introspective', 'modern-rock'],
 
 		spotify: '3doVZI24VAUTrXWDTbPTl6',
-		youtube: 'Til0sIaxzbY'
+		youtube: 't3EKsFkxaq4'
 	},
 	{
-		title: 'Thats Bron',
+		title: 'The LeBron That I Used To Know',
 		artist: 'ilyaugust',
 		thumbnail:
-			'https://www.usatoday.com/gcdn/presto/2023/04/25/USAT/ae6c67f6-bec1-4f30-aaa9-bb81e0488a51-USP_NBA__Playoffs-Memphis_Grizzlies_at_Los_Angeles_2.jpg',
-		tags: ['confident', 'anthemic', 'swagger'],
+			'https://www.cantonrep.com/gcdn/authoring/2010/07/07/NREP/ghows-OH-58e8214e-a55b-49ee-bb5c-50cea622d300-225f1f5f.jpeg?width=660&height=788&fit=crop&format=pjpg&auto=webp',
+		tags: ['mid-tempo', 'reflective'],
 
-		spotify: '7Dt40sqcEpsyQ43vGyoHsP',
-		youtube: '-__U4OTAoDQ'
-	},
-	{
-		title: 'Oh Mister Lebron',
-		artist: 'ilyaugust',
-		thumbnail:
-			'https://thespun.com/.image/t_share/MjAxODY2ODQyNzgyODM2MDAy/los-angeles-lakers-v-sacramento-kings.jpg',
-		tags: ['theatrical', 'retro', 'playful'],
+		youtube: 'Ewqz5BFC3L4'
 
-		spotify: '3w327RoLVeZFqs0YttFWQp',
-		youtube: 'b1d86TJnjEo'
-	},
-	{
-		title: 'Panic At LeDisco',
-		artist: 'DARK MEAT UPC',
-		thumbnail:
-			'https://phantom-marca.unidadeditorial.es/1e46892a28a1a1e8cb49a2ed030e250d/resize/828/f/jpg/assets/multimedia/imagenes/2024/11/30/17329966091923.jpg',
-		tags: ['emo-pop', 'high-energy', 'dramatic'],
-
-		spotify: '2DXWNVR00eZMyVEQp5qx2y',
-		youtube: 's9g_Qo-YgvY'
+		// no lyrics
 	}
 	/*
 	{
