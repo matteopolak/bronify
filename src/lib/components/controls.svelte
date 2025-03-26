@@ -45,12 +45,13 @@
 	export async function toggleSong(next: Song) {
 		if (playing?.id !== next.id) {
 			playing = undefined;
-			lyricsSrt = undefined;
 
 			fetch(`/lyrics/${next.id}.srt`)
 				.then(async (res) => {
 					if (res.ok) {
 						lyricsSrt = await res.text();
+					} else {
+						lyricsSrt = undefined;
 					}
 				})
 				.catch(() => {});
