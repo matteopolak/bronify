@@ -35,7 +35,7 @@
 			</span>
 		{/if}
 
-		<h2 class="text-7xl font-extrabold lg:text-8xl">{content.title}</h2>
+		<h2 class="line-clamp-1 text-5xl font-extrabold md:text-7xl lg:text-8xl">{content.title}</h2>
 		<p class="text-md text-neutral-300">
 			{content.subtitle}
 

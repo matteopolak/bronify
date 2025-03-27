@@ -11,16 +11,8 @@
 		threshold: 0.4
 	});
 
-	const artistIndex = new Fuse(artistData, {
-		keys: ['id', 'tiktok'],
-		threshold: 0.4
-	});
-
 	let tracks = $derived(
 		global.search ? trackIndex.search(global.search, { limit: 15 }).map((s) => s.item) : trackData
-	);
-	let artists = $derived(
-		global.search ? artistIndex.search(global.search, { limit: 3 }).map((s) => s.item) : artistData
 	);
 
 	$effect(() => {

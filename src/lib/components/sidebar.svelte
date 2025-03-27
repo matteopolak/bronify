@@ -7,10 +7,25 @@
 	import { Library } from '@lucide/svelte';
 	import { albumThumbnail, artistThumbnail } from '$lib/get';
 	import type { Snippet } from 'svelte';
+	import Fuse from 'fuse.js';
+
+	const artistIndex = new Fuse(artistData, {
+		keys: ['id', 'tiktok', 'soundcloud'],
+		threshold: 0.4
+	});
+
+	const albumIndex = new Fuse(albumData, {
+		keys: ['title', 'artist'],
+		threshold: 0.4
+	});
 
 	let { children, id }: { children: Snippet; id: string } = $props();
 
+	let search = $state('');
 	let selected: string | undefined = $state();
+
+	let artists = $derived(search ? artistIndex.search(search).map((s) => s.item) : artistData);
+	let albums = $derived(search ? albumIndex.search(search).map((s) => s.item) : albumData);
 
 	function collectionPrefix(content: Pick<Collection, 'type'>): string {
 		if (content.type === 'playlist') {
@@ -57,13 +72,22 @@
 	</div>
 	<div class="drawer-side {DYNAMIC_HEIGHT_CLASS_SIDEBAR} z-20 rounded-lg">
 		<label for="sidebar" aria-label="close sidebar" class="drawer-overlay"></label>
-		<div class="bg-base-200 text-base-content flex min-h-full w-3xs flex-col gap-1 p-2">
+		<div class="bg-base-200 text-base-content flex min-h-full w-3xs flex-col gap-1 p-2 lg:w-2xs">
 			<h1 class="p-4 font-semibold text-neutral-400">
 				<Library class="inline" />
 				Your Library
 			</h1>
 
-			{#each albumData as album (album.id)}
+			<div class="flex flex-row gap-2">
+				<input
+					type="text"
+					class="input input-sm bg-base-300/50 text-base-content placeholder:text-base-content/50 w-full border-none"
+					placeholder="Search your library"
+					bind:value={search}
+				/>
+			</div>
+
+			{#each albums as album (album.id)}
 				{@render collection({
 					id: album.id,
 					title: album.title,
@@ -73,7 +97,7 @@
 				})}
 			{/each}
 
-			{#each artistData as artist (artist.id)}
+			{#each artists as artist (artist.id)}
 				{@render collection({
 					id: artist.id,
 					title: artist.id,
