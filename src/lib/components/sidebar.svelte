@@ -48,9 +48,9 @@
 	</a>
 {/snippet}
 
-<div class="drawer md:drawer-open px-2">
+<div class="drawer md:drawer-open px-0 md:px-2">
 	<input id="my-drawer" type="checkbox" class="drawer-toggle" />
-	<div class="drawer-content pb-32 pl-2 {DYNAMIC_HEIGHT_CLASS}">
+	<div class="drawer-content pb-32 md:pl-2 {DYNAMIC_HEIGHT_CLASS}">
 		{@render children()}
 	</div>
 	<div class="drawer-side {DYNAMIC_HEIGHT_CLASS} rounded-lg">
@@ -96,6 +96,6 @@
 	}
 
 	.inactive:hover {
-		@apply hover:bg-base-300/50;
+		@apply bg-base-300/50;
 	}
 </style>

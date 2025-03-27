@@ -43,7 +43,7 @@
 		class="to-base-200 from-primary/20 pointer-events-none absolute top-0 left-0 h-64 w-full bg-linear-to-b"
 	></div>
 
-	<div class="grid w-full max-w-5xl grid-cols-1 gap-2 p-6">
+	<div class="grid w-full max-w-5xl grid-cols-1 gap-2 p-3 md:p-6">
 		{#each content.tracks as track, idx (track.id)}
 			<HorizontalCover number={idx + 1} {track} onClick={() => player.toggle(track)} />
 		{/each}

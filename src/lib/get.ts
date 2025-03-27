@@ -88,4 +88,4 @@ export function trackAudio(id: string): string {
 	return TRACK_AUDIO[`/src/lib/content/tracks/${id}/audio.mp3`].default;
 }
 
-export { trackData, artistData };
+export { trackData, artistData, albumData };
