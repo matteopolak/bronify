@@ -19,9 +19,18 @@ async function main() {
 	const out = [];
 	const artists = [];
 
+	const seenVideos = new Set();
+
 	for (const link of links) {
 		const info = runYtdlpSync(['-j', link]);
 		const song = JSON.parse(info);
+
+		if (seenVideos.has(song.id)) {
+			console.log(`Already seen video ${song.id}`);
+			continue;
+		}
+
+		seenVideos.add(song.id);
 
 		const tiktok = song.uploader;
 		let username = song.channel.trim();

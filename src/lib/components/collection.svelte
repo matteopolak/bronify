@@ -45,6 +45,13 @@
 					@{artist.tiktok} on TikTok
 				</a>
 			{/if}
+
+			{#if artist?.soundcloud}
+				&bull;
+				<a href="https://soundcloud.com/{artist.soundcloud}" class="hover:underline">
+					@{artist.soundcloud} on SoundCloud
+				</a>
+			{/if}
 		</p>
 	</div>
 </div>

@@ -19,6 +19,7 @@ export type Track = {
 export type Artist = {
 	id: string;
 	tiktok?: string;
+	soundcloud?: string;
 };
 
 export type TrackSettings = {
