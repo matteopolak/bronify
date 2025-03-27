@@ -110,11 +110,25 @@ const artists: Artist[] = [
 		tiktok: 'itsokayspade',
 		thumbnail:
 			'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f8cf259178b38bb1f845b8417b8f30a1~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=ea46dd12&x-expires=1743217200&x-signature=8GnInSyd6G2IP%2FrMJeN2WVn9Ixg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva'
+	},
+	{
+		id: 'LeFrank Broncean',
+		tiktok: 'ajjani444',
+		thumbnail:
+			'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0beff9ca4d89fab302c4fa01c7cd7a1b~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=14ab08f0&x-expires=1743224400&x-signature=RSVXO0e%2FQ6S%2FA9mCnZrllXdWqz8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva'
 	}
 ];
 
 const songs: Song[] = [
 	// has lyrics
+	{
+		title: 'Thinking About Lebron (Frank Ocean Version)',
+		artist: 'LeFrank Broncean',
+		thumbnail:
+			'https://lakersdaily.com/wp-content/uploads/2021/03/USATSI_15649609_168386351_lowres-e1614959679136.jpg',
+		tags: ['emotional', 'r&b', 'yearning'],
+		durationSeconds: 200
+	},
 	{
 		title: 'LeRansom',
 		artist: 'FNB Gang',
