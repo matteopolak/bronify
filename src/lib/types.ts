@@ -8,7 +8,7 @@ export type Track = {
 	durationSeconds: number;
 
 	spotify?: string;
-	youtube: string;
+	youtube?: string;
 	appleMusic?: string;
 	soundcloud?: string;
 	other?: string;

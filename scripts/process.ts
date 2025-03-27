@@ -25,7 +25,7 @@ type Song = {
 	durationSeconds: number;
 
 	spotify?: string;
-	youtube: string;
+	youtube?: string;
 	appleMusic?: string;
 	soundcloud?: string;
 	other?: string;
@@ -57,6 +57,12 @@ const albums: Album[] = [
 ];
 
 const artists: Artist[] = [
+	{
+		id: 'FNB Gang',
+		tiktok: 'fnb.gang8',
+		thumbnail:
+			'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/847d2c3a0d67c3d408cecd2a265396e2~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=e20ae3e7&x-expires=1743224400&x-signature=Qgc%2Fvoo%2FTELSSYcZzth4h9%2F3nZo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva'
+	},
 	{
 		id: 'nacuri',
 		tiktok: 'nacuri',
@@ -109,6 +115,14 @@ const artists: Artist[] = [
 
 const songs: Song[] = [
 	// has lyrics
+	{
+		title: 'LeRansom',
+		artist: 'FNB Gang',
+		thumbnail:
+			'https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/10/10/16338668190082.jpg',
+		tags: ['hip-hop', 'trap', 'hard'],
+		durationSeconds: 57
+	},
 	{
 		title: 'LeBron LeBron LeBron James',
 		artist: 'OkaySpade',
@@ -342,7 +356,7 @@ async function main() {
 
 		//audio.pipe(fs.createWriteStream(path.join(trackBase, 'audio.mp3')));
 		//await new Promise((resolve) => audio.on('end', resolve));
-		fs.writeFileSync(path.join(trackBase, song.youtube), '');
+		//fs.writeFileSync(path.join(trackBase, song.youtube), '');
 	}
 
 	songs.sort((a, b) => a.id!.localeCompare(b.id!));
