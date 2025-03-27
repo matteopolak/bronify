@@ -37,7 +37,6 @@
 
 	onMount(() => {
 		player.init(audioElement);
-		player.volume = 0.2;
 
 		player.audio.onended = () => {
 			if (settings.shuffle === 'on') {

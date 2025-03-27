@@ -48,7 +48,7 @@ const albums: Album[] = [
 			'https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRNG5az_vgnLGH4QtfTD-5entqo3kpLrkhqgaBLs1iaCnPLTub-Ui_R0EQKQKKg0MgIGvHO4nHgpFUBM80',
 		trackIds: [
 			'e71181ef400310f217dd75d47c62023987fc8e8e60e4c85758837dcd9b555e6f',
-			'5c9c8b239df9c4ad7cb6d22e971cccacf47564aca6a1baf31a679f596afc6933',
+			'bde135476656a10dde7c2c70d5805df96d0f2274ee481f66c504b83238fe49bd',
 			'8eab7c7074850e1966735106d0d64ec38480d75dd8e1128629e295ed3cbc9641',
 			'de9fb6528946b3abb404e7544b86f5078be5e53ad0bd922ff3f8c5fa7f054fc5',
 			'973592b2f6d4a38bd42c4b771a0bd532f55b7b841ebe9ab298343939514041fb'
@@ -100,10 +100,10 @@ const artists: Artist[] = [
 			'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/783adb9a9c8f63e0841349c8614f9360~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=64e0ac41&x-expires=1743112800&x-signature=cBsiLh1rLQhDVrwLi%2BR1e%2BW8oBc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva'
 	},
 	{
-		id: 'Andreas',
-		tiktok: 'andreas.prod5',
+		id: 'YBG Zakhi',
+		tiktok: 'zakhifikes1',
 		thumbnail:
-			'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/29ea639998507390f7595092c05b8ccd~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=4fdb8be7&x-expires=1743112800&x-signature=pEWPbuBI4QI8V8ZlD7NzSLXd%2BvE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva'
+			'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d5186486b4ed55b90864fe36da97930e~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=ed09082d&x-expires=1743253200&x-signature=%2BSY2mV3szMsUiRX3ghpxt95ptas%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva'
 	},
 	{
 		id: 'OkaySpade',
@@ -159,7 +159,7 @@ const songs: Song[] = [
 	},
 	{
 		title: 'Mr. LeBron',
-		artist: 'Andreas',
+		artist: 'YBG Zakhi',
 		tags: ['upbeat', 'pop', 'catchy'],
 		durationSeconds: 36,
 
