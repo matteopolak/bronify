@@ -16,12 +16,12 @@
 	onclick={onClick}
 	aria-label="Play track"
 >
-	<div class="relative">
+	<div class="relative h-24 w-24 shrink-0 sm:h-auto sm:w-auto">
 		<img
 			loading="lazy"
 			src={url}
 			alt={track.title}
-			class="h-24 w-24 rounded-lg brightness-50 sm:h-auto sm:w-auto sm:brightness-100"
+			class="aspect-square h-24 w-24 rounded-lg brightness-50 sm:h-auto sm:w-auto sm:brightness-100"
 		/>
 
 		<!-- Play button -->
@@ -36,7 +36,7 @@
 		</div>
 	</div>
 
-	<div class="flex flex-col gap-1">
+	<div class="flex shrink flex-col gap-1">
 		<div class="flex flex-col">
 			<h3 class="text-md line-clamp-2 font-semibold">{track.title}</h3>
 			<span class="text-sm text-slate-300">

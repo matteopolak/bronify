@@ -85,6 +85,7 @@
 			const activeElement = lyricElements[activeIndex];
 
 			// scroll to the line such that it's in the middle of the container
+
 			lyricsContainer.scrollTo({
 				top:
 					activeElement.offsetTop -
@@ -106,15 +107,16 @@
 <!-- Scrollable lyrics container -->
 <div
 	bind:this={lyricsContainer}
-	class="hide-scrollbar h-screen max-w-lg space-y-4 overflow-y-scroll px-4 py-4 text-2xl font-bold text-white/70 md:text-3xl"
+	class="hide-scrollbar flex h-screen max-w-lg flex-col items-center space-y-4 overflow-y-scroll px-4 py-4 text-2xl font-bold text-white/70 md:text-3xl"
 >
-	<div class="pt-[50vh]"></div>
+	<!-- Spacer before lyrics -->
+	<div class="shrink-0 basis-[20vh] md:basis-[50vh]"></div>
 
 	{#each lyrics as lyric, i (lyric.start)}
 		<button
 			id="lyric-{i}"
 			class:text-white={i === activeIndex}
-			class="block cursor-pointer text-left leading-9 transition-all duration-300 ease-in-out hover:text-white"
+			class="block w-full cursor-pointer text-left leading-9 transition-all duration-300 ease-in-out hover:text-white"
 			bind:this={lyricElements[i]}
 			onclick={() => onLyricClick(lyric.start)}
 		>
@@ -122,7 +124,8 @@
 		</button>
 	{/each}
 
-	<div class="pt-[50vh]"></div>
+	<!-- Spacer after lyrics -->
+	<div class="shrink-0 basis-[25vh] md:basis-[50vh]"></div>
 </div>
 
 <style>
