@@ -5,7 +5,7 @@
 	"type": "module",
 	"scripts": {
 		"dev": "vite dev",
-		"build": "pnpm process && vite build",
+		"build": "vite build",
 		"preview": "vite preview",
 		"prepare": "svelte-kit sync || echo ''",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
@@ -15,6 +15,7 @@
 		"process": "node --experimental-strip-types scripts/process.ts"
 	},
 	"devDependencies": {
+		"@distube/ytdl-core": "^4.16.5",
 		"@eslint/compat": "^1.2.5",
 		"@eslint/js": "^9.18.0",
 		"@sveltejs/adapter-cloudflare": "^5.0.1",
@@ -50,7 +51,6 @@
 		"@svelte-put/shortcut": "^4.1.0",
 		"axios": "^1.8.4",
 		"daisyui": "^5.0.9",
-		"fuse.js": "^7.1.0",
-		"youtube-player": "^5.6.0"
+		"fuse.js": "^7.1.0"
 	}
 }

@@ -1,29 +1,11 @@
 <script lang="ts">
-	import bronify from '$lib/images/bronify.png?enhanced';
-
-	import { Heart, Home } from '@lucide/svelte';
-	import PlayerFactory from 'youtube-player';
-	import type { YouTubePlayer } from 'youtube-player/dist/types';
-
-	import { shortcut, type ShortcutEventDetail } from '@svelte-put/shortcut';
-	import Fuse from 'fuse.js';
-	import { onDestroy, onMount } from 'svelte';
-	import Lyrics from '$lib/components/lyrics.svelte';
-	import type { Song, TrackSettings } from '$lib/types';
-	import Controls from '$lib/components/controls.svelte';
-	import { artistData, songData } from '$lib/get';
 	import Cover from '$lib/components/cover.svelte';
 	import Artist from '$lib/components/artist.svelte';
-	import Sidebar from '$lib/components/sidebar.svelte';
-	import { DYNAMIC_HEIGHT_CLASS } from '$lib/constants';
+	import { player, global } from '$lib/player.svelte';
+	import Fuse from 'fuse.js';
+	import { artistData, trackData } from '$lib/get';
 
-	/*const albums: Record<string, Album> = {};
-
-	for (const album of albumData) {
-		albums[album.id] = album;
-	}*/
-
-	const songIndex = new Fuse(songData, {
+	const trackIndex = new Fuse(trackData, {
 		keys: ['title', 'artist', 'tags', 'username'],
 		threshold: 0.4
 	});
@@ -33,228 +15,37 @@
 		threshold: 0.4
 	});
 
-	let searchInput: HTMLInputElement = $state()!;
-	let comingSoonModal: HTMLDialogElement = $state()!;
-
-	let controls: Controls = $state()!;
-
-	function handleK(detail: ShortcutEventDetail) {
-		detail.originalEvent.preventDefault();
-		searchInput.focus();
-	}
-
-	let search = $state('');
-	let songs = $derived(
-		search ? songIndex.search(search, { limit: 15 }).map((s) => s.item) : songData
+	let tracks = $derived(
+		global.search ? trackIndex.search(global.search, { limit: 15 }).map((s) => s.item) : trackData
 	);
 	let artists = $derived(
-		search ? artistIndex.search(search, { limit: 3 }).map((s) => s.item) : artistData
+		global.search ? artistIndex.search(global.search, { limit: 3 }).map((s) => s.item) : artistData
 	);
 
-	let lyricsWasEnabled = $state(false);
-	let lastSearch = $state('');
-
 	$effect(() => {
-		if (search === lastSearch) return;
-
-		if (!search && lastSearch) {
-			settings.lyrics = lyricsWasEnabled;
-		} else if (search && !lastSearch) {
-			lyricsWasEnabled = settings.lyrics;
-			settings.lyrics = false;
-		}
-
-		lastSearch = search;
-	});
-
-	let srt: string | undefined = $state();
-	let settings: TrackSettings = $state({
-		paused: true,
-		lyrics: false,
-		volume: 20,
-		loop: 'none',
-		shuffle: 'off'
-	});
-	let currentSeconds = $state(0);
-	let playing: Song | undefined = $state();
-
-	let playerElement: HTMLDivElement = $state()!;
-	let player: YouTubePlayer = $state()!;
-
-	onMount(() => {
-		player = PlayerFactory(playerElement, {
-			playerVars: {
-				autoplay: 0
-			}
-		});
-	});
-
-	onDestroy(() => {
-		player?.destroy();
+		player.queue = tracks;
 	});
 </script>
 
-<svelte:head>
-	<link rel="icon" href={bronify.img.src} />
-	<link rel="apple-touch-icon" href={bronify.img.src} />
+<div class="space-y-6 p-3">
+	<div>
+		<h1 class="p-2 text-2xl font-semibold text-neutral-100">Recommended artists</h1>
 
-	<!-- Manifest -->
-	<link rel="manifest" href="/manifest.webmanifest" />
-
-	<meta name="description" content="Bronify: LeMusic for everyone" />
-	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<title>Bronify: LeMusic for everyone</title>
-</svelte:head>
-
-<svelte:window
-	use:shortcut={{
-		trigger: {
-			key: 'k',
-			modifier: ['ctrl', 'meta'],
-			callback: handleK
-		}
-	}}
-	use:shortcut={{
-		trigger: {
-			key: 'Escape',
-			callback: () => (settings.lyrics = false)
-		}
-	}}
-/>
-
-<div bind:this={playerElement} class="hidden"></div>
-
-<dialog bind:this={comingSoonModal} id="coming-soon-modal" class="modal">
-	<div class="modal-box bg-base-200 rounded-2xl">
-		<form method="dialog">
-			<button class="btn btn-sm btn-circle btn-ghost absolute top-2 right-2">✕</button>
-		</form>
-
-		<h3 class="text-lg font-bold">Coming soon</h3>
-		<p class="py-4">This feature is coming soon, stay tuned!</p>
-	</div>
-
-	<form method="dialog" class="modal-backdrop">
-		<button>close</button>
-	</form>
-</dialog>
-
-<div class="navbar px-4 md:hidden">
-	<div class="navbar-start">
-		<a href="/" class="flex flex-row place-items-center gap-2 font-bold" aria-label="Bronify Home">
-			<span class="text-red-500">
-				<Heart size="1.5em" fill="currentColor" />
-			</span>
-			bronify.love
-		</a>
-	</div>
-
-	<div class="navbar-end gap-2">
-		<button class="btn btn-md" onclick={() => comingSoonModal.showModal()}>Sign in</button>
-		<button class="btn btn-md btn-primary" onclick={() => comingSoonModal.showModal()}
-			>Sign up</button
-		>
-	</div>
-</div>
-
-<div class="navbar px-4 md:px-12">
-	<div class="md:navbar-start hidden">
-		<a href="/" class="flex flex-row place-items-center gap-2 font-bold" aria-label="Bronify Home">
-			<span class="text-red-500">
-				<Heart size="1.5em" fill="currentColor" />
-			</span>
-			bronify.love
-		</a>
-	</div>
-
-	<div class="navbar-center mx-auto w-full max-w-lg gap-2 md:mx-0 md:w-auto lg:w-full">
-		<a
-			href="/"
-			aria-label="Bronify Home"
-			class="bg-base-200 hover:bg-base-200/80 aspect-square rounded-full p-3"
-		>
-			<Home size="1.5em" fill="currentColor" />
-		</a>
-
-		<label class="input input-lg w-full border-none">
-			<svg class="h-[1.5em] opacity-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
-				><g
-					stroke-linejoin="round"
-					stroke-linecap="round"
-					stroke-width="2.5"
-					fill="none"
-					stroke="currentColor"
-					><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.3-4.3"></path></g
-				></svg
-			>
-			<input
-				bind:this={searchInput}
-				bind:value={search}
-				type="search"
-				class="grow"
-				placeholder="What do you want to play?"
-			/>
-			<kbd class="kbd kbd-sm">⌘</kbd>
-			<kbd class="kbd kbd-sm">K</kbd>
-		</label>
-	</div>
-
-	<div class="md:navbar-end hidden gap-2">
-		<button class="btn btn-md" onclick={() => comingSoonModal.showModal()}>Sign in</button>
-		<button class="btn btn-md btn-primary" onclick={() => comingSoonModal.showModal()}
-			>Sign up</button
-		>
-	</div>
-</div>
-
-<Sidebar>
-	{#if srt === undefined || playing === undefined || !settings.lyrics}
-		<div class="bg-base-200 overflow-y-auto rounded-lg {DYNAMIC_HEIGHT_CLASS}">
-			<!-- Search results -->
-			<div
-				class="grid w-full max-w-7xl grid-cols-3 gap-4 p-2 sm:grid-cols-3 md:grid-cols-5 lg:grid-cols-8"
-			>
-				{#each artists as artist (artist.id)}
-					<Artist {artist} />
-				{/each}
-			</div>
-
-			<div
-				class="grid w-full max-w-7xl grid-cols-1 gap-4 p-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5"
-			>
-				{#each songs as song (song.id)}
-					<Cover
-						{song}
-						onClick={() => controls.toggleSong(song)}
-						playing={playing?.id === song.id && !settings.paused}
-					/>
-				{/each}
-			</div>
+		<!-- Search results -->
+		<div class="grid w-full grid-cols-3 gap-4 sm:grid-cols-3 md:grid-cols-5 lg:grid-cols-8">
+			{#each artists as artist (artist.id)}
+				<Artist {artist} />
+			{/each}
 		</div>
-	{:else}
-		<div
-			class="flex w-full justify-center overflow-y-auto rounded-lg bg-blue-500 py-8 {DYNAMIC_HEIGHT_CLASS}"
-		>
-			<Lyrics
-				{srt}
-				song={playing}
-				currentTime={currentSeconds}
-				onLyricClick={(start) => controls.seekTo(start)}
-			/>
-		</div>
-	{/if}
-</Sidebar>
+	</div>
 
-<div class="bg-base-100 border-base-200">
-	<Controls
-		bind:this={controls}
-		maxVolume={50}
-		{player}
-		initialSong={songData[0]}
-		{songs}
-		bind:lyricsSrt={srt}
-		bind:currentSeconds
-		bind:settings
-		bind:playing
-	/>
+	<div>
+		<h1 class="p-2 text-2xl font-semibold text-neutral-100">Your top mixes</h1>
+
+		<div class="grid w-full grid-cols-2 gap-1 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6">
+			{#each tracks as track (track.id)}
+				<Cover {track} onClick={() => player.toggle(track)} />
+			{/each}
+		</div>
+	</div>
 </div>

@@ -11,6 +11,7 @@ type Album = {
 	title: string;
 	artist: string;
 	thumbnail?: string;
+	trackIds: string[];
 };
 
 type Song = {
@@ -20,6 +21,8 @@ type Song = {
 	thumbnail?: string;
 	tags: string[];
 	album?: string;
+
+	durationSeconds: number;
 
 	spotify?: string;
 	youtube: string;
@@ -38,11 +41,18 @@ type Artist = {
 
 const albums: Album[] = [
 	{
-		id: 'lebron-james',
-		title: 'LeBron James',
-		artist: 'ilyaugust',
+		id: 'le-album',
+		title: 'LeAlbum',
+		artist: 'LeBron James',
 		thumbnail:
-			'https://www.cantonrep.com/gcdn/authoring/2010/07/07/NREP/ghows-OH-58e8214e-a55b-49ee-bb5c-50cea622d300-225f1f5f.jpeg?width=660&height=788&fit=crop&format=pjpg&auto=webp'
+			'https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRNG5az_vgnLGH4QtfTD-5entqo3kpLrkhqgaBLs1iaCnPLTub-Ui_R0EQKQKKg0MgIGvHO4nHgpFUBM80',
+		trackIds: [
+			'e71181ef400310f217dd75d47c62023987fc8e8e60e4c85758837dcd9b555e6f',
+			'5c9c8b239df9c4ad7cb6d22e971cccacf47564aca6a1baf31a679f596afc6933',
+			'8eab7c7074850e1966735106d0d64ec38480d75dd8e1128629e295ed3cbc9641',
+			'de9fb6528946b3abb404e7544b86f5078be5e53ad0bd922ff3f8c5fa7f054fc5',
+			'973592b2f6d4a38bd42c4b771a0bd532f55b7b841ebe9ab298343939514041fb'
+		]
 	}
 ];
 
@@ -78,11 +88,6 @@ const artists: Artist[] = [
 			'https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/7320041154731311105~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=42f49685&x-expires=1743033600&x-signature=uP%2B0MxJlWFcV4ZaVKRJ4N7m%2FqPs%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva'
 	},
 	{
-		id: 'DARK MEAT UPC',
-		thumbnail:
-			'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=b4f3d28f&x-expires=1743033600&x-signature=UpRKvnkCHQC488O2LLvopgoMxhw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva'
-	},
-	{
 		id: 'Talented Blake',
 		tiktok: 'imakeparodyzz',
 		thumbnail:
@@ -104,6 +109,7 @@ const songs: Song[] = [
 		thumbnail:
 			'https://image-cdn.essentiallysports.com/wp-content/uploads/USATSI_24369675.jpg?width=600',
 		tags: ['nostalgic', 'emotional', 'mid-tempo'],
+		durationSeconds: 62,
 
 		youtube: 'IY_XvFqfzds'
 	},
@@ -111,6 +117,7 @@ const songs: Song[] = [
 		title: 'Mr. LeBron',
 		artist: 'Andreas',
 		tags: ['upbeat', 'pop', 'catchy'],
+		durationSeconds: 36,
 
 		youtube: '5KzT6yDXTPo'
 	},
@@ -120,6 +127,7 @@ const songs: Song[] = [
 		thumbnail:
 			'https://hips.hearstapps.com/hmg-prod/images/lebron-james-of-the-united-states-defended-by-dennis-news-photo-1722010656.jpg?crop=0.88932xw:1xh;center,top&resize=1200:*',
 		tags: ['high-energy', 'pop', 'anthemic'],
+		durationSeconds: 71,
 
 		youtube: 'LLuoZltZfIU'
 	},
@@ -129,6 +137,7 @@ const songs: Song[] = [
 		thumbnail:
 			'https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/11/1280/1280/lebronjames.jpg?ve=1&tl=1',
 		tags: ['emotional', 'ballad', 'dramatic'],
+		durationSeconds: 54,
 
 		youtube: 'd7X6Wx--n8k'
 	},
@@ -138,6 +147,7 @@ const songs: Song[] = [
 		thumbnail:
 			'https://lalweb.blob.core.windows.net/public/lakers/product-marketing/web/player-page/2024-2025/2425_PlayerPage_Headshot_1920x2304_James_LeBron.jpg',
 		tags: ['upbeat', 'pop', 'catchy'],
+		durationSeconds: 59,
 
 		youtube: 'L9RKIyRA5jE'
 	},
@@ -147,6 +157,7 @@ const songs: Song[] = [
 		thumbnail:
 			'https://media.cnn.com/api/v1/images/stellar/prod/230208002315-01b-lebron-james-gallery-restricted.jpg?q=w_3000,c_fill',
 		tags: ['high-energy', 'pop', 'anthemic'],
+		durationSeconds: 61,
 
 		youtube: 'FG-ASbFCXh4'
 	},
@@ -156,6 +167,7 @@ const songs: Song[] = [
 		thumbnail:
 			'https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2023-12/GettyImages-1804953858%20%281%29.jpg?h=920929c4&itok=qSPPtKit',
 		tags: ['upbeat', 'anthemic', 'motivational'],
+		durationSeconds: 38,
 
 		youtube: 'eOugkPrO-Yw'
 	},
@@ -165,6 +177,7 @@ const songs: Song[] = [
 		thumbnail:
 			'https://st4.depositphotos.com/21607914/23442/i/450/depositphotos_234423390-stock-photo-nba-star-lebron-james-los.jpg',
 		tags: ['high-energy', 'hype', 'triumphant'],
+		durationSeconds: 37,
 
 		youtube: 'NjvaYclj5f4'
 	},
@@ -174,6 +187,7 @@ const songs: Song[] = [
 		thumbnail:
 			'https://st4.depositphotos.com/21607914/23637/i/450/depositphotos_236372956-stock-photo-nba-star-lebron-james-cleveland.jpg',
 		tags: ['cinematic', 'slow-build', 'inspirational'],
+		durationSeconds: 62,
 
 		youtube: '7SlHETBLpOo'
 	},
@@ -183,6 +197,7 @@ const songs: Song[] = [
 		thumbnail:
 			'https://www.cantonrep.com/gcdn/authoring/2010/07/07/NREP/ghows-OH-58e8214e-a55b-49ee-bb5c-50cea622d300-225f1f5f.jpeg?width=660&height=788&fit=crop&format=pjpg&auto=webp',
 		tags: ['emotional', 'ballad', 'dramatic'],
+		durationSeconds: 60,
 
 		youtube: 'oEnqveeyids'
 	},
@@ -190,6 +205,7 @@ const songs: Song[] = [
 		title: "That's Bron",
 		artist: 'ilyaugust',
 		tags: ['catchy', 'upbeat', 'confident'],
+		durationSeconds: 105,
 
 		youtube: 'kbUbLKTzHpE'
 	},
@@ -197,6 +213,7 @@ const songs: Song[] = [
 		title: 'I Write Brons Not Brongedies',
 		artist: 'ilyaugust',
 		tags: ['theatrical', 'high-energy', 'emo-pop'],
+		durationSeconds: 114,
 
 		youtube: '_Qgzr4RZnOE'
 	},
@@ -206,6 +223,7 @@ const songs: Song[] = [
 		thumbnail:
 			'https://media-api.xogrp.com/images/a89f2c95-2e3a-44d9-9793-0fa7faac724d~rs_768.h-cr_0.139.1080.1219',
 		tags: ['romantic', 'slow-jam', 'sincere'],
+		durationSeconds: 61,
 
 		youtube: 'V6i7vkI3dpE'
 	},
@@ -214,6 +232,7 @@ const songs: Song[] = [
 		artist: 'gouenji',
 		thumbnail: 'https://i.ytimg.com/vi/NwQPDUlJKiI/maxresdefault.jpg',
 		tags: ['playful', 'funky', 'feel-good'],
+		durationSeconds: 146,
 
 		spotify: '03e1DoLgfvtFGeMqOQRO5g',
 		youtube: '-jogTy3Pbz0'
@@ -223,15 +242,17 @@ const songs: Song[] = [
 		artist: 'ilyaugust',
 		thumbnail: 'https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84e84b833ace730c9b3bdbb9d1',
 		tags: ['emotional', 'r&b', 'yearning'],
+		durationSeconds: 100,
 
 		spotify: '3VKiLsUzx0hT8zLAARxESG',
 		youtube: 'UUY_uOSSnYw'
 	},
 	{
 		title: 'I Believe in Lebron',
-		artist: 'DARK MEAT UPC',
+		artist: 'Talented Blake',
 		thumbnail: 'https://i.ytimg.com/vi/t1mTgxXCc9o/maxresdefault.jpg',
 		tags: ['inspirational', 'anthemic', 'uplifting'],
+		durationSeconds: 164,
 
 		spotify: '0lpp83OLbp8DdTzM7Q9OLi',
 		youtube: 't1mTgxXCc9o'
@@ -240,6 +261,7 @@ const songs: Song[] = [
 		title: 'Man On The Lakers',
 		artist: 'Talented Blake',
 		tags: ['moody', 'introspective', 'modern-rock'],
+		durationSeconds: 233,
 
 		spotify: '3doVZI24VAUTrXWDTbPTl6',
 		youtube: 't3EKsFkxaq4'
@@ -250,6 +272,7 @@ const songs: Song[] = [
 		thumbnail:
 			'https://www.cantonrep.com/gcdn/authoring/2010/07/07/NREP/ghows-OH-58e8214e-a55b-49ee-bb5c-50cea622d300-225f1f5f.jpeg?width=660&height=788&fit=crop&format=pjpg&auto=webp',
 		tags: ['mid-tempo', 'reflective'],
+		durationSeconds: 25,
 
 		youtube: 'Ewqz5BFC3L4'
 
@@ -269,14 +292,10 @@ const songs: Song[] = [
 
 const outDir = 'src/lib/content';
 
-// delete directory
-try {
-	fs.rmSync(outDir, { recursive: true });
-} catch {}
-// create directory
 fs.mkdirSync(outDir, { recursive: true });
 fs.mkdirSync(path.join(outDir, 'artists'), { recursive: true });
-fs.mkdirSync(path.join(outDir, 'songs'), { recursive: true });
+fs.mkdirSync(path.join(outDir, 'albums'), { recursive: true });
+fs.mkdirSync(path.join(outDir, 'tracks'), { recursive: true });
 
 async function main() {
 	for (const song of songs) {
@@ -296,21 +315,33 @@ async function main() {
 			{ responseType: 'arraybuffer' }
 		);
 		const buffer = Buffer.from(stream.data);
+		const trackBase = path.join(outDir, 'tracks', id);
+
+		fs.mkdirSync(trackBase, { recursive: true });
 
 		// process into 512x512 thumbnail (webp)
 		const result = await sharp(buffer).resize(512, 512, { fit: 'cover' }).webp().toBuffer();
 
-		fs.writeFileSync(path.join(outDir, 'songs', `${id}.webp`), result);
+		fs.writeFileSync(path.join(trackBase, 'thumbnail.webp'), result);
 
 		song.thumbnail = undefined;
 		// located in static/lyrics/{id}.srt
-		song.lyrics = fs.existsSync(path.join('static', 'lyrics', `${id}.srt`));
+		song.lyrics = fs.existsSync(path.join(outDir, 'lyrics', `${id}.srt`));
+
+		//fs.copyFileSync(path.join('static', 'lyrics', `${id}.srt`), path.join(trackBase, 'lyrics.srt'));
+
+		// save audio to static/tracks/{id}/audio.mp3
+		//const audio = ytdl(song.youtube, { filter: 'audioonly', quality: 'highestaudio' });
+
+		//audio.pipe(fs.createWriteStream(path.join(trackBase, 'audio.mp3')));
+		//await new Promise((resolve) => audio.on('end', resolve));
+		fs.writeFileSync(path.join(trackBase, song.youtube), '');
 	}
 
 	songs.sort((a, b) => a.id!.localeCompare(b.id!));
 
 	// write songs
-	fs.writeFileSync(path.join(outDir, 'songs.json'), JSON.stringify(songs));
+	fs.writeFileSync(path.join(outDir, 'tracks.json'), JSON.stringify(songs));
 
 	const index = Fuse.createIndex(['title', 'artist', 'tags', 'username'], songs);
 
@@ -318,7 +349,17 @@ async function main() {
 
 	for (const artist of artists) {
 		// parse thumbnail
-		const stream = await axios.get(artist.thumbnail, { responseType: 'arraybuffer' });
+		const stream = await axios.get(artist.thumbnail, {
+			responseType: 'arraybuffer',
+			validateStatus: () => true
+		});
+		if (stream.status !== 200) {
+			if (!fs.existsSync(path.join(outDir, 'artists', `${artist.id}.webp`)) && artist.thumbnail) {
+				throw new Error(`Failed to fetch thumbnail for artist ${artist.id}`);
+			} else {
+				continue;
+			}
+		}
 		const buffer = Buffer.from(stream.data);
 
 		// process into 512x512 thumbnail (webp)
@@ -331,6 +372,37 @@ async function main() {
 
 	fs.writeFileSync(path.join(outDir, 'artists.json'), JSON.stringify(artists));
 
+	for (const album of albums) {
+		fs.mkdirSync(path.join(outDir, 'albums', album.id), { recursive: true });
+
+		// parse thumbnail
+		const stream = await axios.get(album.thumbnail, {
+			responseType: 'arraybuffer',
+			validateStatus: () => true
+		});
+		if (stream.status !== 200) {
+			if (
+				!fs.existsSync(path.join(outDir, 'albums', album.id, 'thumbnail.webp')) &&
+				album.thumbnail
+			) {
+				throw new Error(`Failed to fetch thumbnail for album ${album.id}`);
+			} else {
+				continue;
+			}
+		}
+		const buffer = Buffer.from(stream.data);
+
+		// process into 512x512 thumbnail (webp)
+		const result = await sharp(buffer).resize(512, 512, { fit: 'cover' }).webp().toBuffer();
+
+		fs.writeFileSync(path.join(outDir, 'albums', album.id, 'thumbnail-64.webp'), result);
+
+		const result2 = await sharp(buffer).resize(1920, 1080, { fit: 'cover' }).webp().toBuffer();
+
+		fs.writeFileSync(path.join(outDir, 'albums', album.id, 'thumbnail.webp'), result2);
+
+		album.thumbnail = undefined;
+	}
 	fs.writeFileSync(path.join(outDir, 'albums.json'), JSON.stringify(albums));
 }
 

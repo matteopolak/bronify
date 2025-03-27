@@ -1,37 +1,39 @@
 <script lang="ts">
-	import { songThumbnail, getArtist } from '$lib/get';
-	import type { Song } from '$lib/types';
+	import { trackThumbnail, getArtist } from '$lib/get';
+	import { player } from '$lib/player.svelte';
+	import type { Track } from '$lib/types';
 	import { MicVocal, Pause, Play } from '@lucide/svelte';
 
-	let { song, playing, onClick }: { song: Song; playing: boolean; onClick: () => void } = $props();
+	let { track, onClick }: { track: Track; onClick: () => void } = $props();
 
-	let url = $derived(songThumbnail(song.id));
-	let artist = $derived(getArtist(song.artist));
+	let url = $derived(trackThumbnail(track.id));
+	let artist = $derived(getArtist(track.artist));
+	let playing = $derived(player.track.id === track.id && !player.paused);
 </script>
 
 <button
-	class="group card hover:bg-base-200 flex h-28 w-auto cursor-pointer flex-row gap-2 p-2 text-left transition-all duration-100 sm:h-auto sm:flex-col"
+	class="group card hover:bg-base-300/50 flex h-28 w-auto cursor-pointer flex-row gap-2 p-3 text-left transition-all duration-100 sm:h-auto sm:flex-col"
 	onclick={onClick}
-	aria-label="Play song"
+	aria-label="Play track"
 >
 	<div class="relative">
 		<img
 			loading="lazy"
 			src={url}
-			alt={song.title}
+			alt={track.title}
 			class="h-24 w-24 rounded-lg brightness-50 sm:h-auto sm:w-auto sm:brightness-100"
 		/>
 
 		<!-- Various badges (top right) like YouTube, Spotify, lyrics support -->
 		<div class="absolute top-2 left-2 flex flex-row gap-1 text-xs md:text-base">
-			{#if song.lyrics}
+			{#if track.lyrics}
 				<MicVocal size="1.2em" />
 			{/if}
 		</div>
 
 		<div class="absolute top-2 right-2 flex flex-row gap-1 text-xs md:text-base">
 			<a
-				href="https://youtube.com/watch?v=${song.youtube}"
+				href="https://youtube.com/watch?v=${track.youtube}"
 				aria-label="YouTube"
 				onclick={(e) => e.stopPropagation()}
 			>
@@ -64,9 +66,9 @@
 				</svg>
 			</a>
 
-			{#if song.spotify}
+			{#if track.spotify}
 				<a
-					href="https://open.spotify.com/track/${song.spotify}"
+					href="https://open.spotify.com/track/${track.spotify}"
 					aria-label="Spotify"
 					onclick={(e) => e.stopPropagation()}
 				>
@@ -101,26 +103,28 @@
 
 	<div class="flex flex-col gap-1">
 		<div class="flex flex-col">
-			<h3 class="text-md line-clamp-1 font-semibold">{song.title}</h3>
+			<h3 class="text-md line-clamp-2 font-semibold">{track.title}</h3>
 			<span class="text-sm text-slate-300">
 				By
 				{#if artist.tiktok}
 					<a
 						href="https://www.tiktok.com/@{artist.tiktok}"
 						onclick={(e) => e.stopPropagation()}
-						class="hover:underline">{song.artist}</a
+						class="hover:underline">{track.artist}</a
 					>
 				{:else}
-					{song.artist}
+					{track.artist}
 				{/if}
 			</span>
 		</div>
 
+		<!--
 		<div class="hide-scrollbar mt-auto flex flex-row flex-nowrap gap-1 overflow-x-auto">
-			{#each song.tags as tag (tag)}
+			{#each track.tags as tag (tag)}
 				<span class="badge badge-ghost break-keep">{tag}</span>
 			{/each}
 		</div>
+		-->
 	</div>
 </button>
 

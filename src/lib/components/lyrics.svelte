@@ -1,15 +1,12 @@
 <script lang="ts">
-	import type { Song } from '$lib/types';
-	import { onDestroy, onMount } from 'svelte';
+	import { onMount } from 'svelte';
 
 	let {
 		srt,
-		song,
 		currentTime,
 		onLyricClick
 	}: {
 		srt: string;
-		song: Song;
 		currentTime: number;
 		onLyricClick: (start: number) => void;
 	} = $props();

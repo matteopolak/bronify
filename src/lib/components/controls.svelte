@@ -1,6 +1,7 @@
 <script lang="ts">
-	import { getArtist, songThumbnail } from '$lib/get';
-	import type { Song, TrackSettings } from '$lib/types';
+	import { getArtist, trackThumbnail } from '$lib/get';
+	import { formatSeconds } from '$lib/util';
+	import { player, settings } from '$lib/player.svelte';
 	import {
 		MicVocal,
 		Pause,
@@ -14,76 +15,21 @@
 		Volume2,
 		VolumeX
 	} from '@lucide/svelte';
-	import { untrack } from 'svelte';
-	import type { YouTubePlayer } from 'youtube-player/dist/types';
 
 	let {
-		initialSong,
-		lyricsSrt = $bindable(),
-		player,
-		maxVolume = 50,
-		songs,
-		currentSeconds = $bindable(),
-		settings = $bindable(),
-		playing = $bindable()
+		maxVolume = 0.5
 	}: {
-		initialSong: Song;
-		lyricsSrt: string | undefined;
-		player: YouTubePlayer;
 		maxVolume: number;
-		songs: Song[];
-		currentSeconds: number;
-		settings: TrackSettings;
-		playing: Song | undefined;
 	} = $props();
 
-	let song = $state(initialSong);
-	let artist = $derived(getArtist(song.artist));
-	let lengthSeconds = $state(60);
-	let url = $derived(songThumbnail(song.id));
-
-	export async function toggleSong(next: Song) {
-		if (playing?.id !== next.id) {
-			fetch(`/lyrics/${next.id}.srt`)
-				.then(async (res) => {
-					if (res.ok) {
-						lyricsSrt = await res.text();
-					} else {
-						lyricsSrt = undefined;
-					}
-				})
-				.catch(() => {});
-
-			await player.loadVideoById(next.youtube);
-			await player.playVideo();
-
-			currentSeconds = 0;
-			settings.paused = false;
-
-			playing = next;
-			song = next;
-
-			return;
-		}
-
-		settings.paused = !settings.paused;
-
-		if (settings.paused) {
-			await player.pauseVideo();
-		} else {
-			await player.playVideo();
-		}
-	}
-
-	export function seekTo(seconds: number) {
-		player.seekTo(seconds, true);
-	}
+	let artist = $derived(getArtist(player.track.artist));
+	let url = $derived(trackThumbnail(player.track.id));
 
 	function onSeekClick(event: MouseEvent) {
 		const progress = event.target as HTMLProgressElement;
 		const value = event.offsetX / progress.offsetWidth;
 
-		player.seekTo(lengthSeconds * value, true);
+		player.seek(player.duration * value);
 	}
 
 	function onSeekDrag(event: MouseEvent) {
@@ -96,8 +42,7 @@
 		const progress = event.target as HTMLProgressElement;
 		const value = event.offsetX / progress.offsetWidth;
 
-		settings.volume = value * maxVolume;
-		player.setVolume(settings.volume);
+		player.volume = value * maxVolume;
 	}
 
 	function onVolumeDrag(event: MouseEvent) {
@@ -106,67 +51,29 @@
 		onVolumeClick(event);
 	}
 
-	function formatSeconds(seconds: number) {
-		const minutes = Math.floor(seconds / 60);
-		const remainingSeconds = Math.floor(seconds % 60);
-
-		return `${minutes}:${remainingSeconds.toString().padStart(2, '0')}`;
-	}
-
 	function normalizeIndex(index: number, length: number) {
 		return ((index % length) + length) % length;
 	}
 
 	function nextRelative(offset: number /*, overflow = true */) {
 		if (settings.shuffle === 'on') {
-			const nextIndex = Math.floor(Math.random() * songs.length);
-			return toggleSong(songs[nextIndex]);
+			const nextIndex = Math.floor(Math.random() * player.queue.length);
+			return player.toggle(player.queue[nextIndex]);
 		}
 
-		const currentIndex = songs.findIndex((s) => s.id === song.id);
-		const nextIndex = normalizeIndex(currentIndex + offset, songs.length);
+		if (settings.loop === 'one') {
+			return player.toggle(player.track, true);
+		}
 
-		return toggleSong(songs[nextIndex]);
-	}
+		const currentIndex = player.queue.findIndex((s) => s.id === player.track.id);
+		const nextIndex = normalizeIndex(currentIndex + offset, player.queue.length);
 
-	$effect(() => {
-		if (player === undefined) return;
-
-		untrack(() => setup());
-	});
-
-	function setup() {
-		player.setVolume(settings.volume);
-
-		player.on('stateChange', async (event) => {
-			if (event.data === 1) {
-				lengthSeconds = await player.getDuration();
-				settings.volume = await player.getVolume();
-			}
-
-			if (event.data === 0) {
-				if (settings.loop === 'one') {
-					await player.seekTo(0, true);
-					await player.playVideo();
-				} else if (settings.loop === 'all') {
-					nextRelative(1);
-				} else {
-					nextRelative(1 /*, false*/);
-				}
-			}
-		});
-
-		setInterval(async () => {
-			if (settings.paused) return;
-
-			const seconds = (await player.getCurrentTime()) ?? 0;
-			currentSeconds = seconds;
-		}, 100);
+		return player.toggle(player.queue[nextIndex]);
 	}
 </script>
 
 {#snippet volume(value: number)}
-	{#if value > 50}
+	{#if value > 0.5}
 		<Volume2 fill="currentColor" size="1em" />
 	{:else if value > 0}
 		<Volume1 fill="currentColor" size="1em" />
@@ -180,23 +87,24 @@
 		class="flex cursor-pointer place-items-center"
 		aria-label="Volume"
 	>
-		<progress class="progress h-1.5 w-20" value={value / 100} max={maxVolume / 100}></progress>
+		<progress class="progress h-1.5 w-20" {value} max={maxVolume}></progress>
 	</button>
 {/snippet}
 
 <div class="navbar relative h-30 flex-wrap place-content-center md:h-20 md:flex-nowrap">
 	<div class="navbar-start h-16 grow basis-full gap-2 self-start md:basis-auto md:self-auto">
-		<img src={url} alt={song.title} sizes="16px" class="h-full rounded-lg" />
+		<img src={url} alt={player.track.title} sizes="16px" class="h-full rounded-lg" />
 
 		<div>
-			<h3 class="text-sm font-semibold">{song.title}</h3>
+			<h3 class="text-sm font-semibold">{player.track.title}</h3>
 			<span class="text-sm text-slate-300">
 				By
 				{#if artist.tiktok}
-					<a href="https://www.tiktok.com/@{artist.tiktok}" class="hover:underline">{song.artist}</a
+					<a href="https://www.tiktok.com/@{artist.tiktok}" class="hover:underline"
+						>{player.track.artist}</a
 					>
 				{:else}
-					{song.artist}
+					{player.track.artist}
 				{/if}
 			</span>
 		</div>
@@ -204,18 +112,18 @@
 		<div class="ml-auto flex flex-col pr-2 lg:hidden">
 			<div class="flex flex-row place-items-center gap-2 place-self-end">
 				<span class="text-xs text-slate-300">
-					{formatSeconds(currentSeconds)}
+					{formatSeconds(player.currentSeconds)}
 				</span>
 
 				<span> / </span>
 
 				<span class="text-xs text-slate-300">
-					{formatSeconds(lengthSeconds)}
+					{formatSeconds(player.duration)}
 				</span>
 			</div>
 
 			<div class="flex flex-row">
-				{@render volume(settings.volume)}
+				{@render volume(player.volume)}
 			</div>
 		</div>
 	</div>
@@ -244,13 +152,13 @@
 			</button>
 
 			<button
-				onclick={() => toggleSong(song)}
+				onclick={() => player.toggle(player.track)}
 				class="bg-base-content cursor-pointer rounded-full p-2 text-left text-black transition-all duration-100 ease-in-out hover:-m-0.5 hover:p-2.5"
 			>
-				{#if !settings.paused}
-					<Pause fill="currentColor" size="1em" />
-				{:else}
+				{#if player.paused}
 					<Play fill="currentColor" size="1em" />
+				{:else}
+					<Pause fill="currentColor" size="1em" />
 				{/if}
 			</button>
 
@@ -291,7 +199,7 @@
 
 		<div class="hidden flex-row place-items-center gap-2 lg:flex lg:w-full">
 			<span class="text-xs text-slate-300">
-				{formatSeconds(currentSeconds)}
+				{formatSeconds(player.currentSeconds)}
 			</span>
 			<button
 				onmousedown={onSeekClick}
@@ -299,11 +207,14 @@
 				class="flex w-full cursor-pointer"
 				aria-label="Seek"
 			>
-				<progress class="progress h-1.5 w-full" value={currentSeconds / lengthSeconds} max={1}
+				<progress
+					class="progress h-1.5 w-full"
+					value={player.duration === 0 ? 0 : player.currentSeconds / player.duration}
+					max={1}
 				></progress>
 			</button>
 			<span class="text-xs text-slate-300">
-				{formatSeconds(lengthSeconds)}
+				{formatSeconds(player.duration)}
 			</span>
 		</div>
 	</div>
@@ -319,7 +230,7 @@
 		</button>
 
 		<div class="flex flex-row gap-1">
-			{@render volume(settings.volume)}
+			{@render volume(player.volume)}
 		</div>
 	</div>
 </div>
@@ -332,7 +243,7 @@
 >
 	<progress
 		class="progress square-progress h-2 w-full !rounded-none lg:hidden"
-		value={currentSeconds / lengthSeconds}
+		value={player.duration === 0 ? 0 : player.currentSeconds / player.duration}
 		max={1}
 	></progress>
 </button>
