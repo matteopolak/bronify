@@ -1,10 +1,10 @@
 <script lang="ts">
 	import Cover from '$lib/components/cover.svelte';
-	import Artist from '$lib/components/artist.svelte';
 	import { player, global } from '$lib/player.svelte';
 	import Fuse from 'fuse.js';
-	import { artistData, trackData, albumData, albumThumbnail } from '$lib/get';
+	import { artistData, trackData, categoryData, categoryThumbnail } from '$lib/get';
 	import type { Collection } from '$lib/types';
+	import Scrollable from '$lib/components/scrollable.svelte';
 
 	const trackIndex = new Fuse(trackData, {
 		keys: ['title', 'artist', 'tags', 'username'],
@@ -42,36 +42,35 @@
 
 {#snippet collection(content: Omit<Collection, 'tracks'>)}
 	<a
-		class="hover:bg-base-300/50 flex flex-row gap-2 rounded-md p-2"
+		class="group card hover:bg-base-300/50 flex h-auto w-48 flex-shrink-0 flex-col gap-2 p-3 text-left transition-all duration-100 sm:flex-col"
 		href="/{content.type}s/{content.id}"
 	>
 		<img
+			loading="lazy"
 			src={content.cover}
-			alt="Album cover"
-			class="h-24 w-24"
-			class:rounded-full={content.type === 'artist'}
-			class:rounded-md={content.type !== 'artist'}
+			alt="Category {content.title}"
+			class="aspect-square w-48 rounded-lg object-cover"
 		/>
 
 		<div class="flex flex-col">
-			<h2 class="text-3xl font-semibold">{content.title}</h2>
-			<p class="text-lg text-neutral-300">{collectionPrefix(content)}{content.subtitle}</p>
+			<h2 class="truncate text-lg font-semibold">{content.title}</h2>
+			<span class="text-sm text-slate-300">Category</span>
 		</div>
 	</a>
 {/snippet}
 
 <div class="space-y-6 p-3">
-	<div class="flex flex-col gap-2 md:hidden">
-		{#each albumData as album (album.id)}
+	<Scrollable>
+		{#each Object.entries(categoryData) as [key, title] (key)}
 			{@render collection({
-				id: album.id,
-				title: album.title,
-				subtitle: album.artist,
-				cover: albumThumbnail(album.id),
-				type: 'album'
+				id: key,
+				title: title,
+				subtitle: '',
+				cover: categoryThumbnail(key),
+				type: 'tag'
 			})}
 		{/each}
-	</div>
+	</Scrollable>
 
 	<!--
 	<div>

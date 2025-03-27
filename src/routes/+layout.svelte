@@ -96,8 +96,12 @@
 	<!-- Manifest -->
 	<link rel="manifest" href="/manifest.webmanifest" />
 
-	<meta name="description" content="Bronify: LeMusic for everyone" />
+	<meta
+		name="description"
+		content="Bronify is your ultimate playlist of songs inspired by LeBron James — from hip hop shout-outs to iconic game-day anthems. Discover the music behind the King."
+	/>
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
+
 	<title>Bronify: LeMusic for everyone</title>
 </svelte:head>
 

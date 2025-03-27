@@ -3,6 +3,7 @@ import type { Album, Artist, Track } from './types';
 import trackData from '$lib/content/tracks.json';
 import artistData from '$lib/content/artists.json';
 import albumData from '$lib/content/albums.json';
+import categoryData from '$lib/content/tags.json';
 
 const TRACK_THUMBS: Record<string, { default: string }> = import.meta.glob(
 	'/src/lib/content/tracks/*/thumbnail.webp',
@@ -28,6 +29,14 @@ const ALBUM_THUMBS: Record<string, { default: string }> = import.meta.glob(
 	}
 );
 
+const CATEGORY_THUMBS: Record<string, { default: string }> = import.meta.glob(
+	'/src/lib/content/tags/*.webp',
+	{
+		eager: true,
+		query: '?url'
+	}
+);
+
 const TRACK_LYRICS: Record<string, { default: string }> = import.meta.glob(
 	'/src/lib/content/tracks/*/lyrics.srt',
 	{
@@ -43,6 +52,8 @@ const TRACK_AUDIO: Record<string, { default: string }> = import.meta.glob(
 		query: '?url'
 	}
 );
+
+console.log(CATEGORY_THUMBS);
 
 const artistMap: Map<string, Artist> = new Map();
 
@@ -90,6 +101,14 @@ export function albumCover(id: string): string {
 	return ALBUM_THUMBS[`/src/lib/content/albums/${id}/thumbnail.webp`].default;
 }
 
+export function categoryThumbnail(id: string): string {
+	return CATEGORY_THUMBS[`/src/lib/content/tags/${id}-thumb.webp`].default;
+}
+
+export function categoryCover(id: string): string {
+	return CATEGORY_THUMBS[`/src/lib/content/tags/${id}-cover.webp`].default;
+}
+
 export function trackLyrics(id: string): string | undefined {
 	return TRACK_LYRICS[`/src/lib/content/tracks/${id}/lyrics.srt`]?.default;
 }
@@ -98,4 +117,4 @@ export function trackAudio(id: string): string {
 	return TRACK_AUDIO[`/src/lib/content/tracks/${id}/audio.mp3`].default;
 }
 
-export { trackData, artistData, albumData };
+export { trackData, artistData, albumData, categoryData };

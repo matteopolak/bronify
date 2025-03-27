@@ -33,7 +33,7 @@ export type Collection = {
 	title: string;
 	subtitle: string;
 	cover: string;
-	type: 'album' | 'playlist' | 'artist';
+	type: 'album' | 'playlist' | 'artist' | 'tag';
 	tracks: Track[];
 };
 
