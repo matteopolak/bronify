@@ -188,7 +188,7 @@
 
 			<button
 				onclick={() => (settings.lyrics = !settings.lyrics)}
-				class="absolute right-4 bottom-[1.9rem] cursor-pointer self-end text-left transition-all duration-100 ease-in-out lg:hidden"
+				class="absolute right-4 bottom-[1.2rem] cursor-pointer self-end text-left transition-all duration-100 ease-in-out lg:hidden"
 				class:text-slate-400={!settings.lyrics}
 				class:hover:text-white={!settings.lyrics}
 				class:text-white={settings.lyrics}
