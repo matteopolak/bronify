@@ -98,11 +98,27 @@ const artists: Artist[] = [
 		tiktok: 'andreas.prod5',
 		thumbnail:
 			'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/29ea639998507390f7595092c05b8ccd~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=4fdb8be7&x-expires=1743112800&x-signature=pEWPbuBI4QI8V8ZlD7NzSLXd%2BvE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva'
+	},
+	{
+		id: 'OkaySpade',
+		tiktok: 'itsokayspade',
+		thumbnail:
+			'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f8cf259178b38bb1f845b8417b8f30a1~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=ea46dd12&x-expires=1743217200&x-signature=8GnInSyd6G2IP%2FrMJeN2WVn9Ixg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva'
 	}
 ];
 
 const songs: Song[] = [
 	// has lyrics
+	{
+		title: 'LeBron LeBron LeBron James',
+		artist: 'OkaySpade',
+		thumbnail:
+			'https://cdn.vox-cdn.com/thumbor/HWLF1dy07k5fIWm_h9NmDHjQLKs=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19926892/1191304234.jpg.jpg',
+		tags: ['high-energy', 'pop', 'anthemic'],
+		durationSeconds: 102,
+
+		youtube: 'r2zAt2amp-8'
+	},
 	{
 		title: 'Bring Me Back To Bron',
 		artist: 'ilyaugust',
@@ -195,7 +211,7 @@ const songs: Song[] = [
 		title: "I'd Catch A LeNade For You",
 		artist: 'ilyaugust',
 		thumbnail:
-			'https://www.cantonrep.com/gcdn/authoring/2010/07/07/NREP/ghows-OH-58e8214e-a55b-49ee-bb5c-50cea622d300-225f1f5f.jpeg?width=660&height=788&fit=crop&format=pjpg&auto=webp',
+			'https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_xl_2x/f_auto/primary/txu5fblpwaeywgda1dct',
 		tags: ['emotional', 'ballad', 'dramatic'],
 		durationSeconds: 60,
 
@@ -204,6 +220,7 @@ const songs: Song[] = [
 	{
 		title: "That's Bron",
 		artist: 'ilyaugust',
+		thumbnail: 'https://uproxx.com/wp-content/uploads/2018/02/bron3.jpg?w=640',
 		tags: ['catchy', 'upbeat', 'confident'],
 		durationSeconds: 105,
 
@@ -212,6 +229,8 @@ const songs: Song[] = [
 	{
 		title: 'I Write Brons Not Brongedies',
 		artist: 'ilyaugust',
+		thumbnail:
+			'https://images.news18.com/ibnlive/uploads/2022/12/lebron-james-167231417216x9.jpg?impolicy=website&width=640&height=360',
 		tags: ['theatrical', 'high-energy', 'emo-pop'],
 		durationSeconds: 114,
 
@@ -275,19 +294,7 @@ const songs: Song[] = [
 		durationSeconds: 25,
 
 		youtube: 'Ewqz5BFC3L4'
-
-		// no lyrics
 	}
-	/*
-	{
-		title: 'LeBron LeBron LeBron James',
-		artist: 'jettasnfl',
-		username: 'jettasnfl',
-		tags: ['chill', 'lofi'],
-
-		youtube: ''
-	}
-	*/
 ] satisfies Song[];
 
 const outDir = 'src/lib/content';
