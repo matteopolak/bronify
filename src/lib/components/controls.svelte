@@ -1,4 +1,6 @@
 <script lang="ts">
+	import { shortcut, type ShortcutEventDetail } from '@svelte-put/shortcut';
+
 	import { getArtist, trackThumbnail } from '$lib/get';
 	import { formatSeconds } from '$lib/util';
 	import { player, settings } from '$lib/player.svelte';
@@ -70,7 +72,107 @@
 
 		return player.toggle(player.queue[nextIndex]);
 	}
+
+	function handleShortcut(detail: ShortcutEventDetail) {
+		detail.originalEvent.preventDefault();
+
+		switch (detail.trigger.key) {
+			case ' ':
+				player.toggle(player.track);
+				break;
+			case 'ArrowLeft':
+				nextRelative(-1);
+				break;
+			case 'ArrowRight':
+				nextRelative(1);
+				break;
+			case 'ArrowUp':
+				player.volume = Math.min(player.volume + 0.01, maxVolume);
+				break;
+			case 'ArrowDown':
+				player.volume = Math.max(player.volume - 0.01, 0);
+				break;
+			case 'm':
+				settings.lyrics = !settings.lyrics;
+				break;
+			case 's':
+				settings.shuffle = settings.shuffle === 'off' ? 'on' : 'off';
+				break;
+			case 'r':
+				settings.loop = settings.loop === 'none' ? 'all' : settings.loop === 'all' ? 'one' : 'none';
+				break;
+			case 'l':
+				settings.loop = settings.loop === 'none' ? 'one' : settings.loop === 'one' ? 'all' : 'none';
+				break;
+		}
+	}
 </script>
+
+<svelte:window
+	use:shortcut={{
+		// space to play/pause
+		trigger: {
+			key: ' ',
+			callback: handleShortcut
+		}
+	}}
+	use:shortcut={{
+		// arrow keys to navigate
+		trigger: {
+			key: 'ArrowLeft',
+			callback: handleShortcut
+		}
+	}}
+	use:shortcut={{
+		// arrow keys to navigate
+		trigger: {
+			key: 'ArrowRight',
+			callback: handleShortcut
+		}
+	}}
+	use:shortcut={{
+		// arrow keys to navigate
+		trigger: {
+			key: 'ArrowUp',
+			callback: handleShortcut
+		}
+	}}
+	use:shortcut={{
+		// arrow keys to navigate
+		trigger: {
+			key: 'ArrowDown',
+			callback: handleShortcut
+		}
+	}}
+	use:shortcut={{
+		// m to toggle lyrics
+		trigger: {
+			key: 'm',
+			callback: handleShortcut
+		}
+	}}
+	use:shortcut={{
+		// s to toggle shuffle
+		trigger: {
+			key: 's',
+			callback: handleShortcut
+		}
+	}}
+	use:shortcut={{
+		// r to toggle repeat
+		trigger: {
+			key: 'r',
+			callback: handleShortcut
+		}
+	}}
+	use:shortcut={{
+		// l to toggle loop
+		trigger: {
+			key: 'l',
+			callback: handleShortcut
+		}
+	}}
+/>
 
 {#snippet volume(value: number)}
 	{#if value > 0.5}
@@ -99,13 +201,9 @@
 			<h3 class="text-sm font-semibold">{player.track.title}</h3>
 			<span class="text-sm text-slate-300">
 				By
-				{#if artist.tiktok}
-					<a href="https://www.tiktok.com/@{artist.tiktok}" class="hover:underline"
-						>{player.track.artist}</a
-					>
-				{:else}
+				<a href="/artists/{player.track.artist}" class="hover:underline">
 					{player.track.artist}
-				{/if}
+				</a>
 			</span>
 		</div>
 

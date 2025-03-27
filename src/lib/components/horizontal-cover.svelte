@@ -16,8 +16,8 @@
 	class="group card flex h-16 w-full cursor-pointer flex-row gap-2 rounded-md p-2 pr-4 text-left transition-all duration-100"
 	onclick={onClick}
 	aria-label="Play track"
-	class:bg-base-300={playing}
-	class:hover:bg-base-300={!playing}
+	class:playing
+	class:not-playing={!playing}
 >
 	<div
 		class="aspect-square place-items-center justify-center"
@@ -53,15 +53,9 @@
 			<h3 class="text-md line-clamp-1 font-semibold">{track.title}</h3>
 			<span class="text-sm text-slate-300">
 				By
-				{#if artist.tiktok}
-					<a
-						href="https://www.tiktok.com/@{artist.tiktok}"
-						onclick={(e) => e.stopPropagation()}
-						class="hover:underline">{track.artist}</a
-					>
-				{:else}
+				<a href="/artists/{artist.id}" onclick={(e) => e.stopPropagation()} class="hover:underline">
 					{track.artist}
-				{/if}
+				</a>
 			</span>
 		</div>
 	</div>
@@ -72,6 +66,8 @@
 </button>
 
 <style>
+	@reference '../../app.css';
+
 	.hide-scrollbar::-webkit-scrollbar {
 		display: none;
 	}
@@ -79,5 +75,13 @@
 	.hide-scrollbar {
 		-ms-overflow-style: none;
 		scrollbar-width: none;
+	}
+
+	.playing {
+		@apply bg-base-300/50;
+	}
+
+	.not-playing {
+		@apply hover:bg-base-300/50;
 	}
 </style>

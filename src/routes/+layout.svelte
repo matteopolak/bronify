@@ -219,7 +219,7 @@
 				style="background-color: {lyricsBackgroundColor}"
 			>
 				<Lyrics
-					srt={player.lyrics}
+					lyrics={player.lyrics}
 					currentTime={player.currentSeconds}
 					onLyricClick={(start) => player.seek(start)}
 				/>

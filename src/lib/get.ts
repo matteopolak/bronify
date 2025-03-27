@@ -1,4 +1,4 @@
-import type { Album, Artist } from './types';
+import type { Album, Artist, Track } from './types';
 
 import trackData from '$lib/content/tracks.json';
 import artistData from '$lib/content/artists.json';
@@ -56,12 +56,22 @@ for (const album of albumData) {
 	albumMap.set(album.id, album);
 }
 
+const trackMap: Map<string, Track> = new Map();
+
+for (const track of trackData) {
+	trackMap.set(track.id, track);
+}
+
 export function getArtist(id: string): Artist {
 	return artistMap.get(id)!;
 }
 
 export function getAlbum(id: string): Album {
 	return albumMap.get(id)!;
+}
+
+export function getTrack(id: string): Track {
+	return trackMap.get(id)!;
 }
 
 export function artistThumbnail(id: string): string {

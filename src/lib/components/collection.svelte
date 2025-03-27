@@ -1,9 +1,11 @@
 <script lang="ts">
+	import { getArtist } from '$lib/get';
 	import { player } from '$lib/player.svelte';
 	import type { Collection } from '$lib/types';
 	import HorizontalCover from './horizontal-cover.svelte';
 
 	let { content }: { content: Collection } = $props();
+	let artist = $derived(content.type === 'artist' ? getArtist(content.id) : null);
 </script>
 
 <div
@@ -34,7 +36,16 @@
 		{/if}
 
 		<h2 class="text-7xl font-extrabold lg:text-8xl">{content.title}</h2>
-		<p class="text-md text-neutral-300">{content.subtitle}</p>
+		<p class="text-md text-neutral-300">
+			{content.subtitle}
+
+			{#if artist?.tiktok}
+				&bull;
+				<a href="https://tiktok.com/@${artist.tiktok}" class="hover:underline">
+					@{artist.tiktok} on TikTok
+				</a>
+			{/if}
+		</p>
 	</div>
 </div>
 

@@ -47,17 +47,7 @@ export class Player {
 	// load from a URL
 	async load(track: Track) {
 		this.audio.src = trackAudio(track.id);
-
-		const lyricsUrl = trackLyrics(track.id);
-		if (!lyricsUrl) return;
-
-		const res = await fetch(lyricsUrl);
-
-		if (res.ok) {
-			this.lyrics = await res.text();
-		} else {
-			this.lyrics = null;
-		}
+		this.lyrics = await resolveLyrics(track);
 	}
 
 	// toggles if the track is active. otherwise, starts it
@@ -71,9 +61,7 @@ export class Player {
 			return;
 		}
 
-		this.paused = !this.paused;
-
-		if (this.paused) {
+		if (!this.paused) {
 			if (play) {
 				this.seek(0);
 				this.play();
@@ -96,6 +84,19 @@ export class Player {
 	// set the current time in seconds
 	seek(seconds: number) {
 		this.audio.currentTime = seconds;
+	}
+}
+
+export async function resolveLyrics(track: Track) {
+	const lyricsUrl = trackLyrics(track.id);
+	if (!lyricsUrl) return null;
+
+	const res = await fetch(lyricsUrl);
+
+	if (res.ok) {
+		return await res.text();
+	} else {
+		return null;
 	}
 }
 

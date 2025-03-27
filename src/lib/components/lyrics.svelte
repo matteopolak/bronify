@@ -2,11 +2,11 @@
 	import { onMount } from 'svelte';
 
 	let {
-		srt,
+		lyrics: srt,
 		currentTime,
 		onLyricClick
 	}: {
-		srt: string;
+		lyrics: string;
 		currentTime: number;
 		onLyricClick: (start: number) => void;
 	} = $props();
@@ -42,6 +42,16 @@
 	let lyricElements: HTMLElement[] = $state([]);
 
 	$effect(() => {
+		if (currentTime === -1) {
+			activeIndex = -1;
+			// scroll so first lyric is at the top
+			lyricsContainer.scrollTo({
+				top: lyricElements[0].offsetTop,
+				behavior: 'smooth'
+			});
+			return;
+		}
+
 		let lastActiveIndex = activeIndex;
 
 		// Binary search to find active lyric
