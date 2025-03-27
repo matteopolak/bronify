@@ -45,13 +45,16 @@
 		"vite": "^6.0.0"
 	},
 	"pnpm": {
-		"onlyBuiltDependencies": ["esbuild"]
+		"onlyBuiltDependencies": [
+			"esbuild"
+		]
 	},
 	"dependencies": {
 		"@lucide/svelte": "^0.483.0",
 		"@svelte-put/shortcut": "^4.1.0",
 		"axios": "^1.8.4",
 		"daisyui": "^5.0.9",
-		"fuse.js": "^7.1.0"
+		"fuse.js": "^7.1.0",
+		"svelte-device-info": "^1.0.6"
 	}
 }

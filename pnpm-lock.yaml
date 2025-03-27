@@ -23,6 +23,9 @@ importers:
       fuse.js:
         specifier: ^7.1.0
         version: 7.1.0
+      svelte-device-info:
+        specifier: ^1.0.6
+        version: 1.0.6
     devDependencies:
       '@distube/yt-dlp':
         specifier: ^2.0.1
@@ -1980,6 +1983,9 @@ packages:
       svelte: ^4.0.0 || ^5.0.0-next.0
       typescript: '>=5.0.0'
 
+  svelte-device-info@1.0.6:
+    resolution: {integrity: sha512-G13YYkxnlz5AryOps8KFHFt8+5Ne7JiZgTxtYEXLVBF4UAwu9I1F+Xcd9rfhTZqUUtF9fm4qJpSi3I6p1JUt6Q==}
+
   svelte-eslint-parser@1.1.0:
     resolution: {integrity: sha512-JP0v/wzDXWxza6c8K9ZjKKHYfgt0KidlbWx1e9n9UV4q+o28GTkk71fR0IDZDmLUDYs3vSq0+Tm9fofDqzGe1w==}
     engines: {node: ^18.18.0 || ^20.9.0 || >=21.1.0}
@@ -3829,6 +3835,10 @@ snapshots:
       typescript: 5.8.2
     transitivePeerDependencies:
       - picomatch
+
+  svelte-device-info@1.0.6:
+    dependencies:
+      tslib: 2.8.1
 
   svelte-eslint-parser@1.1.0(svelte@5.25.3):
     dependencies:

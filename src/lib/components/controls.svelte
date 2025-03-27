@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { shortcut, type ShortcutEventDetail } from '@svelte-put/shortcut';
+	import Device from 'svelte-device-info';
 
 	import { getArtist, trackThumbnail } from '$lib/get';
 	import { formatSeconds } from '$lib/util';
@@ -73,8 +74,22 @@
 		return player.toggle(player.queue[nextIndex]);
 	}
 
-	function handleShortcut(detail: ShortcutEventDetail) {
-		detail.originalEvent.preventDefault();
+	function handleShortcut(event: CustomEvent<ShortcutEventDetail>) {
+		if (Device.isMobile) return;
+
+		// check focused element globally
+		const target = event.detail.originalEvent.target;
+
+		if (target instanceof HTMLInputElement || target instanceof HTMLTextAreaElement) {
+			return;
+		}
+
+		// if the key is " " and the target is not a button, prevent the default action
+		if (event.detail.trigger.key === ' ' && !(target instanceof HTMLButtonElement)) {
+			event.detail.originalEvent.preventDefault();
+		}
+
+		const detail = event.detail;
 
 		switch (detail.trigger.key) {
 			case ' ':
@@ -104,74 +119,30 @@
 			case 'l':
 				settings.loop = settings.loop === 'none' ? 'one' : settings.loop === 'one' ? 'all' : 'none';
 				break;
+			case 'Escape':
+				settings.lyrics = false;
+				break;
 		}
 	}
 </script>
 
 <svelte:window
 	use:shortcut={{
-		// space to play/pause
-		trigger: {
-			key: ' ',
-			callback: handleShortcut
-		}
+		type: 'keydown',
+		trigger: [
+			{ key: ' ' },
+			{ key: 'ArrowLeft' },
+			{ key: 'ArrowRight' },
+			{ key: 'ArrowUp' },
+			{ key: 'ArrowDown' },
+			{ key: 'm' },
+			{ key: 's' },
+			{ key: 'r' },
+			{ key: 'l' },
+			{ key: 'Escape' }
+		]
 	}}
-	use:shortcut={{
-		// arrow keys to navigate
-		trigger: {
-			key: 'ArrowLeft',
-			callback: handleShortcut
-		}
-	}}
-	use:shortcut={{
-		// arrow keys to navigate
-		trigger: {
-			key: 'ArrowRight',
-			callback: handleShortcut
-		}
-	}}
-	use:shortcut={{
-		// arrow keys to navigate
-		trigger: {
-			key: 'ArrowUp',
-			callback: handleShortcut
-		}
-	}}
-	use:shortcut={{
-		// arrow keys to navigate
-		trigger: {
-			key: 'ArrowDown',
-			callback: handleShortcut
-		}
-	}}
-	use:shortcut={{
-		// m to toggle lyrics
-		trigger: {
-			key: 'm',
-			callback: handleShortcut
-		}
-	}}
-	use:shortcut={{
-		// s to toggle shuffle
-		trigger: {
-			key: 's',
-			callback: handleShortcut
-		}
-	}}
-	use:shortcut={{
-		// r to toggle repeat
-		trigger: {
-			key: 'r',
-			callback: handleShortcut
-		}
-	}}
-	use:shortcut={{
-		// l to toggle loop
-		trigger: {
-			key: 'l',
-			callback: handleShortcut
-		}
-	}}
+	onshortcut={handleShortcut}
 />
 
 {#snippet volume(value: number)}

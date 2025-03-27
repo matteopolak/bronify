@@ -109,12 +109,6 @@
 			callback: handleK
 		}
 	}}
-	use:shortcut={{
-		trigger: {
-			key: 'Escape',
-			callback: () => (settings.lyrics = false)
-		}
-	}}
 />
 
 <audio bind:this={audioElement} hidden />
