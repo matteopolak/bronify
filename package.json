@@ -12,9 +12,11 @@
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
 		"format": "prettier --write .",
 		"lint": "prettier --check . && eslint .",
-		"process": "node --experimental-strip-types scripts/process.ts"
+		"process": "node --experimental-strip-types scripts/process.ts",
+		"collect": "node --experimental-strip-types scripts/collect.ts"
 	},
 	"devDependencies": {
+		"@distube/yt-dlp": "^2.0.1",
 		"@distube/ytdl-core": "^4.16.5",
 		"@eslint/compat": "^1.2.5",
 		"@eslint/js": "^9.18.0",
@@ -26,6 +28,7 @@
 		"@tailwindcss/vite": "^4.0.0",
 		"@types/node": "^22.13.11",
 		"@types/youtube-player": "^5.5.11",
+		"distube": "^5.0.6",
 		"eslint": "^9.18.0",
 		"eslint-config-prettier": "^10.0.1",
 		"eslint-plugin-svelte": "^3.0.0",
@@ -42,9 +45,7 @@
 		"vite": "^6.0.0"
 	},
 	"pnpm": {
-		"onlyBuiltDependencies": [
-			"esbuild"
-		]
+		"onlyBuiltDependencies": ["esbuild"]
 	},
 	"dependencies": {
 		"@lucide/svelte": "^0.483.0",

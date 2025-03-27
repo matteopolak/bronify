@@ -9,7 +9,7 @@
 	import Sidebar from '$lib/components/sidebar.svelte';
 
 	import { onMount, type Snippet } from 'svelte';
-	import { Heart, Home } from '@lucide/svelte';
+	import { Heart, Home, Menu } from '@lucide/svelte';
 	import { shortcut, type ShortcutEventDetail } from '@svelte-put/shortcut';
 
 	let { children }: { children: Snippet } = $props();
@@ -172,6 +172,13 @@
 		</div>
 
 		<div class="navbar-center mx-auto w-full max-w-lg gap-2 md:mx-0 md:w-auto lg:w-full">
+			<label
+				for="sidebar"
+				class="bg-base-200 hover:bg-base-200/80 aspect-square rounded-full p-3 md:hidden"
+			>
+				<Menu size="1.5em" fill="currentColor" />
+			</label>
+
 			<a
 				href="/"
 				aria-label="Bronify Home"
@@ -211,7 +218,7 @@
 		</div>
 	</div>
 
-	<Sidebar>
+	<Sidebar id="sidebar">
 		{#if player.lyrics && settings.lyrics}
 			<div
 				class="flex w-full justify-center overflow-y-auto rounded-lg py-8 {DYNAMIC_HEIGHT_CLASS}"

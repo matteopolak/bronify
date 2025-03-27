@@ -41,7 +41,7 @@
 
 			{#if artist?.tiktok}
 				&bull;
-				<a href="https://tiktok.com/@${artist.tiktok}" class="hover:underline">
+				<a href="https://tiktok.com/@{artist.tiktok}" class="hover:underline">
 					@{artist.tiktok} on TikTok
 				</a>
 			{/if}

@@ -3,6 +3,10 @@ import { trackData } from './get';
 import { trackAudio, trackLyrics } from './get';
 import type { Track, TrackSettings } from './types';
 
+const LYRICS_PLACEHOLDER = `1
+00:00:00,000 --> 00:00:00,000
+No lyrics yet, check back soon!`;
+
 export class Player {
 	public audio!: HTMLAudioElement;
 
@@ -47,7 +51,7 @@ export class Player {
 	// load from a URL
 	async load(track: Track) {
 		this.audio.src = trackAudio(track.id);
-		this.lyrics = await resolveLyrics(track);
+		this.lyrics = (await resolveLyrics(track)) ?? LYRICS_PLACEHOLDER;
 	}
 
 	// toggles if the track is active. otherwise, starts it

@@ -86,7 +86,10 @@
 
 			// scroll to the line such that it's in the middle of the container
 			lyricsContainer.scrollTo({
-				top: activeElement.offsetTop - lyricsContainer.clientHeight / 2 + 100,
+				top:
+					activeElement.offsetTop -
+					lyricsContainer.clientHeight / 2 +
+					activeElement.clientHeight / 2,
 				behavior: 'smooth'
 			});
 		}

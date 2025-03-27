@@ -2,12 +2,13 @@
 	import albumData from '$lib/content/albums.json';
 	import artistData from '$lib/content/artists.json';
 
-	import { DYNAMIC_HEIGHT_CLASS } from '$lib/constants';
+	import { DYNAMIC_HEIGHT_CLASS_SIDEBAR, DYNAMIC_HEIGHT_CLASS } from '$lib/constants';
 	import type { Collection } from '$lib/types';
 	import { Library } from '@lucide/svelte';
 	import { albumThumbnail, artistThumbnail } from '$lib/get';
+	import type { Snippet } from 'svelte';
 
-	let { children } = $props();
+	let { children, id }: { children: Snippet; id: string } = $props();
 
 	let selected: string | undefined = $state();
 
@@ -49,12 +50,13 @@
 {/snippet}
 
 <div class="drawer md:drawer-open px-0 md:px-2">
-	<input id="my-drawer" type="checkbox" class="drawer-toggle" />
+	<input {id} type="checkbox" class="drawer-toggle" />
+
 	<div class="drawer-content pb-32 md:pl-2 {DYNAMIC_HEIGHT_CLASS}">
 		{@render children()}
 	</div>
-	<div class="drawer-side {DYNAMIC_HEIGHT_CLASS} rounded-lg">
-		<label for="my-drawer" aria-label="close sidebar" class="drawer-overlay"></label>
+	<div class="drawer-side {DYNAMIC_HEIGHT_CLASS_SIDEBAR} z-20 rounded-lg">
+		<label for="sidebar" aria-label="close sidebar" class="drawer-overlay"></label>
 		<div class="bg-base-200 text-base-content flex min-h-full w-3xs flex-col gap-1 p-2">
 			<h1 class="p-4 font-semibold text-neutral-400">
 				<Library class="inline" />
