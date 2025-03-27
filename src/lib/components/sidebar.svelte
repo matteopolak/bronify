@@ -55,7 +55,7 @@
 	</div>
 	<div class="drawer-side {DYNAMIC_HEIGHT_CLASS} rounded-lg">
 		<label for="my-drawer" aria-label="close sidebar" class="drawer-overlay"></label>
-		<div class="bg-base-200 text-base-content flex min-h-full w-2xs flex-col gap-1 p-2">
+		<div class="bg-base-200 text-base-content flex min-h-full w-3xs flex-col gap-1 p-2">
 			<h1 class="p-4 font-semibold text-neutral-400">
 				<Library class="inline" />
 				Your Library

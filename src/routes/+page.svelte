@@ -42,7 +42,7 @@
 	<div>
 		<h1 class="p-2 text-2xl font-semibold text-neutral-100">Your top mixes</h1>
 
-		<div class="grid w-full grid-cols-2 gap-1 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6">
+		<div class="grid w-full grid-cols-1 gap-1 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6">
 			{#each tracks as track (track.id)}
 				<Cover {track} onClick={() => player.toggle(track)} />
 			{/each}
