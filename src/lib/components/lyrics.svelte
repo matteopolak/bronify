@@ -52,8 +52,6 @@
 			return;
 		}
 
-		let lastActiveIndex = activeIndex;
-
 		// Binary search to find active lyric
 		let left = 0;
 		let right = lyrics.length - 1;
@@ -79,21 +77,15 @@
 		if (lyrics[lyrics.length - 1].end < currentTime) {
 			activeIndex = lyrics.length - 1;
 		}
+	});
 
-		if (lastActiveIndex !== activeIndex) {
-			// Scroll smoothly in the parent container instead of jumping
-			const activeElement = lyricElements[activeIndex];
+	$effect(() => {
+		const activeElement = lyricElements[activeIndex];
 
-			// scroll to the line such that it's in the middle of the container
-
-			lyricsContainer.scrollTo({
-				top:
-					activeElement.offsetTop -
-					lyricsContainer.clientHeight / 2 +
-					activeElement.clientHeight / 2,
-				behavior: 'smooth'
-			});
-		}
+		activeElement.scrollIntoView({
+			behavior: 'smooth',
+			block: 'center'
+		});
 	});
 
 	onMount(() => {
@@ -107,11 +99,8 @@
 <!-- Scrollable lyrics container -->
 <div
 	bind:this={lyricsContainer}
-	class="hide-scrollbar flex h-screen max-w-lg flex-col items-center space-y-4 overflow-y-scroll px-4 py-4 text-2xl font-bold text-white/70 md:text-3xl"
+	class="hide-scrollbar my-[50vh] flex h-screen max-w-lg flex-col items-start space-y-4 overflow-y-scroll px-4 text-2xl font-bold text-white/70 md:text-3xl"
 >
-	<!-- Spacer before lyrics -->
-	<div class="shrink-0 basis-[20vh] md:basis-[50vh]"></div>
-
 	{#each lyrics as lyric, i (lyric.start)}
 		<button
 			id="lyric-{i}"
@@ -123,9 +112,6 @@
 			{lyric.text}
 		</button>
 	{/each}
-
-	<!-- Spacer after lyrics -->
-	<div class="shrink-0 basis-[25vh] md:basis-[50vh]"></div>
 </div>
 
 <style>

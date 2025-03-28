@@ -13,8 +13,19 @@ for (const track of tracks) {
 	tracksByArtist.get(track.artist)?.push(track.id);
 }
 
-// sort tracks by id
+const hasLyrics = new Map<string, boolean>();
+
+for (const track of tracks) {
+	if (fs.existsSync(`src/lib/content/tracks/${track.id}/lyrics.srt`)) {
+		hasLyrics.set(track.id, true);
+	}
+}
+
+// if track has lyrics, it goes first. if equal, sort by id
 tracks.sort((a, b) => {
+	if (hasLyrics.get(b.id) !== hasLyrics.get(a.id)) {
+		return hasLyrics.get(b.id) ? 1 : -1;
+	}
 	return a.id.localeCompare(b.id);
 });
 

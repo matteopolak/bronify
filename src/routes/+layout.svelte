@@ -11,6 +11,7 @@
 	import { onMount, type Snippet } from 'svelte';
 	import { Heart, Home, Menu } from '@lucide/svelte';
 	import { shortcut, type ShortcutEventDetail } from '@svelte-put/shortcut';
+	import { beforeNavigate } from '$app/navigation';
 
 	let { children }: { children: Snippet } = $props();
 	let audioElement: HTMLAudioElement = $state()!;
@@ -87,6 +88,14 @@
 	}
 
 	let lyricsBackgroundColor = $derived(pastelColorFromString(player.track.id));
+
+	beforeNavigate(() => {
+		if (comingSoonModal.open) {
+			comingSoonModal.close();
+		}
+
+		settings.lyrics = false;
+	});
 </script>
 
 <svelte:head>
@@ -219,7 +228,7 @@
 	<Sidebar id="sidebar">
 		{#if player.lyrics && settings.lyrics}
 			<div
-				class="flex w-full justify-center overflow-y-auto rounded-lg py-8 {DYNAMIC_HEIGHT_CLASS}"
+				class="flex w-full overflow-y-auto rounded-lg py-8 {DYNAMIC_HEIGHT_CLASS}"
 				style="background-color: {lyricsBackgroundColor}"
 			>
 				<Lyrics
