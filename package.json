@@ -5,7 +5,7 @@
 	"type": "module",
 	"scripts": {
 		"dev": "vite dev",
-		"build": "vite build",
+		"build": "pnpm pre-build && vite build",
 		"preview": "vite preview",
 		"prepare": "svelte-kit sync || echo ''",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
@@ -20,7 +20,8 @@
 		"add-audio": "node --experimental-strip-types scripts/add_audio.ts",
 		"add-lyrics": "node --experimental-strip-types scripts/add_lyrics.ts",
 		"stats": "node --experimental-strip-types scripts/stats.ts",
-		"add-album-art": "node --experimental-strip-types scripts/add_album_art.ts"
+		"add-album-art": "node --experimental-strip-types scripts/add_album_art.ts",
+		"pre-build": "node --experimental-strip-types scripts/pre_build.ts"
 	},
 	"devDependencies": {
 		"@eslint/compat": "^1.2.5",
