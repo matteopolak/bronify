@@ -1,14 +1,14 @@
 [
-  {
-    "id": "le-album",
-    "title": "LeAlbum",
-    "artist": "LeBron James",
-    "trackIds": [
-      "Ct7Y8Whu",
-      "wgc1kL3e",
-      "W0iDrBau",
-      "YJlOz-B5",
-      "-b6Bbaxf"
-    ]
-  }
+	{
+		"id": "le-album",
+		"title": "LeAlbum",
+		"artist": "LeBron James",
+		"trackIds": ["Ct7Y8Whu", "wgc1kL3e", "W0iDrBau", "YJlOz-B5", "-b6Bbaxf"]
+	},
+	{
+		"id": "r-and-bron",
+		"title": "R&Bron",
+		"artist": "Bronify",
+		"trackIds": ["Oks-9n8L", "jZ2TDuBg", "a9DmECcZ", "5VxzeUBG", "qgMH_3wH", "21VDiD-A"]
+	}
 ]

@@ -12,12 +12,17 @@
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
 		"format": "prettier --write .",
 		"lint": "prettier --check . && eslint .",
-		"process": "node --experimental-strip-types scripts/process.ts",
-		"collect": "node --experimental-strip-types scripts/collect.ts"
+		"collect": "node --experimental-strip-types scripts/collect.ts",
+		"tag": "uv run scripts/classify.py && node --experimental-strip-types scripts/apply_tags.ts",
+		"hash": "node --experimental-strip-types scripts/hash_file.ts",
+		"add-thumb": "node --experimental-strip-types scripts/add_thumb.ts",
+		"missing-lyrics": "node --experimental-strip-types scripts/missing_lyrics.ts",
+		"add-audio": "node --experimental-strip-types scripts/add_audio.ts",
+		"add-lyrics": "node --experimental-strip-types scripts/add_lyrics.ts",
+		"stats": "node --experimental-strip-types scripts/stats.ts",
+		"add-album-art": "node --experimental-strip-types scripts/add_album_art.ts"
 	},
 	"devDependencies": {
-		"@distube/yt-dlp": "^2.0.1",
-		"@distube/ytdl-core": "^4.16.5",
 		"@eslint/compat": "^1.2.5",
 		"@eslint/js": "^9.18.0",
 		"@sveltejs/adapter-cloudflare": "^5.0.1",
@@ -27,8 +32,6 @@
 		"@tailwindcss/typography": "^0.5.15",
 		"@tailwindcss/vite": "^4.0.0",
 		"@types/node": "^22.13.11",
-		"@types/youtube-player": "^5.5.11",
-		"distube": "^5.0.6",
 		"eslint": "^9.18.0",
 		"eslint-config-prettier": "^10.0.1",
 		"eslint-plugin-svelte": "^3.0.0",
@@ -37,7 +40,6 @@
 		"prettier-plugin-svelte": "^3.3.3",
 		"prettier-plugin-tailwindcss": "^0.6.11",
 		"sharp": "^0.33.5",
-		"skia-canvas": "^2.0.2",
 		"svelte": "^5.0.0",
 		"svelte-check": "^4.0.0",
 		"tailwindcss": "^4.0.0",
@@ -46,9 +48,7 @@
 		"vite": "^6.0.0"
 	},
 	"pnpm": {
-		"onlyBuiltDependencies": [
-			"esbuild"
-		]
+		"onlyBuiltDependencies": ["esbuild"]
 	},
 	"dependencies": {
 		"@lucide/svelte": "^0.483.0",

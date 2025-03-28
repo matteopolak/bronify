@@ -13,4 +13,5 @@ for (const track of tracks) {
 }
 
 // write back the tracks
-fs.writeFileSync('src/lib/content/tracks.json', JSON.stringify(tracks, null, 2));
+fs.writeFileSync('src/lib/content/tracks.json', JSON.stringify(tracks, null, '\t'));
+fs.unlinkSync('results.json');

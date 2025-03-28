@@ -51,6 +51,7 @@
 	>
 		<img
 			src={content.cover}
+			loading="lazy"
 			alt="Album cover"
 			class="h-12 w-12"
 			class:rounded-full={content.type === 'artist'}

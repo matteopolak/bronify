@@ -50,7 +50,11 @@ export class Player {
 
 	// load from a URL
 	async load(track: Track) {
-		this.audio.src = trackAudio(track.id);
+		const src = trackAudio(track.id);
+
+		console.info(`Loading track ${track.id} from ${src}`);
+
+		this.audio.src = src;
 		this.lyrics = (await resolveLyrics(track)) ?? LYRICS_PLACEHOLDER;
 	}
 

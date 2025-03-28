@@ -53,8 +53,6 @@ const TRACK_AUDIO: Record<string, { default: string }> = import.meta.glob(
 	}
 );
 
-console.log(CATEGORY_THUMBS);
-
 const artistMap: Map<string, Artist> = new Map();
 
 for (const artist of artistData) {
@@ -86,27 +84,39 @@ export function getTrack(id: string): Track {
 }
 
 export function artistThumbnail(id: string): string {
-	return ARTIST_THUMBS[`/src/lib/content/artists/${id}.webp`].default;
+	const value = ARTIST_THUMBS[`/src/lib/content/artists/${id}.webp`];
+	if (!value) console.error(`Artist thumbnail not found for ${id}`);
+	return value?.default ?? 'https://placehold.co/256x256';
 }
 
 export function trackThumbnail(id: string): string {
-	return TRACK_THUMBS[`/src/lib/content/tracks/${id}/thumbnail.webp`].default;
+	const value = TRACK_THUMBS[`/src/lib/content/tracks/${id}/thumbnail.webp`];
+	if (!value) console.error(`Track thumbnail not found for ${id}`);
+	return value?.default ?? 'https://placehold.co/256x256';
 }
 
 export function albumThumbnail(id: string): string {
-	return ALBUM_THUMBS[`/src/lib/content/albums/${id}/thumbnail-64.webp`].default;
+	const value = ALBUM_THUMBS[`/src/lib/content/albums/${id}/thumbnail-64.webp`];
+	if (!value) console.error(`Album thumbnail not found for ${id}`);
+	return value?.default ?? 'https://placehold.co/256x256';
 }
 
 export function albumCover(id: string): string {
-	return ALBUM_THUMBS[`/src/lib/content/albums/${id}/thumbnail.webp`].default;
+	const value = ALBUM_THUMBS[`/src/lib/content/albums/${id}/thumbnail.webp`];
+	if (!value) console.error(`Album cover not found for ${id}`);
+	return value?.default ?? 'https://placehold.co/256x256';
 }
 
 export function categoryThumbnail(id: string): string {
-	return CATEGORY_THUMBS[`/src/lib/content/tags/${id}-thumb.webp`].default;
+	const value = CATEGORY_THUMBS[`/src/lib/content/tags/${id}-thumb.webp`];
+	if (!value) console.error(`Category thumbnail not found for ${id}`);
+	return value?.default ?? 'https://placehold.co/256x256';
 }
 
 export function categoryCover(id: string): string {
-	return CATEGORY_THUMBS[`/src/lib/content/tags/${id}-cover.webp`].default;
+	const value = CATEGORY_THUMBS[`/src/lib/content/tags/${id}-cover.webp`];
+	if (!value) console.error(`Category cover not found for ${id}`);
+	return value?.default ?? 'https://placehold.co/256x256';
 }
 
 export function trackLyrics(id: string): string | undefined {
@@ -114,7 +124,9 @@ export function trackLyrics(id: string): string | undefined {
 }
 
 export function trackAudio(id: string): string {
-	return TRACK_AUDIO[`/src/lib/content/tracks/${id}/audio.mp3`].default;
+	const value = TRACK_AUDIO[`/src/lib/content/tracks/${id}/audio.mp3`];
+	if (!value) console.error(`Track audio not found for ${id}`);
+	return value?.default ?? '';
 }
 
 export { trackData, artistData, albumData, categoryData };

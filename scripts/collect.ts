@@ -1,7 +1,30 @@
 import readline from 'node:readline/promises';
 import fs from 'node:fs';
 import crypto from 'node:crypto';
+import path from 'node:path';
 import { execFileSync } from 'node:child_process';
+
+import sharp from 'sharp';
+import axios from 'axios';
+
+const root = 'src/lib/content';
+
+const existingArtists = JSON.parse(fs.readFileSync(path.join(root, 'artists.json'), 'utf-8'));
+const existingTracks = JSON.parse(fs.readFileSync(path.join(root, 'tracks.json'), 'utf-8'));
+
+async function downloadImage(url: string, x: number, y: number) {
+	const stream = await axios.get(url, {
+		responseType: 'arraybuffer',
+		validateStatus: () => true
+	});
+
+	const buffer = Buffer.from(stream.data);
+
+	// process into 512x512 thumbnail (webp)
+	const result = await sharp(buffer).resize(x, y, { fit: 'cover' }).webp().toBuffer();
+
+	return result;
+}
 
 async function main() {
 	const links = fs
@@ -16,8 +39,8 @@ async function main() {
 		terminal: true
 	});
 
-	const out = [];
-	const artists = [];
+	const out = existingTracks || [];
+	const artists = existingArtists || [];
 
 	const seenVideos = new Set();
 
@@ -25,7 +48,7 @@ async function main() {
 		const info = runYtdlpSync(['-j', link]);
 		const song = JSON.parse(info);
 
-		if (seenVideos.has(song.id)) {
+		if (song.id && seenVideos.has(song.id)) {
 			console.log(`Already seen video ${song.id}`);
 			continue;
 		}
@@ -42,26 +65,56 @@ async function main() {
 		const videoThumbnail = song.thumbnails[0].url;
 		const videoTitle = song.title;
 
-		const title = await rl.question(`${videoTitle} - ${link} `);
+		const title = await rl.question(`${link} `);
 
-		// generate hash from title and artist
+		try {
+			fs.unlinkSync('./temp.mp3');
+		} catch (e) {
+			/* ignore */
+		}
+
+		runYtdlpSync([
+			'--extract-audio',
+			'--audio-format',
+			'mp3',
+			'--audio-quality',
+			'0',
+			'--output',
+			'./temp.mp3',
+			link
+		]);
+
+		// read
+		const audio = fs.readFileSync('./temp.mp3');
+
+		// generate hash audio
 		const hash = crypto.createHash('sha256');
 
-		hash.update(title);
-		hash.update(username);
+		hash.update(audio);
 
-		const id = hash.digest('hex');
+		const id = hash.digest('base64url').slice(0, 8);
+
+		if (out.some((track) => track.id === id)) {
+			console.log(`Already seen track ${id}`);
+			continue;
+		}
 
 		out.push({
 			id,
 			artist: username,
 			title: title,
-			thumbnail: videoThumbnail,
 			durationSeconds: song.duration,
 			tags: []
 		});
 
 		if (!artists.some((artist) => artist.id === username)) {
+			const url = await rl.question(
+				`What is the avatar url for https://tiktok.com/@${encodeURIComponent(tiktok)} `
+			);
+			const avatar = await downloadImage(url, 512, 512);
+
+			fs.writeFileSync(`src/lib/content/artists/${username}.webp`, avatar);
+
 			artists.push({
 				id: username,
 				tiktok
@@ -75,26 +128,27 @@ async function main() {
 			fs.mkdirSync(audioDir, { recursive: true });
 		}
 		if (!fs.existsSync(audioPath)) {
-			runYtdlpSync([
-				'--extract-audio',
-				'--audio-format',
-				'mp3',
-				'--audio-quality',
-				'0',
-				'--output',
-				audioPath,
-				link
-			]);
-
-			// copy to ./{id}.mp3
-			fs.copyFileSync(audioPath, `${id}.mp3`);
+			fs.copyFileSync('./temp.mp3', audioPath);
 		} else {
 			console.log(`Audio already downloaded for ${id}`);
 		}
+
+		const thumbnailPath = `src/lib/content/tracks/${id}/thumbnail.webp`;
+		const thumbnailDir = `src/lib/content/tracks/${id}`;
+		if (!fs.existsSync(thumbnailDir)) {
+			fs.mkdirSync(thumbnailDir, { recursive: true });
+		}
+		if (!fs.existsSync(thumbnailPath)) {
+			const thumbnail = await downloadImage(videoThumbnail, 512, 512);
+			fs.writeFileSync(thumbnailPath, thumbnail);
+		} else {
+			console.log(`Thumbnail already downloaded for ${id}`);
+		}
 	}
 
-	fs.writeFileSync('out.json', JSON.stringify(out, null, 2));
-	fs.writeFileSync('artists.json', JSON.stringify(artists, null, 2));
+	fs.writeFileSync(path.join(root, 'tracks.json'), JSON.stringify(out, null, '\t'));
+	fs.writeFileSync(path.join(root, 'artists.json'), JSON.stringify(artists, null, '\t'));
+	fs.unlinkSync('./temp.mp3');
 
 	// end readline
 	rl.close();
