@@ -45,7 +45,7 @@
 	}
 
 	onMount(() => {
-		settings.lyrics = stringFromStorage('lyrics', 'on');
+		settings.lyrics = stringFromStorage('lyrics', 'off');
 		settings.loop = stringFromStorage('loop', 'none');
 		settings.shuffle = stringFromStorage('shuffle', 'off');
 
