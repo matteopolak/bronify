@@ -19,6 +19,7 @@ export type Artist = {
 	display_name?: string;
 	tiktok?: string;
 	soundcloud?: string;
+	spotify?: string;
 };
 
 export type TrackSettings = {

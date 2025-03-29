@@ -15,7 +15,7 @@
 <Collection
 	content={{
 		id: artist.id,
-		title: artist.id,
+		title: artist.display_name ?? artist.id,
 		subtitle: 'Artist',
 		cover: artistThumbnail(artist.id),
 		tracks,

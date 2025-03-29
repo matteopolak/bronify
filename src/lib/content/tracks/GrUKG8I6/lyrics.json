@@ -2,73 +2,97 @@
 	{
 		"words": [
 			{
-				"text": "It's ",
+				"text": "It's",
 				"start": 0,
 				"end": 1.4,
 				"index": 0
-			},
-			{
-				"text": "LeDanger",
-				"start": 1.4,
-				"end": 1.8,
-				"index": 1
 			}
 		],
 		"start": 10.98,
+		"end": 12.38
+	},
+	{
+		"words": [
+			{
+				"text": "LeDanger",
+				"start": 0,
+				"end": 0.4,
+				"index": 1
+			}
+		],
+		"start": 12.38,
 		"end": 12.78
 	},
 	{
 		"words": [
 			{
-				"text": "It's ",
+				"text": "It's",
 				"start": 0,
 				"end": 1.4,
-				"index": 3
-			},
-			{
-				"text": "LeDanger",
-				"start": 1.4,
-				"end": 1.8,
-				"index": 1
+				"index": 2
 			}
 		],
 		"start": 15.22,
-		"end": 17.04
+		"end": 16.62
 	},
 	{
 		"words": [
 			{
-				"text": "It's ",
+				"text": "LeDanger",
+				"start": 0,
+				"end": 0.4,
+				"index": 3
+			}
+		],
+		"start": 16.62,
+		"end": 17.02
+	},
+	{
+		"words": [
+			{
+				"text": "It's",
 				"start": 0,
 				"end": 1.38,
-				"index": 6
-			},
-			{
-				"text": "LeDanger",
-				"start": 1.38,
-				"end": 1.82,
-				"index": 7
+				"index": 4
 			}
 		],
 		"start": 19.5,
-		"end": 22.32
+		"end": 20.88
 	},
 	{
 		"words": [
 			{
-				"text": "It's ",
+				"text": "LeDanger",
 				"start": 0,
 				"end": 0.44,
-				"index": 9
-			},
+				"index": 5
+			}
+		],
+		"start": 20.88,
+		"end": 21.32
+	},
+	{
+		"words": [
 			{
-				"text": "LeDanger",
-				"start": 0.44,
-				"end": 0.98,
-				"index": 10
+				"text": "It's",
+				"start": 0,
+				"end": 0.44,
+				"index": 6
 			}
 		],
 		"start": 24.8,
+		"end": 25.24
+	},
+	{
+		"words": [
+			{
+				"text": "LeDanger",
+				"start": 0,
+				"end": 0.54,
+				"index": 7
+			}
+		],
+		"start": 25.24,
 		"end": 25.78
 	},
 	{
@@ -77,19 +101,19 @@
 				"text": "LeBron ",
 				"start": 0,
 				"end": 0.36,
-				"index": 12
+				"index": 8
 			},
 			{
 				"text": "is ",
 				"start": 0.36,
 				"end": 0.66,
-				"index": 13
+				"index": 9
 			},
 			{
 				"text": "sick",
 				"start": 0.66,
 				"end": 0.92,
-				"index": 14
+				"index": 10
 			}
 		],
 		"start": 26.7,
@@ -101,55 +125,55 @@
 				"text": "Every ",
 				"start": 0,
 				"end": 0.24,
-				"index": 15
+				"index": 11
 			},
 			{
 				"text": "shot ",
 				"start": 0.24,
 				"end": 0.4,
-				"index": 16
+				"index": 12
 			},
 			{
 				"text": "that ",
 				"start": 0.4,
 				"end": 0.54,
-				"index": 17
+				"index": 13
 			},
 			{
 				"text": "he ",
 				"start": 0.54,
 				"end": 0.68,
-				"index": 18
+				"index": 14
 			},
 			{
 				"text": "put ",
 				"start": 0.68,
 				"end": 0.92,
-				"index": 19
+				"index": 15
 			},
 			{
 				"text": "up, ",
 				"start": 0.92,
 				"end": 1.18,
-				"index": 20
+				"index": 16
 			},
 			{
 				"text": "he ",
 				"start": 1.26,
 				"end": 1.36,
-				"index": 21
+				"index": 17
 			},
 			{
 				"text": "can't ",
 				"start": 1.36,
 				"end": 1.64,
-				"index": 22
+				"index": 18
 			},
 			{
 				"text": "miss",
 				"start": 1.64,
 				"end": 1.98,
-				"index": 23
+				"index": 19
 			}
 		],
 		"start": 27.94,
@@ -161,31 +185,31 @@
 				"text": "And ",
 				"start": 0,
 				"end": 0.12,
-				"index": 24
+				"index": 20
 			},
 			{
 				"text": "it's ",
 				"start": 0.12,
 				"end": 0.3,
-				"index": 25
+				"index": 21
 			},
 			{
 				"text": "never ",
 				"start": 0.3,
 				"end": 0.46,
-				"index": 26
+				"index": 22
 			},
 			{
 				"text": "a ",
 				"start": 0.46,
 				"end": 0.78,
-				"index": 27
+				"index": 23
 			},
 			{
 				"text": "brick",
 				"start": 0.78,
 				"end": 0.98,
-				"index": 28
+				"index": 24
 			}
 		],
 		"start": 30.92,
@@ -197,61 +221,61 @@
 				"text": "You ",
 				"start": 0,
 				"end": 0.08,
-				"index": 29
+				"index": 25
 			},
 			{
 				"text": "thought ",
 				"start": 0.08,
 				"end": 0.28,
-				"index": 30
+				"index": 26
 			},
 			{
 				"text": "you ",
 				"start": 0.28,
 				"end": 0.5,
-				"index": 31
+				"index": 27
 			},
 			{
 				"text": "got ",
 				"start": 0.5,
 				"end": 0.66,
-				"index": 32
+				"index": 28
 			},
 			{
 				"text": "off ",
 				"start": 0.66,
 				"end": 0.84,
-				"index": 33
+				"index": 29
 			},
 			{
 				"text": "for ",
 				"start": 0.84,
 				"end": 1.04,
-				"index": 34
+				"index": 30
 			},
 			{
 				"text": "free, ",
 				"start": 1.04,
 				"end": 1.26,
-				"index": 35
+				"index": 31
 			},
 			{
 				"text": "man, ",
 				"start": 1.4,
 				"end": 1.48,
-				"index": 36
+				"index": 32
 			},
 			{
 				"text": "I'm ",
 				"start": 1.48,
 				"end": 1.8,
-				"index": 37
+				"index": 33
 			},
 			{
 				"text": "sick",
 				"start": 1.8,
 				"end": 1.96,
-				"index": 38
+				"index": 34
 			}
 		],
 		"start": 32.14,
@@ -263,49 +287,49 @@
 				"text": "LeBron ",
 				"start": 0,
 				"end": 0.2,
-				"index": 39
+				"index": 35
 			},
 			{
 				"text": "has ",
 				"start": 0.2,
 				"end": 0.34,
-				"index": 40
+				"index": 36
 			},
 			{
 				"text": "got ",
 				"start": 0.34,
 				"end": 0.44,
-				"index": 41
+				"index": 37
 			},
 			{
 				"text": "you ",
 				"start": 0.44,
 				"end": 0.54,
-				"index": 42
+				"index": 38
 			},
 			{
 				"text": "staring ",
 				"start": 0.54,
 				"end": 0.78,
-				"index": 43
+				"index": 39
 			},
 			{
 				"text": "in ",
 				"start": 0.78,
 				"end": 1,
-				"index": 44
+				"index": 40
 			},
 			{
 				"text": "the ",
 				"start": 1,
 				"end": 1.12,
-				"index": 45
+				"index": 41
 			},
 			{
 				"text": "mirror",
 				"start": 1.12,
 				"end": 1.44,
-				"index": 46
+				"index": 42
 			}
 		],
 		"start": 34.9,
@@ -317,25 +341,25 @@
 				"text": "Is ",
 				"start": 0,
 				"end": 0.1,
-				"index": 47
+				"index": 43
 			},
 			{
 				"text": "he ",
 				"start": 0.1,
 				"end": 0.2,
-				"index": 48
+				"index": 44
 			},
 			{
 				"text": "meanin ",
 				"start": 0.2,
 				"end": 0.48,
-				"index": 49
+				"index": 45
 			},
 			{
 				"text": "business?",
 				"start": 0.48,
 				"end": 0.86,
-				"index": 51
+				"index": 46
 			}
 		],
 		"start": 36.6,
@@ -347,31 +371,31 @@
 				"text": "Man, ",
 				"start": 0,
 				"end": 0.12,
-				"index": 52
+				"index": 47
 			},
 			{
 				"text": "I'm ",
 				"start": 0.14,
 				"end": 0.24,
-				"index": 53
+				"index": 48
 			},
 			{
 				"text": "like ",
 				"start": 0.24,
 				"end": 0.38,
-				"index": 54
+				"index": 49
 			},
 			{
 				"text": "a ",
 				"start": 0.38,
 				"end": 0.52,
-				"index": 55
+				"index": 50
 			},
 			{
 				"text": "dick",
 				"start": 0.52,
 				"end": 0.74,
-				"index": 56
+				"index": 51
 			}
 		],
 		"start": 37.66,
@@ -383,37 +407,37 @@
 				"text": "It's ",
 				"start": 0,
 				"end": 0.22,
-				"index": 57
+				"index": 52
 			},
 			{
 				"text": "Bron, ",
 				"start": 0.22,
 				"end": 0.42,
-				"index": 58
+				"index": 53
 			},
 			{
 				"text": "Bron, ",
 				"start": 0.8,
 				"end": 0.8,
-				"index": 59
+				"index": 54
 			},
 			{
 				"text": "and ",
 				"start": 1,
 				"end": 1.06,
-				"index": 60
+				"index": 55
 			},
 			{
 				"text": "LeBron, ",
 				"start": 1.06,
 				"end": 1.46,
-				"index": 61
+				"index": 56
 			},
 			{
 				"text": "Bron",
 				"start": 1.6,
 				"end": 1.78,
-				"index": 62
+				"index": 57
 			}
 		],
 		"start": 38.54,
@@ -425,73 +449,73 @@
 				"text": "Right ",
 				"start": 0,
 				"end": 0.12,
-				"index": 63
+				"index": 58
 			},
 			{
 				"text": "now, ",
 				"start": 0.12,
 				"end": 0.3,
-				"index": 64
+				"index": 59
 			},
 			{
 				"text": "no I ",
 				"start": 0.42,
 				"end": 0.62,
-				"index": 65
+				"index": 60
 			},
 			{
 				"text": "got ",
 				"start": 0.62,
 				"end": 0.74,
-				"index": 66
+				"index": 61
 			},
 			{
 				"text": "to ",
 				"start": 0.74,
 				"end": 0.92,
-				"index": 67
+				"index": 62
 			},
 			{
 				"text": "see ",
 				"start": 0.92,
 				"end": 1.08,
-				"index": 68
+				"index": 63
 			},
 			{
 				"text": "the ",
 				"start": 1.08,
 				"end": 1.32,
-				"index": 69
+				"index": 64
 			},
 			{
 				"text": "GOAT, ",
 				"start": 1.32,
 				"end": 1.36,
-				"index": 70
+				"index": 65
 			},
 			{
 				"text": "take ",
 				"start": 1.48,
 				"end": 1.56,
-				"index": 71
+				"index": 66
 			},
 			{
 				"text": "another ",
 				"start": 1.82,
 				"end": 1.98,
-				"index": 74
+				"index": 67
 			},
 			{
 				"text": "free ",
 				"start": 1.98,
 				"end": 2.22,
-				"index": 75
+				"index": 68
 			},
 			{
 				"text": "throw",
 				"start": 2.22,
 				"end": 2.6,
-				"index": 76
+				"index": 69
 			}
 		],
 		"start": 40.42,
@@ -503,25 +527,25 @@
 				"text": "That's ",
 				"start": 0,
 				"end": 0.22,
-				"index": 77
+				"index": 70
 			},
 			{
 				"text": "my ",
 				"start": 0.22,
 				"end": 0.32,
-				"index": 78
+				"index": 71
 			},
 			{
 				"text": "king, ",
 				"start": 0.32,
 				"end": 0.58,
-				"index": 79
+				"index": 72
 			},
 			{
 				"text": "LeBron",
 				"start": 0.72,
 				"end": 1.02,
-				"index": 80
+				"index": 73
 			}
 		],
 		"start": 43.7,
@@ -533,61 +557,61 @@
 				"text": "Did ",
 				"start": 0,
 				"end": 0.1,
-				"index": 81
+				"index": 74
 			},
 			{
 				"text": "you ",
 				"start": 0.1,
 				"end": 0.24,
-				"index": 82
+				"index": 75
 			},
 			{
 				"text": "really ",
 				"start": 0.24,
 				"end": 0.46,
-				"index": 83
+				"index": 76
 			},
 			{
 				"text": "think ",
 				"start": 0.46,
 				"end": 0.62,
-				"index": 84
+				"index": 77
 			},
 			{
 				"text": "that ",
 				"start": 0.62,
 				"end": 0.76,
-				"index": 85
+				"index": 78
 			},
 			{
 				"text": "you ",
 				"start": 0.76,
 				"end": 0.88,
-				"index": 86
+				"index": 79
 			},
 			{
 				"text": "was ",
 				"start": 0.88,
 				"end": 1.02,
-				"index": 87
+				"index": 80
 			},
 			{
 				"text": "with ",
 				"start": 1.02,
 				"end": 1.16,
-				"index": 88
+				"index": 81
 			},
 			{
 				"text": "the ",
 				"start": 1.16,
 				"end": 1.34,
-				"index": 89
+				"index": 82
 			},
 			{
 				"text": "shit?",
 				"start": 1.34,
 				"end": 1.68,
-				"index": 90
+				"index": 83
 			}
 		],
 		"start": 44.88,
@@ -599,37 +623,37 @@
 				"text": "And ",
 				"start": 0,
 				"end": 0.18,
-				"index": 91
+				"index": 84
 			},
 			{
 				"text": "it's ",
 				"start": 0.18,
 				"end": 0.34,
-				"index": 92
+				"index": 85
 			},
 			{
 				"text": "Bronny ",
 				"start": 0.34,
 				"end": 0.56,
-				"index": 93
+				"index": 86
 			},
 			{
 				"text": "that's ",
 				"start": 0.56,
 				"end": 0.76,
-				"index": 94
+				"index": 87
 			},
 			{
 				"text": "his ",
 				"start": 0.76,
 				"end": 0.86,
-				"index": 95
+				"index": 88
 			},
 			{
 				"text": "son",
 				"start": 0.86,
 				"end": 1.02,
-				"index": 96
+				"index": 89
 			}
 		],
 		"start": 48.02,
@@ -641,61 +665,61 @@
 				"text": "Now ",
 				"start": 0,
 				"end": 0.14,
-				"index": 97
+				"index": 90
 			},
 			{
 				"text": "he's ",
 				"start": 0.14,
 				"end": 0.34,
-				"index": 98
+				"index": 91
 			},
 			{
 				"text": "20 ",
 				"start": 0.34,
 				"end": 0.52,
-				"index": 99
+				"index": 92
 			},
 			{
 				"text": "and ",
 				"start": 0.52,
 				"end": 0.72,
-				"index": 100
+				"index": 93
 			},
 			{
 				"text": "he ",
 				"start": 0.72,
 				"end": 0.8,
-				"index": 101
+				"index": 94
 			},
 			{
 				"text": "made ",
 				"start": 0.8,
 				"end": 0.98,
-				"index": 102
+				"index": 95
 			},
 			{
 				"text": "it ",
 				"start": 0.98,
 				"end": 1.12,
-				"index": 103
+				"index": 96
 			},
 			{
 				"text": "to ",
 				"start": 1.12,
 				"end": 1.22,
-				"index": 104
+				"index": 97
 			},
 			{
 				"text": "the ",
 				"start": 1.22,
 				"end": 1.44,
-				"index": 105
+				"index": 98
 			},
 			{
 				"text": "league",
 				"start": 1.44,
 				"end": 1.8,
-				"index": 106
+				"index": 99
 			}
 		],
 		"start": 49.12,
@@ -707,49 +731,49 @@
 				"text": "The ",
 				"start": 0,
 				"end": 0.6,
-				"index": 107
+				"index": 100
 			},
 			{
 				"text": "haters ",
 				"start": 0.6,
 				"end": 0.86,
-				"index": 108
+				"index": 101
 			},
 			{
 				"text": "be ",
 				"start": 0.86,
 				"end": 1.08,
-				"index": 109
+				"index": 102
 			},
 			{
 				"text": "talking ",
 				"start": 1.08,
 				"end": 1.32,
-				"index": 110
+				"index": 103
 			},
 			{
 				"text": "about ",
 				"start": 1.32,
 				"end": 1.54,
-				"index": 111
+				"index": 104
 			},
 			{
 				"text": "some ",
 				"start": 1.54,
 				"end": 1.72,
-				"index": 112
+				"index": 105
 			},
 			{
 				"text": "wire, ",
 				"start": 1.72,
 				"end": 1.92,
-				"index": 113
+				"index": 106
 			},
 			{
 				"text": "Bronny",
 				"start": 2.2,
 				"end": 2.42,
-				"index": 114
+				"index": 107
 			}
 		],
 		"start": 50.92,
@@ -761,73 +785,73 @@
 				"text": "Then ",
 				"start": 0,
 				"end": 0.08,
-				"index": 115
+				"index": 108
 			},
 			{
 				"text": "Bron, ",
 				"start": 0.08,
 				"end": 0.2,
-				"index": 116
+				"index": 109
 			},
 			{
 				"text": "I'm ",
 				"start": 0.22,
 				"end": 0.38,
-				"index": 117
+				"index": 110
 			},
 			{
 				"text": "gonna ",
 				"start": 0.38,
 				"end": 0.42,
-				"index": 118
+				"index": 111
 			},
 			{
 				"text": "pull ",
 				"start": 0.42,
 				"end": 0.6,
-				"index": 119
+				"index": 112
 			},
 			{
 				"text": "up ",
 				"start": 0.6,
 				"end": 0.74,
-				"index": 120
+				"index": 113
 			},
 			{
 				"text": "and ",
 				"start": 0.74,
 				"end": 0.86,
-				"index": 121
+				"index": 114
 			},
 			{
 				"text": "be ",
 				"start": 0.86,
 				"end": 0.96,
-				"index": 122
+				"index": 115
 			},
 			{
 				"text": "like, ",
 				"start": 0.96,
 				"end": 1.12,
-				"index": 123
+				"index": 116
 			},
 			{
 				"text": "talk ",
 				"start": 1.2,
 				"end": 1.28,
-				"index": 124
+				"index": 117
 			},
 			{
 				"text": "to ",
 				"start": 1.28,
 				"end": 1.62,
-				"index": 125
+				"index": 118
 			},
 			{
 				"text": "me",
 				"start": 1.62,
 				"end": 1.88,
-				"index": 126
+				"index": 119
 			}
 		],
 		"start": 53.62,
@@ -839,19 +863,19 @@
 				"text": "The ",
 				"start": 0,
 				"end": 0.12,
-				"index": 127
+				"index": 120
 			},
 			{
 				"text": "kid, ",
 				"start": 0.12,
 				"end": 0.3,
-				"index": 128
+				"index": 121
 			},
 			{
 				"text": "Bronny",
 				"start": 0.44,
 				"end": 0.84,
-				"index": 129
+				"index": 122
 			}
 		],
 		"start": 55.74,
@@ -863,19 +887,19 @@
 				"text": "The ",
 				"start": 0,
 				"end": 0.12,
-				"index": 130
+				"index": 123
 			},
 			{
 				"text": "son, ",
 				"start": 0.12,
 				"end": 0.32,
-				"index": 131
+				"index": 124
 			},
 			{
 				"text": "Bronny",
 				"start": 0.54,
 				"end": 0.84,
-				"index": 132
+				"index": 125
 			}
 		],
 		"start": 56.8,
@@ -887,67 +911,67 @@
 				"text": "They ",
 				"start": 0,
 				"end": 0.06,
-				"index": 133
+				"index": 126
 			},
 			{
 				"text": "don't ",
 				"start": 0.06,
 				"end": 0.24,
-				"index": 134
+				"index": 127
 			},
 			{
 				"text": "win, ",
 				"start": 0.24,
 				"end": 0.3,
-				"index": 135
+				"index": 128
 			},
 			{
 				"text": "come ",
 				"start": 0.4,
 				"end": 0.42,
-				"index": 136
+				"index": 129
 			},
 			{
 				"text": "on, ",
 				"start": 0.42,
 				"end": 0.56,
-				"index": 137
+				"index": 130
 			},
 			{
 				"text": "no ",
 				"start": 0.7,
 				"end": 0.74,
-				"index": 138
+				"index": 131
 			},
 			{
 				"text": "trouble, ",
 				"start": 0.74,
 				"end": 0.92,
-				"index": 139
+				"index": 132
 			},
 			{
 				"text": "here ",
 				"start": 1.04,
 				"end": 1.1,
-				"index": 140
+				"index": 133
 			},
 			{
 				"text": "for ",
 				"start": 1.1,
 				"end": 1.3,
-				"index": 141
+				"index": 134
 			},
 			{
 				"text": "LeBron, ",
 				"start": 1.3,
 				"end": 1.48,
-				"index": 142
+				"index": 135
 			},
 			{
 				"text": "from three",
 				"start": 1.56,
 				"end": 1.88,
-				"index": 143
+				"index": 136
 			}
 		],
 		"start": 57.8,
@@ -959,61 +983,61 @@
 				"text": "Now ",
 				"start": 0,
 				"end": 0.36,
-				"index": 144
+				"index": 137
 			},
 			{
 				"text": "it's ",
 				"start": 0.36,
 				"end": 0.76,
-				"index": 145
+				"index": 138
 			},
 			{
 				"text": "a ",
 				"start": 0.76,
 				"end": 0.92,
-				"index": 146
+				"index": 139
 			},
 			{
 				"text": "new ",
 				"start": 0.92,
 				"end": 1.3,
-				"index": 147
+				"index": 140
 			},
 			{
 				"text": "day, ",
 				"start": 1.3,
 				"end": 2.02,
-				"index": 148
+				"index": 141
 			},
 			{
 				"text": "and ",
 				"start": 2.34,
 				"end": 2.64,
-				"index": 149
+				"index": 142
 			},
 			{
 				"text": "LeBron's ",
 				"start": 2.64,
 				"end": 3.16,
-				"index": 150
+				"index": 143
 			},
 			{
 				"text": "bout ",
 				"start": 3.16,
 				"end": 3.4,
-				"index": 151
+				"index": 144
 			},
 			{
 				"text": "to ",
 				"start": 3.4,
 				"end": 3.62,
-				"index": 152
+				"index": 145
 			},
 			{
 				"text": "play",
 				"start": 3.62,
 				"end": 3.98,
-				"index": 153
+				"index": 146
 			}
 		],
 		"start": 60.5,
@@ -1025,37 +1049,37 @@
 				"text": "He's ",
 				"start": 0,
 				"end": 0.16,
-				"index": 154
+				"index": 147
 			},
 			{
 				"text": "my ",
 				"start": 0.16,
 				"end": 0.4,
-				"index": 155
+				"index": 148
 			},
 			{
 				"text": "king, ",
 				"start": 0.4,
 				"end": 0.82,
-				"index": 156
+				"index": 149
 			},
 			{
 				"text": "he's ",
 				"start": 0.96,
 				"end": 1.24,
-				"index": 157
+				"index": 150
 			},
 			{
 				"text": "my ",
 				"start": 1.24,
 				"end": 1.48,
-				"index": 158
+				"index": 151
 			},
 			{
 				"text": "GOAT",
 				"start": 1.48,
 				"end": 2.4,
-				"index": 159
+				"index": 152
 			}
 		],
 		"start": 64.76,
@@ -1067,61 +1091,61 @@
 				"text": "While ",
 				"start": 0,
 				"end": 0.62,
-				"index": 160
+				"index": 153
 			},
 			{
 				"text": "aiming ",
 				"start": 0.62,
 				"end": 1,
-				"index": 161
+				"index": 154
 			},
 			{
 				"text": "at ",
 				"start": 1,
 				"end": 1.46,
-				"index": 162
+				"index": 155
 			},
 			{
 				"text": "the ",
 				"start": 1.46,
 				"end": 1.66,
-				"index": 163
+				"index": 156
 			},
 			{
 				"text": "basket, ",
 				"start": 1.66,
 				"end": 2.18,
-				"index": 164
+				"index": 157
 			},
 			{
 				"text": "someone ",
 				"start": 2.6,
 				"end": 2.96,
-				"index": 165
+				"index": 158
 			},
 			{
 				"text": "is ",
 				"start": 2.96,
 				"end": 3.32,
-				"index": 166
+				"index": 159
 			},
 			{
 				"text": "here ",
 				"start": 3.32,
 				"end": 3.78,
-				"index": 167
+				"index": 160
 			},
 			{
 				"text": "to ",
 				"start": 3.78,
 				"end": 4.1,
-				"index": 168
+				"index": 161
 			},
 			{
 				"text": "go",
 				"start": 4.1,
 				"end": 4.64,
-				"index": 169
+				"index": 162
 			}
 		],
 		"start": 68.6,
@@ -1133,31 +1157,31 @@
 				"text": "About ",
 				"start": 0,
 				"end": 0.08,
-				"index": 170
+				"index": 163
 			},
 			{
 				"text": "the ",
 				"start": 0.08,
 				"end": 0.32,
-				"index": 171
+				"index": 164
 			},
 			{
 				"text": "LeBron, ",
 				"start": 0.32,
 				"end": 0.78,
-				"index": 172
+				"index": 165
 			},
 			{
 				"text": "reigning ",
 				"start": 0.78,
 				"end": 1.2,
-				"index": 173
+				"index": 166
 			},
 			{
 				"text": "champ",
 				"start": 1.34,
 				"end": 3.44,
-				"index": 175
+				"index": 167
 			}
 		],
 		"start": 73.44,
@@ -1169,37 +1193,37 @@
 				"text": "That's ",
 				"start": 0,
 				"end": 0.28,
-				"index": 176
+				"index": 168
 			},
 			{
 				"text": "why ",
 				"start": 0.28,
 				"end": 0.42,
-				"index": 177
+				"index": 169
 			},
 			{
 				"text": "my ",
 				"start": 0.42,
 				"end": 0.72,
-				"index": 178
+				"index": 170
 			},
 			{
 				"text": "GOAT ",
 				"start": 0.72,
 				"end": 1.02,
-				"index": 179
+				"index": 171
 			},
 			{
 				"text": "is ",
 				"start": 1.02,
 				"end": 1.3,
-				"index": 180
+				"index": 172
 			},
 			{
 				"text": "LeBron",
 				"start": 1.3,
 				"end": 1.9,
-				"index": 181
+				"index": 173
 			}
 		],
 		"start": 77.56,
@@ -1211,46 +1235,58 @@
 				"text": "He's playing ",
 				"start": 0,
 				"end": 0.64,
-				"index": 182
+				"index": 174
 			},
 			{
 				"text": "with ",
 				"start": 0.64,
 				"end": 1.28,
-				"index": 183
+				"index": 175
 			},
 			{
 				"text": "LeBron ",
 				"start": 1.28,
 				"end": 1.9,
-				"index": 184
+				"index": 176
 			},
 			{
 				"text": "Ray",
 				"start": 1.92,
 				"end": 2.26,
-				"index": 185
+				"index": 177
 			},
 			{
 				"text": "mone",
 				"start": 2.26,
 				"end": 2.32,
-				"index": 186
-			},
-			{
-				"text": "James ",
-				"start": 2.5,
-				"end": 2.7,
-				"index": 187
-			},
-			{
-				"text": "Junior",
-				"start": 2.76,
-				"end": 3.3,
-				"index": 188
+				"index": 178
 			}
 		],
 		"start": 80.46,
+		"end": 82.78
+	},
+	{
+		"words": [
+			{
+				"text": "James",
+				"start": 0,
+				"end": 0.2,
+				"index": 179
+			}
+		],
+		"start": 82.96,
+		"end": 83.16
+	},
+	{
+		"words": [
+			{
+				"text": "Junior",
+				"start": 0,
+				"end": 0.54,
+				"index": 180
+			}
+		],
+		"start": 83.22,
 		"end": 83.76
 	},
 	{
@@ -1259,55 +1295,55 @@
 				"text": "He'll ",
 				"start": 0,
 				"end": 0.28,
-				"index": 190
+				"index": 181
 			},
 			{
 				"text": "hit ",
 				"start": 0.28,
 				"end": 0.7,
-				"index": 191
+				"index": 182
 			},
 			{
 				"text": "a ",
 				"start": 0.7,
 				"end": 1.16,
-				"index": 192
+				"index": 183
 			},
 			{
 				"text": "chip, ",
 				"start": 1.16,
 				"end": 1.58,
-				"index": 193
+				"index": 184
 			},
 			{
 				"text": "it's ",
 				"start": 1.86,
 				"end": 2.14,
-				"index": 194
+				"index": 185
 			},
 			{
 				"text": "LeBron, ",
 				"start": 2.14,
 				"end": 2.3,
-				"index": 195
+				"index": 186
 			},
 			{
 				"text": "that ",
 				"start": 2.32,
 				"end": 2.8,
-				"index": 196
+				"index": 187
 			},
 			{
 				"text": "means ",
 				"start": 2.8,
 				"end": 3.1,
-				"index": 197
+				"index": 188
 			},
 			{
 				"text": "to ya",
 				"start": 3.1,
 				"end": 3.62,
-				"index": 198
+				"index": 189
 			}
 		],
 		"start": 84.32,
@@ -1319,61 +1355,61 @@
 				"text": "He ",
 				"start": 0,
 				"end": 0.18,
-				"index": 199
+				"index": 190
 			},
 			{
 				"text": "plays ",
 				"start": 0.18,
 				"end": 0.5,
-				"index": 200
+				"index": 191
 			},
 			{
 				"text": "an ",
 				"start": 0.5,
 				"end": 0.84,
-				"index": 201
+				"index": 192
 			},
 			{
 				"text": "every ",
 				"start": 0.84,
 				"end": 1.2,
-				"index": 202
+				"index": 193
 			},
 			{
 				"text": "game, ",
 				"start": 1.2,
 				"end": 1.64,
-				"index": 203
+				"index": 194
 			},
 			{
 				"text": "you ",
 				"start": 2.2,
 				"end": 2.34,
-				"index": 204
+				"index": 195
 			},
 			{
 				"text": "ain't ",
 				"start": 2.34,
 				"end": 2.66,
-				"index": 205
+				"index": 196
 			},
 			{
 				"text": "the ",
 				"start": 2.66,
 				"end": 2.94,
-				"index": 206
+				"index": 197
 			},
 			{
 				"text": "new ",
 				"start": 2.94,
 				"end": 3.22,
-				"index": 207
+				"index": 198
 			},
 			{
 				"text": "game",
 				"start": 3.22,
 				"end": 3.82,
-				"index": 208
+				"index": 199
 			}
 		],
 		"start": 88.3,
@@ -1385,73 +1421,73 @@
 				"text": "He ",
 				"start": 0,
 				"end": 0.1,
-				"index": 209
+				"index": 200
 			},
 			{
 				"text": "got ",
 				"start": 0.1,
 				"end": 0.42,
-				"index": 210
+				"index": 201
 			},
 			{
 				"text": "a ",
 				"start": 0.42,
 				"end": 0.76,
-				"index": 211
+				"index": 202
 			},
 			{
 				"text": "bunch ",
 				"start": 0.76,
 				"end": 0.98,
-				"index": 212
+				"index": 203
 			},
 			{
 				"text": "of ",
 				"start": 0.98,
 				"end": 1.4,
-				"index": 213
+				"index": 204
 			},
 			{
 				"text": "games, ",
 				"start": 1.4,
 				"end": 1.66,
-				"index": 214
+				"index": 205
 			},
 			{
 				"text": "that's ",
 				"start": 2.1,
 				"end": 2.4,
-				"index": 215
+				"index": 206
 			},
 			{
 				"text": "why ",
 				"start": 2.4,
 				"end": 2.58,
-				"index": 216
+				"index": 207
 			},
 			{
 				"text": "my ",
 				"start": 2.58,
 				"end": 2.84,
-				"index": 217
+				"index": 208
 			},
 			{
 				"text": "GOAT ",
 				"start": 2.84,
 				"end": 3.12,
-				"index": 218
+				"index": 209
 			},
 			{
 				"text": "is ",
 				"start": 3.12,
 				"end": 3.42,
-				"index": 219
+				"index": 210
 			},
 			{
 				"text": "LeBron",
 				"start": 3.42,
 				"end": 3.92,
-				"index": 220
+				"index": 211
 			}
 		],
 		"start": 92.62,
@@ -1463,43 +1499,43 @@
 				"text": "Playing ",
 				"start": 0,
 				"end": 0.66,
-				"index": 221
+				"index": 212
 			},
 			{
 				"text": "with ",
 				"start": 0.66,
 				"end": 1.32,
-				"index": 222
+				"index": 213
 			},
 			{
 				"text": "LeBron, ",
 				"start": 1.32,
 				"end": 2.04,
-				"index": 223
+				"index": 214
 			},
 			{
 				"text": "Ray-Mon, ",
 				"start": 2.06,
 				"end": 2.42,
-				"index": 224
+				"index": 215
 			},
 			{
 				"text": "James, ",
 				"start": 2.56,
 				"end": 2.84,
-				"index": 225
+				"index": 216
 			},
 			{
 				"text": "and ",
 				"start": 2.9,
 				"end": 3.08,
-				"index": 226
+				"index": 217
 			},
 			{
 				"text": "Nya",
 				"start": 3.08,
 				"end": 3.42,
-				"index": 227
+				"index": 218
 			}
 		],
 		"start": 97.5,
@@ -1511,55 +1547,55 @@
 				"text": "He'll ",
 				"start": 0,
 				"end": 0.16,
-				"index": 228
+				"index": 219
 			},
 			{
 				"text": "hit ",
 				"start": 0.16,
 				"end": 0.36,
-				"index": 229
+				"index": 220
 			},
 			{
 				"text": "a ",
 				"start": 0.36,
 				"end": 0.56,
-				"index": 230
+				"index": 221
 			},
 			{
 				"text": "chip, ",
 				"start": 0.56,
 				"end": 1.62,
-				"index": 231
+				"index": 222
 			},
 			{
 				"text": "it's ",
 				"start": 1.92,
 				"end": 2.24,
-				"index": 232
+				"index": 223
 			},
 			{
 				"text": "LeBron, ",
 				"start": 2.24,
 				"end": 2.46,
-				"index": 233
+				"index": 224
 			},
 			{
 				"text": "that ",
 				"start": 2.46,
 				"end": 2.92,
-				"index": 234
+				"index": 225
 			},
 			{
 				"text": "means ",
 				"start": 2.92,
 				"end": 3.22,
-				"index": 235
+				"index": 226
 			},
 			{
 				"text": "Nya",
 				"start": 3.22,
 				"end": 3.8,
-				"index": 236
+				"index": 227
 			}
 		],
 		"start": 101.34,
@@ -1571,61 +1607,61 @@
 				"text": "He ",
 				"start": 0,
 				"end": 0.1,
-				"index": 237
+				"index": 228
 			},
 			{
 				"text": "plays ",
 				"start": 0.1,
 				"end": 0.44,
-				"index": 238
+				"index": 229
 			},
 			{
 				"text": "an ",
 				"start": 0.44,
 				"end": 0.78,
-				"index": 239
+				"index": 230
 			},
 			{
 				"text": "every ",
 				"start": 0.78,
 				"end": 1.08,
-				"index": 240
+				"index": 231
 			},
 			{
 				"text": "game, ",
 				"start": 1.08,
 				"end": 1.76,
-				"index": 241
+				"index": 232
 			},
 			{
 				"text": "you ",
 				"start": 2.16,
 				"end": 2.26,
-				"index": 242
+				"index": 233
 			},
 			{
 				"text": "ain't ",
 				"start": 2.26,
 				"end": 2.6,
-				"index": 243
+				"index": 234
 			},
 			{
 				"text": "the ",
 				"start": 2.6,
 				"end": 2.94,
-				"index": 244
+				"index": 235
 			},
 			{
 				"text": "new ",
 				"start": 2.94,
 				"end": 3.08,
-				"index": 245
+				"index": 236
 			},
 			{
 				"text": "game",
 				"start": 3.08,
 				"end": 3.72,
-				"index": 246
+				"index": 237
 			}
 		],
 		"start": 105.5,
@@ -1637,67 +1673,67 @@
 				"text": "He ",
 				"start": 0,
 				"end": 0.22,
-				"index": 247
+				"index": 238
 			},
 			{
 				"text": "got ",
 				"start": 0.22,
 				"end": 0.5,
-				"index": 248
+				"index": 239
 			},
 			{
 				"text": "a ",
 				"start": 0.5,
 				"end": 0.84,
-				"index": 249
+				"index": 240
 			},
 			{
 				"text": "bunch ",
 				"start": 0.84,
 				"end": 1.06,
-				"index": 250
+				"index": 241
 			},
 			{
 				"text": "of ",
 				"start": 1.06,
 				"end": 1.3,
-				"index": 251
+				"index": 242
 			},
 			{
 				"text": "games, ",
 				"start": 1.3,
 				"end": 1.78,
-				"index": 252
+				"index": 243
 			},
 			{
 				"text": "that's ",
 				"start": 2.24,
 				"end": 2.48,
-				"index": 253
+				"index": 244
 			},
 			{
 				"text": "why ",
 				"start": 2.48,
 				"end": 2.66,
-				"index": 254
+				"index": 245
 			},
 			{
 				"text": "he's my ",
 				"start": 2.66,
 				"end": 2.88,
-				"index": 255
+				"index": 246
 			},
 			{
 				"text": "GOAT ",
 				"start": 2.88,
 				"end": 3.4,
-				"index": 256
+				"index": 247
 			},
 			{
 				"text": "LeBron",
 				"start": 3.7,
 				"end": 4.18,
-				"index": 258
+				"index": 248
 			}
 		],
 		"start": 109.7,

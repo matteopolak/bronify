@@ -1,11 +1,12 @@
 <script lang="ts">
 	import { page } from '$app/state';
 	import Collection from '$lib/components/collection.svelte';
-	import { albumCover, trackData, getAlbum } from '$lib/get';
+	import { albumCover, trackData, getAlbum, getArtist } from '$lib/get';
 	import { player } from '$lib/player.svelte';
 
 	let album = $derived(getAlbum(page.params.id));
 	let tracks = $derived(trackData.filter((s) => album.trackIds.includes(s.id)));
+	let artist = $derived(getArtist(album.artist));
 
 	$effect(() => {
 		player.queue = tracks;
@@ -16,7 +17,7 @@
 	content={{
 		id: album.id,
 		title: album.title,
-		subtitle: album.artist,
+		subtitle: artist?.display_name ?? album.artist,
 		cover: albumCover(album.id),
 		tracks,
 		type: 'album'

@@ -2,7 +2,7 @@
 	import { shortcut, type ShortcutEventDetail } from '@svelte-put/shortcut';
 	import Device from 'svelte-device-info';
 
-	import { trackThumbnail } from '$lib/get';
+	import { getArtist, trackThumbnail } from '$lib/get';
 	import { formatSeconds } from '$lib/util';
 	import { player, settings } from '$lib/player.svelte';
 	import {
@@ -175,7 +175,7 @@
 			<span class="text-sm text-slate-300">
 				By
 				<a href="/artists/{player.track.artist}" class="hover:underline">
-					{player.track.artist}
+					{getArtist(player.track.artist).display_name ?? player.track.artist}
 				</a>
 			</span>
 		</div>

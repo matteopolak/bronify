@@ -3,19 +3,29 @@
 	import artistData from '$lib/content/artists.json';
 
 	import { DYNAMIC_HEIGHT_CLASS_SIDEBAR, DYNAMIC_HEIGHT_CLASS } from '$lib/constants';
-	import type { Collection } from '$lib/types';
+	import type { Artist, Collection } from '$lib/types';
 	import { Library } from '@lucide/svelte';
 	import { albumThumbnail, artistThumbnail } from '$lib/get';
 	import type { Snippet } from 'svelte';
 	import Fuse from 'fuse.js';
 
 	const artistIndex = new Fuse(artistData, {
-		keys: ['id', 'tiktok', 'soundcloud'],
+		keys: ['id', 'tiktok', 'soundcloud', 'display_name'],
 		threshold: 0.4
 	});
 
-	const albumIndex = new Fuse(albumData, {
-		keys: ['title', 'artist'],
+	const betterAlbumData = albumData.map((album) => ({
+		...album,
+		artist: (artistData.find((artist) => artist.id === album.artist) as
+			| Pick<Artist, 'id' | 'display_name'>
+			| undefined) ?? {
+			id: album.artist,
+			display_name: album.artist
+		}
+	}));
+
+	const albumIndex = new Fuse(betterAlbumData, {
+		keys: ['title', 'artist.id', 'artist.display_name'],
 		threshold: 0.4
 	});
 
@@ -25,7 +35,7 @@
 	let selected: string | undefined = $state();
 
 	let artists = $derived(search ? artistIndex.search(search).map((s) => s.item) : artistData);
-	let albums = $derived(search ? albumIndex.search(search).map((s) => s.item) : albumData);
+	let albums = $derived(search ? albumIndex.search(search).map((s) => s.item) : betterAlbumData);
 
 	function collectionPrefix(content: Pick<Collection, 'type'>): string {
 		if (content.type === 'playlist') {
@@ -92,7 +102,7 @@
 				{@render collection({
 					id: album.id,
 					title: album.title,
-					subtitle: album.artist,
+					subtitle: album.artist.display_name ?? album.artist.id,
 					cover: albumThumbnail(album.id),
 					type: 'album'
 				})}
@@ -101,7 +111,7 @@
 			{#each artists as artist (artist.id)}
 				{@render collection({
 					id: artist.id,
-					title: artist.id,
+					title: artist.display_name ?? artist.id,
 					subtitle: 'Artist',
 					cover: artistThumbnail(artist.id),
 					type: 'artist'

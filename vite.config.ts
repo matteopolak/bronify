@@ -4,5 +4,10 @@ import { enhancedImages } from '@sveltejs/enhanced-img';
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-	plugins: [enhancedImages(), tailwindcss(), sveltekit()]
+	plugins: [enhancedImages(), tailwindcss(), sveltekit()],
+	server: {
+		watch: {
+			ignored: ['scripts/*', 'ios/*', 'android/*']
+		}
+	}
 });

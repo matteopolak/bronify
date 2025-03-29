@@ -9,6 +9,5 @@ dependencies = [
     "tensorflow-hub>=0.16.1",
     "tensorflow>=2.19.0",
     "pandas>=2.2.3",
-    "demucs>=4.0.1",
-    "openai-whisper>=20240930",
 ]
+

@@ -41,15 +41,20 @@
 
 			{#if artist?.tiktok}
 				&bull;
-				<a href="https://tiktok.com/@{artist.tiktok}" class="hover:underline">
-					@{artist.tiktok} on TikTok
-				</a>
+				<a href="https://tiktok.com/@{artist.tiktok}" class="hover:underline"> TikTok </a>
 			{/if}
 
 			{#if artist?.soundcloud}
 				&bull;
 				<a href="https://soundcloud.com/{artist.soundcloud}" class="hover:underline">
-					@{artist.soundcloud} on SoundCloud
+					SoundCloud
+				</a>
+			{/if}
+
+			{#if artist?.spotify}
+				&bull;
+				<a href="https://open.spotify.com/artist/{artist.spotify}" class="hover:underline">
+					Spotify
 				</a>
 			{/if}
 		</p>

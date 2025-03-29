@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Bronify</string>
+    <string name="title_activity_main">Bronify</string>
+    <string name="package_name">love.bronify.app</string>
+    <string name="custom_url_scheme">love.bronify.app</string>
+</resources>

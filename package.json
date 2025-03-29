@@ -6,6 +6,10 @@
 	"scripts": {
 		"dev": "vite dev",
 		"build": "pnpm pre-build && vite build",
+		"build:android": "pnpm build && pnpm cap-run:android",
+		"build:ios": "pnpm build && pnpm cap-run:ios",
+		"cap-run:android": "cap sync android && cap open android",
+		"cap-run:ios": "cap sync ios && cap open ios",
 		"preview": "vite preview",
 		"prepare": "svelte-kit sync || echo ''",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
@@ -13,7 +17,8 @@
 		"format": "prettier --write .",
 		"lint": "prettier --check . && eslint .",
 		"collect": "node --experimental-strip-types scripts/collect.ts",
-		"tag": "uv run scripts/classify.py && node --experimental-strip-types scripts/apply_tags.ts",
+		"tag": "cd scripts && uv run classify.py && cd .. && node --experimental-strip-types scripts/apply_tags.ts",
+		"lyrics": "cd scripts/inner && uv run make_lyrics.py && cd ../.. && pnpm fix-lyrics",
 		"hash": "node --experimental-strip-types scripts/hash_file.ts",
 		"add-thumb": "node --experimental-strip-types scripts/add_thumb.ts",
 		"missing-lyrics": "node --experimental-strip-types scripts/missing_lyrics.ts",
@@ -27,7 +32,7 @@
 	"devDependencies": {
 		"@eslint/compat": "^1.2.5",
 		"@eslint/js": "^9.18.0",
-		"@sveltejs/adapter-cloudflare": "^5.0.1",
+		"@sveltejs/adapter-static": "^3.0.8",
 		"@sveltejs/enhanced-img": "^0.4.4",
 		"@sveltejs/kit": "^2.16.0",
 		"@sveltejs/vite-plugin-svelte": "^5.0.0",
@@ -53,6 +58,10 @@
 		"onlyBuiltDependencies": ["esbuild"]
 	},
 	"dependencies": {
+		"@capacitor/android": "^7.1.0",
+		"@capacitor/cli": "^7.1.0",
+		"@capacitor/core": "^7.1.0",
+		"@capacitor/ios": "^7.1.0",
 		"@lucide/svelte": "^0.483.0",
 		"@svelte-put/shortcut": "^4.1.0",
 		"axios": "^1.8.4",

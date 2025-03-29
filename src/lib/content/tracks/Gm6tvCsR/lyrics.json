@@ -279,7 +279,7 @@
 			}
 		],
 		"start": 21.38,
-		"end": 25.82
+		"end": 25.08
 	},
 	{
 		"words": [
@@ -287,55 +287,55 @@
 				"text": "That's ",
 				"start": 0,
 				"end": 0.72,
-				"index": 44
+				"index": 43
 			},
 			{
 				"text": "my ",
 				"start": 0.72,
 				"end": 0.98,
-				"index": 45
+				"index": 44
 			},
 			{
 				"text": "king, ",
 				"start": 0.98,
 				"end": 1.38,
-				"index": 46
+				"index": 45
 			},
 			{
 				"text": "that's ",
 				"start": 1.52,
 				"end": 1.82,
-				"index": 47
+				"index": 46
 			},
 			{
 				"text": "my ",
 				"start": 1.82,
 				"end": 2.04,
-				"index": 48
+				"index": 47
 			},
 			{
 				"text": "king, ",
 				"start": 2.04,
 				"end": 2.64,
-				"index": 49
+				"index": 48
 			},
 			{
 				"text": "my ",
 				"start": 3.26,
 				"end": 3.32,
-				"index": 50
+				"index": 49
 			},
 			{
 				"text": "glorious ",
 				"start": 3.32,
 				"end": 3.8,
-				"index": 51
+				"index": 50
 			},
 			{
 				"text": "king",
 				"start": 3.8,
 				"end": 4.56,
-				"index": 52
+				"index": 51
 			}
 		],
 		"start": 25.82,
@@ -347,25 +347,25 @@
 				"text": "My ",
 				"start": 0,
 				"end": 0.4,
-				"index": 53
+				"index": 52
 			},
 			{
 				"text": "king, ",
 				"start": 0.4,
 				"end": 0.96,
-				"index": 54
+				"index": 53
 			},
 			{
 				"text": "my ",
 				"start": 1.24,
 				"end": 1.48,
-				"index": 55
+				"index": 54
 			},
 			{
 				"text": "king",
 				"start": 1.48,
 				"end": 2.48,
-				"index": 56
+				"index": 55
 			}
 		],
 		"start": 30.38,
@@ -377,7 +377,7 @@
 				"text": "LeBronny",
 				"start": 0,
 				"end": 0.76,
-				"index": 57
+				"index": 56
 			}
 		],
 		"start": 34,

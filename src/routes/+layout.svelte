@@ -135,6 +135,10 @@
 
 		settings.lyrics = 'off';
 	});
+
+	const DEFAULT_TITLE = 'Bronify: LeMusic for everyone';
+
+	let title = $derived(player.paused ? DEFAULT_TITLE : `${player.track.title} | Bronify`);
 </script>
 
 <svelte:head>
@@ -150,7 +154,7 @@
 	/>
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 
-	<title>Bronify: LeMusic for everyone</title>
+	<title>{title}</title>
 </svelte:head>
 
 <svelte:window

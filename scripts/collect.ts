@@ -45,6 +45,11 @@ async function main() {
 	const seenVideos = new Set();
 
 	for (const link of links) {
+		if (link === '//') {
+			console.log('found breaker, ending');
+			break;
+		}
+
 		const info = runYtdlpSync(['-j', link]);
 		const song = JSON.parse(info);
 

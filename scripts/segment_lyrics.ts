@@ -54,6 +54,9 @@ function cleanWord(text: string) {
 }
 
 for (const track of tracks) {
+	if (track !== 'zBU-r25Z') {
+		continue;
+	}
 	if (!fs.existsSync(path.join(base, track, 'lyrics.json'))) {
 		console.log(`Missing lyrics for ${track}`);
 		continue;
@@ -74,15 +77,10 @@ for (const track of tracks) {
 	// flatten all lyrics
 	const flattened = lyrics.flatMap((l) => l.words);
 
-	// renumber them
-	for (const [idx, f] of flattened.entries()) {
-		f.index = idx;
-	}
-
 	// if the gap is larger than this, make a new line
 	const SPLIT_TIME_THRESHOLD = 0.39;
 
-	let start = 0;
+	let start = -1;
 	let end = 0;
 	let words: LyricsWord[] = [];
 
@@ -98,6 +96,16 @@ for (const track of tracks) {
 		const noSpace = !lastEndedWithSpace && !currentStartsWithSpace;
 
 		const wordEnd = word.end;
+
+		if (word.end === start || (word.start === start && words.length)) {
+			// merge it
+			const lastWord = words[words.length - 1];
+
+			lastWord.end = wordEnd;
+			lastWord.text += word.text;
+
+			continue;
+		}
 
 		if (
 			canStartLine(word.text) &&
@@ -119,6 +127,8 @@ for (const track of tracks) {
 					start,
 					end
 				});
+
+				start = -1;
 			}
 
 			start = word.start;
@@ -145,6 +155,7 @@ for (const track of tracks) {
 		if (lastWord.text.endsWith(',')) {
 			lastWord.text = lastWord.text.slice(0, -1);
 			lastWord.end -= 0.1;
+			lastWord.end = Math.max(0, lastWord.end);
 		}
 
 		newLyrics.push({
@@ -162,6 +173,17 @@ for (const track of tracks) {
 		for (const word of line.words) {
 			word.start = Math.round(word.start * 100) / 100;
 			word.end = Math.round(word.end * 100) / 100;
+		}
+	}
+
+	// renumber them
+	let index = 0;
+
+	for (const line of newLyrics) {
+		for (const word of line.words) {
+			word.index = index++;
+			word.end = Math.max(word.end, 0);
+			word.start = Math.max(word.start, 0);
 		}
 	}
 
