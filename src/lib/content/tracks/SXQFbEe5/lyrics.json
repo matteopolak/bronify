@@ -1,0 +1,428 @@
+[
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.46,
+				"index": 0
+			},
+			{
+				"text": "know ",
+				"start": 0.46,
+				"end": 0.78,
+				"index": 1
+			},
+			{
+				"text": "Bronny ",
+				"start": 0.78,
+				"end": 1.24,
+				"index": 2
+			},
+			{
+				"text": "is ",
+				"start": 1.24,
+				"end": 1.44,
+				"index": 3
+			},
+			{
+				"text": "the ",
+				"start": 1.44,
+				"end": 1.6,
+				"index": 4
+			},
+			{
+				"text": "future, ",
+				"start": 1.6,
+				"end": 2.04,
+				"index": 5
+			},
+			{
+				"text": "sometimes ",
+				"start": 2.4,
+				"end": 2.84,
+				"index": 6
+			},
+			{
+				"text": "Stephen ",
+				"start": 2.84,
+				"end": 3.32,
+				"index": 7
+			},
+			{
+				"text": "A. ",
+				"start": 3.32,
+				"end": 3.6,
+				"index": 8
+			},
+			{
+				"text": "slips ",
+				"start": 3.74,
+				"end": 3.84,
+				"index": 9
+			},
+			{
+				"text": "in ",
+				"start": 3.84,
+				"end": 4.14,
+				"index": 10
+			},
+			{
+				"text": "the ",
+				"start": 4.14,
+				"end": 4.3,
+				"index": 11
+			},
+			{
+				"text": "picture, ",
+				"start": 4.3,
+				"end": 4.66,
+				"index": 12
+			},
+			{
+				"text": "says ",
+				"start": 4.66,
+				"end": 4.98,
+				"index": 13
+			},
+			{
+				"text": "he's ",
+				"start": 4.98,
+				"end": 5.24,
+				"index": 14
+			},
+			{
+				"text": "a ",
+				"start": 5.24,
+				"end": 5.38,
+				"index": 15
+			},
+			{
+				"text": "failure",
+				"start": 5.38,
+				"end": 5.72,
+				"index": 16
+			},
+			{
+				"text": "and ",
+				"start": 5.72,
+				"end": 5.98,
+				"index": 17
+			},
+			{
+				"text": "he'll ",
+				"start": 5.98,
+				"end": 6.14,
+				"index": 18
+			},
+			{
+				"text": "lose ",
+				"start": 6.14,
+				"end": 6.32,
+				"index": 19
+			},
+			{
+				"text": "a ",
+				"start": 6.32,
+				"end": 6.56,
+				"index": 20
+			},
+			{
+				"text": "butt",
+				"start": 6.56,
+				"end": 6.84,
+				"index": 21
+			}
+		],
+		"start": 11.44,
+		"end": 18.28
+	},
+	{
+		"words": [
+			{
+				"text": "Oh",
+				"start": 0,
+				"end": 0.12,
+				"index": 22
+			}
+		],
+		"start": 18.76,
+		"end": 18.88
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron ",
+				"start": 0,
+				"end": 0.02,
+				"index": 23
+			},
+			{
+				"text": "reminds ",
+				"start": 0.02,
+				"end": 0.44,
+				"index": 24
+			},
+			{
+				"text": "me ",
+				"start": 0.44,
+				"end": 0.64,
+				"index": 25
+			},
+			{
+				"text": "not ",
+				"start": 0.64,
+				"end": 0.84,
+				"index": 26
+			},
+			{
+				"text": "to ",
+				"start": 0.84,
+				"end": 0.96,
+				"index": 27
+			},
+			{
+				"text": "be ",
+				"start": 0.96,
+				"end": 1.1,
+				"index": 28
+			},
+			{
+				"text": "human, ",
+				"start": 1.1,
+				"end": 1.3,
+				"index": 29
+			},
+			{
+				"text": "head ",
+				"start": 1.52,
+				"end": 1.7,
+				"index": 30
+			},
+			{
+				"text": "high, ",
+				"start": 1.7,
+				"end": 2,
+				"index": 31
+			},
+			{
+				"text": "keep ",
+				"start": 2.24,
+				"end": 2.34,
+				"index": 32
+			},
+			{
+				"text": "on ",
+				"start": 2.34,
+				"end": 2.52,
+				"index": 33
+			},
+			{
+				"text": "moving ",
+				"start": 2.52,
+				"end": 2.74,
+				"index": 34
+			},
+			{
+				"text": "high ",
+				"start": 2.74,
+				"end": 2.98,
+				"index": 35
+			},
+			{
+				"text": "like ",
+				"start": 2.98,
+				"end": 3.16,
+				"index": 36
+			},
+			{
+				"text": "a ",
+				"start": 3.16,
+				"end": 3.3,
+				"index": 37
+			},
+			{
+				"text": "girl ",
+				"start": 3.3,
+				"end": 3.38,
+				"index": 38
+			},
+			{
+				"text": "like",
+				"start": 3.38,
+				"end": 3.74,
+				"index": 39
+			}
+		],
+		"start": 19.5,
+		"end": 23.24
+	},
+	{
+		"words": [
+			{
+				"text": "Jordan, ",
+				"start": 0,
+				"end": 0.24,
+				"index": 40
+			},
+			{
+				"text": "he's ",
+				"start": 0.28,
+				"end": 0.5,
+				"index": 41
+			},
+			{
+				"text": "not ",
+				"start": 0.5,
+				"end": 0.68,
+				"index": 42
+			},
+			{
+				"text": "Jordan",
+				"start": 0.68,
+				"end": 1.2,
+				"index": 43
+			}
+		],
+		"start": 23.24,
+		"end": 24.44
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron ",
+				"start": 0,
+				"end": 0.94,
+				"index": 44
+			},
+			{
+				"text": "James ",
+				"start": 0.94,
+				"end": 1.6,
+				"index": 45
+			},
+			{
+				"text": "the ",
+				"start": 1.6,
+				"end": 1.92,
+				"index": 46
+			},
+			{
+				"text": "second, ",
+				"start": 1.92,
+				"end": 2.5,
+				"index": 47
+			},
+			{
+				"text": "pump ",
+				"start": 2.78,
+				"end": 2.98,
+				"index": 48
+			},
+			{
+				"text": "fake ",
+				"start": 2.98,
+				"end": 3.36,
+				"index": 49
+			},
+			{
+				"text": "shot, ",
+				"start": 3.36,
+				"end": 3.74,
+				"index": 50
+			},
+			{
+				"text": "they ",
+				"start": 3.96,
+				"end": 4.06,
+				"index": 51
+			},
+			{
+				"text": "can't eliminate ",
+				"start": 4.06,
+				"end": 4.88,
+				"index": 52
+			},
+			{
+				"text": "him ",
+				"start": 4.88,
+				"end": 5.34,
+				"index": 53
+			},
+			{
+				"text": "from ",
+				"start": 5.34,
+				"end": 5.62,
+				"index": 54
+			},
+			{
+				"text": "the ",
+				"start": 5.62,
+				"end": 5.9,
+				"index": 55
+			},
+			{
+				"text": "three",
+				"start": 5.9,
+				"end": 6.32,
+				"index": 56
+			}
+		],
+		"start": 24.44,
+		"end": 30.76
+	},
+	{
+		"words": [
+			{
+				"text": "Unstoppable ",
+				"start": 0,
+				"end": 0.64,
+				"index": 57
+			},
+			{
+				"text": "movement, ",
+				"start": 0.64,
+				"end": 1.26,
+				"index": 58
+			},
+			{
+				"text": "he ",
+				"start": 1.7,
+				"end": 1.8,
+				"index": 59
+			},
+			{
+				"text": "don't ",
+				"start": 1.8,
+				"end": 2.12,
+				"index": 60
+			},
+			{
+				"text": "care, ",
+				"start": 2.12,
+				"end": 2.4,
+				"index": 61
+			},
+			{
+				"text": "call ",
+				"start": 2.64,
+				"end": 2.78,
+				"index": 62
+			},
+			{
+				"text": "the ",
+				"start": 2.78,
+				"end": 3.04,
+				"index": 63
+			},
+			{
+				"text": "refs",
+				"start": 3.04,
+				"end": 4.36,
+				"index": 64
+			}
+		],
+		"start": 31.44,
+		"end": 35.8
+	}
+]

@@ -1,0 +1,176 @@
+[
+	{
+		"words": [
+			{
+				"text": "I'm ",
+				"start": 0,
+				"end": 2.54,
+				"index": 0
+			},
+			{
+				"text": "sorry ",
+				"start": 2.54,
+				"end": 3.54,
+				"index": 1
+			},
+			{
+				"text": "LeBron, ",
+				"start": 3.54,
+				"end": 4.34,
+				"index": 2
+			},
+			{
+				"text": "please ",
+				"start": 4.72,
+				"end": 5.06,
+				"index": 3
+			},
+			{
+				"text": "don't ",
+				"start": 5.06,
+				"end": 5.7,
+				"index": 4
+			},
+			{
+				"text": "go ",
+				"start": 5.7,
+				"end": 6.78,
+				"index": 5
+			}
+		],
+		"start": 0,
+		"end": 6.78
+	},
+	{
+		"words": [
+			{
+				"text": "My ",
+				"start": 6.78,
+				"end": 10.62,
+				"index": 6
+			},
+			{
+				"text": "king, ",
+				"start": 10.62,
+				"end": 11.38,
+				"index": 7
+			},
+			{
+				"text": "just ",
+				"start": 11.58,
+				"end": 11.6,
+				"index": 8
+			},
+			{
+				"text": "please ",
+				"start": 11.6,
+				"end": 12.2,
+				"index": 9
+			},
+			{
+				"text": "stay ",
+				"start": 12.2,
+				"end": 12.68,
+				"index": 10
+			},
+			{
+				"text": "glorious",
+				"start": 12.68,
+				"end": 14.4,
+				"index": 11
+			}
+		],
+		"start": 6.78,
+		"end": 14.4
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 14.4,
+				"end": 16.96,
+				"index": 12
+			},
+			{
+				"text": "know ",
+				"start": 16.96,
+				"end": 19.22,
+				"index": 13
+			},
+			{
+				"text": "my ",
+				"start": 19.22,
+				"end": 19.76,
+				"index": 14
+			},
+			{
+				"text": "king ",
+				"start": 19.76,
+				"end": 20.32,
+				"index": 15
+			},
+			{
+				"text": "is ",
+				"start": 20.32,
+				"end": 20.76,
+				"index": 16
+			},
+			{
+				"text": "getting ",
+				"start": 20.76,
+				"end": 21.74,
+				"index": 17
+			},
+			{
+				"text": "old ",
+				"start": 21.74,
+				"end": 23.54,
+				"index": 18
+			}
+		],
+		"start": 14.4,
+		"end": 23.54
+	},
+	{
+		"words": [
+			{
+				"text": "Your ",
+				"start": 23.54,
+				"end": 26.94,
+				"index": 19
+			},
+			{
+				"text": "memories ",
+				"start": 26.94,
+				"end": 28.28,
+				"index": 20
+			},
+			{
+				"text": "love ",
+				"start": 28.28,
+				"end": 28.94,
+				"index": 21
+			},
+			{
+				"text": "must ",
+				"start": 28.94,
+				"end": 29.46,
+				"index": 22
+			},
+			{
+				"text": "stay ",
+				"start": 29.46,
+				"end": 29.94,
+				"index": 23
+			},
+			{
+				"text": "strong",
+				"start": 29.94,
+				"end": 31.46,
+				"index": 24
+			}
+		],
+		"start": 23.54,
+		"end": 31.46
+	}
+]

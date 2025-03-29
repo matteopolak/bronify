@@ -1,0 +1,1742 @@
+[
+	{
+		"words": [
+			{
+				"text": "Let's ",
+				"start": 0,
+				"end": 0.72,
+				"index": 0
+			},
+			{
+				"text": "talk ",
+				"start": 0.72,
+				"end": 1,
+				"index": 1
+			},
+			{
+				"text": "about ",
+				"start": 1,
+				"end": 1.56,
+				"index": 2
+			},
+			{
+				"text": "LeBron ",
+				"start": 1.56,
+				"end": 2.06,
+				"index": 3
+			},
+			{
+				"text": "Ramon ",
+				"start": 2.06,
+				"end": 2.7,
+				"index": 4
+			},
+			{
+				"text": "James",
+				"start": 2.7,
+				"end": 3.34,
+				"index": 5
+			}
+		],
+		"start": 12.74,
+		"end": 16.08
+	},
+	{
+		"words": [
+			{
+				"text": "He's ",
+				"start": 0,
+				"end": 1.06,
+				"index": 6
+			},
+			{
+				"text": "at ",
+				"start": 1.06,
+				"end": 1.2,
+				"index": 7
+			},
+			{
+				"text": "the ",
+				"start": 1.2,
+				"end": 1.4,
+				"index": 8
+			},
+			{
+				"text": "top ",
+				"start": 1.4,
+				"end": 1.84,
+				"index": 9
+			},
+			{
+				"text": "of ",
+				"start": 1.84,
+				"end": 2.14,
+				"index": 10
+			},
+			{
+				"text": "his ",
+				"start": 2.14,
+				"end": 2.32,
+				"index": 11
+			},
+			{
+				"text": "physical ",
+				"start": 2.32,
+				"end": 2.88,
+				"index": 12
+			},
+			{
+				"text": "game",
+				"start": 2.88,
+				"end": 3.56,
+				"index": 13
+			}
+		],
+		"start": 16.08,
+		"end": 19.64
+	},
+	{
+		"words": [
+			{
+				"text": "His ",
+				"start": 0,
+				"end": 0.36,
+				"index": 14
+			},
+			{
+				"text": "shooting ",
+				"start": 0.36,
+				"end": 0.66,
+				"index": 15
+			},
+			{
+				"text": "stroke ",
+				"start": 0.66,
+				"end": 1.08,
+				"index": 16
+			},
+			{
+				"text": "form ",
+				"start": 1.08,
+				"end": 1.46,
+				"index": 17
+			},
+			{
+				"text": "is ",
+				"start": 1.46,
+				"end": 1.68,
+				"index": 18
+			},
+			{
+				"text": "perfect",
+				"start": 1.68,
+				"end": 2.04,
+				"index": 19
+			}
+		],
+		"start": 20.28,
+		"end": 22.32
+	},
+	{
+		"words": [
+			{
+				"text": "That's ",
+				"start": 0,
+				"end": 0.38,
+				"index": 20
+			},
+			{
+				"text": "my ",
+				"start": 0.38,
+				"end": 0.5,
+				"index": 21
+			},
+			{
+				"text": "King ",
+				"start": 0.5,
+				"end": 0.76,
+				"index": 22
+			},
+			{
+				"text": "LeBron",
+				"start": 0.76,
+				"end": 1.24,
+				"index": 23
+			}
+		],
+		"start": 22.32,
+		"end": 23.56
+	},
+	{
+		"words": [
+			{
+				"text": "He ",
+				"start": 0,
+				"end": 0.58,
+				"index": 24
+			},
+			{
+				"text": "drinks ",
+				"start": 0.58,
+				"end": 0.86,
+				"index": 25
+			},
+			{
+				"text": "a ",
+				"start": 0.86,
+				"end": 1.12,
+				"index": 26
+			},
+			{
+				"text": "shot ",
+				"start": 1.12,
+				"end": 1.46,
+				"index": 27
+			},
+			{
+				"text": "plus ",
+				"start": 1.46,
+				"end": 1.76,
+				"index": 28
+			},
+			{
+				"text": "a ",
+				"start": 1.76,
+				"end": 2.08,
+				"index": 29
+			},
+			{
+				"text": "beaters",
+				"start": 2.08,
+				"end": 2.44,
+				"index": 30
+			}
+		],
+		"start": 23.56,
+		"end": 26
+	},
+	{
+		"words": [
+			{
+				"text": "That's ",
+				"start": 0,
+				"end": 0.32,
+				"index": 31
+			},
+			{
+				"text": "gay",
+				"start": 0.32,
+				"end": 0.82,
+				"index": 32
+			}
+		],
+		"start": 26,
+		"end": 26.82
+	},
+	{
+		"words": [
+			{
+				"text": "Yo, ",
+				"start": 0,
+				"end": 0.46,
+				"index": 33
+			},
+			{
+				"text": "from ",
+				"start": 1.06,
+				"end": 1.24,
+				"index": 34
+			},
+			{
+				"text": "Ohio, ",
+				"start": 1.24,
+				"end": 1.66,
+				"index": 35
+			},
+			{
+				"text": "Miami ",
+				"start": 1.82,
+				"end": 2.18,
+				"index": 36
+			},
+			{
+				"text": "to ",
+				"start": 2.18,
+				"end": 2.4,
+				"index": 37
+			},
+			{
+				"text": "LA",
+				"start": 2.4,
+				"end": 2.68,
+				"index": 38
+			}
+		],
+		"start": 26.82,
+		"end": 29.5
+	},
+	{
+		"words": [
+			{
+				"text": "Big ",
+				"start": 0,
+				"end": 0.4,
+				"index": 39
+			},
+			{
+				"text": "thing",
+				"start": 0.4,
+				"end": 0.54,
+				"index": 40
+			}
+		],
+		"start": 29.5,
+		"end": 30.04
+	},
+	{
+		"words": [
+			{
+				"text": "Fall ",
+				"start": 0,
+				"end": 0.12,
+				"index": 41
+			},
+			{
+				"text": "rings, ",
+				"start": 0.12,
+				"end": 0.34,
+				"index": 42
+			},
+			{
+				"text": "do ",
+				"start": 0.46,
+				"end": 0.52,
+				"index": 43
+			},
+			{
+				"text": "it ",
+				"start": 0.52,
+				"end": 0.64,
+				"index": 44
+			},
+			{
+				"text": "every ",
+				"start": 0.64,
+				"end": 0.82,
+				"index": 45
+			},
+			{
+				"text": "day",
+				"start": 0.82,
+				"end": 1.08,
+				"index": 46
+			}
+		],
+		"start": 30.26,
+		"end": 31.34
+	},
+	{
+		"words": [
+			{
+				"text": "He ",
+				"start": 0,
+				"end": 0.28,
+				"index": 47
+			},
+			{
+				"text": "will ",
+				"start": 0.28,
+				"end": 0.38,
+				"index": 48
+			},
+			{
+				"text": "put ",
+				"start": 0.38,
+				"end": 0.52,
+				"index": 49
+			},
+			{
+				"text": "it ",
+				"start": 0.52,
+				"end": 0.64,
+				"index": 50
+			},
+			{
+				"text": "from ",
+				"start": 0.64,
+				"end": 0.76,
+				"index": 51
+			},
+			{
+				"text": "three, ",
+				"start": 0.76,
+				"end": 1.02,
+				"index": 52
+			},
+			{
+				"text": "cross ",
+				"start": 1.12,
+				"end": 1.18,
+				"index": 53
+			},
+			{
+				"text": "you ",
+				"start": 1.18,
+				"end": 1.32,
+				"index": 54
+			},
+			{
+				"text": "one ",
+				"start": 1.32,
+				"end": 1.42,
+				"index": 55
+			},
+			{
+				"text": "of ",
+				"start": 1.42,
+				"end": 1.54,
+				"index": 56
+			},
+			{
+				"text": "your ",
+				"start": 1.54,
+				"end": 1.68,
+				"index": 57
+			},
+			{
+				"text": "knees",
+				"start": 1.68,
+				"end": 1.92,
+				"index": 58
+			}
+		],
+		"start": 31.34,
+		"end": 33.26
+	},
+	{
+		"words": [
+			{
+				"text": "I've ",
+				"start": 0,
+				"end": 0.2,
+				"index": 59
+			},
+			{
+				"text": "been ",
+				"start": 0.2,
+				"end": 0.24,
+				"index": 60
+			},
+			{
+				"text": "paying ",
+				"start": 0.24,
+				"end": 0.4,
+				"index": 61
+			},
+			{
+				"text": "some ",
+				"start": 0.4,
+				"end": 0.66,
+				"index": 62
+			},
+			{
+				"text": "fees ",
+				"start": 0.66,
+				"end": 0.84,
+				"index": 63
+			},
+			{
+				"text": "to ",
+				"start": 0.84,
+				"end": 1.02,
+				"index": 64
+			},
+			{
+				"text": "the ",
+				"start": 1.02,
+				"end": 1.16,
+				"index": 65
+			},
+			{
+				"text": "referee",
+				"start": 1.16,
+				"end": 1.46,
+				"index": 66
+			}
+		],
+		"start": 33.26,
+		"end": 34.72
+	},
+	{
+		"words": [
+			{
+				"text": "He ",
+				"start": 0,
+				"end": 0.5,
+				"index": 67
+			},
+			{
+				"text": "didn't ",
+				"start": 0.5,
+				"end": 0.78,
+				"index": 68
+			},
+			{
+				"text": "need ",
+				"start": 0.78,
+				"end": 0.9,
+				"index": 69
+			},
+			{
+				"text": "a ",
+				"start": 0.9,
+				"end": 1.04,
+				"index": 70
+			},
+			{
+				"text": "Kevin",
+				"start": 1.04,
+				"end": 1.22,
+				"index": 71
+			},
+			{
+				"text": "-level ",
+				"start": 1.22,
+				"end": 1.44,
+				"index": 72
+			},
+			{
+				"text": "alt",
+				"start": 1.44,
+				"end": 1.68,
+				"index": 73
+			},
+			{
+				"text": "-kirate",
+				"start": 1.68,
+				"end": 2.08,
+				"index": 74
+			}
+		],
+		"start": 34.72,
+		"end": 36.8
+	},
+	{
+		"words": [
+			{
+				"text": "Game ",
+				"start": 0,
+				"end": 0.22,
+				"index": 75
+			},
+			{
+				"text": "5",
+				"start": 0.22,
+				"end": 0.46,
+				"index": 76
+			},
+			{
+				"text": "-0, ",
+				"start": 0.46,
+				"end": 0.68,
+				"index": 77
+			},
+			{
+				"text": "dream ",
+				"start": 0.78,
+				"end": 0.84,
+				"index": 78
+			},
+			{
+				"text": "I ",
+				"start": 0.84,
+				"end": 0.98,
+				"index": 79
+			},
+			{
+				"text": "need ",
+				"start": 0.98,
+				"end": 1.04,
+				"index": 80
+			},
+			{
+				"text": "a",
+				"start": 1.04,
+				"end": 1.18,
+				"index": 81
+			}
+		],
+		"start": 36.8,
+		"end": 37.98
+	},
+	{
+		"words": [
+			{
+				"text": "Wynwood's ",
+				"start": 0,
+				"end": 0.48,
+				"index": 82
+			},
+			{
+				"text": "fridge",
+				"start": 0.48,
+				"end": 0.64,
+				"index": 83
+			}
+		],
+		"start": 37.98,
+		"end": 38.62
+	},
+	{
+		"words": [
+			{
+				"text": "Big ",
+				"start": 0,
+				"end": 0.36,
+				"index": 84
+			},
+			{
+				"text": "friends, ",
+				"start": 0.36,
+				"end": 0.62,
+				"index": 85
+			},
+			{
+				"text": "boys ",
+				"start": 0.74,
+				"end": 0.84,
+				"index": 86
+			},
+			{
+				"text": "talking ",
+				"start": 0.84,
+				"end": 1.06,
+				"index": 87
+			},
+			{
+				"text": "about ",
+				"start": 1.06,
+				"end": 1.2,
+				"index": 88
+			},
+			{
+				"text": "some ",
+				"start": 1.2,
+				"end": 1.36,
+				"index": 89
+			},
+			{
+				"text": "wee",
+				"start": 1.36,
+				"end": 1.5,
+				"index": 90
+			},
+			{
+				"text": "-wee",
+				"start": 1.5,
+				"end": 1.96,
+				"index": 91
+			}
+		],
+		"start": 38.62,
+		"end": 40.58
+	},
+	{
+		"words": [
+			{
+				"text": "Who ",
+				"start": 0,
+				"end": 0.16,
+				"index": 92
+			},
+			{
+				"text": "can ",
+				"start": 0.16,
+				"end": 0.36,
+				"index": 93
+			},
+			{
+				"text": "stop ",
+				"start": 0.36,
+				"end": 0.62,
+				"index": 94
+			},
+			{
+				"text": "them?",
+				"start": 0.62,
+				"end": 0.78,
+				"index": 95
+			}
+		],
+		"start": 40.58,
+		"end": 41.36
+	},
+	{
+		"words": [
+			{
+				"text": "Not ",
+				"start": 0,
+				"end": 0.3,
+				"index": 96
+			},
+			{
+				"text": "Kurt ",
+				"start": 0.3,
+				"end": 0.6,
+				"index": 97
+			},
+			{
+				"text": "Rigg",
+				"start": 0.6,
+				"end": 0.96,
+				"index": 98
+			}
+		],
+		"start": 41.48,
+		"end": 42.44
+	},
+	{
+		"words": [
+			{
+				"text": "Three ",
+				"start": 0,
+				"end": 0.44,
+				"index": 99
+			},
+			{
+				"text": "to ",
+				"start": 0.44,
+				"end": 0.84,
+				"index": 100
+			},
+			{
+				"text": "one, ",
+				"start": 0.84,
+				"end": 1.18,
+				"index": 101
+			},
+			{
+				"text": "though",
+				"start": 1.42,
+				"end": 1.72,
+				"index": 102
+			}
+		],
+		"start": 43.1,
+		"end": 44.82
+	},
+	{
+		"words": [
+			{
+				"text": "Time ",
+				"start": 0,
+				"end": 0.48,
+				"index": 103
+			},
+			{
+				"text": "to ",
+				"start": 0.48,
+				"end": 0.76,
+				"index": 104
+			},
+			{
+				"text": "lock ",
+				"start": 0.76,
+				"end": 1,
+				"index": 105
+			},
+			{
+				"text": "in, ",
+				"start": 1,
+				"end": 1.42,
+				"index": 106
+			},
+			{
+				"text": "bro",
+				"start": 1.74,
+				"end": 1.84,
+				"index": 107
+			}
+		],
+		"start": 44.82,
+		"end": 46.66
+	},
+	{
+		"words": [
+			{
+				"text": "Curries ",
+				"start": 0,
+				"end": 0.78,
+				"index": 108
+			},
+			{
+				"text": "threes, ",
+				"start": 0.78,
+				"end": 1.26,
+				"index": 109
+			},
+			{
+				"text": "cannot ",
+				"start": 1.42,
+				"end": 1.6,
+				"index": 110
+			},
+			{
+				"text": "stop ",
+				"start": 1.6,
+				"end": 1.96,
+				"index": 111
+			},
+			{
+				"text": "LeBron",
+				"start": 1.96,
+				"end": 2.62,
+				"index": 112
+			}
+		],
+		"start": 46.66,
+		"end": 49.28
+	},
+	{
+		"words": [
+			{
+				"text": "They'll ",
+				"start": 0,
+				"end": 0.78,
+				"index": 113
+			},
+			{
+				"text": "be ",
+				"start": 0.78,
+				"end": 0.96,
+				"index": 114
+			},
+			{
+				"text": "jaged ",
+				"start": 0.96,
+				"end": 1.64,
+				"index": 115
+			},
+			{
+				"text": "40 ",
+				"start": 1.64,
+				"end": 1.94,
+				"index": 116
+			},
+			{
+				"text": "in ",
+				"start": 1.94,
+				"end": 2.54,
+				"index": 117
+			},
+			{
+				"text": "game ",
+				"start": 2.54,
+				"end": 2.76,
+				"index": 118
+			},
+			{
+				"text": "six",
+				"start": 2.76,
+				"end": 3.22,
+				"index": 119
+			}
+		],
+		"start": 49.28,
+		"end": 52.5
+	},
+	{
+		"words": [
+			{
+				"text": "He's ",
+				"start": 0,
+				"end": 0.22,
+				"index": 120
+			},
+			{
+				"text": "splitting ",
+				"start": 0.22,
+				"end": 0.44,
+				"index": 121
+			},
+			{
+				"text": "rings ",
+				"start": 0.44,
+				"end": 1,
+				"index": 122
+			},
+			{
+				"text": "like ",
+				"start": 1,
+				"end": 1.42,
+				"index": 123
+			},
+			{
+				"text": "this",
+				"start": 1.42,
+				"end": 2.14,
+				"index": 124
+			}
+		],
+		"start": 52.5,
+		"end": 54.64
+	},
+	{
+		"words": [
+			{
+				"text": "That's ",
+				"start": 0,
+				"end": 0.26,
+				"index": 125
+			},
+			{
+				"text": "why ",
+				"start": 0.26,
+				"end": 0.4,
+				"index": 126
+			},
+			{
+				"text": "LeBron ",
+				"start": 0.4,
+				"end": 0.68,
+				"index": 127
+			},
+			{
+				"text": "said ",
+				"start": 0.68,
+				"end": 1.02,
+				"index": 128
+			},
+			{
+				"text": "go",
+				"start": 1.02,
+				"end": 1.46,
+				"index": 129
+			}
+		],
+		"start": 54.64,
+		"end": 56.1
+	},
+	{
+		"words": [
+			{
+				"text": "Bron, ",
+				"start": 0,
+				"end": 0.24,
+				"index": 130
+			},
+			{
+				"text": "Bron",
+				"start": 0.48,
+				"end": 0.38,
+				"index": 131
+			}
+		],
+		"start": 56.1,
+		"end": 56.48
+	},
+	{
+		"words": [
+			{
+				"text": "Bron",
+				"start": 0,
+				"end": -0.1,
+				"index": 132
+			}
+		],
+		"start": 57.04,
+		"end": 56.94
+	},
+	{
+		"words": [
+			{
+				"text": "Bron",
+				"start": 0,
+				"end": 1,
+				"index": 133
+			}
+		],
+		"start": 58,
+		"end": 59
+	},
+	{
+		"words": [
+			{
+				"text": "Bron, ",
+				"start": 0,
+				"end": 0,
+				"index": 134
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.24,
+				"end": 0.24,
+				"index": 135
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.26,
+				"end": 0.5,
+				"index": 136
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.5,
+				"end": 1.16,
+				"index": 137
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.16,
+				"end": 1.98,
+				"index": 138
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.98,
+				"end": 2.12,
+				"index": 139
+			},
+			{
+				"text": "Bron",
+				"start": 2.42,
+				"end": 2.4,
+				"index": 140
+			}
+		],
+		"start": 59.9,
+		"end": 62.3
+	},
+	{
+		"words": [
+			{
+				"text": "Bron, ",
+				"start": 0,
+				"end": 0.56,
+				"index": 141
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.66,
+				"end": 1.2,
+				"index": 142
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.2,
+				"end": 1.62,
+				"index": 143
+			},
+			{
+				"text": "Bron",
+				"start": 1.62,
+				"end": 2.14,
+				"index": 144
+			}
+		],
+		"start": 63.36,
+		"end": 65.5
+	},
+	{
+		"words": [
+			{
+				"text": "Bron",
+				"start": 0,
+				"end": 0.08,
+				"index": 145
+			}
+		],
+		"start": 65.98,
+		"end": 66.06
+	},
+	{
+		"words": [
+			{
+				"text": "Bron",
+				"start": 0,
+				"end": -0.1,
+				"index": 146
+			}
+		],
+		"start": 67.08,
+		"end": 66.98
+	},
+	{
+		"words": [
+			{
+				"text": "Bron, ",
+				"start": 0,
+				"end": 0,
+				"index": 147
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.14,
+				"end": 0.8,
+				"index": 148
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.8,
+				"end": 0.82,
+				"index": 149
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.82,
+				"end": 1.1,
+				"index": 150
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.1,
+				"end": 1.52,
+				"index": 151
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.68,
+				"end": 1.68,
+				"index": 152
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.78,
+				"end": 1.78,
+				"index": 153
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.8,
+				"end": 1.8,
+				"index": 154
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.82,
+				"end": 1.82,
+				"index": 155
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.9,
+				"end": 1.9,
+				"index": 156
+			},
+			{
+				"text": "Bron, ",
+				"start": 2.14,
+				"end": 2.14,
+				"index": 157
+			},
+			{
+				"text": "Bron, ",
+				"start": 2.26,
+				"end": 2.26,
+				"index": 158
+			},
+			{
+				"text": "Bron",
+				"start": 2.3,
+				"end": 2.2,
+				"index": 159
+			}
+		],
+		"start": 67.7,
+		"end": 69.96
+	},
+	{
+		"words": [
+			{
+				"text": "Bron",
+				"start": 0,
+				"end": -0.1,
+				"index": 160
+			}
+		],
+		"start": 70.04,
+		"end": 69.94
+	},
+	{
+		"words": [
+			{
+				"text": "Bron",
+				"start": 0,
+				"end": 0.26,
+				"index": 161
+			}
+		],
+		"start": 70.76,
+		"end": 71.02
+	},
+	{
+		"words": [
+			{
+				"text": "Bron, ",
+				"start": 0,
+				"end": 0,
+				"index": 162
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.24,
+				"end": 1.12,
+				"index": 163
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.16,
+				"end": 1.16,
+				"index": 164
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.16,
+				"end": 1.16,
+				"index": 165
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.16,
+				"end": 1.16,
+				"index": 166
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.34,
+				"end": 1.34,
+				"index": 167
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.4,
+				"end": 1.4,
+				"index": 168
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.78,
+				"end": 1.84,
+				"index": 169
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.84,
+				"end": 1.88,
+				"index": 170
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.88,
+				"end": 1.88,
+				"index": 171
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.88,
+				"end": 1.88,
+				"index": 172
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.88,
+				"end": 1.9,
+				"index": 173
+			},
+			{
+				"text": "Bron",
+				"start": 1.9,
+				"end": 1.8,
+				"index": 174
+			}
+		],
+		"start": 71.98,
+		"end": 73.88
+	},
+	{
+		"words": [
+			{
+				"text": "Bron, ",
+				"start": 0,
+				"end": 0.98,
+				"index": 175
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.98,
+				"end": 0.98,
+				"index": 176
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.98,
+				"end": 0.98,
+				"index": 177
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.98,
+				"end": 0.98,
+				"index": 178
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.98,
+				"end": 0.98,
+				"index": 179
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.98,
+				"end": 0.98,
+				"index": 180
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.98,
+				"end": 0.98,
+				"index": 181
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.98,
+				"end": 0.98,
+				"index": 182
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.98,
+				"end": 1.46,
+				"index": 183
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.46,
+				"end": 1.46,
+				"index": 184
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.46,
+				"end": 1.66,
+				"index": 185
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.68,
+				"end": 1.68,
+				"index": 186
+			},
+			{
+				"text": "Bron",
+				"start": 1.74,
+				"end": 2.9,
+				"index": 187
+			}
+		],
+		"start": 73.88,
+		"end": 76.78
+	},
+	{
+		"words": [
+			{
+				"text": "Bron, ",
+				"start": 0,
+				"end": 0.6,
+				"index": 188
+			},
+			{
+				"text": "Bron",
+				"start": 0.96,
+				"end": 1.06,
+				"index": 189
+			}
+		],
+		"start": 77.44,
+		"end": 78.5
+	},
+	{
+		"words": [
+			{
+				"text": "Bron, ",
+				"start": 0,
+				"end": 0,
+				"index": 190
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.1,
+				"end": 0.1,
+				"index": 191
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.1,
+				"end": 0.24,
+				"index": 192
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.24,
+				"end": 0.34,
+				"index": 193
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.34,
+				"end": 0.66,
+				"index": 194
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.66,
+				"end": 0.86,
+				"index": 195
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.86,
+				"end": 1.28,
+				"index": 196
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.28,
+				"end": 1.3,
+				"index": 197
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.3,
+				"end": 1.32,
+				"index": 198
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.32,
+				"end": 1.34,
+				"index": 199
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.34,
+				"end": 1.34,
+				"index": 200
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.34,
+				"end": 1.34,
+				"index": 201
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.34,
+				"end": 1.34,
+				"index": 202
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.34,
+				"end": 1.34,
+				"index": 203
+			},
+			{
+				"text": "Bron",
+				"start": 1.34,
+				"end": 1.24,
+				"index": 204
+			}
+		],
+		"start": 78.6,
+		"end": 79.94
+	},
+	{
+		"words": [
+			{
+				"text": "Bron, ",
+				"start": 0,
+				"end": 0,
+				"index": 205
+			},
+			{
+				"text": "Bron, ",
+				"start": 0,
+				"end": 0,
+				"index": 206
+			},
+			{
+				"text": "Bron, ",
+				"start": 0,
+				"end": 0.14,
+				"index": 207
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.14,
+				"end": 0.14,
+				"index": 208
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.14,
+				"end": 0.14,
+				"index": 209
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.14,
+				"end": 0.14,
+				"index": 210
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.14,
+				"end": 0.2,
+				"index": 211
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.2,
+				"end": 0.2,
+				"index": 212
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.2,
+				"end": 0.2,
+				"index": 213
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.2,
+				"end": 0.2,
+				"index": 214
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.2,
+				"end": 0.2,
+				"index": 215
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.2,
+				"end": 0.2,
+				"index": 216
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.2,
+				"end": 0.2,
+				"index": 217
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.2,
+				"end": 0.2,
+				"index": 218
+			},
+			{
+				"text": "Bron",
+				"start": 0.2,
+				"end": 0.1,
+				"index": 219
+			}
+		],
+		"start": 79.94,
+		"end": 80.14
+	},
+	{
+		"words": [
+			{
+				"text": "Bron, ",
+				"start": 0,
+				"end": 0.78,
+				"index": 220
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.78,
+				"end": 0.78,
+				"index": 221
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.78,
+				"end": 0.78,
+				"index": 222
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.78,
+				"end": 0.78,
+				"index": 223
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.78,
+				"end": 1.44,
+				"index": 224
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.44,
+				"end": 1.44,
+				"index": 225
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.44,
+				"end": 1.44,
+				"index": 226
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.44,
+				"end": 1.44,
+				"index": 227
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.44,
+				"end": 1.44,
+				"index": 228
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.44,
+				"end": 1.44,
+				"index": 229
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.44,
+				"end": 1.44,
+				"index": 230
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.44,
+				"end": 1.44,
+				"index": 231
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.44,
+				"end": 1.44,
+				"index": 232
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.44,
+				"end": 1.44,
+				"index": 233
+			},
+			{
+				"text": "Bron",
+				"start": 1.44,
+				"end": 1.34,
+				"index": 234
+			}
+		],
+		"start": 80.14,
+		"end": 81.58
+	},
+	{
+		"words": [
+			{
+				"text": "Bron, ",
+				"start": 0,
+				"end": 0,
+				"index": 235
+			},
+			{
+				"text": "Bron, ",
+				"start": 0,
+				"end": 0,
+				"index": 236
+			},
+			{
+				"text": "Bron, ",
+				"start": 0,
+				"end": 0,
+				"index": 237
+			},
+			{
+				"text": "Bron, ",
+				"start": 0,
+				"end": 0,
+				"index": 238
+			},
+			{
+				"text": "Bron, ",
+				"start": 0,
+				"end": 0.2,
+				"index": 239
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.2,
+				"end": 0.98,
+				"index": 240
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.3,
+				"end": 1.74,
+				"index": 241
+			},
+			{
+				"text": "Bron, ",
+				"start": 2.1,
+				"end": 2.1,
+				"index": 242
+			},
+			{
+				"text": "Bron, ",
+				"start": 2.46,
+				"end": 2.46,
+				"index": 243
+			},
+			{
+				"text": "Bron, ",
+				"start": 2.46,
+				"end": 2.46,
+				"index": 244
+			},
+			{
+				"text": "Bron, ",
+				"start": 2.46,
+				"end": 2.46,
+				"index": 245
+			},
+			{
+				"text": "Bron, ",
+				"start": 2.46,
+				"end": 2.46,
+				"index": 246
+			},
+			{
+				"text": "Bron, ",
+				"start": 2.46,
+				"end": 2.46,
+				"index": 247
+			},
+			{
+				"text": "Bron, ",
+				"start": 2.46,
+				"end": 2.46,
+				"index": 248
+			},
+			{
+				"text": "Bron",
+				"start": 2.46,
+				"end": 2.36,
+				"index": 249
+			}
+		],
+		"start": 81.58,
+		"end": 84.04
+	}
+]

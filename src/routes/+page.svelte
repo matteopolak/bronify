@@ -2,7 +2,7 @@
 	import Cover from '$lib/components/cover.svelte';
 	import { player, global } from '$lib/player.svelte';
 	import Fuse from 'fuse.js';
-	import { artistData, trackData, categoryData, categoryThumbnail } from '$lib/get';
+	import { trackData, categoryData, categoryThumbnail } from '$lib/get';
 	import type { Collection } from '$lib/types';
 	import Scrollable from '$lib/components/scrollable.svelte';
 
@@ -15,21 +15,15 @@
 		global.search ? trackIndex.search(global.search, { limit: 15 }).map((s) => s.item) : trackData
 	);
 
+	let categories = $derived(
+		Object.entries(categoryData).sort((a, b) => {
+			return a[1].localeCompare(b[1]);
+		})
+	);
+
 	$effect(() => {
 		player.queue = tracks;
 	});
-
-	function collectionPrefix(content: Pick<Collection, 'type'>): string {
-		if (content.type === 'playlist') {
-			return 'Playlist • ';
-		}
-
-		if (content.type === 'album') {
-			return 'Album • ';
-		}
-
-		return '';
-	}
 </script>
 
 {#snippet collection(content: Omit<Collection, 'tracks'>)}
@@ -53,7 +47,7 @@
 
 <div class="space-y-6 p-3">
 	<Scrollable>
-		{#each Object.entries(categoryData) as [key, title] (key)}
+		{#each categories as [key, title] (key)}
 			{@render collection({
 				id: key,
 				title: title,

@@ -1,0 +1,392 @@
+[
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.18,
+				"index": 0
+			},
+			{
+				"text": "can't ",
+				"start": 0.18,
+				"end": 0.96,
+				"index": 1
+			},
+			{
+				"text": "believe ",
+				"start": 0.96,
+				"end": 1.66,
+				"index": 2
+			},
+			{
+				"text": "LeBron ",
+				"start": 1.66,
+				"end": 2.46,
+				"index": 3
+			},
+			{
+				"text": "is ",
+				"start": 2.46,
+				"end": 3.28,
+				"index": 4
+			},
+			{
+				"text": "here ",
+				"start": 3.28,
+				"end": 3.98,
+				"index": 5
+			},
+			{
+				"text": "I ",
+				"start": 3.98,
+				"end": 4.32,
+				"index": 6
+			},
+			{
+				"text": "love ",
+				"start": 4.32,
+				"end": 4.94,
+				"index": 7
+			},
+			{
+				"text": "LeBron, ",
+				"start": 4.94,
+				"end": 5.7,
+				"index": 8
+			},
+			{
+				"text": "what's ",
+				"start": 5.9,
+				"end": 6.16,
+				"index": 9
+			},
+			{
+				"text": "the ",
+				"start": 6.16,
+				"end": 6.34,
+				"index": 10
+			},
+			{
+				"text": "problem?",
+				"start": 6.34,
+				"end": 7,
+				"index": 11
+			}
+		],
+		"start": 0,
+		"end": 7
+	},
+	{
+		"words": [
+			{
+				"text": "If ",
+				"start": 7.9,
+				"end": 8.1,
+				"index": 12
+			},
+			{
+				"text": "I ",
+				"start": 8.1,
+				"end": 8.3,
+				"index": 13
+			},
+			{
+				"text": "get ",
+				"start": 8.3,
+				"end": 9.06,
+				"index": 14
+			},
+			{
+				"text": "the ",
+				"start": 9.06,
+				"end": 9.5,
+				"index": 15
+			},
+			{
+				"text": "chance ",
+				"start": 9.5,
+				"end": 10.1,
+				"index": 16
+			},
+			{
+				"text": "to ",
+				"start": 10.1,
+				"end": 10.52,
+				"index": 17
+			},
+			{
+				"text": "meet ",
+				"start": 10.52,
+				"end": 10.94,
+				"index": 18
+			},
+			{
+				"text": "LeBron ",
+				"start": 10.94,
+				"end": 11.96,
+				"index": 19
+			},
+			{
+				"text": "I'll ",
+				"start": 11.96,
+				"end": 12.58,
+				"index": 20
+			},
+			{
+				"text": "start ",
+				"start": 12.58,
+				"end": 13.14,
+				"index": 21
+			},
+			{
+				"text": "from ",
+				"start": 13.14,
+				"end": 13.52,
+				"index": 22
+			},
+			{
+				"text": "way ",
+				"start": 13.52,
+				"end": 14.12,
+				"index": 23
+			},
+			{
+				"text": "down ",
+				"start": 14.12,
+				"end": 14.5,
+				"index": 24
+			},
+			{
+				"text": "bottom",
+				"start": 14.5,
+				"end": 15.36,
+				"index": 25
+			}
+		],
+		"start": 7.9,
+		"end": 15.36
+	},
+	{
+		"words": [
+			{
+				"text": "Oh, ",
+				"start": 15.36,
+				"end": 16.38,
+				"index": 26
+			},
+			{
+				"text": "LeBron ",
+				"start": 16.44,
+				"end": 17.44,
+				"index": 27
+			}
+		],
+		"start": 15.36,
+		"end": 17.44
+	},
+	{
+		"words": [
+			{
+				"text": "Never ",
+				"start": 17.44,
+				"end": 20.84,
+				"index": 28
+			},
+			{
+				"text": "knew ",
+				"start": 20.84,
+				"end": 21.48,
+				"index": 29
+			},
+			{
+				"text": "what ",
+				"start": 21.48,
+				"end": 22.02,
+				"index": 30
+			},
+			{
+				"text": "I ",
+				"start": 22.02,
+				"end": 22.54,
+				"index": 31
+			},
+			{
+				"text": "was ",
+				"start": 22.54,
+				"end": 22.98,
+				"index": 32
+			},
+			{
+				"text": "missing",
+				"start": 22.98,
+				"end": 24.02,
+				"index": 33
+			}
+		],
+		"start": 17.44,
+		"end": 24.02
+	},
+	{
+		"words": [
+			{
+				"text": "But ",
+				"start": 24.02,
+				"end": 24.82,
+				"index": 34
+			},
+			{
+				"text": "I ",
+				"start": 24.82,
+				"end": 25.2,
+				"index": 35
+			},
+			{
+				"text": "always ",
+				"start": 25.2,
+				"end": 25.94,
+				"index": 36
+			},
+			{
+				"text": "end ",
+				"start": 25.94,
+				"end": 26.72,
+				"index": 37
+			},
+			{
+				"text": "up ",
+				"start": 26.72,
+				"end": 27.26,
+				"index": 38
+			},
+			{
+				"text": "missing ",
+				"start": 27.26,
+				"end": 28.08,
+				"index": 39
+			}
+		],
+		"start": 24.02,
+		"end": 28.08
+	},
+	{
+		"words": [
+			{
+				"text": "Oh, ",
+				"start": 28.08,
+				"end": 28.62,
+				"index": 40
+			}
+		],
+		"start": 28.08,
+		"end": 28.62
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron",
+				"start": 29.6,
+				"end": 29.6,
+				"index": 41
+			}
+		],
+		"start": 29.6,
+		"end": 29.6
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 35.84,
+				"end": 37.24,
+				"index": 42
+			},
+			{
+				"text": "love ",
+				"start": 37.24,
+				"end": 38.02,
+				"index": 43
+			},
+			{
+				"text": "him ",
+				"start": 38.02,
+				"end": 38.46,
+				"index": 44
+			},
+			{
+				"text": "way ",
+				"start": 38.46,
+				"end": 38.86,
+				"index": 45
+			},
+			{
+				"text": "too ",
+				"start": 38.86,
+				"end": 39.4,
+				"index": 46
+			},
+			{
+				"text": "much ",
+				"start": 39.4,
+				"end": 40.52,
+				"index": 47
+			}
+		],
+		"start": 35.84,
+		"end": 40.52
+	},
+	{
+		"words": [
+			{
+				"text": "And ",
+				"start": 40.52,
+				"end": 41.28,
+				"index": 48
+			},
+			{
+				"text": "I'll ",
+				"start": 41.28,
+				"end": 41.64,
+				"index": 49
+			},
+			{
+				"text": "always ",
+				"start": 41.64,
+				"end": 42.56,
+				"index": 50
+			},
+			{
+				"text": "do ",
+				"start": 42.56,
+				"end": 43.02,
+				"index": 51
+			},
+			{
+				"text": "as ",
+				"start": 43.02,
+				"end": 43.52,
+				"index": 52
+			},
+			{
+				"text": "such ",
+				"start": 43.52,
+				"end": 44.56,
+				"index": 53
+			},
+			{
+				"text": "for ",
+				"start": 44.56,
+				"end": 44.92,
+				"index": 54
+			},
+			{
+				"text": "LeBron",
+				"start": 44.92,
+				"end": 46.88,
+				"index": 55
+			}
+		],
+		"start": 40.52,
+		"end": 46.88
+	}
+]

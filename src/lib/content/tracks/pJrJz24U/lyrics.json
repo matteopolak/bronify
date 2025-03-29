@@ -1,0 +1,386 @@
+[
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.42,
+				"index": 0
+			},
+			{
+				"text": "watched ",
+				"start": 0.42,
+				"end": 2.06,
+				"index": 1
+			},
+			{
+				"text": "LeBron ",
+				"start": 2.06,
+				"end": 2.62,
+				"index": 2
+			},
+			{
+				"text": "shoot ",
+				"start": 2.62,
+				"end": 3.04,
+				"index": 3
+			},
+			{
+				"text": "a ",
+				"start": 3.04,
+				"end": 3.38,
+				"index": 4
+			},
+			{
+				"text": "three, ",
+				"start": 3.38,
+				"end": 3.96,
+				"index": 5
+			},
+			{
+				"text": "my ",
+				"start": 4.4,
+				"end": 4.54,
+				"index": 6
+			},
+			{
+				"text": "Kingston ",
+				"start": 4.54,
+				"end": 4.94,
+				"index": 7
+			},
+			{
+				"text": "plays ",
+				"start": 4.94,
+				"end": 5.5,
+				"index": 8
+			},
+			{
+				"text": "at ",
+				"start": 5.5,
+				"end": 5.92,
+				"index": 9
+			},
+			{
+				"text": "forty",
+				"start": 5.92,
+				"end": 6.36,
+				"index": 10
+			}
+		],
+		"start": 0,
+		"end": 6.36
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.44,
+				"index": 11
+			},
+			{
+				"text": "can ",
+				"start": 0.44,
+				"end": 0.7,
+				"index": 12
+			},
+			{
+				"text": "start ",
+				"start": 0.7,
+				"end": 1,
+				"index": 13
+			},
+			{
+				"text": "glazing ",
+				"start": 1,
+				"end": 1.58,
+				"index": 14
+			},
+			{
+				"text": "and ",
+				"start": 1.58,
+				"end": 1.9,
+				"index": 15
+			},
+			{
+				"text": "I'll ",
+				"start": 1.9,
+				"end": 2.2,
+				"index": 16
+			},
+			{
+				"text": "be ",
+				"start": 2.2,
+				"end": 2.64,
+				"index": 17
+			},
+			{
+				"text": "just ",
+				"start": 2.64,
+				"end": 3.1,
+				"index": 18
+			},
+			{
+				"text": "just ",
+				"start": 3.1,
+				"end": 3.92,
+				"index": 19
+			},
+			{
+				"text": "just",
+				"start": 3.92,
+				"end": 4.54,
+				"index": 20
+			}
+		],
+		"start": 6.9,
+		"end": 11.44
+	},
+	{
+		"words": [
+			{
+				"text": "He ",
+				"start": 0,
+				"end": 0.28,
+				"index": 21
+			},
+			{
+				"text": "slipped ",
+				"start": 0.28,
+				"end": 0.78,
+				"index": 22
+			},
+			{
+				"text": "one",
+				"start": 0.78,
+				"end": 2.44,
+				"index": 23
+			}
+		],
+		"start": 11.44,
+		"end": 13.88
+	},
+	{
+		"words": [
+			{
+				"text": "I'm ",
+				"start": 0,
+				"end": 0.56,
+				"index": 24
+			},
+			{
+				"text": "blinded ",
+				"start": 0.56,
+				"end": 0.88,
+				"index": 25
+			},
+			{
+				"text": "by ",
+				"start": 0.88,
+				"end": 1.34,
+				"index": 26
+			},
+			{
+				"text": "LeBron",
+				"start": 1.34,
+				"end": 1.82,
+				"index": 27
+			}
+		],
+		"start": 14.72,
+		"end": 16.54
+	},
+	{
+		"words": [
+			{
+				"text": "No, ",
+				"start": 0,
+				"end": 1.22,
+				"index": 28
+			},
+			{
+				"text": "I ",
+				"start": 1.5,
+				"end": 1.62,
+				"index": 29
+			},
+			{
+				"text": "can't ",
+				"start": 1.62,
+				"end": 1.94,
+				"index": 30
+			},
+			{
+				"text": "sleep ",
+				"start": 1.94,
+				"end": 2.28,
+				"index": 31
+			},
+			{
+				"text": "until ",
+				"start": 2.28,
+				"end": 2.94,
+				"index": 32
+			},
+			{
+				"text": "I ",
+				"start": 2.94,
+				"end": 3.28,
+				"index": 33
+			},
+			{
+				"text": "see ",
+				"start": 3.28,
+				"end": 3.64,
+				"index": 34
+			},
+			{
+				"text": "him ",
+				"start": 3.64,
+				"end": 4.38,
+				"index": 35
+			},
+			{
+				"text": "play",
+				"start": 4.38,
+				"end": 5.36,
+				"index": 36
+			}
+		],
+		"start": 16.54,
+		"end": 21.9
+	},
+	{
+		"words": [
+			{
+				"text": "He ",
+				"start": 0,
+				"end": 1.12,
+				"index": 37
+			},
+			{
+				"text": "slipped ",
+				"start": 1.12,
+				"end": 1.54,
+				"index": 38
+			},
+			{
+				"text": "tonight, ",
+				"start": 1.54,
+				"end": 3.5,
+				"index": 39
+			},
+			{
+				"text": "but ",
+				"start": 4.04,
+				"end": 4.22,
+				"index": 40
+			},
+			{
+				"text": "he ",
+				"start": 4.22,
+				"end": 4.46,
+				"index": 41
+			},
+			{
+				"text": "feels ",
+				"start": 4.46,
+				"end": 4.9,
+				"index": 42
+			},
+			{
+				"text": "like ",
+				"start": 4.9,
+				"end": 5.08,
+				"index": 43
+			},
+			{
+				"text": "so ",
+				"start": 5.08,
+				"end": 5.36,
+				"index": 44
+			},
+			{
+				"text": "much ",
+				"start": 5.36,
+				"end": 5.62,
+				"index": 45
+			},
+			{
+				"text": "more",
+				"start": 5.62,
+				"end": 6.22,
+				"index": 46
+			}
+		],
+		"start": 21.9,
+		"end": 28.12
+	},
+	{
+		"words": [
+			{
+				"text": "The ",
+				"start": 0,
+				"end": 0.74,
+				"index": 47
+			},
+			{
+				"text": "next",
+				"start": 0.74,
+				"end": 1.06,
+				"index": 48
+			}
+		],
+		"start": 28.12,
+		"end": 29.18
+	},
+	{
+		"words": [
+			{
+				"text": "Hall ",
+				"start": 0,
+				"end": 0.36,
+				"index": 49
+			},
+			{
+				"text": "of",
+				"start": 0.36,
+				"end": 0.64,
+				"index": 50
+			}
+		],
+		"start": 29.18,
+		"end": 29.82
+	},
+	{
+		"words": [
+			{
+				"text": "Famer, ",
+				"start": 0,
+				"end": 0.6,
+				"index": 51
+			},
+			{
+				"text": "Lakers ",
+				"start": 0.68,
+				"end": 1.26,
+				"index": 52
+			},
+			{
+				"text": "win ",
+				"start": 1.26,
+				"end": 1.76,
+				"index": 53
+			},
+			{
+				"text": "inside",
+				"start": 1.76,
+				"end": 2.74,
+				"index": 54
+			}
+		],
+		"start": 29.82,
+		"end": 32.56
+	}
+]

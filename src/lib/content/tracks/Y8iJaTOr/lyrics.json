@@ -1,0 +1,428 @@
+[
+	{
+		"words": [
+			{
+				"text": "LeBron ",
+				"start": 0,
+				"end": 1.4,
+				"index": 0
+			},
+			{
+				"text": "is in whatever",
+				"start": 1.4,
+				"end": 2.8,
+				"index": 1
+			}
+		],
+		"start": 27.18,
+		"end": 29.98
+	},
+	{
+		"words": [
+			{
+				"text": "Love whenever you step up",
+				"start": 0,
+				"end": 0,
+				"index": 2
+			}
+		],
+		"start": 29.98,
+		"end": 29.98
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.16,
+				"index": 3
+			},
+			{
+				"text": "put ",
+				"start": 0.16,
+				"end": 0.64,
+				"index": 4
+			},
+			{
+				"text": "up ",
+				"start": 0.64,
+				"end": 0.9,
+				"index": 5
+			},
+			{
+				"text": "the ",
+				"start": 0.9,
+				"end": 1.06,
+				"index": 6
+			},
+			{
+				"text": "sky, ",
+				"start": 1.06,
+				"end": 1.34,
+				"index": 7
+			},
+			{
+				"text": "burning ",
+				"start": 1.82,
+				"end": 1.92,
+				"index": 8
+			},
+			{
+				"text": "my ",
+				"start": 1.92,
+				"end": 2.28,
+				"index": 9
+			},
+			{
+				"text": "right",
+				"start": 2.28,
+				"end": 2.66,
+				"index": 10
+			}
+		],
+		"start": 29.98,
+		"end": 32.64
+	},
+	{
+		"words": [
+			{
+				"text": "Left ",
+				"start": 0,
+				"end": 0.5,
+				"index": 11
+			},
+			{
+				"text": "hand ",
+				"start": 0.5,
+				"end": 0.68,
+				"index": 12
+			},
+			{
+				"text": "is ",
+				"start": 0.68,
+				"end": 0.86,
+				"index": 13
+			},
+			{
+				"text": "staring, ",
+				"start": 0.86,
+				"end": 1.18,
+				"index": 14
+			},
+			{
+				"text": "the ",
+				"start": 1.32,
+				"end": 1.5,
+				"index": 15
+			},
+			{
+				"text": "other ",
+				"start": 1.5,
+				"end": 1.78,
+				"index": 16
+			},
+			{
+				"text": "is ",
+				"start": 1.78,
+				"end": 2.14,
+				"index": 17
+			},
+			{
+				"text": "flipping ",
+				"start": 2.14,
+				"end": 2.44,
+				"index": 18
+			},
+			{
+				"text": "my ",
+				"start": 2.44,
+				"end": 2.72,
+				"index": 19
+			},
+			{
+				"text": "sky",
+				"start": 2.72,
+				"end": 3.14,
+				"index": 20
+			}
+		],
+		"start": 32.64,
+		"end": 35.78
+	},
+	{
+		"words": [
+			{
+				"text": "Left ",
+				"start": 0,
+				"end": 0.48,
+				"index": 21
+			},
+			{
+				"text": "behind ",
+				"start": 0.48,
+				"end": 0.66,
+				"index": 22
+			},
+			{
+				"text": "you ",
+				"start": 0.66,
+				"end": 0.88,
+				"index": 23
+			},
+			{
+				"text": "know ",
+				"start": 0.88,
+				"end": 1.06,
+				"index": 24
+			},
+			{
+				"text": "that ",
+				"start": 1.06,
+				"end": 1.28,
+				"index": 25
+			},
+			{
+				"text": "you're ",
+				"start": 1.28,
+				"end": 1.46,
+				"index": 26
+			},
+			{
+				"text": "mine",
+				"start": 1.46,
+				"end": 1.88,
+				"index": 27
+			}
+		],
+		"start": 35.78,
+		"end": 37.66
+	},
+	{
+		"words": [
+			{
+				"text": "Leave ",
+				"start": 0,
+				"end": 0.48,
+				"index": 28
+			},
+			{
+				"text": "behind ",
+				"start": 0.48,
+				"end": 0.84,
+				"index": 29
+			},
+			{
+				"text": "these ",
+				"start": 0.84,
+				"end": 1.22,
+				"index": 30
+			},
+			{
+				"text": "lies, ",
+				"start": 1.22,
+				"end": 1.44,
+				"index": 31
+			},
+			{
+				"text": "all ",
+				"start": 1.6,
+				"end": 1.8,
+				"index": 32
+			},
+			{
+				"text": "the ",
+				"start": 1.8,
+				"end": 2.16,
+				"index": 33
+			},
+			{
+				"text": "ways ",
+				"start": 2.16,
+				"end": 2.44,
+				"index": 34
+			},
+			{
+				"text": "he's ",
+				"start": 2.44,
+				"end": 2.78,
+				"index": 35
+			},
+			{
+				"text": "missing",
+				"start": 2.78,
+				"end": 3.24,
+				"index": 36
+			}
+		],
+		"start": 37.66,
+		"end": 40.9
+	},
+	{
+		"words": [
+			{
+				"text": "When ",
+				"start": 0,
+				"end": 0.3,
+				"index": 37
+			},
+			{
+				"text": "they ",
+				"start": 0.3,
+				"end": 0.46,
+				"index": 38
+			},
+			{
+				"text": "say ",
+				"start": 0.46,
+				"end": 0.58,
+				"index": 39
+			},
+			{
+				"text": "Michael ",
+				"start": 0.58,
+				"end": 0.84,
+				"index": 40
+			},
+			{
+				"text": "was ",
+				"start": 0.84,
+				"end": 1.06,
+				"index": 41
+			},
+			{
+				"text": "better, ",
+				"start": 1.06,
+				"end": 1.3,
+				"index": 42
+			},
+			{
+				"text": "they ",
+				"start": 1.52,
+				"end": 1.72,
+				"index": 43
+			},
+			{
+				"text": "be ",
+				"start": 1.72,
+				"end": 1.98,
+				"index": 44
+			},
+			{
+				"text": "shaving",
+				"start": 1.98,
+				"end": 2.42,
+				"index": 45
+			}
+		],
+		"start": 40.9,
+		"end": 43.32
+	},
+	{
+		"words": [
+			{
+				"text": "Play ",
+				"start": 0,
+				"end": 0.48,
+				"index": 46
+			},
+			{
+				"text": "this ",
+				"start": 0.48,
+				"end": 0.78,
+				"index": 47
+			},
+			{
+				"text": "song ",
+				"start": 0.78,
+				"end": 1.12,
+				"index": 48
+			},
+			{
+				"text": "for ",
+				"start": 1.12,
+				"end": 1.32,
+				"index": 49
+			},
+			{
+				"text": "us, ",
+				"start": 1.32,
+				"end": 1.52,
+				"index": 50
+			},
+			{
+				"text": "now ",
+				"start": 1.62,
+				"end": 1.68,
+				"index": 51
+			},
+			{
+				"text": "just ",
+				"start": 1.68,
+				"end": 2.04,
+				"index": 52
+			},
+			{
+				"text": "listen",
+				"start": 2.04,
+				"end": 2.68,
+				"index": 53
+			}
+		],
+		"start": 43.32,
+		"end": 46
+	},
+	{
+		"words": [
+			{
+				"text": "Run, ",
+				"start": 0,
+				"end": 1.64,
+				"index": 54
+			},
+			{
+				"text": "run",
+				"start": 1.64,
+				"end": 5.08,
+				"index": 55
+			}
+		],
+		"start": 46,
+		"end": 51.08
+	},
+	{
+		"words": [
+			{
+				"text": "Run",
+				"start": 0,
+				"end": 3.04,
+				"index": 56
+			}
+		],
+		"start": 51.08,
+		"end": 54.12
+	},
+	{
+		"words": [
+			{
+				"text": "Run",
+				"start": 0,
+				"end": 0.5,
+				"index": 57
+			}
+		],
+		"start": 54.12,
+		"end": 54.62
+	},
+	{
+		"words": [
+			{
+				"text": "Run",
+				"start": 0,
+				"end": 0.8,
+				"index": 58
+			}
+		],
+		"start": 54.62,
+		"end": 55.42
+	}
+]

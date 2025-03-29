@@ -1,0 +1,554 @@
+[
+	{
+		"words": [
+			{
+				"text": "You're ",
+				"start": 0,
+				"end": 0.62,
+				"index": 0
+			},
+			{
+				"text": "the ",
+				"start": 0.62,
+				"end": 0.78,
+				"index": 1
+			},
+			{
+				"text": "greatest, ",
+				"start": 0.78,
+				"end": 1.4,
+				"index": 2
+			},
+			{
+				"text": "you're ",
+				"start": 2.44,
+				"end": 3,
+				"index": 3
+			},
+			{
+				"text": "the ",
+				"start": 3,
+				"end": 3.26,
+				"index": 4
+			},
+			{
+				"text": "bond",
+				"start": 3.26,
+				"end": 4.38,
+				"index": 5
+			}
+		],
+		"start": 0,
+		"end": 4.38
+	},
+	{
+		"words": [
+			{
+				"text": "Take ",
+				"start": 0,
+				"end": 0.9,
+				"index": 6
+			},
+			{
+				"text": "the ",
+				"start": 0.9,
+				"end": 1.22,
+				"index": 7
+			},
+			{
+				"text": "Lakers ",
+				"start": 1.22,
+				"end": 1.64,
+				"index": 8
+			},
+			{
+				"text": "to ",
+				"start": 1.64,
+				"end": 3.2,
+				"index": 9
+			},
+			{
+				"text": "the ",
+				"start": 3.2,
+				"end": 3.46,
+				"index": 10
+			},
+			{
+				"text": "finals",
+				"start": 3.46,
+				"end": 4.26,
+				"index": 11
+			}
+		],
+		"start": 4.38,
+		"end": 8.64
+	},
+	{
+		"words": [
+			{
+				"text": "Get ",
+				"start": 0,
+				"end": 0.62,
+				"index": 12
+			},
+			{
+				"text": "a ",
+				"start": 0.62,
+				"end": 0.92,
+				"index": 13
+			},
+			{
+				"text": "ring ",
+				"start": 0.92,
+				"end": 1.3,
+				"index": 14
+			},
+			{
+				"text": "for ",
+				"start": 1.3,
+				"end": 2.68,
+				"index": 15
+			},
+			{
+				"text": "your ",
+				"start": 2.68,
+				"end": 3.2,
+				"index": 16
+			},
+			{
+				"text": "son",
+				"start": 3.2,
+				"end": 4.24,
+				"index": 17
+			}
+		],
+		"start": 9.4,
+		"end": 13.64
+	},
+	{
+		"words": [
+			{
+				"text": "Take ",
+				"start": 0,
+				"end": 1.06,
+				"index": 18
+			},
+			{
+				"text": "the ",
+				"start": 1.06,
+				"end": 1.36,
+				"index": 19
+			},
+			{
+				"text": "Lakers ",
+				"start": 1.36,
+				"end": 1.88,
+				"index": 20
+			},
+			{
+				"text": "to ",
+				"start": 1.88,
+				"end": 3.38,
+				"index": 21
+			},
+			{
+				"text": "the ",
+				"start": 3.38,
+				"end": 3.58,
+				"index": 22
+			},
+			{
+				"text": "finals",
+				"start": 3.58,
+				"end": 4.42,
+				"index": 23
+			}
+		],
+		"start": 13.64,
+		"end": 18.06
+	},
+	{
+		"words": [
+			{
+				"text": "You're ",
+				"start": 0,
+				"end": 1.36,
+				"index": 24
+			},
+			{
+				"text": "the ",
+				"start": 1.36,
+				"end": 1.54,
+				"index": 25
+			},
+			{
+				"text": "greatest, ",
+				"start": 1.54,
+				"end": 2.2,
+				"index": 26
+			},
+			{
+				"text": "you're ",
+				"start": 3.24,
+				"end": 3.76,
+				"index": 27
+			},
+			{
+				"text": "the ",
+				"start": 3.76,
+				"end": 3.96,
+				"index": 28
+			},
+			{
+				"text": "bond",
+				"start": 3.96,
+				"end": 4.82,
+				"index": 29
+			}
+		],
+		"start": 18.06,
+		"end": 22.88
+	},
+	{
+		"words": [
+			{
+				"text": "Take ",
+				"start": 0,
+				"end": 1.1,
+				"index": 30
+			},
+			{
+				"text": "the ",
+				"start": 1.1,
+				"end": 1.56,
+				"index": 31
+			},
+			{
+				"text": "Lakers ",
+				"start": 1.56,
+				"end": 1.82,
+				"index": 32
+			},
+			{
+				"text": "to ",
+				"start": 1.82,
+				"end": 3.48,
+				"index": 33
+			},
+			{
+				"text": "the ",
+				"start": 3.48,
+				"end": 3.78,
+				"index": 34
+			},
+			{
+				"text": "finals",
+				"start": 3.78,
+				"end": 4.16,
+				"index": 35
+			}
+		],
+		"start": 22.88,
+		"end": 27.04
+	},
+	{
+		"words": [
+			{
+				"text": "Get ",
+				"start": 0,
+				"end": 0.64,
+				"index": 36
+			},
+			{
+				"text": "a ",
+				"start": 0.64,
+				"end": 1.04,
+				"index": 37
+			},
+			{
+				"text": "ring ",
+				"start": 1.04,
+				"end": 1.32,
+				"index": 38
+			},
+			{
+				"text": "for ",
+				"start": 1.32,
+				"end": 2.74,
+				"index": 39
+			},
+			{
+				"text": "your ",
+				"start": 2.74,
+				"end": 3.16,
+				"index": 40
+			},
+			{
+				"text": "son",
+				"start": 3.16,
+				"end": 3.72,
+				"index": 41
+			}
+		],
+		"start": 28.06,
+		"end": 31.78
+	},
+	{
+		"words": [
+			{
+				"text": "Take ",
+				"start": 0,
+				"end": 1.64,
+				"index": 42
+			},
+			{
+				"text": "the ",
+				"start": 1.64,
+				"end": 2.02,
+				"index": 43
+			},
+			{
+				"text": "Lakers ",
+				"start": 2.02,
+				"end": 2.54,
+				"index": 44
+			},
+			{
+				"text": "to ",
+				"start": 2.54,
+				"end": 4,
+				"index": 45
+			},
+			{
+				"text": "the ",
+				"start": 4,
+				"end": 4.32,
+				"index": 46
+			},
+			{
+				"text": "finals",
+				"start": 4.32,
+				"end": 4.92,
+				"index": 47
+			}
+		],
+		"start": 31.78,
+		"end": 36.7
+	},
+	{
+		"words": [
+			{
+				"text": "Get ",
+				"start": 0,
+				"end": 0.22,
+				"index": 48
+			},
+			{
+				"text": "a ",
+				"start": 0.22,
+				"end": 0.42,
+				"index": 49
+			},
+			{
+				"text": "ring ",
+				"start": 0.42,
+				"end": 1.3,
+				"index": 50
+			},
+			{
+				"text": "for ",
+				"start": 1.3,
+				"end": 2.3,
+				"index": 51
+			},
+			{
+				"text": "your son",
+				"start": 2.3,
+				"end": 2.38,
+				"index": 52
+			}
+		],
+		"start": 36.7,
+		"end": 39.08
+	},
+	{
+		"words": [
+			{
+				"text": "Lost ",
+				"start": 0,
+				"end": 1.86,
+				"index": 53
+			},
+			{
+				"text": "in ",
+				"start": 1.86,
+				"end": 2.18,
+				"index": 54
+			},
+			{
+				"text": "the ",
+				"start": 2.18,
+				"end": 2.38,
+				"index": 55
+			},
+			{
+				"text": "NBA",
+				"start": 2.38,
+				"end": 3.46,
+				"index": 56
+			}
+		],
+		"start": 39.08,
+		"end": 42.54
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron ",
+				"start": 0,
+				"end": 0.72,
+				"index": 57
+			},
+			{
+				"text": "James ",
+				"start": 0.72,
+				"end": 1.16,
+				"index": 58
+			},
+			{
+				"text": "is ",
+				"start": 1.16,
+				"end": 1.5,
+				"index": 59
+			},
+			{
+				"text": "a ",
+				"start": 1.5,
+				"end": 1.8,
+				"index": 60
+			},
+			{
+				"text": "name ",
+				"start": 1.8,
+				"end": 2.02,
+				"index": 61
+			},
+			{
+				"text": "I ",
+				"start": 2.02,
+				"end": 2.3,
+				"index": 62
+			},
+			{
+				"text": "can ",
+				"start": 2.3,
+				"end": 2.58,
+				"index": 63
+			},
+			{
+				"text": "never ",
+				"start": 2.58,
+				"end": 3.1,
+				"index": 64
+			},
+			{
+				"text": "shake",
+				"start": 3.1,
+				"end": 4.18,
+				"index": 65
+			}
+		],
+		"start": 43.38,
+		"end": 47.56
+	},
+	{
+		"words": [
+			{
+				"text": "Always ",
+				"start": 0,
+				"end": 3.1,
+				"index": 66
+			},
+			{
+				"text": "know ",
+				"start": 3.1,
+				"end": 3.52,
+				"index": 67
+			},
+			{
+				"text": "his ",
+				"start": 3.52,
+				"end": 3.8,
+				"index": 68
+			},
+			{
+				"text": "face",
+				"start": 3.8,
+				"end": 4.86,
+				"index": 69
+			}
+		],
+		"start": 47.56,
+		"end": 52.42
+	},
+	{
+		"words": [
+			{
+				"text": "He's ",
+				"start": 0,
+				"end": 0.54,
+				"index": 70
+			},
+			{
+				"text": "the ",
+				"start": 0.54,
+				"end": 0.74,
+				"index": 71
+			},
+			{
+				"text": "GOAT, ",
+				"start": 0.74,
+				"end": 1.1,
+				"index": 72
+			},
+			{
+				"text": "yeah ",
+				"start": 1.14,
+				"end": 1.28,
+				"index": 73
+			},
+			{
+				"text": "he'll ",
+				"start": 1.28,
+				"end": 1.64,
+				"index": 74
+			},
+			{
+				"text": "do ",
+				"start": 1.64,
+				"end": 1.9,
+				"index": 75
+			},
+			{
+				"text": "whatever ",
+				"start": 1.9,
+				"end": 2.56,
+				"index": 76
+			},
+			{
+				"text": "it ",
+				"start": 2.56,
+				"end": 3.12,
+				"index": 77
+			},
+			{
+				"text": "takes",
+				"start": 3.12,
+				"end": 3.98,
+				"index": 78
+			}
+		],
+		"start": 52.94,
+		"end": 56.92
+	}
+]

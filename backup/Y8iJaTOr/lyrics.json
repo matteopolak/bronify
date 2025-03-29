@@ -1,0 +1,428 @@
+[
+	{
+		"words": [
+			{
+				"text": "LeBron ",
+				"start": 27.180000000000003,
+				"end": 28.580000000000002,
+				"index": 0
+			},
+			{
+				"text": "is in whatever ",
+				"start": 28.580000000000002,
+				"end": 29.98,
+				"index": 1
+			}
+		],
+		"start": 27.180000000000003,
+		"end": 29.98
+	},
+	{
+		"words": [
+			{
+				"text": "Love whenever you step up",
+				"start": 29.98,
+				"end": 29.98,
+				"index": 2
+			}
+		],
+		"start": 29.98,
+		"end": 29.98
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 29.98,
+				"end": 30.14,
+				"index": 3
+			},
+			{
+				"text": "put ",
+				"start": 30.14,
+				"end": 30.62,
+				"index": 4
+			},
+			{
+				"text": "up ",
+				"start": 30.62,
+				"end": 30.88,
+				"index": 5
+			},
+			{
+				"text": "the ",
+				"start": 30.88,
+				"end": 31.04,
+				"index": 6
+			},
+			{
+				"text": "sky, ",
+				"start": 31.04,
+				"end": 31.32,
+				"index": 7
+			},
+			{
+				"text": "burning ",
+				"start": 31.8,
+				"end": 31.9,
+				"index": 8
+			},
+			{
+				"text": "my ",
+				"start": 31.9,
+				"end": 32.26,
+				"index": 9
+			},
+			{
+				"text": "right ",
+				"start": 32.26,
+				"end": 32.64,
+				"index": 10
+			}
+		],
+		"start": 29.98,
+		"end": 32.64
+	},
+	{
+		"words": [
+			{
+				"text": "Left ",
+				"start": 32.64,
+				"end": 33.14,
+				"index": 11
+			},
+			{
+				"text": "hand ",
+				"start": 33.14,
+				"end": 33.32,
+				"index": 12
+			},
+			{
+				"text": "is ",
+				"start": 33.32,
+				"end": 33.5,
+				"index": 13
+			},
+			{
+				"text": "staring, ",
+				"start": 33.5,
+				"end": 33.82,
+				"index": 14
+			},
+			{
+				"text": "the ",
+				"start": 33.96,
+				"end": 34.14,
+				"index": 15
+			},
+			{
+				"text": "other ",
+				"start": 34.14,
+				"end": 34.42,
+				"index": 16
+			},
+			{
+				"text": "is ",
+				"start": 34.42,
+				"end": 34.78,
+				"index": 17
+			},
+			{
+				"text": "flipping ",
+				"start": 34.78,
+				"end": 35.08,
+				"index": 18
+			},
+			{
+				"text": "my ",
+				"start": 35.08,
+				"end": 35.36,
+				"index": 19
+			},
+			{
+				"text": "sky ",
+				"start": 35.36,
+				"end": 35.78,
+				"index": 20
+			}
+		],
+		"start": 32.64,
+		"end": 35.78
+	},
+	{
+		"words": [
+			{
+				"text": "Left ",
+				"start": 35.78,
+				"end": 36.26,
+				"index": 21
+			},
+			{
+				"text": "behind ",
+				"start": 36.26,
+				"end": 36.44,
+				"index": 22
+			},
+			{
+				"text": "you ",
+				"start": 36.44,
+				"end": 36.66,
+				"index": 23
+			},
+			{
+				"text": "know ",
+				"start": 36.66,
+				"end": 36.84,
+				"index": 24
+			},
+			{
+				"text": "that ",
+				"start": 36.84,
+				"end": 37.06,
+				"index": 25
+			},
+			{
+				"text": "you're ",
+				"start": 37.06,
+				"end": 37.24,
+				"index": 26
+			},
+			{
+				"text": "mine ",
+				"start": 37.24,
+				"end": 37.66,
+				"index": 27
+			}
+		],
+		"start": 35.78,
+		"end": 37.66
+	},
+	{
+		"words": [
+			{
+				"text": "Leave ",
+				"start": 37.66,
+				"end": 38.14,
+				"index": 28
+			},
+			{
+				"text": "behind ",
+				"start": 38.14,
+				"end": 38.5,
+				"index": 29
+			},
+			{
+				"text": "these ",
+				"start": 38.5,
+				"end": 38.88,
+				"index": 30
+			},
+			{
+				"text": "lies, ",
+				"start": 38.88,
+				"end": 39.1,
+				"index": 31
+			},
+			{
+				"text": "all ",
+				"start": 39.26,
+				"end": 39.46,
+				"index": 32
+			},
+			{
+				"text": "the ",
+				"start": 39.46,
+				"end": 39.82,
+				"index": 33
+			},
+			{
+				"text": "ways ",
+				"start": 39.82,
+				"end": 40.1,
+				"index": 34
+			},
+			{
+				"text": "he's ",
+				"start": 40.1,
+				"end": 40.44,
+				"index": 35
+			},
+			{
+				"text": "missing ",
+				"start": 40.44,
+				"end": 40.9,
+				"index": 36
+			}
+		],
+		"start": 37.66,
+		"end": 40.9
+	},
+	{
+		"words": [
+			{
+				"text": "When ",
+				"start": 40.9,
+				"end": 41.2,
+				"index": 37
+			},
+			{
+				"text": "they ",
+				"start": 41.2,
+				"end": 41.36,
+				"index": 38
+			},
+			{
+				"text": "say ",
+				"start": 41.36,
+				"end": 41.48,
+				"index": 39
+			},
+			{
+				"text": "Michael ",
+				"start": 41.48,
+				"end": 41.74,
+				"index": 40
+			},
+			{
+				"text": "was ",
+				"start": 41.74,
+				"end": 41.96,
+				"index": 41
+			},
+			{
+				"text": "better, ",
+				"start": 41.96,
+				"end": 42.2,
+				"index": 42
+			},
+			{
+				"text": "they ",
+				"start": 42.42,
+				"end": 42.62,
+				"index": 43
+			},
+			{
+				"text": "be ",
+				"start": 42.62,
+				"end": 42.88,
+				"index": 44
+			},
+			{
+				"text": "shaving ",
+				"start": 42.88,
+				"end": 43.32,
+				"index": 45
+			}
+		],
+		"start": 40.9,
+		"end": 43.32
+	},
+	{
+		"words": [
+			{
+				"text": "Play ",
+				"start": 43.32,
+				"end": 43.8,
+				"index": 46
+			},
+			{
+				"text": "this ",
+				"start": 43.8,
+				"end": 44.1,
+				"index": 47
+			},
+			{
+				"text": "song ",
+				"start": 44.1,
+				"end": 44.44,
+				"index": 48
+			},
+			{
+				"text": "for ",
+				"start": 44.44,
+				"end": 44.64,
+				"index": 49
+			},
+			{
+				"text": "us, ",
+				"start": 44.64,
+				"end": 44.84,
+				"index": 50
+			},
+			{
+				"text": "now ",
+				"start": 44.94,
+				"end": 45,
+				"index": 51
+			},
+			{
+				"text": "just ",
+				"start": 45,
+				"end": 45.36,
+				"index": 52
+			},
+			{
+				"text": "listen",
+				"start": 45.36,
+				"end": 46,
+				"index": 53
+			}
+		],
+		"start": 43.32,
+		"end": 46
+	},
+	{
+		"words": [
+			{
+				"text": "Run, ",
+				"start": 46,
+				"end": 47.64,
+				"index": 54
+			},
+			{
+				"text": "run ",
+				"start": 47.64,
+				"end": 51.08,
+				"index": 55
+			}
+		],
+		"start": 46,
+		"end": 51.08
+	},
+	{
+		"words": [
+			{
+				"text": "Run",
+				"start": 51.08,
+				"end": 54.12,
+				"index": 56
+			}
+		],
+		"start": 51.08,
+		"end": 54.12
+	},
+	{
+		"words": [
+			{
+				"text": "Run",
+				"start": 54.12,
+				"end": 54.62,
+				"index": 57
+			}
+		],
+		"start": 54.12,
+		"end": 54.62
+	},
+	{
+		"words": [
+			{
+				"text": "Run",
+				"start": 54.62,
+				"end": 55.42,
+				"index": 58
+			}
+		],
+		"start": 54.62,
+		"end": 55.42
+	}
+]

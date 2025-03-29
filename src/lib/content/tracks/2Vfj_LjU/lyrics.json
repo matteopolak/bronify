@@ -1,0 +1,482 @@
+[
+	{
+		"words": [
+			{
+				"text": "Ain't ",
+				"start": 0,
+				"end": 0.52,
+				"index": 0
+			},
+			{
+				"text": "no ",
+				"start": 0.52,
+				"end": 0.66,
+				"index": 1
+			},
+			{
+				"text": "one ",
+				"start": 0.66,
+				"end": 0.88,
+				"index": 2
+			},
+			{
+				"text": "like ",
+				"start": 0.88,
+				"end": 1.08,
+				"index": 3
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.08,
+				"end": 1.34,
+				"index": 4
+			},
+			{
+				"text": "he's ",
+				"start": 1.36,
+				"end": 1.58,
+				"index": 5
+			},
+			{
+				"text": "the ",
+				"start": 1.58,
+				"end": 1.72,
+				"index": 6
+			},
+			{
+				"text": "only ",
+				"start": 1.72,
+				"end": 2.4,
+				"index": 7
+			},
+			{
+				"text": "GOAT",
+				"start": 2.4,
+				"end": 3.18,
+				"index": 8
+			}
+		],
+		"start": 0.54,
+		"end": 3.72
+	},
+	{
+		"words": [
+			{
+				"text": "He's ",
+				"start": 0,
+				"end": 0.08,
+				"index": 9
+			},
+			{
+				"text": "wired ",
+				"start": 0.08,
+				"end": 0.24,
+				"index": 10
+			},
+			{
+				"text": "differently ",
+				"start": 0.24,
+				"end": 0.66,
+				"index": 11
+			},
+			{
+				"text": "inside, ",
+				"start": 0.66,
+				"end": 1.28,
+				"index": 12
+			},
+			{
+				"text": "and ",
+				"start": 1.4,
+				"end": 1.5,
+				"index": 13
+			},
+			{
+				"text": "even ",
+				"start": 1.5,
+				"end": 1.66,
+				"index": 14
+			},
+			{
+				"text": "though ",
+				"start": 1.66,
+				"end": 1.86,
+				"index": 15
+			},
+			{
+				"text": "some ",
+				"start": 1.86,
+				"end": 2.14,
+				"index": 16
+			},
+			{
+				"text": "try, ",
+				"start": 2.14,
+				"end": 2.46,
+				"index": 17
+			},
+			{
+				"text": "they ",
+				"start": 2.8,
+				"end": 2.84,
+				"index": 18
+			},
+			{
+				"text": "can't ",
+				"start": 2.84,
+				"end": 3.16,
+				"index": 19
+			},
+			{
+				"text": "come ",
+				"start": 3.16,
+				"end": 3.38,
+				"index": 20
+			},
+			{
+				"text": "close",
+				"start": 3.38,
+				"end": 3.7,
+				"index": 21
+			}
+		],
+		"start": 3.94,
+		"end": 7.64
+	},
+	{
+		"words": [
+			{
+				"text": "And ",
+				"start": 0,
+				"end": 0.1,
+				"index": 22
+			},
+			{
+				"text": "what ",
+				"start": 0.1,
+				"end": 0.22,
+				"index": 23
+			},
+			{
+				"text": "he ",
+				"start": 0.22,
+				"end": 0.36,
+				"index": 24
+			},
+			{
+				"text": "means ",
+				"start": 0.36,
+				"end": 0.5,
+				"index": 25
+			},
+			{
+				"text": "to ",
+				"start": 0.5,
+				"end": 0.64,
+				"index": 26
+			},
+			{
+				"text": "me ",
+				"start": 0.64,
+				"end": 0.9,
+				"index": 27
+			},
+			{
+				"text": "ain't ",
+				"start": 0.9,
+				"end": 1.08,
+				"index": 28
+			},
+			{
+				"text": "gonna ",
+				"start": 1.08,
+				"end": 1.2,
+				"index": 29
+			},
+			{
+				"text": "ever ",
+				"start": 1.2,
+				"end": 1.44,
+				"index": 30
+			},
+			{
+				"text": "be ",
+				"start": 1.44,
+				"end": 1.72,
+				"index": 31
+			},
+			{
+				"text": "just ",
+				"start": 1.72,
+				"end": 1.96,
+				"index": 32
+			},
+			{
+				"text": "a ",
+				"start": 1.96,
+				"end": 2.3,
+				"index": 33
+			},
+			{
+				"text": "memory",
+				"start": 2.3,
+				"end": 2.32,
+				"index": 34
+			}
+		],
+		"start": 7.88,
+		"end": 10.2
+	},
+	{
+		"words": [
+			{
+				"text": "He's ",
+				"start": 0,
+				"end": 0.22,
+				"index": 35
+			},
+			{
+				"text": "the ",
+				"start": 0.22,
+				"end": 0.28,
+				"index": 36
+			},
+			{
+				"text": "chosen ",
+				"start": 0.28,
+				"end": 0.5,
+				"index": 37
+			},
+			{
+				"text": "one, ",
+				"start": 0.5,
+				"end": 0.72,
+				"index": 38
+			},
+			{
+				"text": "he's ",
+				"start": 0.72,
+				"end": 0.94,
+				"index": 39
+			},
+			{
+				"text": "LeBron ",
+				"start": 0.94,
+				"end": 1.66,
+				"index": 40
+			},
+			{
+				"text": "James",
+				"start": 1.66,
+				"end": 2.32,
+				"index": 41
+			}
+		],
+		"start": 10.52,
+		"end": 12.84
+	},
+	{
+		"words": [
+			{
+				"text": "You ",
+				"start": 0,
+				"end": 0.18,
+				"index": 42
+			},
+			{
+				"text": "know ",
+				"start": 0.18,
+				"end": 0.66,
+				"index": 43
+			},
+			{
+				"text": "his ",
+				"start": 0.66,
+				"end": 1.14,
+				"index": 44
+			},
+			{
+				"text": "name",
+				"start": 1.14,
+				"end": 2.22,
+				"index": 45
+			}
+		],
+		"start": 13.38,
+		"end": 15.6
+	},
+	{
+		"words": [
+			{
+				"text": "And ",
+				"start": 0,
+				"end": 0.12,
+				"index": 46
+			},
+			{
+				"text": "in ",
+				"start": 0.12,
+				"end": 0.38,
+				"index": 47
+			},
+			{
+				"text": "the ",
+				"start": 0.38,
+				"end": 0.8,
+				"index": 48
+			},
+			{
+				"text": "end, ",
+				"start": 0.8,
+				"end": 1.58,
+				"index": 49
+			},
+			{
+				"text": "he's ",
+				"start": 1.8,
+				"end": 2.1,
+				"index": 50
+			},
+			{
+				"text": "gonna ",
+				"start": 2.1,
+				"end": 2.3,
+				"index": 51
+			},
+			{
+				"text": "be ",
+				"start": 2.3,
+				"end": 2.64,
+				"index": 52
+			},
+			{
+				"text": "the ",
+				"start": 2.64,
+				"end": 2.98,
+				"index": 53
+			},
+			{
+				"text": "greatest",
+				"start": 2.98,
+				"end": 3.76,
+				"index": 54
+			}
+		],
+		"start": 16.12,
+		"end": 19.88
+	},
+	{
+		"words": [
+			{
+				"text": "They ",
+				"start": 0,
+				"end": 0.16,
+				"index": 55
+			},
+			{
+				"text": "had ",
+				"start": 0.16,
+				"end": 0.66,
+				"index": 56
+			},
+			{
+				"text": "to ",
+				"start": 0.66,
+				"end": 1.18,
+				"index": 57
+			},
+			{
+				"text": "fall ",
+				"start": 1.18,
+				"end": 1.82,
+				"index": 58
+			},
+			{
+				"text": "to ",
+				"start": 1.82,
+				"end": 2.48,
+				"index": 59
+			},
+			{
+				"text": "win ",
+				"start": 2.48,
+				"end": 2.98,
+				"index": 60
+			},
+			{
+				"text": "it ",
+				"start": 2.98,
+				"end": 3.5,
+				"index": 61
+			},
+			{
+				"text": "all",
+				"start": 3.5,
+				"end": 4.62,
+				"index": 62
+			}
+		],
+		"start": 20.28,
+		"end": 24.9
+	},
+	{
+		"words": [
+			{
+				"text": "Cause ",
+				"start": 0,
+				"end": 0.72,
+				"index": 63
+			},
+			{
+				"text": "in ",
+				"start": 0.72,
+				"end": 0.76,
+				"index": 64
+			},
+			{
+				"text": "the ",
+				"start": 0.76,
+				"end": 1.16,
+				"index": 65
+			},
+			{
+				"text": "end, ",
+				"start": 1.16,
+				"end": 2.04,
+				"index": 66
+			},
+			{
+				"text": "he's ",
+				"start": 2.18,
+				"end": 2.5,
+				"index": 67
+			},
+			{
+				"text": "gonna ",
+				"start": 2.5,
+				"end": 2.72,
+				"index": 68
+			},
+			{
+				"text": "be ",
+				"start": 2.72,
+				"end": 3,
+				"index": 69
+			},
+			{
+				"text": "the ",
+				"start": 3,
+				"end": 3.36,
+				"index": 70
+			},
+			{
+				"text": "greatest",
+				"start": 3.36,
+				"end": 4.08,
+				"index": 71
+			}
+		],
+		"start": 24.9,
+		"end": 28.98
+	}
+]

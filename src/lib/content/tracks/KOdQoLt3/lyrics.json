@@ -1,0 +1,746 @@
+[
+	{
+		"words": [
+			{
+				"text": "Thinking ",
+				"start": 0,
+				"end": 1.02,
+				"index": 0
+			},
+			{
+				"text": "about ",
+				"start": 1.02,
+				"end": 1.38,
+				"index": 1
+			},
+			{
+				"text": "LeBron ",
+				"start": 1.38,
+				"end": 1.88,
+				"index": 2
+			},
+			{
+				"text": "I ",
+				"start": 1.88,
+				"end": 2.52,
+				"index": 3
+			},
+			{
+				"text": "know ",
+				"start": 2.52,
+				"end": 4.16,
+				"index": 4
+			},
+			{
+				"text": "the ",
+				"start": 4.16,
+				"end": 4.48,
+				"index": 5
+			},
+			{
+				"text": "light ",
+				"start": 4.48,
+				"end": 4.68,
+				"index": 6
+			},
+			{
+				"text": "is ",
+				"start": 4.68,
+				"end": 4.88,
+				"index": 7
+			},
+			{
+				"text": "out ",
+				"start": 4.88,
+				"end": 5.2,
+				"index": 8
+			},
+			{
+				"text": "there ",
+				"start": 5.2,
+				"end": 5.62,
+				"index": 9
+			},
+			{
+				"text": "somewhere ",
+				"start": 5.62,
+				"end": 6.02,
+				"index": 10
+			},
+			{
+				"text": "far ",
+				"start": 6.02,
+				"end": 6.76,
+				"index": 11
+			},
+			{
+				"text": "away",
+				"start": 6.76,
+				"end": 8,
+				"index": 12
+			}
+		],
+		"start": 2.66,
+		"end": 10.66
+	},
+	{
+		"words": [
+			{
+				"text": "Are ",
+				"start": 0,
+				"end": 0.51,
+				"index": 13
+			},
+			{
+				"text": "you ",
+				"start": 0.51,
+				"end": 1.05,
+				"index": 14
+			},
+			{
+				"text": "okay?",
+				"start": 1.05,
+				"end": 2.07,
+				"index": 15
+			}
+		],
+		"start": 11.69,
+		"end": 13.76
+	},
+	{
+		"words": [
+			{
+				"text": "You're ",
+				"start": 0,
+				"end": 0.54,
+				"index": 16
+			},
+			{
+				"text": "all ",
+				"start": 0.54,
+				"end": 0.92,
+				"index": 17
+			},
+			{
+				"text": "I ",
+				"start": 0.92,
+				"end": 1.28,
+				"index": 18
+			},
+			{
+				"text": "need",
+				"start": 1.28,
+				"end": 2.22,
+				"index": 19
+			}
+		],
+		"start": 16.7,
+		"end": 18.92
+	},
+	{
+		"words": [
+			{
+				"text": "My ",
+				"start": 0,
+				"end": 0.92,
+				"index": 20
+			},
+			{
+				"text": "neighbors ",
+				"start": 0.92,
+				"end": 1.18,
+				"index": 21
+			},
+			{
+				"text": "think ",
+				"start": 1.18,
+				"end": 1.56,
+				"index": 22
+			},
+			{
+				"text": "I'm ",
+				"start": 1.56,
+				"end": 1.76,
+				"index": 23
+			},
+			{
+				"text": "crazy",
+				"start": 1.76,
+				"end": 2.26,
+				"index": 24
+			}
+		],
+		"start": 18.92,
+		"end": 21.18
+	},
+	{
+		"words": [
+			{
+				"text": "They ",
+				"start": 0,
+				"end": 0.52,
+				"index": 25
+			},
+			{
+				"text": "don't ",
+				"start": 0.52,
+				"end": 1,
+				"index": 26
+			},
+			{
+				"text": "understand",
+				"start": 1,
+				"end": 2.42,
+				"index": 27
+			}
+		],
+		"start": 21.18,
+		"end": 23.6
+	},
+	{
+		"words": [
+			{
+				"text": "Why ",
+				"start": 0,
+				"end": 1.02,
+				"index": 28
+			},
+			{
+				"text": "you ",
+				"start": 1.02,
+				"end": 1.48,
+				"index": 29
+			},
+			{
+				"text": "came",
+				"start": 1.48,
+				"end": 2.36,
+				"index": 30
+			}
+		],
+		"start": 24.86,
+		"end": 27.22
+	},
+	{
+		"words": [
+			{
+				"text": "You're ",
+				"start": 0,
+				"end": 1.4,
+				"index": 31
+			},
+			{
+				"text": "all ",
+				"start": 1.4,
+				"end": 1.78,
+				"index": 32
+			},
+			{
+				"text": "I ",
+				"start": 1.78,
+				"end": 2.18,
+				"index": 33
+			},
+			{
+				"text": "need",
+				"start": 2.18,
+				"end": 3.32,
+				"index": 34
+			}
+		],
+		"start": 29,
+		"end": 32.32
+	},
+	{
+		"words": [
+			{
+				"text": "At ",
+				"start": 0,
+				"end": 1.4,
+				"index": 35
+			},
+			{
+				"text": "night ",
+				"start": 1.4,
+				"end": 1.84,
+				"index": 36
+			},
+			{
+				"text": "when ",
+				"start": 1.84,
+				"end": 2.32,
+				"index": 37
+			},
+			{
+				"text": "the ",
+				"start": 2.32,
+				"end": 2.72,
+				"index": 38
+			},
+			{
+				"text": "stars ",
+				"start": 2.72,
+				"end": 3.52,
+				"index": 39
+			},
+			{
+				"text": "light ",
+				"start": 3.52,
+				"end": 4.36,
+				"index": 40
+			},
+			{
+				"text": "up ",
+				"start": 4.36,
+				"end": 4.84,
+				"index": 41
+			},
+			{
+				"text": "my ",
+				"start": 4.84,
+				"end": 5.68,
+				"index": 42
+			},
+			{
+				"text": "LA",
+				"start": 5.68,
+				"end": 6.4,
+				"index": 43
+			}
+		],
+		"start": 34.74,
+		"end": 41.14
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 1.52,
+				"index": 44
+			},
+			{
+				"text": "sit ",
+				"start": 1.52,
+				"end": 2.02,
+				"index": 45
+			},
+			{
+				"text": "by ",
+				"start": 2.02,
+				"end": 2.42,
+				"index": 46
+			},
+			{
+				"text": "myself",
+				"start": 2.42,
+				"end": 4.2,
+				"index": 47
+			}
+		],
+		"start": 41.14,
+		"end": 45.34
+	},
+	{
+		"words": [
+			{
+				"text": "Thinking ",
+				"start": 0,
+				"end": 0.62,
+				"index": 48
+			},
+			{
+				"text": "about ",
+				"start": 0.62,
+				"end": 1.24,
+				"index": 49
+			},
+			{
+				"text": "LeBron",
+				"start": 1.24,
+				"end": 2.24,
+				"index": 50
+			}
+		],
+		"start": 46.04,
+		"end": 48.28
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.7,
+				"index": 51
+			},
+			{
+				"text": "love ",
+				"start": 0.7,
+				"end": 1.08,
+				"index": 52
+			},
+			{
+				"text": "you ",
+				"start": 1.08,
+				"end": 1.5,
+				"index": 53
+			},
+			{
+				"text": "LeBron",
+				"start": 1.5,
+				"end": 3.6,
+				"index": 54
+			}
+		],
+		"start": 52.34,
+		"end": 55.94
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.62,
+				"index": 55
+			},
+			{
+				"text": "hope ",
+				"start": 0.62,
+				"end": 1.24,
+				"index": 56
+			},
+			{
+				"text": "you ",
+				"start": 1.24,
+				"end": 1.52,
+				"index": 57
+			},
+			{
+				"text": "get ",
+				"start": 1.52,
+				"end": 2.1,
+				"index": 58
+			},
+			{
+				"text": "another ",
+				"start": 2.1,
+				"end": 2.66,
+				"index": 59
+			},
+			{
+				"text": "ring",
+				"start": 2.66,
+				"end": 3.7,
+				"index": 60
+			}
+		],
+		"start": 60.02,
+		"end": 63.72
+	},
+	{
+		"words": [
+			{
+				"text": "Before ",
+				"start": 0,
+				"end": 0.62,
+				"index": 61
+			},
+			{
+				"text": "you ",
+				"start": 0.62,
+				"end": 1.16,
+				"index": 62
+			},
+			{
+				"text": "leave ",
+				"start": 1.16,
+				"end": 1.5,
+				"index": 63
+			},
+			{
+				"text": "the ",
+				"start": 1.5,
+				"end": 1.94,
+				"index": 64
+			},
+			{
+				"text": "club",
+				"start": 1.94,
+				"end": 2.52,
+				"index": 65
+			}
+		],
+		"start": 63.72,
+		"end": 66.24
+	},
+	{
+		"words": [
+			{
+				"text": "Thinking ",
+				"start": 0,
+				"end": 0.62,
+				"index": 66
+			},
+			{
+				"text": "about ",
+				"start": 0.62,
+				"end": 0.94,
+				"index": 67
+			},
+			{
+				"text": "LeBron",
+				"start": 0.94,
+				"end": 1.6,
+				"index": 68
+			}
+		],
+		"start": 67.2,
+		"end": 68.8
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.3,
+				"index": 69
+			},
+			{
+				"text": "know ",
+				"start": 0.3,
+				"end": 1.14,
+				"index": 70
+			},
+			{
+				"text": "the ",
+				"start": 1.14,
+				"end": 2.34,
+				"index": 71
+			},
+			{
+				"text": "light ",
+				"start": 2.34,
+				"end": 2.66,
+				"index": 72
+			},
+			{
+				"text": "is ",
+				"start": 2.66,
+				"end": 2.88,
+				"index": 73
+			},
+			{
+				"text": "out ",
+				"start": 2.88,
+				"end": 3.18,
+				"index": 74
+			},
+			{
+				"text": "there ",
+				"start": 3.18,
+				"end": 3.58,
+				"index": 75
+			},
+			{
+				"text": "somewhere ",
+				"start": 3.58,
+				"end": 4,
+				"index": 76
+			},
+			{
+				"text": "far ",
+				"start": 4,
+				"end": 4.72,
+				"index": 77
+			},
+			{
+				"text": "away",
+				"start": 4.72,
+				"end": 6.02,
+				"index": 78
+			}
+		],
+		"start": 68.8,
+		"end": 74.82
+	},
+	{
+		"words": [
+			{
+				"text": "Are ",
+				"start": 0,
+				"end": 1.46,
+				"index": 79
+			},
+			{
+				"text": "you ",
+				"start": 1.46,
+				"end": 1.96,
+				"index": 80
+			},
+			{
+				"text": "okay?",
+				"start": 1.96,
+				"end": 2.98,
+				"index": 81
+			}
+		],
+		"start": 74.82,
+		"end": 77.8
+	},
+	{
+		"words": [
+			{
+				"text": "You're ",
+				"start": 0,
+				"end": 1,
+				"index": 82
+			},
+			{
+				"text": "all ",
+				"start": 1,
+				"end": 1.28,
+				"index": 83
+			},
+			{
+				"text": "I ",
+				"start": 1.28,
+				"end": 1.6,
+				"index": 84
+			},
+			{
+				"text": "need",
+				"start": 1.6,
+				"end": 2.58,
+				"index": 85
+			}
+		],
+		"start": 80.44,
+		"end": 83.02
+	},
+	{
+		"words": [
+			{
+				"text": "My ",
+				"start": 0,
+				"end": 0.94,
+				"index": 86
+			},
+			{
+				"text": "neighbors ",
+				"start": 0.94,
+				"end": 1.22,
+				"index": 87
+			},
+			{
+				"text": "think ",
+				"start": 1.22,
+				"end": 1.56,
+				"index": 88
+			},
+			{
+				"text": "I'm ",
+				"start": 1.56,
+				"end": 1.8,
+				"index": 89
+			},
+			{
+				"text": "crazy",
+				"start": 1.8,
+				"end": 2.28,
+				"index": 90
+			}
+		],
+		"start": 83.02,
+		"end": 85.3
+	},
+	{
+		"words": [
+			{
+				"text": "They ",
+				"start": 0,
+				"end": 0.54,
+				"index": 91
+			},
+			{
+				"text": "don't ",
+				"start": 0.54,
+				"end": 0.96,
+				"index": 92
+			},
+			{
+				"text": "understand",
+				"start": 0.96,
+				"end": 2.18,
+				"index": 93
+			}
+		],
+		"start": 85.3,
+		"end": 87.48
+	},
+	{
+		"words": [
+			{
+				"text": "Why ",
+				"start": 0,
+				"end": 1,
+				"index": 94
+			},
+			{
+				"text": "you ",
+				"start": 1,
+				"end": 1.36,
+				"index": 95
+			},
+			{
+				"text": "came",
+				"start": 1.36,
+				"end": 2.22,
+				"index": 96
+			}
+		],
+		"start": 89,
+		"end": 91.22
+	},
+	{
+		"words": [
+			{
+				"text": "You're ",
+				"start": 0,
+				"end": 1,
+				"index": 97
+			},
+			{
+				"text": "all ",
+				"start": 1,
+				"end": 1.22,
+				"index": 98
+			},
+			{
+				"text": "I ",
+				"start": 1.22,
+				"end": 1.6,
+				"index": 99
+			},
+			{
+				"text": "need",
+				"start": 1.6,
+				"end": 2.52,
+				"index": 100
+			}
+		],
+		"start": 93.64,
+		"end": 96.16
+	},
+	{
+		"words": [
+			{
+				"text": "Thank you for watching!",
+				"start": 0,
+				"end": 0.96,
+				"index": 101
+			}
+		],
+		"start": 98.8,
+		"end": 99.76
+	}
+]

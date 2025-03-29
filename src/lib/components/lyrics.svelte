@@ -1,97 +1,116 @@
 <script lang="ts">
+	import { player } from '$lib/player.svelte';
+	import type { Lyrics } from '$lib/types';
 	import { onMount } from 'svelte';
 
 	let {
-		lyrics: srt,
+		lyrics,
 		currentTime,
 		onLyricClick
 	}: {
-		lyrics: string;
+		lyrics: Lyrics;
 		currentTime: number;
 		onLyricClick: (start: number) => void;
 	} = $props();
 
-	function parseSRT(srt: string) {
-		const regex =
-			/(\d+)\s+(\d{2}):(\d{2}):(\d{2}),(\d{3}) --> (\d{2}):(\d{2}):(\d{2}),(\d{3})\s+([\s\S]*?)(?=\r?\n\r?\n|[\n\r]*$)/g;
-		let matches;
-		let parsedLyrics = [];
-
-		while ((matches = regex.exec(srt)) !== null) {
-			const start =
-				Number(matches[2]) * 3600 +
-				Number(matches[3]) * 60 +
-				Number(matches[4]) +
-				Number(matches[5]) / 1000;
-			const end =
-				Number(matches[6]) * 3600 +
-				Number(matches[7]) * 60 +
-				Number(matches[8]) +
-				Number(matches[9]) / 1000;
-			const text = matches[10].replace(/\n/g, ' ');
-
-			parsedLyrics.push({ start, end, text });
-		}
-
-		return parsedLyrics;
-	}
-
-	let lyrics = $derived(parseSRT(srt));
 	let activeIndex = $state(-1);
 	let lyricsContainer: HTMLDivElement;
 	let lyricElements: HTMLElement[] = $state([]);
 
-	$effect(() => {
-		if (currentTime === -1) {
-			activeIndex = -1;
-			// scroll so first lyric is at the top
-			lyricsContainer.scrollTo({
-				top: lyricElements[0].offsetTop,
-				behavior: 'smooth'
-			});
-			return;
-		}
+	const OFFSET = 0.5;
 
-		// Binary search to find active lyric
+	let time = $state(currentTime + OFFSET);
+	let lastTime = performance.now();
+
+	$effect(() => {
+		let _ = currentTime;
+		lastTime = performance.now();
+	});
+
+	onMount(() => {
+		const interval = setInterval(() => {
+			if (player.paused) {
+				time = currentTime + OFFSET;
+				return;
+			}
+
+			// interpolate time
+			const now = performance.now();
+			const delta = now - lastTime;
+
+			time = currentTime + OFFSET + delta / 1000;
+		}, 20);
+
+		return () => {
+			clearInterval(interval);
+		};
+	});
+
+	type Span = {
+		start: number;
+		end: number;
+	};
+
+	function getActiveBlock<T extends Span>(spans: T[], time: number): T | null {
 		let left = 0;
-		let right = lyrics.length - 1;
+		let right = spans.length - 1;
 		let mid;
 
 		while (left <= right) {
 			mid = Math.floor((left + right) / 2);
 
-			if (lyrics[mid].start <= currentTime && lyrics[mid].end >= currentTime) {
-				activeIndex = mid;
-				break;
-			} else if (lyrics[mid].start > currentTime) {
+			if (spans[mid].start <= time && spans[mid].end >= time) {
+				return spans[mid];
+			} else if (spans[mid].start > time) {
 				right = mid - 1;
 			} else {
 				left = mid + 1;
 			}
 		}
 
-		if (lyrics[0].start > currentTime) {
-			activeIndex = 0;
+		// find last span that starts before time
+		for (let i = spans.length - 1; i >= 0; i--) {
+			if (spans[i].start <= time && (spans.length === i + 1 || spans[i + 1].start > time)) {
+				return spans[i];
+			}
 		}
 
-		if (lyrics[lyrics.length - 1].end < currentTime) {
-			activeIndex = lyrics.length - 1;
+		// if no span is found, return the first one
+		return null;
+	}
+
+	$effect(() => {
+		const line = getActiveBlock(lyrics, time) ?? { words: [], start: 0 };
+		const word = getActiveBlock(line.words, time - line.start) ?? { index: -1 };
+
+		if (word.index !== activeIndex) {
+			activeIndex = word.index;
 		}
 	});
 
+	let lastActiveIndex = -1;
+
 	$effect(() => {
+		if (activeIndex === lastActiveIndex) {
+			return;
+		}
+		lastActiveIndex = activeIndex;
 		const activeElement = lyricElements[activeIndex];
 
-		activeElement.scrollIntoView({
+		activeElement?.scrollIntoView({
 			behavior: 'smooth',
 			block: 'center'
 		});
 	});
 
-	onMount(() => {
-		document.documentElement.scrollTo({
-			top: 0,
-			behavior: 'smooth'
+	$effect(() => {
+		if (lyricElements.length === 0) {
+			return;
+		}
+
+		lyricElements[0]?.scrollIntoView({
+			behavior: 'smooth',
+			block: 'center'
 		});
 	});
 </script>
@@ -99,22 +118,33 @@
 <!-- Scrollable lyrics container -->
 <div
 	bind:this={lyricsContainer}
-	class="hide-scrollbar my-[50vh] flex h-screen max-w-lg flex-col items-start space-y-4 overflow-y-scroll px-4 text-2xl font-bold text-white/70 md:text-3xl"
+	class="hide-scrollbar flex w-full max-w-2xl flex-col items-start space-y-4 overflow-y-visible px-4 text-2xl font-bold text-white/70 md:text-4xl"
 >
-	{#each lyrics as lyric, i (lyric.start)}
-		<button
-			id="lyric-{i}"
-			class:text-white={i === activeIndex}
-			class="block w-full cursor-pointer text-left leading-9 transition-all duration-300 ease-in-out hover:text-white"
-			bind:this={lyricElements[i]}
-			onclick={() => onLyricClick(lyric.start)}
-		>
-			{lyric.text}
-		</button>
+	<!-- 50vh of padding on top and bottom -->
+	<div class="p-[25vh]"></div>
+
+	{#each lyrics as lyric (lyric.start)}
+		<span class="line">
+			{#each lyric.words as word (word.start)}
+				<button
+					class:text-white={word.index === activeIndex}
+					class="word"
+					bind:this={lyricElements[word.index]}
+					onclick={() => onLyricClick(word.start - OFFSET + lyric.start)}
+				>
+					{word.text}
+				</button>
+			{/each}
+		</span>
 	{/each}
+
+	<!-- 50vh of padding on top and bottom -->
+	<div class="p-[25vh]"></div>
 </div>
 
 <style>
+	@reference "../../app.css";
+
 	.hide-scrollbar::-webkit-scrollbar {
 		display: none;
 	}
@@ -122,5 +152,13 @@
 	.hide-scrollbar {
 		-ms-overflow-style: none;
 		scrollbar-width: none;
+	}
+
+	.word {
+		@apply inline-block cursor-pointer text-left leading-9 whitespace-pre-wrap transition-all duration-300 ease-in-out hover:text-white;
+	}
+
+	.line {
+		@apply text-left;
 	}
 </style>

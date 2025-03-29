@@ -1,4 +1,4 @@
-import type { Album, Artist, Track } from './types';
+import type { Album, Artist, Lyrics, Track } from './types';
 
 import trackData from '$lib/content/tracks.json';
 import artistData from '$lib/content/artists.json';
@@ -37,12 +37,8 @@ const CATEGORY_THUMBS: Record<string, { default: string }> = import.meta.glob(
 	}
 );
 
-const TRACK_LYRICS: Record<string, { default: string }> = import.meta.glob(
-	'/src/lib/content/tracks/*/lyrics.srt',
-	{
-		eager: true,
-		query: '?url'
-	}
+const TRACK_LYRICS: Record<string, () => Promise<{ default: Lyrics }>> = import.meta.glob(
+	'/src/lib/content/tracks/*/lyrics.json'
 );
 
 const TRACK_AUDIO: Record<string, { default: string }> = import.meta.glob(
@@ -119,8 +115,8 @@ export function categoryCover(id: string): string {
 	return value?.default ?? 'https://placehold.co/256x256';
 }
 
-export function trackLyrics(id: string): string | undefined {
-	return TRACK_LYRICS[`/src/lib/content/tracks/${id}/lyrics.srt`]?.default;
+export function trackLyrics(id: string): Promise<Lyrics> | undefined {
+	return TRACK_LYRICS[`/src/lib/content/tracks/${id}/lyrics.json`]?.().then((l) => l.default);
 }
 
 export function trackAudio(id: string): string {

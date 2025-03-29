@@ -1,0 +1,452 @@
+[
+	{
+		"words": [
+			{
+				"text": "Party ",
+				"start": 0,
+				"end": 1.02,
+				"index": 0
+			},
+			{
+				"text": "Bron!",
+				"start": 1.02,
+				"end": 1.5,
+				"index": 1
+			}
+		],
+		"start": 2.4,
+		"end": 3.9
+	},
+	{
+		"words": [
+			{
+				"text": "Yeah!",
+				"start": 0,
+				"end": 0.52,
+				"index": 2
+			}
+		],
+		"start": 6.72,
+		"end": 7.24
+	},
+	{
+		"words": [
+			{
+				"text": "Woo!",
+				"start": 0,
+				"end": 0.74,
+				"index": 3
+			}
+		],
+		"start": 10.2,
+		"end": 10.94
+	},
+	{
+		"words": [
+			{
+				"text": "Let's ",
+				"start": 0,
+				"end": 1.02,
+				"index": 4
+			},
+			{
+				"text": "go!",
+				"start": 1.02,
+				"end": 1.26,
+				"index": 5
+			}
+		],
+		"start": 13.06,
+		"end": 14.32
+	},
+	{
+		"words": [
+			{
+				"text": "Party ",
+				"start": 0,
+				"end": 0.06,
+				"index": 6
+			},
+			{
+				"text": "Le",
+				"start": 0.06,
+				"end": 0.32,
+				"index": 7
+			}
+		],
+		"start": 15.32,
+		"end": 15.64
+	},
+	{
+		"words": [
+			{
+				"text": "Bron",
+				"start": 0,
+				"end": 0.32,
+				"index": 8
+			},
+			{
+				"text": "in ",
+				"start": 0.32,
+				"end": 0.52,
+				"index": 9
+			},
+			{
+				"text": "the ",
+				"start": 0.52,
+				"end": 0.74,
+				"index": 10
+			},
+			{
+				"text": "house ",
+				"start": 0.74,
+				"end": 1.34,
+				"index": 11
+			},
+			{
+				"text": "tonight",
+				"start": 1.34,
+				"end": 2.5,
+				"index": 12
+			}
+		],
+		"start": 15.64,
+		"end": 18.14
+	},
+	{
+		"words": [
+			{
+				"text": "Everybody ",
+				"start": 0,
+				"end": 1.14,
+				"index": 13
+			},
+			{
+				"text": "just ",
+				"start": 1.14,
+				"end": 1.82,
+				"index": 14
+			},
+			{
+				"text": "have ",
+				"start": 1.82,
+				"end": 2.18,
+				"index": 15
+			},
+			{
+				"text": "a ",
+				"start": 2.18,
+				"end": 2.44,
+				"index": 16
+			},
+			{
+				"text": "good ",
+				"start": 2.44,
+				"end": 2.72,
+				"index": 17
+			},
+			{
+				"text": "time",
+				"start": 2.72,
+				"end": 3.52,
+				"index": 18
+			}
+		],
+		"start": 18.14,
+		"end": 21.66
+	},
+	{
+		"words": [
+			{
+				"text": "And ",
+				"start": 0,
+				"end": 1.12,
+				"index": 19
+			},
+			{
+				"text": "we ",
+				"start": 1.12,
+				"end": 1.4,
+				"index": 20
+			},
+			{
+				"text": "gon' ",
+				"start": 1.4,
+				"end": 1.58,
+				"index": 21
+			},
+			{
+				"text": "make ",
+				"start": 1.62,
+				"end": 1.82,
+				"index": 22
+			},
+			{
+				"text": "you ",
+				"start": 1.82,
+				"end": 2.12,
+				"index": 23
+			},
+			{
+				"text": "lose ",
+				"start": 2.12,
+				"end": 2.64,
+				"index": 24
+			},
+			{
+				"text": "your ",
+				"start": 2.64,
+				"end": 3.14,
+				"index": 25
+			},
+			{
+				"text": "mind",
+				"start": 3.14,
+				"end": 3.82,
+				"index": 26
+			}
+		],
+		"start": 21.66,
+		"end": 25.48
+	},
+	{
+		"words": [
+			{
+				"text": "Everybody ",
+				"start": 0,
+				"end": 1.22,
+				"index": 27
+			},
+			{
+				"text": "just ",
+				"start": 1.22,
+				"end": 1.92,
+				"index": 28
+			},
+			{
+				"text": "have ",
+				"start": 1.92,
+				"end": 2.26,
+				"index": 29
+			},
+			{
+				"text": "a ",
+				"start": 2.26,
+				"end": 2.52,
+				"index": 30
+			},
+			{
+				"text": "good ",
+				"start": 2.52,
+				"end": 2.8,
+				"index": 31
+			},
+			{
+				"text": "time",
+				"start": 2.8,
+				"end": 3.9,
+				"index": 32
+			}
+		],
+		"start": 25.48,
+		"end": 29.38
+	},
+	{
+		"words": [
+			{
+				"text": "Party ",
+				"start": 0,
+				"end": 0.76,
+				"index": 33
+			},
+			{
+				"text": "Le",
+				"start": 0.76,
+				"end": 1.08,
+				"index": 34
+			}
+		],
+		"start": 29.38,
+		"end": 30.46
+	},
+	{
+		"words": [
+			{
+				"text": "Bron",
+				"start": 0,
+				"end": 0.26,
+				"index": 35
+			},
+			{
+				"text": "in ",
+				"start": 0.26,
+				"end": 0.5,
+				"index": 36
+			},
+			{
+				"text": "the ",
+				"start": 0.5,
+				"end": 0.66,
+				"index": 37
+			},
+			{
+				"text": "house ",
+				"start": 0.66,
+				"end": 1.32,
+				"index": 38
+			},
+			{
+				"text": "tonight",
+				"start": 1.32,
+				"end": 2.32,
+				"index": 39
+			}
+		],
+		"start": 30.46,
+		"end": 32.78
+	},
+	{
+		"words": [
+			{
+				"text": "Everybody ",
+				"start": 0,
+				"end": 1.32,
+				"index": 40
+			},
+			{
+				"text": "just ",
+				"start": 1.32,
+				"end": 1.96,
+				"index": 41
+			},
+			{
+				"text": "have ",
+				"start": 1.96,
+				"end": 2.34,
+				"index": 42
+			},
+			{
+				"text": "a ",
+				"start": 2.34,
+				"end": 2.52,
+				"index": 43
+			},
+			{
+				"text": "good ",
+				"start": 2.52,
+				"end": 2.84,
+				"index": 44
+			},
+			{
+				"text": "time",
+				"start": 2.84,
+				"end": 3.92,
+				"index": 45
+			}
+		],
+		"start": 32.78,
+		"end": 36.7
+	},
+	{
+		"words": [
+			{
+				"text": "And ",
+				"start": 0,
+				"end": 0.94,
+				"index": 46
+			},
+			{
+				"text": "we ",
+				"start": 0.94,
+				"end": 1.2,
+				"index": 47
+			},
+			{
+				"text": "gon' ",
+				"start": 1.2,
+				"end": 1.38,
+				"index": 48
+			},
+			{
+				"text": "make ",
+				"start": 1.44,
+				"end": 1.6,
+				"index": 49
+			},
+			{
+				"text": "you ",
+				"start": 1.6,
+				"end": 1.82,
+				"index": 50
+			},
+			{
+				"text": "lose ",
+				"start": 1.82,
+				"end": 2.44,
+				"index": 51
+			},
+			{
+				"text": "your ",
+				"start": 2.44,
+				"end": 2.9,
+				"index": 52
+			},
+			{
+				"text": "mind",
+				"start": 2.9,
+				"end": 3.46,
+				"index": 53
+			}
+		],
+		"start": 36.7,
+		"end": 40.16
+	},
+	{
+		"words": [
+			{
+				"text": "Yeah!",
+				"start": 0,
+				"end": 0.42,
+				"index": 54
+			}
+		],
+		"start": 40.16,
+		"end": 40.58
+	},
+	{
+		"words": [
+			{
+				"text": "We ",
+				"start": 0,
+				"end": 0.1,
+				"index": 55
+			},
+			{
+				"text": "just ",
+				"start": 0.1,
+				"end": 0.36,
+				"index": 56
+			},
+			{
+				"text": "wanna ",
+				"start": 0.36,
+				"end": 0.68,
+				"index": 57
+			},
+			{
+				"text": "see ",
+				"start": 0.68,
+				"end": 1.06,
+				"index": 58
+			},
+			{
+				"text": "ya!",
+				"start": 1.06,
+				"end": 15.44,
+				"index": 59
+			}
+		],
+		"start": 40.9,
+		"end": 56.34
+	}
+]

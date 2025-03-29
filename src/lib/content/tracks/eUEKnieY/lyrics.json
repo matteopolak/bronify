@@ -1,0 +1,332 @@
+[
+	{
+		"words": [
+			{
+				"text": "I'll ",
+				"start": 0,
+				"end": 1.08,
+				"index": 0
+			},
+			{
+				"text": "always ",
+				"start": 1.08,
+				"end": 1.5,
+				"index": 1
+			},
+			{
+				"text": "be ",
+				"start": 1.5,
+				"end": 2.34,
+				"index": 2
+			},
+			{
+				"text": "on ",
+				"start": 2.34,
+				"end": 3.64,
+				"index": 3
+			},
+			{
+				"text": "LeBron's ",
+				"start": 3.64,
+				"end": 4.22,
+				"index": 4
+			},
+			{
+				"text": "side",
+				"start": 4.22,
+				"end": 5.72,
+				"index": 5
+			}
+		],
+		"start": 0,
+		"end": 5.72
+	},
+	{
+		"words": [
+			{
+				"text": "Can't ",
+				"start": 0,
+				"end": 4.16,
+				"index": 6
+			},
+			{
+				"text": "change ",
+				"start": 4.16,
+				"end": 4.44,
+				"index": 7
+			},
+			{
+				"text": "my ",
+				"start": 4.44,
+				"end": 4.72,
+				"index": 8
+			},
+			{
+				"text": "mind ",
+				"start": 4.72,
+				"end": 5.46,
+				"index": 9
+			},
+			{
+				"text": "even ",
+				"start": 5.46,
+				"end": 6.86,
+				"index": 10
+			},
+			{
+				"text": "if ",
+				"start": 6.86,
+				"end": 7.36,
+				"index": 11
+			},
+			{
+				"text": "you ",
+				"start": 7.36,
+				"end": 7.7,
+				"index": 12
+			},
+			{
+				"text": "try",
+				"start": 7.7,
+				"end": 8.54,
+				"index": 13
+			}
+		],
+		"start": 5.72,
+		"end": 14.26
+	},
+	{
+		"words": [
+			{
+				"text": "Cause ",
+				"start": 0,
+				"end": 0.88,
+				"index": 14
+			},
+			{
+				"text": "he's ",
+				"start": 0.88,
+				"end": 1.42,
+				"index": 15
+			},
+			{
+				"text": "my ",
+				"start": 1.42,
+				"end": 1.52,
+				"index": 16
+			},
+			{
+				"text": "GOAT, ",
+				"start": 1.52,
+				"end": 2.08,
+				"index": 17
+			},
+			{
+				"text": "he's ",
+				"start": 2.54,
+				"end": 2.92,
+				"index": 18
+			},
+			{
+				"text": "LeBron ",
+				"start": 2.92,
+				"end": 3.5,
+				"index": 19
+			},
+			{
+				"text": "James",
+				"start": 3.5,
+				"end": 4.16,
+				"index": 20
+			}
+		],
+		"start": 15,
+		"end": 19.16
+	},
+	{
+		"words": [
+			{
+				"text": "He's ",
+				"start": 0,
+				"end": 2.08,
+				"index": 21
+			},
+			{
+				"text": "my ",
+				"start": 2.08,
+				"end": 2.28,
+				"index": 22
+			},
+			{
+				"text": "sunshine",
+				"start": 2.28,
+				"end": 3.44,
+				"index": 23
+			}
+		],
+		"start": 19.16,
+		"end": 22.6
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 1.38,
+				"index": 24
+			},
+			{
+				"text": "watch ",
+				"start": 1.38,
+				"end": 4.96,
+				"index": 25
+			},
+			{
+				"text": "LeBron ",
+				"start": 4.96,
+				"end": 5.96,
+				"index": 26
+			},
+			{
+				"text": "every ",
+				"start": 5.96,
+				"end": 7.6,
+				"index": 27
+			},
+			{
+				"text": "day ",
+				"start": 7.6,
+				"end": 8.04,
+				"index": 28
+			},
+			{
+				"text": "of ",
+				"start": 8.04,
+				"end": 8.24,
+				"index": 29
+			},
+			{
+				"text": "my ",
+				"start": 8.24,
+				"end": 8.56,
+				"index": 30
+			},
+			{
+				"text": "life ",
+				"start": 8.56,
+				"end": 9.5,
+				"index": 31
+			},
+			{
+				"text": "I ",
+				"start": 9.5,
+				"end": 13.66,
+				"index": 32
+			},
+			{
+				"text": "don't ",
+				"start": 13.66,
+				"end": 14.34,
+				"index": 33
+			},
+			{
+				"text": "care ",
+				"start": 14.34,
+				"end": 15.04,
+				"index": 34
+			},
+			{
+				"text": "what ",
+				"start": 15.04,
+				"end": 16.48,
+				"index": 35
+			},
+			{
+				"text": "they ",
+				"start": 16.48,
+				"end": 16.92,
+				"index": 36
+			},
+			{
+				"text": "say, ",
+				"start": 16.92,
+				"end": 17.94,
+				"index": 37
+			},
+			{
+				"text": "you're ",
+				"start": 17.94,
+				"end": 19.5,
+				"index": 38
+			},
+			{
+				"text": "my ",
+				"start": 19.5,
+				"end": 19.72,
+				"index": 39
+			},
+			{
+				"text": "King",
+				"start": 19.72,
+				"end": 20.2,
+				"index": 40
+			}
+		],
+		"start": 22.6,
+		"end": 42.8
+	},
+	{
+		"words": [
+			{
+				"text": "James",
+				"start": 0,
+				"end": 0.62,
+				"index": 41
+			}
+		],
+		"start": 42.8,
+		"end": 43.42
+	},
+	{
+		"words": [
+			{
+				"text": "He's ",
+				"start": 0,
+				"end": 0.24,
+				"index": 42
+			},
+			{
+				"text": "my ",
+				"start": 0.24,
+				"end": 0.68,
+				"index": 43
+			},
+			{
+				"text": "King ",
+				"start": 0.68,
+				"end": 1.48,
+				"index": 44
+			},
+			{
+				"text": "James, ",
+				"start": 1.48,
+				"end": 2.54,
+				"index": 45
+			},
+			{
+				"text": "my ",
+				"start": 2.54,
+				"end": 4.82,
+				"index": 46
+			},
+			{
+				"text": "everything",
+				"start": 4.82,
+				"end": 5.7,
+				"index": 47
+			}
+		],
+		"start": 43.42,
+		"end": 49.12
+	}
+]

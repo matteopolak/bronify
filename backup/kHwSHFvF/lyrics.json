@@ -1,0 +1,614 @@
+[
+	{
+		"words": [
+			{
+				"text": "Maybe ",
+				"start": 30,
+				"end": 30.3,
+				"index": 0
+			},
+			{
+				"text": "you ",
+				"start": 30.3,
+				"end": 30.58,
+				"index": 1
+			},
+			{
+				"text": "light ",
+				"start": 30.58,
+				"end": 30.94,
+				"index": 2
+			},
+			{
+				"text": "up ",
+				"start": 30.94,
+				"end": 31.3,
+				"index": 3
+			},
+			{
+				"text": "the ",
+				"start": 31.3,
+				"end": 31.48,
+				"index": 4
+			},
+			{
+				"text": "floor ",
+				"start": 31.48,
+				"end": 31.8,
+				"index": 5
+			},
+			{
+				"text": "like ",
+				"start": 31.8,
+				"end": 32.16,
+				"index": 6
+			},
+			{
+				"text": "nobody ",
+				"start": 32.16,
+				"end": 33,
+				"index": 7
+			},
+			{
+				"text": "else ",
+				"start": 33,
+				"end": 33.52,
+				"index": 8
+			}
+		],
+		"start": 30,
+		"end": 33.52
+	},
+	{
+		"words": [
+			{
+				"text": "The ",
+				"start": 33.52,
+				"end": 33.9,
+				"index": 9
+			},
+			{
+				"text": "way ",
+				"start": 33.9,
+				"end": 34.1,
+				"index": 10
+			},
+			{
+				"text": "that ",
+				"start": 34.1,
+				"end": 34.38,
+				"index": 11
+			},
+			{
+				"text": "you ",
+				"start": 34.38,
+				"end": 34.66,
+				"index": 12
+			},
+			{
+				"text": "break ",
+				"start": 34.66,
+				"end": 35.02,
+				"index": 13
+			},
+			{
+				"text": "the ",
+				"start": 35.02,
+				"end": 35.36,
+				"index": 14
+			},
+			{
+				"text": "defense ",
+				"start": 35.36,
+				"end": 35.94,
+				"index": 15
+			},
+			{
+				"text": "it ",
+				"start": 35.94,
+				"end": 36.32,
+				"index": 16
+			},
+			{
+				"text": "overwhelms",
+				"start": 36.32,
+				"end": 37.34,
+				"index": 17
+			}
+		],
+		"start": 33.52,
+		"end": 37.34
+	},
+	{
+		"words": [
+			{
+				"text": "And ",
+				"start": 37.34,
+				"end": 37.74,
+				"index": 18
+			},
+			{
+				"text": "when ",
+				"start": 37.74,
+				"end": 37.98,
+				"index": 19
+			},
+			{
+				"text": "you ",
+				"start": 37.98,
+				"end": 38.2,
+				"index": 20
+			},
+			{
+				"text": "set ",
+				"start": 38.2,
+				"end": 38.62,
+				"index": 21
+			},
+			{
+				"text": "up ",
+				"start": 38.62,
+				"end": 38.96,
+				"index": 22
+			},
+			{
+				"text": "your ",
+				"start": 38.96,
+				"end": 39.18,
+				"index": 23
+			},
+			{
+				"text": "team ",
+				"start": 39.18,
+				"end": 39.52,
+				"index": 24
+			},
+			{
+				"text": "it ",
+				"start": 39.52,
+				"end": 39.94,
+				"index": 25
+			},
+			{
+				"text": "ain't ",
+				"start": 39.94,
+				"end": 40.14,
+				"index": 26
+			},
+			{
+				"text": "hard ",
+				"start": 40.14,
+				"end": 40.6,
+				"index": 27
+			},
+			{
+				"text": "to ",
+				"start": 40.6,
+				"end": 40.92,
+				"index": 28
+			},
+			{
+				"text": "tell",
+				"start": 40.92,
+				"end": 41.3,
+				"index": 29
+			}
+		],
+		"start": 37.34,
+		"end": 41.3
+	},
+	{
+		"words": [
+			{
+				"text": "We ",
+				"start": 41.3,
+				"end": 41.62,
+				"index": 30
+			},
+			{
+				"text": "all ",
+				"start": 41.62,
+				"end": 41.9,
+				"index": 31
+			},
+			{
+				"text": "know, ",
+				"start": 41.9,
+				"end": 42.58,
+				"index": 32
+			},
+			{
+				"text": "oh ",
+				"start": 42.84,
+				"end": 43.02,
+				"index": 33
+			},
+			{
+				"text": "oh ",
+				"start": 43.02,
+				"end": 43.8,
+				"index": 34
+			}
+		],
+		"start": 41.3,
+		"end": 43.8
+	},
+	{
+		"words": [
+			{
+				"text": "That's ",
+				"start": 43.8,
+				"end": 44.3,
+				"index": 35
+			},
+			{
+				"text": "what ",
+				"start": 44.3,
+				"end": 44.42,
+				"index": 36
+			},
+			{
+				"text": "makes ",
+				"start": 44.42,
+				"end": 44.72,
+				"index": 37
+			},
+			{
+				"text": "LeBron ",
+				"start": 44.72,
+				"end": 45.24,
+				"index": 38
+			},
+			{
+				"text": "the ",
+				"start": 45.24,
+				"end": 45.68,
+				"index": 39
+			},
+			{
+				"text": "girl",
+				"start": 45.68,
+				"end": 45.94,
+				"index": 40
+			}
+		],
+		"start": 43.8,
+		"end": 45.94
+	},
+	{
+		"words": [
+			{
+				"text": "If ",
+				"start": 45.94,
+				"end": 45.96,
+				"index": 41
+			},
+			{
+				"text": "you ",
+				"start": 45.96,
+				"end": 46.18,
+				"index": 42
+			},
+			{
+				"text": "own ",
+				"start": 46.18,
+				"end": 46.6,
+				"index": 43
+			},
+			{
+				"text": "this ",
+				"start": 46.6,
+				"end": 46.94,
+				"index": 44
+			},
+			{
+				"text": "all ",
+				"start": 46.94,
+				"end": 47.22,
+				"index": 45
+			},
+			{
+				"text": "the ",
+				"start": 47.22,
+				"end": 47.68,
+				"index": 46
+			},
+			{
+				"text": "impact ",
+				"start": 47.68,
+				"end": 48.2,
+				"index": 47
+			},
+			{
+				"text": "you ",
+				"start": 48.2,
+				"end": 48.58,
+				"index": 48
+			},
+			{
+				"text": "made ",
+				"start": 48.58,
+				"end": 48.82,
+				"index": 49
+			}
+		],
+		"start": 45.94,
+		"end": 48.82
+	},
+	{
+		"words": [
+			{
+				"text": "You ",
+				"start": 48.82,
+				"end": 49.2,
+				"index": 50
+			},
+			{
+				"text": "got ",
+				"start": 49.2,
+				"end": 49.44,
+				"index": 51
+			},
+			{
+				"text": "the ",
+				"start": 49.44,
+				"end": 49.76,
+				"index": 52
+			},
+			{
+				"text": "whole ",
+				"start": 49.76,
+				"end": 50.08,
+				"index": 53
+			},
+			{
+				"text": "world ",
+				"start": 50.08,
+				"end": 50.38,
+				"index": 54
+			},
+			{
+				"text": "tuned ",
+				"start": 50.38,
+				"end": 50.66,
+				"index": 55
+			},
+			{
+				"text": "into ",
+				"start": 50.66,
+				"end": 51.24,
+				"index": 56
+			},
+			{
+				"text": "the ",
+				"start": 51.24,
+				"end": 51.7,
+				"index": 57
+			},
+			{
+				"text": "liquor",
+				"start": 51.7,
+				"end": 52.26,
+				"index": 58
+			},
+			{
+				"text": "game ",
+				"start": 52.26,
+				"end": 52.68,
+				"index": 59
+			}
+		],
+		"start": 48.82,
+		"end": 52.68
+	},
+	{
+		"words": [
+			{
+				"text": "And ",
+				"start": 52.68,
+				"end": 53.14,
+				"index": 60
+			},
+			{
+				"text": "when ",
+				"start": 53.14,
+				"end": 53.34,
+				"index": 61
+			},
+			{
+				"text": "you're ",
+				"start": 53.34,
+				"end": 53.74,
+				"index": 62
+			},
+			{
+				"text": "smiling ",
+				"start": 53.74,
+				"end": 54.1,
+				"index": 63
+			},
+			{
+				"text": "just ",
+				"start": 54.1,
+				"end": 54.54,
+				"index": 64
+			},
+			{
+				"text": "lights ",
+				"start": 54.54,
+				"end": 54.84,
+				"index": 65
+			},
+			{
+				"text": "up ",
+				"start": 54.84,
+				"end": 55.2,
+				"index": 66
+			},
+			{
+				"text": "my",
+				"start": 55.2,
+				"end": 55.56,
+				"index": 67
+			},
+			{
+				"text": "inner ",
+				"start": 55.56,
+				"end": 56.12,
+				"index": 68
+			},
+			{
+				"text": "flame ",
+				"start": 56.12,
+				"end": 56.48,
+				"index": 69
+			}
+		],
+		"start": 52.68,
+		"end": 56.48
+	},
+	{
+		"words": [
+			{
+				"text": "We ",
+				"start": 56.48,
+				"end": 56.92,
+				"index": 70
+			},
+			{
+				"text": "all ",
+				"start": 56.92,
+				"end": 57.3,
+				"index": 71
+			},
+			{
+				"text": "know, ",
+				"start": 57.3,
+				"end": 57.92,
+				"index": 72
+			},
+			{
+				"text": "oh ",
+				"start": 58.18,
+				"end": 58.4,
+				"index": 73
+			},
+			{
+				"text": "oh",
+				"start": 58.4,
+				"end": 59.28,
+				"index": 74
+			}
+		],
+		"start": 56.48,
+		"end": 59.28
+	},
+	{
+		"words": [
+			{
+				"text": "That's ",
+				"start": 59.28,
+				"end": 59.68,
+				"index": 75
+			},
+			{
+				"text": "what ",
+				"start": 59.68,
+				"end": 59.78,
+				"index": 76
+			},
+			{
+				"text": "makes ",
+				"start": 59.78,
+				"end": 60.1,
+				"index": 77
+			},
+			{
+				"text": "LeBron ",
+				"start": 60.1,
+				"end": 60.6,
+				"index": 78
+			},
+			{
+				"text": "the ",
+				"start": 60.6,
+				"end": 60.98,
+				"index": 79
+			},
+			{
+				"text": "girl ",
+				"start": 60.98,
+				"end": 61.58,
+				"index": 80
+			}
+		],
+		"start": 59.28,
+		"end": 61.58
+	},
+	{
+		"words": [
+			{
+				"text": "Oh ",
+				"start": 61.58,
+				"end": 62.18,
+				"index": 81
+			},
+			{
+				"text": "oh",
+				"start": 62.18,
+				"end": 62.82,
+				"index": 82
+			}
+		],
+		"start": 61.58,
+		"end": 62.82
+	},
+	{
+		"words": [
+			{
+				"text": "That's ",
+				"start": 62.82,
+				"end": 63.48,
+				"index": 83
+			},
+			{
+				"text": "why ",
+				"start": 63.48,
+				"end": 63.58,
+				"index": 84
+			},
+			{
+				"text": "LeBron, ",
+				"start": 63.58,
+				"end": 63.9,
+				"index": 85
+			},
+			{
+				"text": "LeBron ",
+				"start": 63.92,
+				"end": 64.22,
+				"index": 86
+			},
+			{
+				"text": "is ",
+				"start": 64.22,
+				"end": 64.5,
+				"index": 87
+			},
+			{
+				"text": "the ",
+				"start": 64.5,
+				"end": 64.82,
+				"index": 88
+			},
+			{
+				"text": "girl",
+				"start": 64.82,
+				"end": 65.34,
+				"index": 89
+			}
+		],
+		"start": 62.82,
+		"end": 65.34
+	}
+]

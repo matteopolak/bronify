@@ -2,7 +2,7 @@
 	import { shortcut, type ShortcutEventDetail } from '@svelte-put/shortcut';
 	import Device from 'svelte-device-info';
 
-	import { getArtist, trackThumbnail } from '$lib/get';
+	import { trackThumbnail } from '$lib/get';
 	import { formatSeconds } from '$lib/util';
 	import { player, settings } from '$lib/player.svelte';
 	import {
@@ -18,6 +18,9 @@
 		Volume2,
 		VolumeX
 	} from '@lucide/svelte';
+	import { onMount, untrack } from 'svelte';
+	import { pushState, replaceState } from '$app/navigation';
+	import { page } from '$app/state';
 
 	let {
 		maxVolume = 0.5
@@ -25,7 +28,6 @@
 		maxVolume: number;
 	} = $props();
 
-	let artist = $derived(getArtist(player.track.artist));
 	let url = $derived(trackThumbnail(player.track.id));
 
 	function onSeekClick(event: MouseEvent) {
@@ -108,7 +110,7 @@
 				player.volume = Math.max(player.volume - 0.01, 0);
 				break;
 			case 'm':
-				settings.lyrics = !settings.lyrics;
+				settings.lyrics = settings.lyrics === 'off' ? 'on' : 'off';
 				break;
 			case 's':
 				settings.shuffle = settings.shuffle === 'off' ? 'on' : 'off';
@@ -120,7 +122,7 @@
 				settings.loop = settings.loop === 'none' ? 'one' : settings.loop === 'one' ? 'all' : 'none';
 				break;
 			case 'Escape':
-				settings.lyrics = false;
+				settings.lyrics = 'off';
 				break;
 		}
 	}
@@ -256,11 +258,11 @@
 			</button>
 
 			<button
-				onclick={() => (settings.lyrics = !settings.lyrics)}
+				onclick={() => (settings.lyrics = settings.lyrics === 'off' ? 'on' : 'off')}
 				class="absolute right-4 bottom-[1.2rem] cursor-pointer self-end text-left transition-all duration-100 ease-in-out md:bottom-[1.9rem] lg:hidden"
-				class:text-slate-400={!settings.lyrics}
-				class:hover:text-white={!settings.lyrics}
-				class:text-white={settings.lyrics}
+				class:text-slate-400={settings.lyrics === 'off'}
+				class:hover:text-white={settings.lyrics === 'off'}
+				class:text-white={settings.lyrics === 'on'}
 			>
 				<MicVocal size="1.3em" />
 			</button>
@@ -289,11 +291,11 @@
 	</div>
 	<div class="lg:navbar-end hidden gap-5 pr-4">
 		<button
-			onclick={() => (settings.lyrics = !settings.lyrics)}
+			onclick={() => (settings.lyrics = settings.lyrics === 'off' ? 'on' : 'off')}
 			class="cursor-pointer text-left transition-all duration-100 ease-in-out"
-			class:text-slate-400={!settings.lyrics}
-			class:hover:text-white={!settings.lyrics}
-			class:text-white={settings.lyrics}
+			class:text-slate-400={settings.lyrics === 'off'}
+			class:hover:text-white={settings.lyrics === 'off'}
+			class:text-white={settings.lyrics === 'on'}
 		>
 			<MicVocal size="1.3em" />
 		</button>

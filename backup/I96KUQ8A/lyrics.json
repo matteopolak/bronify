@@ -1,0 +1,350 @@
+[
+	{
+		"words": [
+			{
+				"text": "He ",
+				"start": 0,
+				"end": 0.66,
+				"index": 0
+			},
+			{
+				"text": "shoots ",
+				"start": 0.66,
+				"end": 0.94,
+				"index": 1
+			},
+			{
+				"text": "the ",
+				"start": 0.94,
+				"end": 1.12,
+				"index": 2
+			},
+			{
+				"text": "three, ",
+				"start": 1.12,
+				"end": 1.64,
+				"index": 3
+			},
+			{
+				"text": "as ",
+				"start": 2.34,
+				"end": 3.26,
+				"index": 4
+			},
+			{
+				"text": "LeBron ",
+				"start": 3.26,
+				"end": 3.52,
+				"index": 5
+			},
+			{
+				"text": "looks ",
+				"start": 3.52,
+				"end": 3.9,
+				"index": 6
+			},
+			{
+				"text": "his ",
+				"start": 3.9,
+				"end": 4.16,
+				"index": 7
+			},
+			{
+				"text": "teammates ",
+				"start": 4.16,
+				"end": 4.42,
+				"index": 8
+			},
+			{
+				"text": "in ",
+				"start": 4.42,
+				"end": 4.78,
+				"index": 9
+			},
+			{
+				"text": "the ",
+				"start": 4.78,
+				"end": 5.12,
+				"index": 10
+			},
+			{
+				"text": "eyes",
+				"start": 5.12,
+				"end": 5.84,
+				"index": 11
+			}
+		],
+		"start": 0,
+		"end": 5.84
+	},
+	{
+		"words": [
+			{
+				"text": "They're ",
+				"start": 6.36,
+				"end": 6.74,
+				"index": 12
+			},
+			{
+				"text": "paralyzed, ",
+				"start": 6.74,
+				"end": 7.46,
+				"index": 13
+			},
+			{
+				"text": "cause ",
+				"start": 8.6,
+				"end": 8.72,
+				"index": 14
+			},
+			{
+				"text": "he's ",
+				"start": 8.72,
+				"end": 9.1,
+				"index": 15
+			},
+			{
+				"text": "LeBron ",
+				"start": 9.1,
+				"end": 9.52,
+				"index": 16
+			},
+			{
+				"text": "James",
+				"start": 9.52,
+				"end": 10.68,
+				"index": 17
+			}
+		],
+		"start": 6.36,
+		"end": 10.68
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron ",
+				"start": 11.34,
+				"end": 12,
+				"index": 18
+			},
+			{
+				"text": "James. ",
+				"start": 12,
+				"end": 12.84,
+				"index": 19
+			}
+		],
+		"start": 11.34,
+		"end": 12.84
+	},
+	{
+		"words": [
+			{
+				"text": "He's ",
+				"start": 13.08,
+				"end": 13.38,
+				"index": 20
+			},
+			{
+				"text": "got ",
+				"start": 13.38,
+				"end": 13.54,
+				"index": 21
+			},
+			{
+				"text": "four ",
+				"start": 13.54,
+				"end": 13.8,
+				"index": 22
+			},
+			{
+				"text": "rings ",
+				"start": 13.8,
+				"end": 14.06,
+				"index": 23
+			},
+			{
+				"text": "and ",
+				"start": 14.06,
+				"end": 14.24,
+				"index": 24
+			},
+			{
+				"text": "now's ",
+				"start": 14.24,
+				"end": 14.6,
+				"index": 25
+			},
+			{
+				"text": "the ",
+				"start": 14.6,
+				"end": 14.74,
+				"index": 26
+			},
+			{
+				"text": "time ",
+				"start": 14.74,
+				"end": 14.98,
+				"index": 27
+			},
+			{
+				"text": "to ",
+				"start": 14.98,
+				"end": 15.16,
+				"index": 28
+			},
+			{
+				"text": "get ",
+				"start": 15.16,
+				"end": 15.48,
+				"index": 29
+			},
+			{
+				"text": "another ",
+				"start": 15.48,
+				"end": 15.98,
+				"index": 30
+			},
+			{
+				"text": "one",
+				"start": 15.98,
+				"end": 16.38,
+				"index": 31
+			}
+		],
+		"start": 13.08,
+		"end": 16.38
+	},
+	{
+		"words": [
+			{
+				"text": "Cause ",
+				"start": 16.66,
+				"end": 16.8,
+				"index": 32
+			},
+			{
+				"text": "he's ",
+				"start": 16.8,
+				"end": 17.18,
+				"index": 33
+			},
+			{
+				"text": "LeBron ",
+				"start": 17.18,
+				"end": 17.52,
+				"index": 34
+			},
+			{
+				"text": "James. ",
+				"start": 17.52,
+				"end": 18.92,
+				"index": 35
+			}
+		],
+		"start": 16.66,
+		"end": 18.92
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron ",
+				"start": 19.46,
+				"end": 20.06,
+				"index": 36
+			},
+			{
+				"text": "James",
+				"start": 20.06,
+				"end": 20.96,
+				"index": 37
+			}
+		],
+		"start": 19.46,
+		"end": 20.96
+	},
+	{
+		"words": [
+			{
+				"text": "My ",
+				"start": 21.08,
+				"end": 21.32,
+				"index": 38
+			},
+			{
+				"text": "king ",
+				"start": 21.32,
+				"end": 21.56,
+				"index": 39
+			},
+			{
+				"text": "cause ",
+				"start": 21.56,
+				"end": 21.86,
+				"index": 40
+			},
+			{
+				"text": "lovey ",
+				"start": 21.86,
+				"end": 22.24,
+				"index": 41
+			},
+			{
+				"text": "thing ",
+				"start": 22.24,
+				"end": 22.5,
+				"index": 42
+			},
+			{
+				"text": "cause ",
+				"start": 22.5,
+				"end": 22.8,
+				"index": 43
+			},
+			{
+				"text": "he's ",
+				"start": 22.8,
+				"end": 23.18,
+				"index": 44
+			},
+			{
+				"text": "the ",
+				"start": 23.18,
+				"end": 23.44,
+				"index": 45
+			},
+			{
+				"text": "greatest, ",
+				"start": 23.44,
+				"end": 24.08,
+				"index": 46
+			},
+			{
+				"text": "bravest, ",
+				"start": 24.48,
+				"end": 24.94,
+				"index": 47
+			},
+			{
+				"text": "LeBron",
+				"start": 25.26,
+				"end": 26.08,
+				"index": 48
+			}
+		],
+		"start": 21.08,
+		"end": 26.08
+	},
+	{
+		"words": [
+			{
+				"text": "Yeah",
+				"start": 26.08,
+				"end": 28.26,
+				"index": 49
+			}
+		],
+		"start": 26.08,
+		"end": 28.26
+	}
+]

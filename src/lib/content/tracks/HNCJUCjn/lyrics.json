@@ -1,0 +1,1028 @@
+[
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.4,
+				"index": 0
+			},
+			{
+				"text": "believe ",
+				"start": 0.4,
+				"end": 1,
+				"index": 1
+			},
+			{
+				"text": "in ",
+				"start": 1,
+				"end": 1.46,
+				"index": 2
+			},
+			{
+				"text": "LeBron",
+				"start": 1.46,
+				"end": 2.56,
+				"index": 3
+			}
+		],
+		"start": 0,
+		"end": 2.56
+	},
+	{
+		"words": [
+			{
+				"text": "Just ",
+				"start": 0,
+				"end": 1.54,
+				"index": 4
+			},
+			{
+				"text": "to ",
+				"start": 1.54,
+				"end": 1.78,
+				"index": 5
+			},
+			{
+				"text": "give ",
+				"start": 1.78,
+				"end": 2.34,
+				"index": 6
+			},
+			{
+				"text": "everything ",
+				"start": 2.34,
+				"end": 3.24,
+				"index": 7
+			},
+			{
+				"text": "we've ",
+				"start": 3.24,
+				"end": 3.96,
+				"index": 8
+			},
+			{
+				"text": "got",
+				"start": 3.96,
+				"end": 4.32,
+				"index": 9
+			}
+		],
+		"start": 2.56,
+		"end": 6.88
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.5,
+				"index": 10
+			},
+			{
+				"text": "believe ",
+				"start": 0.5,
+				"end": 1.08,
+				"index": 11
+			},
+			{
+				"text": "in ",
+				"start": 1.08,
+				"end": 1.58,
+				"index": 12
+			},
+			{
+				"text": "LeBron",
+				"start": 1.58,
+				"end": 2.84,
+				"index": 13
+			}
+		],
+		"start": 6.88,
+		"end": 9.72
+	},
+	{
+		"words": [
+			{
+				"text": "Chasing ",
+				"start": 0,
+				"end": 1.82,
+				"index": 14
+			},
+			{
+				"text": "every ",
+				"start": 1.82,
+				"end": 2.56,
+				"index": 15
+			},
+			{
+				"text": "dream",
+				"start": 2.56,
+				"end": 3.92,
+				"index": 16
+			}
+		],
+		"start": 9.72,
+		"end": 13.64
+	},
+	{
+		"words": [
+			{
+				"text": "His ",
+				"start": 0,
+				"end": 0.58,
+				"index": 17
+			},
+			{
+				"text": "journey's ",
+				"start": 0.58,
+				"end": 1.28,
+				"index": 18
+			},
+			{
+				"text": "a ",
+				"start": 1.28,
+				"end": 1.48,
+				"index": 19
+			},
+			{
+				"text": "testament",
+				"start": 1.48,
+				"end": 2.04,
+				"index": 20
+			}
+		],
+		"start": 14.48,
+		"end": 16.52
+	},
+	{
+		"words": [
+			{
+				"text": "To ",
+				"start": 0,
+				"end": 2.54,
+				"index": 21
+			},
+			{
+				"text": "what ",
+				"start": 2.54,
+				"end": 2.84,
+				"index": 22
+			},
+			{
+				"text": "hard ",
+				"start": 2.84,
+				"end": 3.14,
+				"index": 23
+			},
+			{
+				"text": "work ",
+				"start": 3.14,
+				"end": 3.46,
+				"index": 24
+			},
+			{
+				"text": "can ",
+				"start": 3.46,
+				"end": 3.88,
+				"index": 25
+			},
+			{
+				"text": "mean",
+				"start": 3.88,
+				"end": 5.2,
+				"index": 26
+			}
+		],
+		"start": 16.52,
+		"end": 21.72
+	},
+	{
+		"words": [
+			{
+				"text": "From ",
+				"start": 0,
+				"end": 1.84,
+				"index": 27
+			},
+			{
+				"text": "Akron ",
+				"start": 1.84,
+				"end": 2.54,
+				"index": 28
+			},
+			{
+				"text": "streets",
+				"start": 2.54,
+				"end": 3.22,
+				"index": 29
+			}
+		],
+		"start": 21.72,
+		"end": 24.94
+	},
+	{
+		"words": [
+			{
+				"text": "To ",
+				"start": 0,
+				"end": 0.62,
+				"index": 30
+			},
+			{
+				"text": "global ",
+				"start": 0.62,
+				"end": 1.26,
+				"index": 31
+			},
+			{
+				"text": "fame",
+				"start": 1.26,
+				"end": 2.04,
+				"index": 32
+			}
+		],
+		"start": 24.94,
+		"end": 26.98
+	},
+	{
+		"words": [
+			{
+				"text": "We ",
+				"start": 0,
+				"end": 0.88,
+				"index": 33
+			},
+			{
+				"text": "all ",
+				"start": 0.88,
+				"end": 1.34,
+				"index": 34
+			},
+			{
+				"text": "know",
+				"start": 1.34,
+				"end": 2.04,
+				"index": 35
+			}
+		],
+		"start": 26.98,
+		"end": 29.02
+	},
+	{
+		"words": [
+			{
+				"text": "And ",
+				"start": 0,
+				"end": 0.52,
+				"index": 36
+			},
+			{
+				"text": "chant ",
+				"start": 0.52,
+				"end": 1.08,
+				"index": 37
+			},
+			{
+				"text": "his ",
+				"start": 1.08,
+				"end": 1.34,
+				"index": 38
+			},
+			{
+				"text": "name",
+				"start": 1.34,
+				"end": 1.88,
+				"index": 39
+			}
+		],
+		"start": 29.02,
+		"end": 30.9
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.5,
+				"index": 40
+			},
+			{
+				"text": "believe ",
+				"start": 0.5,
+				"end": 1.06,
+				"index": 41
+			},
+			{
+				"text": "in ",
+				"start": 1.06,
+				"end": 1.56,
+				"index": 42
+			},
+			{
+				"text": "LeBron",
+				"start": 1.56,
+				"end": 2.26,
+				"index": 43
+			}
+		],
+		"start": 30.9,
+		"end": 33.16
+	},
+	{
+		"words": [
+			{
+				"text": "Lighting ",
+				"start": 0,
+				"end": 2.36,
+				"index": 44
+			},
+			{
+				"text": "up ",
+				"start": 2.36,
+				"end": 2.94,
+				"index": 45
+			},
+			{
+				"text": "the ",
+				"start": 2.94,
+				"end": 3.32,
+				"index": 46
+			},
+			{
+				"text": "game",
+				"start": 3.32,
+				"end": 4.32,
+				"index": 47
+			}
+		],
+		"start": 33.16,
+		"end": 37.48
+	},
+	{
+		"words": [
+			{
+				"text": "His ",
+				"start": 0,
+				"end": 0.64,
+				"index": 48
+			},
+			{
+				"text": "legacy ",
+				"start": 0.64,
+				"end": 1.28,
+				"index": 49
+			},
+			{
+				"text": "and ",
+				"start": 1.28,
+				"end": 1.9,
+				"index": 50
+			},
+			{
+				"text": "spirit",
+				"start": 1.9,
+				"end": 2.9,
+				"index": 51
+			}
+		],
+		"start": 38.44,
+		"end": 41.34
+	},
+	{
+		"words": [
+			{
+				"text": "Forever ",
+				"start": 0,
+				"end": 2.64,
+				"index": 52
+			},
+			{
+				"text": "aflame",
+				"start": 2.64,
+				"end": 4.08,
+				"index": 53
+			}
+		],
+		"start": 41.34,
+		"end": 45.42
+	},
+	{
+		"words": [
+			{
+				"text": "As ",
+				"start": 0,
+				"end": 1.12,
+				"index": 54
+			},
+			{
+				"text": "he ",
+				"start": 1.12,
+				"end": 1.4,
+				"index": 55
+			},
+			{
+				"text": "continues ",
+				"start": 1.4,
+				"end": 2.14,
+				"index": 56
+			},
+			{
+				"text": "to ",
+				"start": 2.14,
+				"end": 2.62,
+				"index": 57
+			},
+			{
+				"text": "defy ",
+				"start": 2.62,
+				"end": 3.24,
+				"index": 58
+			},
+			{
+				"text": "the ",
+				"start": 3.24,
+				"end": 3.7,
+				"index": 59
+			},
+			{
+				"text": "odds",
+				"start": 3.7,
+				"end": 4.3,
+				"index": 60
+			}
+		],
+		"start": 46.76,
+		"end": 51.06
+	},
+	{
+		"words": [
+			{
+				"text": "We ",
+				"start": 0,
+				"end": 0.44,
+				"index": 61
+			},
+			{
+				"text": "stand ",
+				"start": 0.44,
+				"end": 1.04,
+				"index": 62
+			},
+			{
+				"text": "united ",
+				"start": 1.04,
+				"end": 1.92,
+				"index": 63
+			},
+			{
+				"text": "giving ",
+				"start": 1.92,
+				"end": 2.42,
+				"index": 64
+			},
+			{
+				"text": "our ",
+				"start": 2.42,
+				"end": 3.08,
+				"index": 65
+			},
+			{
+				"text": "applause",
+				"start": 3.08,
+				"end": 3.8,
+				"index": 66
+			}
+		],
+		"start": 51.06,
+		"end": 54.86
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.56,
+				"index": 67
+			},
+			{
+				"text": "believe ",
+				"start": 0.56,
+				"end": 1.08,
+				"index": 68
+			},
+			{
+				"text": "in ",
+				"start": 1.08,
+				"end": 1.62,
+				"index": 69
+			},
+			{
+				"text": "LeBron ",
+				"start": 1.62,
+				"end": 2.16,
+				"index": 70
+			},
+			{
+				"text": "I ",
+				"start": 2.16,
+				"end": 4.48,
+				"index": 71
+			},
+			{
+				"text": "believe ",
+				"start": 4.48,
+				"end": 5.04,
+				"index": 72
+			},
+			{
+				"text": "in ",
+				"start": 5.04,
+				"end": 5.54,
+				"index": 73
+			},
+			{
+				"text": "LeBron",
+				"start": 5.54,
+				"end": 6.8,
+				"index": 74
+			}
+		],
+		"start": 54.86,
+		"end": 61.66
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 1.64,
+				"index": 75
+			},
+			{
+				"text": "believe ",
+				"start": 1.64,
+				"end": 2.22,
+				"index": 76
+			},
+			{
+				"text": "in ",
+				"start": 2.22,
+				"end": 2.78,
+				"index": 77
+			},
+			{
+				"text": "LeBron",
+				"start": 2.78,
+				"end": 4.08,
+				"index": 78
+			}
+		],
+		"start": 61.66,
+		"end": 65.74
+	},
+	{
+		"words": [
+			{
+				"text": "Oh, ",
+				"start": 0,
+				"end": 1.4,
+				"index": 79
+			},
+			{
+				"text": "oh, ",
+				"start": 1.4,
+				"end": 2.8,
+				"index": 80
+			},
+			{
+				"text": "oh, ",
+				"start": 6.28,
+				"end": 6.28,
+				"index": 81
+			},
+			{
+				"text": "oh, ",
+				"start": 6.74,
+				"end": 8.2,
+				"index": 82
+			},
+			{
+				"text": "oh, ",
+				"start": 9.36,
+				"end": 10.02,
+				"index": 83
+			},
+			{
+				"text": "oh, ",
+				"start": 10.82,
+				"end": 11.18,
+				"index": 84
+			},
+			{
+				"text": "oh, ",
+				"start": 11.54,
+				"end": 11.54,
+				"index": 85
+			},
+			{
+				"text": "oh, ",
+				"start": 12.32,
+				"end": 12.62,
+				"index": 86
+			},
+			{
+				"text": "oh, ",
+				"start": 12.62,
+				"end": 13.84,
+				"index": 87
+			},
+			{
+				"text": "oh, ",
+				"start": 14.68,
+				"end": 14.68,
+				"index": 88
+			},
+			{
+				"text": "oh, ",
+				"start": 14.94,
+				"end": 15.3,
+				"index": 89
+			},
+			{
+				"text": "oh, ",
+				"start": 15.78,
+				"end": 16,
+				"index": 90
+			},
+			{
+				"text": "oh, ",
+				"start": 18.02,
+				"end": 18.8,
+				"index": 91
+			},
+			{
+				"text": "oh, ",
+				"start": 18.8,
+				"end": 19.8,
+				"index": 92
+			},
+			{
+				"text": "oh, ",
+				"start": 19.8,
+				"end": 20.9,
+				"index": 93
+			},
+			{
+				"text": "oh, ",
+				"start": 20.9,
+				"end": 22.8,
+				"index": 94
+			},
+			{
+				"text": "oh, ",
+				"start": 22.8,
+				"end": 24.16,
+				"index": 95
+			},
+			{
+				"text": "oh, ",
+				"start": 24.16,
+				"end": 24.52,
+				"index": 96
+			},
+			{
+				"text": "oh, ",
+				"start": 24.52,
+				"end": 25.24,
+				"index": 97
+			},
+			{
+				"text": "oh, ",
+				"start": 25.24,
+				"end": 25.98,
+				"index": 98
+			},
+			{
+				"text": "oh,",
+				"start": 26.76,
+				"end": 26.76,
+				"index": 99
+			},
+			{
+				"text": "oh, ",
+				"start": 26.76,
+				"end": 28.46,
+				"index": 100
+			},
+			{
+				"text": "oh, ",
+				"start": 29.44,
+				"end": 31.98,
+				"index": 101
+			},
+			{
+				"text": "oh, ",
+				"start": 33.94,
+				"end": 36.2,
+				"index": 102
+			},
+			{
+				"text": "oh, ",
+				"start": 36.2,
+				"end": 38.62,
+				"index": 103
+			},
+			{
+				"text": "oh, ",
+				"start": 38.62,
+				"end": 39.44,
+				"index": 104
+			},
+			{
+				"text": "oh, ",
+				"start": 39.44,
+				"end": 40.86,
+				"index": 105
+			},
+			{
+				"text": "oh, ",
+				"start": 40.86,
+				"end": 41.48,
+				"index": 106
+			},
+			{
+				"text": "oh, ",
+				"start": 41.48,
+				"end": 42.36,
+				"index": 107
+			},
+			{
+				"text": "oh, oh, ",
+				"start": 42.42,
+				"end": 42.5,
+				"index": 108
+			},
+			{
+				"text": "oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh",
+				"start": 42.66,
+				"end": 42.56,
+				"index": 109
+			}
+		],
+		"start": 92.6,
+		"end": 135.16
+	},
+	{
+		"words": [
+			{
+				"text": "I believe ",
+				"start": 0,
+				"end": 0.54,
+				"index": 110
+			},
+			{
+				"text": "in ",
+				"start": 0.54,
+				"end": 1.18,
+				"index": 111
+			},
+			{
+				"text": "LeBron",
+				"start": 1.18,
+				"end": 2,
+				"index": 112
+			}
+		],
+		"start": 135.26,
+		"end": 137.26
+	},
+	{
+		"words": [
+			{
+				"text": "Reaching ",
+				"start": 0,
+				"end": 2.16,
+				"index": 113
+			},
+			{
+				"text": "for ",
+				"start": 2.16,
+				"end": 2.76,
+				"index": 114
+			},
+			{
+				"text": "the ",
+				"start": 2.76,
+				"end": 3.08,
+				"index": 115
+			},
+			{
+				"text": "sky",
+				"start": 3.08,
+				"end": 4.02,
+				"index": 116
+			}
+		],
+		"start": 137.26,
+		"end": 141.28
+	},
+	{
+		"words": [
+			{
+				"text": "With ",
+				"start": 0,
+				"end": 1.72,
+				"index": 117
+			},
+			{
+				"text": "every ",
+				"start": 1.72,
+				"end": 2.22,
+				"index": 118
+			},
+			{
+				"text": "game ",
+				"start": 2.22,
+				"end": 2.84,
+				"index": 119
+			},
+			{
+				"text": "he ",
+				"start": 2.84,
+				"end": 3.12,
+				"index": 120
+			},
+			{
+				"text": "plays",
+				"start": 3.12,
+				"end": 4.26,
+				"index": 121
+			}
+		],
+		"start": 141.28,
+		"end": 145.54
+	},
+	{
+		"words": [
+			{
+				"text": "He ",
+				"start": 0,
+				"end": 1.88,
+				"index": 122
+			},
+			{
+				"text": "aims ",
+				"start": 1.88,
+				"end": 2.5,
+				"index": 123
+			},
+			{
+				"text": "to ",
+				"start": 2.5,
+				"end": 2.82,
+				"index": 124
+			},
+			{
+				"text": "fly",
+				"start": 2.82,
+				"end": 3.8,
+				"index": 125
+			}
+		],
+		"start": 145.54,
+		"end": 149.34
+	},
+	{
+		"words": [
+			{
+				"text": "From ",
+				"start": 0,
+				"end": 1.1,
+				"index": 126
+			},
+			{
+				"text": "humble ",
+				"start": 1.1,
+				"end": 1.62,
+				"index": 127
+			},
+			{
+				"text": "beginnings",
+				"start": 1.62,
+				"end": 2.52,
+				"index": 128
+			}
+		],
+		"start": 150.48,
+		"end": 153
+	},
+	{
+		"words": [
+			{
+				"text": "To ",
+				"start": 0,
+				"end": 0.54,
+				"index": 129
+			},
+			{
+				"text": "championship ",
+				"start": 0.54,
+				"end": 1.28,
+				"index": 130
+			},
+			{
+				"text": "rings",
+				"start": 1.28,
+				"end": 2.06,
+				"index": 131
+			}
+		],
+		"start": 153,
+		"end": 155.06
+	},
+	{
+		"words": [
+			{
+				"text": "He ",
+				"start": 0,
+				"end": 0.5,
+				"index": 132
+			},
+			{
+				"text": "shows ",
+				"start": 0.5,
+				"end": 1.04,
+				"index": 133
+			},
+			{
+				"text": "us ",
+				"start": 1.04,
+				"end": 1.36,
+				"index": 134
+			},
+			{
+				"text": "all",
+				"start": 1.36,
+				"end": 1.86,
+				"index": 135
+			}
+		],
+		"start": 155.06,
+		"end": 156.92
+	},
+	{
+		"words": [
+			{
+				"text": "What ",
+				"start": 0,
+				"end": 0.28,
+				"index": 136
+			},
+			{
+				"text": "dedication ",
+				"start": 0.28,
+				"end": 0.92,
+				"index": 137
+			},
+			{
+				"text": "brings",
+				"start": 0.92,
+				"end": 1.96,
+				"index": 138
+			}
+		],
+		"start": 156.92,
+		"end": 158.88
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.56,
+				"index": 139
+			},
+			{
+				"text": "believe ",
+				"start": 0.56,
+				"end": 1.1,
+				"index": 140
+			},
+			{
+				"text": "in ",
+				"start": 1.1,
+				"end": 1.62,
+				"index": 141
+			},
+			{
+				"text": "LeBron",
+				"start": 1.62,
+				"end": 2.04,
+				"index": 142
+			}
+		],
+		"start": 158.88,
+		"end": 160.92
+	}
+]

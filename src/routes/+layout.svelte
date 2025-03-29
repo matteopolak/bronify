@@ -2,7 +2,7 @@
 	import '../app.css';
 
 	import bronify from '$lib/images/bronify.png?enhanced';
-	import { player, global, settings } from '$lib/player.svelte';
+	import { player, global, settings, stringFromStorage } from '$lib/player.svelte';
 	import Controls from '$lib/components/controls.svelte';
 	import Lyrics from '$lib/components/lyrics.svelte';
 	import { DYNAMIC_HEIGHT_CLASS } from '$lib/constants';
@@ -11,7 +11,7 @@
 	import { onMount, type Snippet } from 'svelte';
 	import { Heart, Home, Menu } from '@lucide/svelte';
 	import { shortcut, type ShortcutEventDetail } from '@svelte-put/shortcut';
-	import { beforeNavigate } from '$app/navigation';
+	import { beforeNavigate, replaceState } from '$app/navigation';
 
 	let { children }: { children: Snippet } = $props();
 	let audioElement: HTMLAudioElement = $state()!;
@@ -37,6 +37,36 @@
 	}
 
 	onMount(() => {
+		settings.lyrics = stringFromStorage('lyrics', 'on');
+		settings.loop = stringFromStorage('loop', 'none');
+		settings.shuffle = stringFromStorage('shuffle', 'off');
+	});
+
+	$effect(() => {
+		localStorage.setItem('lyrics', settings.lyrics);
+		localStorage.setItem('loop', settings.loop);
+		localStorage.setItem('shuffle', settings.shuffle);
+	});
+
+	let lastTrackId = player.track.id;
+
+	onMount(() => {
+		// use existing track
+		const searchParams = new URLSearchParams(window.location.search);
+
+		if (searchParams.has('track')) {
+			const trackId = searchParams.get('track');
+
+			if (trackId) {
+				const track = player.queue.find((s) => s.id === trackId);
+
+				if (track) {
+					player.track = track;
+					lastTrackId = track.id;
+				}
+			}
+		}
+
 		player.init(audioElement);
 
 		player.audio.onended = () => {
@@ -49,6 +79,13 @@
 		};
 	});
 
+	$effect(() => {
+		if (lastTrackId === player.track.id) return;
+		lastTrackId = player.track.id;
+
+		replaceState(`?track=${player.track.id}`, {});
+	});
+
 	let comingSoonModal: HTMLDialogElement = $state()!;
 
 	function handleK(detail: ShortcutEventDetail) {
@@ -57,17 +94,17 @@
 	}
 
 	let searchInput: HTMLInputElement = $state()!;
-	let lyricsWasEnabled = $state(false);
+	let savedLyricsState: 'on' | 'off' = $state('off');
 	let lastSearch = $state('');
 
 	$effect(() => {
 		if (global.search === lastSearch) return;
 
 		if (!global.search && lastSearch) {
-			settings.lyrics = lyricsWasEnabled;
+			settings.lyrics = savedLyricsState;
 		} else if (global.search && !lastSearch) {
-			lyricsWasEnabled = settings.lyrics;
-			settings.lyrics = false;
+			savedLyricsState = settings.lyrics;
+			settings.lyrics = 'off';
 		}
 
 		lastSearch = global.search;
@@ -89,12 +126,14 @@
 
 	let lyricsBackgroundColor = $derived(pastelColorFromString(player.track.id));
 
-	beforeNavigate(() => {
+	beforeNavigate(({ type }) => {
+		if (type === 'leave') return;
+
 		if (comingSoonModal.open) {
 			comingSoonModal.close();
 		}
 
-		settings.lyrics = false;
+		settings.lyrics = 'off';
 	});
 </script>
 
@@ -124,7 +163,7 @@
 	}}
 />
 
-<audio bind:this={audioElement} hidden />
+<audio bind:this={audioElement} hidden></audio>
 
 <div class="h-screen">
 	<dialog bind:this={comingSoonModal} id="coming-soon-modal" class="modal">
@@ -226,9 +265,9 @@
 	</div>
 
 	<Sidebar id="sidebar">
-		{#if player.lyrics && settings.lyrics}
+		{#if player.lyrics && settings.lyrics === 'on'}
 			<div
-				class="flex w-full overflow-y-auto rounded-lg py-8 {DYNAMIC_HEIGHT_CLASS}"
+				class="flex w-full overflow-y-auto rounded-lg py-8 {DYNAMIC_HEIGHT_CLASS} md:place-content-center"
 				style="background-color: {lyricsBackgroundColor}"
 			>
 				<Lyrics

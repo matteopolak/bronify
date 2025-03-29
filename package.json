@@ -19,6 +19,7 @@
 		"missing-lyrics": "node --experimental-strip-types scripts/missing_lyrics.ts",
 		"add-audio": "node --experimental-strip-types scripts/add_audio.ts",
 		"add-lyrics": "node --experimental-strip-types scripts/add_lyrics.ts",
+		"fix-lyrics": "node --experimental-strip-types scripts/segment_lyrics.ts",
 		"stats": "node --experimental-strip-types scripts/stats.ts",
 		"add-album-art": "node --experimental-strip-types scripts/add_album_art.ts",
 		"pre-build": "node --experimental-strip-types scripts/pre_build.ts"

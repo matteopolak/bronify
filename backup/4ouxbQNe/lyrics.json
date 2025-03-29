@@ -1,0 +1,620 @@
+[
+	{
+		"words": [
+			{
+				"text": "So ",
+				"start": 1.3800000000000003,
+				"end": 2.06,
+				"index": 0
+			},
+			{
+				"text": "she ",
+				"start": 2.06,
+				"end": 2.3,
+				"index": 1
+			},
+			{
+				"text": "said ",
+				"start": 2.3,
+				"end": 2.76,
+				"index": 2
+			},
+			{
+				"text": "that ",
+				"start": 2.76,
+				"end": 3.04,
+				"index": 3
+			},
+			{
+				"text": "it's ",
+				"start": 3.04,
+				"end": 3.3,
+				"index": 4
+			},
+			{
+				"text": "glazing ",
+				"start": 3.3,
+				"end": 3.94,
+				"index": 5
+			},
+			{
+				"text": "baby ",
+				"start": 3.94,
+				"end": 4.68,
+				"index": 6
+			}
+		],
+		"start": 1.3800000000000003,
+		"end": 4.68
+	},
+	{
+		"words": [
+			{
+				"text": "It's ",
+				"start": 4.68,
+				"end": 5.68,
+				"index": 7
+			},
+			{
+				"text": "not ",
+				"start": 5.68,
+				"end": 5.82,
+				"index": 8
+			},
+			{
+				"text": "glazing ",
+				"start": 5.82,
+				"end": 6.2,
+				"index": 9
+			},
+			{
+				"text": "if ",
+				"start": 6.2,
+				"end": 6.5,
+				"index": 10
+			},
+			{
+				"text": "I ",
+				"start": 6.5,
+				"end": 6.7,
+				"index": 11
+			},
+			{
+				"text": "know ",
+				"start": 6.7,
+				"end": 7.06,
+				"index": 12
+			},
+			{
+				"text": "that ",
+				"start": 7.06,
+				"end": 7.6,
+				"index": 13
+			},
+			{
+				"text": "it's ",
+				"start": 7.6,
+				"end": 7.88,
+				"index": 14
+			},
+			{
+				"text": "about ",
+				"start": 7.88,
+				"end": 8.24,
+				"index": 15
+			},
+			{
+				"text": "LeBron",
+				"start": 8.24,
+				"end": 8.72,
+				"index": 16
+			}
+		],
+		"start": 4.68,
+		"end": 8.72
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 8.72,
+				"end": 9.26,
+				"index": 17
+			},
+			{
+				"text": "think ",
+				"start": 9.26,
+				"end": 9.56,
+				"index": 18
+			},
+			{
+				"text": "about ",
+				"start": 9.56,
+				"end": 9.98,
+				"index": 19
+			},
+			{
+				"text": "him ",
+				"start": 9.98,
+				"end": 10.28,
+				"index": 20
+			},
+			{
+				"text": "every ",
+				"start": 10.28,
+				"end": 10.54,
+				"index": 21
+			},
+			{
+				"text": "time ",
+				"start": 10.54,
+				"end": 10.88,
+				"index": 22
+			},
+			{
+				"text": "I ",
+				"start": 10.88,
+				"end": 11.06,
+				"index": 23
+			},
+			{
+				"text": "think ",
+				"start": 11.06,
+				"end": 11.34,
+				"index": 24
+			},
+			{
+				"text": "about ",
+				"start": 11.34,
+				"end": 11.7,
+				"index": 25
+			},
+			{
+				"text": "him ",
+				"start": 11.7,
+				"end": 11.88,
+				"index": 26
+			}
+		],
+		"start": 8.72,
+		"end": 11.88
+	},
+	{
+		"words": [
+			{
+				"text": "Can't ",
+				"start": 11.88,
+				"end": 12.38,
+				"index": 27
+			},
+			{
+				"text": "stop ",
+				"start": 12.38,
+				"end": 12.7,
+				"index": 28
+			},
+			{
+				"text": "thinking ",
+				"start": 12.7,
+				"end": 13.16,
+				"index": 29
+			},
+			{
+				"text": "about ",
+				"start": 13.16,
+				"end": 13.5,
+				"index": 30
+			},
+			{
+				"text": "him",
+				"start": 13.5,
+				"end": 13.84,
+				"index": 31
+			}
+		],
+		"start": 11.88,
+		"end": 13.84
+	},
+	{
+		"words": [
+			{
+				"text": "How ",
+				"start": 13.84,
+				"end": 14.28,
+				"index": 32
+			},
+			{
+				"text": "much ",
+				"start": 14.28,
+				"end": 14.52,
+				"index": 33
+			},
+			{
+				"text": "longer ",
+				"start": 14.52,
+				"end": 14.86,
+				"index": 34
+			},
+			{
+				"text": "will ",
+				"start": 14.86,
+				"end": 15.18,
+				"index": 35
+			},
+			{
+				"text": "it ",
+				"start": 15.18,
+				"end": 15.42,
+				"index": 36
+			},
+			{
+				"text": "take ",
+				"start": 15.42,
+				"end": 15.74,
+				"index": 37
+			},
+			{
+				"text": "for ",
+				"start": 15.74,
+				"end": 16.36,
+				"index": 38
+			},
+			{
+				"text": "LA ",
+				"start": 16.36,
+				"end": 16.98,
+				"index": 39
+			}
+		],
+		"start": 13.84,
+		"end": 16.98
+	},
+	{
+		"words": [
+			{
+				"text": "To ",
+				"start": 16.98,
+				"end": 17.58,
+				"index": 40
+			},
+			{
+				"text": "give ",
+				"start": 17.58,
+				"end": 17.88,
+				"index": 41
+			},
+			{
+				"text": "him ",
+				"start": 17.88,
+				"end": 18.12,
+				"index": 42
+			},
+			{
+				"text": "up ",
+				"start": 18.12,
+				"end": 18.52,
+				"index": 43
+			},
+			{
+				"text": "and ",
+				"start": 18.52,
+				"end": 18.74,
+				"index": 44
+			},
+			{
+				"text": "to ",
+				"start": 18.74,
+				"end": 18.98,
+				"index": 45
+			},
+			{
+				"text": "let ",
+				"start": 18.98,
+				"end": 19.2,
+				"index": 46
+			},
+			{
+				"text": "him ",
+				"start": 19.2,
+				"end": 19.76,
+				"index": 47
+			},
+			{
+				"text": "decide ",
+				"start": 19.76,
+				"end": 20.18,
+				"index": 48
+			},
+			{
+				"text": "where ",
+				"start": 20.18,
+				"end": 20.44,
+				"index": 49
+			},
+			{
+				"text": "to ",
+				"start": 20.44,
+				"end": 20.66,
+				"index": 50
+			},
+			{
+				"text": "play",
+				"start": 20.66,
+				"end": 21.04,
+				"index": 51
+			}
+		],
+		"start": 16.98,
+		"end": 21.04
+	},
+	{
+		"words": [
+			{
+				"text": "Cause ",
+				"start": 21.04,
+				"end": 21.52,
+				"index": 52
+			},
+			{
+				"text": "I ",
+				"start": 21.52,
+				"end": 21.72,
+				"index": 53
+			},
+			{
+				"text": "just ",
+				"start": 21.72,
+				"end": 21.9,
+				"index": 54
+			},
+			{
+				"text": "know ",
+				"start": 21.9,
+				"end": 22.16,
+				"index": 55
+			},
+			{
+				"text": "how ",
+				"start": 22.16,
+				"end": 22.4,
+				"index": 56
+			},
+			{
+				"text": "many ",
+				"start": 22.4,
+				"end": 22.78,
+				"index": 57
+			},
+			{
+				"text": "people ",
+				"start": 22.78,
+				"end": 23.14,
+				"index": 58
+			},
+			{
+				"text": "wanna ",
+				"start": 23.14,
+				"end": 23.54,
+				"index": 59
+			},
+			{
+				"text": "say ",
+				"start": 23.54,
+				"end": 23.88,
+				"index": 60
+			}
+		],
+		"start": 21.04,
+		"end": 23.88
+	},
+	{
+		"words": [
+			{
+				"text": "That ",
+				"start": 23.88,
+				"end": 24.08,
+				"index": 61
+			},
+			{
+				"text": "they've ",
+				"start": 24.08,
+				"end": 24.58,
+				"index": 62
+			},
+			{
+				"text": "seen ",
+				"start": 24.58,
+				"end": 24.88,
+				"index": 63
+			},
+			{
+				"text": "LeBron ",
+				"start": 24.88,
+				"end": 25.32,
+				"index": 64
+			},
+			{
+				"text": "make ",
+				"start": 25.32,
+				"end": 25.64,
+				"index": 65
+			},
+			{
+				"text": "their ",
+				"start": 25.64,
+				"end": 26.04,
+				"index": 66
+			},
+			{
+				"text": "day",
+				"start": 26.04,
+				"end": 26.74,
+				"index": 67
+			}
+		],
+		"start": 23.88,
+		"end": 26.74
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron, ",
+				"start": 26.74,
+				"end": 27.96,
+				"index": 68
+			},
+			{
+				"text": "LeBron ",
+				"start": 28.34,
+				"end": 28.82,
+				"index": 69
+			}
+		],
+		"start": 26.74,
+		"end": 28.82
+	},
+	{
+		"words": [
+			{
+				"text": "Jump ",
+				"start": 28.82,
+				"end": 29.5,
+				"index": 70
+			},
+			{
+				"text": "a ",
+				"start": 29.5,
+				"end": 29.84,
+				"index": 71
+			},
+			{
+				"text": "little ",
+				"start": 29.84,
+				"end": 30.1,
+				"index": 72
+			},
+			{
+				"text": "higher",
+				"start": 30.1,
+				"end": 30.88,
+				"index": 73
+			}
+		],
+		"start": 28.82,
+		"end": 30.88
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron, ",
+				"start": 30.88,
+				"end": 31.52,
+				"index": 74
+			},
+			{
+				"text": "LeBron ",
+				"start": 31.88,
+				"end": 32.34,
+				"index": 75
+			}
+		],
+		"start": 30.88,
+		"end": 32.34
+	},
+	{
+		"words": [
+			{
+				"text": "Oh, ",
+				"start": 32.34,
+				"end": 32.66,
+				"index": 76
+			}
+		],
+		"start": 32.34,
+		"end": 32.66
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 33.06,
+				"end": 33.44,
+				"index": 77
+			},
+			{
+				"text": "desire",
+				"start": 33.44,
+				"end": 34.02,
+				"index": 78
+			}
+		],
+		"start": 33.06,
+		"end": 34.02
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron, ",
+				"start": 34.02,
+				"end": 34.96,
+				"index": 79
+			},
+			{
+				"text": "LeBron ",
+				"start": 35.32,
+				"end": 35.76,
+				"index": 80
+			}
+		],
+		"start": 34.02,
+		"end": 35.76
+	},
+	{
+		"words": [
+			{
+				"text": "Give ",
+				"start": 35.76,
+				"end": 36.48,
+				"index": 81
+			},
+			{
+				"text": "the ",
+				"start": 36.48,
+				"end": 36.8,
+				"index": 82
+			},
+			{
+				"text": "world ",
+				"start": 36.8,
+				"end": 36.96,
+				"index": 83
+			},
+			{
+				"text": "a ",
+				"start": 36.96,
+				"end": 37.22,
+				"index": 84
+			},
+			{
+				"text": "chance ",
+				"start": 37.22,
+				"end": 37.52,
+				"index": 85
+			},
+			{
+				"text": "to ",
+				"start": 37.52,
+				"end": 38.18,
+				"index": 86
+			},
+			{
+				"text": "bow",
+				"start": 38.18,
+				"end": 39.7,
+				"index": 87
+			}
+		],
+		"start": 35.76,
+		"end": 39.7
+	}
+]

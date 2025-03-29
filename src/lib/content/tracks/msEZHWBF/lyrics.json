@@ -1,0 +1,62 @@
+[
+	{
+		"words": [
+			{
+				"text": "You sit ",
+				"start": 0,
+				"end": 0.14,
+				"index": 0
+			},
+			{
+				"text": "there, ",
+				"start": 0.14,
+				"end": 0.76,
+				"index": 1
+			},
+			{
+				"text": "brewing you ",
+				"start": 0.8,
+				"end": 1.52,
+				"index": 2
+			},
+			{
+				"text": "immigration ",
+				"start": 1.52,
+				"end": 2.02,
+				"index": 3
+			},
+			{
+				"text": "toilet ",
+				"start": 2.02,
+				"end": 2.54,
+				"index": 4
+			},
+			{
+				"text": "sizable",
+				"start": 2.54,
+				"end": 3.6,
+				"index": 5
+			},
+			{
+				"text": "pundits ",
+				"start": 7.38,
+				"end": 8.06,
+				"index": 6
+			},
+			{
+				"text": "again ",
+				"start": 8.06,
+				"end": 8.46,
+				"index": 7
+			},
+			{
+				"text": "pyrocynical",
+				"start": 8.46,
+				"end": 10.72,
+				"index": 8
+			}
+		],
+		"start": 60,
+		"end": 70.72
+	}
+]

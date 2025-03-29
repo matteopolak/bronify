@@ -1,0 +1,518 @@
+[
+	{
+		"words": [
+			{
+				"text": "Bron ",
+				"start": 0,
+				"end": 0.94,
+				"index": 0
+			},
+			{
+				"text": "Bron ",
+				"start": 0.94,
+				"end": 1.34,
+				"index": 1
+			},
+			{
+				"text": "Bron ",
+				"start": 1.34,
+				"end": 2.58,
+				"index": 2
+			},
+			{
+				"text": "Bron Bron",
+				"start": 2.58,
+				"end": 3.06,
+				"index": 3
+			}
+		],
+		"start": 0,
+		"end": 3.06
+	},
+	{
+		"words": [
+			{
+				"text": "I'm watching you tonight, Jordan fans are gonna start a fight ",
+				"start": 14.37,
+				"end": 20,
+				"index": 4
+			}
+		],
+		"start": 14.37,
+		"end": 20
+	},
+	{
+		"words": [
+			{
+				"text": "But they know that we're right, hey LeBron you're the GOAT ",
+				"start": 20,
+				"end": 25.82,
+				"index": 5
+			}
+		],
+		"start": 20,
+		"end": 25.82
+	},
+	{
+		"words": [
+			{
+				"text": "You dominated endlessly, keep hating on him and you'll see",
+				"start": 25,
+				"end": 29.82,
+				"index": 6
+			}
+		],
+		"start": 25,
+		"end": 29.82
+	},
+	{
+		"words": [
+			{
+				"text": "We ",
+				"start": 29.98,
+				"end": 30.32,
+				"index": 7
+			},
+			{
+				"text": "get ",
+				"start": 30.32,
+				"end": 30.9,
+				"index": 8
+			},
+			{
+				"text": "another ",
+				"start": 30.9,
+				"end": 31.54,
+				"index": 9
+			},
+			{
+				"text": "ring ",
+				"start": 31.54,
+				"end": 32,
+				"index": 10
+			},
+			{
+				"text": "and ",
+				"start": 32,
+				"end": 32.38,
+				"index": 11
+			},
+			{
+				"text": "just ",
+				"start": 32.38,
+				"end": 32.68,
+				"index": 12
+			},
+			{
+				"text": "shut ",
+				"start": 32.68,
+				"end": 33.24,
+				"index": 13
+			},
+			{
+				"text": "them ",
+				"start": 33.24,
+				"end": 33.88,
+				"index": 14
+			},
+			{
+				"text": "up ",
+				"start": 33.88,
+				"end": 34.68,
+				"index": 15
+			},
+			{
+				"text": "for ",
+				"start": 34.68,
+				"end": 34.96,
+				"index": 16
+			},
+			{
+				"text": "good",
+				"start": 34.96,
+				"end": 35.8,
+				"index": 17
+			}
+		],
+		"start": 29.98,
+		"end": 35.8
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 35.8,
+				"end": 36.58,
+				"index": 18
+			},
+			{
+				"text": "know ",
+				"start": 36.58,
+				"end": 37.12,
+				"index": 19
+			},
+			{
+				"text": "that ",
+				"start": 37.12,
+				"end": 37.58,
+				"index": 20
+			},
+			{
+				"text": "they ",
+				"start": 37.58,
+				"end": 37.86,
+				"index": 21
+			},
+			{
+				"text": "can't ",
+				"start": 37.86,
+				"end": 38.34,
+				"index": 22
+			},
+			{
+				"text": "take ",
+				"start": 38.34,
+				"end": 38.6,
+				"index": 23
+			},
+			{
+				"text": "no ",
+				"start": 38.6,
+				"end": 38.94,
+				"index": 24
+			},
+			{
+				"text": "more, ",
+				"start": 38.94,
+				"end": 39.36,
+				"index": 25
+			},
+			{
+				"text": "it ",
+				"start": 39.58,
+				"end": 39.74,
+				"index": 26
+			},
+			{
+				"text": "ain't ",
+				"start": 39.74,
+				"end": 40.02,
+				"index": 27
+			},
+			{
+				"text": "no ",
+				"start": 40.02,
+				"end": 40.3,
+				"index": 28
+			},
+			{
+				"text": "lie",
+				"start": 40.3,
+				"end": 41,
+				"index": 29
+			}
+		],
+		"start": 35.8,
+		"end": 41
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 41.74,
+				"end": 42.1,
+				"index": 30
+			},
+			{
+				"text": "wanna ",
+				"start": 42.1,
+				"end": 42.86,
+				"index": 31
+			},
+			{
+				"text": "sing ",
+				"start": 42.86,
+				"end": 43.54,
+				"index": 32
+			},
+			{
+				"text": "it ",
+				"start": 43.54,
+				"end": 43.78,
+				"index": 33
+			},
+			{
+				"text": "glaze ",
+				"start": 43.78,
+				"end": 44.14,
+				"index": 34
+			},
+			{
+				"text": "some ",
+				"start": 44.14,
+				"end": 44.52,
+				"index": 35
+			},
+			{
+				"text": "more, ",
+				"start": 44.52,
+				"end": 44.86,
+				"index": 36
+			},
+			{
+				"text": "baby ",
+				"start": 44.9,
+				"end": 45.16,
+				"index": 37
+			},
+			{
+				"text": "Bron ",
+				"start": 45.16,
+				"end": 45.5,
+				"index": 38
+			},
+			{
+				"text": "Bron ",
+				"start": 45.5,
+				"end": 45.94,
+				"index": 39
+			},
+			{
+				"text": "Bron ",
+				"start": 45.94,
+				"end": 46.58,
+				"index": 40
+			},
+			{
+				"text": "Bron ",
+				"start": 46.58,
+				"end": 46.86,
+				"index": 41
+			},
+			{
+				"text": "Bron",
+				"start": 46.86,
+				"end": 46.92,
+				"index": 42
+			}
+		],
+		"start": 41.74,
+		"end": 46.92
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 46.92,
+				"end": 47.02,
+				"index": 43
+			},
+			{
+				"text": "don't ",
+				"start": 47.02,
+				"end": 47.34,
+				"index": 44
+			},
+			{
+				"text": "really ",
+				"start": 47.34,
+				"end": 47.62,
+				"index": 45
+			},
+			{
+				"text": "wanna ",
+				"start": 47.62,
+				"end": 47.88,
+				"index": 46
+			},
+			{
+				"text": "make ",
+				"start": 47.88,
+				"end": 48.28,
+				"index": 47
+			},
+			{
+				"text": "it ",
+				"start": 48.28,
+				"end": 48.52,
+				"index": 48
+			},
+			{
+				"text": "tough, ",
+				"start": 48.52,
+				"end": 48.72,
+				"index": 49
+			},
+			{
+				"text": "I ",
+				"start": 48.98,
+				"end": 49.5,
+				"index": 50
+			},
+			{
+				"text": "just ",
+				"start": 49.5,
+				"end": 49.72,
+				"index": 51
+			},
+			{
+				"text": "wanna ",
+				"start": 49.72,
+				"end": 50,
+				"index": 52
+			},
+			{
+				"text": "tell ",
+				"start": 50,
+				"end": 50.26,
+				"index": 53
+			},
+			{
+				"text": "you ",
+				"start": 50.26,
+				"end": 50.44,
+				"index": 54
+			},
+			{
+				"text": "that ",
+				"start": 50.44,
+				"end": 50.6,
+				"index": 55
+			},
+			{
+				"text": "you're ",
+				"start": 50.6,
+				"end": 50.82,
+				"index": 56
+			},
+			{
+				"text": "more ",
+				"start": 50.82,
+				"end": 50.96,
+				"index": 57
+			},
+			{
+				"text": "than ",
+				"start": 50.96,
+				"end": 51.16,
+				"index": 58
+			},
+			{
+				"text": "enough",
+				"start": 51.16,
+				"end": 51.66,
+				"index": 59
+			}
+		],
+		"start": 46.92,
+		"end": 51.66
+	},
+	{
+		"words": [
+			{
+				"text": "They ",
+				"start": 52.459999999999994,
+				"end": 52.8,
+				"index": 60
+			},
+			{
+				"text": "call ",
+				"start": 52.8,
+				"end": 53.18,
+				"index": 61
+			},
+			{
+				"text": "it ",
+				"start": 53.18,
+				"end": 53.52,
+				"index": 62
+			},
+			{
+				"text": "glazin' ",
+				"start": 53.52,
+				"end": 54.08,
+				"index": 63
+			},
+			{
+				"text": "but ",
+				"start": 54.08,
+				"end": 54.5,
+				"index": 64
+			},
+			{
+				"text": "the ",
+				"start": 54.5,
+				"end": 54.88,
+				"index": 65
+			},
+			{
+				"text": "king ",
+				"start": 54.88,
+				"end": 55.26,
+				"index": 66
+			},
+			{
+				"text": "is ",
+				"start": 55.26,
+				"end": 55.66,
+				"index": 67
+			},
+			{
+				"text": "on, ",
+				"start": 55.66,
+				"end": 55.94,
+				"index": 68
+			},
+			{
+				"text": "baby ",
+				"start": 56.08,
+				"end": 56.22,
+				"index": 69
+			},
+			{
+				"text": "Bron ",
+				"start": 56.22,
+				"end": 56.66,
+				"index": 70
+			},
+			{
+				"text": "Bron ",
+				"start": 56.66,
+				"end": 57,
+				"index": 71
+			},
+			{
+				"text": "Bron ",
+				"start": 57,
+				"end": 57.54,
+				"index": 72
+			},
+			{
+				"text": "Bron ",
+				"start": 57.54,
+				"end": 58.06,
+				"index": 73
+			},
+			{
+				"text": "Bron ",
+				"start": 58.06,
+				"end": 58.18,
+				"index": 74
+			},
+			{
+				"text": "Bron ",
+				"start": 58.18,
+				"end": 58.36,
+				"index": 75
+			},
+			{
+				"text": "Bron Bron Bron",
+				"start": 58.36,
+				"end": 58.72,
+				"index": 76
+			}
+		],
+		"start": 52.459999999999994,
+		"end": 58.72
+	}
+]

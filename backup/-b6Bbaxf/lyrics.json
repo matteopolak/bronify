@@ -1,0 +1,608 @@
+[
+	{
+		"words": [
+			{
+				"text": "Showing ",
+				"start": 5.5000000000000036,
+				"end": 6.080000000000002,
+				"index": 0
+			},
+			{
+				"text": "off, ",
+				"start": 6.080000000000002,
+				"end": 6.66,
+				"index": 1
+			},
+			{
+				"text": "these ",
+				"start": 6.88,
+				"end": 8.3,
+				"index": 2
+			},
+			{
+				"text": "games ",
+				"start": 8.3,
+				"end": 8.62,
+				"index": 3
+			},
+			{
+				"text": "you're ",
+				"start": 8.62,
+				"end": 8.78,
+				"index": 4
+			},
+			{
+				"text": "always ",
+				"start": 8.78,
+				"end": 9.16,
+				"index": 5
+			},
+			{
+				"text": "showing ",
+				"start": 9.16,
+				"end": 9.54,
+				"index": 6
+			},
+			{
+				"text": "off",
+				"start": 9.54,
+				"end": 10.62,
+				"index": 7
+			}
+		],
+		"start": 5.5000000000000036,
+		"end": 10.62
+	},
+	{
+		"words": [
+			{
+				"text": "Ay, ",
+				"start": 10.62,
+				"end": 11.4,
+				"index": 8
+			},
+			{
+				"text": "ay, ",
+				"start": 11.62,
+				"end": 11.84,
+				"index": 9
+			},
+			{
+				"text": "ay, ",
+				"start": 12.02,
+				"end": 12.42,
+				"index": 10
+			},
+			{
+				"text": "what ",
+				"start": 12.42,
+				"end": 12.78,
+				"index": 11
+			},
+			{
+				"text": "you ",
+				"start": 12.78,
+				"end": 13,
+				"index": 12
+			},
+			{
+				"text": "got?",
+				"start": 13,
+				"end": 13.48,
+				"index": 13
+			}
+		],
+		"start": 10.62,
+		"end": 13.48
+	},
+	{
+		"words": [
+			{
+				"text": "A ",
+				"start": 15.06,
+				"end": 15.22,
+				"index": 14
+			},
+			{
+				"text": "billion ",
+				"start": 15.22,
+				"end": 15.46,
+				"index": 15
+			},
+			{
+				"text": "points ",
+				"start": 15.46,
+				"end": 15.8,
+				"index": 16
+			},
+			{
+				"text": "is ",
+				"start": 15.8,
+				"end": 16.02,
+				"index": 17
+			},
+			{
+				"text": "what ",
+				"start": 16.02,
+				"end": 16.22,
+				"index": 18
+			},
+			{
+				"text": "you ",
+				"start": 16.22,
+				"end": 16.44,
+				"index": 19
+			},
+			{
+				"text": "drop",
+				"start": 16.44,
+				"end": 16.8,
+				"index": 20
+			}
+		],
+		"start": 15.06,
+		"end": 16.8
+	},
+	{
+		"words": [
+			{
+				"text": "Ay, ",
+				"start": 17.66,
+				"end": 18.24,
+				"index": 21
+			},
+			{
+				"text": "ay, ",
+				"start": 18.46,
+				"end": 18.68,
+				"index": 22
+			},
+			{
+				"text": "ay, ",
+				"start": 18.94,
+				"end": 19.3,
+				"index": 23
+			},
+			{
+				"text": "he's ",
+				"start": 19.68,
+				"end": 19.94,
+				"index": 24
+			},
+			{
+				"text": "gonna ",
+				"start": 19.94,
+				"end": 20.08,
+				"index": 25
+			},
+			{
+				"text": "be ",
+				"start": 20.08,
+				"end": 20.28,
+				"index": 26
+			},
+			{
+				"text": "ballin' ",
+				"start": 20.28,
+				"end": 20.7,
+				"index": 27
+			},
+			{
+				"text": "till ",
+				"start": 20.78,
+				"end": 20.88,
+				"index": 28
+			},
+			{
+				"text": "like ",
+				"start": 20.88,
+				"end": 21.16,
+				"index": 29
+			},
+			{
+				"text": "thirty",
+				"start": 21.16,
+				"end": 21.72,
+				"index": 30
+			},
+			{
+				"text": "-twelve, ",
+				"start": 21.72,
+				"end": 22.34,
+				"index": 31
+			},
+			{
+				"text": "that's ",
+				"start": 22.34,
+				"end": 22.68,
+				"index": 32
+			},
+			{
+				"text": "right",
+				"start": 22.68,
+				"end": 22.92,
+				"index": 33
+			}
+		],
+		"start": 17.66,
+		"end": 22.92
+	},
+	{
+		"words": [
+			{
+				"text": "Bron ",
+				"start": 22.92,
+				"end": 23.28,
+				"index": 34
+			},
+			{
+				"text": "always ",
+				"start": 23.28,
+				"end": 23.66,
+				"index": 35
+			},
+			{
+				"text": "shows ",
+				"start": 23.66,
+				"end": 23.94,
+				"index": 36
+			},
+			{
+				"text": "us ",
+				"start": 23.94,
+				"end": 24.14,
+				"index": 37
+			},
+			{
+				"text": "all ",
+				"start": 24.14,
+				"end": 24.36,
+				"index": 38
+			},
+			{
+				"text": "the ",
+				"start": 24.36,
+				"end": 24.6,
+				"index": 39
+			},
+			{
+				"text": "finer ",
+				"start": 24.6,
+				"end": 25.1,
+				"index": 40
+			},
+			{
+				"text": "things ",
+				"start": 25.1,
+				"end": 25.86,
+				"index": 41
+			},
+			{
+				"text": "in ",
+				"start": 25.86,
+				"end": 26.12,
+				"index": 42
+			},
+			{
+				"text": "life",
+				"start": 26.12,
+				"end": 26.34,
+				"index": 43
+			}
+		],
+		"start": 22.92,
+		"end": 26.34
+	},
+	{
+		"words": [
+			{
+				"text": "He ",
+				"start": 26.34,
+				"end": 26.66,
+				"index": 44
+			},
+			{
+				"text": "can ",
+				"start": 26.66,
+				"end": 26.96,
+				"index": 45
+			},
+			{
+				"text": "forget ",
+				"start": 26.96,
+				"end": 27.24,
+				"index": 46
+			},
+			{
+				"text": "about ",
+				"start": 27.24,
+				"end": 27.78,
+				"index": 47
+			},
+			{
+				"text": "his ",
+				"start": 27.78,
+				"end": 28.08,
+				"index": 48
+			},
+			{
+				"text": "age, ",
+				"start": 28.08,
+				"end": 28.3,
+				"index": 49
+			},
+			{
+				"text": "he's ",
+				"start": 28.48,
+				"end": 28.9,
+				"index": 50
+			},
+			{
+				"text": "young ",
+				"start": 28.9,
+				"end": 29.16,
+				"index": 51
+			},
+			{
+				"text": "tonight",
+				"start": 29.16,
+				"end": 29.74,
+				"index": 52
+			}
+		],
+		"start": 26.34,
+		"end": 29.74
+	},
+	{
+		"words": [
+			{
+				"text": "We're ",
+				"start": 29.74,
+				"end": 30.16,
+				"index": 53
+			},
+			{
+				"text": "following ",
+				"start": 30.16,
+				"end": 30.6,
+				"index": 54
+			},
+			{
+				"text": "ya, ",
+				"start": 30.6,
+				"end": 31.02,
+				"index": 55
+			},
+			{
+				"text": "we're ",
+				"start": 31.1,
+				"end": 31.34,
+				"index": 56
+			},
+			{
+				"text": "following ",
+				"start": 31.34,
+				"end": 31.74,
+				"index": 57
+			},
+			{
+				"text": "ya",
+				"start": 31.74,
+				"end": 32.44,
+				"index": 58
+			}
+		],
+		"start": 29.74,
+		"end": 32.44
+	},
+	{
+		"words": [
+			{
+				"text": "Cause ",
+				"start": 32.44,
+				"end": 32.92,
+				"index": 59
+			},
+			{
+				"text": "all ",
+				"start": 32.92,
+				"end": 34.28,
+				"index": 60
+			},
+			{
+				"text": "I ",
+				"start": 34.28,
+				"end": 36.2,
+				"index": 61
+			},
+			{
+				"text": "need ",
+				"start": 36.2,
+				"end": 36.84,
+				"index": 62
+			},
+			{
+				"text": "is ",
+				"start": 36.84,
+				"end": 37.76,
+				"index": 63
+			},
+			{
+				"text": "LeBronny ",
+				"start": 37.76,
+				"end": 38.94,
+				"index": 64
+			},
+			{
+				"text": "in ",
+				"start": 38.94,
+				"end": 39.32,
+				"index": 65
+			},
+			{
+				"text": "the ",
+				"start": 39.32,
+				"end": 39.74,
+				"index": 66
+			},
+			{
+				"text": "league",
+				"start": 39.74,
+				"end": 40.4,
+				"index": 67
+			}
+		],
+		"start": 32.44,
+		"end": 40.4
+	},
+	{
+		"words": [
+			{
+				"text": "That ",
+				"start": 40.4,
+				"end": 41.18,
+				"index": 68
+			},
+			{
+				"text": "would ",
+				"start": 41.18,
+				"end": 41.36,
+				"index": 69
+			},
+			{
+				"text": "make ",
+				"start": 41.36,
+				"end": 41.8,
+				"index": 70
+			},
+			{
+				"text": "my ",
+				"start": 41.8,
+				"end": 42.24,
+				"index": 71
+			},
+			{
+				"text": "life ",
+				"start": 42.24,
+				"end": 42.62,
+				"index": 72
+			},
+			{
+				"text": "complete",
+				"start": 42.62,
+				"end": 43.88,
+				"index": 73
+			}
+		],
+		"start": 40.4,
+		"end": 43.88
+	},
+	{
+		"words": [
+			{
+				"text": "It's ",
+				"start": 45.580000000000005,
+				"end": 46.56,
+				"index": 74
+			},
+			{
+				"text": "all ",
+				"start": 46.56,
+				"end": 47.26,
+				"index": 75
+			},
+			{
+				"text": "about ",
+				"start": 47.26,
+				"end": 49.58,
+				"index": 76
+			},
+			{
+				"text": "you, ",
+				"start": 49.58,
+				"end": 50.48,
+				"index": 77
+			},
+			{
+				"text": "how ",
+				"start": 51.24,
+				"end": 51.36,
+				"index": 78
+			},
+			{
+				"text": "you ",
+				"start": 51.36,
+				"end": 51.62,
+				"index": 79
+			},
+			{
+				"text": "dribble, ",
+				"start": 51.62,
+				"end": 52.34,
+				"index": 80
+			},
+			{
+				"text": "how ",
+				"start": 52.54,
+				"end": 52.8,
+				"index": 81
+			},
+			{
+				"text": "you ",
+				"start": 52.8,
+				"end": 53.3,
+				"index": 82
+			},
+			{
+				"text": "move",
+				"start": 53.3,
+				"end": 54,
+				"index": 83
+			}
+		],
+		"start": 45.580000000000005,
+		"end": 54
+	},
+	{
+		"words": [
+			{
+				"text": "Bronny ",
+				"start": 54,
+				"end": 55,
+				"index": 84
+			},
+			{
+				"text": "do ",
+				"start": 55,
+				"end": 55.4,
+				"index": 85
+			},
+			{
+				"text": "it ",
+				"start": 55.4,
+				"end": 55.94,
+				"index": 86
+			},
+			{
+				"text": "like ",
+				"start": 55.94,
+				"end": 56.32,
+				"index": 87
+			},
+			{
+				"text": "you ",
+				"start": 56.32,
+				"end": 56.7,
+				"index": 88
+			},
+			{
+				"text": "do",
+				"start": 56.7,
+				"end": 57.4,
+				"index": 89
+			}
+		],
+		"start": 54,
+		"end": 57.4
+	}
+]

@@ -1,0 +1,746 @@
+[
+	{
+		"words": [
+			{
+				"text": "If ",
+				"start": 3.1800000000000006,
+				"end": 3.74,
+				"index": 0
+			},
+			{
+				"text": "you ",
+				"start": 3.74,
+				"end": 3.94,
+				"index": 1
+			},
+			{
+				"text": "wanna ",
+				"start": 3.94,
+				"end": 4.2,
+				"index": 2
+			},
+			{
+				"text": "know ",
+				"start": 4.2,
+				"end": 4.48,
+				"index": 3
+			},
+			{
+				"text": "the ",
+				"start": 4.48,
+				"end": 4.78,
+				"index": 4
+			},
+			{
+				"text": "definition ",
+				"start": 4.78,
+				"end": 5.06,
+				"index": 5
+			},
+			{
+				"text": "of ",
+				"start": 5.06,
+				"end": 5.54,
+				"index": 6
+			},
+			{
+				"text": "a ",
+				"start": 5.54,
+				"end": 5.72,
+				"index": 7
+			},
+			{
+				"text": "real ",
+				"start": 5.72,
+				"end": 5.96,
+				"index": 8
+			},
+			{
+				"text": "band, ",
+				"start": 5.96,
+				"end": 6.44,
+				"index": 9
+			},
+			{
+				"text": "I ",
+				"start": 6.56,
+				"end": 6.68,
+				"index": 10
+			},
+			{
+				"text": "know ",
+				"start": 6.68,
+				"end": 6.9,
+				"index": 11
+			},
+			{
+				"text": "the ",
+				"start": 6.9,
+				"end": 7.1,
+				"index": 12
+			},
+			{
+				"text": "perfect ",
+				"start": 7.1,
+				"end": 7.36,
+				"index": 13
+			},
+			{
+				"text": "guy, ",
+				"start": 7.36,
+				"end": 7.88,
+				"index": 14
+			},
+			{
+				"text": "ball ",
+				"start": 8.08,
+				"end": 8.36,
+				"index": 15
+			},
+			{
+				"text": "to ",
+				"start": 8.36,
+				"end": 8.82,
+				"index": 16
+			},
+			{
+				"text": "each",
+				"start": 8.82,
+				"end": 9.22,
+				"index": 17
+			},
+			{
+				"text": "eye, ",
+				"start": 9.22,
+				"end": 9.76,
+				"index": 18
+			},
+			{
+				"text": "seen ",
+				"start": 10.26,
+				"end": 10.52,
+				"index": 19
+			},
+			{
+				"text": "him ",
+				"start": 10.52,
+				"end": 10.84,
+				"index": 20
+			},
+			{
+				"text": "core ",
+				"start": 10.84,
+				"end": 11.14,
+				"index": 21
+			},
+			{
+				"text": "side, ",
+				"start": 11.14,
+				"end": 11.8,
+				"index": 22
+			},
+			{
+				"text": "always ",
+				"start": 12.28,
+				"end": 12.6,
+				"index": 23
+			},
+			{
+				"text": "told ",
+				"start": 12.6,
+				"end": 12.78,
+				"index": 24
+			},
+			{
+				"text": "the ",
+				"start": 12.78,
+				"end": 13,
+				"index": 25
+			},
+			{
+				"text": "raw ",
+				"start": 13,
+				"end": 13.24,
+				"index": 26
+			},
+			{
+				"text": "floor's ",
+				"start": 13.24,
+				"end": 13.76,
+				"index": 27
+			},
+			{
+				"text": "team, ",
+				"start": 13.76,
+				"end": 14.16,
+				"index": 28
+			},
+			{
+				"text": "protect ",
+				"start": 14.38,
+				"end": 14.86,
+				"index": 29
+			},
+			{
+				"text": "them ",
+				"start": 14.86,
+				"end": 15.32,
+				"index": 30
+			},
+			{
+				"text": "by ",
+				"start": 15.32,
+				"end": 15.72,
+				"index": 31
+			},
+			{
+				"text": "all ",
+				"start": 15.72,
+				"end": 16.1,
+				"index": 32
+			},
+			{
+				"text": "means,",
+				"start": 16.1,
+				"end": 16.12,
+				"index": 33
+			},
+			{
+				"text": "and ",
+				"start": 16.14,
+				"end": 16.48,
+				"index": 34
+			},
+			{
+				"text": "now ",
+				"start": 16.48,
+				"end": 16.86,
+				"index": 35
+			},
+			{
+				"text": "Luca ",
+				"start": 16.86,
+				"end": 17.4,
+				"index": 36
+			},
+			{
+				"text": "is ",
+				"start": 17.4,
+				"end": 17.84,
+				"index": 37
+			},
+			{
+				"text": "on ",
+				"start": 17.84,
+				"end": 18.22,
+				"index": 38
+			},
+			{
+				"text": "his ",
+				"start": 18.22,
+				"end": 18.52,
+				"index": 39
+			},
+			{
+				"text": "team, ",
+				"start": 18.52,
+				"end": 19.24,
+				"index": 40
+			},
+			{
+				"text": "baby, ",
+				"start": 19.68,
+				"end": 20.08,
+				"index": 41
+			},
+			{
+				"text": "them ",
+				"start": 20.52,
+				"end": 20.66,
+				"index": 42
+			},
+			{
+				"text": "other ",
+				"start": 20.66,
+				"end": 20.86,
+				"index": 43
+			},
+			{
+				"text": "teams ",
+				"start": 20.86,
+				"end": 21.22,
+				"index": 44
+			},
+			{
+				"text": "are ",
+				"start": 21.22,
+				"end": 21.62,
+				"index": 45
+			},
+			{
+				"text": "suffering, ",
+				"start": 21.62,
+				"end": 22.3,
+				"index": 46
+			},
+			{
+				"text": "he ",
+				"start": 22.74,
+				"end": 22.96,
+				"index": 47
+			},
+			{
+				"text": "get ",
+				"start": 22.96,
+				"end": 23.14,
+				"index": 48
+			},
+			{
+				"text": "to ",
+				"start": 23.14,
+				"end": 23.36,
+				"index": 49
+			},
+			{
+				"text": "league ",
+				"start": 23.36,
+				"end": 23.68,
+				"index": 50
+			},
+			{
+				"text": "everything",
+				"start": 23.68,
+				"end": 24.14,
+				"index": 51
+			},
+			{
+				"text": "he ",
+				"start": 24.14,
+				"end": 24.4,
+				"index": 52
+			},
+			{
+				"text": "had, ",
+				"start": 24.4,
+				"end": 24.52,
+				"index": 53
+			},
+			{
+				"text": "you ",
+				"start": 24.56,
+				"end": 24.72,
+				"index": 54
+			},
+			{
+				"text": "say ",
+				"start": 24.72,
+				"end": 24.94,
+				"index": 55
+			},
+			{
+				"text": "I ",
+				"start": 24.94,
+				"end": 25.08,
+				"index": 56
+			},
+			{
+				"text": "don't ",
+				"start": 25.08,
+				"end": 25.24,
+				"index": 57
+			},
+			{
+				"text": "know ",
+				"start": 25.24,
+				"end": 25.46,
+				"index": 58
+			},
+			{
+				"text": "how ",
+				"start": 25.46,
+				"end": 25.64,
+				"index": 59
+			},
+			{
+				"text": "to ",
+				"start": 25.64,
+				"end": 25.8,
+				"index": 60
+			},
+			{
+				"text": "ball ",
+				"start": 25.8,
+				"end": 25.98,
+				"index": 61
+			},
+			{
+				"text": "with ",
+				"start": 25.98,
+				"end": 26.16,
+				"index": 62
+			},
+			{
+				"text": "you, ",
+				"start": 26.16,
+				"end": 26.5,
+				"index": 63
+			},
+			{
+				"text": "well ",
+				"start": 26.68,
+				"end": 26.82,
+				"index": 64
+			},
+			{
+				"text": "I ",
+				"start": 26.82,
+				"end": 27.12,
+				"index": 65
+			},
+			{
+				"text": "say ",
+				"start": 27.12,
+				"end": 27.46,
+				"index": 66
+			},
+			{
+				"text": "show ",
+				"start": 27.46,
+				"end": 27.82,
+				"index": 67
+			},
+			{
+				"text": "me ",
+				"start": 27.82,
+				"end": 28.08,
+				"index": 68
+			},
+			{
+				"text": "the ",
+				"start": 28.08,
+				"end": 28.32,
+				"index": 69
+			},
+			{
+				"text": "way, ",
+				"start": 28.32,
+				"end": 28.64,
+				"index": 70
+			},
+			{
+				"text": "I ",
+				"start": 28.88,
+				"end": 29.08,
+				"index": 71
+			},
+			{
+				"text": "just ",
+				"start": 29.08,
+				"end": 29.26,
+				"index": 72
+			},
+			{
+				"text": "wanna",
+				"start": 29.26,
+				"end": 29.56,
+				"index": 73
+			},
+			{
+				"text": "be ",
+				"start": 29.56,
+				"end": 29.78,
+				"index": 74
+			},
+			{
+				"text": "in ",
+				"start": 29.78,
+				"end": 30,
+				"index": 75
+			},
+			{
+				"text": "my ",
+				"start": 30,
+				"end": 30.26,
+				"index": 76
+			},
+			{
+				"text": "bag, ",
+				"start": 30.26,
+				"end": 30.9,
+				"index": 77
+			},
+			{
+				"text": "show ",
+				"start": 31.06,
+				"end": 31.28,
+				"index": 78
+			},
+			{
+				"text": "everything ",
+				"start": 31.28,
+				"end": 31.76,
+				"index": 79
+			},
+			{
+				"text": "that ",
+				"start": 31.76,
+				"end": 32.06,
+				"index": 80
+			},
+			{
+				"text": "I ",
+				"start": 32.06,
+				"end": 32.36,
+				"index": 81
+			},
+			{
+				"text": "have, ",
+				"start": 32.36,
+				"end": 32.9,
+				"index": 82
+			},
+			{
+				"text": "I'm ",
+				"start": 33.16,
+				"end": 33.42,
+				"index": 83
+			},
+			{
+				"text": "trying ",
+				"start": 33.42,
+				"end": 33.9,
+				"index": 84
+			},
+			{
+				"text": "but ",
+				"start": 33.9,
+				"end": 34.36,
+				"index": 85
+			},
+			{
+				"text": "it's ",
+				"start": 34.36,
+				"end": 34.6,
+				"index": 86
+			},
+			{
+				"text": "really ",
+				"start": 34.6,
+				"end": 35.02,
+				"index": 87
+			},
+			{
+				"text": "broken, ",
+				"start": 35.02,
+				"end": 35.58,
+				"index": 88
+			},
+			{
+				"text": "you fuck",
+				"start": 36.18,
+				"end": 36.52,
+				"index": 89
+			},
+			{
+				"text": "with ",
+				"start": 36.52,
+				"end": 36.92,
+				"index": 90
+			},
+			{
+				"text": "me, ",
+				"start": 36.92,
+				"end": 37.96,
+				"index": 91
+			},
+			{
+				"text": "show me ",
+				"start": 38.44,
+				"end": 38.96,
+				"index": 92
+			},
+			{
+				"text": "the ",
+				"start": 38.96,
+				"end": 39.26,
+				"index": 93
+			},
+			{
+				"text": "way ",
+				"start": 39.26,
+				"end": 39.66,
+				"index": 94
+			},
+			{
+				"text": "that ",
+				"start": 39.66,
+				"end": 40.06,
+				"index": 95
+			},
+			{
+				"text": "you ",
+				"start": 40.06,
+				"end": 40.4,
+				"index": 96
+			},
+			{
+				"text": "move, ",
+				"start": 40.4,
+				"end": 40.84,
+				"index": 97
+			},
+			{
+				"text": "I'm that ",
+				"start": 41.06,
+				"end": 41.46,
+				"index": 98
+			},
+			{
+				"text": "boy, ",
+				"start": 41.46,
+				"end": 42.12,
+				"index": 99
+			},
+			{
+				"text": "girl ",
+				"start": 42.8,
+				"end": 42.8,
+				"index": 100
+			},
+			{
+				"text": "I'm ",
+				"start": 42.8,
+				"end": 43.18,
+				"index": 101
+			},
+			{
+				"text": "so ",
+				"start": 43.18,
+				"end": 43.44,
+				"index": 102
+			},
+			{
+				"text": "lost, ",
+				"start": 43.44,
+				"end": 44.12,
+				"index": 103
+			},
+			{
+				"text": "teach ",
+				"start": 44.42,
+				"end": 44.5,
+				"index": 104
+			},
+			{
+				"text": "me ",
+				"start": 44.5,
+				"end": 44.92,
+				"index": 105
+			},
+			{
+				"text": "how ",
+				"start": 44.92,
+				"end": 45.3,
+				"index": 106
+			},
+			{
+				"text": "to",
+				"start": 45.3,
+				"end": 45.56,
+				"index": 107
+			},
+			{
+				"text": "ball, ",
+				"start": 45.56,
+				"end": 46.1,
+				"index": 108
+			},
+			{
+				"text": "show ",
+				"start": 46.64,
+				"end": 46.94,
+				"index": 109
+			},
+			{
+				"text": "me ",
+				"start": 46.94,
+				"end": 47.26,
+				"index": 110
+			},
+			{
+				"text": "the ",
+				"start": 47.26,
+				"end": 47.7,
+				"index": 111
+			},
+			{
+				"text": "way ",
+				"start": 47.7,
+				"end": 47.96,
+				"index": 112
+			},
+			{
+				"text": "that ",
+				"start": 47.96,
+				"end": 48.4,
+				"index": 113
+			},
+			{
+				"text": "you ",
+				"start": 48.4,
+				"end": 48.7,
+				"index": 114
+			},
+			{
+				"text": "buy ",
+				"start": 48.7,
+				"end": 49.02,
+				"index": 115
+			},
+			{
+				"text": "those ",
+				"start": 49.02,
+				"end": 49.42,
+				"index": 116
+			},
+			{
+				"text": "handles, ",
+				"start": 49.42,
+				"end": 50.06,
+				"index": 117
+			},
+			{
+				"text": "teach ",
+				"start": 50.96,
+				"end": 51.38,
+				"index": 118
+			},
+			{
+				"text": "me ",
+				"start": 51.38,
+				"end": 52.74,
+				"index": 119
+			},
+			{
+				"text": "how ",
+				"start": 52.74,
+				"end": 53.56,
+				"index": 120
+			},
+			{
+				"text": "to ",
+				"start": 53.56,
+				"end": 53.9,
+				"index": 121
+			},
+			{
+				"text": "ball",
+				"start": 53.9,
+				"end": 54.74,
+				"index": 122
+			}
+		],
+		"start": 3.1800000000000006,
+		"end": 54.74
+	}
+]

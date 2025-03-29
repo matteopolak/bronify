@@ -1,0 +1,434 @@
+[
+	{
+		"words": [
+			{
+				"text": "No ",
+				"start": 4.740000000000003,
+				"end": 5.1400000000000015,
+				"index": 0
+			},
+			{
+				"text": "LeBron's ",
+				"start": 5.1400000000000015,
+				"end": 5.54,
+				"index": 1
+			},
+			{
+				"text": "the ",
+				"start": 5.54,
+				"end": 5.68,
+				"index": 2
+			},
+			{
+				"text": "king, ",
+				"start": 5.68,
+				"end": 6.18,
+				"index": 3
+			},
+			{
+				"text": "you ",
+				"start": 6.32,
+				"end": 6.38,
+				"index": 4
+			},
+			{
+				"text": "bet ",
+				"start": 6.38,
+				"end": 6.52,
+				"index": 5
+			},
+			{
+				"text": "he'll ",
+				"start": 6.52,
+				"end": 6.86,
+				"index": 6
+			},
+			{
+				"text": "cash ",
+				"start": 6.86,
+				"end": 7.06,
+				"index": 7
+			},
+			{
+				"text": "against ",
+				"start": 7.06,
+				"end": 7.34,
+				"index": 8
+			},
+			{
+				"text": "a ",
+				"start": 7.34,
+				"end": 7.52,
+				"index": 9
+			},
+			{
+				"text": "girl ",
+				"start": 7.52,
+				"end": 7.62,
+				"index": 10
+			},
+			{
+				"text": "with ",
+				"start": 7.62,
+				"end": 7.84,
+				"index": 11
+			},
+			{
+				"text": "four ",
+				"start": 7.84,
+				"end": 8.02,
+				"index": 12
+			},
+			{
+				"text": "rings, ",
+				"start": 8.02,
+				"end": 8.64,
+				"index": 13
+			},
+			{
+				"text": "yeah",
+				"start": 8.66,
+				"end": 9.14,
+				"index": 14
+			}
+		],
+		"start": 4.740000000000003,
+		"end": 9.14
+	},
+	{
+		"words": [
+			{
+				"text": "Mama ",
+				"start": 9.14,
+				"end": 9.46,
+				"index": 15
+			},
+			{
+				"text": "asked ",
+				"start": 9.46,
+				"end": 9.68,
+				"index": 16
+			},
+			{
+				"text": "me ",
+				"start": 9.68,
+				"end": 9.88,
+				"index": 17
+			},
+			{
+				"text": "what ",
+				"start": 9.88,
+				"end": 10,
+				"index": 18
+			},
+			{
+				"text": "he ",
+				"start": 10,
+				"end": 10.12,
+				"index": 19
+			},
+			{
+				"text": "gon' ",
+				"start": 10.12,
+				"end": 10.36,
+				"index": 20
+			},
+			{
+				"text": "bring, ",
+				"start": 10.38,
+				"end": 10.78,
+				"index": 21
+			},
+			{
+				"text": "y",
+				"start": 10.92,
+				"end": 10.96,
+				"index": 22
+			},
+			{
+				"text": "'all ",
+				"start": 10.96,
+				"end": 10.98,
+				"index": 23
+			},
+			{
+				"text": "told ",
+				"start": 10.98,
+				"end": 11.18,
+				"index": 24
+			},
+			{
+				"text": "her ",
+				"start": 11.18,
+				"end": 11.32,
+				"index": 25
+			},
+			{
+				"text": "that ",
+				"start": 11.32,
+				"end": 11.46,
+				"index": 26
+			},
+			{
+				"text": "he ",
+				"start": 11.46,
+				"end": 11.6,
+				"index": 27
+			},
+			{
+				"text": "finna ",
+				"start": 11.6,
+				"end": 11.86,
+				"index": 28
+			},
+			{
+				"text": "bring ",
+				"start": 11.86,
+				"end": 12.08,
+				"index": 29
+			},
+			{
+				"text": "Bronny ",
+				"start": 12.08,
+				"end": 12.48,
+				"index": 30
+			},
+			{
+				"text": "to ",
+				"start": 12.48,
+				"end": 12.66,
+				"index": 31
+			},
+			{
+				"text": "the ",
+				"start": 12.66,
+				"end": 12.86,
+				"index": 32
+			},
+			{
+				"text": "team, ",
+				"start": 12.86,
+				"end": 13.3,
+				"index": 33
+			},
+			{
+				"text": "yeah",
+				"start": 13.3,
+				"end": 13.78,
+				"index": 34
+			}
+		],
+		"start": 9.14,
+		"end": 13.78
+	},
+	{
+		"words": [
+			{
+				"text": "My ",
+				"start": 13.78,
+				"end": 14.2,
+				"index": 35
+			},
+			{
+				"text": "life ",
+				"start": 14.2,
+				"end": 14.54,
+				"index": 36
+			},
+			{
+				"text": "changed ",
+				"start": 14.54,
+				"end": 14.76,
+				"index": 37
+			},
+			{
+				"text": "so ",
+				"start": 14.76,
+				"end": 15.08,
+				"index": 38
+			},
+			{
+				"text": "fast, ",
+				"start": 15.08,
+				"end": 15.62,
+				"index": 39
+			},
+			{
+				"text": "that I ",
+				"start": 15.8,
+				"end": 15.92,
+				"index": 40
+			},
+			{
+				"text": "don't ",
+				"start": 15.92,
+				"end": 16,
+				"index": 41
+			},
+			{
+				"text": "even ",
+				"start": 16,
+				"end": 16.28,
+				"index": 42
+			},
+			{
+				"text": "recognize ",
+				"start": 16.28,
+				"end": 16.68,
+				"index": 43
+			},
+			{
+				"text": "the ",
+				"start": 16.68,
+				"end": 16.92,
+				"index": 44
+			},
+			{
+				"text": "girl ",
+				"start": 16.92,
+				"end": 17.12,
+				"index": 45
+			},
+			{
+				"text": "from ",
+				"start": 17.12,
+				"end": 17.42,
+				"index": 46
+			},
+			{
+				"text": "last ",
+				"start": 17.42,
+				"end": 17.98,
+				"index": 47
+			},
+			{
+				"text": "year",
+				"start": 17.98,
+				"end": 18.34,
+				"index": 48
+			}
+		],
+		"start": 13.78,
+		"end": 18.34
+	},
+	{
+		"words": [
+			{
+				"text": "He ",
+				"start": 18.34,
+				"end": 18.52,
+				"index": 49
+			},
+			{
+				"text": "was ",
+				"start": 18.52,
+				"end": 18.66,
+				"index": 50
+			},
+			{
+				"text": "killin' ",
+				"start": 18.66,
+				"end": 19,
+				"index": 51
+			},
+			{
+				"text": "when ",
+				"start": 19.06,
+				"end": 19.12,
+				"index": 52
+			},
+			{
+				"text": "he ",
+				"start": 19.12,
+				"end": 19.24,
+				"index": 53
+			},
+			{
+				"text": "put ",
+				"start": 19.24,
+				"end": 19.42,
+				"index": 54
+			},
+			{
+				"text": "on ",
+				"start": 19.42,
+				"end": 19.6,
+				"index": 55
+			},
+			{
+				"text": "that ",
+				"start": 19.6,
+				"end": 19.84,
+				"index": 56
+			},
+			{
+				"text": "mask, ",
+				"start": 19.84,
+				"end": 20.16,
+				"index": 57
+			},
+			{
+				"text": "he's ",
+				"start": 20.32,
+				"end": 20.48,
+				"index": 58
+			},
+			{
+				"text": "only ",
+				"start": 20.48,
+				"end": 20.66,
+				"index": 59
+			},
+			{
+				"text": "pushin' ",
+				"start": 20.66,
+				"end": 21,
+				"index": 60
+			},
+			{
+				"text": "40 ",
+				"start": 21.2,
+				"end": 21.28,
+				"index": 61
+			},
+			{
+				"text": "hits, ",
+				"start": 21.28,
+				"end": 21.5,
+				"index": 62
+			},
+			{
+				"text": "ain't ",
+				"start": 21.5,
+				"end": 21.7,
+				"index": 63
+			},
+			{
+				"text": "never ",
+				"start": 21.7,
+				"end": 21.88,
+				"index": 64
+			},
+			{
+				"text": "endin' ",
+				"start": 21.88,
+				"end": 22.18,
+				"index": 65
+			},
+			{
+				"text": "his ",
+				"start": 22.18,
+				"end": 22.6,
+				"index": 66
+			},
+			{
+				"text": "career",
+				"start": 22.6,
+				"end": 23.08,
+				"index": 67
+			}
+		],
+		"start": 18.34,
+		"end": 23.08
+	}
+]

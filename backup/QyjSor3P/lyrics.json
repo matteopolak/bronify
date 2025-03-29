@@ -1,0 +1,374 @@
+[
+	{
+		"words": [
+			{
+				"text": "LeBron ",
+				"start": 1.7399999999999989,
+				"end": 2.4799999999999995,
+				"index": 0
+			},
+			{
+				"text": "James, ",
+				"start": 2.4799999999999995,
+				"end": 3.22,
+				"index": 1
+			},
+			{
+				"text": "you ",
+				"start": 3.26,
+				"end": 3.56,
+				"index": 2
+			},
+			{
+				"text": "are ",
+				"start": 3.56,
+				"end": 3.86,
+				"index": 3
+			},
+			{
+				"text": "so ",
+				"start": 3.86,
+				"end": 4.26,
+				"index": 4
+			},
+			{
+				"text": "unforgettable",
+				"start": 4.26,
+				"end": 5.24,
+				"index": 5
+			}
+		],
+		"start": 1.7399999999999989,
+		"end": 5.24
+	},
+	{
+		"words": [
+			{
+				"text": "I've ",
+				"start": 5.82,
+				"end": 6.24,
+				"index": 6
+			},
+			{
+				"text": "crashed ",
+				"start": 6.24,
+				"end": 6.54,
+				"index": 7
+			},
+			{
+				"text": "beers ",
+				"start": 6.54,
+				"end": 7.02,
+				"index": 8
+			},
+			{
+				"text": "in ",
+				"start": 7.02,
+				"end": 7.36,
+				"index": 9
+			},
+			{
+				"text": "three, ",
+				"start": 7.36,
+				"end": 7.64,
+				"index": 10
+			},
+			{
+				"text": "throw ",
+				"start": 7.94,
+				"end": 8.02,
+				"index": 11
+			},
+			{
+				"text": "sunlight",
+				"start": 8.02,
+				"end": 8.78,
+				"index": 12
+			}
+		],
+		"start": 5.82,
+		"end": 8.78
+	},
+	{
+		"words": [
+			{
+				"text": "Laker's ",
+				"start": 9.88,
+				"end": 10.62,
+				"index": 13
+			},
+			{
+				"text": "breath ",
+				"start": 10.62,
+				"end": 10.8,
+				"index": 14
+			},
+			{
+				"text": "is ",
+				"start": 10.8,
+				"end": 11.28,
+				"index": 15
+			},
+			{
+				"text": "sand, ",
+				"start": 11.28,
+				"end": 11.54,
+				"index": 16
+			},
+			{
+				"text": "now ",
+				"start": 11.78,
+				"end": 11.88,
+				"index": 17
+			},
+			{
+				"text": "put ",
+				"start": 11.88,
+				"end": 12.12,
+				"index": 18
+			},
+			{
+				"text": "your ",
+				"start": 12.12,
+				"end": 12.4,
+				"index": 19
+			},
+			{
+				"text": "hands ",
+				"start": 12.4,
+				"end": 12.86,
+				"index": 20
+			},
+			{
+				"text": "on",
+				"start": 12.86,
+				"end": 13.44,
+				"index": 21
+			}
+		],
+		"start": 9.88,
+		"end": 13.44
+	},
+	{
+		"words": [
+			{
+				"text": "Oh, ",
+				"start": 25.3,
+				"end": 25.34,
+				"index": 22
+			},
+			{
+				"text": "oh, oh, ",
+				"start": 25.36,
+				"end": 25.76,
+				"index": 23
+			},
+			{
+				"text": "oh, ",
+				"start": 25.76,
+				"end": 27.38,
+				"index": 24
+			},
+			{
+				"text": "oh, ",
+				"start": 28.88,
+				"end": 28.88,
+				"index": 25
+			},
+			{
+				"text": "oh, ",
+				"start": 29.04,
+				"end": 29.2,
+				"index": 26
+			},
+			{
+				"text": "oh, ",
+				"start": 29.2,
+				"end": 29.46,
+				"index": 27
+			},
+			{
+				"text": "oh, ",
+				"start": 29.46,
+				"end": 29.52,
+				"index": 28
+			},
+			{
+				"text": "oh, ",
+				"start": 29.52,
+				"end": 30.12,
+				"index": 29
+			},
+			{
+				"text": "oh, ",
+				"start": 30.14,
+				"end": 30.2,
+				"index": 30
+			},
+			{
+				"text": "oh, ",
+				"start": 30.44,
+				"end": 30.44,
+				"index": 31
+			},
+			{
+				"text": "oh, ",
+				"start": 31.16,
+				"end": 31.16,
+				"index": 32
+			},
+			{
+				"text": "oh, ",
+				"start": 31.98,
+				"end": 31.98,
+				"index": 33
+			},
+			{
+				"text": "oh, oh, oh, oh, ",
+				"start": 32.22,
+				"end": 32.22,
+				"index": 34
+			},
+			{
+				"text": "oh, ",
+				"start": 32.24,
+				"end": 32.26,
+				"index": 35
+			},
+			{
+				"text": "oh, ",
+				"start": 32.28,
+				"end": 32.3,
+				"index": 36
+			},
+			{
+				"text": "oh, ",
+				"start": 32.32,
+				"end": 32.34,
+				"index": 37
+			},
+			{
+				"text": "oh, ",
+				"start": 32.36,
+				"end": 32.38,
+				"index": 38
+			},
+			{
+				"text": "oh, ",
+				"start": 32.4,
+				"end": 32.42,
+				"index": 39
+			},
+			{
+				"text": "oh, ",
+				"start": 32.44,
+				"end": 32.46,
+				"index": 40
+			},
+			{
+				"text": "oh, ",
+				"start": 32.48,
+				"end": 32.5,
+				"index": 41
+			},
+			{
+				"text": "oh, ",
+				"start": 32.52,
+				"end": 32.54,
+				"index": 42
+			},
+			{
+				"text": "oh, ",
+				"start": 32.56,
+				"end": 32.58,
+				"index": 43
+			},
+			{
+				"text": "oh, ",
+				"start": 32.6,
+				"end": 32.62,
+				"index": 44
+			},
+			{
+				"text": "oh, ",
+				"start": 32.64,
+				"end": 32.66,
+				"index": 45
+			},
+			{
+				"text": "oh, ",
+				"start": 32.68,
+				"end": 32.7,
+				"index": 46
+			},
+			{
+				"text": "oh, ",
+				"start": 32.72,
+				"end": 32.74,
+				"index": 47
+			},
+			{
+				"text": "oh, ",
+				"start": 32.76,
+				"end": 32.78,
+				"index": 48
+			},
+			{
+				"text": "oh, ",
+				"start": 32.8,
+				"end": 32.82,
+				"index": 49
+			},
+			{
+				"text": "oh, ",
+				"start": 32.84,
+				"end": 32.86,
+				"index": 50
+			},
+			{
+				"text": "oh, ",
+				"start": 32.88,
+				"end": 32.9,
+				"index": 51
+			},
+			{
+				"text": "oh, ",
+				"start": 32.92,
+				"end": 32.94,
+				"index": 52
+			},
+			{
+				"text": "oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, ",
+				"start": 32.96,
+				"end": 32.98,
+				"index": 53
+			},
+			{
+				"text": "oh",
+				"start": 33.04,
+				"end": 33.9,
+				"index": 54
+			}
+		],
+		"start": 25.3,
+		"end": 33.9
+	},
+	{
+		"words": [
+			{
+				"text": "Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh",
+				"start": 33.9,
+				"end": 34.08,
+				"index": 55
+			},
+			{
+				"text": "you",
+				"start": 34.06,
+				"end": 34.08,
+				"index": 56
+			}
+		],
+		"start": 33.9,
+		"end": 34.08
+	}
+]

@@ -1,0 +1,524 @@
+[
+	{
+		"words": [
+			{
+				"text": "From ",
+				"start": 4.6,
+				"end": 5.76,
+				"index": 0
+			},
+			{
+				"text": "Akron, ",
+				"start": 5.76,
+				"end": 6.64,
+				"index": 1
+			}
+		],
+		"start": 4.6,
+		"end": 6.64
+	},
+	{
+		"words": [
+			{
+				"text": "Ohio, ",
+				"start": 8.16,
+				"end": 8.16,
+				"index": 2
+			},
+			{
+				"text": "your ",
+				"start": 8.74,
+				"end": 9.22,
+				"index": 3
+			},
+			{
+				"text": "number ",
+				"start": 9.22,
+				"end": 9.82,
+				"index": 4
+			},
+			{
+				"text": "one ",
+				"start": 9.82,
+				"end": 10.38,
+				"index": 5
+			},
+			{
+				"text": "victim ",
+				"start": 10.38,
+				"end": 10.92,
+				"index": 6
+			},
+			{
+				"text": "does ",
+				"start": 10.92,
+				"end": 11.44,
+				"index": 7
+			},
+			{
+				"text": "that ",
+				"start": 11.44,
+				"end": 11.9,
+				"index": 8
+			},
+			{
+				"text": "0",
+				"start": 11.9,
+				"end": 12.78,
+				"index": 9
+			},
+			{
+				"text": "-3 ",
+				"start": 12.78,
+				"end": 13.26,
+				"index": 10
+			},
+			{
+				"text": "draft",
+				"start": 13.26,
+				"end": 14.18,
+				"index": 11
+			}
+		],
+		"start": 8.16,
+		"end": 14.18
+	},
+	{
+		"words": [
+			{
+				"text": "He ",
+				"start": 14.88,
+				"end": 15.04,
+				"index": 12
+			},
+			{
+				"text": "won ",
+				"start": 15.04,
+				"end": 15.42,
+				"index": 13
+			},
+			{
+				"text": "three ",
+				"start": 15.42,
+				"end": 15.74,
+				"index": 14
+			},
+			{
+				"text": "state ",
+				"start": 15.74,
+				"end": 16.2,
+				"index": 15
+			},
+			{
+				"text": "championships",
+				"start": 16.2,
+				"end": 17.24,
+				"index": 16
+			}
+		],
+		"start": 14.88,
+		"end": 17.24
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron's ",
+				"start": 17.8,
+				"end": 18.58,
+				"index": 17
+			},
+			{
+				"text": "hairline ",
+				"start": 18.58,
+				"end": 19.94,
+				"index": 18
+			},
+			{
+				"text": "doesn't ",
+				"start": 19.94,
+				"end": 20.82,
+				"index": 19
+			},
+			{
+				"text": "match ",
+				"start": 20.82,
+				"end": 21.38,
+				"index": 20
+			},
+			{
+				"text": "his ",
+				"start": 21.38,
+				"end": 21.94,
+				"index": 21
+			},
+			{
+				"text": "game",
+				"start": 21.94,
+				"end": 22.88,
+				"index": 22
+			}
+		],
+		"start": 17.8,
+		"end": 22.88
+	},
+	{
+		"words": [
+			{
+				"text": "Watching ",
+				"start": 22.88,
+				"end": 24.12,
+				"index": 23
+			},
+			{
+				"text": "him ",
+				"start": 24.12,
+				"end": 24.78,
+				"index": 24
+			},
+			{
+				"text": "makes ",
+				"start": 24.78,
+				"end": 25.38,
+				"index": 25
+			},
+			{
+				"text": "me ",
+				"start": 25.38,
+				"end": 25.7,
+				"index": 26
+			},
+			{
+				"text": "feel ",
+				"start": 25.7,
+				"end": 26.36,
+				"index": 27
+			},
+			{
+				"text": "some ",
+				"start": 26.36,
+				"end": 27.1,
+				"index": 28
+			},
+			{
+				"text": "type ",
+				"start": 27.1,
+				"end": 27.6,
+				"index": 29
+			},
+			{
+				"text": "of ",
+				"start": 27.6,
+				"end": 28.04,
+				"index": 30
+			},
+			{
+				"text": "way",
+				"start": 28.04,
+				"end": 28.5,
+				"index": 31
+			}
+		],
+		"start": 22.88,
+		"end": 28.5
+	},
+	{
+		"words": [
+			{
+				"text": "Oh ",
+				"start": 29.02,
+				"end": 29.14,
+				"index": 32
+			},
+			{
+				"text": "LeBron ",
+				"start": 29.14,
+				"end": 30.06,
+				"index": 33
+			},
+			{
+				"text": "James, ",
+				"start": 30.06,
+				"end": 31.62,
+				"index": 34
+			},
+			{
+				"text": "you're ",
+				"start": 32.26,
+				"end": 32.66,
+				"index": 35
+			},
+			{
+				"text": "my ",
+				"start": 32.66,
+				"end": 33,
+				"index": 36
+			},
+			{
+				"text": "glorious ",
+				"start": 33,
+				"end": 33.66,
+				"index": 37
+			},
+			{
+				"text": "king ",
+				"start": 33.66,
+				"end": 34.14,
+				"index": 38
+			},
+			{
+				"text": "and ",
+				"start": 34.14,
+				"end": 34.54,
+				"index": 39
+			},
+			{
+				"text": "it's ",
+				"start": 34.54,
+				"end": 35.02,
+				"index": 40
+			},
+			{
+				"text": "not ",
+				"start": 35.02,
+				"end": 35.3,
+				"index": 41
+			},
+			{
+				"text": "even ",
+				"start": 35.3,
+				"end": 36.64,
+				"index": 42
+			},
+			{
+				"text": "glazed",
+				"start": 36.64,
+				"end": 37.62,
+				"index": 43
+			}
+		],
+		"start": 29.02,
+		"end": 37.62
+	},
+	{
+		"words": [
+			{
+				"text": "He ",
+				"start": 38.18,
+				"end": 38.44,
+				"index": 44
+			},
+			{
+				"text": "is ",
+				"start": 38.44,
+				"end": 38.88,
+				"index": 45
+			},
+			{
+				"text": "washed, ",
+				"start": 38.88,
+				"end": 39.28,
+				"index": 46
+			},
+			{
+				"text": "oh ",
+				"start": 39.42,
+				"end": 39.56,
+				"index": 47
+			},
+			{
+				"text": "blah ",
+				"start": 39.56,
+				"end": 39.94,
+				"index": 48
+			},
+			{
+				"text": "blah ",
+				"start": 39.94,
+				"end": 40.3,
+				"index": 49
+			},
+			{
+				"text": "blah",
+				"start": 40.3,
+				"end": 40.66,
+				"index": 50
+			}
+		],
+		"start": 38.18,
+		"end": 40.66
+	},
+	{
+		"words": [
+			{
+				"text": "That's ",
+				"start": 40.86,
+				"end": 41.28,
+				"index": 51
+			},
+			{
+				"text": "just ",
+				"start": 41.28,
+				"end": 41.78,
+				"index": 52
+			},
+			{
+				"text": "what ",
+				"start": 41.78,
+				"end": 42.5,
+				"index": 53
+			},
+			{
+				"text": "all ",
+				"start": 42.5,
+				"end": 43.28,
+				"index": 54
+			},
+			{
+				"text": "the ",
+				"start": 43.28,
+				"end": 44.08,
+				"index": 55
+			},
+			{
+				"text": "haters ",
+				"start": 44.08,
+				"end": 45.22,
+				"index": 56
+			},
+			{
+				"text": "say",
+				"start": 45.22,
+				"end": 46.1,
+				"index": 57
+			}
+		],
+		"start": 40.86,
+		"end": 46.1
+	},
+	{
+		"words": [
+			{
+				"text": "If ",
+				"start": 46.8,
+				"end": 47.36,
+				"index": 58
+			},
+			{
+				"text": "LeBron ",
+				"start": 47.36,
+				"end": 48.06,
+				"index": 59
+			},
+			{
+				"text": "nutted ",
+				"start": 48.06,
+				"end": 48.86,
+				"index": 60
+			},
+			{
+				"text": "on ",
+				"start": 48.86,
+				"end": 49.24,
+				"index": 61
+			},
+			{
+				"text": "me ",
+				"start": 49.24,
+				"end": 49.54,
+				"index": 62
+			},
+			{
+				"text": "it's ",
+				"start": 49.54,
+				"end": 49.98,
+				"index": 63
+			},
+			{
+				"text": "not ",
+				"start": 49.98,
+				"end": 50.46,
+				"index": 64
+			},
+			{
+				"text": "even ",
+				"start": 50.46,
+				"end": 51.28,
+				"index": 65
+			},
+			{
+				"text": "gay",
+				"start": 51.28,
+				"end": 51.8,
+				"index": 66
+			}
+		],
+		"start": 46.8,
+		"end": 51.8
+	},
+	{
+		"words": [
+			{
+				"text": "That's ",
+				"start": 51.8,
+				"end": 53.14,
+				"index": 67
+			},
+			{
+				"text": "why ",
+				"start": 53.14,
+				"end": 53.48,
+				"index": 68
+			},
+			{
+				"text": "LeBron's ",
+				"start": 53.48,
+				"end": 54.96,
+				"index": 69
+			},
+			{
+				"text": "the ",
+				"start": 54.96,
+				"end": 55.14,
+				"index": 70
+			},
+			{
+				"text": "god",
+				"start": 55.14,
+				"end": 55.5,
+				"index": 71
+			}
+		],
+		"start": 51.8,
+		"end": 55.5
+	},
+	{
+		"words": [
+			{
+				"text": "No ",
+				"start": 55.64,
+				"end": 55.88,
+				"index": 72
+			},
+			{
+				"text": "it's ",
+				"start": 55.88,
+				"end": 56.58,
+				"index": 73
+			},
+			{
+				"text": "not ",
+				"start": 56.58,
+				"end": 57,
+				"index": 74
+			},
+			{
+				"text": "even",
+				"start": 57,
+				"end": 57.78,
+				"index": 75
+			}
+		],
+		"start": 55.64,
+		"end": 57.78
+	}
+]

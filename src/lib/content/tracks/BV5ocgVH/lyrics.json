@@ -1,0 +1,716 @@
+[
+	{
+		"words": [
+			{
+				"text": "Have ",
+				"start": 0,
+				"end": 0.62,
+				"index": 0
+			},
+			{
+				"text": "you ",
+				"start": 0.62,
+				"end": 1.24,
+				"index": 1
+			},
+			{
+				"text": "ever ",
+				"start": 1.24,
+				"end": 1.52,
+				"index": 2
+			},
+			{
+				"text": "seen ",
+				"start": 1.52,
+				"end": 1.78,
+				"index": 3
+			},
+			{
+				"text": "a ",
+				"start": 1.78,
+				"end": 2.04,
+				"index": 4
+			},
+			{
+				"text": "player ",
+				"start": 2.04,
+				"end": 2.58,
+				"index": 5
+			},
+			{
+				"text": "with that ",
+				"start": 2.58,
+				"end": 3.26,
+				"index": 6
+			},
+			{
+				"text": "pure ",
+				"start": 3.26,
+				"end": 3.8,
+				"index": 7
+			},
+			{
+				"text": "control?",
+				"start": 3.8,
+				"end": 4.66,
+				"index": 8
+			}
+		],
+		"start": 11,
+		"end": 15.66
+	},
+	{
+		"words": [
+			{
+				"text": "Yeah, ",
+				"start": 0,
+				"end": 0.24,
+				"index": 9
+			},
+			{
+				"text": "every ",
+				"start": 0.68,
+				"end": 0.98,
+				"index": 10
+			},
+			{
+				"text": "pass, ",
+				"start": 0.98,
+				"end": 1.38,
+				"index": 11
+			},
+			{
+				"text": "every ",
+				"start": 1.6,
+				"end": 1.7,
+				"index": 12
+			},
+			{
+				"text": "shot, ",
+				"start": 1.7,
+				"end": 2.14,
+				"index": 13
+			},
+			{
+				"text": "he's ",
+				"start": 2.34,
+				"end": 2.66,
+				"index": 14
+			},
+			{
+				"text": "reaching ",
+				"start": 2.66,
+				"end": 3.08,
+				"index": 15
+			},
+			{
+				"text": "every ",
+				"start": 3.08,
+				"end": 3.84,
+				"index": 16
+			},
+			{
+				"text": "goal",
+				"start": 3.84,
+				"end": 4.76,
+				"index": 17
+			}
+		],
+		"start": 17.08,
+		"end": 21.84
+	},
+	{
+		"words": [
+			{
+				"text": "And ",
+				"start": 0,
+				"end": 0.62,
+				"index": 18
+			},
+			{
+				"text": "every ",
+				"start": 0.62,
+				"end": 0.96,
+				"index": 19
+			},
+			{
+				"text": "game ",
+				"start": 0.96,
+				"end": 1.16,
+				"index": 20
+			},
+			{
+				"text": "he ",
+				"start": 1.16,
+				"end": 1.44,
+				"index": 21
+			},
+			{
+				"text": "dominates ",
+				"start": 1.44,
+				"end": 1.8,
+				"index": 22
+			},
+			{
+				"text": "the ",
+				"start": 1.8,
+				"end": 2.24,
+				"index": 23
+			},
+			{
+				"text": "floor",
+				"start": 2.24,
+				"end": 2.8,
+				"index": 24
+			}
+		],
+		"start": 22.98,
+		"end": 25.78
+	},
+	{
+		"words": [
+			{
+				"text": "And ",
+				"start": 0,
+				"end": 0.92,
+				"index": 25
+			},
+			{
+				"text": "you ",
+				"start": 0.92,
+				"end": 1.04,
+				"index": 26
+			},
+			{
+				"text": "can't ",
+				"start": 1.04,
+				"end": 1.32,
+				"index": 27
+			},
+			{
+				"text": "believe ",
+				"start": 1.32,
+				"end": 1.62,
+				"index": 28
+			},
+			{
+				"text": "he'd ",
+				"start": 1.62,
+				"end": 1.88,
+				"index": 29
+			},
+			{
+				"text": "score ",
+				"start": 1.88,
+				"end": 2.18,
+				"index": 30
+			},
+			{
+				"text": "more",
+				"start": 2.18,
+				"end": 3.06,
+				"index": 31
+			}
+		],
+		"start": 25.78,
+		"end": 28.84
+	},
+	{
+		"words": [
+			{
+				"text": "But ",
+				"start": 0,
+				"end": 0.76,
+				"index": 32
+			},
+			{
+				"text": "I ",
+				"start": 0.76,
+				"end": 1,
+				"index": 33
+			},
+			{
+				"text": "overheard ",
+				"start": 1,
+				"end": 1.46,
+				"index": 34
+			},
+			{
+				"text": "the ",
+				"start": 1.46,
+				"end": 1.72,
+				"index": 35
+			},
+			{
+				"text": "crowd ",
+				"start": 1.72,
+				"end": 2.12,
+				"index": 36
+			},
+			{
+				"text": "and ",
+				"start": 2.12,
+				"end": 2.44,
+				"index": 37
+			},
+			{
+				"text": "this ",
+				"start": 2.44,
+				"end": 2.88,
+				"index": 38
+			},
+			{
+				"text": "is ",
+				"start": 2.88,
+				"end": 3.28,
+				"index": 39
+			},
+			{
+				"text": "what ",
+				"start": 3.28,
+				"end": 3.52,
+				"index": 40
+			},
+			{
+				"text": "they ",
+				"start": 3.52,
+				"end": 3.9,
+				"index": 41
+			},
+			{
+				"text": "say",
+				"start": 3.9,
+				"end": 4.21,
+				"index": 42
+			}
+		],
+		"start": 28.84,
+		"end": 33.05
+	},
+	{
+		"words": [
+			{
+				"text": "Looking ",
+				"start": 0,
+				"end": 0.3,
+				"index": 43
+			},
+			{
+				"text": "for, ",
+				"start": 0.3,
+				"end": 0.72,
+				"index": 44
+			},
+			{
+				"text": "looking ",
+				"start": 0.88,
+				"end": 1.06,
+				"index": 45
+			},
+			{
+				"text": "for, ",
+				"start": 1.06,
+				"end": 1.46,
+				"index": 46
+			},
+			{
+				"text": "looking ",
+				"start": 1.58,
+				"end": 1.74,
+				"index": 47
+			},
+			{
+				"text": "for ",
+				"start": 1.74,
+				"end": 2.22,
+				"index": 48
+			},
+			{
+				"text": "a ",
+				"start": 2.22,
+				"end": 2.38,
+				"index": 49
+			},
+			{
+				"text": "legend",
+				"start": 2.38,
+				"end": 2.74,
+				"index": 50
+			}
+		],
+		"start": 33.42,
+		"end": 36.16
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.78,
+				"index": 51
+			},
+			{
+				"text": "see ",
+				"start": 0.78,
+				"end": 1.18,
+				"index": 52
+			},
+			{
+				"text": "that, ",
+				"start": 1.18,
+				"end": 1.8,
+				"index": 53
+			},
+			{
+				"text": "give ",
+				"start": 2.04,
+				"end": 2.26,
+				"index": 54
+			},
+			{
+				"text": "him ",
+				"start": 2.26,
+				"end": 2.42,
+				"index": 55
+			},
+			{
+				"text": "time, ",
+				"start": 2.42,
+				"end": 2.76,
+				"index": 56
+			},
+			{
+				"text": "you ",
+				"start": 2.8,
+				"end": 2.96,
+				"index": 57
+			},
+			{
+				"text": "know ",
+				"start": 2.96,
+				"end": 3.24,
+				"index": 58
+			},
+			{
+				"text": "he's ",
+				"start": 3.24,
+				"end": 3.6,
+				"index": 59
+			},
+			{
+				"text": "always ",
+				"start": 3.6,
+				"end": 3.88,
+				"index": 60
+			},
+			{
+				"text": "been ",
+				"start": 3.88,
+				"end": 4.2,
+				"index": 61
+			},
+			{
+				"text": "that",
+				"start": 4.2,
+				"end": 4.72,
+				"index": 62
+			}
+		],
+		"start": 36.16,
+		"end": 40.88
+	},
+	{
+		"words": [
+			{
+				"text": "Don't ",
+				"start": 0,
+				"end": 0.5,
+				"index": 63
+			},
+			{
+				"text": "be ",
+				"start": 0.5,
+				"end": 0.6,
+				"index": 64
+			},
+			{
+				"text": "scared ",
+				"start": 0.6,
+				"end": 0.96,
+				"index": 65
+			},
+			{
+				"text": "to ",
+				"start": 0.96,
+				"end": 1.22,
+				"index": 66
+			},
+			{
+				"text": "cheer, ",
+				"start": 1.22,
+				"end": 1.62,
+				"index": 67
+			},
+			{
+				"text": "don't ",
+				"start": 1.82,
+				"end": 1.94,
+				"index": 68
+			},
+			{
+				"text": "be ",
+				"start": 1.94,
+				"end": 2.12,
+				"index": 69
+			},
+			{
+				"text": "scared ",
+				"start": 2.12,
+				"end": 2.4,
+				"index": 70
+			},
+			{
+				"text": "to ",
+				"start": 2.4,
+				"end": 2.62,
+				"index": 71
+			},
+			{
+				"text": "glaze",
+				"start": 2.62,
+				"end": 3.06,
+				"index": 72
+			}
+		],
+		"start": 40.88,
+		"end": 43.94
+	},
+	{
+		"words": [
+			{
+				"text": "Cause ",
+				"start": 0,
+				"end": 0.3,
+				"index": 73
+			},
+			{
+				"text": "the ",
+				"start": 0.3,
+				"end": 0.56,
+				"index": 74
+			},
+			{
+				"text": "king ",
+				"start": 0.56,
+				"end": 0.8,
+				"index": 75
+			},
+			{
+				"text": "is ",
+				"start": 0.8,
+				"end": 1.06,
+				"index": 76
+			},
+			{
+				"text": "always ",
+				"start": 1.06,
+				"end": 1.88,
+				"index": 77
+			},
+			{
+				"text": "amazed, ",
+				"start": 1.88,
+				"end": 2.68,
+				"index": 78
+			},
+			{
+				"text": "his ",
+				"start": 3,
+				"end": 3.38,
+				"index": 79
+			},
+			{
+				"text": "fandom",
+				"start": 3.38,
+				"end": 3.94,
+				"index": 80
+			}
+		],
+		"start": 43.94,
+		"end": 47.88
+	},
+	{
+		"words": [
+			{
+				"text": "We ",
+				"start": 0,
+				"end": 0.82,
+				"index": 81
+			},
+			{
+				"text": "ride ",
+				"start": 0.82,
+				"end": 1.26,
+				"index": 82
+			},
+			{
+				"text": "hard, ",
+				"start": 1.26,
+				"end": 1.76,
+				"index": 83
+			},
+			{
+				"text": "we ",
+				"start": 2.02,
+				"end": 2.22,
+				"index": 84
+			},
+			{
+				"text": "don't ",
+				"start": 2.22,
+				"end": 2.4,
+				"index": 85
+			},
+			{
+				"text": "play ",
+				"start": 2.4,
+				"end": 2.76,
+				"index": 86
+			},
+			{
+				"text": "about ",
+				"start": 2.76,
+				"end": 3.3,
+				"index": 87
+			},
+			{
+				"text": "our ",
+				"start": 3.3,
+				"end": 3.6,
+				"index": 88
+			},
+			{
+				"text": "king, ",
+				"start": 3.6,
+				"end": 3.92,
+				"index": 89
+			},
+			{
+				"text": "LeBron",
+				"start": 3.94,
+				"end": 4.46,
+				"index": 90
+			}
+		],
+		"start": 47.88,
+		"end": 52.34
+	},
+	{
+		"words": [
+			{
+				"text": "Don't ",
+				"start": 0,
+				"end": 0.74,
+				"index": 91
+			},
+			{
+				"text": "be ",
+				"start": 0.74,
+				"end": 0.86,
+				"index": 92
+			},
+			{
+				"text": "scared ",
+				"start": 0.86,
+				"end": 1.24,
+				"index": 93
+			},
+			{
+				"text": "to ",
+				"start": 1.24,
+				"end": 1.46,
+				"index": 94
+			},
+			{
+				"text": "cheer, ",
+				"start": 1.46,
+				"end": 1.88,
+				"index": 95
+			},
+			{
+				"text": "don't ",
+				"start": 2.06,
+				"end": 2.2,
+				"index": 96
+			},
+			{
+				"text": "be ",
+				"start": 2.2,
+				"end": 2.34,
+				"index": 97
+			},
+			{
+				"text": "scared ",
+				"start": 2.34,
+				"end": 2.64,
+				"index": 98
+			},
+			{
+				"text": "to ",
+				"start": 2.64,
+				"end": 2.88,
+				"index": 99
+			},
+			{
+				"text": "glaze",
+				"start": 2.88,
+				"end": 3.32,
+				"index": 100
+			}
+		],
+		"start": 52.34,
+		"end": 55.66
+	},
+	{
+		"words": [
+			{
+				"text": "Cause ",
+				"start": 0,
+				"end": 0.28,
+				"index": 101
+			},
+			{
+				"text": "the ",
+				"start": 0.28,
+				"end": 0.54,
+				"index": 102
+			},
+			{
+				"text": "king ",
+				"start": 0.54,
+				"end": 0.82,
+				"index": 103
+			},
+			{
+				"text": "will ",
+				"start": 0.82,
+				"end": 1.1,
+				"index": 104
+			},
+			{
+				"text": "always ",
+				"start": 1.1,
+				"end": 1.94,
+				"index": 105
+			},
+			{
+				"text": "amaze",
+				"start": 1.94,
+				"end": 2.98,
+				"index": 106
+			}
+		],
+		"start": 55.66,
+		"end": 58.64
+	}
+]

@@ -12,18 +12,17 @@ export type Track = {
 	appleMusic?: string;
 	soundcloud?: string;
 	other?: string;
-
-	lyrics: boolean;
 };
 
 export type Artist = {
 	id: string;
+	display_name?: string;
 	tiktok?: string;
 	soundcloud?: string;
 };
 
 export type TrackSettings = {
-	lyrics: boolean;
+	lyrics: 'on' | 'off';
 	loop: 'one' | 'all' | 'none';
 	shuffle: 'on' | 'off';
 };
@@ -43,3 +42,16 @@ export type Album = {
 	artist: string;
 	trackIds: string[];
 };
+
+export type LyricsWord = {
+	text: string;
+	start: number;
+	end: number;
+	index: number;
+};
+export type LyricsLine = {
+	words: LyricsWord[];
+	start: number;
+	end: number;
+};
+export type Lyrics = LyricsLine[];

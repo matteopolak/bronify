@@ -1,0 +1,1340 @@
+[
+	{
+		"words": [
+			{
+				"text": "It's ",
+				"start": 0,
+				"end": 0.76,
+				"index": 0
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.76,
+				"end": 1.08,
+				"index": 1
+			},
+			{
+				"text": "he ",
+				"start": 1.52,
+				"end": 1.7,
+				"index": 2
+			},
+			{
+				"text": "gon' ",
+				"start": 1.7,
+				"end": 1.84,
+				"index": 3
+			},
+			{
+				"text": "get ",
+				"start": 1.94,
+				"end": 2.06,
+				"index": 4
+			},
+			{
+				"text": "ya",
+				"start": 2.06,
+				"end": 2.36,
+				"index": 5
+			}
+		],
+		"start": 0,
+		"end": 2.36
+	},
+	{
+		"words": [
+			{
+				"text": "He ",
+				"start": 0,
+				"end": 0.42,
+				"index": 6
+			},
+			{
+				"text": "gon' ",
+				"start": 0.42,
+				"end": 0.56,
+				"index": 7
+			},
+			{
+				"text": "get ",
+				"start": 0.64,
+				"end": 0.7,
+				"index": 8
+			},
+			{
+				"text": "ya ",
+				"start": 0.7,
+				"end": 0.84,
+				"index": 9
+			},
+			{
+				"text": "real ",
+				"start": 0.84,
+				"end": 1.06,
+				"index": 10
+			},
+			{
+				"text": "good ",
+				"start": 1.06,
+				"end": 1.38,
+				"index": 11
+			},
+			{
+				"text": "and ",
+				"start": 1.38,
+				"end": 1.56,
+				"index": 12
+			},
+			{
+				"text": "I ",
+				"start": 1.56,
+				"end": 1.72,
+				"index": 13
+			},
+			{
+				"text": "bet ",
+				"start": 1.72,
+				"end": 1.88,
+				"index": 14
+			},
+			{
+				"text": "ya",
+				"start": 1.88,
+				"end": 2.26,
+				"index": 15
+			}
+		],
+		"start": 2.36,
+		"end": 4.62
+	},
+	{
+		"words": [
+			{
+				"text": "It's ",
+				"start": 0,
+				"end": 0.6,
+				"index": 16
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.6,
+				"end": 0.94,
+				"index": 17
+			},
+			{
+				"text": "once ",
+				"start": 1.34,
+				"end": 1.46,
+				"index": 18
+			},
+			{
+				"text": "he ",
+				"start": 1.46,
+				"end": 1.58,
+				"index": 19
+			},
+			{
+				"text": "gets ",
+				"start": 1.58,
+				"end": 1.8,
+				"index": 20
+			},
+			{
+				"text": "ya",
+				"start": 1.8,
+				"end": 2.14,
+				"index": 21
+			}
+		],
+		"start": 4.62,
+		"end": 6.76
+	},
+	{
+		"words": [
+			{
+				"text": "You'll ",
+				"start": 0,
+				"end": 0.4,
+				"index": 22
+			},
+			{
+				"text": "be ",
+				"start": 0.4,
+				"end": 0.5,
+				"index": 23
+			},
+			{
+				"text": "like, ",
+				"start": 0.5,
+				"end": 0.72,
+				"index": 24
+			},
+			{
+				"text": "oh ",
+				"start": 0.92,
+				"end": 0.96,
+				"index": 25
+			},
+			{
+				"text": "no, ",
+				"start": 0.96,
+				"end": 1.26,
+				"index": 26
+			},
+			{
+				"text": "never ",
+				"start": 1.36,
+				"end": 1.54,
+				"index": 27
+			},
+			{
+				"text": "met ",
+				"start": 1.54,
+				"end": 1.78,
+				"index": 28
+			},
+			{
+				"text": "her",
+				"start": 1.78,
+				"end": 2.6,
+				"index": 29
+			}
+		],
+		"start": 6.76,
+		"end": 9.36
+	},
+	{
+		"words": [
+			{
+				"text": "Step ",
+				"start": 0,
+				"end": 0.44,
+				"index": 30
+			},
+			{
+				"text": "one, ",
+				"start": 0.44,
+				"end": 0.88,
+				"index": 31
+			},
+			{
+				"text": "make ",
+				"start": 1.2,
+				"end": 1.4,
+				"index": 32
+			},
+			{
+				"text": "a ",
+				"start": 1.4,
+				"end": 1.58,
+				"index": 33
+			},
+			{
+				"text": "high ",
+				"start": 1.58,
+				"end": 1.8,
+				"index": 34
+			},
+			{
+				"text": "like",
+				"start": 1.8,
+				"end": 2.22,
+				"index": 35
+			}
+		],
+		"start": 11.14,
+		"end": 13.36
+	},
+	{
+		"words": [
+			{
+				"text": "Breaking ",
+				"start": 0,
+				"end": 0.32,
+				"index": 36
+			},
+			{
+				"text": "rims ",
+				"start": 0.32,
+				"end": 0.64,
+				"index": 37
+			},
+			{
+				"text": "in ",
+				"start": 0.64,
+				"end": 0.9,
+				"index": 38
+			},
+			{
+				"text": "life, ",
+				"start": 0.9,
+				"end": 1.16,
+				"index": 39
+			},
+			{
+				"text": "putting ",
+				"start": 1.24,
+				"end": 1.38,
+				"index": 40
+			},
+			{
+				"text": "up ",
+				"start": 1.38,
+				"end": 1.66,
+				"index": 41
+			},
+			{
+				"text": "site",
+				"start": 1.66,
+				"end": 1.88,
+				"index": 42
+			}
+		],
+		"start": 13.36,
+		"end": 15.24
+	},
+	{
+		"words": [
+			{
+				"text": "Step ",
+				"start": 0,
+				"end": 0.58,
+				"index": 43
+			},
+			{
+				"text": "two, ",
+				"start": 0.58,
+				"end": 1.12,
+				"index": 44
+			},
+			{
+				"text": "keep ",
+				"start": 1.46,
+				"end": 1.64,
+				"index": 45
+			},
+			{
+				"text": "the ",
+				"start": 1.64,
+				"end": 1.82,
+				"index": 46
+			},
+			{
+				"text": "ball ",
+				"start": 1.82,
+				"end": 1.96,
+				"index": 47
+			},
+			{
+				"text": "tight",
+				"start": 1.96,
+				"end": 2.28,
+				"index": 48
+			}
+		],
+		"start": 15.24,
+		"end": 17.52
+	},
+	{
+		"words": [
+			{
+				"text": "Keep ",
+				"start": 0,
+				"end": 0.44,
+				"index": 49
+			},
+			{
+				"text": "it ",
+				"start": 0.44,
+				"end": 0.6,
+				"index": 50
+			},
+			{
+				"text": "crossing, ",
+				"start": 0.6,
+				"end": 0.82,
+				"index": 51
+			},
+			{
+				"text": "nothing ",
+				"start": 0.94,
+				"end": 1.08,
+				"index": 52
+			},
+			{
+				"text": "crazy, ",
+				"start": 1.08,
+				"end": 1.32,
+				"index": 53
+			},
+			{
+				"text": "looks ",
+				"start": 1.46,
+				"end": 1.58,
+				"index": 54
+			},
+			{
+				"text": "good, ",
+				"start": 1.58,
+				"end": 1.84,
+				"index": 55
+			},
+			{
+				"text": "right?",
+				"start": 1.88,
+				"end": 2.18,
+				"index": 56
+			}
+		],
+		"start": 17.52,
+		"end": 19.7
+	},
+	{
+		"words": [
+			{
+				"text": "Step ",
+				"start": 0,
+				"end": 0.18,
+				"index": 57
+			},
+			{
+				"text": "three",
+				"start": 0.18,
+				"end": 0.66,
+				"index": 58
+			}
+		],
+		"start": 20.02,
+		"end": 20.68
+	},
+	{
+		"words": [
+			{
+				"text": "Winnie ",
+				"start": 0,
+				"end": 0.22,
+				"index": 59
+			},
+			{
+				"text": "and",
+				"start": 0.22,
+				"end": 0.48,
+				"index": 60
+			}
+		],
+		"start": 21.18,
+		"end": 21.66
+	},
+	{
+		"words": [
+			{
+				"text": "Ron",
+				"start": 0,
+				"end": 0.22,
+				"index": 61
+			}
+		],
+		"start": 21.66,
+		"end": 21.88
+	},
+	{
+		"words": [
+			{
+				"text": "Everybody ",
+				"start": 0,
+				"end": 0.72,
+				"index": 62
+			},
+			{
+				"text": "looking ",
+				"start": 0.72,
+				"end": 1.1,
+				"index": 63
+			},
+			{
+				"text": "at ",
+				"start": 1.1,
+				"end": 1.26,
+				"index": 64
+			},
+			{
+				"text": "him ",
+				"start": 1.26,
+				"end": 1.38,
+				"index": 65
+			},
+			{
+				"text": "with ",
+				"start": 1.38,
+				"end": 1.5,
+				"index": 66
+			},
+			{
+				"text": "some ",
+				"start": 1.5,
+				"end": 1.68,
+				"index": 67
+			},
+			{
+				"text": "hot ",
+				"start": 1.68,
+				"end": 2.02,
+				"index": 68
+			},
+			{
+				"text": "ice",
+				"start": 2.02,
+				"end": 2.28,
+				"index": 69
+			}
+		],
+		"start": 21.88,
+		"end": 24.16
+	},
+	{
+		"words": [
+			{
+				"text": "Step ",
+				"start": 0,
+				"end": 0.42,
+				"index": 70
+			},
+			{
+				"text": "four, ",
+				"start": 0.42,
+				"end": 0.92,
+				"index": 71
+			},
+			{
+				"text": "die, ",
+				"start": 1.12,
+				"end": 1.2,
+				"index": 72
+			},
+			{
+				"text": "he ",
+				"start": 1.34,
+				"end": 1.36,
+				"index": 73
+			},
+			{
+				"text": "on ",
+				"start": 1.36,
+				"end": 1.48,
+				"index": 74
+			},
+			{
+				"text": "the ",
+				"start": 1.48,
+				"end": 1.62,
+				"index": 75
+			},
+			{
+				"text": "floor",
+				"start": 1.62,
+				"end": 2.02,
+				"index": 76
+			}
+		],
+		"start": 24.16,
+		"end": 26.18
+	},
+	{
+		"words": [
+			{
+				"text": "He's ",
+				"start": 0,
+				"end": 0.46,
+				"index": 77
+			},
+			{
+				"text": "gonna ",
+				"start": 0.46,
+				"end": 0.56,
+				"index": 78
+			},
+			{
+				"text": "score, ",
+				"start": 0.56,
+				"end": 1.02,
+				"index": 79
+			},
+			{
+				"text": "score, ",
+				"start": 1.2,
+				"end": 1.46,
+				"index": 80
+			},
+			{
+				"text": "score, ",
+				"start": 1.72,
+				"end": 2.24,
+				"index": 81
+			},
+			{
+				"text": "against ",
+				"start": 2.36,
+				"end": 2.54,
+				"index": 82
+			},
+			{
+				"text": "love",
+				"start": 2.54,
+				"end": 2.9,
+				"index": 83
+			}
+		],
+		"start": 26.18,
+		"end": 29.08
+	},
+	{
+		"words": [
+			{
+				"text": "Bron, ",
+				"start": 0,
+				"end": 0.62,
+				"index": 84
+			},
+			{
+				"text": "who's ",
+				"start": 1.7,
+				"end": 1.92,
+				"index": 85
+			},
+			{
+				"text": "just ",
+				"start": 1.92,
+				"end": 2.2,
+				"index": 86
+			},
+			{
+				"text": "making ",
+				"start": 2.2,
+				"end": 2.52,
+				"index": 87
+			},
+			{
+				"text": "his ",
+				"start": 2.52,
+				"end": 2.98,
+				"index": 88
+			},
+			{
+				"text": "way ",
+				"start": 2.98,
+				"end": 3.14,
+				"index": 89
+			},
+			{
+				"text": "straight ",
+				"start": 3.14,
+				"end": 3.44,
+				"index": 90
+			},
+			{
+				"text": "to ",
+				"start": 3.44,
+				"end": 3.76,
+				"index": 91
+			},
+			{
+				"text": "the ",
+				"start": 3.76,
+				"end": 4.06,
+				"index": 92
+			},
+			{
+				"text": "paint",
+				"start": 4.06,
+				"end": 4.36,
+				"index": 93
+			}
+		],
+		"start": 29.08,
+		"end": 33.44
+	},
+	{
+		"words": [
+			{
+				"text": "Bron, ",
+				"start": 0,
+				"end": 0.62,
+				"index": 94
+			},
+			{
+				"text": "the ",
+				"start": 1.68,
+				"end": 1.88,
+				"index": 95
+			},
+			{
+				"text": "reason ",
+				"start": 1.88,
+				"end": 2.28,
+				"index": 96
+			},
+			{
+				"text": "I ",
+				"start": 2.28,
+				"end": 2.74,
+				"index": 97
+			},
+			{
+				"text": "have ",
+				"start": 2.74,
+				"end": 3,
+				"index": 98
+			},
+			{
+				"text": "the ",
+				"start": 3,
+				"end": 3.34,
+				"index": 99
+			},
+			{
+				"text": "life ",
+				"start": 3.34,
+				"end": 3.76,
+				"index": 100
+			},
+			{
+				"text": "in ",
+				"start": 3.76,
+				"end": 4.16,
+				"index": 101
+			},
+			{
+				"text": "me",
+				"start": 4.16,
+				"end": 4.3,
+				"index": 102
+			}
+		],
+		"start": 33.44,
+		"end": 37.74
+	},
+	{
+		"words": [
+			{
+				"text": "He ",
+				"start": 0,
+				"end": 0.14,
+				"index": 103
+			},
+			{
+				"text": "be ",
+				"start": 0.14,
+				"end": 0.28,
+				"index": 104
+			},
+			{
+				"text": "taking ",
+				"start": 0.28,
+				"end": 0.46,
+				"index": 105
+			},
+			{
+				"text": "flames, ",
+				"start": 0.46,
+				"end": 0.74,
+				"index": 106
+			},
+			{
+				"text": "jumping ",
+				"start": 0.74,
+				"end": 1.06,
+				"index": 107
+			},
+			{
+				"text": "over",
+				"start": 1.06,
+				"end": 1.36,
+				"index": 108
+			}
+		],
+		"start": 37.74,
+		"end": 39.1
+	},
+	{
+		"words": [
+			{
+				"text": "We're ",
+				"start": 0,
+				"end": 0.44,
+				"index": 109
+			},
+			{
+				"text": "gonna ",
+				"start": 0.44,
+				"end": 0.46,
+				"index": 110
+			},
+			{
+				"text": "see ",
+				"start": 0.46,
+				"end": 0.6,
+				"index": 111
+			},
+			{
+				"text": "him ",
+				"start": 0.6,
+				"end": 0.7,
+				"index": 112
+			},
+			{
+				"text": "in ",
+				"start": 0.7,
+				"end": 0.78,
+				"index": 113
+			},
+			{
+				"text": "just ",
+				"start": 0.78,
+				"end": 0.9,
+				"index": 114
+			},
+			{
+				"text": "a ",
+				"start": 0.9,
+				"end": 1.1,
+				"index": 115
+			},
+			{
+				"text": "little ",
+				"start": 1.1,
+				"end": 1.28,
+				"index": 116
+			},
+			{
+				"text": "closer",
+				"start": 1.28,
+				"end": 2.44,
+				"index": 117
+			}
+		],
+		"start": 39.66,
+		"end": 42.1
+	},
+	{
+		"words": [
+			{
+				"text": "Fly, ",
+				"start": 0,
+				"end": 0.9,
+				"index": 118
+			},
+			{
+				"text": "and ",
+				"start": 2.02,
+				"end": 2.22,
+				"index": 119
+			},
+			{
+				"text": "now ",
+				"start": 2.22,
+				"end": 2.38,
+				"index": 120
+			},
+			{
+				"text": "he ",
+				"start": 2.38,
+				"end": 2.58,
+				"index": 121
+			},
+			{
+				"text": "in ",
+				"start": 2.58,
+				"end": 2.76,
+				"index": 122
+			},
+			{
+				"text": "front, ",
+				"start": 2.76,
+				"end": 3,
+				"index": 123
+			},
+			{
+				"text": "Bronny ",
+				"start": 3.34,
+				"end": 3.76,
+				"index": 124
+			},
+			{
+				"text": "Don't ",
+				"start": 3.76,
+				"end": 4.72,
+				"index": 125
+			},
+			{
+				"text": "swing ",
+				"start": 4.72,
+				"end": 4.88,
+				"index": 126
+			},
+			{
+				"text": "off ",
+				"start": 4.88,
+				"end": 5.2,
+				"index": 127
+			},
+			{
+				"text": "the ",
+				"start": 5.2,
+				"end": 5.56,
+				"index": 128
+			},
+			{
+				"text": "radar, ",
+				"start": 5.56,
+				"end": 5.9,
+				"index": 129
+			},
+			{
+				"text": "yeah, ",
+				"start": 6,
+				"end": 6.3,
+				"index": 130
+			},
+			{
+				"text": "you ",
+				"start": 6.32,
+				"end": 6.54,
+				"index": 131
+			},
+			{
+				"text": "never ",
+				"start": 6.54,
+				"end": 7,
+				"index": 132
+			},
+			{
+				"text": "could ",
+				"start": 7,
+				"end": 7.38,
+				"index": 133
+			},
+			{
+				"text": "compete",
+				"start": 7.38,
+				"end": 8.04,
+				"index": 134
+			}
+		],
+		"start": 42.1,
+		"end": 50.14
+	},
+	{
+		"words": [
+			{
+				"text": "That's the ",
+				"start": 0,
+				"end": 0.88,
+				"index": 135
+			},
+			{
+				"text": "Bronny, ",
+				"start": 0.88,
+				"end": 1.3,
+				"index": 136
+			},
+			{
+				"text": "the ",
+				"start": 1.54,
+				"end": 1.68,
+				"index": 137
+			},
+			{
+				"text": "Bronny, ",
+				"start": 1.68,
+				"end": 2.22,
+				"index": 138
+			},
+			{
+				"text": "feeling ",
+				"start": 2.44,
+				"end": 2.76,
+				"index": 139
+			},
+			{
+				"text": "good",
+				"start": 2.76,
+				"end": 3.1,
+				"index": 140
+			}
+		],
+		"start": 50.14,
+		"end": 53.24
+	},
+	{
+		"words": [
+			{
+				"text": "Don't ",
+				"start": 0,
+				"end": 0.14,
+				"index": 141
+			},
+			{
+				"text": "get, ",
+				"start": 0.14,
+				"end": 0.28,
+				"index": 142
+			},
+			{
+				"text": "don't ",
+				"start": 0.4,
+				"end": 0.64,
+				"index": 143
+			},
+			{
+				"text": "get, ",
+				"start": 0.64,
+				"end": 0.86,
+				"index": 144
+			},
+			{
+				"text": "baby, ",
+				"start": 0.98,
+				"end": 1.52,
+				"index": 145
+			},
+			{
+				"text": "during ",
+				"start": 2.04,
+				"end": 2.38,
+				"index": 146
+			},
+			{
+				"text": "his ",
+				"start": 2.38,
+				"end": 2.84,
+				"index": 147
+			},
+			{
+				"text": "just ",
+				"start": 2.84,
+				"end": 3.14,
+				"index": 148
+			},
+			{
+				"text": "trademark",
+				"start": 3.14,
+				"end": 3.5,
+				"index": 149
+			}
+		],
+		"start": 53.24,
+		"end": 56.74
+	},
+	{
+		"words": [
+			{
+				"text": "Oh, ",
+				"start": 0,
+				"end": 0.36,
+				"index": 150
+			},
+			{
+				"text": "he's ",
+				"start": 0.44,
+				"end": 0.68,
+				"index": 151
+			},
+			{
+				"text": "never ",
+				"start": 0.68,
+				"end": 1.04,
+				"index": 152
+			},
+			{
+				"text": "seemed ",
+				"start": 1.04,
+				"end": 1.44,
+				"index": 153
+			},
+			{
+				"text": "to ",
+				"start": 1.44,
+				"end": 1.76,
+				"index": 154
+			},
+			{
+				"text": "feel ",
+				"start": 1.76,
+				"end": 2.22,
+				"index": 155
+			},
+			{
+				"text": "that's ",
+				"start": 2.22,
+				"end": 2.86,
+				"index": 156
+			},
+			{
+				"text": "the ",
+				"start": 2.86,
+				"end": 3.02,
+				"index": 157
+			},
+			{
+				"text": "Bronny, ",
+				"start": 3.02,
+				"end": 3.38,
+				"index": 158
+			},
+			{
+				"text": "the ",
+				"start": 3.7,
+				"end": 3.78,
+				"index": 159
+			},
+			{
+				"text": "Bronny, ",
+				"start": 3.78,
+				"end": 4.26,
+				"index": 160
+			},
+			{
+				"text": "feeling ",
+				"start": 4.62,
+				"end": 4.82,
+				"index": 161
+			},
+			{
+				"text": "good",
+				"start": 4.82,
+				"end": 5.24,
+				"index": 162
+			}
+		],
+		"start": 56.74,
+		"end": 61.98
+	},
+	{
+		"words": [
+			{
+				"text": "Don't ",
+				"start": 0,
+				"end": 0.1,
+				"index": 163
+			},
+			{
+				"text": "get, ",
+				"start": 0.1,
+				"end": 0.3,
+				"index": 164
+			},
+			{
+				"text": "don't ",
+				"start": 0.42,
+				"end": 0.62,
+				"index": 165
+			},
+			{
+				"text": "get, ",
+				"start": 0.62,
+				"end": 0.82,
+				"index": 166
+			},
+			{
+				"text": "baby",
+				"start": 1.4,
+				"end": 1.7,
+				"index": 167
+			}
+		],
+		"start": 61.98,
+		"end": 63.68
+	},
+	{
+		"words": [
+			{
+				"text": "It's ",
+				"start": 0,
+				"end": 0.26,
+				"index": 168
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.26,
+				"end": 0.6,
+				"index": 169
+			},
+			{
+				"text": "he ",
+				"start": 1.1,
+				"end": 1.22,
+				"index": 170
+			},
+			{
+				"text": "gon' ",
+				"start": 1.22,
+				"end": 1.36,
+				"index": 171
+			},
+			{
+				"text": "get ",
+				"start": 1.4,
+				"end": 1.52,
+				"index": 172
+			},
+			{
+				"text": "ya",
+				"start": 1.52,
+				"end": 1.8,
+				"index": 173
+			}
+		],
+		"start": 63.68,
+		"end": 65.48
+	},
+	{
+		"words": [
+			{
+				"text": "He ",
+				"start": 0,
+				"end": 0.5,
+				"index": 174
+			},
+			{
+				"text": "gon' ",
+				"start": 0.5,
+				"end": 0.64,
+				"index": 175
+			},
+			{
+				"text": "get ya ",
+				"start": 0.78,
+				"end": 0.9,
+				"index": 176
+			},
+			{
+				"text": "real ",
+				"start": 0.9,
+				"end": 1.12,
+				"index": 177
+			},
+			{
+				"text": "good ",
+				"start": 1.12,
+				"end": 1.44,
+				"index": 178
+			},
+			{
+				"text": "and ",
+				"start": 1.44,
+				"end": 1.64,
+				"index": 179
+			},
+			{
+				"text": "I ",
+				"start": 1.64,
+				"end": 1.78,
+				"index": 180
+			},
+			{
+				"text": "bet ",
+				"start": 1.78,
+				"end": 1.98,
+				"index": 181
+			},
+			{
+				"text": "ya",
+				"start": 1.98,
+				"end": 2.3,
+				"index": 182
+			}
+		],
+		"start": 65.48,
+		"end": 67.78
+	},
+	{
+		"words": [
+			{
+				"text": "It's ",
+				"start": 0,
+				"end": 0.62,
+				"index": 183
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.62,
+				"end": 0.9,
+				"index": 184
+			},
+			{
+				"text": "once he ",
+				"start": 1.5,
+				"end": 1.66,
+				"index": 185
+			},
+			{
+				"text": "gets ",
+				"start": 1.66,
+				"end": 1.84,
+				"index": 186
+			},
+			{
+				"text": "ya",
+				"start": 1.84,
+				"end": 2.22,
+				"index": 187
+			}
+		],
+		"start": 67.78,
+		"end": 70
+	},
+	{
+		"words": [
+			{
+				"text": "You'll ",
+				"start": 0,
+				"end": 0.38,
+				"index": 188
+			},
+			{
+				"text": "be ",
+				"start": 0.38,
+				"end": 0.5,
+				"index": 189
+			},
+			{
+				"text": "like, ",
+				"start": 0.5,
+				"end": 0.7,
+				"index": 190
+			},
+			{
+				"text": "oh ",
+				"start": 0.84,
+				"end": 0.96,
+				"index": 191
+			},
+			{
+				"text": "no, ",
+				"start": 0.96,
+				"end": 1.26,
+				"index": 192
+			},
+			{
+				"text": "never ",
+				"start": 1.36,
+				"end": 1.52,
+				"index": 193
+			},
+			{
+				"text": "met ",
+				"start": 1.52,
+				"end": 1.82,
+				"index": 194
+			},
+			{
+				"text": "Bron",
+				"start": 1.82,
+				"end": 2.04,
+				"index": 195
+			}
+		],
+		"start": 70,
+		"end": 72.04
+	}
+]

@@ -1,0 +1,560 @@
+[
+	{
+		"words": [
+			{
+				"text": "Well, ",
+				"start": 0,
+				"end": 0.52,
+				"index": 0
+			},
+			{
+				"text": "Bron ",
+				"start": 0.74,
+				"end": 0.88,
+				"index": 1
+			},
+			{
+				"text": "done ",
+				"start": 0.88,
+				"end": 1.2,
+				"index": 2
+			},
+			{
+				"text": "dunked ",
+				"start": 1.2,
+				"end": 1.78,
+				"index": 3
+			},
+			{
+				"text": "it ",
+				"start": 1.78,
+				"end": 1.88,
+				"index": 4
+			},
+			{
+				"text": "and ",
+				"start": 1.88,
+				"end": 2.14,
+				"index": 5
+			},
+			{
+				"text": "you ",
+				"start": 2.14,
+				"end": 2.24,
+				"index": 6
+			},
+			{
+				"text": "bet ",
+				"start": 2.24,
+				"end": 2.44,
+				"index": 7
+			},
+			{
+				"text": "they ",
+				"start": 2.44,
+				"end": 2.82,
+				"index": 8
+			},
+			{
+				"text": "felt ",
+				"start": 2.82,
+				"end": 3.18,
+				"index": 9
+			},
+			{
+				"text": "it",
+				"start": 3.18,
+				"end": 3.58,
+				"index": 10
+			}
+		],
+		"start": 12.68,
+		"end": 16.26
+	},
+	{
+		"words": [
+			{
+				"text": "They ",
+				"start": 0,
+				"end": 0.28,
+				"index": 11
+			},
+			{
+				"text": "tried ",
+				"start": 0.28,
+				"end": 0.46,
+				"index": 12
+			},
+			{
+				"text": "to ",
+				"start": 0.46,
+				"end": 0.72,
+				"index": 13
+			},
+			{
+				"text": "defend ",
+				"start": 0.72,
+				"end": 1.22,
+				"index": 14
+			},
+			{
+				"text": "but ",
+				"start": 1.22,
+				"end": 1.48,
+				"index": 15
+			},
+			{
+				"text": "he ",
+				"start": 1.48,
+				"end": 1.66,
+				"index": 16
+			},
+			{
+				"text": "flew ",
+				"start": 1.66,
+				"end": 1.9,
+				"index": 17
+			},
+			{
+				"text": "up ",
+				"start": 1.9,
+				"end": 2.16,
+				"index": 18
+			},
+			{
+				"text": "and ",
+				"start": 2.16,
+				"end": 2.38,
+				"index": 19
+			},
+			{
+				"text": "he ",
+				"start": 2.38,
+				"end": 2.54,
+				"index": 20
+			},
+			{
+				"text": "stuffed ",
+				"start": 2.54,
+				"end": 2.8,
+				"index": 21
+			},
+			{
+				"text": "it",
+				"start": 2.8,
+				"end": 3.24,
+				"index": 22
+			}
+		],
+		"start": 16.26,
+		"end": 19.5
+	},
+	{
+		"words": [
+			{
+				"text": "Got ",
+				"start": 0,
+				"end": 0.42,
+				"index": 23
+			},
+			{
+				"text": "right ",
+				"start": 0.42,
+				"end": 0.76,
+				"index": 24
+			},
+			{
+				"text": "to ",
+				"start": 0.76,
+				"end": 1.22,
+				"index": 25
+			},
+			{
+				"text": "the ",
+				"start": 1.22,
+				"end": 1.68,
+				"index": 26
+			},
+			{
+				"text": "rack",
+				"start": 1.68,
+				"end": 2.02,
+				"index": 27
+			}
+		],
+		"start": 19.5,
+		"end": 21.52
+	},
+	{
+		"words": [
+			{
+				"text": "Now ",
+				"start": 0,
+				"end": 1.18,
+				"index": 28
+			},
+			{
+				"text": "he's ",
+				"start": 1.18,
+				"end": 1.46,
+				"index": 29
+			},
+			{
+				"text": "hitting ",
+				"start": 1.46,
+				"end": 1.86,
+				"index": 30
+			},
+			{
+				"text": "step ",
+				"start": 1.86,
+				"end": 2.32,
+				"index": 31
+			},
+			{
+				"text": "backs",
+				"start": 2.32,
+				"end": 3.18,
+				"index": 32
+			}
+		],
+		"start": 21.52,
+		"end": 24.7
+	},
+	{
+		"words": [
+			{
+				"text": "And ",
+				"start": 0,
+				"end": 0.52,
+				"index": 33
+			},
+			{
+				"text": "the ",
+				"start": 0.52,
+				"end": 0.74,
+				"index": 34
+			},
+			{
+				"text": "Lakers ",
+				"start": 0.74,
+				"end": 0.94,
+				"index": 35
+			},
+			{
+				"text": "picked ",
+				"start": 0.94,
+				"end": 1.26,
+				"index": 36
+			},
+			{
+				"text": "the ",
+				"start": 1.26,
+				"end": 1.5,
+				"index": 37
+			},
+			{
+				"text": "blue ",
+				"start": 1.5,
+				"end": 1.62,
+				"index": 38
+			},
+			{
+				"text": "card",
+				"start": 1.62,
+				"end": 1.9,
+				"index": 39
+			}
+		],
+		"start": 25.42,
+		"end": 27.32
+	},
+	{
+		"words": [
+			{
+				"text": "All ",
+				"start": 0,
+				"end": 0.24,
+				"index": 40
+			},
+			{
+				"text": "they ",
+				"start": 0.24,
+				"end": 0.38,
+				"index": 41
+			},
+			{
+				"text": "had ",
+				"start": 0.38,
+				"end": 0.58,
+				"index": 42
+			},
+			{
+				"text": "to ",
+				"start": 0.58,
+				"end": 0.74,
+				"index": 43
+			},
+			{
+				"text": "trade ",
+				"start": 0.74,
+				"end": 0.96,
+				"index": 44
+			},
+			{
+				"text": "was ",
+				"start": 0.96,
+				"end": 1.2,
+				"index": 45
+			},
+			{
+				"text": "80",
+				"start": 1.2,
+				"end": 1.54,
+				"index": 46
+			}
+		],
+		"start": 27.32,
+		"end": 28.86
+	},
+	{
+		"words": [
+			{
+				"text": "And ",
+				"start": 0,
+				"end": 0.38,
+				"index": 47
+			},
+			{
+				"text": "nothing's ",
+				"start": 0.38,
+				"end": 0.82,
+				"index": 48
+			},
+			{
+				"text": "gonna ",
+				"start": 0.82,
+				"end": 1.08,
+				"index": 49
+			},
+			{
+				"text": "stop ",
+				"start": 1.08,
+				"end": 1.36,
+				"index": 50
+			},
+			{
+				"text": "him ",
+				"start": 1.36,
+				"end": 1.56,
+				"index": 51
+			},
+			{
+				"text": "from ",
+				"start": 1.56,
+				"end": 1.8,
+				"index": 52
+			},
+			{
+				"text": "a ",
+				"start": 1.8,
+				"end": 2.04,
+				"index": 53
+			},
+			{
+				"text": "winning ",
+				"start": 2.04,
+				"end": 2.28,
+				"index": 54
+			},
+			{
+				"text": "banner ",
+				"start": 2.28,
+				"end": 2.68,
+				"index": 55
+			},
+			{
+				"text": "18",
+				"start": 2.68,
+				"end": 3.3,
+				"index": 56
+			}
+		],
+		"start": 28.86,
+		"end": 32.16
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron ",
+				"start": 0,
+				"end": 0.48,
+				"index": 57
+			},
+			{
+				"text": "is ",
+				"start": 0.48,
+				"end": 0.84,
+				"index": 58
+			},
+			{
+				"text": "still ",
+				"start": 0.84,
+				"end": 1.2,
+				"index": 59
+			},
+			{
+				"text": "the ",
+				"start": 1.2,
+				"end": 1.62,
+				"index": 60
+			},
+			{
+				"text": "king ",
+				"start": 1.62,
+				"end": 2.1,
+				"index": 61
+			},
+			{
+				"text": "40 ",
+				"start": 2.1,
+				"end": 3.32,
+				"index": 62
+			},
+			{
+				"text": "years ",
+				"start": 3.32,
+				"end": 3.9,
+				"index": 63
+			},
+			{
+				"text": "old ",
+				"start": 3.9,
+				"end": 4.6,
+				"index": 64
+			},
+			{
+				"text": "in ",
+				"start": 4.6,
+				"end": 4.9,
+				"index": 65
+			},
+			{
+				"text": "four ",
+				"start": 4.9,
+				"end": 5.72,
+				"index": 66
+			},
+			{
+				"text": "rings",
+				"start": 5.72,
+				"end": 6.34,
+				"index": 67
+			}
+		],
+		"start": 32.16,
+		"end": 38.5
+	},
+	{
+		"words": [
+			{
+				"text": "Hits ",
+				"start": 0,
+				"end": 0.66,
+				"index": 68
+			},
+			{
+				"text": "left, ",
+				"start": 0.66,
+				"end": 1.52,
+				"index": 69
+			},
+			{
+				"text": "fuck ",
+				"start": 1.78,
+				"end": 2.22,
+				"index": 70
+			},
+			{
+				"text": "you ",
+				"start": 2.22,
+				"end": 3.18,
+				"index": 71
+			},
+			{
+				"text": "threes",
+				"start": 3.18,
+				"end": 3.94,
+				"index": 72
+			}
+		],
+		"start": 38.5,
+		"end": 42.44
+	},
+	{
+		"words": [
+			{
+				"text": "And ",
+				"start": 0,
+				"end": 0.82,
+				"index": 73
+			},
+			{
+				"text": "blocked ",
+				"start": 0.82,
+				"end": 1.44,
+				"index": 74
+			},
+			{
+				"text": "by ",
+				"start": 1.44,
+				"end": 2.5,
+				"index": 75
+			},
+			{
+				"text": "James",
+				"start": 2.5,
+				"end": 3.1,
+				"index": 76
+			}
+		],
+		"start": 42.44,
+		"end": 45.54
+	},
+	{
+		"words": [
+			{
+				"text": "He ",
+				"start": 0,
+				"end": 0.82,
+				"index": 77
+			},
+			{
+				"text": "is ",
+				"start": 0.82,
+				"end": 1.66,
+				"index": 78
+			},
+			{
+				"text": "the ",
+				"start": 1.66,
+				"end": 2.64,
+				"index": 79
+			},
+			{
+				"text": "gold ",
+				"start": 2.64,
+				"end": 3.22,
+				"index": 80
+			},
+			{
+				"text": "LeBron",
+				"start": 3.22,
+				"end": 4.64,
+				"index": 81
+			}
+		],
+		"start": 45.54,
+		"end": 50.18
+	}
+]

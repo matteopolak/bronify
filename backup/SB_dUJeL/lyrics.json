@@ -1,0 +1,374 @@
+[
+	{
+		"words": [
+			{
+				"text": "Did ",
+				"start": 3.039999999999992,
+				"end": 3.519999999999996,
+				"index": 0
+			},
+			{
+				"text": "you ",
+				"start": 3.519999999999996,
+				"end": 4,
+				"index": 1
+			},
+			{
+				"text": "know ",
+				"start": 4,
+				"end": 4.22,
+				"index": 2
+			},
+			{
+				"text": "that ",
+				"start": 4.22,
+				"end": 4.42,
+				"index": 3
+			}
+		],
+		"start": 3.039999999999992,
+		"end": 4.42
+	},
+	{
+		"words": [
+			{
+				"text": "Glazier ",
+				"start": 4.42,
+				"end": 4.78,
+				"index": 4
+			},
+			{
+				"text": "LeBron ",
+				"start": 4.78,
+				"end": 5.14,
+				"index": 5
+			},
+			{
+				"text": "is ",
+				"start": 5.14,
+				"end": 5.34,
+				"index": 6
+			},
+			{
+				"text": "more ",
+				"start": 5.34,
+				"end": 5.58,
+				"index": 7
+			},
+			{
+				"text": "than ",
+				"start": 5.58,
+				"end": 5.8,
+				"index": 8
+			},
+			{
+				"text": "a ",
+				"start": 5.8,
+				"end": 6,
+				"index": 9
+			},
+			{
+				"text": "hobby?",
+				"start": 6,
+				"end": 6.22,
+				"index": 10
+			}
+		],
+		"start": 4.42,
+		"end": 6.22
+	},
+	{
+		"words": [
+			{
+				"text": "Hey ",
+				"start": 11.999999999999993,
+				"end": 12.479999999999997,
+				"index": 11
+			},
+			{
+				"text": "did ",
+				"start": 12.479999999999997,
+				"end": 12.96,
+				"index": 12
+			},
+			{
+				"text": "you ",
+				"start": 12.96,
+				"end": 13.16,
+				"index": 13
+			},
+			{
+				"text": "know, ",
+				"start": 13.16,
+				"end": 13.58,
+				"index": 14
+			}
+		],
+		"start": 11.999999999999993,
+		"end": 13.58
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 14.04,
+				"end": 14.14,
+				"index": 15
+			},
+			{
+				"text": "can ",
+				"start": 14.14,
+				"end": 14.32,
+				"index": 16
+			},
+			{
+				"text": "survive, ",
+				"start": 14.32,
+				"end": 14.74,
+				"index": 17
+			},
+			{
+				"text": "my ",
+				"start": 15.36,
+				"end": 15.5,
+				"index": 18
+			},
+			{
+				"text": "little ",
+				"start": 15.5,
+				"end": 15.84,
+				"index": 19
+			},
+			{
+				"text": "sunshine",
+				"start": 15.84,
+				"end": 16.32,
+				"index": 20
+			}
+		],
+		"start": 14.04,
+		"end": 16.32
+	},
+	{
+		"words": [
+			{
+				"text": "If ",
+				"start": 16.32,
+				"end": 17,
+				"index": 21
+			},
+			{
+				"text": "LBJ ",
+				"start": 17,
+				"end": 17.54,
+				"index": 22
+			},
+			{
+				"text": "are ",
+				"start": 17.54,
+				"end": 17.84,
+				"index": 23
+			},
+			{
+				"text": "president ",
+				"start": 17.84,
+				"end": 18.2,
+				"index": 24
+			},
+			{
+				"text": "we ",
+				"start": 18.2,
+				"end": 18.56,
+				"index": 25
+			},
+			{
+				"text": "all ",
+				"start": 18.56,
+				"end": 18.8,
+				"index": 26
+			},
+			{
+				"text": "gon' ",
+				"start": 18.8,
+				"end": 18.94,
+				"index": 27
+			},
+			{
+				"text": "be ",
+				"start": 19,
+				"end": 19.14,
+				"index": 28
+			},
+			{
+				"text": "fine",
+				"start": 19.14,
+				"end": 19.5,
+				"index": 29
+			}
+		],
+		"start": 16.32,
+		"end": 19.5
+	},
+	{
+		"words": [
+			{
+				"text": "So ",
+				"start": 19.5,
+				"end": 19.98,
+				"index": 30
+			},
+			{
+				"text": "when ",
+				"start": 19.98,
+				"end": 20.14,
+				"index": 31
+			},
+			{
+				"text": "he ",
+				"start": 20.14,
+				"end": 20.26,
+				"index": 32
+			},
+			{
+				"text": "think ",
+				"start": 20.26,
+				"end": 20.44,
+				"index": 33
+			},
+			{
+				"text": "of ",
+				"start": 20.44,
+				"end": 20.62,
+				"index": 34
+			},
+			{
+				"text": "life, ",
+				"start": 20.62,
+				"end": 21.02,
+				"index": 35
+			},
+			{
+				"text": "he ",
+				"start": 21.48,
+				"end": 21.6,
+				"index": 36
+			},
+			{
+				"text": "gon' ",
+				"start": 21.6,
+				"end": 21.82,
+				"index": 37
+			},
+			{
+				"text": "get ",
+				"start": 21.82,
+				"end": 22.06,
+				"index": 38
+			},
+			{
+				"text": "a strike",
+				"start": 22.06,
+				"end": 22.66,
+				"index": 39
+			}
+		],
+		"start": 19.5,
+		"end": 22.66
+	},
+	{
+		"words": [
+			{
+				"text": "I'll ",
+				"start": 22.66,
+				"end": 23.32,
+				"index": 40
+			},
+			{
+				"text": "go ",
+				"start": 23.32,
+				"end": 23.44,
+				"index": 41
+			},
+			{
+				"text": "against ",
+				"start": 23.44,
+				"end": 23.72,
+				"index": 42
+			},
+			{
+				"text": "King ",
+				"start": 23.72,
+				"end": 24.14,
+				"index": 43
+			},
+			{
+				"text": "until ",
+				"start": 24.14,
+				"end": 24.44,
+				"index": 44
+			},
+			{
+				"text": "the ",
+				"start": 24.44,
+				"end": 24.76,
+				"index": 45
+			},
+			{
+				"text": "end ",
+				"start": 24.76,
+				"end": 25.1,
+				"index": 46
+			},
+			{
+				"text": "of ",
+				"start": 25.1,
+				"end": 25.54,
+				"index": 47
+			},
+			{
+				"text": "time",
+				"start": 25.54,
+				"end": 27.96,
+				"index": 48
+			}
+		],
+		"start": 22.66,
+		"end": 27.96
+	},
+	{
+		"words": [
+			{
+				"text": "Until ",
+				"start": 29.84,
+				"end": 30.56,
+				"index": 49
+			},
+			{
+				"text": "the ",
+				"start": 30.56,
+				"end": 30.92,
+				"index": 50
+			},
+			{
+				"text": "end ",
+				"start": 30.92,
+				"end": 31.28,
+				"index": 51
+			},
+			{
+				"text": "of ",
+				"start": 31.28,
+				"end": 31.52,
+				"index": 52
+			},
+			{
+				"text": "time",
+				"start": 31.52,
+				"end": 33,
+				"index": 53
+			}
+		],
+		"start": 29.84,
+		"end": 33
+	}
+]

@@ -1,0 +1,416 @@
+[
+	{
+		"words": [
+			{
+				"text": "When ",
+				"start": 0,
+				"end": 0.48,
+				"index": 0
+			},
+			{
+				"text": "I ",
+				"start": 0.48,
+				"end": 0.7,
+				"index": 1
+			},
+			{
+				"text": "find ",
+				"start": 0.7,
+				"end": 1.1,
+				"index": 2
+			},
+			{
+				"text": "myself ",
+				"start": 1.1,
+				"end": 1.8,
+				"index": 3
+			},
+			{
+				"text": "in ",
+				"start": 1.8,
+				"end": 2.18,
+				"index": 4
+			},
+			{
+				"text": "times ",
+				"start": 2.18,
+				"end": 2.9,
+				"index": 5
+			},
+			{
+				"text": "of ",
+				"start": 2.9,
+				"end": 3.36,
+				"index": 6
+			},
+			{
+				"text": "goonin' ",
+				"start": 3.36,
+				"end": 4.08,
+				"index": 7
+			},
+			{
+				"text": "LeBron ",
+				"start": 4.24,
+				"end": 4.5,
+				"index": 8
+			},
+			{
+				"text": "James ",
+				"start": 4.5,
+				"end": 5.08,
+				"index": 9
+			},
+			{
+				"text": "still ",
+				"start": 5.08,
+				"end": 5.56,
+				"index": 10
+			},
+			{
+				"text": "comes ",
+				"start": 5.56,
+				"end": 5.96,
+				"index": 11
+			},
+			{
+				"text": "to ",
+				"start": 5.96,
+				"end": 6.26,
+				"index": 12
+			},
+			{
+				"text": "me ",
+				"start": 6.26,
+				"end": 7.1,
+				"index": 13
+			}
+		],
+		"start": 0,
+		"end": 7.1
+	},
+	{
+		"words": [
+			{
+				"text": "Droppin' ",
+				"start": 7.1,
+				"end": 7.96,
+				"index": 14
+			},
+			{
+				"text": "40 ",
+				"start": 8.1,
+				"end": 8.32,
+				"index": 15
+			},
+			{
+				"text": "on ",
+				"start": 8.32,
+				"end": 8.84,
+				"index": 16
+			},
+			{
+				"text": "Toronto, ",
+				"start": 8.84,
+				"end": 9.7,
+				"index": 17
+			}
+		],
+		"start": 7.1,
+		"end": 9.7
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron ",
+				"start": 10.44,
+				"end": 10.62,
+				"index": 18
+			},
+			{
+				"text": "James",
+				"start": 10.62,
+				"end": 11.8,
+				"index": 19
+			}
+		],
+		"start": 10.44,
+		"end": 11.8
+	},
+	{
+		"words": [
+			{
+				"text": "And ",
+				"start": 13.879999999999999,
+				"end": 14.36,
+				"index": 20
+			},
+			{
+				"text": "in ",
+				"start": 14.36,
+				"end": 14.58,
+				"index": 21
+			},
+			{
+				"text": "LeBron's ",
+				"start": 14.58,
+				"end": 15.36,
+				"index": 22
+			},
+			{
+				"text": "hour ",
+				"start": 15.36,
+				"end": 15.62,
+				"index": 23
+			},
+			{
+				"text": "of ",
+				"start": 15.62,
+				"end": 15.88,
+				"index": 24
+			},
+			{
+				"text": "darkness, ",
+				"start": 15.88,
+				"end": 16.4,
+				"index": 25
+			},
+			{
+				"text": "he ",
+				"start": 16.48,
+				"end": 17.08,
+				"index": 26
+			},
+			{
+				"text": "will ",
+				"start": 17.08,
+				"end": 17.42,
+				"index": 27
+			},
+			{
+				"text": "still ",
+				"start": 17.42,
+				"end": 17.82,
+				"index": 28
+			},
+			{
+				"text": "hit ",
+				"start": 17.82,
+				"end": 18.14,
+				"index": 29
+			},
+			{
+				"text": "all ",
+				"start": 18.14,
+				"end": 18.9,
+				"index": 30
+			},
+			{
+				"text": "of ",
+				"start": 18.9,
+				"end": 19.2,
+				"index": 31
+			},
+			{
+				"text": "my ",
+				"start": 19.2,
+				"end": 19.58,
+				"index": 32
+			},
+			{
+				"text": "parlays ",
+				"start": 19.58,
+				"end": 20.32,
+				"index": 33
+			}
+		],
+		"start": 13.879999999999999,
+		"end": 20.32
+	},
+	{
+		"words": [
+			{
+				"text": "Glorious ",
+				"start": 20.32,
+				"end": 21.64,
+				"index": 34
+			},
+			{
+				"text": "King ",
+				"start": 21.64,
+				"end": 22.26,
+				"index": 35
+			},
+			{
+				"text": "LeBron ",
+				"start": 22.26,
+				"end": 22.84,
+				"index": 36
+			},
+			{
+				"text": "James, ",
+				"start": 22.84,
+				"end": 23.56,
+				"index": 37
+			},
+			{
+				"text": "LeBron ",
+				"start": 23.9,
+				"end": 24.18,
+				"index": 38
+			},
+			{
+				"text": "James",
+				"start": 24.18,
+				"end": 25.5,
+				"index": 39
+			}
+		],
+		"start": 20.32,
+		"end": 25.5
+	},
+	{
+		"words": [
+			{
+				"text": "You're ",
+				"start": 25.5,
+				"end": 27.06,
+				"index": 40
+			},
+			{
+				"text": "my ",
+				"start": 27.06,
+				"end": 27.18,
+				"index": 41
+			},
+			{
+				"text": "GOAT ",
+				"start": 27.18,
+				"end": 27.46,
+				"index": 42
+			},
+			{
+				"text": "James, ",
+				"start": 27.46,
+				"end": 28.46,
+				"index": 43
+			}
+		],
+		"start": 25.5,
+		"end": 28.46
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron ",
+				"start": 28.9,
+				"end": 29.06,
+				"index": 44
+			},
+			{
+				"text": "James ",
+				"start": 29.06,
+				"end": 29.76,
+				"index": 45
+			}
+		],
+		"start": 28.9,
+		"end": 29.76
+	},
+	{
+		"words": [
+			{
+				"text": "His ",
+				"start": 29.76,
+				"end": 30.34,
+				"index": 46
+			},
+			{
+				"text": "name ",
+				"start": 30.34,
+				"end": 30.6,
+				"index": 47
+			},
+			{
+				"text": "is ",
+				"start": 30.6,
+				"end": 30.82,
+				"index": 48
+			},
+			{
+				"text": "LeBron, ",
+				"start": 30.82,
+				"end": 31.38,
+				"index": 49
+			},
+			{
+				"text": "yeah ",
+				"start": 31.84,
+				"end": 32.04,
+				"index": 50
+			},
+			{
+				"text": "LeBron ",
+				"start": 32.04,
+				"end": 32.62,
+				"index": 51
+			},
+			{
+				"text": "James ",
+				"start": 32.62,
+				"end": 33.42,
+				"index": 52
+			}
+		],
+		"start": 29.76,
+		"end": 33.42
+	},
+	{
+		"words": [
+			{
+				"text": "You're ",
+				"start": 33.42,
+				"end": 35.2,
+				"index": 53
+			},
+			{
+				"text": "my ",
+				"start": 35.2,
+				"end": 35.46,
+				"index": 54
+			},
+			{
+				"text": "only ",
+				"start": 35.46,
+				"end": 36.12,
+				"index": 55
+			},
+			{
+				"text": "sunshine, ",
+				"start": 36.12,
+				"end": 37.12,
+				"index": 56
+			}
+		],
+		"start": 33.42,
+		"end": 37.12
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron ",
+				"start": 37.6,
+				"end": 37.94,
+				"index": 57
+			},
+			{
+				"text": "James",
+				"start": 37.94,
+				"end": 39.26,
+				"index": 58
+			}
+		],
+		"start": 37.6,
+		"end": 39.26
+	}
+]

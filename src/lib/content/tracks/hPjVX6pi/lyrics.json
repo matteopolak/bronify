@@ -1,0 +1,452 @@
+[
+	{
+		"words": [
+			{
+				"text": "If ",
+				"start": 0,
+				"end": 0.56,
+				"index": 0
+			},
+			{
+				"text": "this ",
+				"start": 0.56,
+				"end": 0.94,
+				"index": 1
+			},
+			{
+				"text": "league ",
+				"start": 0.94,
+				"end": 1.68,
+				"index": 2
+			},
+			{
+				"text": "was ",
+				"start": 1.68,
+				"end": 1.98,
+				"index": 3
+			},
+			{
+				"text": "bronze, ",
+				"start": 1.98,
+				"end": 2.76,
+				"index": 4
+			},
+			{
+				"text": "that'd ",
+				"start": 3.06,
+				"end": 3.3,
+				"index": 5
+			},
+			{
+				"text": "be ",
+				"start": 3.3,
+				"end": 3.34,
+				"index": 6
+			},
+			{
+				"text": "Roman ",
+				"start": 3.34,
+				"end": 3.66,
+				"index": 7
+			},
+			{
+				"text": "number ",
+				"start": 3.66,
+				"end": 4.08,
+				"index": 8
+			},
+			{
+				"text": "23, ",
+				"start": 4.08,
+				"end": 4.82,
+				"index": 9
+			},
+			{
+				"text": "my ",
+				"start": 4.84,
+				"end": 5.24,
+				"index": 10
+			},
+			{
+				"text": "king ",
+				"start": 5.24,
+				"end": 5.48,
+				"index": 11
+			},
+			{
+				"text": "is ",
+				"start": 5.48,
+				"end": 5.74,
+				"index": 12
+			},
+			{
+				"text": "LeBron",
+				"start": 5.74,
+				"end": 6.2,
+				"index": 13
+			}
+		],
+		"start": 9.68,
+		"end": 15.88
+	},
+	{
+		"words": [
+			{
+				"text": "If ",
+				"start": 0,
+				"end": 0.16,
+				"index": 14
+			},
+			{
+				"text": "LeBron ",
+				"start": 0.16,
+				"end": 0.58,
+				"index": 15
+			},
+			{
+				"text": "was ",
+				"start": 0.58,
+				"end": 0.88,
+				"index": 16
+			},
+			{
+				"text": "his, ",
+				"start": 0.88,
+				"end": 1.04,
+				"index": 17
+			},
+			{
+				"text": "he'd ",
+				"start": 1.1,
+				"end": 1.28,
+				"index": 18
+			},
+			{
+				"text": "take ",
+				"start": 1.28,
+				"end": 1.42,
+				"index": 19
+			},
+			{
+				"text": "the ",
+				"start": 1.42,
+				"end": 1.62,
+				"index": 20
+			},
+			{
+				"text": "score ",
+				"start": 1.62,
+				"end": 1.86,
+				"index": 21
+			},
+			{
+				"text": "and ",
+				"start": 1.86,
+				"end": 2.1,
+				"index": 22
+			},
+			{
+				"text": "make ",
+				"start": 2.1,
+				"end": 2.3,
+				"index": 23
+			},
+			{
+				"text": "him ",
+				"start": 2.3,
+				"end": 2.5,
+				"index": 24
+			},
+			{
+				"text": "multiply",
+				"start": 2.5,
+				"end": 3.12,
+				"index": 25
+			},
+			{
+				"text": "40",
+				"start": 3.44,
+				"end": 3.76,
+				"index": 26
+			},
+			{
+				"text": ",000 ",
+				"start": 3.76,
+				"end": 4.2,
+				"index": 27
+			},
+			{
+				"text": "points ",
+				"start": 4.2,
+				"end": 4.46,
+				"index": 28
+			},
+			{
+				"text": "and ",
+				"start": 4.46,
+				"end": 4.68,
+				"index": 29
+			},
+			{
+				"text": "he's ",
+				"start": 4.68,
+				"end": 4.94,
+				"index": 30
+			},
+			{
+				"text": "still ",
+				"start": 4.94,
+				"end": 5.1,
+				"index": 31
+			},
+			{
+				"text": "going, ",
+				"start": 5.1,
+				"end": 5.52,
+				"index": 32
+			},
+			{
+				"text": "greatest ",
+				"start": 5.64,
+				"end": 5.94,
+				"index": 33
+			},
+			{
+				"text": "of ",
+				"start": 5.94,
+				"end": 6.24,
+				"index": 34
+			},
+			{
+				"text": "all ",
+				"start": 6.24,
+				"end": 6.42,
+				"index": 35
+			},
+			{
+				"text": "time",
+				"start": 6.42,
+				"end": 6.68,
+				"index": 36
+			}
+		],
+		"start": 16.12,
+		"end": 22.8
+	},
+	{
+		"words": [
+			{
+				"text": "There's ",
+				"start": 0,
+				"end": 0.32,
+				"index": 37
+			},
+			{
+				"text": "a ",
+				"start": 0.32,
+				"end": 0.48,
+				"index": 38
+			},
+			{
+				"text": "reason ",
+				"start": 0.48,
+				"end": 0.8,
+				"index": 39
+			},
+			{
+				"text": "why ",
+				"start": 0.8,
+				"end": 1.08,
+				"index": 40
+			},
+			{
+				"text": "I ",
+				"start": 1.08,
+				"end": 1.18,
+				"index": 41
+			},
+			{
+				"text": "got ",
+				"start": 1.18,
+				"end": 1.32,
+				"index": 42
+			},
+			{
+				"text": "Shannon ",
+				"start": 1.32,
+				"end": 1.66,
+				"index": 43
+			},
+			{
+				"text": "Sharpe ",
+				"start": 1.66,
+				"end": 1.94,
+				"index": 44
+			},
+			{
+				"text": "as ",
+				"start": 1.94,
+				"end": 2.24,
+				"index": 45
+			},
+			{
+				"text": "Lakers ",
+				"start": 2.24,
+				"end": 2.54,
+				"index": 46
+			},
+			{
+				"text": "winning",
+				"start": 2.54,
+				"end": 2.92,
+				"index": 47
+			},
+			{
+				"text": "5, ",
+				"start": 2.92,
+				"end": 3.4,
+				"index": 48
+			},
+			{
+				"text": "5, ",
+				"start": 4.16,
+				"end": 4.66,
+				"index": 49
+			},
+			{
+				"text": "5, ",
+				"start": 4.86,
+				"end": 5.86,
+				"index": 50
+			},
+			{
+				"text": "5, ",
+				"start": 5.88,
+				"end": 6.28,
+				"index": 51
+			},
+			{
+				"text": "5, ",
+				"start": 6.38,
+				"end": 6.56,
+				"index": 52
+			},
+			{
+				"text": "5, ",
+				"start": 6.56,
+				"end": 7.9,
+				"index": 53
+			},
+			{
+				"text": "5, ",
+				"start": 7.92,
+				"end": 8.7,
+				"index": 54
+			},
+			{
+				"text": "5, ",
+				"start": 8.7,
+				"end": 9.68,
+				"index": 55
+			},
+			{
+				"text": "5, ",
+				"start": 9.8,
+				"end": 10.22,
+				"index": 56
+			},
+			{
+				"text": "5, ",
+				"start": 10.22,
+				"end": 10.5,
+				"index": 57
+			},
+			{
+				"text": "5, ",
+				"start": 10.56,
+				"end": 10.56,
+				"index": 58
+			},
+			{
+				"text": "5, ",
+				"start": 10.6,
+				"end": 10.6,
+				"index": 59
+			},
+			{
+				"text": "5, 5, 5, ",
+				"start": 11.22,
+				"end": 11.22,
+				"index": 60
+			},
+			{
+				"text": "5, ",
+				"start": 11.24,
+				"end": 11.38,
+				"index": 61
+			},
+			{
+				"text": "5, ",
+				"start": 11.44,
+				"end": 11.44,
+				"index": 62
+			},
+			{
+				"text": "5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, ",
+				"start": 11.68,
+				"end": 11.68,
+				"index": 63
+			},
+			{
+				"text": "5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, ",
+				"start": 11.7,
+				"end": 12.84,
+				"index": 64
+			},
+			{
+				"text": "5",
+				"start": 12.98,
+				"end": 32.9,
+				"index": 65
+			},
+			{
+				"text": "5, ",
+				"start": 32.9,
+				"end": 32.9,
+				"index": 66
+			},
+			{
+				"text": "5, ",
+				"start": 33.06,
+				"end": 33.28,
+				"index": 67
+			},
+			{
+				"text": "5, ",
+				"start": 33.3,
+				"end": 33.3,
+				"index": 68
+			},
+			{
+				"text": "5, 5, ",
+				"start": 33.32,
+				"end": 33.34,
+				"index": 69
+			},
+			{
+				"text": "5, 5, 5,",
+				"start": 33.34,
+				"end": 33.36,
+				"index": 70
+			},
+			{
+				"text": "don't",
+				"start": 33.36,
+				"end": 34.18,
+				"index": 71
+			}
+		],
+		"start": 22.98,
+		"end": 57.16
+	}
+]

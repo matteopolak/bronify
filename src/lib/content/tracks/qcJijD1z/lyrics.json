@@ -1,0 +1,2030 @@
+[
+	{
+		"words": [
+			{
+				"text": "A ",
+				"start": 0,
+				"end": 0.68,
+				"index": 0
+			},
+			{
+				"text": "tornado ",
+				"start": 0.68,
+				"end": 1.36,
+				"index": 1
+			},
+			{
+				"text": "flew ",
+				"start": 1.36,
+				"end": 1.74,
+				"index": 2
+			},
+			{
+				"text": "around ",
+				"start": 1.74,
+				"end": 2.34,
+				"index": 3
+			},
+			{
+				"text": "the ",
+				"start": 2.34,
+				"end": 2.6,
+				"index": 4
+			},
+			{
+				"text": "court ",
+				"start": 2.6,
+				"end": 2.96,
+				"index": 5
+			},
+			{
+				"text": "before ",
+				"start": 2.96,
+				"end": 3.48,
+				"index": 6
+			},
+			{
+				"text": "you ",
+				"start": 3.48,
+				"end": 3.72,
+				"index": 7
+			},
+			{
+				"text": "played",
+				"start": 3.72,
+				"end": 4.18,
+				"index": 8
+			}
+		],
+		"start": 6.34,
+		"end": 10.52
+	},
+	{
+		"words": [
+			{
+				"text": "Excuse ",
+				"start": 0,
+				"end": 0.78,
+				"index": 9
+			},
+			{
+				"text": "the ",
+				"start": 0.78,
+				"end": 1.02,
+				"index": 10
+			},
+			{
+				"text": "mess ",
+				"start": 1.02,
+				"end": 1.24,
+				"index": 11
+			},
+			{
+				"text": "it ",
+				"start": 1.24,
+				"end": 1.48,
+				"index": 12
+			},
+			{
+				"text": "made, ",
+				"start": 1.48,
+				"end": 1.82,
+				"index": 13
+			},
+			{
+				"text": "the ",
+				"start": 1.98,
+				"end": 2.18,
+				"index": 14
+			},
+			{
+				"text": "crowd ",
+				"start": 2.18,
+				"end": 2.48,
+				"index": 15
+			},
+			{
+				"text": "got ",
+				"start": 2.48,
+				"end": 2.76,
+				"index": 16
+			},
+			{
+				"text": "swept ",
+				"start": 2.76,
+				"end": 3.04,
+				"index": 17
+			},
+			{
+				"text": "away",
+				"start": 3.04,
+				"end": 3.7,
+				"index": 18
+			}
+		],
+		"start": 10.52,
+		"end": 14.22
+	},
+	{
+		"words": [
+			{
+				"text": "Rings ",
+				"start": 0,
+				"end": 0.76,
+				"index": 19
+			},
+			{
+				"text": "I ",
+				"start": 0.76,
+				"end": 0.92,
+				"index": 20
+			},
+			{
+				"text": "see ",
+				"start": 0.92,
+				"end": 1.2,
+				"index": 21
+			},
+			{
+				"text": "them ",
+				"start": 1.2,
+				"end": 1.4,
+				"index": 22
+			},
+			{
+				"text": "shining, ",
+				"start": 1.4,
+				"end": 1.98,
+				"index": 23
+			},
+			{
+				"text": "hang ",
+				"start": 2.02,
+				"end": 2.6,
+				"index": 24
+			},
+			{
+				"text": "up ",
+				"start": 2.6,
+				"end": 2.86,
+				"index": 25
+			},
+			{
+				"text": "in ",
+				"start": 2.86,
+				"end": 3.12,
+				"index": 26
+			},
+			{
+				"text": "the ",
+				"start": 3.12,
+				"end": 3.3,
+				"index": 27
+			},
+			{
+				"text": "sky",
+				"start": 3.3,
+				"end": 3.64,
+				"index": 28
+			}
+		],
+		"start": 14.22,
+		"end": 17.86
+	},
+	{
+		"words": [
+			{
+				"text": "Still ",
+				"start": 0,
+				"end": 0.34,
+				"index": 29
+			},
+			{
+				"text": "here ",
+				"start": 0.34,
+				"end": 0.72,
+				"index": 30
+			},
+			{
+				"text": "still ",
+				"start": 0.72,
+				"end": 1.22,
+				"index": 31
+			},
+			{
+				"text": "running, ",
+				"start": 1.22,
+				"end": 1.86,
+				"index": 32
+			},
+			{
+				"text": "things ",
+				"start": 2.2,
+				"end": 2.62,
+				"index": 33
+			},
+			{
+				"text": "are ",
+				"start": 2.62,
+				"end": 2.8,
+				"index": 34
+			},
+			{
+				"text": "slowing",
+				"start": 2.8,
+				"end": 3.18,
+				"index": 35
+			},
+			{
+				"text": "down ",
+				"start": 3.18,
+				"end": 3.76,
+				"index": 36
+			},
+			{
+				"text": "I've ",
+				"start": 3.76,
+				"end": 4.14,
+				"index": 37
+			},
+			{
+				"text": "been ",
+				"start": 4.14,
+				"end": 4.28,
+				"index": 38
+			},
+			{
+				"text": "thinking ",
+				"start": 4.28,
+				"end": 4.62,
+				"index": 39
+			},
+			{
+				"text": "about ",
+				"start": 4.62,
+				"end": 4.96,
+				"index": 40
+			},
+			{
+				"text": "you, ",
+				"start": 4.96,
+				"end": 5.28,
+				"index": 41
+			},
+			{
+				"text": "you ",
+				"start": 5.62,
+				"end": 5.96,
+				"index": 42
+			},
+			{
+				"text": "now, ",
+				"start": 5.96,
+				"end": 6.44,
+				"index": 43
+			},
+			{
+				"text": "now,",
+				"start": 6.56,
+				"end": 6.92,
+				"index": 44
+			},
+			{
+				"text": "now ",
+				"start": 6.92,
+				"end": 7.44,
+				"index": 45
+			},
+			{
+				"text": "I've ",
+				"start": 7.44,
+				"end": 7.82,
+				"index": 46
+			},
+			{
+				"text": "been ",
+				"start": 7.82,
+				"end": 7.96,
+				"index": 47
+			},
+			{
+				"text": "thinking ",
+				"start": 7.96,
+				"end": 8.28,
+				"index": 48
+			},
+			{
+				"text": "about ",
+				"start": 8.28,
+				"end": 8.64,
+				"index": 49
+			},
+			{
+				"text": "you, ",
+				"start": 8.64,
+				"end": 9.14,
+				"index": 50
+			},
+			{
+				"text": "love ",
+				"start": 9.34,
+				"end": 9.68,
+				"index": 51
+			},
+			{
+				"text": "bro, ",
+				"start": 9.68,
+				"end": 10.16,
+				"index": 52
+			},
+			{
+				"text": "bro",
+				"start": 10.4,
+				"end": 10.5,
+				"index": 53
+			}
+		],
+		"start": 17.86,
+		"end": 28.36
+	},
+	{
+		"words": [
+			{
+				"text": "I've ",
+				"start": 0,
+				"end": 0.46,
+				"index": 54
+			},
+			{
+				"text": "been ",
+				"start": 0.46,
+				"end": 0.56,
+				"index": 55
+			},
+			{
+				"text": "thinking ",
+				"start": 0.56,
+				"end": 0.94,
+				"index": 56
+			},
+			{
+				"text": "about ",
+				"start": 0.94,
+				"end": 1.28,
+				"index": 57
+			},
+			{
+				"text": "you, ",
+				"start": 1.28,
+				"end": 1.68,
+				"index": 58
+			},
+			{
+				"text": "do ",
+				"start": 1.84,
+				"end": 2.16,
+				"index": 59
+			},
+			{
+				"text": "you ",
+				"start": 2.16,
+				"end": 2.4,
+				"index": 60
+			},
+			{
+				"text": "hear ",
+				"start": 2.4,
+				"end": 2.86,
+				"index": 61
+			},
+			{
+				"text": "the ",
+				"start": 2.86,
+				"end": 3.14,
+				"index": 62
+			},
+			{
+				"text": "slander ",
+				"start": 3.14,
+				"end": 3.84,
+				"index": 63
+			},
+			{
+				"text": "still?",
+				"start": 3.84,
+				"end": 4.6,
+				"index": 64
+			}
+		],
+		"start": 28.9,
+		"end": 33.5
+	},
+	{
+		"words": [
+			{
+				"text": "Do ",
+				"start": 0,
+				"end": 0.2,
+				"index": 65
+			},
+			{
+				"text": "you, ",
+				"start": 0.2,
+				"end": 0.54,
+				"index": 66
+			},
+			{
+				"text": "do ",
+				"start": 0.76,
+				"end": 1.1,
+				"index": 67
+			},
+			{
+				"text": "you?",
+				"start": 1.1,
+				"end": 1.7,
+				"index": 68
+			}
+		],
+		"start": 33.98,
+		"end": 35.68
+	},
+	{
+		"words": [
+			{
+				"text": "Do ",
+				"start": 0,
+				"end": 0.34,
+				"index": 69
+			},
+			{
+				"text": "you ",
+				"start": 0.34,
+				"end": 0.58,
+				"index": 70
+			},
+			{
+				"text": "not ",
+				"start": 0.58,
+				"end": 0.94,
+				"index": 71
+			},
+			{
+				"text": "think ",
+				"start": 0.94,
+				"end": 1.46,
+				"index": 72
+			},
+			{
+				"text": "they ",
+				"start": 1.46,
+				"end": 1.92,
+				"index": 73
+			},
+			{
+				"text": "know ",
+				"start": 1.92,
+				"end": 2.72,
+				"index": 74
+			},
+			{
+				"text": "the ",
+				"start": 2.72,
+				"end": 3.52,
+				"index": 75
+			},
+			{
+				"text": "truth?",
+				"start": 3.52,
+				"end": 4.18,
+				"index": 76
+			}
+		],
+		"start": 35.82,
+		"end": 40
+	},
+	{
+		"words": [
+			{
+				"text": "Cause ",
+				"start": 0,
+				"end": 0.2,
+				"index": 77
+			},
+			{
+				"text": "I've ",
+				"start": 0.2,
+				"end": 0.66,
+				"index": 78
+			},
+			{
+				"text": "been ",
+				"start": 0.66,
+				"end": 0.74,
+				"index": 79
+			},
+			{
+				"text": "thinking ",
+				"start": 0.74,
+				"end": 1.04,
+				"index": 80
+			},
+			{
+				"text": "about ",
+				"start": 1.04,
+				"end": 1.36,
+				"index": 81
+			},
+			{
+				"text": "LeBron, ",
+				"start": 1.36,
+				"end": 2,
+				"index": 82
+			},
+			{
+				"text": "how ",
+				"start": 2.76,
+				"end": 3.88,
+				"index": 83
+			},
+			{
+				"text": "about ",
+				"start": 3.88,
+				"end": 4.32,
+				"index": 84
+			},
+			{
+				"text": "you?",
+				"start": 4.32,
+				"end": 4.82,
+				"index": 85
+			}
+		],
+		"start": 42.68,
+		"end": 47.5
+	},
+	{
+		"words": [
+			{
+				"text": "Do ",
+				"start": 0,
+				"end": 0.46,
+				"index": 86
+			},
+			{
+				"text": "you ",
+				"start": 0.46,
+				"end": 0.68,
+				"index": 87
+			},
+			{
+				"text": "not ",
+				"start": 0.68,
+				"end": 1.1,
+				"index": 88
+			},
+			{
+				"text": "think ",
+				"start": 1.1,
+				"end": 1.58,
+				"index": 89
+			},
+			{
+				"text": "they ",
+				"start": 1.58,
+				"end": 2.14,
+				"index": 90
+			},
+			{
+				"text": "know ",
+				"start": 2.14,
+				"end": 2.84,
+				"index": 91
+			},
+			{
+				"text": "the ",
+				"start": 2.84,
+				"end": 3.5,
+				"index": 92
+			},
+			{
+				"text": "truth?",
+				"start": 3.5,
+				"end": 4.5,
+				"index": 93
+			}
+		],
+		"start": 50.44,
+		"end": 54.94
+	},
+	{
+		"words": [
+			{
+				"text": "Cause ",
+				"start": 0,
+				"end": 0.56,
+				"index": 94
+			},
+			{
+				"text": "I've ",
+				"start": 0.56,
+				"end": 1.06,
+				"index": 95
+			},
+			{
+				"text": "been ",
+				"start": 1.06,
+				"end": 1.14,
+				"index": 96
+			},
+			{
+				"text": "thinking ",
+				"start": 1.14,
+				"end": 1.44,
+				"index": 97
+			},
+			{
+				"text": "about ",
+				"start": 1.44,
+				"end": 1.8,
+				"index": 98
+			},
+			{
+				"text": "LeBron, ",
+				"start": 1.8,
+				"end": 2.48,
+				"index": 99
+			},
+			{
+				"text": "ooh",
+				"start": 4.04,
+				"end": 5.12,
+				"index": 100
+			}
+		],
+		"start": 57.06,
+		"end": 62.18
+	},
+	{
+		"words": [
+			{
+				"text": "No ",
+				"start": 0,
+				"end": 0.56,
+				"index": 101
+			},
+			{
+				"text": "I ",
+				"start": 0.56,
+				"end": 0.86,
+				"index": 102
+			},
+			{
+				"text": "don't ",
+				"start": 0.86,
+				"end": 1.12,
+				"index": 103
+			},
+			{
+				"text": "hate ",
+				"start": 1.12,
+				"end": 1.32,
+				"index": 104
+			},
+			{
+				"text": "him, ",
+				"start": 1.32,
+				"end": 1.56,
+				"index": 105
+			},
+			{
+				"text": "I ",
+				"start": 1.68,
+				"end": 1.76,
+				"index": 106
+			},
+			{
+				"text": "just ",
+				"start": 1.76,
+				"end": 1.94,
+				"index": 107
+			},
+			{
+				"text": "thought ",
+				"start": 1.94,
+				"end": 2.18,
+				"index": 108
+			},
+			{
+				"text": "they ",
+				"start": 2.18,
+				"end": 2.46,
+				"index": 109
+			},
+			{
+				"text": "lost ",
+				"start": 2.46,
+				"end": 2.66,
+				"index": 110
+			},
+			{
+				"text": "their ",
+				"start": 2.66,
+				"end": 3.14,
+				"index": 111
+			},
+			{
+				"text": "damn ",
+				"start": 3.14,
+				"end": 3.6,
+				"index": 112
+			},
+			{
+				"text": "perception",
+				"start": 3.6,
+				"end": 4.2,
+				"index": 113
+			}
+		],
+		"start": 65.32,
+		"end": 69.52
+	},
+	{
+		"words": [
+			{
+				"text": "Got ",
+				"start": 0,
+				"end": 0.38,
+				"index": 114
+			},
+			{
+				"text": "a ",
+				"start": 0.38,
+				"end": 0.58,
+				"index": 115
+			},
+			{
+				"text": "stat ",
+				"start": 0.58,
+				"end": 0.78,
+				"index": 116
+			},
+			{
+				"text": "like ",
+				"start": 0.78,
+				"end": 1,
+				"index": 117
+			},
+			{
+				"text": "no ",
+				"start": 1,
+				"end": 1.26,
+				"index": 118
+			},
+			{
+				"text": "one's ",
+				"start": 1.26,
+				"end": 1.56,
+				"index": 119
+			},
+			{
+				"text": "touching, ",
+				"start": 1.56,
+				"end": 1.86,
+				"index": 120
+			},
+			{
+				"text": "check ",
+				"start": 2.06,
+				"end": 2.18,
+				"index": 121
+			},
+			{
+				"text": "numbers ",
+				"start": 2.18,
+				"end": 2.78,
+				"index": 122
+			},
+			{
+				"text": "twice",
+				"start": 2.78,
+				"end": 3.16,
+				"index": 123
+			}
+		],
+		"start": 69.52,
+		"end": 72.68
+	},
+	{
+		"words": [
+			{
+				"text": "Since ",
+				"start": 0,
+				"end": 0.4,
+				"index": 124
+			},
+			{
+				"text": "they ",
+				"start": 0.4,
+				"end": 0.64,
+				"index": 125
+			},
+			{
+				"text": "called ",
+				"start": 0.64,
+				"end": 0.92,
+				"index": 126
+			},
+			{
+				"text": "him ",
+				"start": 0.92,
+				"end": 1.2,
+				"index": 127
+			},
+			{
+				"text": "wise, ",
+				"start": 1.2,
+				"end": 1.5,
+				"index": 128
+			},
+			{
+				"text": "I ",
+				"start": 1.68,
+				"end": 1.84,
+				"index": 129
+			},
+			{
+				"text": "just ",
+				"start": 1.84,
+				"end": 2.02,
+				"index": 130
+			},
+			{
+				"text": "laugh ",
+				"start": 2.02,
+				"end": 2.34,
+				"index": 131
+			},
+			{
+				"text": "and ",
+				"start": 2.34,
+				"end": 2.56,
+				"index": 132
+			},
+			{
+				"text": "I'm ",
+				"start": 2.56,
+				"end": 2.94,
+				"index": 133
+			},
+			{
+				"text": "watching",
+				"start": 2.94,
+				"end": 3.34,
+				"index": 134
+			}
+		],
+		"start": 72.68,
+		"end": 76.02
+	},
+	{
+		"words": [
+			{
+				"text": "Drop ",
+				"start": 0,
+				"end": 0.32,
+				"index": 135
+			},
+			{
+				"text": "a ",
+				"start": 0.32,
+				"end": 0.6,
+				"index": 136
+			},
+			{
+				"text": "thirty, ",
+				"start": 0.6,
+				"end": 0.92,
+				"index": 137
+			},
+			{
+				"text": "got ",
+				"start": 1.2,
+				"end": 1.24,
+				"index": 138
+			},
+			{
+				"text": "these ",
+				"start": 1.24,
+				"end": 1.44,
+				"index": 139
+			},
+			{
+				"text": "kids ",
+				"start": 1.44,
+				"end": 1.72,
+				"index": 140
+			},
+			{
+				"text": "and ",
+				"start": 1.72,
+				"end": 1.96,
+				"index": 141
+			},
+			{
+				"text": "all ",
+				"start": 1.96,
+				"end": 2.18,
+				"index": 142
+			},
+			{
+				"text": "they ",
+				"start": 2.18,
+				"end": 2.34,
+				"index": 143
+			},
+			{
+				"text": "don't ",
+				"start": 2.34,
+				"end": 2.64,
+				"index": 144
+			},
+			{
+				"text": "know",
+				"start": 2.64,
+				"end": 2.82,
+				"index": 145
+			}
+		],
+		"start": 76.02,
+		"end": 78.84
+	},
+	{
+		"words": [
+			{
+				"text": "He's ",
+				"start": 0,
+				"end": 0.4,
+				"index": 146
+			},
+			{
+				"text": "done ",
+				"start": 0.4,
+				"end": 0.7,
+				"index": 147
+			},
+			{
+				"text": "it ",
+				"start": 0.7,
+				"end": 1.02,
+				"index": 148
+			},
+			{
+				"text": "all ",
+				"start": 1.02,
+				"end": 1.2,
+				"index": 149
+			},
+			{
+				"text": "before, ",
+				"start": 1.2,
+				"end": 1.78,
+				"index": 150
+			},
+			{
+				"text": "I've ",
+				"start": 1.94,
+				"end": 2.24,
+				"index": 151
+			},
+			{
+				"text": "been ",
+				"start": 2.24,
+				"end": 2.36,
+				"index": 152
+			},
+			{
+				"text": "thinking ",
+				"start": 2.36,
+				"end": 2.72,
+				"index": 153
+			},
+			{
+				"text": "about ",
+				"start": 2.72,
+				"end": 3.06,
+				"index": 154
+			},
+			{
+				"text": "you, ",
+				"start": 3.06,
+				"end": 3.56,
+				"index": 155
+			},
+			{
+				"text": "you ",
+				"start": 3.68,
+				"end": 4.04,
+				"index": 156
+			},
+			{
+				"text": "now, ",
+				"start": 4.04,
+				"end": 4.5,
+				"index": 157
+			},
+			{
+				"text": "now, ",
+				"start": 4.72,
+				"end": 5.04,
+				"index": 158
+			},
+			{
+				"text": "now",
+				"start": 5.16,
+				"end": 5.56,
+				"index": 159
+			}
+		],
+		"start": 78.84,
+		"end": 84.4
+	},
+	{
+		"words": [
+			{
+				"text": "I've ",
+				"start": 0,
+				"end": 0.36,
+				"index": 160
+			},
+			{
+				"text": "been ",
+				"start": 0.36,
+				"end": 0.52,
+				"index": 161
+			},
+			{
+				"text": "thinking ",
+				"start": 0.52,
+				"end": 0.86,
+				"index": 162
+			},
+			{
+				"text": "about ",
+				"start": 0.86,
+				"end": 1.2,
+				"index": 163
+			},
+			{
+				"text": "you, ",
+				"start": 1.2,
+				"end": 1.54,
+				"index": 164
+			},
+			{
+				"text": "love ",
+				"start": 1.96,
+				"end": 2.16,
+				"index": 165
+			},
+			{
+				"text": "bro, ",
+				"start": 2.16,
+				"end": 2.68,
+				"index": 166
+			},
+			{
+				"text": "bro, ",
+				"start": 2.94,
+				"end": 3.18,
+				"index": 167
+			},
+			{
+				"text": "bro",
+				"start": 3.18,
+				"end": 3.6,
+				"index": 168
+			}
+		],
+		"start": 84.4,
+		"end": 88
+	},
+	{
+		"words": [
+			{
+				"text": "I've ",
+				"start": 0,
+				"end": 0.42,
+				"index": 169
+			},
+			{
+				"text": "been ",
+				"start": 0.42,
+				"end": 0.6,
+				"index": 170
+			},
+			{
+				"text": "thinking ",
+				"start": 0.6,
+				"end": 0.94,
+				"index": 171
+			},
+			{
+				"text": "about ",
+				"start": 0.94,
+				"end": 1.28,
+				"index": 172
+			},
+			{
+				"text": "you, ",
+				"start": 1.28,
+				"end": 1.72,
+				"index": 173
+			},
+			{
+				"text": "do ",
+				"start": 2.02,
+				"end": 2.18,
+				"index": 174
+			},
+			{
+				"text": "you ",
+				"start": 2.18,
+				"end": 2.38,
+				"index": 175
+			},
+			{
+				"text": "hear ",
+				"start": 2.38,
+				"end": 2.82,
+				"index": 176
+			},
+			{
+				"text": "the ",
+				"start": 2.82,
+				"end": 3.12,
+				"index": 177
+			},
+			{
+				"text": "slander ",
+				"start": 3.12,
+				"end": 3.82,
+				"index": 178
+			},
+			{
+				"text": "still?",
+				"start": 3.82,
+				"end": 4.48,
+				"index": 179
+			}
+		],
+		"start": 88,
+		"end": 92.48
+	},
+	{
+		"words": [
+			{
+				"text": "Do ",
+				"start": 0,
+				"end": 0.16,
+				"index": 180
+			},
+			{
+				"text": "you, ",
+				"start": 0.16,
+				"end": 0.52,
+				"index": 181
+			},
+			{
+				"text": "do ",
+				"start": 0.7,
+				"end": 1.14,
+				"index": 182
+			},
+			{
+				"text": "you?",
+				"start": 1.14,
+				"end": 1.66,
+				"index": 183
+			}
+		],
+		"start": 93.08,
+		"end": 94.74
+	},
+	{
+		"words": [
+			{
+				"text": "Do ",
+				"start": 0,
+				"end": 0.22,
+				"index": 184
+			},
+			{
+				"text": "you ",
+				"start": 0.22,
+				"end": 0.42,
+				"index": 185
+			},
+			{
+				"text": "not ",
+				"start": 0.42,
+				"end": 0.8,
+				"index": 186
+			},
+			{
+				"text": "think ",
+				"start": 0.8,
+				"end": 1.3,
+				"index": 187
+			},
+			{
+				"text": "they ",
+				"start": 1.3,
+				"end": 1.88,
+				"index": 188
+			},
+			{
+				"text": "know ",
+				"start": 1.88,
+				"end": 2.58,
+				"index": 189
+			},
+			{
+				"text": "the ",
+				"start": 2.58,
+				"end": 3.16,
+				"index": 190
+			},
+			{
+				"text": "truth?",
+				"start": 3.16,
+				"end": 4.1,
+				"index": 191
+			}
+		],
+		"start": 95.1,
+		"end": 99.2
+	},
+	{
+		"words": [
+			{
+				"text": "Cause ",
+				"start": 0,
+				"end": 0.26,
+				"index": 192
+			},
+			{
+				"text": "I've ",
+				"start": 0.26,
+				"end": 0.74,
+				"index": 193
+			},
+			{
+				"text": "been ",
+				"start": 0.74,
+				"end": 0.84,
+				"index": 194
+			},
+			{
+				"text": "thinking ",
+				"start": 0.84,
+				"end": 1.12,
+				"index": 195
+			},
+			{
+				"text": "about ",
+				"start": 1.12,
+				"end": 1.48,
+				"index": 196
+			},
+			{
+				"text": "LeBron, ",
+				"start": 1.48,
+				"end": 2.04,
+				"index": 197
+			},
+			{
+				"text": "ooh",
+				"start": 2.94,
+				"end": 5.1,
+				"index": 198
+			}
+		],
+		"start": 101.64,
+		"end": 106.74
+	},
+	{
+		"words": [
+			{
+				"text": "Do ",
+				"start": 0,
+				"end": 0.86,
+				"index": 199
+			},
+			{
+				"text": "you ",
+				"start": 0.86,
+				"end": 1.14,
+				"index": 200
+			},
+			{
+				"text": "not ",
+				"start": 1.14,
+				"end": 1.52,
+				"index": 201
+			},
+			{
+				"text": "think ",
+				"start": 1.52,
+				"end": 2.02,
+				"index": 202
+			},
+			{
+				"text": "they ",
+				"start": 2.02,
+				"end": 2.64,
+				"index": 203
+			},
+			{
+				"text": "know ",
+				"start": 2.64,
+				"end": 3.28,
+				"index": 204
+			},
+			{
+				"text": "the ",
+				"start": 3.28,
+				"end": 3.96,
+				"index": 205
+			},
+			{
+				"text": "truth?",
+				"start": 3.96,
+				"end": 4.9,
+				"index": 206
+			}
+		],
+		"start": 109.1,
+		"end": 114
+	},
+	{
+		"words": [
+			{
+				"text": "Cause ",
+				"start": 0,
+				"end": 0.12,
+				"index": 207
+			},
+			{
+				"text": "I've ",
+				"start": 0.12,
+				"end": 0.64,
+				"index": 208
+			},
+			{
+				"text": "been ",
+				"start": 0.64,
+				"end": 0.74,
+				"index": 209
+			},
+			{
+				"text": "thinking ",
+				"start": 0.74,
+				"end": 1.02,
+				"index": 210
+			},
+			{
+				"text": "about ",
+				"start": 1.02,
+				"end": 1.4,
+				"index": 211
+			},
+			{
+				"text": "LeBron, ",
+				"start": 1.4,
+				"end": 2.62,
+				"index": 212
+			},
+			{
+				"text": "how ",
+				"start": 3.58,
+				"end": 3.96,
+				"index": 213
+			},
+			{
+				"text": "about ",
+				"start": 3.96,
+				"end": 4.38,
+				"index": 214
+			},
+			{
+				"text": "you?",
+				"start": 4.38,
+				"end": 4.86,
+				"index": 215
+			}
+		],
+		"start": 116.52,
+		"end": 121.38
+	},
+	{
+		"words": [
+			{
+				"text": "How ",
+				"start": 0,
+				"end": 0.18,
+				"index": 216
+			},
+			{
+				"text": "about ",
+				"start": 0.18,
+				"end": 0.54,
+				"index": 217
+			},
+			{
+				"text": "you?",
+				"start": 0.54,
+				"end": 0.9,
+				"index": 218
+			}
+		],
+		"start": 122.18,
+		"end": 123.08
+	},
+	{
+		"words": [
+			{
+				"text": "Yes ",
+				"start": 0,
+				"end": 0.28,
+				"index": 219
+			},
+			{
+				"text": "of ",
+				"start": 0.28,
+				"end": 0.46,
+				"index": 220
+			},
+			{
+				"text": "course",
+				"start": 0.46,
+				"end": 0.66,
+				"index": 221
+			}
+		],
+		"start": 123.88,
+		"end": 124.54
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.18,
+				"index": 222
+			},
+			{
+				"text": "remember ",
+				"start": 0.18,
+				"end": 0.62,
+				"index": 223
+			},
+			{
+				"text": "how ",
+				"start": 0.62,
+				"end": 0.94,
+				"index": 224
+			},
+			{
+				"text": "could ",
+				"start": 0.94,
+				"end": 1.2,
+				"index": 225
+			},
+			{
+				"text": "I ",
+				"start": 1.2,
+				"end": 1.42,
+				"index": 226
+			},
+			{
+				"text": "forget",
+				"start": 1.42,
+				"end": 2.06,
+				"index": 227
+			}
+		],
+		"start": 125.22,
+		"end": 127.28
+	},
+	{
+		"words": [
+			{
+				"text": "About ",
+				"start": 0,
+				"end": 1.5,
+				"index": 228
+			},
+			{
+				"text": "LeBron",
+				"start": 1.5,
+				"end": 2.4,
+				"index": 229
+			}
+		],
+		"start": 127.28,
+		"end": 129.68
+	},
+	{
+		"words": [
+			{
+				"text": "You ",
+				"start": 0,
+				"end": 0.68,
+				"index": 230
+			},
+			{
+				"text": "know ",
+				"start": 0.68,
+				"end": 1.28,
+				"index": 231
+			},
+			{
+				"text": "you ",
+				"start": 1.28,
+				"end": 1.52,
+				"index": 232
+			},
+			{
+				"text": "took ",
+				"start": 1.52,
+				"end": 1.76,
+				"index": 233
+			},
+			{
+				"text": "that ",
+				"start": 1.76,
+				"end": 2.02,
+				"index": 234
+			},
+			{
+				"text": "so ",
+				"start": 2.02,
+				"end": 2.46,
+				"index": 235
+			},
+			{
+				"text": "bad, ",
+				"start": 2.46,
+				"end": 3.5,
+				"index": 236
+			},
+			{
+				"text": "a ",
+				"start": 3.5,
+				"end": 4.48,
+				"index": 237
+			},
+			{
+				"text": "game ",
+				"start": 4.48,
+				"end": 4.64,
+				"index": 238
+			},
+			{
+				"text": "so ",
+				"start": 4.64,
+				"end": 5.1,
+				"index": 239
+			},
+			{
+				"text": "hard",
+				"start": 5.1,
+				"end": 6.28,
+				"index": 240
+			}
+		],
+		"start": 131.54,
+		"end": 137.82
+	},
+	{
+		"words": [
+			{
+				"text": "It ",
+				"start": 0,
+				"end": 0.68,
+				"index": 241
+			},
+			{
+				"text": "will ",
+				"start": 0.68,
+				"end": 0.9,
+				"index": 242
+			},
+			{
+				"text": "never ",
+				"start": 0.9,
+				"end": 1.2,
+				"index": 243
+			},
+			{
+				"text": "get ",
+				"start": 1.2,
+				"end": 1.64,
+				"index": 244
+			},
+			{
+				"text": "old, ",
+				"start": 1.64,
+				"end": 2.02,
+				"index": 245
+			},
+			{
+				"text": "not ",
+				"start": 2.02,
+				"end": 2.26,
+				"index": 246
+			},
+			{
+				"text": "in ",
+				"start": 2.26,
+				"end": 2.46,
+				"index": 247
+			},
+			{
+				"text": "your ",
+				"start": 2.46,
+				"end": 2.76,
+				"index": 248
+			},
+			{
+				"text": "soul, ",
+				"start": 2.76,
+				"end": 3.1,
+				"index": 249
+			},
+			{
+				"text": "not ",
+				"start": 3.24,
+				"end": 3.42,
+				"index": 250
+			},
+			{
+				"text": "in ",
+				"start": 3.42,
+				"end": 3.7,
+				"index": 251
+			},
+			{
+				"text": "your ",
+				"start": 3.7,
+				"end": 4.04,
+				"index": 252
+			},
+			{
+				"text": "spirit",
+				"start": 4.04,
+				"end": 4.42,
+				"index": 253
+			}
+		],
+		"start": 138.52,
+		"end": 142.94
+	},
+	{
+		"words": [
+			{
+				"text": "The ",
+				"start": 0,
+				"end": 0.4,
+				"index": 254
+			},
+			{
+				"text": "game ",
+				"start": 0.4,
+				"end": 0.62,
+				"index": 255
+			},
+			{
+				"text": "is ",
+				"start": 0.62,
+				"end": 0.94,
+				"index": 256
+			},
+			{
+				"text": "yours, ",
+				"start": 0.94,
+				"end": 1.66,
+				"index": 257
+			},
+			{
+				"text": "we'll ",
+				"start": 1.66,
+				"end": 4.04,
+				"index": 258
+			},
+			{
+				"text": "go ",
+				"start": 4.04,
+				"end": 4.2,
+				"index": 259
+			},
+			{
+				"text": "down ",
+				"start": 4.2,
+				"end": 4.52,
+				"index": 260
+			},
+			{
+				"text": "this ",
+				"start": 4.52,
+				"end": 4.74,
+				"index": 261
+			},
+			{
+				"text": "road",
+				"start": 4.74,
+				"end": 5.1,
+				"index": 262
+			}
+		],
+		"start": 142.94,
+		"end": 148.04
+	},
+	{
+		"words": [
+			{
+				"text": "Till ",
+				"start": 0,
+				"end": 0.3,
+				"index": 263
+			},
+			{
+				"text": "they ",
+				"start": 0.3,
+				"end": 0.56,
+				"index": 264
+			},
+			{
+				"text": "finally ",
+				"start": 0.56,
+				"end": 1.08,
+				"index": 265
+			},
+			{
+				"text": "stop ",
+				"start": 1.08,
+				"end": 1.62,
+				"index": 266
+			},
+			{
+				"text": "pretending ",
+				"start": 1.62,
+				"end": 2.24,
+				"index": 267
+			},
+			{
+				"text": "you ",
+				"start": 2.24,
+				"end": 2.62,
+				"index": 268
+			},
+			{
+				"text": "ain't ",
+				"start": 2.62,
+				"end": 2.84,
+				"index": 269
+			},
+			{
+				"text": "the ",
+				"start": 2.84,
+				"end": 3.22,
+				"index": 270
+			},
+			{
+				"text": "gold",
+				"start": 3.22,
+				"end": 5.68,
+				"index": 271
+			}
+		],
+		"start": 148.04,
+		"end": 153.72
+	},
+	{
+		"words": [
+			{
+				"text": "Do ",
+				"start": 0,
+				"end": 0.68,
+				"index": 272
+			},
+			{
+				"text": "you ",
+				"start": 0.68,
+				"end": 0.92,
+				"index": 273
+			},
+			{
+				"text": "not ",
+				"start": 0.92,
+				"end": 1.28,
+				"index": 274
+			},
+			{
+				"text": "think ",
+				"start": 1.28,
+				"end": 1.78,
+				"index": 275
+			},
+			{
+				"text": "they ",
+				"start": 1.78,
+				"end": 2.2,
+				"index": 276
+			},
+			{
+				"text": "know ",
+				"start": 2.2,
+				"end": 3.08,
+				"index": 277
+			},
+			{
+				"text": "the truth?",
+				"start": 3.08,
+				"end": 4.78,
+				"index": 278
+			}
+		],
+		"start": 153.72,
+		"end": 158.5
+	},
+	{
+		"words": [
+			{
+				"text": "Cause ",
+				"start": 0,
+				"end": 0.32,
+				"index": 279
+			},
+			{
+				"text": "I've ",
+				"start": 0.32,
+				"end": 0.58,
+				"index": 280
+			},
+			{
+				"text": "been ",
+				"start": 0.58,
+				"end": 0.72,
+				"index": 281
+			},
+			{
+				"text": "thinking ",
+				"start": 0.72,
+				"end": 1.02,
+				"index": 282
+			},
+			{
+				"text": "about ",
+				"start": 1.02,
+				"end": 1.38,
+				"index": 283
+			},
+			{
+				"text": "LeBron",
+				"start": 1.38,
+				"end": 1.84,
+				"index": 284
+			}
+		],
+		"start": 160.9,
+		"end": 162.74
+	},
+	{
+		"words": [
+			{
+				"text": "Do ",
+				"start": 0,
+				"end": 0.96,
+				"index": 285
+			},
+			{
+				"text": "you ",
+				"start": 0.96,
+				"end": 1.92,
+				"index": 286
+			},
+			{
+				"text": "not ",
+				"start": 1.92,
+				"end": 2.4,
+				"index": 287
+			},
+			{
+				"text": "think ",
+				"start": 2.4,
+				"end": 2.88,
+				"index": 288
+			},
+			{
+				"text": "they ",
+				"start": 2.88,
+				"end": 3.24,
+				"index": 289
+			},
+			{
+				"text": "know ",
+				"start": 3.24,
+				"end": 4.2,
+				"index": 290
+			},
+			{
+				"text": "the ",
+				"start": 4.2,
+				"end": 4.78,
+				"index": 291
+			},
+			{
+				"text": "truth?",
+				"start": 4.78,
+				"end": 5.68,
+				"index": 292
+			}
+		],
+		"start": 167.36,
+		"end": 173.04
+	},
+	{
+		"words": [
+			{
+				"text": "Cause ",
+				"start": 0,
+				"end": 0.28,
+				"index": 293
+			},
+			{
+				"text": "I've ",
+				"start": 0.28,
+				"end": 0.58,
+				"index": 294
+			},
+			{
+				"text": "been ",
+				"start": 0.58,
+				"end": 0.72,
+				"index": 295
+			},
+			{
+				"text": "thinking ",
+				"start": 0.72,
+				"end": 1.04,
+				"index": 296
+			},
+			{
+				"text": "about ",
+				"start": 1.04,
+				"end": 1.34,
+				"index": 297
+			},
+			{
+				"text": "LeBron",
+				"start": 1.34,
+				"end": 2.64,
+				"index": 298
+			}
+		],
+		"start": 175.68,
+		"end": 178.32
+	},
+	{
+		"words": [
+			{
+				"text": "Do ",
+				"start": 0,
+				"end": 1.12,
+				"index": 299
+			},
+			{
+				"text": "you ",
+				"start": 1.12,
+				"end": 2.24,
+				"index": 300
+			},
+			{
+				"text": "not think they ",
+				"start": 2.24,
+				"end": 2.26,
+				"index": 301
+			},
+			{
+				"text": "know the truth?",
+				"start": 2.26,
+				"end": 2.32,
+				"index": 302
+			}
+		],
+		"start": 196.88,
+		"end": 199.2
+	}
+]

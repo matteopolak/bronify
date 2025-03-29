@@ -1,0 +1,338 @@
+[
+	{
+		"words": [
+			{
+				"text": "Marv ",
+				"start": 0,
+				"end": 0.26,
+				"index": 0
+			},
+			{
+				"text": "sympathyisha ",
+				"start": 0.26,
+				"end": 1.16,
+				"index": 1
+			},
+			{
+				"text": "planned ",
+				"start": 1.16,
+				"end": 2.26,
+				"index": 2
+			},
+			{
+				"text": "coloured",
+				"start": 2.26,
+				"end": 22.44,
+				"index": 3
+			}
+		],
+		"start": 0,
+		"end": 22.44
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron ",
+				"start": 35.56,
+				"end": 36,
+				"index": 4
+			},
+			{
+				"text": "James!",
+				"start": 36,
+				"end": 36.44,
+				"index": 5
+			}
+		],
+		"start": 35.56,
+		"end": 36.44
+	},
+	{
+		"words": [
+			{
+				"text": "Yeah ",
+				"start": 37.34,
+				"end": 37.5,
+				"index": 6
+			},
+			{
+				"text": "he's ",
+				"start": 37.5,
+				"end": 37.74,
+				"index": 7
+			},
+			{
+				"text": "on ",
+				"start": 37.74,
+				"end": 37.86,
+				"index": 8
+			},
+			{
+				"text": "his ",
+				"start": 37.86,
+				"end": 38.08,
+				"index": 9
+			},
+			{
+				"text": "way, ",
+				"start": 38.08,
+				"end": 38.22,
+				"index": 10
+			},
+			{
+				"text": "great ",
+				"start": 38.4,
+				"end": 38.52,
+				"index": 11
+			},
+			{
+				"text": "he's ",
+				"start": 38.52,
+				"end": 38.86,
+				"index": 12
+			},
+			{
+				"text": "playing ",
+				"start": 38.86,
+				"end": 38.9,
+				"index": 13
+			},
+			{
+				"text": "the ",
+				"start": 38.9,
+				"end": 39.24,
+				"index": 14
+			},
+			{
+				"text": "NBA",
+				"start": 39.24,
+				"end": 39.62,
+				"index": 15
+			}
+		],
+		"start": 37.34,
+		"end": 39.62
+	},
+	{
+		"words": [
+			{
+				"text": "And ",
+				"start": 39.62,
+				"end": 39.96,
+				"index": 16
+			},
+			{
+				"text": "I'm ",
+				"start": 39.96,
+				"end": 40.14,
+				"index": 17
+			},
+			{
+				"text": "not ",
+				"start": 40.14,
+				"end": 40.22,
+				"index": 18
+			},
+			{
+				"text": "judging ",
+				"start": 40.22,
+				"end": 40.34,
+				"index": 19
+			},
+			{
+				"text": "him ",
+				"start": 40.34,
+				"end": 40.52,
+				"index": 20
+			},
+			{
+				"text": "to ",
+				"start": 40.52,
+				"end": 40.68,
+				"index": 21
+			},
+			{
+				"text": "say ",
+				"start": 40.68,
+				"end": 40.94,
+				"index": 22
+			},
+			{
+				"text": "his ",
+				"start": 40.94,
+				"end": 41.16,
+				"index": 23
+			},
+			{
+				"text": "name, ",
+				"start": 41.16,
+				"end": 41.38,
+				"index": 24
+			},
+			{
+				"text": "yeah",
+				"start": 41.38,
+				"end": 42.58,
+				"index": 25
+			}
+		],
+		"start": 39.62,
+		"end": 42.58
+	},
+	{
+		"words": [
+			{
+				"text": "He's ",
+				"start": 42.58,
+				"end": 43.24,
+				"index": 26
+			},
+			{
+				"text": "a ",
+				"start": 43.24,
+				"end": 43.26,
+				"index": 27
+			},
+			{
+				"text": "girl, ",
+				"start": 43.26,
+				"end": 43.48,
+				"index": 28
+			},
+			{
+				"text": "yeah ",
+				"start": 43.62,
+				"end": 43.72,
+				"index": 29
+			},
+			{
+				"text": "he ",
+				"start": 43.72,
+				"end": 44.02,
+				"index": 30
+			},
+			{
+				"text": "is ",
+				"start": 44.02,
+				"end": 44.24,
+				"index": 31
+			},
+			{
+				"text": "true, ",
+				"start": 44.24,
+				"end": 44.44,
+				"index": 32
+			},
+			{
+				"text": "he's ",
+				"start": 44.54,
+				"end": 44.62,
+				"index": 33
+			},
+			{
+				"text": "inspired ",
+				"start": 44.62,
+				"end": 44.76,
+				"index": 34
+			},
+			{
+				"text": "me, ",
+				"start": 44.76,
+				"end": 45.04,
+				"index": 35
+			},
+			{
+				"text": "he ",
+				"start": 45.1,
+				"end": 45.34,
+				"index": 36
+			},
+			{
+				"text": "inspired ",
+				"start": 45.34,
+				"end": 45.62,
+				"index": 37
+			},
+			{
+				"text": "you",
+				"start": 45.62,
+				"end": 46.46,
+				"index": 38
+			}
+		],
+		"start": 42.58,
+		"end": 46.46
+	},
+	{
+		"words": [
+			{
+				"text": "His ",
+				"start": 46.980000000000004,
+				"end": 47.42,
+				"index": 39
+			},
+			{
+				"text": "name ",
+				"start": 47.42,
+				"end": 47.54,
+				"index": 40
+			},
+			{
+				"text": "is ",
+				"start": 47.54,
+				"end": 47.72,
+				"index": 41
+			},
+			{
+				"text": "LeBron ",
+				"start": 47.72,
+				"end": 48.62,
+				"index": 42
+			},
+			{
+				"text": "James",
+				"start": 48.62,
+				"end": 50.74,
+				"index": 43
+			}
+		],
+		"start": 46.980000000000004,
+		"end": 50.74
+	},
+	{
+		"words": [
+			{
+				"text": "His ",
+				"start": 50.74,
+				"end": 53.54,
+				"index": 44
+			},
+			{
+				"text": "name ",
+				"start": 53.54,
+				"end": 53.68,
+				"index": 45
+			},
+			{
+				"text": "is ",
+				"start": 53.68,
+				"end": 53.92,
+				"index": 46
+			},
+			{
+				"text": "LeBron ",
+				"start": 53.92,
+				"end": 55.02,
+				"index": 47
+			},
+			{
+				"text": "James",
+				"start": 55.02,
+				"end": 56.34,
+				"index": 48
+			}
+		],
+		"start": 50.74,
+		"end": 56.34
+	}
+]

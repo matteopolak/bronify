@@ -1,0 +1,452 @@
+[
+	{
+		"words": [
+			{
+				"text": "Wait ",
+				"start": 9.020000000000001,
+				"end": 9.74,
+				"index": 0
+			},
+			{
+				"text": "up ",
+				"start": 9.74,
+				"end": 10.1,
+				"index": 1
+			},
+			{
+				"text": "the ",
+				"start": 10.1,
+				"end": 10.36,
+				"index": 2
+			},
+			{
+				"text": "league ",
+				"start": 10.36,
+				"end": 10.72,
+				"index": 3
+			},
+			{
+				"text": "on ",
+				"start": 10.72,
+				"end": 11.02,
+				"index": 4
+			},
+			{
+				"text": "your ",
+				"start": 11.02,
+				"end": 11.72,
+				"index": 5
+			},
+			{
+				"text": "shoulders ",
+				"start": 11.72,
+				"end": 12.36,
+				"index": 6
+			}
+		],
+		"start": 9.020000000000001,
+		"end": 12.36
+	},
+	{
+		"words": [
+			{
+				"text": "No ",
+				"start": 12.36,
+				"end": 13.56,
+				"index": 7
+			},
+			{
+				"text": "time ",
+				"start": 13.56,
+				"end": 13.86,
+				"index": 8
+			},
+			{
+				"text": "to ",
+				"start": 13.86,
+				"end": 14.18,
+				"index": 9
+			},
+			{
+				"text": "waste, ",
+				"start": 14.18,
+				"end": 14.5,
+				"index": 10
+			},
+			{
+				"text": "he's ",
+				"start": 14.88,
+				"end": 15.2,
+				"index": 11
+			},
+			{
+				"text": "about ",
+				"start": 15.2,
+				"end": 15.52,
+				"index": 12
+			},
+			{
+				"text": "to grind",
+				"start": 15.52,
+				"end": 16.52,
+				"index": 13
+			}
+		],
+		"start": 12.36,
+		"end": 16.52
+	},
+	{
+		"words": [
+			{
+				"text": "He ",
+				"start": 17.080000000000002,
+				"end": 17.44,
+				"index": 14
+			},
+			{
+				"text": "must ",
+				"start": 17.44,
+				"end": 17.68,
+				"index": 15
+			},
+			{
+				"text": "be ",
+				"start": 17.68,
+				"end": 17.94,
+				"index": 16
+			},
+			{
+				"text": "labeled ",
+				"start": 17.94,
+				"end": 18.54,
+				"index": 17
+			},
+			{
+				"text": "the ",
+				"start": 18.54,
+				"end": 18.98,
+				"index": 18
+			},
+			{
+				"text": "player ",
+				"start": 18.98,
+				"end": 19.56,
+				"index": 19
+			}
+		],
+		"start": 17.080000000000002,
+		"end": 19.56
+	},
+	{
+		"words": [
+			{
+				"text": "Because ",
+				"start": 19.56,
+				"end": 21.46,
+				"index": 20
+			},
+			{
+				"text": "you're ",
+				"start": 21.46,
+				"end": 21.88,
+				"index": 21
+			},
+			{
+				"text": "just ",
+				"start": 21.88,
+				"end": 22.26,
+				"index": 22
+			},
+			{
+				"text": "a ",
+				"start": 22.26,
+				"end": 22.76,
+				"index": 23
+			},
+			{
+				"text": "lazy ",
+				"start": 22.76,
+				"end": 23.24,
+				"index": 24
+			},
+			{
+				"text": "guy",
+				"start": 23.24,
+				"end": 23.9,
+				"index": 25
+			}
+		],
+		"start": 19.56,
+		"end": 23.9
+	},
+	{
+		"words": [
+			{
+				"text": "It's ",
+				"start": 23.9,
+				"end": 24.36,
+				"index": 26
+			},
+			{
+				"text": "the ",
+				"start": 24.36,
+				"end": 24.48,
+				"index": 27
+			},
+			{
+				"text": "way ",
+				"start": 24.48,
+				"end": 24.56,
+				"index": 28
+			},
+			{
+				"text": "that ",
+				"start": 24.56,
+				"end": 24.7,
+				"index": 29
+			},
+			{
+				"text": "he ",
+				"start": 24.7,
+				"end": 24.78,
+				"index": 30
+			},
+			{
+				"text": "can ",
+				"start": 24.78,
+				"end": 24.9,
+				"index": 31
+			},
+			{
+				"text": "grind ",
+				"start": 24.9,
+				"end": 25.22,
+				"index": 32
+			}
+		],
+		"start": 23.9,
+		"end": 25.22
+	},
+	{
+		"words": [
+			{
+				"text": "It's ",
+				"start": 25.22,
+				"end": 25.82,
+				"index": 33
+			},
+			{
+				"text": "the ",
+				"start": 25.82,
+				"end": 25.94,
+				"index": 34
+			},
+			{
+				"text": "way ",
+				"start": 25.94,
+				"end": 26.02,
+				"index": 35
+			},
+			{
+				"text": "that ",
+				"start": 26.02,
+				"end": 26.12,
+				"index": 36
+			},
+			{
+				"text": "he ",
+				"start": 26.12,
+				"end": 26.2,
+				"index": 37
+			},
+			{
+				"text": "can ",
+				"start": 26.2,
+				"end": 26.38,
+				"index": 38
+			},
+			{
+				"text": "fly",
+				"start": 26.38,
+				"end": 26.78,
+				"index": 39
+			}
+		],
+		"start": 25.22,
+		"end": 26.78
+	},
+	{
+		"words": [
+			{
+				"text": "Whoa, ",
+				"start": 27.240000000000002,
+				"end": 27.64,
+				"index": 40
+			},
+			{
+				"text": "oh, oh, ",
+				"start": 27.72,
+				"end": 27.92,
+				"index": 41
+			},
+			{
+				"text": "oh, oh, ",
+				"start": 27.92,
+				"end": 28.06,
+				"index": 42
+			},
+			{
+				"text": "oh, ",
+				"start": 28.08,
+				"end": 28.16,
+				"index": 43
+			},
+			{
+				"text": "oh, ",
+				"start": 28.16,
+				"end": 28.26,
+				"index": 44
+			},
+			{
+				"text": "oh, ",
+				"start": 28.26,
+				"end": 28.52,
+				"index": 45
+			},
+			{
+				"text": "oh, ",
+				"start": 28.52,
+				"end": 29.32,
+				"index": 46
+			},
+			{
+				"text": "oh, ",
+				"start": 29.52,
+				"end": 30.1,
+				"index": 47
+			},
+			{
+				"text": "oh, ",
+				"start": 30.1,
+				"end": 30.76,
+				"index": 48
+			},
+			{
+				"text": "oh, ",
+				"start": 30.92,
+				"end": 31.58,
+				"index": 49
+			},
+			{
+				"text": "oh, ",
+				"start": 31.7,
+				"end": 31.7,
+				"index": 50
+			},
+			{
+				"text": "oh, ",
+				"start": 32.06,
+				"end": 34.54,
+				"index": 51
+			},
+			{
+				"text": "oh, ",
+				"start": 35.48,
+				"end": 39.58,
+				"index": 52
+			},
+			{
+				"text": "oh, ",
+				"start": 39.72,
+				"end": 41.7,
+				"index": 53
+			},
+			{
+				"text": "oh, oh, ",
+				"start": 41.7,
+				"end": 41.76,
+				"index": 54
+			},
+			{
+				"text": "oh, ",
+				"start": 41.76,
+				"end": 42.14,
+				"index": 55
+			},
+			{
+				"text": "oh, oh,",
+				"start": 42.14,
+				"end": 55.78,
+				"index": 56
+			},
+			{
+				"text": "oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, ",
+				"start": 55.78,
+				"end": 55.84,
+				"index": 57
+			},
+			{
+				"text": "oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,",
+				"start": 55.84,
+				"end": 55.86,
+				"index": 58
+			},
+			{
+				"text": "oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, ",
+				"start": 55.86,
+				"end": 55.9,
+				"index": 59
+			},
+			{
+				"text": "oh,",
+				"start": 55.9,
+				"end": 56.08,
+				"index": 60
+			},
+			{
+				"text": "oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,",
+				"start": 56.08,
+				"end": 56.12,
+				"index": 61
+			}
+		],
+		"start": 27.240000000000002,
+		"end": 56.12
+	},
+	{
+		"words": [
+			{
+				"text": "Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,",
+				"start": 56.12,
+				"end": 56.3,
+				"index": 62
+			},
+			{
+				"text": "oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,",
+				"start": 56.3,
+				"end": 56.32,
+				"index": 63
+			},
+			{
+				"text": "oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, ",
+				"start": 56.32,
+				"end": 56.58,
+				"index": 64
+			},
+			{
+				"text": "oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,",
+				"start": 56.58,
+				"end": 56.64,
+				"index": 65
+			},
+			{
+				"text": "oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,",
+				"start": 56.64,
+				"end": 56.7,
+				"index": 66
+			}
+		],
+		"start": 56.12,
+		"end": 56.7
+	}
+]

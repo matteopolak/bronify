@@ -1,0 +1,356 @@
+[
+	{
+		"words": [
+			{
+				"text": "One, ",
+				"start": 30,
+				"end": 30.5,
+				"index": 0
+			},
+			{
+				"text": "two, ",
+				"start": 30.5,
+				"end": 32.56,
+				"index": 1
+			},
+			{
+				"text": "three",
+				"start": 32.9,
+				"end": 33.92,
+				"index": 2
+			}
+		],
+		"start": 30,
+		"end": 33.92
+	},
+	{
+		"words": [
+			{
+				"text": "And ",
+				"start": 33.92,
+				"end": 34.78,
+				"index": 3
+			},
+			{
+				"text": "I ",
+				"start": 34.78,
+				"end": 34.92,
+				"index": 4
+			},
+			{
+				"text": "put ",
+				"start": 34.92,
+				"end": 35.02,
+				"index": 5
+			},
+			{
+				"text": "my ",
+				"start": 35.02,
+				"end": 35.26,
+				"index": 6
+			},
+			{
+				"text": "hands ",
+				"start": 35.26,
+				"end": 35.78,
+				"index": 7
+			},
+			{
+				"text": "up, ",
+				"start": 35.78,
+				"end": 36.06,
+				"index": 8
+			},
+			{
+				"text": "you're ",
+				"start": 36.12,
+				"end": 36.4,
+				"index": 9
+			},
+			{
+				"text": "probably ",
+				"start": 36.4,
+				"end": 36.64,
+				"index": 10
+			},
+			{
+				"text": "gonna ",
+				"start": 36.64,
+				"end": 36.96,
+				"index": 11
+			},
+			{
+				"text": "miss, ",
+				"start": 36.96,
+				"end": 37.26,
+				"index": 12
+			},
+			{
+				"text": "you're ",
+				"start": 37.5,
+				"end": 37.64,
+				"index": 13
+			},
+			{
+				"text": "not ",
+				"start": 37.64,
+				"end": 37.72,
+				"index": 14
+			},
+			{
+				"text": "even ",
+				"start": 37.72,
+				"end": 37.86,
+				"index": 15
+			},
+			{
+				"text": "gonna ",
+				"start": 37.86,
+				"end": 38.1,
+				"index": 16
+			},
+			{
+				"text": "praise ",
+				"start": 38.1,
+				"end": 38.4,
+				"index": 17
+			},
+			{
+				"text": "again",
+				"start": 38.4,
+				"end": 39.1,
+				"index": 18
+			}
+		],
+		"start": 33.92,
+		"end": 39.1
+	},
+	{
+		"words": [
+			{
+				"text": "Going ",
+				"start": 39.58,
+				"end": 40.1,
+				"index": 19
+			},
+			{
+				"text": "to ",
+				"start": 40.1,
+				"end": 40.3,
+				"index": 20
+			},
+			{
+				"text": "the ",
+				"start": 40.3,
+				"end": 40.5,
+				"index": 21
+			},
+			{
+				"text": "party ",
+				"start": 40.5,
+				"end": 40.66,
+				"index": 22
+			},
+			{
+				"text": "like ",
+				"start": 40.66,
+				"end": 40.98,
+				"index": 23
+			},
+			{
+				"text": "yeah, ",
+				"start": 40.98,
+				"end": 41.56,
+				"index": 24
+			},
+			{
+				"text": "ain't ",
+				"start": 42.24,
+				"end": 42.4,
+				"index": 25
+			},
+			{
+				"text": "nobody ",
+				"start": 42.4,
+				"end": 42.72,
+				"index": 26
+			},
+			{
+				"text": "better ",
+				"start": 42.72,
+				"end": 42.96,
+				"index": 27
+			},
+			{
+				"text": "like ",
+				"start": 42.96,
+				"end": 43.34,
+				"index": 28
+			},
+			{
+				"text": "ya",
+				"start": 43.34,
+				"end": 43.7,
+				"index": 29
+			}
+		],
+		"start": 39.58,
+		"end": 43.7
+	},
+	{
+		"words": [
+			{
+				"text": "And ",
+				"start": 43.98,
+				"end": 44.02,
+				"index": 30
+			},
+			{
+				"text": "I ",
+				"start": 44.02,
+				"end": 44.26,
+				"index": 31
+			},
+			{
+				"text": "put ",
+				"start": 44.26,
+				"end": 44.32,
+				"index": 32
+			},
+			{
+				"text": "my ",
+				"start": 44.32,
+				"end": 44.52,
+				"index": 33
+			},
+			{
+				"text": "hands ",
+				"start": 44.52,
+				"end": 45.12,
+				"index": 34
+			},
+			{
+				"text": "up, ",
+				"start": 45.12,
+				"end": 45.42,
+				"index": 35
+			},
+			{
+				"text": "you're probably ",
+				"start": 45.64,
+				"end": 45.96,
+				"index": 36
+			},
+			{
+				"text": "gonna ",
+				"start": 45.96,
+				"end": 46.26,
+				"index": 37
+			},
+			{
+				"text": "miss, ",
+				"start": 46.26,
+				"end": 46.66,
+				"index": 38
+			},
+			{
+				"text": "you're ",
+				"start": 46.8,
+				"end": 47.04,
+				"index": 39
+			},
+			{
+				"text": "not ",
+				"start": 47.04,
+				"end": 47.08,
+				"index": 40
+			},
+			{
+				"text": "even ",
+				"start": 47.08,
+				"end": 47.28,
+				"index": 41
+			},
+			{
+				"text": "gonna ",
+				"start": 47.28,
+				"end": 47.48,
+				"index": 42
+			},
+			{
+				"text": "praise ",
+				"start": 47.48,
+				"end": 47.8,
+				"index": 43
+			},
+			{
+				"text": "again",
+				"start": 47.8,
+				"end": 48.44,
+				"index": 44
+			}
+		],
+		"start": 43.98,
+		"end": 48.44
+	},
+	{
+		"words": [
+			{
+				"text": "Yeah, ",
+				"start": 49.36,
+				"end": 49.88,
+				"index": 45
+			},
+			{
+				"text": "it's ",
+				"start": 51.3,
+				"end": 51.44,
+				"index": 46
+			},
+			{
+				"text": "a ",
+				"start": 51.44,
+				"end": 51.56,
+				"index": 47
+			},
+			{
+				"text": "party ",
+				"start": 51.56,
+				"end": 51.88,
+				"index": 48
+			},
+			{
+				"text": "we ",
+				"start": 51.88,
+				"end": 52.1,
+				"index": 49
+			},
+			{
+				"text": "love, ",
+				"start": 52.1,
+				"end": 52.4,
+				"index": 50
+			},
+			{
+				"text": "I'm ",
+				"start": 52.58,
+				"end": 53.28,
+				"index": 51
+			},
+			{
+				"text": "just ",
+				"start": 53.28,
+				"end": 53.4,
+				"index": 52
+			},
+			{
+				"text": "gonna",
+				"start": 53.4,
+				"end": 53.74,
+				"index": 53
+			}
+		],
+		"start": 49.36,
+		"end": 53.74
+	}
+]

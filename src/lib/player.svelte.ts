@@ -1,11 +1,44 @@
 import { trackData } from './get';
 
 import { trackAudio, trackLyrics } from './get';
-import type { Track, TrackSettings } from './types';
+import type { Lyrics, Track, TrackSettings } from './types';
+import { browser } from '$app/environment';
 
-const LYRICS_PLACEHOLDER = `1
-00:00:00,000 --> 00:00:00,000
-No lyrics yet, check back soon!`;
+const LYRICS_PLACEHOLDER: Lyrics = [
+	{
+		start: 0,
+		end: 0,
+		words: [
+			{
+				text: 'No lyrics available',
+				start: 0,
+				end: 0,
+				index: 0
+			}
+		]
+	}
+];
+
+export function floatFromStorage(key: string, defaultValue: number) {
+	if (!browser) return defaultValue;
+
+	const value = localStorage.getItem(key);
+	if (value === null) return defaultValue;
+
+	const parsed = parseFloat(value);
+	if (isNaN(parsed)) return defaultValue;
+
+	return parsed;
+}
+
+export function stringFromStorage<T extends string = string>(key: string, defaultValue: T): T {
+	if (!browser) return defaultValue;
+
+	const value = localStorage.getItem(key);
+	if (value === null) return defaultValue;
+
+	return value as T;
+}
 
 export class Player {
 	public audio!: HTMLAudioElement;
@@ -15,11 +48,15 @@ export class Player {
 	volume = $state(1);
 	paused = $state(true);
 
-	// lyrics in SRT format
-	lyrics: string | null = $state(null);
+	lyrics: Lyrics | null = $state(null);
 
 	queue: Track[] = [];
 	track: Track = $state(trackData[0]);
+
+	constructor() {
+		// sync to local storage
+		this.volume = floatFromStorage('volume', 0.2);
+	}
 
 	init(audio: HTMLAudioElement) {
 		this.audio = audio;
@@ -43,6 +80,7 @@ export class Player {
 
 		$effect(() => {
 			audio.volume = this.volume;
+			localStorage.setItem('volume', this.volume.toString());
 		});
 
 		return this.load(this.track);
@@ -96,22 +134,13 @@ export class Player {
 }
 
 export async function resolveLyrics(track: Track) {
-	const lyricsUrl = trackLyrics(track.id);
-	if (!lyricsUrl) return null;
-
-	const res = await fetch(lyricsUrl);
-
-	if (res.ok) {
-		return await res.text();
-	} else {
-		return null;
-	}
+	return trackLyrics(track.id) ?? null;
 }
 
 export const player: Player = $state(new Player());
 
 export const settings: TrackSettings = $state({
-	lyrics: false,
+	lyrics: 'on',
 	loop: 'none',
 	shuffle: 'off'
 });

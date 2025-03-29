@@ -54,7 +54,7 @@
 			<span class="text-sm text-slate-300">
 				By
 				<a href="/artists/{artist.id}" onclick={(e) => e.stopPropagation()} class="hover:underline">
-					{track.artist}
+					{artist.display_name}
 				</a>
 			</span>
 		</div>

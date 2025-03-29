@@ -1,0 +1,1328 @@
+[
+	{
+		"words": [
+			{
+				"text": "LeBron, ",
+				"start": 3.8000000000000007,
+				"end": 4.640000000000001,
+				"index": 0
+			},
+			{
+				"text": "you're ",
+				"start": 4.640000000000001,
+				"end": 5.48,
+				"index": 1
+			},
+			{
+				"text": "my ",
+				"start": 5.48,
+				"end": 5.74,
+				"index": 2
+			},
+			{
+				"text": "glorious ",
+				"start": 5.74,
+				"end": 6.72,
+				"index": 3
+			},
+			{
+				"text": "king ",
+				"start": 6.72,
+				"end": 7.62,
+				"index": 4
+			},
+			{
+				"text": "I ",
+				"start": 7.62,
+				"end": 9.38,
+				"index": 5
+			},
+			{
+				"text": "don't ",
+				"start": 9.38,
+				"end": 9.62,
+				"index": 6
+			},
+			{
+				"text": "wanna ",
+				"start": 9.62,
+				"end": 9.88,
+				"index": 7
+			},
+			{
+				"text": "live, ",
+				"start": 9.88,
+				"end": 10.28,
+				"index": 8
+			},
+			{
+				"text": "you're ",
+				"start": 10.42,
+				"end": 10.68,
+				"index": 9
+			},
+			{
+				"text": "not ",
+				"start": 10.68,
+				"end": 10.92,
+				"index": 10
+			},
+			{
+				"text": "here ",
+				"start": 10.92,
+				"end": 11.34,
+				"index": 11
+			},
+			{
+				"text": "no ",
+				"start": 11.34,
+				"end": 11.56,
+				"index": 12
+			},
+			{
+				"text": "more",
+				"start": 11.56,
+				"end": 13.12,
+				"index": 13
+			}
+		],
+		"start": 3.8000000000000007,
+		"end": 13.12
+	},
+	{
+		"words": [
+			{
+				"text": "Cause ",
+				"start": 13.12,
+				"end": 13.78,
+				"index": 14
+			},
+			{
+				"text": "you ",
+				"start": 13.78,
+				"end": 13.98,
+				"index": 15
+			},
+			{
+				"text": "already ",
+				"start": 13.98,
+				"end": 14.4,
+				"index": 16
+			},
+			{
+				"text": "know ",
+				"start": 14.4,
+				"end": 14.84,
+				"index": 17
+			},
+			{
+				"text": "what ",
+				"start": 14.84,
+				"end": 15.1,
+				"index": 18
+			},
+			{
+				"text": "you ",
+				"start": 15.1,
+				"end": 15.28,
+				"index": 19
+			},
+			{
+				"text": "mean ",
+				"start": 15.28,
+				"end": 15.68,
+				"index": 20
+			},
+			{
+				"text": "to ",
+				"start": 15.68,
+				"end": 16.04,
+				"index": 21
+			},
+			{
+				"text": "me ",
+				"start": 16.04,
+				"end": 16.86,
+				"index": 22
+			}
+		],
+		"start": 13.12,
+		"end": 16.86
+	},
+	{
+		"words": [
+			{
+				"text": "And ",
+				"start": 16.86,
+				"end": 17.28,
+				"index": 23
+			},
+			{
+				"text": "our ",
+				"start": 17.28,
+				"end": 17.7,
+				"index": 24
+			},
+			{
+				"text": "love's ",
+				"start": 17.7,
+				"end": 18.16,
+				"index": 25
+			},
+			{
+				"text": "the ",
+				"start": 18.16,
+				"end": 18.38,
+				"index": 26
+			},
+			{
+				"text": "only ",
+				"start": 18.38,
+				"end": 18.74,
+				"index": 27
+			},
+			{
+				"text": "one ",
+				"start": 18.74,
+				"end": 19.22,
+				"index": 28
+			},
+			{
+				"text": "we're ",
+				"start": 19.22,
+				"end": 19.78,
+				"index": 29
+			},
+			{
+				"text": "fighting ",
+				"start": 19.78,
+				"end": 20.38,
+				"index": 30
+			},
+			{
+				"text": "for",
+				"start": 20.38,
+				"end": 22.02,
+				"index": 31
+			}
+		],
+		"start": 16.86,
+		"end": 22.02
+	},
+	{
+		"words": [
+			{
+				"text": "Wherever ",
+				"start": 22.02,
+				"end": 23.26,
+				"index": 32
+			},
+			{
+				"text": "you ",
+				"start": 23.26,
+				"end": 23.56,
+				"index": 33
+			},
+			{
+				"text": "ball ",
+				"start": 23.56,
+				"end": 23.98,
+				"index": 34
+			},
+			{
+				"text": "that's ",
+				"start": 23.98,
+				"end": 24.5,
+				"index": 35
+			},
+			{
+				"text": "where ",
+				"start": 24.5,
+				"end": 24.78,
+				"index": 36
+			},
+			{
+				"text": "I'll ",
+				"start": 24.78,
+				"end": 25.28,
+				"index": 37
+			},
+			{
+				"text": "follow ",
+				"start": 25.28,
+				"end": 26.84,
+				"index": 38
+			}
+		],
+		"start": 22.02,
+		"end": 26.84
+	},
+	{
+		"words": [
+			{
+				"text": "Championships ",
+				"start": 26.84,
+				"end": 28.12,
+				"index": 39
+			},
+			{
+				"text": "promise ",
+				"start": 28.12,
+				"end": 29.08,
+				"index": 40
+			},
+			{
+				"text": "tomorrow",
+				"start": 29.08,
+				"end": 30.96,
+				"index": 41
+			}
+		],
+		"start": 26.84,
+		"end": 30.96
+	},
+	{
+		"words": [
+			{
+				"text": "So ",
+				"start": 30.96,
+				"end": 32,
+				"index": 42
+			},
+			{
+				"text": "I'ma ",
+				"start": 32,
+				"end": 32.4,
+				"index": 43
+			},
+			{
+				"text": "be ",
+				"start": 32.4,
+				"end": 32.56,
+				"index": 44
+			},
+			{
+				"text": "there ",
+				"start": 32.56,
+				"end": 32.8,
+				"index": 45
+			},
+			{
+				"text": "every ",
+				"start": 32.8,
+				"end": 33.08,
+				"index": 46
+			},
+			{
+				"text": "game ",
+				"start": 33.08,
+				"end": 33.48,
+				"index": 47
+			},
+			{
+				"text": "like ",
+				"start": 33.48,
+				"end": 33.82,
+				"index": 48
+			},
+			{
+				"text": "it's ",
+				"start": 33.82,
+				"end": 34.14,
+				"index": 49
+			},
+			{
+				"text": "the ",
+				"start": 34.14,
+				"end": 34.34,
+				"index": 50
+			},
+			{
+				"text": "last ",
+				"start": 34.34,
+				"end": 34.62,
+				"index": 51
+			},
+			{
+				"text": "game, ",
+				"start": 34.62,
+				"end": 35.46,
+				"index": 52
+			},
+			{
+				"text": "like ",
+				"start": 36.08,
+				"end": 36.1,
+				"index": 53
+			},
+			{
+				"text": "it's ",
+				"start": 36.1,
+				"end": 36.4,
+				"index": 54
+			},
+			{
+				"text": "the ",
+				"start": 36.4,
+				"end": 36.62,
+				"index": 55
+			},
+			{
+				"text": "last ",
+				"start": 36.62,
+				"end": 36.9,
+				"index": 56
+			},
+			{
+				"text": "game",
+				"start": 36.9,
+				"end": 37.32,
+				"index": 57
+			}
+		],
+		"start": 30.96,
+		"end": 37.32
+	},
+	{
+		"words": [
+			{
+				"text": "If ",
+				"start": 37.7,
+				"end": 38.48,
+				"index": 58
+			},
+			{
+				"text": "LeBron's ",
+				"start": 38.48,
+				"end": 39.72,
+				"index": 59
+			},
+			{
+				"text": "retiring ",
+				"start": 39.72,
+				"end": 40.88,
+				"index": 60
+			},
+			{
+				"text": "I'll ",
+				"start": 40.88,
+				"end": 41.62,
+				"index": 61
+			},
+			{
+				"text": "win ",
+				"start": 41.62,
+				"end": 41.76,
+				"index": 62
+			},
+			{
+				"text": "a ",
+				"start": 41.76,
+				"end": 42.12,
+				"index": 63
+			},
+			{
+				"text": "ring ",
+				"start": 42.12,
+				"end": 42.54,
+				"index": 64
+			},
+			{
+				"text": "for ",
+				"start": 42.54,
+				"end": 43.28,
+				"index": 65
+			},
+			{
+				"text": "you",
+				"start": 43.28,
+				"end": 44.7,
+				"index": 66
+			}
+		],
+		"start": 37.7,
+		"end": 44.7
+	},
+	{
+		"words": [
+			{
+				"text": "If ",
+				"start": 46.199999999999996,
+				"end": 47.48,
+				"index": 67
+			},
+			{
+				"text": "the ",
+				"start": 47.48,
+				"end": 47.88,
+				"index": 68
+			},
+			{
+				"text": "playoffs ",
+				"start": 47.88,
+				"end": 48.58,
+				"index": 69
+			},
+			{
+				"text": "is ",
+				"start": 48.58,
+				"end": 49.12,
+				"index": 70
+			},
+			{
+				"text": "over ",
+				"start": 49.12,
+				"end": 49.82,
+				"index": 71
+			},
+			{
+				"text": "and ",
+				"start": 49.82,
+				"end": 50.26,
+				"index": 72
+			},
+			{
+				"text": "our ",
+				"start": 50.26,
+				"end": 50.62,
+				"index": 73
+			},
+			{
+				"text": "time ",
+				"start": 50.62,
+				"end": 51,
+				"index": 74
+			},
+			{
+				"text": "on ",
+				"start": 51,
+				"end": 51.34,
+				"index": 75
+			},
+			{
+				"text": "court ",
+				"start": 51.34,
+				"end": 51.84,
+				"index": 76
+			},
+			{
+				"text": "was ",
+				"start": 51.84,
+				"end": 52.46,
+				"index": 77
+			},
+			{
+				"text": "through",
+				"start": 52.46,
+				"end": 53.94,
+				"index": 78
+			}
+		],
+		"start": 46.199999999999996,
+		"end": 53.94
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 55.339999999999996,
+				"end": 56.62,
+				"index": 79
+			},
+			{
+				"text": "would ",
+				"start": 56.62,
+				"end": 56.94,
+				"index": 80
+			},
+			{
+				"text": "love ",
+				"start": 56.94,
+				"end": 57.64,
+				"index": 81
+			},
+			{
+				"text": "you ",
+				"start": 57.64,
+				"end": 58.3,
+				"index": 82
+			},
+			{
+				"text": "just ",
+				"start": 58.3,
+				"end": 58.86,
+				"index": 83
+			},
+			{
+				"text": "one ",
+				"start": 58.86,
+				"end": 59.18,
+				"index": 84
+			},
+			{
+				"text": "more ",
+				"start": 59.18,
+				"end": 59.36,
+				"index": 85
+			},
+			{
+				"text": "time ",
+				"start": 59.36,
+				"end": 60.66,
+				"index": 86
+			},
+			{
+				"text": "and ",
+				"start": 60.66,
+				"end": 61.6,
+				"index": 87
+			},
+			{
+				"text": "don't ",
+				"start": 61.6,
+				"end": 63.14,
+				"index": 88
+			},
+			{
+				"text": "breathe ",
+				"start": 63.14,
+				"end": 63.5,
+				"index": 89
+			},
+			{
+				"text": "a ",
+				"start": 63.5,
+				"end": 63.96,
+				"index": 90
+			},
+			{
+				"text": "spark",
+				"start": 63.96,
+				"end": 64.86,
+				"index": 91
+			}
+		],
+		"start": 55.339999999999996,
+		"end": 64.86
+	},
+	{
+		"words": [
+			{
+				"text": "If ",
+				"start": 64.86,
+				"end": 65.8,
+				"index": 92
+			},
+			{
+				"text": "LeBron's ",
+				"start": 65.8,
+				"end": 66.98,
+				"index": 93
+			},
+			{
+				"text": "retiring ",
+				"start": 66.98,
+				"end": 68.26,
+				"index": 94
+			},
+			{
+				"text": "I'll ",
+				"start": 68.26,
+				"end": 68.94,
+				"index": 95
+			},
+			{
+				"text": "win ",
+				"start": 68.94,
+				"end": 69.1,
+				"index": 96
+			},
+			{
+				"text": "a ",
+				"start": 69.1,
+				"end": 69.42,
+				"index": 97
+			},
+			{
+				"text": "ring ",
+				"start": 69.42,
+				"end": 69.94,
+				"index": 98
+			},
+			{
+				"text": "for ",
+				"start": 69.94,
+				"end": 70.76,
+				"index": 99
+			},
+			{
+				"text": "you",
+				"start": 70.76,
+				"end": 72.82,
+				"index": 100
+			}
+		],
+		"start": 64.86,
+		"end": 72.82
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron, ",
+				"start": 76.88,
+				"end": 77.72,
+				"index": 101
+			},
+			{
+				"text": "you're ",
+				"start": 77.72,
+				"end": 78.56,
+				"index": 102
+			},
+			{
+				"text": "my ",
+				"start": 78.56,
+				"end": 78.82,
+				"index": 103
+			},
+			{
+				"text": "glorious ",
+				"start": 78.82,
+				"end": 79.72,
+				"index": 104
+			},
+			{
+				"text": "king ",
+				"start": 79.72,
+				"end": 80.66,
+				"index": 105
+			},
+			{
+				"text": "I ",
+				"start": 80.66,
+				"end": 82.46,
+				"index": 106
+			},
+			{
+				"text": "don't ",
+				"start": 82.46,
+				"end": 82.7,
+				"index": 107
+			},
+			{
+				"text": "wanna ",
+				"start": 82.7,
+				"end": 82.96,
+				"index": 108
+			},
+			{
+				"text": "live, ",
+				"start": 82.96,
+				"end": 83.32,
+				"index": 109
+			},
+			{
+				"text": "you're ",
+				"start": 83.48,
+				"end": 83.76,
+				"index": 110
+			},
+			{
+				"text": "not ",
+				"start": 83.76,
+				"end": 83.98,
+				"index": 111
+			},
+			{
+				"text": "here ",
+				"start": 83.98,
+				"end": 84.4,
+				"index": 112
+			},
+			{
+				"text": "no ",
+				"start": 84.4,
+				"end": 84.62,
+				"index": 113
+			},
+			{
+				"text": "more",
+				"start": 84.62,
+				"end": 86.22,
+				"index": 114
+			}
+		],
+		"start": 76.88,
+		"end": 86.22
+	},
+	{
+		"words": [
+			{
+				"text": "Cause ",
+				"start": 86.22,
+				"end": 86.84,
+				"index": 115
+			},
+			{
+				"text": "you ",
+				"start": 86.84,
+				"end": 87.06,
+				"index": 116
+			},
+			{
+				"text": "already ",
+				"start": 87.06,
+				"end": 87.48,
+				"index": 117
+			},
+			{
+				"text": "know ",
+				"start": 87.48,
+				"end": 87.9,
+				"index": 118
+			},
+			{
+				"text": "what ",
+				"start": 87.9,
+				"end": 88.16,
+				"index": 119
+			},
+			{
+				"text": "you ",
+				"start": 88.16,
+				"end": 88.36,
+				"index": 120
+			},
+			{
+				"text": "mean ",
+				"start": 88.36,
+				"end": 88.76,
+				"index": 121
+			},
+			{
+				"text": "to ",
+				"start": 88.76,
+				"end": 89.12,
+				"index": 122
+			},
+			{
+				"text": "me ",
+				"start": 89.12,
+				"end": 89.94,
+				"index": 123
+			}
+		],
+		"start": 86.22,
+		"end": 89.94
+	},
+	{
+		"words": [
+			{
+				"text": "And ",
+				"start": 89.94,
+				"end": 90.3,
+				"index": 124
+			},
+			{
+				"text": "our ",
+				"start": 90.3,
+				"end": 90.78,
+				"index": 125
+			},
+			{
+				"text": "love's ",
+				"start": 90.78,
+				"end": 91.28,
+				"index": 126
+			},
+			{
+				"text": "the ",
+				"start": 91.28,
+				"end": 91.44,
+				"index": 127
+			},
+			{
+				"text": "only ",
+				"start": 91.44,
+				"end": 91.78,
+				"index": 128
+			},
+			{
+				"text": "one ",
+				"start": 91.78,
+				"end": 92.32,
+				"index": 129
+			},
+			{
+				"text": "we're ",
+				"start": 92.32,
+				"end": 92.88,
+				"index": 130
+			},
+			{
+				"text": "fighting ",
+				"start": 92.88,
+				"end": 93.5,
+				"index": 131
+			},
+			{
+				"text": "for",
+				"start": 93.5,
+				"end": 94.96,
+				"index": 132
+			}
+		],
+		"start": 89.94,
+		"end": 94.96
+	},
+	{
+		"words": [
+			{
+				"text": "Wherever ",
+				"start": 94.96,
+				"end": 96.34,
+				"index": 133
+			},
+			{
+				"text": "you ",
+				"start": 96.34,
+				"end": 96.62,
+				"index": 134
+			},
+			{
+				"text": "ball ",
+				"start": 96.62,
+				"end": 97.06,
+				"index": 135
+			},
+			{
+				"text": "that's ",
+				"start": 97.06,
+				"end": 97.58,
+				"index": 136
+			},
+			{
+				"text": "where ",
+				"start": 97.58,
+				"end": 97.86,
+				"index": 137
+			},
+			{
+				"text": "I'll ",
+				"start": 97.86,
+				"end": 98.34,
+				"index": 138
+			},
+			{
+				"text": "follow ",
+				"start": 98.34,
+				"end": 99.9,
+				"index": 139
+			}
+		],
+		"start": 94.96,
+		"end": 99.9
+	},
+	{
+		"words": [
+			{
+				"text": "Championships ",
+				"start": 99.9,
+				"end": 101.2,
+				"index": 140
+			},
+			{
+				"text": "promise ",
+				"start": 101.2,
+				"end": 102.14,
+				"index": 141
+			},
+			{
+				"text": "tomorrow",
+				"start": 102.14,
+				"end": 104.04,
+				"index": 142
+			}
+		],
+		"start": 99.9,
+		"end": 104.04
+	},
+	{
+		"words": [
+			{
+				"text": "So ",
+				"start": 104.04,
+				"end": 105.06,
+				"index": 143
+			},
+			{
+				"text": "I'ma ",
+				"start": 105.06,
+				"end": 105.46,
+				"index": 144
+			},
+			{
+				"text": "be ",
+				"start": 105.46,
+				"end": 105.62,
+				"index": 145
+			},
+			{
+				"text": "there ",
+				"start": 105.62,
+				"end": 105.86,
+				"index": 146
+			},
+			{
+				"text": "every ",
+				"start": 105.86,
+				"end": 106.16,
+				"index": 147
+			},
+			{
+				"text": "game ",
+				"start": 106.16,
+				"end": 106.56,
+				"index": 148
+			},
+			{
+				"text": "like ",
+				"start": 106.56,
+				"end": 106.92,
+				"index": 149
+			},
+			{
+				"text": "it's ",
+				"start": 106.92,
+				"end": 107.22,
+				"index": 150
+			},
+			{
+				"text": "the ",
+				"start": 107.22,
+				"end": 107.4,
+				"index": 151
+			},
+			{
+				"text": "last ",
+				"start": 107.4,
+				"end": 107.7,
+				"index": 152
+			},
+			{
+				"text": "game, ",
+				"start": 107.7,
+				"end": 108.56,
+				"index": 153
+			},
+			{
+				"text": "like it's ",
+				"start": 109.18,
+				"end": 109.48,
+				"index": 154
+			},
+			{
+				"text": "the ",
+				"start": 109.48,
+				"end": 109.68,
+				"index": 155
+			},
+			{
+				"text": "last ",
+				"start": 109.68,
+				"end": 109.96,
+				"index": 156
+			},
+			{
+				"text": "game",
+				"start": 109.96,
+				"end": 110.8,
+				"index": 157
+			}
+		],
+		"start": 104.04,
+		"end": 110.8
+	},
+	{
+		"words": [
+			{
+				"text": "If ",
+				"start": 110.8,
+				"end": 111.52,
+				"index": 158
+			},
+			{
+				"text": "LeBron's ",
+				"start": 111.52,
+				"end": 112.8,
+				"index": 159
+			},
+			{
+				"text": "retiring ",
+				"start": 112.8,
+				"end": 113.92,
+				"index": 160
+			},
+			{
+				"text": "I'll ",
+				"start": 113.92,
+				"end": 114.68,
+				"index": 161
+			},
+			{
+				"text": "win ",
+				"start": 114.68,
+				"end": 114.82,
+				"index": 162
+			},
+			{
+				"text": "a ",
+				"start": 114.82,
+				"end": 115.2,
+				"index": 163
+			},
+			{
+				"text": "ring ",
+				"start": 115.2,
+				"end": 115.56,
+				"index": 164
+			},
+			{
+				"text": "for ",
+				"start": 115.56,
+				"end": 116.36,
+				"index": 165
+			},
+			{
+				"text": "you",
+				"start": 116.36,
+				"end": 117.74,
+				"index": 166
+			}
+		],
+		"start": 110.8,
+		"end": 117.74
+	},
+	{
+		"words": [
+			{
+				"text": "If ",
+				"start": 119.34,
+				"end": 120.56,
+				"index": 167
+			},
+			{
+				"text": "the ",
+				"start": 120.56,
+				"end": 120.94,
+				"index": 168
+			},
+			{
+				"text": "playoffs ",
+				"start": 120.94,
+				"end": 121.66,
+				"index": 169
+			},
+			{
+				"text": "is ",
+				"start": 121.66,
+				"end": 122.18,
+				"index": 170
+			},
+			{
+				"text": "over ",
+				"start": 122.18,
+				"end": 122.88,
+				"index": 171
+			},
+			{
+				"text": "and ",
+				"start": 122.88,
+				"end": 123.34,
+				"index": 172
+			},
+			{
+				"text": "our ",
+				"start": 123.34,
+				"end": 123.72,
+				"index": 173
+			},
+			{
+				"text": "time ",
+				"start": 123.72,
+				"end": 124.08,
+				"index": 174
+			},
+			{
+				"text": "on ",
+				"start": 124.08,
+				"end": 124.42,
+				"index": 175
+			},
+			{
+				"text": "court ",
+				"start": 124.42,
+				"end": 124.92,
+				"index": 176
+			},
+			{
+				"text": "was ",
+				"start": 124.92,
+				"end": 125.52,
+				"index": 177
+			},
+			{
+				"text": "through",
+				"start": 125.52,
+				"end": 126.88,
+				"index": 178
+			}
+		],
+		"start": 119.34,
+		"end": 126.88
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 128.48,
+				"end": 129.7,
+				"index": 179
+			},
+			{
+				"text": "would ",
+				"start": 129.7,
+				"end": 130,
+				"index": 180
+			},
+			{
+				"text": "love ",
+				"start": 130,
+				"end": 130.74,
+				"index": 181
+			},
+			{
+				"text": "you ",
+				"start": 130.74,
+				"end": 131.32,
+				"index": 182
+			},
+			{
+				"text": "just ",
+				"start": 131.32,
+				"end": 131.94,
+				"index": 183
+			},
+			{
+				"text": "one ",
+				"start": 131.94,
+				"end": 132.24,
+				"index": 184
+			},
+			{
+				"text": "more ",
+				"start": 132.24,
+				"end": 132.44,
+				"index": 185
+			},
+			{
+				"text": "time ",
+				"start": 132.44,
+				"end": 133.74,
+				"index": 186
+			},
+			{
+				"text": "and ",
+				"start": 133.74,
+				"end": 134.7,
+				"index": 187
+			},
+			{
+				"text": "don't ",
+				"start": 134.7,
+				"end": 136.24,
+				"index": 188
+			},
+			{
+				"text": "breathe ",
+				"start": 136.24,
+				"end": 136.56,
+				"index": 189
+			},
+			{
+				"text": "a ",
+				"start": 136.56,
+				"end": 137.04,
+				"index": 190
+			},
+			{
+				"text": "spark",
+				"start": 137.04,
+				"end": 137.66,
+				"index": 191
+			}
+		],
+		"start": 128.48,
+		"end": 137.66
+	},
+	{
+		"words": [
+			{
+				"text": "If ",
+				"start": 137.66,
+				"end": 138.9,
+				"index": 192
+			},
+			{
+				"text": "LeBron's ",
+				"start": 138.9,
+				"end": 140.06,
+				"index": 193
+			},
+			{
+				"text": "retiring ",
+				"start": 140.06,
+				"end": 141.36,
+				"index": 194
+			},
+			{
+				"text": "I'll ",
+				"start": 141.36,
+				"end": 142.04,
+				"index": 195
+			},
+			{
+				"text": "win ",
+				"start": 142.04,
+				"end": 142.16,
+				"index": 196
+			},
+			{
+				"text": "a ",
+				"start": 142.16,
+				"end": 142.48,
+				"index": 197
+			},
+			{
+				"text": "ring ",
+				"start": 142.48,
+				"end": 143.02,
+				"index": 198
+			},
+			{
+				"text": "for ",
+				"start": 143.02,
+				"end": 143.82,
+				"index": 199
+			},
+			{
+				"text": "you",
+				"start": 143.82,
+				"end": 144.96,
+				"index": 200
+			}
+		],
+		"start": 137.66,
+		"end": 144.96
+	}
+]
