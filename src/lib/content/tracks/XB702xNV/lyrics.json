@@ -796,12 +796,12 @@
 			{
 				"text": "LeBron",
 				"start": 0,
-				"end": -0.1,
+				"end": 0,
 				"index": 120
 			}
 		],
 		"start": 101.32,
-		"end": 101.22
+		"end": 101.32
 	},
 	{
 		"words": [
@@ -890,15 +890,15 @@
 	{
 		"words": [
 			{
-				"text": "LeBron, ",
+				"text": "LeBron, LeBron, ",
 				"start": 0,
-				"end": 0,
+				"end": 111.02,
 				"index": 132
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 0.02,
+				"end": 0.02,
 				"index": 133
 			},
 			{
@@ -915,8 +915,8 @@
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0.02,
-				"end": 0.02,
+				"start": 0.04,
+				"end": 0.04,
 				"index": 136
 			},
 			{
@@ -1053,8 +1053,8 @@
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0.04,
-				"end": 0.04,
+				"start": 0.1,
+				"end": 0.1,
 				"index": 159
 			},
 			{
@@ -1244,248 +1244,248 @@
 				"index": 190
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron, LeBron",
 				"start": 0.1,
-				"end": 0.1,
+				"end": 111.02,
 				"index": 191
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0.1,
-				"end": 0.1,
-				"index": 192
-			},
-			{
-				"text": "LeBron",
-				"start": 0.1,
-				"end": 0,
-				"index": 193
 			}
 		],
 		"start": 111.02,
-		"end": 111.12
+		"end": 222.04
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, ",
+				"start": 0,
+				"end": 112.28,
+				"index": 192
+			},
+			{
+				"text": "LeBron, ",
+				"start": 0.04,
+				"end": 0.04,
+				"index": 193
+			},
+			{
+				"text": "LeBron",
+				"start": 0.04,
+				"end": 0.04,
+				"index": 194
+			}
+		],
+		"start": 112.28,
+		"end": 224.56
 	},
 	{
 		"words": [
 			{
 				"text": "LeBron, ",
 				"start": 0,
-				"end": 0,
-				"index": 194
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"end": 1.72,
 				"index": 195
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 196
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 197
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 198
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 199
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 200
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 201
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 202
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 203
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 204
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 205
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 206
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 207
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 208
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 209
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 210
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 211
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 212
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 213
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 214
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 215
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 216
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 217
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 218
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 219
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 220
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 221
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 222
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 223
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 224
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 225
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 226
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0.04,
-				"end": 0.04,
+				"start": 1.72,
+				"end": 1.72,
 				"index": 227
 			},
 			{
-				"text": "LeBron",
-				"start": 0.04,
-				"end": 0.04,
+				"text": "LeBron, ",
+				"start": 1.72,
+				"end": 1.72,
 				"index": 228
-			}
-		],
-		"start": 112.28,
-		"end": 112.32
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "LeBron, ",
-				"start": 0,
+				"start": 1.72,
 				"end": 1.72,
 				"index": 229
 			},
@@ -1946,214 +1946,10 @@
 				"index": 305
 			},
 			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 306
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 307
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 308
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 309
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 310
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 311
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 312
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 313
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 314
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 315
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 316
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 317
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 318
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 319
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 320
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 321
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 322
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 323
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 324
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 325
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 326
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 327
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 328
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 329
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 330
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 331
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 332
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 333
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 334
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 335
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 336
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 337
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 338
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.72,
-				"end": 1.72,
-				"index": 339
-			},
-			{
 				"text": "LeBron",
 				"start": 1.72,
 				"end": 1.72,
-				"index": 340
+				"index": 306
 			}
 		],
 		"start": 112.32,
@@ -2162,679 +1958,13 @@
 	{
 		"words": [
 			{
-				"text": "LeBron, ",
+				"text": "LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron, LeBron",
 				"start": 0,
-				"end": 0,
-				"index": 341
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 342
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 343
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 344
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 345
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 346
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 347
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 348
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 349
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 350
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 351
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 352
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 353
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 354
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 355
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 356
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 357
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 358
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 359
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 360
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 361
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 362
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 363
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 364
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 365
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 366
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 367
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 368
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 369
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 370
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 371
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 372
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 373
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 374
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 375
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 376
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 377
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 378
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 379
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 380
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 381
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 382
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 383
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 384
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 385
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 386
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 387
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 388
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 389
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 390
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 391
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 392
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 393
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 394
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 395
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 396
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 397
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 398
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 399
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 400
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 401
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 402
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 403
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 404
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 405
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 406
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 407
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 408
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 409
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 410
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 411
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 412
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 413
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 414
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 415
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 416
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 417
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 418
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 419
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 420
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 421
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 422
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 423
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 424
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 425
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 426
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 427
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 428
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 429
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 430
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 431
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 432
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 433
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 434
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 435
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 436
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 437
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 438
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 439
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 440
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 441
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 442
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 443
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 444
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 445
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 446
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 447
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 448
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 449
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 450
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 451
-			},
-			{
-				"text": "LeBron",
-				"start": 0,
-				"end": 0.02,
-				"index": 452
+				"end": 114.04,
+				"index": 307
 			}
 		],
 		"start": 114.02,
-		"end": 114.04
+		"end": 228.06
 	}
 ]

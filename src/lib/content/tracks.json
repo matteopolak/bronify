@@ -851,18 +851,6 @@
 		]
 	},
 	{
-		"id": "PQ1ANcPe",
-		"artist": "Talented Blake",
-		"title": "Ain't Glazing",
-		"durationSeconds": 121,
-		"tags": [
-			"reggae",
-			"soul",
-			"blues",
-			"pop"
-		]
-	},
-	{
 		"id": "PXmXzkMZ",
 		"artist": "maynburneracc",
 		"title": "Moves Like LeBron",
@@ -1139,6 +1127,18 @@
 		"durationSeconds": 105,
 		"youtube": "kbUbLKTzHpE",
 		"id": "W0iDrBau"
+	},
+	{
+		"id": "WbnUR0Ko",
+		"artist": "Talented Blake",
+		"title": "Ain't Glazing",
+		"durationSeconds": 49,
+		"tags": [
+			"reggae",
+			"soul",
+			"blues",
+			"pop"
+		]
 	},
 	{
 		"title": "Mr. LeBron",

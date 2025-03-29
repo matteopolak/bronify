@@ -2,7 +2,7 @@
 	import { trackThumbnail, getArtist } from '$lib/get';
 	import { player } from '$lib/player.svelte';
 	import type { Track } from '$lib/types';
-	import { MicVocal, Pause, Play } from '@lucide/svelte';
+	import { Pause, Play } from '@lucide/svelte';
 
 	let { track, onClick }: { track: Track; onClick: () => void } = $props();
 

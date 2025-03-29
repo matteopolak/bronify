@@ -30,6 +30,7 @@
 		"pre-build": "node --experimental-strip-types scripts/pre_build.ts"
 	},
 	"devDependencies": {
+		"@capacitor/assets": "^3.0.5",
 		"@eslint/compat": "^1.2.5",
 		"@eslint/js": "^9.18.0",
 		"@sveltejs/adapter-cloudflare": "^6.0.1",
@@ -65,6 +66,7 @@
 		"@capacitor/cli": "^7.1.0",
 		"@capacitor/core": "^7.1.0",
 		"@capacitor/ios": "^7.1.0",
+		"@capacitor/status-bar": "^7.0.0",
 		"@lucide/svelte": "^0.483.0",
 		"@svelte-put/shortcut": "^4.1.0",
 		"axios": "^1.8.4",

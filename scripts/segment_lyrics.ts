@@ -54,9 +54,6 @@ function cleanWord(text: string) {
 }
 
 for (const track of tracks) {
-	if (track !== 'zBU-r25Z') {
-		continue;
-	}
 	if (!fs.existsSync(path.join(base, track, 'lyrics.json'))) {
 		console.log(`Missing lyrics for ${track}`);
 		continue;

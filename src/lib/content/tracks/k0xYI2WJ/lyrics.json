@@ -74,20 +74,14 @@
 	{
 		"words": [
 			{
-				"text": "LeBron ",
+				"text": "LeBron James",
 				"start": 0,
-				"end": 0,
+				"end": 58.36,
 				"index": 8
-			},
-			{
-				"text": "James",
-				"start": 0,
-				"end": 0.08,
-				"index": 9
 			}
 		],
 		"start": 58.28,
-		"end": 58.36
+		"end": 116.64
 	},
 	{
 		"words": [
@@ -95,13 +89,13 @@
 				"text": "LeBron ",
 				"start": 0,
 				"end": 0.52,
-				"index": 10
+				"index": 9
 			},
 			{
 				"text": "James",
 				"start": 0.52,
 				"end": 0.52,
-				"index": 11
+				"index": 10
 			}
 		],
 		"start": 58.36,
@@ -113,13 +107,13 @@
 				"text": "LeBron ",
 				"start": 0,
 				"end": 0.58,
-				"index": 12
+				"index": 11
 			},
 			{
 				"text": "James",
 				"start": 0.58,
 				"end": 1.38,
-				"index": 13
+				"index": 12
 			}
 		],
 		"start": 61.1,

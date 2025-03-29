@@ -392,26 +392,14 @@
 	{
 		"words": [
 			{
-				"text": "LeBron he can dunk",
+				"text": "LeBron he can dunkIf you hate him don't know what you want",
 				"start": 0,
-				"end": 23.32,
+				"end": 40.16,
 				"index": 56
 			}
 		],
 		"start": 34.84,
-		"end": 58.16
-	},
-	{
-		"words": [
-			{
-				"text": "If you hate him don't know what you want",
-				"start": 0,
-				"end": 5.32,
-				"index": 57
-			}
-		],
-		"start": 34.84,
-		"end": 40.16
+		"end": 75
 	},
 	{
 		"words": [
@@ -419,7 +407,7 @@
 				"text": "You can't hate on the game LeBron",
 				"start": 0,
 				"end": 3.76,
-				"index": 58
+				"index": 57
 			}
 		],
 		"start": 40.24,

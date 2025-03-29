@@ -10,6 +10,8 @@ const config = {
 		adapter: useCloudflare
 			? cloudflare()
 			: adapter({
+					pages: 'build',
+					assets: 'build',
 					fallback: 'index.html'
 				})
 	}

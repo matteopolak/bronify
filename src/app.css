@@ -19,6 +19,10 @@
 		@apply font-sans antialiased;
 	}
 
+	body {
+		padding-top: env(safe-area-inset-top);
+	}
+
 	* {
 		scrollbar-width: thin;
 		scrollbar-color: rgba(100, 100, 100, 0.4) transparent;
