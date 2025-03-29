@@ -9,7 +9,7 @@
 	import Sidebar from '$lib/components/sidebar.svelte';
 
 	import { onMount, type Snippet } from 'svelte';
-	import { Heart, Home, Menu } from '@lucide/svelte';
+	import { ArrowBigDownDash, Heart, Home, Menu } from '@lucide/svelte';
 	import { shortcut, type ShortcutEventDetail } from '@svelte-put/shortcut';
 	import { beforeNavigate, replaceState } from '$app/navigation';
 	import FakeProgress from '$lib/components/fake-progress.svelte';
@@ -226,10 +226,10 @@
 		</div>
 
 		<div class="navbar-end gap-2">
-			<button class="btn btn-md" onclick={() => comingSoonModal.showModal()}>Sign in</button>
-			<button class="btn btn-md btn-primary" onclick={() => comingSoonModal.showModal()}
-				>Sign up</button
-			>
+			<a class="btn btn-md" href="/app" aria-label="Install app">
+				<ArrowBigDownDash size="1.2em" fill="currentColor" />
+				Install App
+			</a>
 		</div>
 	</div>
 
@@ -287,10 +287,10 @@
 		</div>
 
 		<div class="md:navbar-end hidden gap-2">
-			<button class="btn btn-md" onclick={() => comingSoonModal.showModal()}>Sign in</button>
-			<button class="btn btn-md btn-primary" onclick={() => comingSoonModal.showModal()}
-				>Sign up</button
-			>
+			<a class="btn btn-md" href="/app" aria-label="Install app">
+				<ArrowBigDownDash size="1.2em" fill="currentColor" />
+				Install App
+			</a>
 		</div>
 	</div>
 
