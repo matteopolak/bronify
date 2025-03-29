@@ -32,14 +32,14 @@ all_tags = set()
 allowed_tags = set()
 
 # read allowed_tags from `filter_tags.json`
-with open('scripts/filter_tags.json', 'r') as f:
+with open('filter_tags.json', 'r') as f:
     allowed_tags = set(json.load(f))
 
 tag_map = {}
 
 # read tag_map from `tag_map.json`
 
-with open('scripts/tag_map.json', 'r') as f:
+with open('tag_map.json', 'r') as f:
     tag_map = json.load(f)
 
 # Iterate over subfolders
@@ -72,14 +72,14 @@ def classify_all_tracks_in_folder(parent_folder):
 
 # Example usage
 parent_folder = "/path/to/your/folders"
-results = classify_all_tracks_in_folder("src/lib/content/tracks")
+results = classify_all_tracks_in_folder("../src/lib/content/tracks")
 
 
 # Save results to a json file
-with open('results.json', 'w') as f:
+with open('../results.json', 'w') as f:
     json.dump(results, f)
 
 # write all tags to json
-with open('scripts/all_tags.json', 'w') as f:
+with open('all_tags.json', 'w') as f:
     json.dump(list(all_tags), f)
 

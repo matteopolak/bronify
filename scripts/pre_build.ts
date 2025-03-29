@@ -21,11 +21,7 @@ for (const track of tracks) {
 	}
 }
 
-// if track has lyrics, it goes first. if equal, sort by id
 tracks.sort((a, b) => {
-	if (hasLyrics.get(b.id) !== hasLyrics.get(a.id)) {
-		return hasLyrics.get(b.id) ? 1 : -1;
-	}
 	return a.id.localeCompare(b.id);
 });
 
