@@ -1,26 +1,45 @@
 <script lang="ts">
 	import { ArrowLeft, ArrowRight } from '@lucide/svelte';
+	import type { Snippet } from 'svelte';
 
-	let { children } = $props();
+	let { children, class: klass }: { children: Snippet; class?: string } = $props();
 
 	let container: HTMLDivElement = $state()!;
 
-	function scrollLeft() {
+	function left() {
 		container.scrollBy({ left: -400, behavior: 'smooth' });
 	}
 
-	function scrollRight() {
+	function right() {
 		container.scrollBy({ left: 400, behavior: 'smooth' });
 	}
+
+	let clientWidth = $state(0);
+	let scrollLeft = $state(0);
+	let scrollWidth = $state(0);
+
+	let canLeft = $derived(scrollLeft > 20);
+	let canRight = $derived(scrollWidth - clientWidth > scrollLeft + 20);
+
+	$effect(() => {
+		clientWidth = container.clientWidth;
+		scrollLeft = container.scrollLeft;
+		scrollWidth = container.scrollWidth;
+	});
 </script>
 
 <div class="relative">
-	<button class="arrow left-1" onclick={scrollLeft}>
+	<button class="arrow left-1" class:opacity-0={!canLeft} onclick={left}>
 		<ArrowLeft />
 	</button>
 	<div
-		class="flex flex-row flex-nowrap gap-2 overflow-x-auto"
+		class="flex flex-row flex-nowrap overflow-x-auto {klass}"
 		bind:this={container}
+		bind:clientWidth
+		onscroll={() => {
+			scrollLeft = container.scrollLeft;
+			scrollWidth = container.scrollWidth;
+		}}
 		onwheel={(e) => {
 			e.preventDefault();
 			container.scrollBy({ left: e.deltaY * 3, behavior: 'smooth' });
@@ -28,7 +47,7 @@
 	>
 		{@render children()}
 	</div>
-	<button class="arrow right-1" onclick={scrollRight}>
+	<button class="arrow right-1" class:opacity-0={!canRight} onclick={right}>
 		<ArrowRight />
 	</button>
 </div>

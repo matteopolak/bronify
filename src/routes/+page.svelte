@@ -5,6 +5,9 @@
 	import { trackData, categoryData, categoryThumbnail } from '$lib/get';
 	import type { Collection } from '$lib/types';
 	import Scrollable from '$lib/components/scrollable.svelte';
+	import VerticalCover from '$lib/components/vertical-cover.svelte';
+
+	const NEW_RELEASE_THRESHOLD = Date.now() - 24 * 60 * 60 * 1000; // 24 hours
 
 	const trackIndex = new Fuse(trackData, {
 		keys: ['title', 'artist', 'tags', 'username'],
@@ -19,6 +22,15 @@
 		Object.entries(categoryData).sort((a, b) => {
 			return a[1].localeCompare(b[1]);
 		})
+	);
+
+	let newReleases = $derived(
+		tracks
+			.slice()
+			.sort((a, b) => {
+				return b.createdAt - a.createdAt;
+			})
+			.slice(0, 20)
 	);
 
 	$effect(() => {
@@ -46,7 +58,7 @@
 {/snippet}
 
 <div class="space-y-6 p-3">
-	<Scrollable>
+	<Scrollable class="gap-1">
 		{#each categories as [key, title] (key)}
 			{@render collection({
 				id: key,
@@ -57,6 +69,17 @@
 			})}
 		{/each}
 	</Scrollable>
+
+	<!-- New releases (within the last 24 hours) -->
+	<div>
+		<h1 class="p-2 text-2xl font-semibold text-neutral-100">Newest releases</h1>
+
+		<Scrollable class="gap-0">
+			{#each newReleases as track (track.id)}
+				<VerticalCover {track} onClick={() => player.toggle(track)} />
+			{/each}
+		</Scrollable>
+	</div>
 
 	<!--
 	<div>
@@ -71,7 +94,7 @@
 	-->
 
 	<div>
-		<h1 class="p-2 text-2xl font-semibold text-neutral-100">Your top mixes</h1>
+		<h1 class="p-2 text-2xl font-semibold text-neutral-100">All tracks</h1>
 
 		<div class="grid w-full grid-cols-1 gap-1 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6">
 			{#each tracks as track (track.id)}

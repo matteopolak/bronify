@@ -7,6 +7,7 @@ export type Track = {
 	index: number;
 
 	durationSeconds: number;
+	createdAt: number;
 
 	spotify?: string;
 	youtube?: string;

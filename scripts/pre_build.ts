@@ -45,6 +45,8 @@ for (const track of tracks) {
 	if (track.index === undefined) {
 		track.index = ++maxIndex;
 	}
+
+	track.createdAt ??= Date.now();
 }
 
 fs.writeFileSync('src/lib/content/tracks.json', JSON.stringify(tracks, null, '\t'), 'utf-8');
