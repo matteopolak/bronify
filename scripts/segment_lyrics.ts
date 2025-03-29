@@ -83,7 +83,8 @@ for (const track of tracks) {
 
 	const newLyrics: Lyrics = [];
 
-	let lastEnd = 0;
+	let lastEnd = -1;
+	let lastStart = -1;
 	let lastEndedWithSpace = false;
 
 	for (const word of flattened) {
@@ -93,8 +94,9 @@ for (const track of tracks) {
 		const noSpace = !lastEndedWithSpace && !currentStartsWithSpace;
 
 		const wordEnd = word.end;
+		const wordStart = word.start;
 
-		if (word.end === start || (word.start === start && words.length)) {
+		if (word.end === lastStart || (word.start === lastStart && words.length)) {
 			// merge it
 			const lastWord = words[words.length - 1];
 
@@ -141,6 +143,7 @@ for (const track of tracks) {
 		}
 
 		lastEnd = wordEnd;
+		lastStart = wordStart;
 		lastEndedWithSpace = word.text.endsWith(' ');
 	}
 

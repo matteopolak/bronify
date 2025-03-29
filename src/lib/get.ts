@@ -67,6 +67,12 @@ for (const track of trackData) {
 	trackMap.set(track.id, track);
 }
 
+const trackIndexMap: Map<number, Track> = new Map();
+
+for (const track of trackData) {
+	trackIndexMap.set(track.index, track);
+}
+
 export function getArtist(id: string): Artist {
 	return artistMap.get(id)!;
 }
@@ -77,6 +83,10 @@ export function getAlbum(id: string): Album {
 
 export function getTrack(id: string): Track {
 	return trackMap.get(id)!;
+}
+
+export function getTrackByIndex(index: number): Track | undefined {
+	return trackIndexMap.get(index);
 }
 
 export function artistThumbnail(id: string): string {

@@ -1,0 +1,740 @@
+[
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 1.06,
+				"index": 0
+			},
+			{
+				"text": "know ",
+				"start": 1.06,
+				"end": 2.76,
+				"index": 1
+			},
+			{
+				"text": "that ",
+				"start": 2.76,
+				"end": 3.24,
+				"index": 2
+			},
+			{
+				"text": "Bron's ",
+				"start": 3.24,
+				"end": 3.6,
+				"index": 3
+			},
+			{
+				"text": "won ",
+				"start": 3.6,
+				"end": 3.92,
+				"index": 4
+			},
+			{
+				"text": "rings ",
+				"start": 3.92,
+				"end": 4.28,
+				"index": 5
+			},
+			{
+				"text": "before",
+				"start": 4.28,
+				"end": 4.92,
+				"index": 6
+			}
+		],
+		"start": 0,
+		"end": 4.92
+	},
+	{
+		"words": [
+			{
+				"text": "But ",
+				"start": 0,
+				"end": 1.34,
+				"index": 7
+			},
+			{
+				"text": "a ",
+				"start": 1.34,
+				"end": 1.52,
+				"index": 8
+			},
+			{
+				"text": "fifth ",
+				"start": 1.52,
+				"end": 2,
+				"index": 9
+			},
+			{
+				"text": "one ",
+				"start": 2,
+				"end": 2.28,
+				"index": 10
+			},
+			{
+				"text": "would ",
+				"start": 2.28,
+				"end": 2.72,
+				"index": 11
+			},
+			{
+				"text": "be ",
+				"start": 2.72,
+				"end": 2.98,
+				"index": 12
+			},
+			{
+				"text": "better ",
+				"start": 2.98,
+				"end": 3.62,
+				"index": 13
+			},
+			{
+				"text": "than ",
+				"start": 3.62,
+				"end": 4.14,
+				"index": 14
+			},
+			{
+				"text": "just ",
+				"start": 4.14,
+				"end": 4.46,
+				"index": 15
+			},
+			{
+				"text": "four",
+				"start": 4.46,
+				"end": 4.74,
+				"index": 16
+			}
+		],
+		"start": 5.92,
+		"end": 10.66
+	},
+	{
+		"words": [
+			{
+				"text": "Lakers ",
+				"start": 0,
+				"end": 2.6,
+				"index": 17
+			},
+			{
+				"text": "in ",
+				"start": 2.6,
+				"end": 3.08,
+				"index": 18
+			},
+			{
+				"text": "five ",
+				"start": 3.08,
+				"end": 3.32,
+				"index": 19
+			},
+			{
+				"text": "sure ",
+				"start": 3.32,
+				"end": 3.66,
+				"index": 20
+			},
+			{
+				"text": "does ",
+				"start": 3.66,
+				"end": 4.04,
+				"index": 21
+			},
+			{
+				"text": "sound ",
+				"start": 4.04,
+				"end": 4.44,
+				"index": 22
+			},
+			{
+				"text": "nice",
+				"start": 4.44,
+				"end": 5.56,
+				"index": 23
+			}
+		],
+		"start": 11.66,
+		"end": 17.22
+	},
+	{
+		"words": [
+			{
+				"text": "Watch ",
+				"start": 0,
+				"end": 0.44,
+				"index": 24
+			},
+			{
+				"text": "em ",
+				"start": 0.44,
+				"end": 0.62,
+				"index": 25
+			},
+			{
+				"text": "win ",
+				"start": 0.62,
+				"end": 1.14,
+				"index": 26
+			},
+			{
+				"text": "it ",
+				"start": 1.14,
+				"end": 1.38,
+				"index": 27
+			},
+			{
+				"text": "all, ",
+				"start": 1.38,
+				"end": 1.82,
+				"index": 28
+			},
+			{
+				"text": "LeBron's ",
+				"start": 1.92,
+				"end": 2.56,
+				"index": 29
+			},
+			{
+				"text": "worth ",
+				"start": 2.56,
+				"end": 2.74,
+				"index": 30
+			},
+			{
+				"text": "all ",
+				"start": 2.74,
+				"end": 3.3,
+				"index": 31
+			},
+			{
+				"text": "the ",
+				"start": 3.3,
+				"end": 3.54,
+				"index": 32
+			},
+			{
+				"text": "hype",
+				"start": 3.54,
+				"end": 4.54,
+				"index": 33
+			}
+		],
+		"start": 18.5,
+		"end": 23.04
+	},
+	{
+		"words": [
+			{
+				"text": "Got ",
+				"start": 0,
+				"end": 0.7,
+				"index": 34
+			},
+			{
+				"text": "a ",
+				"start": 0.7,
+				"end": 0.88,
+				"index": 35
+			},
+			{
+				"text": "feeling ",
+				"start": 0.88,
+				"end": 1.14,
+				"index": 36
+			},
+			{
+				"text": "that he'll ",
+				"start": 1.14,
+				"end": 1.64,
+				"index": 37
+			},
+			{
+				"text": "win ",
+				"start": 1.64,
+				"end": 1.96,
+				"index": 38
+			},
+			{
+				"text": "the ",
+				"start": 1.96,
+				"end": 2.34,
+				"index": 39
+			},
+			{
+				"text": "finals",
+				"start": 2.34,
+				"end": 3.18,
+				"index": 40
+			}
+		],
+		"start": 24.86,
+		"end": 28.04
+	},
+	{
+		"words": [
+			{
+				"text": "He's ",
+				"start": 0,
+				"end": 0.44,
+				"index": 41
+			},
+			{
+				"text": "LeBron, ",
+				"start": 0.44,
+				"end": 0.9,
+				"index": 42
+			},
+			{
+				"text": "he ",
+				"start": 1.04,
+				"end": 1.14,
+				"index": 43
+			},
+			{
+				"text": "can ",
+				"start": 1.14,
+				"end": 1.32,
+				"index": 44
+			},
+			{
+				"text": "do ",
+				"start": 1.32,
+				"end": 1.64,
+				"index": 45
+			},
+			{
+				"text": "it ",
+				"start": 1.64,
+				"end": 2.02,
+				"index": 46
+			},
+			{
+				"text": "for ",
+				"start": 2.02,
+				"end": 2.42,
+				"index": 47
+			},
+			{
+				"text": "his ",
+				"start": 2.42,
+				"end": 2.72,
+				"index": 48
+			},
+			{
+				"text": "son",
+				"start": 2.72,
+				"end": 2.96,
+				"index": 49
+			}
+		],
+		"start": 28.04,
+		"end": 31
+	},
+	{
+		"words": [
+			{
+				"text": "Fifth ",
+				"start": 0,
+				"end": 0.44,
+				"index": 50
+			},
+			{
+				"text": "ring ",
+				"start": 0.7,
+				"end": 0.84,
+				"index": 51
+			},
+			{
+				"text": "for him ",
+				"start": 0.84,
+				"end": 1.18,
+				"index": 52
+			},
+			{
+				"text": "just ",
+				"start": 1.4,
+				"end": 1.56,
+				"index": 53
+			},
+			{
+				"text": "feels ",
+				"start": 1.56,
+				"end": 1.92,
+				"index": 54
+			},
+			{
+				"text": "right, ",
+				"start": 1.92,
+				"end": 2.32,
+				"index": 55
+			},
+			{
+				"text": "so LeBron",
+				"start": 2.76,
+				"end": 4.86,
+				"index": 56
+			}
+		],
+		"start": 31,
+		"end": 35.86
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.35,
+				"index": 57
+			},
+			{
+				"text": "watch ",
+				"start": 0.35,
+				"end": 0.81,
+				"index": 58
+			},
+			{
+				"text": "you, ",
+				"start": 0.81,
+				"end": 1.15,
+				"index": 59
+			},
+			{
+				"text": "make ",
+				"start": 1.27,
+				"end": 1.39,
+				"index": 60
+			},
+			{
+				"text": "it ",
+				"start": 1.39,
+				"end": 1.57,
+				"index": 61
+			},
+			{
+				"text": "through ",
+				"start": 1.57,
+				"end": 1.75,
+				"index": 62
+			},
+			{
+				"text": "the ",
+				"start": 1.75,
+				"end": 1.99,
+				"index": 63
+			},
+			{
+				"text": "playoffs",
+				"start": 1.99,
+				"end": 2.65,
+				"index": 64
+			}
+		],
+		"start": 35.47,
+		"end": 38.12
+	},
+	{
+		"words": [
+			{
+				"text": "Easily, ",
+				"start": 0,
+				"end": 1.14,
+				"index": 65
+			},
+			{
+				"text": "showing ",
+				"start": 1.5,
+				"end": 1.7,
+				"index": 66
+			},
+			{
+				"text": "what ",
+				"start": 1.7,
+				"end": 1.96,
+				"index": 67
+			},
+			{
+				"text": "you're ",
+				"start": 1.96,
+				"end": 2.34,
+				"index": 68
+			},
+			{
+				"text": "made ",
+				"start": 2.34,
+				"end": 2.44,
+				"index": 69
+			},
+			{
+				"text": "of",
+				"start": 2.44,
+				"end": 3.22,
+				"index": 70
+			}
+		],
+		"start": 38.12,
+		"end": 41.34
+	},
+	{
+		"words": [
+			{
+				"text": "Cause ",
+				"start": 0,
+				"end": 0.42,
+				"index": 71
+			},
+			{
+				"text": "your ",
+				"start": 0.42,
+				"end": 0.74,
+				"index": 72
+			},
+			{
+				"text": "name's ",
+				"start": 0.74,
+				"end": 1.32,
+				"index": 73
+			},
+			{
+				"text": "L",
+				"start": 1.32,
+				"end": 1.46,
+				"index": 74
+			},
+			{
+				"text": "-E",
+				"start": 1.46,
+				"end": 1.66,
+				"index": 75
+			},
+			{
+				"text": "-B",
+				"start": 1.66,
+				"end": 2,
+				"index": 76
+			},
+			{
+				"text": "-R",
+				"start": 2,
+				"end": 2.38,
+				"index": 77
+			},
+			{
+				"text": "-O",
+				"start": 2.38,
+				"end": 2.96,
+				"index": 78
+			},
+			{
+				"text": "-N",
+				"start": 2.96,
+				"end": 3.78,
+				"index": 79
+			}
+		],
+		"start": 41.34,
+		"end": 45.12
+	},
+	{
+		"words": [
+			{
+				"text": "Ready ",
+				"start": 0,
+				"end": 0.58,
+				"index": 80
+			},
+			{
+				"text": "for ",
+				"start": 0.58,
+				"end": 1.12,
+				"index": 81
+			},
+			{
+				"text": "your ",
+				"start": 1.12,
+				"end": 1.46,
+				"index": 82
+			},
+			{
+				"text": "next ",
+				"start": 1.46,
+				"end": 2.22,
+				"index": 83
+			},
+			{
+				"text": "win",
+				"start": 2.22,
+				"end": 2.92,
+				"index": 84
+			}
+		],
+		"start": 45.12,
+		"end": 48.04
+	},
+	{
+		"words": [
+			{
+				"text": "Polymarket ",
+				"start": 0,
+				"end": 0.32,
+				"index": 85
+			},
+			{
+				"text": "odds ",
+				"start": 0.32,
+				"end": 0.8,
+				"index": 86
+			},
+			{
+				"text": "are ",
+				"start": 0.8,
+				"end": 1.46,
+				"index": 87
+			},
+			{
+				"text": "Lakers, ",
+				"start": 1.46,
+				"end": 2.42,
+				"index": 88
+			},
+			{
+				"text": "no ",
+				"start": 2.7,
+				"end": 2.78,
+				"index": 89
+			},
+			{
+				"text": "one ",
+				"start": 2.78,
+				"end": 2.96,
+				"index": 90
+			},
+			{
+				"text": "else ",
+				"start": 2.96,
+				"end": 3.1,
+				"index": 91
+			},
+			{
+				"text": "can ",
+				"start": 3.1,
+				"end": 3.3,
+				"index": 92
+			},
+			{
+				"text": "keep ",
+				"start": 3.3,
+				"end": 3.66,
+				"index": 93
+			},
+			{
+				"text": "up",
+				"start": 3.66,
+				"end": 4.32,
+				"index": 94
+			}
+		],
+		"start": 48.62,
+		"end": 52.94
+	},
+	{
+		"words": [
+			{
+				"text": "Cause ",
+				"start": 0,
+				"end": 0.44,
+				"index": 95
+			},
+			{
+				"text": "your ",
+				"start": 0.44,
+				"end": 0.74,
+				"index": 96
+			},
+			{
+				"text": "name's ",
+				"start": 0.74,
+				"end": 1.32,
+				"index": 97
+			},
+			{
+				"text": "L",
+				"start": 1.32,
+				"end": 1.48,
+				"index": 98
+			},
+			{
+				"text": "-E",
+				"start": 1.48,
+				"end": 1.7,
+				"index": 99
+			},
+			{
+				"text": "-B",
+				"start": 1.7,
+				"end": 2.04,
+				"index": 100
+			},
+			{
+				"text": "-R",
+				"start": 2.04,
+				"end": 2.44,
+				"index": 101
+			},
+			{
+				"text": "-O",
+				"start": 2.44,
+				"end": 3.12,
+				"index": 102
+			},
+			{
+				"text": "-N",
+				"start": 3.12,
+				"end": 3.76,
+				"index": 103
+			}
+		],
+		"start": 52.94,
+		"end": 56.7
+	},
+	{
+		"words": [
+			{
+				"text": "Ready ",
+				"start": 0,
+				"end": 0.66,
+				"index": 104
+			},
+			{
+				"text": "for ",
+				"start": 0.66,
+				"end": 1.18,
+				"index": 105
+			},
+			{
+				"text": "your ",
+				"start": 1.18,
+				"end": 1.52,
+				"index": 106
+			},
+			{
+				"text": "next ",
+				"start": 1.52,
+				"end": 2.26,
+				"index": 107
+			},
+			{
+				"text": "win",
+				"start": 2.26,
+				"end": 2.88,
+				"index": 108
+			}
+		],
+		"start": 56.7,
+		"end": 59.58
+	}
+]

@@ -33,6 +33,20 @@ artists.sort((a, b) => {
 	return a.id.localeCompare(b.id);
 });
 
+let maxIndex = -1;
+
+for (const track of tracks) {
+	if (track.index !== undefined) {
+		maxIndex = Math.max(maxIndex, track.index);
+	}
+}
+
+for (const track of tracks) {
+	if (track.index === undefined) {
+		track.index = ++maxIndex;
+	}
+}
+
 fs.writeFileSync('src/lib/content/tracks.json', JSON.stringify(tracks, null, '\t'), 'utf-8');
 
 fs.writeFileSync('src/lib/content/artists.json', JSON.stringify(artists, null, '\t'), 'utf-8');

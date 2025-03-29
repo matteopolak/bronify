@@ -44,7 +44,7 @@ def copy_and_rename_audio_files(parent_folder, new_folder):
             print(f"Copied {audio_file} to {new_audio_file}")
     return ids
 
-ids = copy_and_rename_audio_files("../../src/lib/content/tracks", "tracks")
+ids = copy_and_rename_audio_files("../../src/lib/content/tracks", "../tracks")
 
 print(ids)
 

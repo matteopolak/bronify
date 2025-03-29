@@ -4,6 +4,7 @@ export type Track = {
 	artist: string;
 	tags: string[];
 	album?: string;
+	index: number;
 
 	durationSeconds: number;
 
@@ -42,6 +43,11 @@ export type Album = {
 	title: string;
 	artist: string;
 	trackIds: string[];
+};
+
+export type Playlist = {
+	title: string;
+	tracks: Track[];
 };
 
 export type LyricsWord = {
