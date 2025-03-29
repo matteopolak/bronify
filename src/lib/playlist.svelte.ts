@@ -116,7 +116,7 @@ function base64UrlDecode(str: string): string {
 	return atob(base64);
 }
 
-export function encodePlaylist(playlist: Playlist): string {
+export function encodePlaylist(playlist: Omit<Playlist, 'id'>): string {
 	const encoder = new TextEncoder();
 	let titleBytes = encoder.encode(playlist.title);
 	if (titleBytes.length > 20) {
@@ -185,6 +185,7 @@ function decodePlaylistInner(encoded: string): Playlist {
 	}
 
 	return {
+		id: encoded,
 		title,
 		tracks: songs
 	};
@@ -198,3 +199,101 @@ export function decodePlaylist(encoded: string): Playlist | null {
 		return null;
 	}
 }
+
+export function getStoredPlaylistIds(): string[] {
+	const storedPlaylists = localStorage.getItem('playlists');
+	if (!storedPlaylists) {
+		return [];
+	}
+
+	try {
+		const parsed = JSON.parse(storedPlaylists);
+		if (Array.isArray(parsed)) {
+			return parsed;
+		}
+	} catch (e) {
+		console.error('Failed to parse stored playlists:', e);
+	}
+
+	return [];
+}
+
+function deletePlaylistInner(encoded: string) {
+	const idx = playlists.findIndex((p) => p.id === encoded);
+	if (idx !== -1) {
+		playlists.splice(idx, 1);
+	}
+}
+
+export function deletePlaylist(playlist: Playlist) {
+	// If it has an `id` set, it was previously stored so we need to remove it!
+	if (playlist.id) {
+		deletePlaylistInner(playlist.id);
+	}
+
+	localStorage.setItem('playlists', JSON.stringify(playlists.map((p) => p.id)));
+}
+
+export function deletePlaylistById(id: string) {
+	// If it has an `id` set, it was previously stored so we need to remove it!
+	deletePlaylistInner(id);
+
+	localStorage.setItem('playlists', JSON.stringify(playlists.map((p) => p.id)));
+}
+
+// Stores (and removes old) playlist
+export function createPlaylist(playlist: { title: string; tracks: Track[] }): Playlist {
+	// If it has an `id` set, it was previously stored so we need to remove it!
+	const playlistId = encodePlaylist(playlist);
+
+	deletePlaylistInner(playlistId);
+
+	const created: Playlist = {
+		...playlist,
+		id: playlistId
+	} satisfies Playlist;
+
+	playlists.push(created);
+	sync();
+
+	return created;
+}
+
+export function addToPlaylist(playlist: Playlist, track: Track) {
+	if (playlist.tracks.find((t) => t.index === track.index)) {
+		return;
+	}
+
+	playlist.tracks.push(track);
+	playlist.id = encodePlaylist(playlist);
+	sync();
+
+	return playlist;
+}
+
+export function removeFromPlaylist(playlist: Playlist, track: Track): Playlist {
+	const idx = playlist.tracks.findIndex((t) => t.index === track.index);
+	if (idx === -1) {
+		return playlist;
+	}
+
+	playlist.tracks.splice(idx, 1);
+	playlist.id = encodePlaylist(playlist);
+	sync();
+
+	return playlist;
+}
+
+export function setTitle(playlist: Playlist, title: string): Playlist {
+	playlist.title = title;
+	playlist.id = encodePlaylist(playlist);
+	sync();
+
+	return playlist;
+}
+
+export function sync() {
+	localStorage.setItem('playlists', JSON.stringify(playlists.map((p) => p.id)));
+}
+
+export const playlists: Playlist[] = $state([]);

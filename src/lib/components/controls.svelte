@@ -18,9 +18,6 @@
 		Volume2,
 		VolumeX
 	} from '@lucide/svelte';
-	import { onMount, untrack } from 'svelte';
-	import { pushState, replaceState } from '$app/navigation';
-	import { page } from '$app/state';
 
 	let {
 		maxVolume = 0.5

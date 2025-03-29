@@ -10,7 +10,7 @@
 
 <div
 	style="background-image: url({content.cover})"
-	class="relative flex h-64 flex-col bg-cover bg-left-top md:h-80 lg:h-96"
+	class="relative flex h-64 flex-col bg-black bg-cover bg-left-top md:h-80 lg:h-96"
 >
 	<div class="absolute inset-0 bg-black/40"></div>
 

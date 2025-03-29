@@ -12,6 +12,14 @@
 	import { Heart, Home, Menu } from '@lucide/svelte';
 	import { shortcut, type ShortcutEventDetail } from '@svelte-put/shortcut';
 	import { beforeNavigate, replaceState } from '$app/navigation';
+	import FakeProgress from '$lib/components/fake-progress.svelte';
+	import {
+		decodePlaylist,
+		getStoredPlaylistIds,
+		createPlaylist,
+		playlists
+	} from '$lib/playlist.svelte';
+	import type { Playlist } from '$lib/types';
 
 	let { children }: { children: Snippet } = $props();
 	let audioElement: HTMLAudioElement = $state()!;
@@ -40,6 +48,22 @@
 		settings.lyrics = stringFromStorage('lyrics', 'on');
 		settings.loop = stringFromStorage('loop', 'none');
 		settings.shuffle = stringFromStorage('shuffle', 'off');
+
+		playlists.splice(0, playlists.length);
+		playlists.push(
+			...(getStoredPlaylistIds()
+				.map(decodePlaylist)
+				.filter((p) => p) as Playlist[])
+		);
+
+		if (playlists.length === 0) {
+			const playlist = {
+				title: 'LePlaylist',
+				tracks: []
+			};
+
+			createPlaylist(playlist);
+		}
 	});
 
 	$effect(() => {
@@ -168,6 +192,8 @@
 />
 
 <audio bind:this={audioElement} hidden></audio>
+
+<FakeProgress />
 
 <div class="h-screen">
 	<dialog bind:this={comingSoonModal} id="coming-soon-modal" class="modal">

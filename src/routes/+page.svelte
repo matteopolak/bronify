@@ -7,8 +7,6 @@
 	import Scrollable from '$lib/components/scrollable.svelte';
 	import VerticalCover from '$lib/components/vertical-cover.svelte';
 
-	const NEW_RELEASE_THRESHOLD = Date.now() - 24 * 60 * 60 * 1000; // 24 hours
-
 	const trackIndex = new Fuse(trackData, {
 		keys: ['title', 'artist', 'tags', 'username'],
 		threshold: 0.4

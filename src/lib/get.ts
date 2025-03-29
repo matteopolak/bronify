@@ -78,6 +78,7 @@ export function getArtist(id: string): Artist {
 }
 
 export function getAlbum(id: string): Album {
+	console.log('Album ID:', id);
 	return albumMap.get(id)!;
 }
 

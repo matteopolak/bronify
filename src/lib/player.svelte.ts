@@ -140,7 +140,7 @@ export async function resolveLyrics(track: Track) {
 export const player: Player = $state(new Player());
 
 export const settings: TrackSettings = $state({
-	lyrics: 'on',
+	lyrics: 'off',
 	loop: 'none',
 	shuffle: 'off'
 });

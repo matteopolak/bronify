@@ -9,11 +9,17 @@
 	let url = $derived(trackThumbnail(track.id));
 	let artist = $derived(getArtist(track.artist));
 	let playing = $derived(player.track.id === track.id && !player.paused);
+
+	let anchor: HTMLAnchorElement = $state()!;
 </script>
 
 <button
 	class="group card hover:bg-base-300/50 flex h-auto w-44 flex-shrink-0 cursor-pointer flex-col gap-2 p-3 text-left transition-all duration-100"
-	onclick={onClick}
+	onclick={(e) => {
+		if (e.target !== anchor) {
+			onClick();
+		}
+	}}
 	aria-label="Play track"
 >
 	<div class="relative h-auto w-auto shrink-0">
@@ -41,7 +47,7 @@
 			<h3 class="text-md line-clamp-1 font-semibold">{track.title}</h3>
 			<span class="text-sm text-slate-300">
 				By
-				<a href="/artists/{artist.id}" onclick={(e) => e.stopPropagation()} class="hover:underline">
+				<a href="/artists/{artist.id}" class="hover:underline" bind:this={anchor}>
 					{artist.display_name ?? track.artist}
 				</a>
 			</span>

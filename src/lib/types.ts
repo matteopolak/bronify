@@ -34,7 +34,7 @@ export type Collection = {
 	id: string;
 	title: string;
 	subtitle: string;
-	cover: string;
+	cover?: string;
 	type: 'album' | 'playlist' | 'artist' | 'tag';
 	tracks: Track[];
 };
@@ -47,6 +47,7 @@ export type Album = {
 };
 
 export type Playlist = {
+	id: string;
 	title: string;
 	tracks: Track[];
 };
