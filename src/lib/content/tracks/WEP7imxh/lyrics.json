@@ -1,0 +1,440 @@
+[
+	{
+		"words": [
+			{
+				"text": "Yeah, ",
+				"start": 0,
+				"end": 0.64,
+				"index": 0
+			},
+			{
+				"text": "woo, ",
+				"start": 0.64,
+				"end": 1.28,
+				"index": 1
+			},
+			{
+				"text": "woo",
+				"start": 1.68,
+				"end": 2.7,
+				"index": 2
+			}
+		],
+		"start": 1.82,
+		"end": 4.52
+	},
+	{
+		"words": [
+			{
+				"text": "Can ",
+				"start": 0,
+				"end": 0.48,
+				"index": 3
+			},
+			{
+				"text": "you ",
+				"start": 0.48,
+				"end": 0.76,
+				"index": 4
+			},
+			{
+				"text": "feel, ",
+				"start": 0.76,
+				"end": 1.5,
+				"index": 5
+			},
+			{
+				"text": "can ",
+				"start": 2.1,
+				"end": 2.4,
+				"index": 6
+			},
+			{
+				"text": "you ",
+				"start": 2.4,
+				"end": 3.42,
+				"index": 7
+			},
+			{
+				"text": "feel, ",
+				"start": 3.42,
+				"end": 3.66,
+				"index": 8
+			},
+			{
+				"text": "can ",
+				"start": 3.84,
+				"end": 4.22,
+				"index": 9
+			},
+			{
+				"text": "you ",
+				"start": 4.22,
+				"end": 4.42,
+				"index": 10
+			},
+			{
+				"text": "feel?",
+				"start": 4.42,
+				"end": 5.24,
+				"index": 11
+			}
+		],
+		"start": 4.52,
+		"end": 9.76
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.64,
+				"index": 12
+			},
+			{
+				"text": "wanna ",
+				"start": 0.64,
+				"end": 1.04,
+				"index": 13
+			},
+			{
+				"text": "feel",
+				"start": 1.04,
+				"end": 2.48,
+				"index": 14
+			}
+		],
+		"start": 11.24,
+		"end": 13.72
+	},
+	{
+		"words": [
+			{
+				"text": "This ",
+				"start": 0,
+				"end": 2.8,
+				"index": 15
+			},
+			{
+				"text": "for ",
+				"start": 2.8,
+				"end": 3.12,
+				"index": 16
+			},
+			{
+				"text": "me",
+				"start": 3.12,
+				"end": 3.84,
+				"index": 17
+			}
+		],
+		"start": 13.72,
+		"end": 17.66
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.24,
+				"index": 18
+			},
+			{
+				"text": "want ",
+				"start": 0.24,
+				"end": 0.8,
+				"index": 19
+			},
+			{
+				"text": "this",
+				"start": 0.8,
+				"end": 1.38,
+				"index": 20
+			}
+		],
+		"start": 19.2,
+		"end": 20.58
+	},
+	{
+		"words": [
+			{
+				"text": "No ",
+				"start": 0,
+				"end": 0.32,
+				"index": 21
+			},
+			{
+				"text": "reason ",
+				"start": 0.32,
+				"end": 0.64,
+				"index": 22
+			},
+			{
+				"text": "to ",
+				"start": 0.64,
+				"end": 1.26,
+				"index": 23
+			},
+			{
+				"text": "lie ",
+				"start": 1.26,
+				"end": 1.42,
+				"index": 24
+			},
+			{
+				"text": "to ",
+				"start": 1.42,
+				"end": 1.6,
+				"index": 25
+			},
+			{
+				"text": "you, ",
+				"start": 1.6,
+				"end": 1.72,
+				"index": 26
+			},
+			{
+				"text": "die ",
+				"start": 1.78,
+				"end": 1.9,
+				"index": 27
+			},
+			{
+				"text": "for ",
+				"start": 1.9,
+				"end": 2.06,
+				"index": 28
+			},
+			{
+				"text": "you",
+				"start": 2.06,
+				"end": 2.22,
+				"index": 29
+			}
+		],
+		"start": 21.34,
+		"end": 23.56
+	},
+	{
+		"words": [
+			{
+				"text": "How ",
+				"start": 0,
+				"end": 0.18,
+				"index": 30
+			},
+			{
+				"text": "many ",
+				"start": 0.18,
+				"end": 0.36,
+				"index": 31
+			},
+			{
+				"text": "times ",
+				"start": 0.36,
+				"end": 0.6,
+				"index": 32
+			},
+			{
+				"text": "I ",
+				"start": 0.6,
+				"end": 0.74,
+				"index": 33
+			},
+			{
+				"text": "would ",
+				"start": 0.74,
+				"end": 0.86,
+				"index": 34
+			},
+			{
+				"text": "try ",
+				"start": 0.86,
+				"end": 1.02,
+				"index": 35
+			},
+			{
+				"text": "for ",
+				"start": 1.02,
+				"end": 1.24,
+				"index": 36
+			},
+			{
+				"text": "you?",
+				"start": 1.24,
+				"end": 1.42,
+				"index": 37
+			}
+		],
+		"start": 23.56,
+		"end": 24.98
+	},
+	{
+		"words": [
+			{
+				"text": "If ",
+				"start": 0,
+				"end": 0.28,
+				"index": 38
+			},
+			{
+				"text": "I ",
+				"start": 0.28,
+				"end": 0.38,
+				"index": 39
+			},
+			{
+				"text": "could, ",
+				"start": 0.38,
+				"end": 0.58,
+				"index": 40
+			},
+			{
+				"text": "I ",
+				"start": 0.7,
+				"end": 0.74,
+				"index": 41
+			},
+			{
+				"text": "would ",
+				"start": 0.74,
+				"end": 0.86,
+				"index": 42
+			},
+			{
+				"text": "open ",
+				"start": 0.86,
+				"end": 1.08,
+				"index": 43
+			},
+			{
+				"text": "up ",
+				"start": 1.08,
+				"end": 1.2,
+				"index": 44
+			},
+			{
+				"text": "your ",
+				"start": 1.2,
+				"end": 1.32,
+				"index": 45
+			},
+			{
+				"text": "eyes ",
+				"start": 1.32,
+				"end": 1.52,
+				"index": 46
+			},
+			{
+				"text": "for ",
+				"start": 1.52,
+				"end": 1.66,
+				"index": 47
+			},
+			{
+				"text": "you",
+				"start": 1.66,
+				"end": 1.8,
+				"index": 48
+			}
+		],
+		"start": 24.98,
+		"end": 26.78
+	},
+	{
+		"words": [
+			{
+				"text": "But ",
+				"start": 0,
+				"end": 0.18,
+				"index": 49
+			},
+			{
+				"text": "we ",
+				"start": 0.18,
+				"end": 0.42,
+				"index": 50
+			},
+			{
+				"text": "got ",
+				"start": 0.42,
+				"end": 0.68,
+				"index": 51
+			},
+			{
+				"text": "time ",
+				"start": 0.68,
+				"end": 1.4,
+				"index": 52
+			},
+			{
+				"text": "to ",
+				"start": 1.4,
+				"end": 1.76,
+				"index": 53
+			},
+			{
+				"text": "fly ",
+				"start": 1.76,
+				"end": 2.18,
+				"index": 54
+			},
+			{
+				"text": "away",
+				"start": 2.18,
+				"end": 3,
+				"index": 55
+			}
+		],
+		"start": 26.78,
+		"end": 29.78
+	},
+	{
+		"words": [
+			{
+				"text": "For ",
+				"start": 0,
+				"end": 0.4,
+				"index": 56
+			},
+			{
+				"text": "the ",
+				"start": 0.4,
+				"end": 0.64,
+				"index": 57
+			},
+			{
+				"text": "truth ",
+				"start": 0.64,
+				"end": 0.9,
+				"index": 58
+			},
+			{
+				"text": "and ",
+				"start": 0.9,
+				"end": 1.12,
+				"index": 59
+			},
+			{
+				"text": "the ",
+				"start": 1.12,
+				"end": 1.34,
+				"index": 60
+			},
+			{
+				"text": "right ",
+				"start": 1.34,
+				"end": 1.66,
+				"index": 61
+			},
+			{
+				"text": "thing",
+				"start": 1.66,
+				"end": 2.06,
+				"index": 62
+			}
+		],
+		"start": 29.78,
+		"end": 31.84
+	}
+]

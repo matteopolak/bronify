@@ -72,6 +72,11 @@ async function main() {
 
 		const title = await rl.question(`${link} `);
 
+		if (/\bskip\b/i.test(title)) {
+			console.log('Skipping video');
+			continue;
+		}
+
 		try {
 			fs.unlinkSync('./temp.mp3');
 		} catch (e) {

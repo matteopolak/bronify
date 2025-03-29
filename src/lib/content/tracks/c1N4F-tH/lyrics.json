@@ -1,0 +1,302 @@
+[
+	{
+		"words": [
+			{
+				"text": "You ",
+				"start": 0,
+				"end": 0.34,
+				"index": 0
+			},
+			{
+				"text": "lift ",
+				"start": 0.34,
+				"end": 0.56,
+				"index": 1
+			},
+			{
+				"text": "me ",
+				"start": 0.56,
+				"end": 1,
+				"index": 2
+			},
+			{
+				"text": "up, ",
+				"start": 1,
+				"end": 1.56,
+				"index": 3
+			},
+			{
+				"text": "and ",
+				"start": 1.56,
+				"end": 2.42,
+				"index": 4
+			},
+			{
+				"text": "we'll ",
+				"start": 2.42,
+				"end": 3.08,
+				"index": 5
+			},
+			{
+				"text": "be ",
+				"start": 3.08,
+				"end": 3.2,
+				"index": 6
+			},
+			{
+				"text": "right ",
+				"start": 3.2,
+				"end": 3.46,
+				"index": 7
+			},
+			{
+				"text": "here ",
+				"start": 3.46,
+				"end": 3.76,
+				"index": 8
+			},
+			{
+				"text": "with ",
+				"start": 3.76,
+				"end": 3.9,
+				"index": 9
+			},
+			{
+				"text": "you ",
+				"start": 3.9,
+				"end": 4.04,
+				"index": 10
+			},
+			{
+				"text": "til ",
+				"start": 4.04,
+				"end": 4.18,
+				"index": 11
+			},
+			{
+				"text": "the ",
+				"start": 4.18,
+				"end": 4.32,
+				"index": 12
+			},
+			{
+				"text": "end",
+				"start": 4.32,
+				"end": 4.58,
+				"index": 13
+			}
+		],
+		"start": 30,
+		"end": 34.58
+	},
+	{
+		"words": [
+			{
+				"text": "I got ",
+				"start": 0,
+				"end": 0.1,
+				"index": 14
+			},
+			{
+				"text": "me ",
+				"start": 0.1,
+				"end": 0.22,
+				"index": 15
+			},
+			{
+				"text": "with ",
+				"start": 0.22,
+				"end": 0.36,
+				"index": 16
+			},
+			{
+				"text": "it ",
+				"start": 0.36,
+				"end": 0.52,
+				"index": 17
+			},
+			{
+				"text": "like ",
+				"start": 0.52,
+				"end": 0.64,
+				"index": 18
+			},
+			{
+				"text": "a",
+				"start": 0.64,
+				"end": 0.82,
+				"index": 19
+			}
+		],
+		"start": 34.64,
+		"end": 35.46
+	},
+	{
+		"words": [
+			{
+				"text": "Porsche",
+				"start": 0,
+				"end": 0.32,
+				"index": 20
+			}
+		],
+		"start": 35.46,
+		"end": 35.78
+	},
+	{
+		"words": [
+			{
+				"text": "You ",
+				"start": 0,
+				"end": 0.04,
+				"index": 21
+			},
+			{
+				"text": "know ",
+				"start": 0.04,
+				"end": 0.2,
+				"index": 22
+			},
+			{
+				"text": "who ",
+				"start": 0.2,
+				"end": 0.34,
+				"index": 23
+			},
+			{
+				"text": "playin', ",
+				"start": 0.34,
+				"end": 0.68,
+				"index": 24
+			},
+			{
+				"text": "got ",
+				"start": 0.68,
+				"end": 0.76,
+				"index": 25
+			},
+			{
+				"text": "us ",
+				"start": 0.76,
+				"end": 0.92,
+				"index": 26
+			},
+			{
+				"text": "punked ",
+				"start": 0.92,
+				"end": 1.3,
+				"index": 27
+			},
+			{
+				"text": "up",
+				"start": 1.3,
+				"end": 1.46,
+				"index": 28
+			}
+		],
+		"start": 36.74,
+		"end": 38.2
+	},
+	{
+		"words": [
+			{
+				"text": "He ",
+				"start": 0,
+				"end": 0.14,
+				"index": 29
+			},
+			{
+				"text": "got ",
+				"start": 0.14,
+				"end": 0.28,
+				"index": 30
+			},
+			{
+				"text": "like ",
+				"start": 0.28,
+				"end": 0.44,
+				"index": 31
+			},
+			{
+				"text": "50",
+				"start": 0.44,
+				"end": 0.64,
+				"index": 32
+			},
+			{
+				"text": ",000 ",
+				"start": 0.64,
+				"end": 0.92,
+				"index": 33
+			},
+			{
+				"text": "points ",
+				"start": 0.92,
+				"end": 1.12,
+				"index": 34
+			},
+			{
+				"text": "to ",
+				"start": 1.12,
+				"end": 1.22,
+				"index": 35
+			},
+			{
+				"text": "solve",
+				"start": 1.22,
+				"end": 1.54,
+				"index": 36
+			}
+		],
+		"start": 38.9,
+		"end": 40.44
+	},
+	{
+		"words": [
+			{
+				"text": "Forget ",
+				"start": 0,
+				"end": 0.32,
+				"index": 37
+			},
+			{
+				"text": "the ",
+				"start": 0.32,
+				"end": 0.48,
+				"index": 38
+			},
+			{
+				"text": "ladies, ",
+				"start": 0.48,
+				"end": 0.72,
+				"index": 39
+			},
+			{
+				"text": "give him ",
+				"start": 0.92,
+				"end": 1.06,
+				"index": 40
+			},
+			{
+				"text": "all ",
+				"start": 1.06,
+				"end": 1.26,
+				"index": 41
+			},
+			{
+				"text": "the ",
+				"start": 1.26,
+				"end": 1.36,
+				"index": 42
+			},
+			{
+				"text": "love",
+				"start": 1.36,
+				"end": 1.78,
+				"index": 43
+			}
+		],
+		"start": 41.02,
+		"end": 42.8
+	}
+]
