@@ -674,25 +674,31 @@
 				"index": 94
 			},
 			{
-				"text": "he's ",
+				"text": "he's",
 				"start": 0.8,
 				"end": 1.08,
 				"index": 95
-			},
+			}
+		],
+		"start": 61.92,
+		"end": 63
+	},
+	{
+		"words": [
 			{
 				"text": "GOATed, ",
-				"start": 1.08,
-				"end": 1.52,
+				"start": 0,
+				"end": 0.44,
 				"index": 96
 			},
 			{
 				"text": "see",
-				"start": 1.52,
-				"end": 1.94,
+				"start": 0.44,
+				"end": 0.86,
 				"index": 97
 			}
 		],
-		"start": 61.92,
+		"start": 63,
 		"end": 63.86
 	},
 	{
