@@ -57,9 +57,14 @@ function cleanWord(text: string) {
 	return text.replace(/\bgoat\b/g, 'GOAT');
 }
 
+const weirdRepetitionRegex = /^([^,\s]+)(?:[, ]*\1){4,}$/;
+
+const skipLyrics: string[] = JSON.parse(fs.readFileSync('scripts/skip_lyrics.json', 'utf-8'));
+
 for (const track of tracks) {
 	if (!fs.existsSync(path.join(base, track, 'lyrics.json'))) {
 		console.log(`Missing lyrics for ${track}`);
+		if (!skipLyrics.includes(track)) skipLyrics.push(track);
 		continue;
 	}
 
@@ -91,8 +96,14 @@ for (const track of tracks) {
 	let lastStart = -1;
 	let lastEndedWithSpace = false;
 
+	let weirdRepetitionCount = 0;
+
 	for (const word of flattened) {
 		word.text = cleanWord(word.text);
+
+		if (weirdRepetitionRegex.test(word.text)) {
+			weirdRepetitionCount++;
+		}
 
 		const currentStartsWithSpace = word.text.startsWith(' ');
 		const noSpace = !lastEndedWithSpace && !currentStartsWithSpace;
@@ -193,5 +204,12 @@ for (const track of tracks) {
 
 	const outputFile = path.join(base, track, 'lyrics.json');
 	fs.writeFileSync(outputFile, JSON.stringify(newLyrics, null, '\t'));
-	console.log(`Wrote ${outputFile}`);
+
+	if (weirdRepetitionCount > 0) {
+		console.log(
+			`Weird repetition in ${track}: ${weirdRepetitionCount} lines with weird repetition`
+		);
+	}
 }
+
+fs.writeFileSync('scripts/skip_lyrics.json', JSON.stringify(skipLyrics, null, '\t'));

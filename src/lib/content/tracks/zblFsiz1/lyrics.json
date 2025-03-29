@@ -1,0 +1,656 @@
+[
+	{
+		"words": [
+			{
+				"text": "Let's ",
+				"start": 0,
+				"end": 0.64,
+				"index": 0
+			},
+			{
+				"text": "make ",
+				"start": 0.64,
+				"end": 0.84,
+				"index": 1
+			},
+			{
+				"text": "it ",
+				"start": 0.84,
+				"end": 1.16,
+				"index": 2
+			},
+			{
+				"text": "five ",
+				"start": 1.16,
+				"end": 1.72,
+				"index": 3
+			},
+			{
+				"text": "Michael ",
+				"start": 1.72,
+				"end": 2.08,
+				"index": 4
+			},
+			{
+				"text": "B",
+				"start": 2.08,
+				"end": 2.44,
+				"index": 5
+			}
+		],
+		"start": 0,
+		"end": 2.44
+	},
+	{
+		"words": [
+			{
+				"text": "Ballin ",
+				"start": 0,
+				"end": 0.4,
+				"index": 6
+			},
+			{
+				"text": "on ",
+				"start": 0.4,
+				"end": 0.6,
+				"index": 7
+			},
+			{
+				"text": "the ",
+				"start": 0.6,
+				"end": 0.82,
+				"index": 8
+			},
+			{
+				"text": "court ",
+				"start": 0.82,
+				"end": 1.18,
+				"index": 9
+			},
+			{
+				"text": "and ",
+				"start": 1.18,
+				"end": 1.54,
+				"index": 10
+			},
+			{
+				"text": "his ",
+				"start": 1.54,
+				"end": 1.76,
+				"index": 11
+			},
+			{
+				"text": "money ",
+				"start": 1.76,
+				"end": 2.16,
+				"index": 12
+			},
+			{
+				"text": "never ",
+				"start": 2.16,
+				"end": 2.58,
+				"index": 13
+			},
+			{
+				"text": "short",
+				"start": 2.58,
+				"end": 2.96,
+				"index": 14
+			}
+		],
+		"start": 2.58,
+		"end": 5.54
+	},
+	{
+		"words": [
+			{
+				"text": "Although ",
+				"start": 0,
+				"end": 0.38,
+				"index": 15
+			},
+			{
+				"text": "his ",
+				"start": 0.38,
+				"end": 0.72,
+				"index": 16
+			},
+			{
+				"text": "rings ",
+				"start": 0.72,
+				"end": 0.98,
+				"index": 17
+			},
+			{
+				"text": "amount ",
+				"start": 0.98,
+				"end": 1.36,
+				"index": 18
+			},
+			{
+				"text": "to ",
+				"start": 1.36,
+				"end": 1.68,
+				"index": 19
+			},
+			{
+				"text": "four",
+				"start": 1.68,
+				"end": 2.08,
+				"index": 20
+			}
+		],
+		"start": 5.54,
+		"end": 7.62
+	},
+	{
+		"words": [
+			{
+				"text": "Let's ",
+				"start": 0,
+				"end": 0.62,
+				"index": 21
+			},
+			{
+				"text": "make ",
+				"start": 0.62,
+				"end": 0.84,
+				"index": 22
+			},
+			{
+				"text": "it ",
+				"start": 0.84,
+				"end": 1.16,
+				"index": 23
+			},
+			{
+				"text": "five",
+				"start": 1.16,
+				"end": 1.7,
+				"index": 24
+			}
+		],
+		"start": 7.62,
+		"end": 9.32
+	},
+	{
+		"words": [
+			{
+				"text": "The ",
+				"start": 0,
+				"end": 0.3,
+				"index": 25
+			},
+			{
+				"text": "way ",
+				"start": 0.3,
+				"end": 0.5,
+				"index": 26
+			},
+			{
+				"text": "he ",
+				"start": 0.5,
+				"end": 0.76,
+				"index": 27
+			},
+			{
+				"text": "handles ",
+				"start": 0.76,
+				"end": 1.1,
+				"index": 28
+			},
+			{
+				"text": "on ",
+				"start": 1.1,
+				"end": 1.48,
+				"index": 29
+			},
+			{
+				"text": "the ",
+				"start": 1.48,
+				"end": 1.7,
+				"index": 30
+			},
+			{
+				"text": "ball",
+				"start": 1.7,
+				"end": 2.06,
+				"index": 31
+			}
+		],
+		"start": 9.32,
+		"end": 11.38
+	},
+	{
+		"words": [
+			{
+				"text": "He's ",
+				"start": 0,
+				"end": 0.42,
+				"index": 32
+			},
+			{
+				"text": "the ",
+				"start": 0.42,
+				"end": 0.64,
+				"index": 33
+			},
+			{
+				"text": "greatest ",
+				"start": 0.64,
+				"end": 0.98,
+				"index": 34
+			},
+			{
+				"text": "after ",
+				"start": 0.98,
+				"end": 1.42,
+				"index": 35
+			},
+			{
+				"text": "all",
+				"start": 1.42,
+				"end": 1.84,
+				"index": 36
+			}
+		],
+		"start": 11.38,
+		"end": 13.22
+	},
+	{
+		"words": [
+			{
+				"text": "And ",
+				"start": 0,
+				"end": 0.24,
+				"index": 37
+			},
+			{
+				"text": "that's ",
+				"start": 0.24,
+				"end": 0.5,
+				"index": 38
+			},
+			{
+				"text": "why ",
+				"start": 0.5,
+				"end": 0.64,
+				"index": 39
+			},
+			{
+				"text": "he ",
+				"start": 0.64,
+				"end": 0.92,
+				"index": 40
+			},
+			{
+				"text": "deserves ",
+				"start": 0.92,
+				"end": 1.32,
+				"index": 41
+			},
+			{
+				"text": "them ",
+				"start": 1.32,
+				"end": 1.64,
+				"index": 42
+			},
+			{
+				"text": "all",
+				"start": 1.64,
+				"end": 2.02,
+				"index": 43
+			}
+		],
+		"start": 13.22,
+		"end": 15.24
+	},
+	{
+		"words": [
+			{
+				"text": "Let's ",
+				"start": 0,
+				"end": 0.62,
+				"index": 44
+			},
+			{
+				"text": "make ",
+				"start": 0.62,
+				"end": 0.82,
+				"index": 45
+			},
+			{
+				"text": "it ",
+				"start": 0.82,
+				"end": 1.12,
+				"index": 46
+			},
+			{
+				"text": "five ",
+				"start": 1.12,
+				"end": 1.64,
+				"index": 47
+			},
+			{
+				"text": "I ",
+				"start": 1.64,
+				"end": 1.94,
+				"index": 48
+			},
+			{
+				"text": "swear ",
+				"start": 1.94,
+				"end": 2.12,
+				"index": 49
+			},
+			{
+				"text": "he's ",
+				"start": 2.12,
+				"end": 2.5,
+				"index": 50
+			},
+			{
+				"text": "always ",
+				"start": 2.5,
+				"end": 2.8,
+				"index": 51
+			},
+			{
+				"text": "been ",
+				"start": 2.8,
+				"end": 3.1,
+				"index": 52
+			},
+			{
+				"text": "my ",
+				"start": 3.1,
+				"end": 3.38,
+				"index": 53
+			},
+			{
+				"text": "king",
+				"start": 3.38,
+				"end": 3.74,
+				"index": 54
+			}
+		],
+		"start": 15.24,
+		"end": 18.98
+	},
+	{
+		"words": [
+			{
+				"text": "He ",
+				"start": 0,
+				"end": 0.4,
+				"index": 55
+			},
+			{
+				"text": "deserves ",
+				"start": 0.4,
+				"end": 0.78,
+				"index": 56
+			},
+			{
+				"text": "that ",
+				"start": 0.78,
+				"end": 1.1,
+				"index": 57
+			},
+			{
+				"text": "extra",
+				"start": 1.1,
+				"end": 1.44,
+				"index": 58
+			}
+		],
+		"start": 18.98,
+		"end": 20.42
+	},
+	{
+		"words": [
+			{
+				"text": "Bring ",
+				"start": 0,
+				"end": 0.34,
+				"index": 59
+			},
+			{
+				"text": "it ",
+				"start": 0.34,
+				"end": 0.58,
+				"index": 60
+			},
+			{
+				"text": "to ",
+				"start": 0.58,
+				"end": 0.84,
+				"index": 61
+			},
+			{
+				"text": "the ",
+				"start": 0.84,
+				"end": 1.14,
+				"index": 62
+			},
+			{
+				"text": "finals ",
+				"start": 1.14,
+				"end": 1.42,
+				"index": 63
+			},
+			{
+				"text": "and ",
+				"start": 1.42,
+				"end": 1.82,
+				"index": 64
+			},
+			{
+				"text": "I'll ",
+				"start": 1.82,
+				"end": 2.12,
+				"index": 65
+			},
+			{
+				"text": "sing",
+				"start": 2.12,
+				"end": 2.4,
+				"index": 66
+			}
+		],
+		"start": 20.42,
+		"end": 22.82
+	},
+	{
+		"words": [
+			{
+				"text": "Let's ",
+				"start": 0,
+				"end": 0.66,
+				"index": 67
+			},
+			{
+				"text": "make ",
+				"start": 0.66,
+				"end": 0.88,
+				"index": 68
+			},
+			{
+				"text": "it ",
+				"start": 0.88,
+				"end": 1.2,
+				"index": 69
+			},
+			{
+				"text": "five",
+				"start": 1.2,
+				"end": 1.7,
+				"index": 70
+			}
+		],
+		"start": 22.82,
+		"end": 24.52
+	},
+	{
+		"words": [
+			{
+				"text": "Make ",
+				"start": 0,
+				"end": 0.34,
+				"index": 71
+			},
+			{
+				"text": "an ",
+				"start": 0.34,
+				"end": 0.66,
+				"index": 72
+			},
+			{
+				"text": "appearance ",
+				"start": 0.66,
+				"end": 1.14,
+				"index": 73
+			},
+			{
+				"text": "and ",
+				"start": 1.14,
+				"end": 1.52,
+				"index": 74
+			},
+			{
+				"text": "I'm ",
+				"start": 1.52,
+				"end": 1.8,
+				"index": 75
+			},
+			{
+				"text": "yours",
+				"start": 1.8,
+				"end": 2.1,
+				"index": 76
+			}
+		],
+		"start": 24.52,
+		"end": 26.62
+	},
+	{
+		"words": [
+			{
+				"text": "You're ",
+				"start": 0,
+				"end": 0.36,
+				"index": 77
+			},
+			{
+				"text": "my ",
+				"start": 0.36,
+				"end": 0.56,
+				"index": 78
+			},
+			{
+				"text": "goal ",
+				"start": 0.56,
+				"end": 0.76,
+				"index": 79
+			},
+			{
+				"text": "and ",
+				"start": 0.76,
+				"end": 1.06,
+				"index": 80
+			},
+			{
+				"text": "that's ",
+				"start": 1.06,
+				"end": 1.3,
+				"index": 81
+			},
+			{
+				"text": "for ",
+				"start": 1.3,
+				"end": 1.44,
+				"index": 82
+			},
+			{
+				"text": "sure",
+				"start": 1.44,
+				"end": 1.98,
+				"index": 83
+			}
+		],
+		"start": 26.62,
+		"end": 28.6
+	},
+	{
+		"words": [
+			{
+				"text": "Oh, ",
+				"start": 0,
+				"end": 0.7,
+				"index": 84
+			},
+			{
+				"text": "woah",
+				"start": 1,
+				"end": 1.76,
+				"index": 85
+			}
+		],
+		"start": 28.6,
+		"end": 30.36
+	},
+	{
+		"words": [
+			{
+				"text": "Let's ",
+				"start": 0,
+				"end": 0.74,
+				"index": 86
+			},
+			{
+				"text": "make ",
+				"start": 0.74,
+				"end": 0.98,
+				"index": 87
+			},
+			{
+				"text": "it ",
+				"start": 0.98,
+				"end": 1.28,
+				"index": 88
+			},
+			{
+				"text": "five",
+				"start": 1.28,
+				"end": 1.7,
+				"index": 89
+			}
+		],
+		"start": 30.36,
+		"end": 32.06
+	},
+	{
+		"words": [
+			{
+				"text": "On ",
+				"start": 0,
+				"end": 0.46,
+				"index": 90
+			},
+			{
+				"text": "LeBron ",
+				"start": 0.46,
+				"end": 1.54,
+				"index": 91
+			},
+			{
+				"text": "James",
+				"start": 1.54,
+				"end": 3.1,
+				"index": 92
+			}
+		],
+		"start": 33,
+		"end": 36.1
+	}
+]

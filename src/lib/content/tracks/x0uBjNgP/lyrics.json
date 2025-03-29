@@ -26,7 +26,7 @@
 				"index": 3
 			},
 			{
-				"text": "shit.",
+				"text": "shit",
 				"start": 0.94,
 				"end": 1.26,
 				"index": 4
@@ -62,7 +62,7 @@
 				"index": 8
 			},
 			{
-				"text": "shit.",
+				"text": "shit",
 				"start": 0.56,
 				"end": 0.82,
 				"index": 9
@@ -98,7 +98,7 @@
 				"index": 13
 			},
 			{
-				"text": "shit.",
+				"text": "shit",
 				"start": 0.52,
 				"end": 0.76,
 				"index": 14
@@ -158,7 +158,7 @@
 				"index": 21
 			},
 			{
-				"text": "rhyme.",
+				"text": "rhyme",
 				"start": 0.52,
 				"end": 0.7,
 				"index": 22
@@ -176,7 +176,7 @@
 				"index": 23
 			},
 			{
-				"text": "rhyme.",
+				"text": "rhyme",
 				"start": 0.58,
 				"end": 0.66,
 				"index": 24
@@ -195,7 +195,7 @@
 			}
 		],
 		"start": 10.94,
-		"end": 11.08
+		"end": 10.98
 	},
 	{
 		"words": [
@@ -212,7 +212,7 @@
 				"index": 27
 			},
 			{
-				"text": "2024.",
+				"text": "2024",
 				"start": 0.7,
 				"end": 1.12,
 				"index": 28
@@ -728,7 +728,7 @@
 				"index": 98
 			},
 			{
-				"text": "aye.",
+				"text": "aye",
 				"start": 0.94,
 				"end": 1.2,
 				"index": 99
@@ -866,7 +866,7 @@
 				"index": 118
 			},
 			{
-				"text": "league.",
+				"text": "league",
 				"start": 1.62,
 				"end": 2.12,
 				"index": 119

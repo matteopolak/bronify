@@ -1,0 +1,1022 @@
+[
+	{
+		"words": [
+			{
+				"text": "I'm ",
+				"start": 0,
+				"end": 0.2,
+				"index": 0
+			},
+			{
+				"text": "just ",
+				"start": 0.2,
+				"end": 0.34,
+				"index": 1
+			},
+			{
+				"text": "sat ",
+				"start": 0.34,
+				"end": 0.64,
+				"index": 2
+			},
+			{
+				"text": "here ",
+				"start": 0.64,
+				"end": 0.86,
+				"index": 3
+			},
+			{
+				"text": "on ",
+				"start": 0.86,
+				"end": 1.1,
+				"index": 4
+			},
+			{
+				"text": "my ",
+				"start": 1.1,
+				"end": 1.3,
+				"index": 5
+			},
+			{
+				"text": "bed, ",
+				"start": 1.3,
+				"end": 1.6,
+				"index": 6
+			},
+			{
+				"text": "I'm ",
+				"start": 1.9,
+				"end": 2.08,
+				"index": 7
+			},
+			{
+				"text": "the ",
+				"start": 2.08,
+				"end": 2.24,
+				"index": 8
+			},
+			{
+				"text": "king ",
+				"start": 2.24,
+				"end": 2.52,
+				"index": 9
+			},
+			{
+				"text": "up ",
+				"start": 2.52,
+				"end": 2.78,
+				"index": 10
+			},
+			{
+				"text": "in ",
+				"start": 2.78,
+				"end": 2.96,
+				"index": 11
+			},
+			{
+				"text": "my ",
+				"start": 2.96,
+				"end": 3.22,
+				"index": 12
+			},
+			{
+				"text": "head",
+				"start": 3.22,
+				"end": 3.52,
+				"index": 13
+			}
+		],
+		"start": 0,
+		"end": 3.52
+	},
+	{
+		"words": [
+			{
+				"text": "Posters ",
+				"start": 0,
+				"end": 0.32,
+				"index": 14
+			},
+			{
+				"text": "all ",
+				"start": 0.32,
+				"end": 0.64,
+				"index": 15
+			},
+			{
+				"text": "over ",
+				"start": 0.64,
+				"end": 1.04,
+				"index": 16
+			},
+			{
+				"text": "my ",
+				"start": 1.04,
+				"end": 1.26,
+				"index": 17
+			},
+			{
+				"text": "room, ",
+				"start": 1.26,
+				"end": 1.5,
+				"index": 18
+			},
+			{
+				"text": "all ",
+				"start": 1.88,
+				"end": 2.04,
+				"index": 19
+			},
+			{
+				"text": "the ",
+				"start": 2.04,
+				"end": 2.28,
+				"index": 20
+			},
+			{
+				"text": "boys ",
+				"start": 2.28,
+				"end": 2.46,
+				"index": 21
+			},
+			{
+				"text": "just ",
+				"start": 2.46,
+				"end": 2.76,
+				"index": 22
+			},
+			{
+				"text": "needs ",
+				"start": 2.76,
+				"end": 2.9,
+				"index": 23
+			},
+			{
+				"text": "me ",
+				"start": 2.9,
+				"end": 3.1,
+				"index": 24
+			},
+			{
+				"text": "droof",
+				"start": 3.1,
+				"end": 3.52,
+				"index": 25
+			}
+		],
+		"start": 3.86,
+		"end": 7.38
+	},
+	{
+		"words": [
+			{
+				"text": "Know ",
+				"start": 0,
+				"end": 0.14,
+				"index": 26
+			},
+			{
+				"text": "my ",
+				"start": 0.14,
+				"end": 0.38,
+				"index": 27
+			},
+			{
+				"text": "goal ",
+				"start": 0.38,
+				"end": 0.64,
+				"index": 28
+			},
+			{
+				"text": "would ",
+				"start": 0.64,
+				"end": 0.9,
+				"index": 29
+			},
+			{
+				"text": "make ",
+				"start": 0.9,
+				"end": 1.1,
+				"index": 30
+			},
+			{
+				"text": "it ",
+				"start": 1.1,
+				"end": 1.26,
+				"index": 31
+			},
+			{
+				"text": "far, ",
+				"start": 1.26,
+				"end": 1.58,
+				"index": 32
+			},
+			{
+				"text": "the ",
+				"start": 1.8,
+				"end": 1.9,
+				"index": 33
+			},
+			{
+				"text": "whole ",
+				"start": 1.9,
+				"end": 2.08,
+				"index": 34
+			},
+			{
+				"text": "radio ",
+				"start": 2.08,
+				"end": 2.62,
+				"index": 35
+			},
+			{
+				"text": "in ",
+				"start": 2.62,
+				"end": 3.02,
+				"index": 36
+			},
+			{
+				"text": "the ",
+				"start": 3.02,
+				"end": 3.22,
+				"index": 37
+			},
+			{
+				"text": "car",
+				"start": 3.22,
+				"end": 3.5,
+				"index": 38
+			}
+		],
+		"start": 7.6,
+		"end": 11.1
+	},
+	{
+		"words": [
+			{
+				"text": "Said ",
+				"start": 0,
+				"end": 0.16,
+				"index": 39
+			},
+			{
+				"text": "my ",
+				"start": 0.16,
+				"end": 0.38,
+				"index": 40
+			},
+			{
+				"text": "king ",
+				"start": 0.38,
+				"end": 0.66,
+				"index": 41
+			},
+			{
+				"text": "was ",
+				"start": 0.66,
+				"end": 0.92,
+				"index": 42
+			},
+			{
+				"text": "in ",
+				"start": 0.92,
+				"end": 1.16,
+				"index": 43
+			},
+			{
+				"text": "the ",
+				"start": 1.16,
+				"end": 1.3,
+				"index": 44
+			},
+			{
+				"text": "news, ",
+				"start": 1.3,
+				"end": 1.64,
+				"index": 45
+			},
+			{
+				"text": "why ",
+				"start": 1.92,
+				"end": 2.06,
+				"index": 46
+			},
+			{
+				"text": "can't ",
+				"start": 2.06,
+				"end": 2.44,
+				"index": 47
+			},
+			{
+				"text": "he ",
+				"start": 2.44,
+				"end": 2.54,
+				"index": 48
+			},
+			{
+				"text": "be ",
+				"start": 2.54,
+				"end": 2.84,
+				"index": 49
+			},
+			{
+				"text": "in ",
+				"start": 2.84,
+				"end": 3.06,
+				"index": 50
+			},
+			{
+				"text": "my ",
+				"start": 3.06,
+				"end": 3.26,
+				"index": 51
+			},
+			{
+				"text": "room?",
+				"start": 3.26,
+				"end": 3.58,
+				"index": 52
+			}
+		],
+		"start": 11.38,
+		"end": 14.96
+	},
+	{
+		"words": [
+			{
+				"text": "Every ",
+				"start": 0,
+				"end": 0.46,
+				"index": 53
+			},
+			{
+				"text": "single ",
+				"start": 0.46,
+				"end": 1.14,
+				"index": 54
+			},
+			{
+				"text": "king, ",
+				"start": 1.14,
+				"end": 1.82,
+				"index": 55
+			},
+			{
+				"text": "he ",
+				"start": 1.94,
+				"end": 2.06,
+				"index": 56
+			},
+			{
+				"text": "does ",
+				"start": 2.06,
+				"end": 2.3,
+				"index": 57
+			},
+			{
+				"text": "the ",
+				"start": 2.3,
+				"end": 2.88,
+				"index": 58
+			},
+			{
+				"text": "right ",
+				"start": 2.88,
+				"end": 3.14,
+				"index": 59
+			},
+			{
+				"text": "thing, ",
+				"start": 3.14,
+				"end": 3.64,
+				"index": 60
+			},
+			{
+				"text": "that's ",
+				"start": 3.84,
+				"end": 4.16,
+				"index": 61
+			},
+			{
+				"text": "true",
+				"start": 4.16,
+				"end": 4.52,
+				"index": 62
+			}
+		],
+		"start": 15.2,
+		"end": 19.72
+	},
+	{
+		"words": [
+			{
+				"text": "Never ",
+				"start": 0,
+				"end": 0.52,
+				"index": 63
+			},
+			{
+				"text": "been ",
+				"start": 0.52,
+				"end": 1.04,
+				"index": 64
+			},
+			{
+				"text": "so ",
+				"start": 1.04,
+				"end": 1.5,
+				"index": 65
+			},
+			{
+				"text": "sure, ",
+				"start": 1.5,
+				"end": 1.96,
+				"index": 66
+			},
+			{
+				"text": "for ",
+				"start": 2.18,
+				"end": 2.32,
+				"index": 67
+			},
+			{
+				"text": "the ",
+				"start": 2.32,
+				"end": 2.64,
+				"index": 68
+			},
+			{
+				"text": "bond ",
+				"start": 2.64,
+				"end": 3.02,
+				"index": 69
+			},
+			{
+				"text": "reserves, ",
+				"start": 3.02,
+				"end": 3.78,
+				"index": 70
+			},
+			{
+				"text": "and ",
+				"start": 4.18,
+				"end": 4.3,
+				"index": 71
+			},
+			{
+				"text": "I ",
+				"start": 4.3,
+				"end": 4.9,
+				"index": 72
+			},
+			{
+				"text": "win",
+				"start": 4.9,
+				"end": 6,
+				"index": 73
+			}
+		],
+		"start": 22.58,
+		"end": 28.58
+	},
+	{
+		"words": [
+			{
+				"text": "Let's ",
+				"start": 0,
+				"end": 0.56,
+				"index": 74
+			},
+			{
+				"text": "make ",
+				"start": 0.56,
+				"end": 0.82,
+				"index": 75
+			},
+			{
+				"text": "it ",
+				"start": 0.82,
+				"end": 1.14,
+				"index": 76
+			},
+			{
+				"text": "far, ",
+				"start": 1.14,
+				"end": 1.58,
+				"index": 77
+			},
+			{
+				"text": "my ",
+				"start": 1.82,
+				"end": 2.02,
+				"index": 78
+			},
+			{
+				"text": "kooky ",
+				"start": 2.02,
+				"end": 2.36,
+				"index": 79
+			},
+			{
+				"text": "ballerin' ",
+				"start": 2.36,
+				"end": 3,
+				"index": 80
+			},
+			{
+				"text": "on ",
+				"start": 3,
+				"end": 3.16,
+				"index": 81
+			},
+			{
+				"text": "the ",
+				"start": 3.16,
+				"end": 3.38,
+				"index": 82
+			},
+			{
+				"text": "court, ",
+				"start": 3.38,
+				"end": 3.72,
+				"index": 83
+			},
+			{
+				"text": "and ",
+				"start": 3.9,
+				"end": 4.1,
+				"index": 84
+			},
+			{
+				"text": "his ",
+				"start": 4.1,
+				"end": 4.3,
+				"index": 85
+			},
+			{
+				"text": "money ",
+				"start": 4.3,
+				"end": 4.68,
+				"index": 86
+			},
+			{
+				"text": "never ",
+				"start": 4.68,
+				"end": 5.16,
+				"index": 87
+			},
+			{
+				"text": "shows",
+				"start": 5.16,
+				"end": 5.5,
+				"index": 88
+			}
+		],
+		"start": 29.34,
+		"end": 34.84
+	},
+	{
+		"words": [
+			{
+				"text": "Although ",
+				"start": 0,
+				"end": 0.4,
+				"index": 89
+			},
+			{
+				"text": "his ",
+				"start": 0.4,
+				"end": 0.7,
+				"index": 90
+			},
+			{
+				"text": "rings ",
+				"start": 0.7,
+				"end": 0.94,
+				"index": 91
+			},
+			{
+				"text": "are ",
+				"start": 0.94,
+				"end": 1.14,
+				"index": 92
+			},
+			{
+				"text": "not ",
+				"start": 1.14,
+				"end": 1.38,
+				"index": 93
+			},
+			{
+				"text": "your ",
+				"start": 1.38,
+				"end": 1.6,
+				"index": 94
+			},
+			{
+				"text": "fault, ",
+				"start": 1.6,
+				"end": 2,
+				"index": 95
+			},
+			{
+				"text": "let's ",
+				"start": 2.16,
+				"end": 2.68,
+				"index": 96
+			},
+			{
+				"text": "make ",
+				"start": 2.68,
+				"end": 2.9,
+				"index": 97
+			},
+			{
+				"text": "it ",
+				"start": 2.9,
+				"end": 3.22,
+				"index": 98
+			},
+			{
+				"text": "five",
+				"start": 3.22,
+				"end": 3.74,
+				"index": 99
+			}
+		],
+		"start": 34.88,
+		"end": 38.62
+	},
+	{
+		"words": [
+			{
+				"text": "But ",
+				"start": 0,
+				"end": 0.18,
+				"index": 100
+			},
+			{
+				"text": "when ",
+				"start": 0.18,
+				"end": 0.36,
+				"index": 101
+			},
+			{
+				"text": "he ",
+				"start": 0.36,
+				"end": 0.62,
+				"index": 102
+			},
+			{
+				"text": "handles ",
+				"start": 0.62,
+				"end": 1.04,
+				"index": 103
+			},
+			{
+				"text": "on ",
+				"start": 1.04,
+				"end": 1.36,
+				"index": 104
+			},
+			{
+				"text": "the ",
+				"start": 1.36,
+				"end": 1.58,
+				"index": 105
+			},
+			{
+				"text": "ball, ",
+				"start": 1.58,
+				"end": 1.94,
+				"index": 106
+			},
+			{
+				"text": "he's ",
+				"start": 2.12,
+				"end": 2.38,
+				"index": 107
+			},
+			{
+				"text": "the ",
+				"start": 2.38,
+				"end": 2.58,
+				"index": 108
+			},
+			{
+				"text": "greatest ",
+				"start": 2.58,
+				"end": 2.92,
+				"index": 109
+			},
+			{
+				"text": "after ",
+				"start": 2.92,
+				"end": 3.42,
+				"index": 110
+			},
+			{
+				"text": "all, ",
+				"start": 3.42,
+				"end": 3.78,
+				"index": 111
+			},
+			{
+				"text": "and ",
+				"start": 3.78,
+				"end": 3.98,
+				"index": 112
+			},
+			{
+				"text": "that's ",
+				"start": 3.98,
+				"end": 4.3,
+				"index": 113
+			},
+			{
+				"text": "why ",
+				"start": 4.3,
+				"end": 4.46,
+				"index": 114
+			},
+			{
+				"text": "he ",
+				"start": 4.46,
+				"end": 4.68,
+				"index": 115
+			},
+			{
+				"text": "deserves ",
+				"start": 4.68,
+				"end": 5.1,
+				"index": 116
+			},
+			{
+				"text": "them ",
+				"start": 5.1,
+				"end": 5.42,
+				"index": 117
+			},
+			{
+				"text": "all",
+				"start": 5.42,
+				"end": 5.84,
+				"index": 118
+			}
+		],
+		"start": 38.74,
+		"end": 44.58
+	},
+	{
+		"words": [
+			{
+				"text": "Let's ",
+				"start": 0,
+				"end": 0.46,
+				"index": 119
+			},
+			{
+				"text": "make ",
+				"start": 0.46,
+				"end": 0.66,
+				"index": 120
+			},
+			{
+				"text": "it ",
+				"start": 0.66,
+				"end": 1,
+				"index": 121
+			},
+			{
+				"text": "five, ",
+				"start": 1,
+				"end": 1.44,
+				"index": 122
+			},
+			{
+				"text": "that's ",
+				"start": 1.64,
+				"end": 1.86,
+				"index": 123
+			},
+			{
+				"text": "the ",
+				"start": 1.86,
+				"end": 2,
+				"index": 124
+			},
+			{
+				"text": "game's ",
+				"start": 2,
+				"end": 2.36,
+				"index": 125
+			},
+			{
+				"text": "always ",
+				"start": 2.36,
+				"end": 2.66,
+				"index": 126
+			},
+			{
+				"text": "been ",
+				"start": 2.66,
+				"end": 2.98,
+				"index": 127
+			},
+			{
+				"text": "my ",
+				"start": 2.98,
+				"end": 3.24,
+				"index": 128
+			},
+			{
+				"text": "king",
+				"start": 3.24,
+				"end": 3.6,
+				"index": 129
+			}
+		],
+		"start": 44.7,
+		"end": 48.3
+	},
+	{
+		"words": [
+			{
+				"text": "He ",
+				"start": 0,
+				"end": 0.2,
+				"index": 130
+			},
+			{
+				"text": "deserves ",
+				"start": 0.2,
+				"end": 0.52,
+				"index": 131
+			},
+			{
+				"text": "the ",
+				"start": 0.52,
+				"end": 0.88,
+				"index": 132
+			},
+			{
+				"text": "extra ",
+				"start": 0.88,
+				"end": 1.26,
+				"index": 133
+			},
+			{
+				"text": "bling, ",
+				"start": 1.26,
+				"end": 1.54,
+				"index": 134
+			},
+			{
+				"text": "get to ",
+				"start": 1.82,
+				"end": 2.02,
+				"index": 135
+			},
+			{
+				"text": "the ",
+				"start": 2.02,
+				"end": 2.32,
+				"index": 136
+			},
+			{
+				"text": "finals ",
+				"start": 2.32,
+				"end": 2.64,
+				"index": 137
+			},
+			{
+				"text": "and ",
+				"start": 2.64,
+				"end": 3,
+				"index": 138
+			},
+			{
+				"text": "I'll ",
+				"start": 3,
+				"end": 3.34,
+				"index": 139
+			},
+			{
+				"text": "sing",
+				"start": 3.34,
+				"end": 3.6,
+				"index": 140
+			}
+		],
+		"start": 48.52,
+		"end": 52.12
+	},
+	{
+		"words": [
+			{
+				"text": "Let's ",
+				"start": 0,
+				"end": 0.48,
+				"index": 141
+			},
+			{
+				"text": "make ",
+				"start": 0.48,
+				"end": 0.68,
+				"index": 142
+			},
+			{
+				"text": "it ",
+				"start": 0.68,
+				"end": 1.02,
+				"index": 143
+			},
+			{
+				"text": "five, ",
+				"start": 1.02,
+				"end": 1.44,
+				"index": 144
+			},
+			{
+				"text": "makin' ",
+				"start": 1.66,
+				"end": 1.9,
+				"index": 145
+			},
+			{
+				"text": "the ",
+				"start": 2.22,
+				"end": 2.24,
+				"index": 146
+			},
+			{
+				"text": "pins, ",
+				"start": 2.24,
+				"end": 2.68,
+				"index": 147
+			},
+			{
+				"text": "and ",
+				"start": 2.9,
+				"end": 3.04,
+				"index": 148
+			},
+			{
+				"text": "I'm ",
+				"start": 3.04,
+				"end": 3.26,
+				"index": 149
+			},
+			{
+				"text": "yours, ",
+				"start": 3.26,
+				"end": 3.6,
+				"index": 150
+			},
+			{
+				"text": "you're ",
+				"start": 3.86,
+				"end": 4.06,
+				"index": 151
+			},
+			{
+				"text": "my ",
+				"start": 4.06,
+				"end": 4.14,
+				"index": 152
+			},
+			{
+				"text": "goal ",
+				"start": 4.14,
+				"end": 4.36,
+				"index": 153
+			},
+			{
+				"text": "and ",
+				"start": 4.36,
+				"end": 4.66,
+				"index": 154
+			},
+			{
+				"text": "that's ",
+				"start": 4.66,
+				"end": 4.94,
+				"index": 155
+			},
+			{
+				"text": "for ",
+				"start": 4.94,
+				"end": 5.04,
+				"index": 156
+			},
+			{
+				"text": "sure",
+				"start": 5.04,
+				"end": 5.48,
+				"index": 157
+			}
+		],
+		"start": 52.32,
+		"end": 57.8
+	}
+]

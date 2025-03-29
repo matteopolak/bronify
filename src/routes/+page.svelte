@@ -74,7 +74,13 @@
 
 		<Scrollable class="gap-0">
 			{#each newReleases as track (track.id)}
-				<VerticalCover {track} onClick={() => player.toggle(track)} />
+				<VerticalCover
+					{track}
+					onClick={() => {
+						player.queue = newReleases;
+						player.toggle(track);
+					}}
+				/>
 			{/each}
 		</Scrollable>
 	</div>
