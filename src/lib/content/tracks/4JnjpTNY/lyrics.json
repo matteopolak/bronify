@@ -116,25 +116,31 @@
 				"index": 16
 			},
 			{
-				"text": "even ",
+				"text": "even",
 				"start": 2.76,
 				"end": 3.28,
 				"index": 17
-			},
+			}
+		],
+		"start": 13.88,
+		"end": 17.16
+	},
+	{
+		"words": [
 			{
 				"text": "A",
-				"start": 3.28,
-				"end": 3.96,
+				"start": 0,
+				"end": 0.68,
 				"index": 18
 			},
 			{
 				"text": ".D",
-				"start": 3.96,
-				"end": 4.46,
+				"start": 0.68,
+				"end": 1.18,
 				"index": 19
 			}
 		],
-		"start": 13.88,
+		"start": 17.16,
 		"end": 18.34
 	},
 	{

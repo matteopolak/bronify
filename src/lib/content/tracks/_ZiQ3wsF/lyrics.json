@@ -362,31 +362,37 @@
 				"index": 55
 			},
 			{
-				"text": "the ",
+				"text": "the",
 				"start": 5.28,
 				"end": 5.6,
 				"index": 56
-			},
+			}
+		],
+		"start": 39.08,
+		"end": 44.68
+	},
+	{
+		"words": [
 			{
 				"text": "A ",
-				"start": 5.6,
-				"end": 5.82,
+				"start": 0,
+				"end": 0.22,
 				"index": 57
 			},
 			{
 				"text": "can't ",
-				"start": 5.82,
-				"end": 6.14,
+				"start": 0.22,
+				"end": 0.54,
 				"index": 58
 			},
 			{
 				"text": "compete",
-				"start": 6.14,
-				"end": 6.58,
+				"start": 0.54,
+				"end": 0.98,
 				"index": 59
 			}
 		],
-		"start": 39.08,
+		"start": 44.68,
 		"end": 45.66
 	},
 	{

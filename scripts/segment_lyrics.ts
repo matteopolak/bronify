@@ -35,10 +35,14 @@ function canStartLine(text: string) {
 }
 
 function mustStartLine(text: string) {
+	text = text.trim();
+
 	// must be uppercase
 	if (text[0].toLowerCase() === text[0]) {
 		return false;
 	}
+
+	if (/^A\b/.test(text)) return true;
 
 	const canSkip = allowedToStay.has(text.split(/[^A-Za-z]/)[0]);
 
