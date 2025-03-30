@@ -155,8 +155,8 @@
 
 	let lyricsBackgroundColor = $derived(pastelColorFromString(player.track.id));
 
-	beforeNavigate(({ type }) => {
-		if (type === 'leave') return;
+	beforeNavigate(({ type, from, to }) => {
+		if (type === 'leave' || from?.url.pathname === to?.url.pathname) return;
 
 		if (comingSoonModal.open) {
 			comingSoonModal.close();

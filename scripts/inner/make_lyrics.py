@@ -58,6 +58,7 @@ model = whisper.load_model("medium.en", device="cuda")
 PROMPT = """\
 Write karaoke lyrics for a song about LeBron James.
 Aliases: Bronny, LeBronny, GOAT
+Common words: Gatorade, Lakers, Mavs, Luka Don, Dallas, Miami, Cavs, Heat, NBA
 """
 
 def transcribe_audio(file_path):
