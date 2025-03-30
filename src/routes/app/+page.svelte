@@ -1,4 +1,6 @@
 <script lang="ts">
+	import app from '$lib/images/app.png?enhanced';
+
 	import { ArrowBigDownDash } from '@lucide/svelte';
 	import { onMount } from 'svelte';
 	import { UAParser } from 'ua-parser-js';
@@ -13,16 +15,18 @@
 		| 'macos_arm'
 		| 'macos_intel';
 
-	const LINKS_BY_PLATFORM: Record<Platform, string[]> = {
+	const FILES_BY_PLATFORM: Record<Platform, string[]> = {
 		unknown: [],
 		android: ['bronify.apk'],
 		ios: ['Bronify.app.zip'],
-		windows: ['Bronify.exe'],
-		linux: ['bronify_amd64.deb', 'bronify_x86_64.rpm'],
-		macos: ['Bronify.dmg'],
-		macos_arm: ['Bronify.dmg'],
-		macos_intel: ['Bronify.dmg']
+		windows: ['Bronify_x64_en-US.msi', 'Bronify_x64-setup.exe'],
+		linux: ['bronify.x86_64.rpm', 'bronify_amd64.AppImage', 'bronify_amd64.deb'],
+		macos: [],
+		macos_arm: ['Bronify_aarch64.dmg', 'Bronify_aarch64.app.tar.gz'],
+		macos_intel: ['Bronify_x64.dmg', 'Bronify_x64.app.tar.gz']
 	};
+
+	FILES_BY_PLATFORM.macos = [...FILES_BY_PLATFORM.macos_arm, ...FILES_BY_PLATFORM.macos_intel];
 
 	const PRETTY_NAME: Record<Platform, string> = {
 		unknown: 'Unknown',
@@ -130,18 +134,18 @@
 		</p>
 	{/if}
 
-	{#each LINKS_BY_PLATFORM[platform] as link (link)}
+	{#each FILES_BY_PLATFORM[platform] as file (file)}
 		<button
 			class="btn btn-primary btn-lg"
 			aria-label="Install app"
-			onclick={() => download(`https://r2.bronify.love/${link}`)}
+			onclick={() => download(`https://r2.bronify.love/${file}`)}
 		>
 			<ArrowBigDownDash size="1.2em" fill="currentColor" />
-			Download {link}
+			Download {file}
 		</button>
 	{/each}
 
-	{#if LINKS_BY_PLATFORM[platform].length === 0}
+	{#if FILES_BY_PLATFORM[platform].length === 0}
 		<p class="mt-auto text-neutral-400">No app available for your platform yet.</p>
 	{/if}
 </div>
