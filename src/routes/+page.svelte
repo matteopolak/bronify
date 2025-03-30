@@ -8,6 +8,8 @@
 	import VerticalCover from '$lib/components/vertical-cover.svelte';
 	import VerticalAlbum from '$lib/components/vertical-album.svelte';
 
+	import news from '$lib/images/news.jpg';
+
 	const trackIndex = new Fuse(trackData, {
 		keys: ['title', 'artist', 'tags', 'username'],
 		threshold: 0.4
@@ -56,10 +58,14 @@
 	</a>
 {/snippet}
 
-<div class="space-y-6 p-3">
+<div class="relative z-0 space-y-6 p-3">
+	<div
+		class="to-base-200 from-primary/20 pointer-events-none absolute top-0 left-0 -z-10 h-96 w-full bg-linear-to-b"
+	></div>
+
 	<!-- New releases (within the last 24 hours) -->
 	<div>
-		<h1 class="p-2 text-2xl font-semibold text-neutral-100">Newest releases</h1>
+		<h1 class="p-2 text-2xl font-bold text-neutral-100">Newest releases</h1>
 
 		<Scrollable class="gap-0">
 			{#each newReleases as track (track.id)}

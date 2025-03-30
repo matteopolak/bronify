@@ -10,17 +10,18 @@
 	default: true;
 
 	--color-base-100: oklch(0% 0 0);
-	--color-base-200: oklch(15% 0 0);
+	--color-base-200: oklch(21% 0 0);
 	--color-base-300: oklch(30% 0 0);
 }
 
 @layer base {
-	html {
-		@apply font-sans antialiased;
-	}
-
 	body {
 		padding-top: env(safe-area-inset-top);
+		font-family:
+			'Inter Variable', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+			'Segoe UI Symbol', 'Noto Color Emoji';
+
+		@apply tracking-normal antialiased;
 	}
 
 	* {

@@ -1,4 +1,5 @@
 <script lang="ts">
+	import '@fontsource-variable/inter';
 	import '../app.css';
 
 	import bronify from '$lib/images/bronify.png?enhanced';
@@ -20,7 +21,7 @@
 		Search
 	} from '@lucide/svelte';
 	import { shortcut, type ShortcutEventDetail } from '@svelte-put/shortcut';
-	import { beforeNavigate, goto, replaceState } from '$app/navigation';
+	import { beforeNavigate, goto } from '$app/navigation';
 	import FakeProgress from '$lib/components/fake-progress.svelte';
 	import {
 		decodePlaylist,
@@ -345,7 +346,7 @@
 
 <dialog id="create-modal" class="modal px-0" bind:this={createModal}>
 	<form
-		class="modal-box bg-base-200 flex w-[calc(100vw-1em)] !translate-y-[calc(100vw-6rem)] flex-col gap-2 rounded-md p-1"
+		class="modal-box bg-base-200 flex w-[calc(100vw-1em)] !translate-y-[calc(50vh-10em)] flex-col gap-2 rounded-md p-1"
 		method="dialog"
 	>
 		<button
@@ -399,9 +400,5 @@
 
 	.active {
 		@apply text-white;
-
-		& > svg {
-			@apply fill-white;
-		}
 	}
 </style>

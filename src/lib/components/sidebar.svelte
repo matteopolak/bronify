@@ -58,8 +58,10 @@
 	<div class="drawer-side {DYNAMIC_HEIGHT_CLASS_SIDEBAR} z-20 rounded-lg">
 		<label for="sidebar" aria-label="close sidebar" class="drawer-overlay"></label>
 		<div class="bg-base-200 text-base-content flex min-h-full w-3xs flex-col gap-1 p-2 lg:w-2xs">
-			<h1 class="flex w-full flex-row place-items-center gap-1 p-4 font-semibold text-neutral-400">
-				<Library class="inline" />
+			<h1
+				class="flex w-full flex-row place-items-center gap-3 p-4 text-lg font-semibold text-neutral-400"
+			>
+				<Library class="inline" size="1.7em" />
 				Your Library
 
 				<button class="btn btn-ghost btn-circle ml-auto" onclick={onPlaylistAdd}>
@@ -67,13 +69,26 @@
 				</button>
 			</h1>
 
-			<div class="flex flex-row gap-2">
-				<input
-					type="text"
-					class="input input-sm bg-base-300/50 text-base-content placeholder:text-base-content/50 w-full border-none"
-					placeholder="Search your library"
-					bind:value={search}
-				/>
+			<div class="flex flex-row gap-2 px-1 pb-4">
+				<label class="input input-md bg-base-300/40 w-full max-w-md border-none">
+					<svg class="h-[1.5em] opacity-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+						><g
+							stroke-linejoin="round"
+							stroke-linecap="round"
+							stroke-width="2.5"
+							fill="none"
+							stroke="currentColor"
+							><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.3-4.3"></path></g
+						></svg
+					>
+					<input
+						bind:value={search}
+						type="search"
+						class="grow"
+						placeholder="Search your library"
+						autocomplete="off"
+					/>
+				</label>
 			</div>
 
 			{#each playlists as playlist (playlist.id)}
