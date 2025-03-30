@@ -2,10 +2,11 @@
 	import Cover from '$lib/components/cover.svelte';
 	import { player, global } from '$lib/player.svelte';
 	import Fuse from 'fuse.js';
-	import { trackData, categoryData, categoryThumbnail } from '$lib/get';
+	import { trackData, categoryData, categoryThumbnail, albumData } from '$lib/get';
 	import type { Collection } from '$lib/types';
 	import Scrollable from '$lib/components/scrollable.svelte';
 	import VerticalCover from '$lib/components/vertical-cover.svelte';
+	import VerticalAlbum from '$lib/components/vertical-album.svelte';
 
 	const trackIndex = new Fuse(trackData, {
 		keys: ['title', 'artist', 'tags', 'username'],
@@ -56,18 +57,6 @@
 {/snippet}
 
 <div class="space-y-6 p-3">
-	<Scrollable class="gap-1">
-		{#each categories as [key, title] (key)}
-			{@render collection({
-				id: key,
-				title: title,
-				subtitle: '',
-				cover: categoryThumbnail(key),
-				type: 'tag'
-			})}
-		{/each}
-	</Scrollable>
-
 	<!-- New releases (within the last 24 hours) -->
 	<div>
 		<h1 class="p-2 text-2xl font-semibold text-neutral-100">Newest releases</h1>
@@ -85,6 +74,32 @@
 		</Scrollable>
 	</div>
 
+	<!-- Albums -->
+	<div>
+		<h1 class="p-2 text-2xl font-semibold text-neutral-100">Featured albums</h1>
+
+		<Scrollable class="gap-0">
+			{#each albumData as album (album.id)}
+				<VerticalAlbum {album} />
+			{/each}
+		</Scrollable>
+	</div>
+
+	<div>
+		<h1 class="p-2 text-2xl font-semibold text-neutral-100">Popular categories</h1>
+		<Scrollable class="gap-1">
+			{#each categories as [key, title] (key)}
+				{@render collection({
+					id: key,
+					title: title,
+					subtitle: '',
+					cover: categoryThumbnail(key),
+					type: 'tag'
+				})}
+			{/each}
+		</Scrollable>
+	</div>
+
 	<!--
 	<div>
 		<h1 class="p-2 text-2xl font-semibold text-neutral-100">Recommended artists</h1>
@@ -98,7 +113,7 @@
 	-->
 
 	<div>
-		<h1 class="p-2 text-2xl font-semibold text-neutral-100">All tracks</h1>
+		<h1 class="p-2 text-2xl font-semibold text-neutral-100">Everything else ig</h1>
 
 		<div class="grid w-full grid-cols-1 gap-1 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6">
 			{#each tracks as track (track.id)}

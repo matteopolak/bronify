@@ -35,9 +35,9 @@
 			class="sm:bg-primary absolute top-auto right-2 bottom-2 left-auto -translate-x-1/2 -translate-y-1/2 cursor-pointer rounded-full p-3.5 text-left text-white opacity-0 transition-all duration-100 ease-in-out group-hover:opacity-100 hover:right-[0.45rem] hover:bottom-[0.45rem] hover:p-[0.925rem] sm:translate-x-0 sm:translate-y-0 sm:text-black"
 		>
 			{#if playing}
-				<Pause fill="currentColor" size="1.5em" />
+				<Pause fill="currentColor" size="1.2em" />
 			{:else}
-				<Play fill="currentColor" size="1.5em" />
+				<Play fill="currentColor" size="1.2em" />
 			{/if}
 		</div>
 	</div>
@@ -46,7 +46,6 @@
 		<div class="flex flex-col">
 			<h3 class="text-md line-clamp-1 font-semibold">{track.title}</h3>
 			<span class="text-sm text-slate-300">
-				By
 				<a href="/artists/{artist.id}" class="hover:underline" bind:this={anchor}>
 					{artist.display_name ?? track.artist}
 				</a>

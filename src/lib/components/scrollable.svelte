@@ -40,10 +40,6 @@
 			scrollLeft = container.scrollLeft;
 			scrollWidth = container.scrollWidth;
 		}}
-		onwheel={(e) => {
-			e.preventDefault();
-			container.scrollBy({ left: e.deltaY * 3, behavior: 'smooth' });
-		}}
 	>
 		{@render children()}
 	</div>
@@ -56,6 +52,6 @@
 	@reference "../../app.css";
 
 	.arrow {
-		@apply bg-base-300/80 hover:bg-base-300 absolute top-1/2 z-10 -translate-y-1/2 cursor-pointer rounded-full p-2 shadow transition-all duration-100 ease-in-out;
+		@apply bg-base-300/80 hover:bg-base-300 absolute top-1/2 z-10 hidden -translate-y-1/2 cursor-pointer rounded-full p-2 shadow transition-all duration-100 ease-in-out md:block;
 	}
 </style>

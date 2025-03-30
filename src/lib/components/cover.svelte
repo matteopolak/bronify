@@ -14,7 +14,7 @@
 </script>
 
 <button
-	class="group card hover:bg-base-300/50 flex h-28 w-auto cursor-pointer flex-row gap-2 p-3 text-left transition-all duration-100 sm:h-auto sm:flex-col"
+	class="group card hover:bg-base-300/50 flex h-28 w-auto cursor-pointer flex-row gap-2 p-2 text-left transition-all duration-100 sm:h-auto sm:flex-col"
 	onclick={(e) => {
 		if (e.target !== anchor) {
 			onClick();
@@ -46,7 +46,6 @@
 		<div class="flex flex-col">
 			<h3 class="text-md line-clamp-2 font-semibold">{track.title}</h3>
 			<span class="text-sm text-slate-300">
-				By
 				<a href="/artists/{artist.id}" class="hover:underline" bind:this={anchor}>
 					{artist.display_name ?? track.artist}
 				</a>
@@ -54,14 +53,3 @@
 		</div>
 	</div>
 </button>
-
-<style>
-	.hide-scrollbar::-webkit-scrollbar {
-		display: none;
-	}
-
-	.hide-scrollbar {
-		-ms-overflow-style: none;
-		scrollbar-width: none;
-	}
-</style>

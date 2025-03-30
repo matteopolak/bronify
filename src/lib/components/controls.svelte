@@ -170,7 +170,6 @@
 		<div>
 			<h3 class="text-sm font-semibold">{player.track.title}</h3>
 			<span class="text-sm text-slate-300">
-				By
 				<a href="/artists/{player.track.artist}" class="hover:underline">
 					{getArtist(player.track.artist).display_name ?? player.track.artist}
 				</a>

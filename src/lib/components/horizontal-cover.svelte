@@ -65,7 +65,6 @@
 		<div class="flex flex-col">
 			<h3 class="text-md line-clamp-1 font-semibold">{track.title}</h3>
 			<span class="text-sm text-slate-300">
-				By
 				<a href="/artists/{artist.id}" class="hover:underline" bind:this={anchor}>
 					{artist.display_name ?? artist.id}
 				</a>

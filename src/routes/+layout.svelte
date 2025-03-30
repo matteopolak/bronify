@@ -9,7 +9,16 @@
 	import Sidebar from '$lib/components/sidebar.svelte';
 
 	import { onMount, type Snippet } from 'svelte';
-	import { ArrowBigDownDash, Heart, Home, Menu } from '@lucide/svelte';
+	import {
+		ArrowBigDownDash,
+		Heart,
+		Home,
+		Library,
+		Menu,
+		Music,
+		Plus,
+		Search
+	} from '@lucide/svelte';
 	import { shortcut, type ShortcutEventDetail } from '@svelte-put/shortcut';
 	import { beforeNavigate, goto, replaceState } from '$app/navigation';
 	import FakeProgress from '$lib/components/fake-progress.svelte';
@@ -116,6 +125,7 @@
 	});
 
 	let comingSoonModal: HTMLDialogElement = $state()!;
+	let createModal: HTMLDialogElement = $state()!;
 
 	function handleK(detail: ShortcutEventDetail) {
 		detail.originalEvent.preventDefault();
@@ -168,6 +178,15 @@
 	const DEFAULT_TITLE = 'Bronify: LeMusic for everyone';
 
 	let title = $derived(player.paused ? DEFAULT_TITLE : `${player.track.title} | Bronify`);
+
+	function onPlaylistAdd() {
+		const playlist = createPlaylist({
+			title: `Playlist #${playlists.length + 1}`,
+			tracks: []
+		});
+
+		goto(`/playlists/${playlist.id}`);
+	}
 </script>
 
 <svelte:head>
@@ -238,7 +257,7 @@
 		</div>
 	</div>
 
-	<div class="navbar px-4 md:px-12">
+	<div class="md:navbar hidden px-4 md:px-12">
 		<div class="md:navbar-start hidden">
 			<a
 				href="/"
@@ -323,3 +342,66 @@
 		<Controls maxVolume={0.5} />
 	</div>
 </div>
+
+<dialog id="create-modal" class="modal px-0" bind:this={createModal}>
+	<form
+		class="modal-box bg-base-200 flex w-[calc(100vw-1em)] !translate-y-[calc(100vw-6rem)] flex-col gap-2 rounded-md p-1"
+		method="dialog"
+	>
+		<button
+			class="hover:bg-base-100 flex flex-row justify-items-center gap-3 rounded-lg p-3 transition-all duration-200"
+			onclick={onPlaylistAdd}
+		>
+			<div class="bg-base-300 rounded-full p-4 text-neutral-400">
+				<Music size="2em" />
+			</div>
+
+			<div class="flex flex-col gap-1 self-center text-left">
+				<span class="text-sm font-bold">Playlist</span>
+				<span class="text-xs text-neutral-400">Build a playlist with LeSongs</span>
+			</div>
+		</button>
+	</form>
+
+	<form method="dialog" class="modal-backdrop">
+		<button>close</button>
+	</form>
+</dialog>
+
+<div class="dock text-neutral-400 md:hidden">
+	<a href="/" class:active={$page.url.pathname === '/'}>
+		<Home />
+		<span class="dock-label">Home</span>
+	</a>
+
+	<a href="/search" class:active={$page.url.pathname === '/search'}>
+		<Search />
+		<span class="dock-label">Search</span>
+	</a>
+
+	<a href="/library" class:active={$page.url.pathname === '/library'}>
+		<Library />
+		<span class="dock-label">Your Library</span>
+	</a>
+
+	<button onclick={() => createModal.showModal()}>
+		<Plus />
+		<span class="dock-label">Create</span>
+	</button>
+</div>
+
+<style>
+	@reference "../app.css";
+
+	.dock-item {
+		@apply transition-all duration-100 ease-in-out;
+	}
+
+	.active {
+		@apply text-white;
+
+		& > svg {
+			@apply fill-white;
+		}
+	}
+</style>
