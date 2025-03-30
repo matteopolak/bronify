@@ -54,6 +54,8 @@ export class Player {
 	queue: Track[] = [];
 	track: Track = $state(randomElement(trackData));
 
+	private ctx = 0;
+
 	constructor() {
 		// sync to local storage
 		this.volume = floatFromStorage('volume', 0.2);
@@ -94,7 +96,13 @@ export class Player {
 		console.info(`Loading track ${track.id} from ${src}`);
 
 		this.audio.src = src;
-		this.lyrics = (await resolveLyrics(track)) ?? LYRICS_PLACEHOLDER;
+
+		const ctx = ++this.ctx;
+		const lyrics = (await resolveLyrics(track)) ?? LYRICS_PLACEHOLDER;
+
+		if (ctx === this.ctx) {
+			this.lyrics = lyrics;
+		}
 	}
 
 	// toggles if the track is active. otherwise, starts it
