@@ -86,7 +86,9 @@
 				e.stopPropagation();
 				const newPlaylist = removeFromPlaylist(playlist, track);
 				const id = newPlaylist.id!;
-				goto(`/playlists/${id}`);
+				goto(`/playlists/${id}`, {
+					replaceState: true
+				});
 			}}
 			onkeydown={() => {}}
 		>
