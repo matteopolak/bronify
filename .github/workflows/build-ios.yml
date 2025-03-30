@@ -3,7 +3,10 @@ name: Build iOS App
 on:
   push:
     tags:
-      - 'v__*'
+      - 'v*'
+
+permissions:
+  contents: write
 
 jobs:
   build-ios:
@@ -11,12 +14,12 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '22'
+          node-version: '20'
 
       - name: Enable Corepack & install pnpm
         run: |
@@ -27,9 +30,9 @@ jobs:
         uses: actions/cache@v4
         with:
           path: ~/.pnpm-store
-          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
+          key: ${{ runner.os }}-pnpm-${{ hashFiles('**/pnpm-lock.yaml') }}
           restore-keys: |
-            ${{ runner.os }}-pnpm-store-
+            ${{ runner.os }}-pnpm-
 
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
@@ -47,13 +50,26 @@ jobs:
           cd ios/App
           pod install
 
-      - name: Build iOS app
+      - name: Build .app bundle
         run: |
           cd ios/App
-          xcodebuild -workspace App.xcworkspace -scheme App -sdk iphoneos -configuration Release
+          xcodebuild -workspace App.xcworkspace \
+                     -scheme App \
+                     -sdk iphonesimulator \
+                     -configuration Debug \
+                     -derivedDataPath build
 
-      - name: Upload built app
-        uses: actions/upload-artifact@v4
+      - name: Rename and zip .app
+        run: |
+          cd ios/App/build/Build/Products/Debug-iphonesimulator/
+          mv App.app Bronify.app
+          zip -r Bronify.app.zip Bronify.app
+
+      - name: Upload .app to GitHub Release
+        uses: softprops/action-gh-release@v1
         with:
-          name: ios-app
-          path: ios/App/build/Release-iphoneos/*.app
+          tag_name: ${{ github.ref_name }}
+          name: Release ${{ github.ref_name }}
+          files: ios/App/build/Build/Products/Debug-iphonesimulator/Bronify.app.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

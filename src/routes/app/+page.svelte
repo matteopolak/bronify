@@ -25,12 +25,21 @@
 
 	let os = $state('unknown');
 	let link = $derived(
-		/*os === 'Android' ? '/bronify.apk' : os === 'iOS' ? '/bronify.ipa' : */ null
+		os === 'Android' ? '/app/bronify.apk' : /*os === 'iOS' ? '/app/bronify.app' : */ null
 	);
 
 	onMount(() => {
 		os = getMobileOperatingSystem();
 	});
+
+	function download(url: string) {
+		const a = document.createElement('a');
+		a.href = url;
+		a.download = '';
+		document.body.appendChild(a);
+		a.click();
+		document.body.removeChild(a);
+	}
 </script>
 
 <div class="flex flex-col place-items-start gap-4 p-3 md:p-6">
@@ -44,10 +53,10 @@
 	</p>
 
 	{#if link}
-		<a class="btn btn-primary btn-lg" href="/bronify.apk" aria-label="Install app">
+		<button class="btn btn-primary btn-lg" aria-label="Install app" onclick={() => download(link)}>
 			<ArrowBigDownDash size="1.2em" fill="currentColor" />
 			Download the app
-		</a>
+		</button>
 	{:else}
 		<p class="mt-auto text-neutral-400">No app available for your platform yet.</p>
 	{/if}
