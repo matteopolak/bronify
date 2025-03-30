@@ -25,11 +25,15 @@
 
 	let os = $state('unknown');
 	let link = $derived(
-		os === 'Android' ? '/app/bronify.apk' : os === 'iOS' ? '/app/Bronify.app.zip' : null
+		os === 'Android'
+			? 'https://r2.bronify.love/bronify.apk'
+			: os === 'iOS'
+				? 'https://r2.bronify.love/Bronify.app.zip'
+				: null
 	);
 
 	onMount(() => {
-		os = 'Android'; //getMobileOperatingSystem();
+		os = getMobileOperatingSystem();
 	});
 
 	function download(url: string) {
