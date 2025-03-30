@@ -57,7 +57,7 @@ model = whisper.load_model("medium.en", device="cuda")
 
 PROMPT = """\
 Write karaoke lyrics for a song about LeBron James.
-Aliases: Bronny, LeBronny
+Aliases: Bronny, LeBronny, GOAT
 """
 
 def transcribe_audio(file_path):

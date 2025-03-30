@@ -98,7 +98,7 @@
 				"index": 14
 			},
 			{
-				"text": "something",
+				"text": "something ",
 				"start": 5.56,
 				"end": 5.92,
 				"index": 15
@@ -128,46 +128,16 @@
 	{
 		"words": [
 			{
-				"text": "Sit ",
+				"text": "Sipping ",
 				"start": 0,
 				"end": 0.88,
 				"index": 19
 			},
 			{
-				"text": "there, ",
-				"start": 0.88,
-				"end": 1.5,
-				"index": 20
-			},
-			{
-				"text": "play ",
-				"start": 2.06,
-				"end": 2.24,
-				"index": 21
-			},
-			{
-				"text": "the ",
-				"start": 2.24,
-				"end": 2.46,
-				"index": 22
-			},
-			{
-				"text": "raid, ",
-				"start": 2.46,
-				"end": 3.2,
-				"index": 23
-			},
-			{
-				"text": "wipe ",
+				"text": "wiping ",
 				"start": 4.1,
 				"end": 4.18,
 				"index": 24
-			},
-			{
-				"text": "the ",
-				"start": 4.18,
-				"end": 4.46,
-				"index": 25
 			},
 			{
 				"text": "sweat ",
@@ -182,22 +152,16 @@
 				"index": 27
 			},
 			{
-				"text": "office ",
+				"text": "off his ",
 				"start": 5.04,
 				"end": 5.48,
 				"index": 28
 			},
 			{
-				"text": "or ",
+				"text": "forehead ",
 				"start": 5.48,
-				"end": 5.88,
-				"index": 29
-			},
-			{
-				"text": "head",
-				"start": 5.88,
 				"end": 6.46,
-				"index": 30
+				"index": 29
 			}
 		],
 		"start": 18.54,

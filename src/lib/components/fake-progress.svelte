@@ -8,7 +8,11 @@
 		NProgress.configure({ showSpinner: false });
 	});
 
-	beforeNavigate(() => {
+	beforeNavigate(({ from, to }) => {
+		if (from?.url.pathname === to?.url.pathname) {
+			return;
+		}
+
 		NProgress.start();
 	});
 

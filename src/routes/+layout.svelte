@@ -11,7 +11,7 @@
 	import { onMount, type Snippet } from 'svelte';
 	import { ArrowBigDownDash, Heart, Home, Menu } from '@lucide/svelte';
 	import { shortcut, type ShortcutEventDetail } from '@svelte-put/shortcut';
-	import { beforeNavigate, replaceState } from '$app/navigation';
+	import { beforeNavigate, goto, replaceState } from '$app/navigation';
 	import FakeProgress from '$lib/components/fake-progress.svelte';
 	import {
 		decodePlaylist,
@@ -20,6 +20,7 @@
 		playlists
 	} from '$lib/playlist.svelte';
 	import type { Playlist } from '$lib/types';
+	import { page } from '$app/stores';
 
 	let { children }: { children: Snippet } = $props();
 	let audioElement: HTMLAudioElement = $state()!;
@@ -107,7 +108,11 @@
 		if (lastTrackId === player.track.id) return;
 		lastTrackId = player.track.id;
 
-		replaceState(`?track=${player.track.id}`, {});
+		$page.url.searchParams.set('track', player.track.id);
+
+		goto(`${$page.url.pathname}?${$page.url.searchParams.toString()}`, {
+			replaceState: true
+		});
 	});
 
 	let comingSoonModal: HTMLDialogElement = $state()!;

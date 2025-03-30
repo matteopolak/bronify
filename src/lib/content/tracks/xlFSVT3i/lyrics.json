@@ -122,13 +122,13 @@
 				"index": 17
 			},
 			{
-				"text": "Michael ",
+				"text": "my GOAT ",
 				"start": 1.92,
 				"end": 2.38,
 				"index": 18
 			},
 			{
-				"text": "James ",
+				"text": "King ",
 				"start": 2.38,
 				"end": 3.1,
 				"index": 19
@@ -146,13 +146,13 @@
 				"index": 21
 			},
 			{
-				"text": "famous ",
+				"text": "great",
 				"start": 3.6,
 				"end": 4.4,
 				"index": 22
 			},
 			{
-				"text": "love ",
+				"text": "est ",
 				"start": 4.4,
 				"end": 5.16,
 				"index": 23
@@ -164,7 +164,7 @@
 				"index": 24
 			},
 			{
-				"text": "time",
+				"text": "all time",
 				"start": 5.6,
 				"end": 6.3,
 				"index": 25
@@ -284,7 +284,7 @@
 				"index": 42
 			},
 			{
-				"text": "mocha, ",
+				"text": "Luka, ",
 				"start": 1.2,
 				"end": 1.96,
 				"index": 43
@@ -332,7 +332,7 @@
 				"index": 49
 			},
 			{
-				"text": "ring ",
+				"text": "win1 ",
 				"start": 1.4,
 				"end": 1.6,
 				"index": 50
@@ -398,7 +398,7 @@
 	{
 		"words": [
 			{
-				"text": "Keeping ",
+				"text": "Giving ",
 				"start": 0,
 				"end": 1.02,
 				"index": 59
@@ -506,7 +506,7 @@
 				"index": 74
 			},
 			{
-				"text": "lord ",
+				"text": "Bron ",
 				"start": 0.46,
 				"end": 0.72,
 				"index": 75
@@ -704,7 +704,7 @@
 				"index": 104
 			},
 			{
-				"text": "lord ",
+				"text": "Bron ",
 				"start": 0.38,
 				"end": 0.64,
 				"index": 105

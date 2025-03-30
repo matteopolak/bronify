@@ -3,6 +3,7 @@ import { trackData } from './get';
 import { trackAudio, trackLyrics } from './get';
 import type { Lyrics, Track, TrackSettings } from './types';
 import { browser } from '$app/environment';
+import { randomElement } from './util';
 
 const LYRICS_PLACEHOLDER: Lyrics = [
 	{
@@ -51,7 +52,7 @@ export class Player {
 	lyrics: Lyrics | null = $state(null);
 
 	queue: Track[] = [];
-	track: Track = $state(trackData[0]);
+	track: Track = $state(randomElement(trackData));
 
 	constructor() {
 		// sync to local storage
