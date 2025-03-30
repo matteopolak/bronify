@@ -4,425 +4,173 @@
 			{
 				"text": "All ",
 				"start": 0,
-				"end": 0.2,
+				"end": 0.1,
 				"index": 0
 			},
 			{
 				"text": "of ",
-				"start": 0.2,
-				"end": 0.38,
+				"start": 0.1,
+				"end": 0.24,
 				"index": 1
 			},
 			{
 				"text": "the ",
-				"start": 0.38,
-				"end": 0.58,
+				"start": 0.24,
+				"end": 0.38,
 				"index": 2
 			},
 			{
-				"text": "jams, ",
-				"start": 0.58,
-				"end": 0.9,
+				"text": "jams",
+				"start": 0.38,
+				"end": 0.88,
 				"index": 3
-			},
-			{
-				"text": "all ",
-				"start": 4.12,
-				"end": 4.66,
-				"index": 4
-			},
-			{
-				"text": "of ",
-				"start": 4.66,
-				"end": 11.92,
-				"index": 5
-			},
-			{
-				"text": "the ",
-				"start": 11.92,
-				"end": 12.86,
-				"index": 6
-			},
-			{
-				"text": "jams ",
-				"start": 12.86,
-				"end": 13.18,
-				"index": 7
-			},
-			{
-				"text": "in ",
-				"start": 13.18,
-				"end": 13.4,
-				"index": 8
-			},
-			{
-				"text": "here ",
-				"start": 13.4,
-				"end": 13.78,
-				"index": 9
-			},
-			{
-				"text": "baby",
-				"start": 13.78,
-				"end": 14.44,
-				"index": 10
 			}
 		],
 		"start": 0,
-		"end": 14.44
+		"end": 0.88
 	},
 	{
 		"words": [
 			{
-				"text": "It's ",
+				"text": "Jams",
 				"start": 0,
-				"end": 0.56,
-				"index": 11
-			},
-			{
-				"text": "the ",
-				"start": 0.56,
-				"end": 0.76,
-				"index": 12
-			},
-			{
-				"text": "finals ",
-				"start": 0.76,
-				"end": 1.18,
-				"index": 13
-			},
-			{
-				"text": "of ",
-				"start": 1.18,
-				"end": 1.54,
-				"index": 14
-			},
-			{
-				"text": "Lakers, ",
-				"start": 1.54,
-				"end": 2,
-				"index": 15
-			},
-			{
-				"text": "we ",
-				"start": 2.18,
-				"end": 2.24,
-				"index": 16
-			},
-			{
-				"text": "don't ",
-				"start": 2.24,
-				"end": 2.52,
-				"index": 17
-			},
-			{
-				"text": "win",
-				"start": 2.52,
-				"end": 2.86,
-				"index": 18
+				"end": 0.28,
+				"index": 4
 			}
 		],
-		"start": 15.22,
-		"end": 18.08
+		"start": 5.36,
+		"end": 5.64
 	},
 	{
 		"words": [
 			{
 				"text": "All ",
 				"start": 0,
-				"end": 0.58,
-				"index": 19
+				"end": 0.56,
+				"index": 5
 			},
 			{
 				"text": "of ",
-				"start": 0.58,
-				"end": 0.8,
-				"index": 20
+				"start": 0.56,
+				"end": 0.86,
+				"index": 6
 			},
 			{
 				"text": "the ",
-				"start": 0.8,
-				"end": 1.02,
-				"index": 21
+				"start": 0.86,
+				"end": 1.8,
+				"index": 7
 			},
 			{
-				"text": "jams ",
-				"start": 1.02,
-				"end": 1.3,
-				"index": 22
+				"text": "J's ",
+				"start": 1.8,
+				"end": 2.14,
+				"index": 8
 			},
 			{
-				"text": "in ",
-				"start": 1.3,
-				"end": 1.54,
-				"index": 23
+				"text": "are ",
+				"start": 2.14,
+				"end": 2.4,
+				"index": 9
 			},
 			{
-				"text": "here ",
-				"start": 1.54,
-				"end": 1.92,
-				"index": 24
+				"text": "here, ",
+				"start": 2.4,
+				"end": 2.48,
+				"index": 10
 			},
 			{
 				"text": "baby",
-				"start": 1.92,
-				"end": 2.6,
-				"index": 25
+				"start": 2.76,
+				"end": 2.92,
+				"index": 11
 			}
 		],
-		"start": 18.08,
-		"end": 20.68
+		"start": 10.9,
+		"end": 13.82
 	},
 	{
 		"words": [
 			{
 				"text": "You ",
 				"start": 0,
-				"end": 0.76,
-				"index": 26
+				"end": 1.66,
+				"index": 12
 			},
 			{
 				"text": "know ",
-				"start": 0.76,
-				"end": 1.04,
-				"index": 27
+				"start": 1.66,
+				"end": 7.68,
+				"index": 13
 			},
 			{
 				"text": "what ",
-				"start": 1.04,
-				"end": 1.22,
-				"index": 28
+				"start": 7.68,
+				"end": 7.96,
+				"index": 14
 			},
 			{
 				"text": "I ",
-				"start": 1.22,
-				"end": 1.4,
-				"index": 29
+				"start": 7.96,
+				"end": 8.12,
+				"index": 15
 			},
 			{
 				"text": "mean, ",
-				"start": 1.4,
-				"end": 1.68,
-				"index": 30
+				"start": 8.12,
+				"end": 8.38,
+				"index": 16
 			},
 			{
 				"text": "the ",
-				"start": 1.82,
-				"end": 1.92,
-				"index": 31
+				"start": 8.5,
+				"end": 8.64,
+				"index": 17
 			},
 			{
 				"text": "family, ",
-				"start": 1.92,
-				"end": 2.46,
-				"index": 32
+				"start": 8.64,
+				"end": 9.02,
+				"index": 18
 			},
 			{
 				"text": "you ",
-				"start": 2.74,
-				"end": 2.78,
-				"index": 33
+				"start": 9.2,
+				"end": 9.56,
+				"index": 19
 			},
 			{
 				"text": "don't ",
-				"start": 2.78,
-				"end": 2.9,
-				"index": 34
+				"start": 9.56,
+				"end": 9.66,
+				"index": 20
 			},
 			{
-				"text": "care ",
-				"start": 2.9,
-				"end": 3.22,
-				"index": 35
+				"text": "know ",
+				"start": 19.46,
+				"end": 20.66,
+				"index": 21
 			},
 			{
-				"text": "no ",
-				"start": 3.22,
-				"end": 3.5,
-				"index": 36
+				"text": "what ",
+				"start": 20.66,
+				"end": 21.26,
+				"index": 22
 			},
 			{
-				"text": "more ",
-				"start": 3.5,
-				"end": 3.68,
-				"index": 37
+				"text": "I ",
+				"start": 21.26,
+				"end": 21.28,
+				"index": 23
 			},
 			{
-				"text": "to ",
-				"start": 3.68,
-				"end": 3.84,
-				"index": 38
-			},
-			{
-				"text": "win ",
-				"start": 3.84,
-				"end": 4.06,
-				"index": 39
-			},
-			{
-				"text": "all ",
-				"start": 4.06,
-				"end": 4.32,
-				"index": 40
-			},
-			{
-				"text": "of ",
-				"start": 4.32,
-				"end": 4.52,
-				"index": 41
-			},
-			{
-				"text": "the ",
-				"start": 4.52,
-				"end": 4.74,
-				"index": 42
-			},
-			{
-				"text": "jams",
-				"start": 4.74,
-				"end": 6.32,
-				"index": 43
+				"text": "mean",
+				"start": 21.28,
+				"end": 21.88,
+				"index": 24
 			}
 		],
-		"start": 20.68,
-		"end": 27
-	},
-	{
-		"words": [
-			{
-				"text": "Let's ",
-				"start": 0,
-				"end": 0.68,
-				"index": 44
-			},
-			{
-				"text": "bounce ",
-				"start": 0.68,
-				"end": 1.04,
-				"index": 45
-			},
-			{
-				"text": "and ",
-				"start": 1.04,
-				"end": 1.4,
-				"index": 46
-			},
-			{
-				"text": "then ",
-				"start": 1.4,
-				"end": 1.58,
-				"index": 47
-			},
-			{
-				"text": "push ",
-				"start": 1.58,
-				"end": 1.84,
-				"index": 48
-			},
-			{
-				"text": "our ",
-				"start": 1.84,
-				"end": 2.12,
-				"index": 49
-			},
-			{
-				"text": "power ",
-				"start": 2.12,
-				"end": 2.48,
-				"index": 50
-			},
-			{
-				"text": "again ",
-				"start": 2.48,
-				"end": 3.08,
-				"index": 51
-			},
-			{
-				"text": "for ",
-				"start": 3.08,
-				"end": 3.46,
-				"index": 52
-			},
-			{
-				"text": "the ",
-				"start": 3.46,
-				"end": 3.72,
-				"index": 53
-			},
-			{
-				"text": "games",
-				"start": 3.72,
-				"end": 4.56,
-				"index": 54
-			}
-		],
-		"start": 27.76,
-		"end": 32.32
-	},
-	{
-		"words": [
-			{
-				"text": "Until ",
-				"start": 0,
-				"end": 0.68,
-				"index": 55
-			},
-			{
-				"text": "the ",
-				"start": 0.68,
-				"end": 0.94,
-				"index": 56
-			},
-			{
-				"text": "power ",
-				"start": 0.94,
-				"end": 1.26,
-				"index": 57
-			},
-			{
-				"text": "that ",
-				"start": 1.26,
-				"end": 1.54,
-				"index": 58
-			},
-			{
-				"text": "the ",
-				"start": 1.54,
-				"end": 1.7,
-				"index": 59
-			},
-			{
-				"text": "final ",
-				"start": 1.7,
-				"end": 2,
-				"index": 60
-			},
-			{
-				"text": "rain ",
-				"start": 2,
-				"end": 2.42,
-				"index": 61
-			},
-			{
-				"text": "followed ",
-				"start": 2.42,
-				"end": 2.76,
-				"index": 62
-			},
-			{
-				"text": "the ",
-				"start": 2.76,
-				"end": 3.06,
-				"index": 63
-			},
-			{
-				"text": "jammies",
-				"start": 3.06,
-				"end": 3.52,
-				"index": 64
-			}
-		],
-		"start": 33.62,
-		"end": 37.14
+		"start": 13.82,
+		"end": 35.7
 	}
 ]

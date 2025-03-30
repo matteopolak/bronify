@@ -2,43 +2,409 @@
 	{
 		"words": [
 			{
-				"text": "The",
+				"text": "Say ",
 				"start": 0,
-				"end": 1.4,
+				"end": 0.42,
 				"index": 0
-			}
-		],
-		"start": 3.78,
-		"end": 5.18
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "DJ",
-				"start": 0,
-				"end": 0.2,
+				"text": "they ",
+				"start": 0.42,
+				"end": 0.62,
 				"index": 1
-			}
-		],
-		"start": 5.18,
-		"end": 5.38
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Boomcatz,",
-				"start": 0,
-				"end": 13.3,
+				"text": "used ",
+				"start": 0.62,
+				"end": 0.82,
 				"index": 2
 			},
 			{
-				"text": "shot",
-				"start": 36.04,
-				"end": 37.44,
+				"text": "to ",
+				"start": 0.82,
+				"end": 0.96,
 				"index": 3
+			},
+			{
+				"text": "let ",
+				"start": 0.96,
+				"end": 1.16,
+				"index": 4
+			},
+			{
+				"text": "it ",
+				"start": 1.16,
+				"end": 1.46,
+				"index": 5
+			},
+			{
+				"text": "go, ",
+				"start": 1.46,
+				"end": 1.88,
+				"index": 6
+			},
+			{
+				"text": "but ",
+				"start": 2.04,
+				"end": 2.34,
+				"index": 7
+			},
+			{
+				"text": "we're ",
+				"start": 2.34,
+				"end": 2.52,
+				"index": 8
+			},
+			{
+				"text": "40, ",
+				"start": 2.52,
+				"end": 2.9,
+				"index": 9
+			},
+			{
+				"text": "but ",
+				"start": 2.94,
+				"end": 3.12,
+				"index": 10
+			},
+			{
+				"text": "we're ",
+				"start": 3.12,
+				"end": 3.48,
+				"index": 11
+			},
+			{
+				"text": "40, ",
+				"start": 3.48,
+				"end": 3.7,
+				"index": 12
+			},
+			{
+				"text": "still ",
+				"start": 3.76,
+				"end": 4.02,
+				"index": 13
+			},
+			{
+				"text": "pushing, ",
+				"start": 4.02,
+				"end": 4.42,
+				"index": 14
+			},
+			{
+				"text": "that's ",
+				"start": 4.54,
+				"end": 4.84,
+				"index": 15
+			},
+			{
+				"text": "why ",
+				"start": 4.84,
+				"end": 4.96,
+				"index": 16
+			},
+			{
+				"text": "he's ",
+				"start": 4.96,
+				"end": 5.7,
+				"index": 17
+			},
+			{
+				"text": "a ",
+				"start": 5.7,
+				"end": 5.72,
+				"index": 18
+			},
+			{
+				"text": "go",
+				"start": 5.72,
+				"end": 6.02,
+				"index": 19
 			}
 		],
-		"start": 5.38,
-		"end": 42.82
+		"start": 0.72,
+		"end": 6.74
+	},
+	{
+		"words": [
+			{
+				"text": "Oh, ",
+				"start": 0,
+				"end": 0.76,
+				"index": 20
+			},
+			{
+				"text": "he's ",
+				"start": 0.76,
+				"end": 1.74,
+				"index": 21
+			},
+			{
+				"text": "here, ",
+				"start": 1.74,
+				"end": 2.2,
+				"index": 22
+			},
+			{
+				"text": "make ",
+				"start": 2.52,
+				"end": 4.3,
+				"index": 23
+			},
+			{
+				"text": "me ",
+				"start": 4.3,
+				"end": 4.76,
+				"index": 24
+			},
+			{
+				"text": "wreck ",
+				"start": 4.76,
+				"end": 4.98,
+				"index": 25
+			},
+			{
+				"text": "his ",
+				"start": 4.98,
+				"end": 5.22,
+				"index": 26
+			},
+			{
+				"text": "triple",
+				"start": 5.22,
+				"end": 5.52,
+				"index": 27
+			},
+			{
+				"text": "-double, ",
+				"start": 5.52,
+				"end": 6,
+				"index": 28
+			},
+			{
+				"text": "smash ",
+				"start": 6.08,
+				"end": 6.28,
+				"index": 29
+			},
+			{
+				"text": "his ",
+				"start": 6.28,
+				"end": 6.62,
+				"index": 30
+			},
+			{
+				"text": "head ",
+				"start": 6.62,
+				"end": 6.84,
+				"index": 31
+			},
+			{
+				"text": "like ",
+				"start": 6.84,
+				"end": 7.22,
+				"index": 32
+			},
+			{
+				"text": "it's ",
+				"start": 7.22,
+				"end": 7.38,
+				"index": 33
+			},
+			{
+				"text": "gunpowder",
+				"start": 7.38,
+				"end": 8.06,
+				"index": 34
+			}
+		],
+		"start": 6.74,
+		"end": 14.8
+	},
+	{
+		"words": [
+			{
+				"text": "Need ",
+				"start": 0,
+				"end": 0.62,
+				"index": 35
+			},
+			{
+				"text": "to ",
+				"start": 0.62,
+				"end": 0.78,
+				"index": 36
+			},
+			{
+				"text": "pull ",
+				"start": 0.78,
+				"end": 1.08,
+				"index": 37
+			},
+			{
+				"text": "the ",
+				"start": 1.08,
+				"end": 1.36,
+				"index": 38
+			},
+			{
+				"text": "trigger, ",
+				"start": 1.36,
+				"end": 2.4,
+				"index": 39
+			},
+			{
+				"text": "for ",
+				"start": 2.92,
+				"end": 3.6,
+				"index": 40
+			},
+			{
+				"text": "him ",
+				"start": 3.6,
+				"end": 3.84,
+				"index": 41
+			},
+			{
+				"text": "to ",
+				"start": 3.84,
+				"end": 3.98,
+				"index": 42
+			},
+			{
+				"text": "stop ",
+				"start": 3.98,
+				"end": 4.3,
+				"index": 43
+			},
+			{
+				"text": "us, ",
+				"start": 4.3,
+				"end": 4.5,
+				"index": 44
+			},
+			{
+				"text": "he ",
+				"start": 4.68,
+				"end": 4.78,
+				"index": 45
+			},
+			{
+				"text": "messes ",
+				"start": 4.78,
+				"end": 5.12,
+				"index": 46
+			},
+			{
+				"text": "up the ",
+				"start": 5.12,
+				"end": 5.46,
+				"index": 47
+			},
+			{
+				"text": "signal",
+				"start": 5.46,
+				"end": 6.02,
+				"index": 48
+			}
+		],
+		"start": 14.8,
+		"end": 20.82
+	},
+	{
+		"words": [
+			{
+				"text": "Oh, ",
+				"start": 0,
+				"end": 1.02,
+				"index": 49
+			},
+			{
+				"text": "he's here, ",
+				"start": 1.06,
+				"end": 1.5,
+				"index": 50
+			},
+			{
+				"text": "make me wreck ",
+				"start": 2.24,
+				"end": 2.5,
+				"index": 51
+			},
+			{
+				"text": "his triple",
+				"start": 2.5,
+				"end": 4.76,
+				"index": 52
+			},
+			{
+				"text": "-double, ",
+				"start": 4.76,
+				"end": 6.08,
+				"index": 53
+			},
+			{
+				"text": "smash ",
+				"start": 7.3,
+				"end": 8.1,
+				"index": 54
+			},
+			{
+				"text": "his head ",
+				"start": 8.1,
+				"end": 8.72,
+				"index": 55
+			},
+			{
+				"text": "like it's ",
+				"start": 8.72,
+				"end": 8.94,
+				"index": 56
+			},
+			{
+				"text": "gunpowder",
+				"start": 8.94,
+				"end": 10.22,
+				"index": 57
+			}
+		],
+		"start": 20.82,
+		"end": 31.04
+	},
+	{
+		"words": [
+			{
+				"text": "Oh, ",
+				"start": 0,
+				"end": 0.36,
+				"index": 58
+			},
+			{
+				"text": "he's ",
+				"start": 0.36,
+				"end": 0.72,
+				"index": 59
+			},
+			{
+				"text": "here, ",
+				"start": 0.72,
+				"end": 0.76,
+				"index": 60
+			},
+			{
+				"text": "make me wreck his triple-double, smash his head like it's ",
+				"start": 0.78,
+				"end": 0.84,
+				"index": 61
+			},
+			{
+				"text": "gunpowder",
+				"start": 0.84,
+				"end": 4.56,
+				"index": 62
+			}
+		],
+		"start": 45.14,
+		"end": 49.7
 	}
 ]

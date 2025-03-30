@@ -3,7 +3,11 @@
 
 	import Cover from '$lib/components/cover.svelte';
 	import { player } from '$lib/player.svelte';
-	import { trackData } from '$lib/get';
+	import { searchLyrics, trackData } from '$lib/get';
+	import Scrollable from '$lib/components/scrollable.svelte';
+	import VerticalCover from '$lib/components/vertical-cover.svelte';
+	import { debounce } from '$lib/util';
+	import { fade } from 'svelte/transition';
 
 	const trackIndex = new Fuse(trackData, {
 		keys: ['title', 'artist', 'tags', 'username'],
@@ -11,10 +15,25 @@
 	});
 
 	let search = $state('');
+	let rawSearch = $state('');
+
+	const update = debounce(() => {
+		search = rawSearch;
+	}, 300);
+
+	$effect(() => {
+		if (rawSearch) {
+			update();
+		} else {
+			search = '';
+		}
+	});
 
 	let tracks = $derived(
 		search ? trackIndex.search(search, { limit: 15 }).map((s) => s.item) : trackData
 	);
+
+	let tracksLyrics = $derived(search ? searchLyrics(search) : []);
 </script>
 
 <div class="flex flex-row place-items-center items-center justify-center gap-2 px-4 pt-12 pb-4">
@@ -30,14 +49,35 @@
 			></svg
 		>
 		<input
-			bind:value={search}
+			bind:value={rawSearch}
 			type="search"
 			class="grow"
-			placeholder="What do you want to play?"
+			placeholder="Search by artist, title, and lyrics"
 			autocomplete="off"
 		/>
 	</label>
 </div>
+
+<!-- Search results for lyrics -->
+{#if tracksLyrics.length}
+	<div class="p-3">
+		<h1 class="p-2 text-2xl font-bold text-neutral-100">Matching lyrics</h1>
+
+		<Scrollable class="gap-0">
+			{#each tracksLyrics as track (track.id)}
+				<div transition:fade={{ duration: 300 }}>
+					<VerticalCover
+						{track}
+						onClick={() => {
+							player.queue = tracksLyrics;
+							player.toggle(track);
+						}}
+					/>
+				</div>
+			{/each}
+		</Scrollable>
+	</div>
+{/if}
 
 <div class="grid w-full grid-cols-1 gap-1 px-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6">
 	{#each tracks as track (track.id)}

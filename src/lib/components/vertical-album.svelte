@@ -16,7 +16,7 @@
 		src={cover}
 		loading="lazy"
 		alt="Album cover"
-		class="relative h-auto w-auto shrink-0 rounded-md bg-black object-cover"
+		class="relative h-auto w-auto shrink-0 rounded-md bg-black object-cover shadow-lg"
 	/>
 
 	<div class="flex flex-col">

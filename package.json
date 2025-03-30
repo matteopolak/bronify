@@ -18,7 +18,7 @@
 		"lint": "prettier --check . && eslint .",
 		"collect": "node --experimental-strip-types scripts/collect.ts",
 		"tag": "cd scripts && uv run classify.py && cd .. && node --experimental-strip-types scripts/apply_tags.ts",
-		"lyrics": "cd scripts/inner && uv run make_lyrics.py && cd ../.. && pnpm fix-lyrics",
+		"lyrics": "cd scripts/inner && uv run make_lyrics.py && cd ../.. && pnpm fix-lyrics && node --experimental-strip-types scripts/lyrics_index.ts",
 		"hash": "node --experimental-strip-types scripts/hash_file.ts",
 		"add-thumb": "node --experimental-strip-types scripts/add_thumb.ts",
 		"missing-lyrics": "node --experimental-strip-types scripts/missing_lyrics.ts",
@@ -60,9 +60,7 @@
 		"vite": "^6.0.0"
 	},
 	"pnpm": {
-		"onlyBuiltDependencies": [
-			"esbuild"
-		]
+		"onlyBuiltDependencies": ["esbuild"]
 	},
 	"dependencies": {
 		"@capacitor/android": "^7.1.0",

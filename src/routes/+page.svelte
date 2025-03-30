@@ -2,7 +2,14 @@
 	import Cover from '$lib/components/cover.svelte';
 	import { player, global } from '$lib/player.svelte';
 	import Fuse from 'fuse.js';
-	import { trackData, categoryData, categoryThumbnail, albumData, artistData } from '$lib/get';
+	import {
+		trackData,
+		categoryData,
+		categoryThumbnail,
+		albumData,
+		artistData,
+		searchLyrics
+	} from '$lib/get';
 	import type { Artist, Collection } from '$lib/types';
 	import Scrollable from '$lib/components/scrollable.svelte';
 	import VerticalCover from '$lib/components/vertical-cover.svelte';
@@ -70,6 +77,8 @@
 		global.search ? trackIndex.search(global.search, { limit: 15 }).map((s) => s.item) : trackData
 	);
 
+	let tracksLyrics = $derived(global.search ? searchLyrics(global.search) : []);
+
 	let categories = $derived(
 		global.search
 			? categoryIndex
@@ -105,7 +114,7 @@
 			loading="lazy"
 			src={content.cover}
 			alt="Category {content.title}"
-			class="aspect-square w-48 rounded-lg object-cover"
+			class="aspect-square w-48 rounded-lg object-cover shadow-lg"
 		/>
 
 		<div class="flex flex-col">
@@ -115,12 +124,8 @@
 	</a>
 {/snippet}
 
-<div class="relative z-0 space-y-6">
-	<div
-		class="to-base-200 from-primary/20 pointer-events-none absolute top-0 left-0 -z-10 h-96 w-full bg-linear-to-b"
-	></div>
-
-	<div class="w-full pb-8">
+<div class="relative z-0">
+	<div class="w-full">
 		<div class="relative z-0 flex h-64 flex-col md:h-80 lg:h-96">
 			<enhanced:img
 				src={news}
@@ -140,85 +145,112 @@
 		</div>
 	</div>
 
-	<!-- New releases (within the last 24 hours) -->
-	{#if newReleases.length}
-		<div class="p-3">
-			<h1 class="p-2 text-2xl font-bold text-neutral-100">Newest releases</h1>
+	<div class="relative space-y-6 pt-8">
+		<div
+			class="to-base-200 from-primary/20 pointer-events-none absolute top-0 left-0 -z-10 h-80 w-full bg-linear-to-b"
+		></div>
 
-			<Scrollable class="gap-0">
-				{#each newReleases as track (track.id)}
-					<div transition:fade={{ duration: ANIMATION_TIME }}>
-						<VerticalCover
-							{track}
-							onClick={() => {
-								player.queue = newReleases;
-								player.toggle(track);
-							}}
-						/>
-					</div>
-				{/each}
-			</Scrollable>
-		</div>
-	{/if}
+		<!-- Search results for lyrics -->
+		{#if tracksLyrics.length}
+			<div class="p-3">
+				<h1 class="p-2 text-2xl font-bold text-neutral-100">Matching lyrics</h1>
 
-	<!-- Albums -->
-	{#if albums.length}
-		<div class="p-3">
-			<h1 class="p-2 text-2xl font-semibold text-neutral-100">Featured albums</h1>
-
-			<Scrollable class="gap-0">
-				{#each albums as album (album.id)}
-					<div transition:fade={{ duration: ANIMATION_TIME }}>
-						<VerticalAlbum {album} />
-					</div>
-				{/each}
-			</Scrollable>
-		</div>
-	{/if}
-
-	{#if categories.length}
-		<div class="p-3">
-			<h1 class="p-2 text-2xl font-semibold text-neutral-100">Popular categories</h1>
-			<Scrollable class="gap-1">
-				{#each categories as [key, title] (key)}
-					<div transition:fade={{ duration: ANIMATION_TIME }}>
-						{@render collection({
-							id: key,
-							title: title,
-							subtitle: '',
-							cover: categoryThumbnail(key),
-							type: 'tag'
-						})}
-					</div>
-				{/each}
-			</Scrollable>
-		</div>
-	{/if}
-
-	{#if artists.length}
-		<div class="p-3">
-			<h1 class="p-2 text-2xl font-semibold text-neutral-100">Top artists</h1>
-			<Scrollable class="gap-1">
-				{#each artists as artist (artist.id)}
-					<div transition:fade={{ duration: ANIMATION_TIME }}>
-						<VerticalArtist {artist} />
-					</div>
-				{/each}
-			</Scrollable>
-		</div>
-	{/if}
-
-	{#if tracks.length}
-		<div class="p-3">
-			<h1 class="p-2 text-2xl font-semibold text-neutral-100">Everything else ig</h1>
-
-			<div class="grid w-full grid-cols-1 gap-1 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6">
-				{#each tracks as track (track.id)}
-					<div transition:fade={{ duration: ANIMATION_TIME }}>
-						<Cover {track} onClick={() => player.toggle(track)} />
-					</div>
-				{/each}
+				<Scrollable class="gap-0">
+					{#each tracksLyrics as track (track.id)}
+						<div transition:fade={{ duration: ANIMATION_TIME }}>
+							<VerticalCover
+								{track}
+								onClick={() => {
+									player.queue = tracksLyrics;
+									player.toggle(track);
+								}}
+							/>
+						</div>
+					{/each}
+				</Scrollable>
 			</div>
-		</div>
-	{/if}
+		{/if}
+
+		<!-- New releases (within the last 24 hours) -->
+		{#if newReleases.length}
+			<div class="p-3">
+				<h1 class="p-2 text-2xl font-bold text-neutral-100">Newest releases</h1>
+
+				<Scrollable class="gap-0">
+					{#each newReleases as track (track.id)}
+						<div transition:fade={{ duration: ANIMATION_TIME }}>
+							<VerticalCover
+								{track}
+								onClick={() => {
+									player.queue = newReleases;
+									player.toggle(track);
+								}}
+							/>
+						</div>
+					{/each}
+				</Scrollable>
+			</div>
+		{/if}
+
+		<!-- Albums -->
+		{#if albums.length}
+			<div class="p-3">
+				<h1 class="p-2 text-2xl font-semibold text-neutral-100">Featured albums</h1>
+
+				<Scrollable class="gap-0">
+					{#each albums as album (album.id)}
+						<div transition:fade={{ duration: ANIMATION_TIME }}>
+							<VerticalAlbum {album} />
+						</div>
+					{/each}
+				</Scrollable>
+			</div>
+		{/if}
+
+		{#if categories.length}
+			<div class="p-3">
+				<h1 class="p-2 text-2xl font-semibold text-neutral-100">Popular categories</h1>
+				<Scrollable class="gap-1">
+					{#each categories as [key, title] (key)}
+						<div transition:fade={{ duration: ANIMATION_TIME }}>
+							{@render collection({
+								id: key,
+								title: title,
+								subtitle: '',
+								cover: categoryThumbnail(key),
+								type: 'tag'
+							})}
+						</div>
+					{/each}
+				</Scrollable>
+			</div>
+		{/if}
+
+		{#if artists.length}
+			<div class="p-3">
+				<h1 class="p-2 text-2xl font-semibold text-neutral-100">Top artists</h1>
+				<Scrollable class="gap-1">
+					{#each artists as artist (artist.id)}
+						<div transition:fade={{ duration: ANIMATION_TIME }}>
+							<VerticalArtist {artist} />
+						</div>
+					{/each}
+				</Scrollable>
+			</div>
+		{/if}
+
+		{#if tracks.length}
+			<div class="p-3">
+				<h1 class="p-2 text-2xl font-semibold text-neutral-100">Everything else ig</h1>
+
+				<div class="grid w-full grid-cols-1 gap-1 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6">
+					{#each tracks as track (track.id)}
+						<div transition:fade={{ duration: ANIMATION_TIME }}>
+							<Cover {track} onClick={() => player.toggle(track)} />
+						</div>
+					{/each}
+				</div>
+			</div>
+		{/if}
+	</div>
 </div>

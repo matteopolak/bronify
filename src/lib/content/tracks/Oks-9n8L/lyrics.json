@@ -2,20 +2,1160 @@
 	{
 		"words": [
 			{
-				"text": "LeBron ",
+				"text": "LeBron",
 				"start": 0,
-				"end": 1.4,
+				"end": 1.3,
 				"index": 0
-			},
+			}
+		],
+		"start": 2.24,
+		"end": 3.54
+	},
+	{
+		"words": [
 			{
-				"text": "James",
-				"start": 1.4,
-				"end": 2.8,
+				"text": "LeBron",
+				"start": 0,
+				"end": 0.72,
 				"index": 1
 			}
 		],
-		"start": 3.46,
-		"end": 6.26
+		"start": 4.04,
+		"end": 4.76
+	},
+	{
+		"words": [
+			{
+				"text": "LBj",
+				"start": 0,
+				"end": 0.72,
+				"index": 2
+			}
+		],
+		"start": 4.92,
+		"end": 5.64
+	},
+	{
+		"words": [
+			{
+				"text": "Lráy",
+				"start": 0,
+				"end": 1.14,
+				"index": 3
+			}
+		],
+		"start": 6.16,
+		"end": 7.3
+	},
+	{
+		"words": [
+			{
+				"text": "LBron",
+				"start": 0,
+				"end": 0.56,
+				"index": 4
+			}
+		],
+		"start": 7.64,
+		"end": 8.2
+	},
+	{
+		"words": [
+			{
+				"text": "LBj",
+				"start": 0,
+				"end": 1.1,
+				"index": 5
+			}
+		],
+		"start": 8.3,
+		"end": 9.4
+	},
+	{
+		"words": [
+			{
+				"text": "LBron",
+				"start": 0,
+				"end": 1.32,
+				"index": 6
+			}
+		],
+		"start": 9.78,
+		"end": 11.1
+	},
+	{
+		"words": [
+			{
+				"text": "LBron",
+				"start": 0,
+				"end": 0.8,
+				"index": 7
+			}
+		],
+		"start": 11.2,
+		"end": 12
+	},
+	{
+		"words": [
+			{
+				"text": "LBron",
+				"start": 0,
+				"end": 0.7,
+				"index": 8
+			}
+		],
+		"start": 12.1,
+		"end": 12.8
+	},
+	{
+		"words": [
+			{
+				"text": "LBron",
+				"start": 0,
+				"end": 0.1,
+				"index": 9
+			}
+		],
+		"start": 12.9,
+		"end": 13
+	},
+	{
+		"words": [
+			{
+				"text": "Trans",
+				"start": 0,
+				"end": 0.14,
+				"index": 10
+			}
+		],
+		"start": 13.1,
+		"end": 13.24
+	},
+	{
+		"words": [
+			{
+				"text": "LBron, ",
+				"start": 0,
+				"end": 1.28,
+				"index": 11
+			},
+			{
+				"text": "Z ",
+				"start": 1.28,
+				"end": 1.54,
+				"index": 12
+			},
+			{
+				"text": "transaction",
+				"start": 1.54,
+				"end": 2.56,
+				"index": 13
+			}
+		],
+		"start": 13.34,
+		"end": 15.9
+	},
+	{
+		"words": [
+			{
+				"text": "The ",
+				"start": 0,
+				"end": 0.48,
+				"index": 14
+			},
+			{
+				"text": "infused",
+				"start": 0.48,
+				"end": 0.96,
+				"index": 15
+			}
+		],
+		"start": 17.42,
+		"end": 18.38
+	},
+	{
+		"words": [
+			{
+				"text": "The infused",
+				"start": 0,
+				"end": 0.48,
+				"index": 16
+			}
+		],
+		"start": 18.38,
+		"end": 18.86
+	},
+	{
+		"words": [
+			{
+				"text": "The ",
+				"start": 0,
+				"end": 0.48,
+				"index": 17
+			},
+			{
+				"text": "infused",
+				"start": 0.48,
+				"end": 0.6,
+				"index": 18
+			}
+		],
+		"start": 20.1,
+		"end": 20.7
+	},
+	{
+		"words": [
+			{
+				"text": "The ",
+				"start": 0,
+				"end": 0.78,
+				"index": 19
+			},
+			{
+				"text": "infused",
+				"start": 0.78,
+				"end": 1.22,
+				"index": 20
+			}
+		],
+		"start": 20.7,
+		"end": 21.92
+	},
+	{
+		"words": [
+			{
+				"text": "The infused",
+				"start": 0,
+				"end": 0.48,
+				"index": 21
+			}
+		],
+		"start": 22.76,
+		"end": 23.24
+	},
+	{
+		"words": [
+			{
+				"text": "The infused",
+				"start": 0,
+				"end": 0.48,
+				"index": 22
+			}
+		],
+		"start": 23.98,
+		"end": 24.46
+	},
+	{
+		"words": [
+			{
+				"text": "The ",
+				"start": 0,
+				"end": 0.48,
+				"index": 23
+			},
+			{
+				"text": "infused",
+				"start": 0.48,
+				"end": 0.96,
+				"index": 24
+			}
+		],
+		"start": 25.24,
+		"end": 26.2
+	},
+	{
+		"words": [
+			{
+				"text": "The ",
+				"start": 0,
+				"end": 0.48,
+				"index": 25
+			},
+			{
+				"text": "infused",
+				"start": 0.48,
+				"end": 0.6,
+				"index": 26
+			}
+		],
+		"start": 27.26,
+		"end": 27.86
+	},
+	{
+		"words": [
+			{
+				"text": "The ",
+				"start": 0,
+				"end": 0.24,
+				"index": 27
+			},
+			{
+				"text": "infused",
+				"start": 0.24,
+				"end": 0.42,
+				"index": 28
+			}
+		],
+		"start": 27.86,
+		"end": 28.28
+	},
+	{
+		"words": [
+			{
+				"text": "The infused",
+				"start": 0,
+				"end": 0.18,
+				"index": 29
+			}
+		],
+		"start": 28.28,
+		"end": 28.46
+	},
+	{
+		"words": [
+			{
+				"text": "The infused",
+				"start": 0,
+				"end": 0.42,
+				"index": 30
+			}
+		],
+		"start": 28.46,
+		"end": 28.88
+	},
+	{
+		"words": [
+			{
+				"text": "They ",
+				"start": 0,
+				"end": 0.48,
+				"index": 31
+			},
+			{
+				"text": "don't ",
+				"start": 0.48,
+				"end": 0.7,
+				"index": 32
+			},
+			{
+				"text": "make ",
+				"start": 0.7,
+				"end": 0.78,
+				"index": 33
+			},
+			{
+				"text": "a ",
+				"start": 0.78,
+				"end": 0.86,
+				"index": 34
+			},
+			{
+				"text": "light ",
+				"start": 0.86,
+				"end": 1.06,
+				"index": 35
+			},
+			{
+				"text": "no ",
+				"start": 1.06,
+				"end": 1.28,
+				"index": 36
+			},
+			{
+				"text": "mo'",
+				"start": 1.28,
+				"end": 1.6,
+				"index": 37
+			}
+		],
+		"start": 30.38,
+		"end": 31.98
+	},
+	{
+		"words": [
+			{
+				"text": "They ",
+				"start": 0,
+				"end": 0.5,
+				"index": 38
+			},
+			{
+				"text": "wanna ",
+				"start": 0.5,
+				"end": 0.84,
+				"index": 39
+			},
+			{
+				"text": "be ",
+				"start": 0.84,
+				"end": 1.08,
+				"index": 40
+			},
+			{
+				"text": "your ",
+				"start": 1.08,
+				"end": 1.28,
+				"index": 41
+			},
+			{
+				"text": "body ",
+				"start": 1.28,
+				"end": 1.66,
+				"index": 42
+			},
+			{
+				"text": "then ",
+				"start": 1.66,
+				"end": 1.76,
+				"index": 43
+			},
+			{
+				"text": "cause",
+				"start": 1.76,
+				"end": 1.96,
+				"index": 44
+			}
+		],
+		"start": 32.14,
+		"end": 34.1
+	},
+	{
+		"words": [
+			{
+				"text": "They ",
+				"start": 0,
+				"end": 0.42,
+				"index": 45
+			},
+			{
+				"text": "been ",
+				"start": 0.42,
+				"end": 0.52,
+				"index": 46
+			},
+			{
+				"text": "havin' ",
+				"start": 0.52,
+				"end": 0.76,
+				"index": 47
+			},
+			{
+				"text": "this ",
+				"start": 0.78,
+				"end": 0.86,
+				"index": 48
+			},
+			{
+				"text": "feelin' ",
+				"start": 0.86,
+				"end": 1.2,
+				"index": 49
+			},
+			{
+				"text": "on ",
+				"start": 1.3,
+				"end": 1.38,
+				"index": 50
+			},
+			{
+				"text": "go",
+				"start": 1.38,
+				"end": 1.6,
+				"index": 51
+			}
+		],
+		"start": 34.1,
+		"end": 35.7
+	},
+	{
+		"words": [
+			{
+				"text": "They ",
+				"start": 0,
+				"end": 0.58,
+				"index": 52
+			},
+			{
+				"text": "been ",
+				"start": 0.58,
+				"end": 0.7,
+				"index": 53
+			},
+			{
+				"text": "seein' ",
+				"start": 0.7,
+				"end": 1.02,
+				"index": 54
+			},
+			{
+				"text": "how ",
+				"start": 1.04,
+				"end": 1.1,
+				"index": 55
+			},
+			{
+				"text": "great ",
+				"start": 1.1,
+				"end": 1.36,
+				"index": 56
+			},
+			{
+				"text": "that ",
+				"start": 1.36,
+				"end": 1.6,
+				"index": 57
+			},
+			{
+				"text": "king ",
+				"start": 1.6,
+				"end": 1.76,
+				"index": 58
+			},
+			{
+				"text": "was",
+				"start": 1.76,
+				"end": 2.06,
+				"index": 59
+			}
+		],
+		"start": 35.7,
+		"end": 37.76
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.34,
+				"index": 60
+			},
+			{
+				"text": "don't ",
+				"start": 0.34,
+				"end": 0.46,
+				"index": 61
+			},
+			{
+				"text": "feel ",
+				"start": 0.46,
+				"end": 0.6,
+				"index": 62
+			},
+			{
+				"text": "no ",
+				"start": 0.6,
+				"end": 0.8,
+				"index": 63
+			},
+			{
+				"text": "pressure",
+				"start": 0.8,
+				"end": 1.1,
+				"index": 64
+			}
+		],
+		"start": 37.76,
+		"end": 38.86
+	},
+	{
+		"words": [
+			{
+				"text": "Smithy ",
+				"start": 0,
+				"end": 0.56,
+				"index": 65
+			},
+			{
+				"text": "the ",
+				"start": 0.56,
+				"end": 0.7,
+				"index": 66
+			},
+			{
+				"text": "cash",
+				"start": 0.7,
+				"end": 0.9,
+				"index": 67
+			}
+		],
+		"start": 38.86,
+		"end": 39.76
+	},
+	{
+		"words": [
+			{
+				"text": "Show ",
+				"start": 0,
+				"end": 0.3,
+				"index": 68
+			},
+			{
+				"text": "my ",
+				"start": 0.3,
+				"end": 0.58,
+				"index": 69
+			},
+			{
+				"text": "love ",
+				"start": 0.58,
+				"end": 0.94,
+				"index": 70
+			},
+			{
+				"text": "for ",
+				"start": 0.94,
+				"end": 1.18,
+				"index": 71
+			},
+			{
+				"text": "the ",
+				"start": 1.18,
+				"end": 1.34,
+				"index": 72
+			},
+			{
+				"text": "gold",
+				"start": 1.34,
+				"end": 1.52,
+				"index": 73
+			}
+		],
+		"start": 39.76,
+		"end": 41.28
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.42,
+				"index": 74
+			},
+			{
+				"text": "don't ",
+				"start": 0.42,
+				"end": 0.56,
+				"index": 75
+			},
+			{
+				"text": "need ",
+				"start": 0.56,
+				"end": 0.7,
+				"index": 76
+			},
+			{
+				"text": "no ",
+				"start": 0.7,
+				"end": 0.86,
+				"index": 77
+			},
+			{
+				"text": "extra",
+				"start": 0.86,
+				"end": 1.24,
+				"index": 78
+			}
+		],
+		"start": 41.28,
+		"end": 42.52
+	},
+	{
+		"words": [
+			{
+				"text": "Search ",
+				"start": 0,
+				"end": 0.36,
+				"index": 79
+			},
+			{
+				"text": "this ",
+				"start": 0.36,
+				"end": 0.52,
+				"index": 80
+			},
+			{
+				"text": "world",
+				"start": 0.52,
+				"end": 0.84,
+				"index": 81
+			}
+		],
+		"start": 42.52,
+		"end": 43.36
+	},
+	{
+		"words": [
+			{
+				"text": "They ",
+				"start": 0,
+				"end": 0.18,
+				"index": 82
+			},
+			{
+				"text": "know ",
+				"start": 0.18,
+				"end": 0.4,
+				"index": 83
+			},
+			{
+				"text": "I'm ",
+				"start": 0.4,
+				"end": 0.66,
+				"index": 84
+			},
+			{
+				"text": "better, ",
+				"start": 0.66,
+				"end": 0.96,
+				"index": 85
+			},
+			{
+				"text": "cause ",
+				"start": 1.08,
+				"end": 1.28,
+				"index": 86
+			},
+			{
+				"text": "that's",
+				"start": 1.28,
+				"end": 1.62,
+				"index": 87
+			}
+		],
+		"start": 43.36,
+		"end": 44.98
+	},
+	{
+		"words": [
+			{
+				"text": "That's ",
+				"start": 0,
+				"end": 0.48,
+				"index": 88
+			},
+			{
+				"text": "LeBron, ",
+				"start": 0.48,
+				"end": 0.96,
+				"index": 89
+			},
+			{
+				"text": "LeBron, ",
+				"start": 1.06,
+				"end": 1.86,
+				"index": 90
+			},
+			{
+				"text": "LeBron ",
+				"start": 1.86,
+				"end": 2.74,
+				"index": 91
+			},
+			{
+				"text": "James",
+				"start": 2.74,
+				"end": 3.26,
+				"index": 92
+			}
+		],
+		"start": 45.88,
+		"end": 49.14
+	},
+	{
+		"words": [
+			{
+				"text": "That's ",
+				"start": 0,
+				"end": 0.82,
+				"index": 93
+			},
+			{
+				"text": "him, ",
+				"start": 0.82,
+				"end": 1,
+				"index": 94
+			},
+			{
+				"text": "who ",
+				"start": 1.12,
+				"end": 1.5,
+				"index": 95
+			},
+			{
+				"text": "wouldn't ",
+				"start": 1.5,
+				"end": 1.86,
+				"index": 96
+			},
+			{
+				"text": "be ",
+				"start": 1.86,
+				"end": 1.94,
+				"index": 97
+			},
+			{
+				"text": "as ",
+				"start": 1.94,
+				"end": 2.06,
+				"index": 98
+			},
+			{
+				"text": "bad ",
+				"start": 2.06,
+				"end": 2.24,
+				"index": 99
+			},
+			{
+				"text": "as ",
+				"start": 2.24,
+				"end": 2.48,
+				"index": 100
+			},
+			{
+				"text": "him",
+				"start": 2.48,
+				"end": 2.8,
+				"index": 101
+			}
+		],
+		"start": 49.14,
+		"end": 51.94
+	},
+	{
+		"words": [
+			{
+				"text": "Who ",
+				"start": 0,
+				"end": 0.48,
+				"index": 102
+			},
+			{
+				"text": "wouldn't ",
+				"start": 0.48,
+				"end": 0.86,
+				"index": 103
+			},
+			{
+				"text": "want ",
+				"start": 0.86,
+				"end": 0.96,
+				"index": 104
+			},
+			{
+				"text": "to ",
+				"start": 0.96,
+				"end": 1.04,
+				"index": 105
+			},
+			{
+				"text": "be ",
+				"start": 1.04,
+				"end": 1.16,
+				"index": 106
+			},
+			{
+				"text": "in ",
+				"start": 1.16,
+				"end": 1.28,
+				"index": 107
+			},
+			{
+				"text": "flume ",
+				"start": 1.28,
+				"end": 1.52,
+				"index": 108
+			},
+			{
+				"text": "and ",
+				"start": 1.52,
+				"end": 1.68,
+				"index": 109
+			},
+			{
+				"text": "take ",
+				"start": 1.68,
+				"end": 1.82,
+				"index": 110
+			},
+			{
+				"text": "over",
+				"start": 1.82,
+				"end": 2.18,
+				"index": 111
+			}
+		],
+		"start": 51.94,
+		"end": 54.12
+	},
+	{
+		"words": [
+			{
+				"text": "Perform ",
+				"start": 0,
+				"end": 0.42,
+				"index": 112
+			},
+			{
+				"text": "on ",
+				"start": 0.42,
+				"end": 0.54,
+				"index": 113
+			},
+			{
+				"text": "the ",
+				"start": 0.54,
+				"end": 0.64,
+				"index": 114
+			},
+			{
+				"text": "stage ",
+				"start": 0.64,
+				"end": 0.82,
+				"index": 115
+			},
+			{
+				"text": "like ",
+				"start": 0.82,
+				"end": 1.1,
+				"index": 116
+			},
+			{
+				"text": "him",
+				"start": 1.1,
+				"end": 1.34,
+				"index": 117
+			}
+		],
+		"start": 54.12,
+		"end": 55.46
+	},
+	{
+		"words": [
+			{
+				"text": "Gotta ",
+				"start": 0,
+				"end": 0.36,
+				"index": 118
+			},
+			{
+				"text": "stay ",
+				"start": 0.36,
+				"end": 0.56,
+				"index": 119
+			},
+			{
+				"text": "focused, ",
+				"start": 0.56,
+				"end": 1,
+				"index": 120
+			},
+			{
+				"text": "can't ",
+				"start": 1.08,
+				"end": 1.36,
+				"index": 121
+			},
+			{
+				"text": "lose ",
+				"start": 1.36,
+				"end": 1.5,
+				"index": 122
+			},
+			{
+				"text": "it",
+				"start": 1.5,
+				"end": 1.78,
+				"index": 123
+			}
+		],
+		"start": 55.46,
+		"end": 57.24
+	},
+	{
+		"words": [
+			{
+				"text": "Cause ",
+				"start": 0,
+				"end": 0.18,
+				"index": 124
+			},
+			{
+				"text": "I ",
+				"start": 0.18,
+				"end": 0.38,
+				"index": 125
+			},
+			{
+				"text": "gotta ",
+				"start": 0.38,
+				"end": 0.62,
+				"index": 126
+			},
+			{
+				"text": "be ",
+				"start": 0.62,
+				"end": 0.8,
+				"index": 127
+			},
+			{
+				"text": "in ",
+				"start": 0.8,
+				"end": 1,
+				"index": 128
+			},
+			{
+				"text": "a ",
+				"start": 1,
+				"end": 1.08,
+				"index": 129
+			},
+			{
+				"text": "place ",
+				"start": 1.08,
+				"end": 1.32,
+				"index": 130
+			},
+			{
+				"text": "like ",
+				"start": 1.32,
+				"end": 1.56,
+				"index": 131
+			},
+			{
+				"text": "him, ",
+				"start": 1.56,
+				"end": 1.76,
+				"index": 132
+			},
+			{
+				"text": "I ",
+				"start": 1.82,
+				"end": 1.96,
+				"index": 133
+			},
+			{
+				"text": "swear",
+				"start": 1.96,
+				"end": 2.2,
+				"index": 134
+			}
+		],
+		"start": 57.24,
+		"end": 59.44
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron, ",
+				"start": 0,
+				"end": 0.48,
+				"index": 135
+			},
+			{
+				"text": "LeBron, ",
+				"start": 0.48,
+				"end": 0.96,
+				"index": 136
+			},
+			{
+				"text": "LeBron ",
+				"start": 0.96,
+				"end": 1.8,
+				"index": 137
+			},
+			{
+				"text": "James",
+				"start": 1.8,
+				"end": 2.34,
+				"index": 138
+			}
+		],
+		"start": 61.12,
+		"end": 63.46
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron, ",
+				"start": 0,
+				"end": 0.48,
+				"index": 139
+			},
+			{
+				"text": "LeBron, ",
+				"start": 0.48,
+				"end": 0.96,
+				"index": 140
+			},
+			{
+				"text": "LeBron ",
+				"start": 0.96,
+				"end": 1.7,
+				"index": 141
+			},
+			{
+				"text": "James",
+				"start": 1.7,
+				"end": 2.4,
+				"index": 142
+			}
+		],
+		"start": 64.76,
+		"end": 67.16
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron, ",
+				"start": 0,
+				"end": 0.48,
+				"index": 143
+			},
+			{
+				"text": "LeBron, ",
+				"start": 0.48,
+				"end": 0.96,
+				"index": 144
+			},
+			{
+				"text": "LeBron ",
+				"start": 0.98,
+				"end": 1.68,
+				"index": 145
+			},
+			{
+				"text": "James",
+				"start": 1.68,
+				"end": 2.28,
+				"index": 146
+			}
+		],
+		"start": 68.34,
+		"end": 70.62
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron",
+				"start": 0,
+				"end": 1.02,
+				"index": 147
+			}
+		],
+		"start": 70.62,
+		"end": 71.64
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron, LeBron James",
+				"start": 0,
+				"end": 72.72,
+				"index": 148
+			}
+		],
+		"start": 72.72,
+		"end": 145.44
 	},
 	{
 		"words": [
@@ -23,256 +1163,40 @@
 				"text": "LeBron, ",
 				"start": 0,
 				"end": 1.4,
-				"index": 2
+				"index": 149
 			},
 			{
 				"text": "LeBron, ",
 				"start": 1.4,
-				"end": 2.8,
-				"index": 3
+				"end": 2.34,
+				"index": 150
 			},
 			{
 				"text": "LeBron ",
-				"start": 2.8,
-				"end": 3.94,
-				"index": 4
+				"start": 2.34,
+				"end": 5.6,
+				"index": 151
 			},
 			{
 				"text": "James",
-				"start": 3.94,
-				"end": 4.44,
-				"index": 5
+				"start": 5.6,
+				"end": 7.02,
+				"index": 152
 			}
 		],
-		"start": 16.18,
-		"end": 20.62
+		"start": 74.2,
+		"end": 81.22
 	},
 	{
 		"words": [
 			{
-				"text": "LeBron",
+				"text": "Thank you",
 				"start": 0,
-				"end": 0.74,
-				"index": 6
+				"end": 1.4,
+				"index": 153
 			}
 		],
-		"start": 47.82,
-		"end": 48.56
-	},
-	{
-		"words": [
-			{
-				"text": "LeBron, LeBron James LeBron, LeBron, ",
-				"start": 0,
-				"end": 50.16,
-				"index": 7
-			},
-			{
-				"text": "LeBron ",
-				"start": 0.36,
-				"end": 0.78,
-				"index": 8
-			},
-			{
-				"text": "James",
-				"start": 0.78,
-				"end": 0.78,
-				"index": 9
-			}
-		],
-		"start": 49.82,
-		"end": 99.98
-	},
-	{
-		"words": [
-			{
-				"text": "LeBron",
-				"start": 0,
-				"end": 1.26,
-				"index": 10
-			}
-		],
-		"start": 56.6,
-		"end": 57.86
-	},
-	{
-		"words": [
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0.46,
-				"index": 11
-			},
-			{
-				"text": "LeBron ",
-				"start": 0.84,
-				"end": 1.3,
-				"index": 12
-			},
-			{
-				"text": "James ",
-				"start": 1.3,
-				"end": 2.08,
-				"index": 13
-			},
-			{
-				"text": "LeBron, ",
-				"start": 2.08,
-				"end": 3.08,
-				"index": 14
-			},
-			{
-				"text": "LeBron, ",
-				"start": 3.32,
-				"end": 4.1,
-				"index": 15
-			},
-			{
-				"text": "LeBron ",
-				"start": 4.3,
-				"end": 4.84,
-				"index": 16
-			},
-			{
-				"text": "James",
-				"start": 4.84,
-				"end": 5.72,
-				"index": 17
-			}
-		],
-		"start": 61.82,
-		"end": 67.54
-	},
-	{
-		"words": [
-			{
-				"text": "LeBron",
-				"start": 0,
-				"end": 0.88,
-				"index": 18
-			}
-		],
-		"start": 67.54,
-		"end": 68.42
-	},
-	{
-		"words": [
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0.36,
-				"index": 19
-			},
-			{
-				"text": "LeBron ",
-				"start": 0.56,
-				"end": 0.96,
-				"index": 20
-			},
-			{
-				"text": "James ",
-				"start": 0.96,
-				"end": 1.88,
-				"index": 21
-			},
-			{
-				"text": "LeBron",
-				"start": 1.88,
-				"end": 2.66,
-				"index": 22
-			}
-		],
-		"start": 69.1,
-		"end": 71.76
-	},
-	{
-		"words": [
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 1.24,
-				"index": 23
-			},
-			{
-				"text": "LeBron ",
-				"start": 1.54,
-				"end": 2.08,
-				"index": 24
-			},
-			{
-				"text": "James",
-				"start": 2.08,
-				"end": 5.32,
-				"index": 25
-			}
-		],
-		"start": 75.28,
-		"end": 80.6
-	},
-	{
-		"words": [
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 2.24,
-				"index": 26
-			},
-			{
-				"text": "LeBron",
-				"start": 2.24,
-				"end": 2.92,
-				"index": 27
-			}
-		],
-		"start": 80.6,
-		"end": 83.52
-	},
-	{
-		"words": [
-			{
-				"text": "LeBron ",
-				"start": 0,
-				"end": 0.44,
-				"index": 28
-			},
-			{
-				"text": "James ",
-				"start": 0.44,
-				"end": 0.9,
-				"index": 29
-			},
-			{
-				"text": "LeBron",
-				"start": 0.9,
-				"end": 1.24,
-				"index": 30
-			}
-		],
-		"start": 84.16,
-		"end": 85.4
-	},
-	{
-		"words": [
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0,
-				"index": 31
-			},
-			{
-				"text": "LeBron ",
-				"start": 0.2,
-				"end": 4.22,
-				"index": 32
-			},
-			{
-				"text": "James",
-				"start": 4.22,
-				"end": 10.82,
-				"index": 33
-			}
-		],
-		"start": 90.4,
-		"end": 101.22
+		"start": 100.98,
+		"end": 102.38
 	}
 ]

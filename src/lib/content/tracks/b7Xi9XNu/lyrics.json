@@ -4,726 +4,84 @@
 			{
 				"text": "Yeah, ",
 				"start": 0,
-				"end": 0.64,
+				"end": 0.72,
 				"index": 0
 			},
 			{
 				"text": "I ",
-				"start": 0.92,
-				"end": 1.3,
+				"start": 0.88,
+				"end": 1.48,
 				"index": 1
 			},
 			{
 				"text": "had ",
-				"start": 1.3,
-				"end": 1.46,
+				"start": 1.48,
+				"end": 1.72,
 				"index": 2
 			},
 			{
 				"text": "a ",
-				"start": 1.46,
-				"end": 1.64,
+				"start": 1.72,
+				"end": 1.82,
 				"index": 3
 			},
 			{
 				"text": "dream ",
-				"start": 1.64,
-				"end": 1.84,
+				"start": 1.82,
+				"end": 2.04,
 				"index": 4
 			},
 			{
 				"text": "last ",
-				"start": 1.84,
-				"end": 2.14,
+				"start": 2.04,
+				"end": 2.32,
 				"index": 5
 			},
 			{
 				"text": "night, ",
-				"start": 2.14,
-				"end": 2.56,
+				"start": 2.32,
+				"end": 2.72,
 				"index": 6
 			},
 			{
 				"text": "and ",
-				"start": 2.56,
-				"end": 3.38,
+				"start": 2.82,
+				"end": 3.58,
 				"index": 7
 			},
 			{
 				"text": "you ",
-				"start": 3.38,
-				"end": 3.5,
+				"start": 3.58,
+				"end": 3.7,
 				"index": 8
 			},
 			{
 				"text": "know ",
-				"start": 3.5,
-				"end": 3.64,
+				"start": 3.7,
+				"end": 3.88,
 				"index": 9
 			},
 			{
 				"text": "what ",
-				"start": 3.64,
-				"end": 3.76,
+				"start": 3.88,
+				"end": 4,
 				"index": 10
 			},
 			{
 				"text": "I ",
-				"start": 3.76,
-				"end": 3.92,
+				"start": 4,
+				"end": 4.1,
 				"index": 11
 			},
 			{
 				"text": "seen?",
-				"start": 3.92,
-				"end": 4.24,
+				"start": 4.1,
+				"end": 4.38,
 				"index": 12
 			}
 		],
-		"start": 2.28,
-		"end": 6.52
-	},
-	{
-		"words": [
-			{
-				"text": "There's ",
-				"start": 0,
-				"end": 0.32,
-				"index": 13
-			},
-			{
-				"text": "a ",
-				"start": 0.32,
-				"end": 0.6,
-				"index": 14
-			},
-			{
-				"text": "king ",
-				"start": 0.6,
-				"end": 0.92,
-				"index": 15
-			},
-			{
-				"text": "inside ",
-				"start": 0.92,
-				"end": 1.98,
-				"index": 16
-			},
-			{
-				"text": "my ",
-				"start": 1.98,
-				"end": 2.64,
-				"index": 17
-			},
-			{
-				"text": "bedroom, ",
-				"start": 2.64,
-				"end": 3.8,
-				"index": 18
-			},
-			{
-				"text": "and ",
-				"start": 8.76,
-				"end": 9.02,
-				"index": 19
-			},
-			{
-				"text": "we ",
-				"start": 9.02,
-				"end": 9.48,
-				"index": 20
-			},
-			{
-				"text": "all ",
-				"start": 9.48,
-				"end": 10.12,
-				"index": 21
-			},
-			{
-				"text": "know ",
-				"start": 10.12,
-				"end": 10.62,
-				"index": 22
-			},
-			{
-				"text": "his ",
-				"start": 10.62,
-				"end": 11.32,
-				"index": 23
-			},
-			{
-				"text": "name",
-				"start": 11.32,
-				"end": 12.84,
-				"index": 24
-			}
-		],
-		"start": 6.66,
-		"end": 19.5
-	},
-	{
-		"words": [
-			{
-				"text": "It's ",
-				"start": 0,
-				"end": 1.16,
-				"index": 25
-			},
-			{
-				"text": "the ",
-				"start": 1.16,
-				"end": 1.38,
-				"index": 26
-			},
-			{
-				"text": "king ",
-				"start": 1.38,
-				"end": 1.96,
-				"index": 27
-			},
-			{
-				"text": "we ",
-				"start": 1.96,
-				"end": 2.52,
-				"index": 28
-			},
-			{
-				"text": "all ",
-				"start": 2.52,
-				"end": 3,
-				"index": 29
-			},
-			{
-				"text": "glaze ",
-				"start": 3,
-				"end": 3.6,
-				"index": 30
-			},
-			{
-				"text": "LeBron",
-				"start": 3.6,
-				"end": 4.46,
-				"index": 31
-			}
-		],
-		"start": 22.94,
-		"end": 27.4
-	},
-	{
-		"words": [
-			{
-				"text": "So ",
-				"start": 0,
-				"end": 0.58,
-				"index": 32
-			},
-			{
-				"text": "please ",
-				"start": 0.58,
-				"end": 1.24,
-				"index": 33
-			},
-			{
-				"text": "don't ",
-				"start": 1.24,
-				"end": 1.82,
-				"index": 34
-			},
-			{
-				"text": "quit ",
-				"start": 1.82,
-				"end": 2.32,
-				"index": 35
-			},
-			{
-				"text": "the ",
-				"start": 2.32,
-				"end": 3.02,
-				"index": 36
-			},
-			{
-				"text": "game",
-				"start": 3.02,
-				"end": 4.14,
-				"index": 37
-			}
-		],
-		"start": 32.18,
-		"end": 36.32
-	},
-	{
-		"words": [
-			{
-				"text": "There's ",
-				"start": 0,
-				"end": 0.36,
-				"index": 38
-			},
-			{
-				"text": "a ",
-				"start": 0.36,
-				"end": 0.54,
-				"index": 39
-			},
-			{
-				"text": "king ",
-				"start": 0.54,
-				"end": 0.82,
-				"index": 40
-			},
-			{
-				"text": "inside, ",
-				"start": 0.82,
-				"end": 1.56,
-				"index": 41
-			},
-			{
-				"text": "there's ",
-				"start": 2.24,
-				"end": 2.5,
-				"index": 42
-			},
-			{
-				"text": "a ",
-				"start": 2.5,
-				"end": 2.7,
-				"index": 43
-			},
-			{
-				"text": "king ",
-				"start": 2.7,
-				"end": 2.98,
-				"index": 44
-			},
-			{
-				"text": "inside ",
-				"start": 2.98,
-				"end": 3.48,
-				"index": 45
-			},
-			{
-				"text": "my ",
-				"start": 3.48,
-				"end": 3.8,
-				"index": 46
-			},
-			{
-				"text": "bedroom",
-				"start": 3.8,
-				"end": 4.4,
-				"index": 47
-			}
-		],
-		"start": 38.78,
-		"end": 43.18
-	},
-	{
-		"words": [
-			{
-				"text": "Looking ",
-				"start": 0,
-				"end": 0.76,
-				"index": 48
-			},
-			{
-				"text": "at ",
-				"start": 0.76,
-				"end": 1.2,
-				"index": 49
-			},
-			{
-				"text": "my ",
-				"start": 1.2,
-				"end": 1.44,
-				"index": 50
-			},
-			{
-				"text": "TV ",
-				"start": 1.44,
-				"end": 1.86,
-				"index": 51
-			},
-			{
-				"text": "and ",
-				"start": 1.86,
-				"end": 2.34,
-				"index": 52
-			},
-			{
-				"text": "I ",
-				"start": 2.34,
-				"end": 2.52,
-				"index": 53
-			},
-			{
-				"text": "see ",
-				"start": 2.52,
-				"end": 2.82,
-				"index": 54
-			},
-			{
-				"text": "it's ",
-				"start": 2.82,
-				"end": 3.22,
-				"index": 55
-			},
-			{
-				"text": "almost ",
-				"start": 3.22,
-				"end": 3.58,
-				"index": 56
-			},
-			{
-				"text": "time",
-				"start": 3.58,
-				"end": 5.68,
-				"index": 57
-			}
-		],
-		"start": 44.32,
-		"end": 50
-	},
-	{
-		"words": [
-			{
-				"text": "Oh ",
-				"start": 0,
-				"end": 0.2,
-				"index": 58
-			},
-			{
-				"text": "yeah, ",
-				"start": 0.2,
-				"end": 0.6,
-				"index": 59
-			},
-			{
-				"text": "oh ",
-				"start": 1.12,
-				"end": 1.36,
-				"index": 60
-			},
-			{
-				"text": "yeah",
-				"start": 1.36,
-				"end": 1.86,
-				"index": 61
-			}
-		],
-		"start": 50.4,
-		"end": 52.26
-	},
-	{
-		"words": [
-			{
-				"text": "I ",
-				"start": 0,
-				"end": 0.1,
-				"index": 62
-			},
-			{
-				"text": "hope ",
-				"start": 0.1,
-				"end": 0.38,
-				"index": 63
-			},
-			{
-				"text": "you're ",
-				"start": 0.38,
-				"end": 0.78,
-				"index": 64
-			},
-			{
-				"text": "playing ",
-				"start": 0.78,
-				"end": 1.04,
-				"index": 65
-			},
-			{
-				"text": "tonight, ",
-				"start": 1.04,
-				"end": 1.64,
-				"index": 66
-			},
-			{
-				"text": "king",
-				"start": 1.8,
-				"end": 2.06,
-				"index": 67
-			}
-		],
-		"start": 53.14,
-		"end": 55.2
-	},
-	{
-		"words": [
-			{
-				"text": "I ",
-				"start": 0,
-				"end": 0.1,
-				"index": 68
-			},
-			{
-				"text": "brought ",
-				"start": 0.1,
-				"end": 0.4,
-				"index": 69
-			},
-			{
-				"text": "LeBron ",
-				"start": 0.4,
-				"end": 0.92,
-				"index": 70
-			},
-			{
-				"text": "Naseem",
-				"start": 0.92,
-				"end": 1.94,
-				"index": 71
-			}
-		],
-		"start": 55.34,
-		"end": 57.28
-	},
-	{
-		"words": [
-			{
-				"text": "How ",
-				"start": 0,
-				"end": 0.76,
-				"index": 72
-			},
-			{
-				"text": "long ",
-				"start": 0.76,
-				"end": 1.26,
-				"index": 73
-			},
-			{
-				"text": "is ",
-				"start": 1.26,
-				"end": 1.56,
-				"index": 74
-			},
-			{
-				"text": "it ",
-				"start": 1.56,
-				"end": 1.8,
-				"index": 75
-			},
-			{
-				"text": "down ",
-				"start": 1.8,
-				"end": 2.08,
-				"index": 76
-			},
-			{
-				"text": "there?",
-				"start": 2.08,
-				"end": 2.7,
-				"index": 77
-			}
-		],
-		"start": 58.22,
-		"end": 60.92
-	},
-	{
-		"words": [
-			{
-				"text": "Tonight ",
-				"start": 0,
-				"end": 0.44,
-				"index": 78
-			},
-			{
-				"text": "you're ",
-				"start": 0.44,
-				"end": 0.86,
-				"index": 79
-			},
-			{
-				"text": "looking ",
-				"start": 0.86,
-				"end": 1.14,
-				"index": 80
-			},
-			{
-				"text": "just ",
-				"start": 1.14,
-				"end": 1.52,
-				"index": 81
-			},
-			{
-				"text": "so ",
-				"start": 1.52,
-				"end": 1.78,
-				"index": 82
-			},
-			{
-				"text": "spry",
-				"start": 1.78,
-				"end": 2.26,
-				"index": 83
-			}
-		],
-		"start": 61.06,
-		"end": 63.32
-	},
-	{
-		"words": [
-			{
-				"text": "You ",
-				"start": 0,
-				"end": 0.02,
-				"index": 84
-			},
-			{
-				"text": "gotta ",
-				"start": 0.02,
-				"end": 0.2,
-				"index": 85
-			},
-			{
-				"text": "say ",
-				"start": 0.2,
-				"end": 0.58,
-				"index": 86
-			},
-			{
-				"text": "Lakers ",
-				"start": 0.58,
-				"end": 1.24,
-				"index": 87
-			},
-			{
-				"text": "in ",
-				"start": 1.24,
-				"end": 1.44,
-				"index": 88
-			},
-			{
-				"text": "five",
-				"start": 1.44,
-				"end": 2.62,
-				"index": 89
-			}
-		],
-		"start": 63.68,
-		"end": 66.3
-	},
-	{
-		"words": [
-			{
-				"text": "I ",
-				"start": 0,
-				"end": 1.04,
-				"index": 90
-			},
-			{
-				"text": "like ",
-				"start": 1.04,
-				"end": 1.98,
-				"index": 91
-			},
-			{
-				"text": "watching ",
-				"start": 1.98,
-				"end": 2.48,
-				"index": 92
-			},
-			{
-				"text": "you ",
-				"start": 2.48,
-				"end": 2.8,
-				"index": 93
-			},
-			{
-				"text": "throw ",
-				"start": 2.8,
-				"end": 3.06,
-				"index": 94
-			},
-			{
-				"text": "down",
-				"start": 3.06,
-				"end": 3.58,
-				"index": 95
-			}
-		],
-		"start": 68.36,
-		"end": 71.94
-	},
-	{
-		"words": [
-			{
-				"text": "You ",
-				"start": 0,
-				"end": 0.08,
-				"index": 96
-			},
-			{
-				"text": "deserve ",
-				"start": 0.08,
-				"end": 0.72,
-				"index": 97
-			},
-			{
-				"text": "every ",
-				"start": 0.72,
-				"end": 1.34,
-				"index": 98
-			},
-			{
-				"text": "crown",
-				"start": 1.34,
-				"end": 2.64,
-				"index": 99
-			}
-		],
-		"start": 72.24,
-		"end": 74.88
-	},
-	{
-		"words": [
-			{
-				"text": "So ",
-				"start": 0,
-				"end": 0.16,
-				"index": 100
-			},
-			{
-				"text": "be ",
-				"start": 0.16,
-				"end": 0.62,
-				"index": 101
-			},
-			{
-				"text": "there ",
-				"start": 0.62,
-				"end": 1.06,
-				"index": 102
-			},
-			{
-				"text": "or ",
-				"start": 1.06,
-				"end": 1.3,
-				"index": 103
-			},
-			{
-				"text": "be ",
-				"start": 1.3,
-				"end": 1.64,
-				"index": 104
-			},
-			{
-				"text": "square",
-				"start": 1.64,
-				"end": 2.78,
-				"index": 105
-			}
-		],
-		"start": 75.6,
-		"end": 78.38
+		"start": 1.96,
+		"end": 6.34
 	},
 	{
 		"words": [
@@ -731,232 +89,892 @@
 				"text": "There's ",
 				"start": 0,
 				"end": 0.34,
-				"index": 106
+				"index": 13
 			},
 			{
 				"text": "a ",
 				"start": 0.34,
-				"end": 0.58,
-				"index": 107
+				"end": 0.4,
+				"index": 14
 			},
 			{
 				"text": "king ",
-				"start": 0.58,
-				"end": 0.9,
-				"index": 108
+				"start": 0.4,
+				"end": 0.78,
+				"index": 15
 			},
 			{
 				"text": "inside ",
-				"start": 0.9,
-				"end": 1.96,
-				"index": 109
+				"start": 0.78,
+				"end": 1.72,
+				"index": 16
 			},
 			{
 				"text": "my ",
-				"start": 1.96,
-				"end": 2.68,
-				"index": 110
+				"start": 1.72,
+				"end": 2.36,
+				"index": 17
 			},
 			{
-				"text": "bedroom, ",
-				"start": 2.68,
-				"end": 3.54,
-				"index": 111
-			},
+				"text": "bedroom",
+				"start": 2.36,
+				"end": 3.28,
+				"index": 18
+			}
+		],
+		"start": 6.5,
+		"end": 9.78
+	},
+	{
+		"words": [
 			{
-				"text": "and ",
-				"start": 8.78,
-				"end": 9.02,
-				"index": 112
+				"text": "And ",
+				"start": 0,
+				"end": 0.72,
+				"index": 19
 			},
 			{
 				"text": "we ",
-				"start": 9.02,
-				"end": 9.44,
-				"index": 113
+				"start": 0.72,
+				"end": 1.44,
+				"index": 20
 			},
 			{
 				"text": "all ",
-				"start": 9.44,
-				"end": 10.14,
-				"index": 114
+				"start": 1.44,
+				"end": 1.96,
+				"index": 21
 			},
 			{
 				"text": "know ",
-				"start": 10.14,
-				"end": 10.6,
-				"index": 115
+				"start": 1.96,
+				"end": 2.58,
+				"index": 22
 			},
 			{
 				"text": "his ",
-				"start": 10.6,
-				"end": 11.3,
-				"index": 116
+				"start": 2.58,
+				"end": 3.18,
+				"index": 23
 			},
 			{
 				"text": "name",
-				"start": 11.3,
-				"end": 12.4,
-				"index": 117
+				"start": 3.18,
+				"end": 4.08,
+				"index": 24
 			}
 		],
-		"start": 79.56,
-		"end": 91.96
+		"start": 14.36,
+		"end": 18.44
 	},
 	{
 		"words": [
 			{
 				"text": "It's ",
 				"start": 0,
-				"end": 1.08,
-				"index": 118
+				"end": 1.04,
+				"index": 25
 			},
 			{
 				"text": "the ",
-				"start": 1.08,
-				"end": 1.28,
-				"index": 119
+				"start": 1.04,
+				"end": 1.12,
+				"index": 26
 			},
 			{
 				"text": "king ",
-				"start": 1.28,
-				"end": 1.82,
-				"index": 120
+				"start": 1.12,
+				"end": 1.54,
+				"index": 27
 			},
 			{
 				"text": "we ",
-				"start": 1.82,
-				"end": 2.38,
-				"index": 121
+				"start": 1.54,
+				"end": 2.04,
+				"index": 28
 			},
 			{
 				"text": "all ",
-				"start": 2.38,
-				"end": 2.92,
-				"index": 122
+				"start": 2.04,
+				"end": 2.66,
+				"index": 29
 			},
 			{
-				"text": "glaze ",
-				"start": 2.92,
-				"end": 3.48,
-				"index": 123
+				"text": "praise, ",
+				"start": 2.66,
+				"end": 3.38,
+				"index": 30
 			},
 			{
 				"text": "LeBron",
-				"start": 3.48,
-				"end": 4.26,
-				"index": 124
+				"start": 3.54,
+				"end": 4.06,
+				"index": 31
 			}
 		],
-		"start": 95.92,
-		"end": 100.18
+		"start": 22.94,
+		"end": 27
 	},
 	{
 		"words": [
 			{
 				"text": "So ",
 				"start": 0,
-				"end": 0.2,
-				"index": 125
+				"end": 1.04,
+				"index": 32
 			},
 			{
 				"text": "please ",
-				"start": 0.2,
-				"end": 0.8,
-				"index": 126
+				"start": 1.04,
+				"end": 2,
+				"index": 33
 			},
 			{
 				"text": "don't ",
-				"start": 0.8,
-				"end": 1.42,
-				"index": 127
+				"start": 2,
+				"end": 2.84,
+				"index": 34
 			},
 			{
 				"text": "quit ",
-				"start": 1.42,
-				"end": 1.94,
-				"index": 128
+				"start": 2.84,
+				"end": 2.98,
+				"index": 35
 			},
 			{
 				"text": "the ",
-				"start": 1.94,
-				"end": 2.64,
-				"index": 129
+				"start": 2.98,
+				"end": 3.52,
+				"index": 36
 			},
 			{
 				"text": "game",
-				"start": 2.64,
-				"end": 3.76,
-				"index": 130
+				"start": 3.52,
+				"end": 4.1,
+				"index": 37
 			}
 		],
-		"start": 105.46,
-		"end": 109.22
+		"start": 31.08,
+		"end": 35.18
 	},
 	{
 		"words": [
 			{
 				"text": "There's ",
 				"start": 0,
-				"end": 0.44,
-				"index": 131
+				"end": 1.04,
+				"index": 38
 			},
 			{
 				"text": "a ",
-				"start": 0.44,
-				"end": 0.64,
-				"index": 132
+				"start": 1.04,
+				"end": 1.1,
+				"index": 39
 			},
 			{
 				"text": "king ",
-				"start": 0.64,
-				"end": 0.88,
-				"index": 133
+				"start": 1.1,
+				"end": 1.4,
+				"index": 40
 			},
 			{
 				"text": "inside, ",
-				"start": 0.88,
-				"end": 1.62,
-				"index": 134
+				"start": 1.4,
+				"end": 1.92,
+				"index": 41
 			},
 			{
 				"text": "there's ",
-				"start": 2.04,
-				"end": 2.58,
-				"index": 135
+				"start": 2.38,
+				"end": 3.18,
+				"index": 42
 			},
 			{
 				"text": "a ",
-				"start": 2.58,
-				"end": 2.78,
-				"index": 136
+				"start": 3.18,
+				"end": 3.26,
+				"index": 43
 			},
 			{
 				"text": "king ",
-				"start": 2.78,
-				"end": 3.04,
-				"index": 137
+				"start": 3.26,
+				"end": 3.62,
+				"index": 44
 			},
 			{
 				"text": "inside ",
-				"start": 3.04,
-				"end": 3.56,
-				"index": 138
+				"start": 3.62,
+				"end": 4.1,
+				"index": 45
 			},
 			{
 				"text": "my ",
-				"start": 3.56,
-				"end": 3.84,
-				"index": 139
+				"start": 4.1,
+				"end": 4.42,
+				"index": 46
 			},
 			{
 				"text": "bedroom",
-				"start": 3.84,
-				"end": 4.44,
-				"index": 140
+				"start": 4.42,
+				"end": 5.02,
+				"index": 47
 			}
 		],
-		"start": 111.6,
-		"end": 116.04
+		"start": 37.96,
+		"end": 42.98
+	},
+	{
+		"words": [
+			{
+				"text": "I'm lookin' ",
+				"start": 0,
+				"end": 0.72,
+				"index": 48
+			},
+			{
+				"text": "at ",
+				"start": 1.04,
+				"end": 1.3,
+				"index": 49
+			},
+			{
+				"text": "my ",
+				"start": 1.3,
+				"end": 1.56,
+				"index": 50
+			},
+			{
+				"text": "TV ",
+				"start": 1.56,
+				"end": 1.96,
+				"index": 51
+			},
+			{
+				"text": "and ",
+				"start": 1.96,
+				"end": 2.4,
+				"index": 52
+			},
+			{
+				"text": "I ",
+				"start": 2.4,
+				"end": 2.64,
+				"index": 53
+			},
+			{
+				"text": "see ",
+				"start": 2.64,
+				"end": 2.92,
+				"index": 54
+			},
+			{
+				"text": "it's ",
+				"start": 2.92,
+				"end": 3.3,
+				"index": 55
+			},
+			{
+				"text": "almost ",
+				"start": 3.3,
+				"end": 3.7,
+				"index": 56
+			},
+			{
+				"text": "time",
+				"start": 3.7,
+				"end": 4.4,
+				"index": 57
+			}
+		],
+		"start": 44.04,
+		"end": 48.44
+	},
+	{
+		"words": [
+			{
+				"text": "Oh ",
+				"start": 0,
+				"end": 0.72,
+				"index": 58
+			},
+			{
+				"text": "yeah, ",
+				"start": 0.72,
+				"end": 1.12,
+				"index": 59
+			},
+			{
+				"text": "oh ",
+				"start": 1.42,
+				"end": 1.92,
+				"index": 60
+			},
+			{
+				"text": "yeah",
+				"start": 1.92,
+				"end": 2.28,
+				"index": 61
+			}
+		],
+		"start": 49.62,
+		"end": 51.9
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 1.12,
+				"index": 62
+			},
+			{
+				"text": "hope ",
+				"start": 1.12,
+				"end": 1.48,
+				"index": 63
+			},
+			{
+				"text": "you're ",
+				"start": 1.48,
+				"end": 1.74,
+				"index": 64
+			},
+			{
+				"text": "playin' ",
+				"start": 1.74,
+				"end": 2.32,
+				"index": 65
+			},
+			{
+				"text": "tonight, ",
+				"start": 2.32,
+				"end": 2.72,
+				"index": 66
+			},
+			{
+				"text": "king, ",
+				"start": 2.82,
+				"end": 3.04,
+				"index": 67
+			},
+			{
+				"text": "I ",
+				"start": 3.18,
+				"end": 3.42,
+				"index": 68
+			},
+			{
+				"text": "brought ",
+				"start": 3.42,
+				"end": 3.6,
+				"index": 69
+			},
+			{
+				"text": "LeBron ",
+				"start": 3.6,
+				"end": 4.12,
+				"index": 70
+			},
+			{
+				"text": "to ",
+				"start": 4.12,
+				"end": 4.44,
+				"index": 71
+			},
+			{
+				"text": "see",
+				"start": 4.44,
+				"end": 5,
+				"index": 72
+			}
+		],
+		"start": 51.9,
+		"end": 56.9
+	},
+	{
+		"words": [
+			{
+				"text": "How ",
+				"start": 0,
+				"end": 0.72,
+				"index": 73
+			},
+			{
+				"text": "long ",
+				"start": 0.72,
+				"end": 1.24,
+				"index": 74
+			},
+			{
+				"text": "is ",
+				"start": 1.24,
+				"end": 1.74,
+				"index": 75
+			},
+			{
+				"text": "it ",
+				"start": 1.74,
+				"end": 1.98,
+				"index": 76
+			},
+			{
+				"text": "down ",
+				"start": 1.98,
+				"end": 2.32,
+				"index": 77
+			},
+			{
+				"text": "there?",
+				"start": 2.32,
+				"end": 2.6,
+				"index": 78
+			}
+		],
+		"start": 57.86,
+		"end": 60.46
+	},
+	{
+		"words": [
+			{
+				"text": "Tonight ",
+				"start": 0,
+				"end": 0.58,
+				"index": 79
+			},
+			{
+				"text": "you're ",
+				"start": 0.58,
+				"end": 0.96,
+				"index": 80
+			},
+			{
+				"text": "lookin' ",
+				"start": 0.96,
+				"end": 1.26,
+				"index": 81
+			},
+			{
+				"text": "just ",
+				"start": 1.52,
+				"end": 1.72,
+				"index": 82
+			},
+			{
+				"text": "so ",
+				"start": 1.72,
+				"end": 1.96,
+				"index": 83
+			},
+			{
+				"text": "spry",
+				"start": 1.96,
+				"end": 2.26,
+				"index": 84
+			}
+		],
+		"start": 60.72,
+		"end": 62.98
+	},
+	{
+		"words": [
+			{
+				"text": "Gotta ",
+				"start": 0,
+				"end": 0.72,
+				"index": 85
+			},
+			{
+				"text": "say ",
+				"start": 0.72,
+				"end": 1.08,
+				"index": 86
+			},
+			{
+				"text": "liquor's ",
+				"start": 1.08,
+				"end": 1.84,
+				"index": 87
+			},
+			{
+				"text": "in ",
+				"start": 1.84,
+				"end": 1.88,
+				"index": 88
+			},
+			{
+				"text": "fine",
+				"start": 1.88,
+				"end": 2.4,
+				"index": 89
+			}
+		],
+		"start": 62.98,
+		"end": 65.38
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.72,
+				"index": 90
+			},
+			{
+				"text": "like ",
+				"start": 0.72,
+				"end": 1.44,
+				"index": 91
+			},
+			{
+				"text": "watching ",
+				"start": 1.44,
+				"end": 1.84,
+				"index": 92
+			},
+			{
+				"text": "you ",
+				"start": 1.84,
+				"end": 2.18,
+				"index": 93
+			},
+			{
+				"text": "throw ",
+				"start": 2.18,
+				"end": 2.46,
+				"index": 94
+			},
+			{
+				"text": "down",
+				"start": 2.46,
+				"end": 2.8,
+				"index": 95
+			}
+		],
+		"start": 68.8,
+		"end": 71.6
+	},
+	{
+		"words": [
+			{
+				"text": "You ",
+				"start": 0,
+				"end": 0.56,
+				"index": 96
+			},
+			{
+				"text": "deserve ",
+				"start": 0.56,
+				"end": 1,
+				"index": 97
+			},
+			{
+				"text": "every ",
+				"start": 1,
+				"end": 1.78,
+				"index": 98
+			},
+			{
+				"text": "crown",
+				"start": 1.78,
+				"end": 2.28,
+				"index": 99
+			}
+		],
+		"start": 71.6,
+		"end": 73.88
+	},
+	{
+		"words": [
+			{
+				"text": "So ",
+				"start": 0,
+				"end": 0.92,
+				"index": 100
+			},
+			{
+				"text": "be ",
+				"start": 0.92,
+				"end": 1.3,
+				"index": 101
+			},
+			{
+				"text": "there ",
+				"start": 1.3,
+				"end": 1.76,
+				"index": 102
+			},
+			{
+				"text": "or ",
+				"start": 1.76,
+				"end": 2.1,
+				"index": 103
+			},
+			{
+				"text": "be ",
+				"start": 2.1,
+				"end": 2.36,
+				"index": 104
+			},
+			{
+				"text": "square",
+				"start": 2.36,
+				"end": 2.82,
+				"index": 105
+			}
+		],
+		"start": 74.6,
+		"end": 77.42
+	},
+	{
+		"words": [
+			{
+				"text": "There's ",
+				"start": 0,
+				"end": 1.12,
+				"index": 106
+			},
+			{
+				"text": "a ",
+				"start": 1.12,
+				"end": 1.18,
+				"index": 107
+			},
+			{
+				"text": "king ",
+				"start": 1.18,
+				"end": 1.54,
+				"index": 108
+			},
+			{
+				"text": "inside ",
+				"start": 1.54,
+				"end": 2.46,
+				"index": 109
+			},
+			{
+				"text": "my ",
+				"start": 2.46,
+				"end": 3.14,
+				"index": 110
+			},
+			{
+				"text": "bedroom",
+				"start": 3.14,
+				"end": 3.98,
+				"index": 111
+			}
+		],
+		"start": 78.6,
+		"end": 82.58
+	},
+	{
+		"words": [
+			{
+				"text": "And ",
+				"start": 0,
+				"end": 0.56,
+				"index": 112
+			},
+			{
+				"text": "we ",
+				"start": 0.56,
+				"end": 1.12,
+				"index": 113
+			},
+			{
+				"text": "all ",
+				"start": 1.12,
+				"end": 1.64,
+				"index": 114
+			},
+			{
+				"text": "know ",
+				"start": 1.64,
+				"end": 2.28,
+				"index": 115
+			},
+			{
+				"text": "his ",
+				"start": 2.28,
+				"end": 2.82,
+				"index": 116
+			},
+			{
+				"text": "name",
+				"start": 2.82,
+				"end": 3.5,
+				"index": 117
+			}
+		],
+		"start": 87.58,
+		"end": 91.08
+	},
+	{
+		"words": [
+			{
+				"text": "It's ",
+				"start": 0,
+				"end": 1.12,
+				"index": 118
+			},
+			{
+				"text": "the ",
+				"start": 1.12,
+				"end": 1.2,
+				"index": 119
+			},
+			{
+				"text": "king ",
+				"start": 1.2,
+				"end": 1.58,
+				"index": 120
+			},
+			{
+				"text": "we ",
+				"start": 1.58,
+				"end": 2.14,
+				"index": 121
+			},
+			{
+				"text": "all ",
+				"start": 2.14,
+				"end": 2.76,
+				"index": 122
+			},
+			{
+				"text": "praise, ",
+				"start": 2.76,
+				"end": 3.46,
+				"index": 123
+			},
+			{
+				"text": "LeBron",
+				"start": 3.58,
+				"end": 4.14,
+				"index": 124
+			}
+		],
+		"start": 95.76,
+		"end": 99.9
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron",
+				"start": 0,
+				"end": 0.8,
+				"index": 125
+			}
+		],
+		"start": 99.9,
+		"end": 100.7
+	},
+	{
+		"words": [
+			{
+				"text": "So ",
+				"start": 0,
+				"end": 0.54,
+				"index": 126
+			},
+			{
+				"text": "please ",
+				"start": 0.54,
+				"end": 1.48,
+				"index": 127
+			},
+			{
+				"text": "don't ",
+				"start": 1.48,
+				"end": 2.36,
+				"index": 128
+			},
+			{
+				"text": "quit ",
+				"start": 2.36,
+				"end": 2.48,
+				"index": 129
+			},
+			{
+				"text": "the ",
+				"start": 2.48,
+				"end": 3.02,
+				"index": 130
+			},
+			{
+				"text": "game",
+				"start": 3.02,
+				"end": 3.84,
+				"index": 131
+			}
+		],
+		"start": 104.48,
+		"end": 108.32
+	},
+	{
+		"words": [
+			{
+				"text": "There's ",
+				"start": 0,
+				"end": 1.08,
+				"index": 132
+			},
+			{
+				"text": "a ",
+				"start": 1.08,
+				"end": 1.14,
+				"index": 133
+			},
+			{
+				"text": "king ",
+				"start": 1.14,
+				"end": 1.44,
+				"index": 134
+			},
+			{
+				"text": "inside, ",
+				"start": 1.44,
+				"end": 1.96,
+				"index": 135
+			},
+			{
+				"text": "there's ",
+				"start": 2.42,
+				"end": 3.22,
+				"index": 136
+			},
+			{
+				"text": "a ",
+				"start": 3.22,
+				"end": 3.28,
+				"index": 137
+			},
+			{
+				"text": "king ",
+				"start": 3.28,
+				"end": 3.64,
+				"index": 138
+			},
+			{
+				"text": "inside ",
+				"start": 3.64,
+				"end": 4.18,
+				"index": 139
+			},
+			{
+				"text": "my ",
+				"start": 4.18,
+				"end": 4.46,
+				"index": 140
+			},
+			{
+				"text": "bedroom",
+				"start": 4.46,
+				"end": 5.06,
+				"index": 141
+			}
+		],
+		"start": 110.82,
+		"end": 115.88
 	}
 ]

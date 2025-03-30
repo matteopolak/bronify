@@ -5,6 +5,49 @@ import artistData from '$lib/content/artists.json';
 import albumData from '$lib/content/albums.json';
 import categoryData from '$lib/content/tags.json';
 
+// word -> TrackIndex[]
+import lyricsIndex from '$lib/content/lyrics_index.json';
+
+export function searchLyrics(text: string) {
+	// lowercase, split by spaces, remove non-[a-z] characters
+	const words = text
+		.toLowerCase()
+		.replace(/[^a-z0-9\s]/gi, '')
+		.split(/\s+/);
+
+	// return results, sorted by the number of words matched
+	const trackIndexToCount: Map<number, number> = new Map();
+
+	// set to 0 for each track
+	for (const track of trackData) {
+		trackIndexToCount.set(track.index, 0);
+	}
+
+	for (const word of words) {
+		const trackIndices = lyricsIndex[word as keyof typeof lyricsIndex];
+		if (!trackIndices) continue;
+
+		for (const trackIndex of trackIndices) {
+			const count = trackIndexToCount.get(trackIndex) ?? 0;
+			trackIndexToCount.set(trackIndex, count + 1);
+		}
+	}
+
+	// sort by count
+	return trackData
+		.filter((t) => trackIndexToCount.get(t.index))
+		.sort((a, b) => {
+			const aCount = trackIndexToCount.get(a.index) ?? 0;
+			const bCount = trackIndexToCount.get(b.index) ?? 0;
+
+			if (aCount === bCount) {
+				return a.index - b.index;
+			}
+
+			return bCount - aCount;
+		});
+}
+
 const TRACK_THUMBS: Record<string, { default: string }> = import.meta.glob(
 	'/src/lib/content/tracks/*/thumbnail.webp',
 	{

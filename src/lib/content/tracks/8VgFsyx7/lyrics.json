@@ -2,571 +2,901 @@
 	{
 		"words": [
 			{
-				"text": "Oh ",
+				"text": "OH",
 				"start": 0,
-				"end": 1.4,
+				"end": 1.28,
 				"index": 0
-			},
-			{
-				"text": "my",
-				"start": 1.4,
-				"end": 1.98,
-				"index": 1
 			}
 		],
 		"start": 0,
-		"end": 1.98
+		"end": 1.28
 	},
 	{
 		"words": [
 			{
-				"text": "Bron",
+				"text": "MY",
 				"start": 0,
-				"end": 0,
+				"end": 0.36,
+				"index": 1
+			}
+		],
+		"start": 1.28,
+		"end": 1.64
+	},
+	{
+		"words": [
+			{
+				"text": "BRONNY",
+				"start": 0,
+				"end": 1.46,
 				"index": 2
 			}
 		],
-		"start": 3.24,
-		"end": 3.24
+		"start": 1.64,
+		"end": 3.1
 	},
 	{
 		"words": [
 			{
-				"text": "Cleveland, ",
+				"text": "OH",
 				"start": 0,
-				"end": 0.44,
+				"end": 2.4,
 				"index": 3
-			},
+			}
+		],
+		"start": 3.26,
+		"end": 5.66
+	},
+	{
+		"words": [
 			{
-				"text": "it's ",
-				"start": 1.5,
-				"end": 1.76,
+				"text": "MY",
+				"start": 0,
+				"end": 2.66,
 				"index": 4
-			},
+			}
+		],
+		"start": 5.66,
+		"end": 8.32
+	},
+	{
+		"words": [
 			{
-				"text": "for ",
-				"start": 1.76,
-				"end": 1.92,
+				"text": "BRONNY, ",
+				"start": 0,
+				"end": 1.5,
 				"index": 5
 			},
 			{
-				"text": "you",
-				"start": 1.92,
-				"end": 2.26,
+				"text": "I WANT",
+				"start": 1.72,
+				"end": 13.3,
 				"index": 6
 			}
 		],
-		"start": 4.08,
-		"end": 6.34
+		"start": 8.32,
+		"end": 21.62
 	},
 	{
 		"words": [
 			{
-				"text": "Yeah",
+				"text": "YOU",
 				"start": 0,
-				"end": 0.12,
+				"end": 0.22,
 				"index": 7
 			}
 		],
-		"start": 6.8,
-		"end": 6.92
+		"start": 13.3,
+		"end": 13.52
 	},
 	{
 		"words": [
 			{
-				"text": "Oh ",
+				"text": "TO",
 				"start": 0,
-				"end": 0.2,
+				"end": 0.14,
 				"index": 8
-			},
+			}
+		],
+		"start": 13.52,
+		"end": 13.66
+	},
+	{
+		"words": [
 			{
-				"text": "my",
-				"start": 0.2,
-				"end": 0.84,
+				"text": "TALK",
+				"start": 0,
+				"end": 0.32,
 				"index": 9
 			}
 		],
-		"start": 7.96,
-		"end": 8.8
+		"start": 13.66,
+		"end": 13.98
 	},
 	{
 		"words": [
 			{
-				"text": "Bron. ",
+				"text": "DOWN",
 				"start": 0,
-				"end": 0.26,
+				"end": 0.58,
 				"index": 10
-			},
+			}
+		],
+		"start": 13.98,
+		"end": 14.56
+	},
+	{
+		"words": [
 			{
-				"text": "I got something ",
-				"start": 0.62,
-				"end": 0.8,
+				"text": "THERE'S",
+				"start": 0,
+				"end": 1.74,
 				"index": 11
-			},
+			}
+		],
+		"start": 15.18,
+		"end": 16.92
+	},
+	{
+		"words": [
 			{
-				"text": "for ",
-				"start": 0.8,
-				"end": 1.02,
+				"text": "SO",
+				"start": 0,
+				"end": 0.14,
 				"index": 12
-			},
+			}
+		],
+		"start": 16.92,
+		"end": 17.06
+	},
+	{
+		"words": [
 			{
-				"text": "you",
-				"start": 1.02,
-				"end": 2.38,
+				"text": "MANY",
+				"start": 0,
+				"end": 0.56,
 				"index": 13
 			}
 		],
-		"start": 9.74,
-		"end": 12.12
+		"start": 17.06,
+		"end": 17.62
 	},
 	{
 		"words": [
 			{
-				"text": "I ",
+				"text": "WAYS",
 				"start": 0,
-				"end": 0.38,
+				"end": 0.7,
 				"index": 14
-			},
+			}
+		],
+		"start": 17.62,
+		"end": 18.32
+	},
+	{
+		"words": [
 			{
-				"text": "want ",
-				"start": 0.38,
-				"end": 0.66,
+				"text": "TO",
+				"start": 0,
+				"end": 0.02,
 				"index": 15
-			},
+			}
+		],
+		"start": 18.32,
+		"end": 18.34
+	},
+	{
+		"words": [
 			{
-				"text": "you ",
-				"start": 0.66,
-				"end": 0.96,
+				"text": "LOVE",
+				"start": 0,
+				"end": 0.44,
 				"index": 16
-			},
+			}
+		],
+		"start": 18.34,
+		"end": 18.78
+	},
+	{
+		"words": [
 			{
-				"text": "to ",
-				"start": 0.96,
-				"end": 1.1,
+				"text": "YA",
+				"start": 0,
+				"end": 0.18,
 				"index": 17
-			},
+			}
+		],
+		"start": 18.78,
+		"end": 18.96
+	},
+	{
+		"words": [
 			{
-				"text": "throw ",
-				"start": 1.1,
-				"end": 1.3,
+				"text": "THOUGH",
+				"start": 0,
+				"end": 0.48,
 				"index": 18
-			},
+			}
+		],
+		"start": 19.18,
+		"end": 19.66
+	},
+	{
+		"words": [
 			{
-				"text": "it ",
-				"start": 1.3,
-				"end": 1.5,
+				"text": "THEY",
+				"start": 0,
+				"end": 0.16,
 				"index": 19
-			},
+			}
+		],
+		"start": 19.66,
+		"end": 19.82
+	},
+	{
+		"words": [
 			{
-				"text": "down",
-				"start": 1.5,
-				"end": 2.56,
+				"text": "SAY",
+				"start": 0,
+				"end": 0.24,
 				"index": 20
 			}
 		],
-		"start": 12.68,
-		"end": 15.24
+		"start": 19.82,
+		"end": 20.06
 	},
 	{
 		"words": [
 			{
-				"text": "There's ",
+				"text": "YOU",
 				"start": 0,
-				"end": 0.48,
+				"end": 0.18,
 				"index": 21
-			},
+			}
+		],
+		"start": 20.06,
+		"end": 20.24
+	},
+	{
+		"words": [
 			{
-				"text": "so ",
-				"start": 0.48,
-				"end": 0.76,
+				"text": "TOOK",
+				"start": 0,
+				"end": 0.36,
 				"index": 22
-			},
+			}
+		],
+		"start": 20.24,
+		"end": 20.6
+	},
+	{
+		"words": [
 			{
-				"text": "many ",
-				"start": 0.76,
-				"end": 1.14,
+				"text": "THEM",
+				"start": 0,
+				"end": 0.16,
 				"index": 23
-			},
+			}
+		],
+		"start": 20.6,
+		"end": 20.76
+	},
+	{
+		"words": [
 			{
-				"text": "ways ",
-				"start": 1.14,
-				"end": 1.64,
+				"text": "DOWN",
+				"start": 0,
+				"end": 0.16,
 				"index": 24
-			},
+			}
+		],
+		"start": 20.76,
+		"end": 20.92
+	},
+	{
+		"words": [
 			{
-				"text": "to ",
-				"start": 1.64,
-				"end": 1.94,
+				"text": "THERE'S",
+				"start": 0,
+				"end": 1.08,
 				"index": 25
-			},
+			}
+		],
+		"start": 22.56,
+		"end": 23.64
+	},
+	{
+		"words": [
 			{
-				"text": "love ",
-				"start": 1.94,
-				"end": 2.28,
+				"text": "SO",
+				"start": 0,
+				"end": 0.2,
 				"index": 26
-			},
+			}
+		],
+		"start": 23.64,
+		"end": 23.84
+	},
+	{
+		"words": [
 			{
-				"text": "ya",
-				"start": 2.28,
-				"end": 2.72,
+				"text": "MANY",
+				"start": 0,
+				"end": 0.4,
 				"index": 27
 			}
 		],
-		"start": 16.62,
-		"end": 19.34
+		"start": 23.84,
+		"end": 24.24
 	},
 	{
 		"words": [
 			{
-				"text": "Girl, ",
+				"text": "WAYS",
 				"start": 0,
-				"end": 0.16,
+				"end": 0.76,
 				"index": 28
-			},
+			}
+		],
+		"start": 24.24,
+		"end": 25
+	},
+	{
+		"words": [
 			{
-				"text": "they ",
-				"start": 0.24,
-				"end": 0.3,
+				"text": "TO",
+				"start": 0,
+				"end": 0.06,
 				"index": 29
-			},
+			}
+		],
+		"start": 25,
+		"end": 25.06
+	},
+	{
+		"words": [
 			{
-				"text": "say ",
-				"start": 0.3,
-				"end": 0.56,
+				"text": "LOVE",
+				"start": 0,
+				"end": 0.4,
 				"index": 30
-			},
+			}
+		],
+		"start": 25.06,
+		"end": 25.46
+	},
+	{
+		"words": [
 			{
-				"text": "you ",
-				"start": 0.56,
-				"end": 0.74,
+				"text": "YA",
+				"start": 0,
+				"end": 0.2,
 				"index": 31
-			},
+			}
+		],
+		"start": 25.46,
+		"end": 25.66
+	},
+	{
+		"words": [
 			{
-				"text": "took ",
-				"start": 0.74,
-				"end": 1,
+				"text": "GOT",
+				"start": 0,
+				"end": 0.44,
 				"index": 32
-			},
+			}
+		],
+		"start": 25.9,
+		"end": 26.34
+	},
+	{
+		"words": [
 			{
-				"text": "em ",
-				"start": 1,
-				"end": 1.18,
+				"text": "ME",
+				"start": 0,
+				"end": 0.14,
 				"index": 33
-			},
+			}
+		],
+		"start": 26.34,
+		"end": 26.48
+	},
+	{
+		"words": [
 			{
-				"text": "down",
-				"start": 1.18,
-				"end": 1.92,
+				"text": "LIKE",
+				"start": 0,
+				"end": 0.36,
 				"index": 34
 			}
 		],
-		"start": 19.64,
-		"end": 21.56
+		"start": 26.48,
+		"end": 26.84
 	},
 	{
 		"words": [
 			{
-				"text": "There's ",
+				"text": "OH",
 				"start": 0,
-				"end": 0.26,
+				"end": 0.4,
 				"index": 35
-			},
+			}
+		],
+		"start": 26.84,
+		"end": 27.24
+	},
+	{
+		"words": [
 			{
-				"text": "so ",
-				"start": 0.26,
-				"end": 0.56,
+				"text": "MY",
+				"start": 0,
+				"end": 0.32,
 				"index": 36
-			},
+			}
+		],
+		"start": 27.24,
+		"end": 27.56
+	},
+	{
+		"words": [
 			{
-				"text": "many ",
-				"start": 0.56,
-				"end": 0.88,
+				"text": "BRONNY, ",
+				"start": 0,
+				"end": 0.68,
 				"index": 37
 			},
 			{
-				"text": "ways ",
-				"start": 0.88,
-				"end": 1.38,
+				"text": "I'M",
+				"start": 0.72,
+				"end": 0.94,
 				"index": 38
-			},
+			}
+		],
+		"start": 27.56,
+		"end": 28.5
+	},
+	{
+		"words": [
 			{
-				"text": "to ",
-				"start": 1.38,
-				"end": 1.68,
+				"text": "SO",
+				"start": 0,
+				"end": 0.16,
 				"index": 39
-			},
+			}
+		],
+		"start": 28.5,
+		"end": 28.66
+	},
+	{
+		"words": [
 			{
-				"text": "love ",
-				"start": 1.68,
-				"end": 2.02,
+				"text": "IN",
+				"start": 0,
+				"end": 0.72,
 				"index": 40
-			},
+			}
+		],
+		"start": 28.66,
+		"end": 29.38
+	},
+	{
+		"words": [
 			{
-				"text": "ya",
-				"start": 2.02,
-				"end": 2.42,
+				"text": "LOVE",
+				"start": 0,
+				"end": 0.28,
 				"index": 41
 			}
 		],
-		"start": 23.6,
-		"end": 26.02
+		"start": 29.38,
+		"end": 29.66
 	},
 	{
 		"words": [
 			{
-				"text": "Got ",
+				"text": "WITH",
 				"start": 0,
-				"end": 0.12,
+				"end": 0.34,
 				"index": 42
-			},
+			}
+		],
+		"start": 29.98,
+		"end": 30.32
+	},
+	{
+		"words": [
 			{
-				"text": "me ",
-				"start": 0.12,
-				"end": 0.36,
+				"text": "FIFTY",
+				"start": 0,
+				"end": 0.34,
 				"index": 43
-			},
+			}
+		],
+		"start": 30.32,
+		"end": 30.66
+	},
+	{
+		"words": [
 			{
-				"text": "like, ",
-				"start": 0.36,
-				"end": 0.6,
+				"text": "THOUSAND",
+				"start": 0,
+				"end": 0.58,
 				"index": 44
-			},
+			}
+		],
+		"start": 30.66,
+		"end": 31.24
+	},
+	{
+		"words": [
 			{
-				"text": "oh ",
-				"start": 0.84,
-				"end": 1.1,
+				"text": "POINTS",
+				"start": 0,
+				"end": 0.34,
 				"index": 45
-			},
+			}
+		],
+		"start": 31.24,
+		"end": 31.58
+	},
+	{
+		"words": [
 			{
-				"text": "my, ",
-				"start": 1.1,
-				"end": 1.58,
+				"text": "AND",
+				"start": 0,
+				"end": 0.02,
 				"index": 46
-			},
+			}
+		],
+		"start": 31.58,
+		"end": 31.6
+	},
+	{
+		"words": [
 			{
-				"text": "Bron. ",
-				"start": 1.76,
-				"end": 1.94,
+				"text": "FOUR",
+				"start": 0,
+				"end": 0.3,
 				"index": 47
-			},
+			}
+		],
+		"start": 31.6,
+		"end": 31.9
+	},
+	{
+		"words": [
 			{
-				"text": "I'm ",
-				"start": 2.12,
-				"end": 2.22,
+				"text": "RINGS",
+				"start": 0,
+				"end": 0.32,
 				"index": 48
-			},
+			}
+		],
+		"start": 31.9,
+		"end": 32.22
+	},
+	{
+		"words": [
 			{
-				"text": "so ",
-				"start": 2.22,
-				"end": 2.74,
+				"text": "OH",
+				"start": 0,
+				"end": 0.16,
 				"index": 49
-			},
+			}
+		],
+		"start": 32.32,
+		"end": 32.48
+	},
+	{
+		"words": [
 			{
-				"text": "in ",
-				"start": 2.74,
-				"end": 3.12,
+				"text": "GOD",
+				"start": 0,
+				"end": 0.18,
 				"index": 50
-			},
+			}
+		],
+		"start": 32.48,
+		"end": 32.66
+	},
+	{
+		"words": [
 			{
-				"text": "love ",
-				"start": 3.12,
-				"end": 3.62,
+				"text": "YOU",
+				"start": 0,
+				"end": 0.2,
 				"index": 51
-			},
+			}
+		],
+		"start": 32.66,
+		"end": 32.86
+	},
+	{
+		"words": [
 			{
-				"text": "with ",
-				"start": 3.62,
-				"end": 4.08,
+				"text": "KNOW",
+				"start": 0,
+				"end": 0.24,
 				"index": 52
-			},
+			}
+		],
+		"start": 32.86,
+		"end": 33.1
+	},
+	{
+		"words": [
 			{
-				"text": "50",
-				"start": 4.08,
-				"end": 4.44,
+				"text": "IT'S",
+				"start": 0,
+				"end": 0.3,
 				"index": 53
-			},
+			}
+		],
+		"start": 33.1,
+		"end": 33.4
+	},
+	{
+		"words": [
 			{
-				"text": ",000 ",
-				"start": 4.44,
-				"end": 4.92,
+				"text": "TRUE",
+				"start": 0,
+				"end": 0.18,
 				"index": 54
-			},
+			}
+		],
+		"start": 33.4,
+		"end": 33.58
+	},
+	{
+		"words": [
 			{
-				"text": "points ",
-				"start": 4.92,
-				"end": 5.18,
+				"text": "TO",
+				"start": 0,
+				"end": 0.04,
 				"index": 55
-			},
+			}
+		],
+		"start": 33.58,
+		"end": 33.62
+	},
+	{
+		"words": [
 			{
-				"text": "and ",
-				"start": 5.18,
-				"end": 5.4,
+				"text": "GO",
+				"start": 0,
+				"end": 0.18,
 				"index": 56
-			},
+			}
+		],
+		"start": 33.62,
+		"end": 33.8
+	},
+	{
+		"words": [
 			{
-				"text": "4 ",
-				"start": 5.4,
-				"end": 5.68,
+				"text": "GO",
+				"start": 0,
+				"end": 0.24,
 				"index": 57
-			},
+			}
+		],
+		"start": 34,
+		"end": 34.24
+	},
+	{
+		"words": [
 			{
-				"text": "ends",
-				"start": 5.68,
-				"end": 6,
+				"text": "GO",
+				"start": 0,
+				"end": 0.18,
 				"index": 58
 			}
 		],
-		"start": 26.38,
-		"end": 32.38
+		"start": 34.44,
+		"end": 34.62
 	},
 	{
 		"words": [
 			{
-				"text": "Oh God, ",
+				"text": "GO",
+				"start": 0,
+				"end": 0.14,
+				"index": 59
+			}
+		],
+		"start": 34.8,
+		"end": 34.94
+	},
+	{
+		"words": [
+			{
+				"text": "GO",
+				"start": 0,
+				"end": 0.22,
+				"index": 60
+			}
+		],
+		"start": 35.04,
+		"end": 35.26
+	},
+	{
+		"words": [
+			{
+				"text": "GO",
+				"start": 0,
+				"end": 0.16,
+				"index": 61
+			}
+		],
+		"start": 35.54,
+		"end": 35.7
+	},
+	{
+		"words": [
+			{
+				"text": "GO",
+				"start": 0,
+				"end": 0.08,
+				"index": 62
+			}
+		],
+		"start": 36.02,
+		"end": 36.1
+	},
+	{
+		"words": [
+			{
+				"text": "GO",
+				"start": 0,
+				"end": 0.24,
+				"index": 63
+			}
+		],
+		"start": 36.2,
+		"end": 36.44
+	},
+	{
+		"words": [
+			{
+				"text": "GO",
 				"start": 0,
 				"end": 0.18,
-				"index": 59
-			},
-			{
-				"text": "you ",
-				"start": 0.32,
-				"end": 0.38,
-				"index": 60
-			},
-			{
-				"text": "know ",
-				"start": 0.38,
-				"end": 0.62,
-				"index": 61
-			},
-			{
-				"text": "that ",
-				"start": 0.62,
-				"end": 0.76,
-				"index": 62
-			},
-			{
-				"text": "you're ",
-				"start": 0.76,
-				"end": 1.18,
-				"index": 63
-			},
-			{
-				"text": "the ",
-				"start": 1.18,
-				"end": 1.2,
 				"index": 64
-			},
-			{
-				"text": "go, ",
-				"start": 1.2,
-				"end": 1.44,
-				"index": 65
-			},
-			{
-				"text": "go, ",
-				"start": 1.72,
-				"end": 1.84,
-				"index": 66
-			},
-			{
-				"text": "go, ",
-				"start": 2.1,
-				"end": 2.28,
-				"index": 67
-			},
-			{
-				"text": "go, ",
-				"start": 2.36,
-				"end": 2.72,
-				"index": 68
-			},
-			{
-				"text": "go, ",
-				"start": 2.74,
-				"end": 2.88,
-				"index": 69
-			},
-			{
-				"text": "go, ",
-				"start": 2.98,
-				"end": 3.18,
-				"index": 70
-			},
-			{
-				"text": "go, ",
-				"start": 3.5,
-				"end": 3.52,
-				"index": 71
-			},
-			{
-				"text": "go, ",
-				"start": 3.82,
-				"end": 3.92,
-				"index": 72
-			},
-			{
-				"text": "go, ",
-				"start": 4.4,
-				"end": 4.42,
-				"index": 73
-			},
-			{
-				"text": "go, ",
-				"start": 4.5,
-				"end": 4.82,
-				"index": 74
-			},
-			{
-				"text": "go, ",
-				"start": 5.04,
-				"end": 5.12,
-				"index": 75
-			},
-			{
-				"text": "go, ",
-				"start": 5.12,
-				"end": 5.56,
-				"index": 76
-			},
-			{
-				"text": "go, ",
-				"start": 5.56,
-				"end": 5.76,
-				"index": 77
-			},
-			{
-				"text": "go, ",
-				"start": 5.76,
-				"end": 6.1,
-				"index": 78
-			},
-			{
-				"text": "go, ",
-				"start": 6.1,
-				"end": 6.24,
-				"index": 79
-			},
-			{
-				"text": "go",
-				"start": 6.24,
-				"end": 6.3,
-				"index": 80
 			}
 		],
-		"start": 32.6,
-		"end": 38.9
+		"start": 36.66,
+		"end": 36.84
 	},
 	{
 		"words": [
 			{
-				"text": "Oh my Bron",
+				"text": "GO",
 				"start": 0,
-				"end": 2.1,
-				"index": 81
+				"end": 0,
+				"index": 65
 			}
 		],
-		"start": 39.1,
-		"end": 41.2
+		"start": 37.28,
+		"end": 37.28
+	},
+	{
+		"words": [
+			{
+				"text": "GO",
+				"start": 0,
+				"end": 0.34,
+				"index": 66
+			}
+		],
+		"start": 37.32,
+		"end": 37.66
+	},
+	{
+		"words": [
+			{
+				"text": "GO",
+				"start": 0,
+				"end": 0.36,
+				"index": 67
+			}
+		],
+		"start": 37.76,
+		"end": 38.12
+	},
+	{
+		"words": [
+			{
+				"text": "GO",
+				"start": 0,
+				"end": 0.12,
+				"index": 68
+			}
+		],
+		"start": 38.22,
+		"end": 38.34
+	},
+	{
+		"words": [
+			{
+				"text": "GO",
+				"start": 0,
+				"end": 0.14,
+				"index": 69
+			}
+		],
+		"start": 38.44,
+		"end": 38.58
+	},
+	{
+		"words": [
+			{
+				"text": "GO",
+				"start": 0,
+				"end": 0.02,
+				"index": 70
+			}
+		],
+		"start": 38.68,
+		"end": 38.7
+	},
+	{
+		"words": [
+			{
+				"text": "GO",
+				"start": 0,
+				"end": 0,
+				"index": 71
+			}
+		],
+		"start": 38.82,
+		"end": 38.82
+	},
+	{
+		"words": [
+			{
+				"text": "GO",
+				"start": 0,
+				"end": 0,
+				"index": 72
+			}
+		],
+		"start": 38.96,
+		"end": 38.96
+	},
+	{
+		"words": [
+			{
+				"text": "OH",
+				"start": 0,
+				"end": 0.26,
+				"index": 73
+			}
+		],
+		"start": 39,
+		"end": 39.26
+	},
+	{
+		"words": [
+			{
+				"text": "MY",
+				"start": 0,
+				"end": 0.46,
+				"index": 74
+			}
+		],
+		"start": 39.26,
+		"end": 39.72
+	},
+	{
+		"words": [
+			{
+				"text": "BRONNY",
+				"start": 0,
+				"end": 0.78,
+				"index": 75
+			}
+		],
+		"start": 39.72,
+		"end": 40.5
 	}
 ]

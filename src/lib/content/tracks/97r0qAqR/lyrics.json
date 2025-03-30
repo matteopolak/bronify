@@ -2,679 +2,697 @@
 	{
 		"words": [
 			{
-				"text": "Yeah ",
+				"text": "Yeah, ",
 				"start": 0,
-				"end": 0.96,
+				"end": 0.88,
 				"index": 0
 			},
 			{
 				"text": "the ",
-				"start": 0.96,
-				"end": 1.14,
+				"start": 0.88,
+				"end": 1,
 				"index": 1
 			},
 			{
-				"text": "GOAT is ",
-				"start": 1.14,
-				"end": 1.44,
+				"text": "GOAT ",
+				"start": 1,
+				"end": 1.28,
 				"index": 2
 			},
 			{
-				"text": "LeBron, ",
-				"start": 1.44,
-				"end": 2.18,
+				"text": "is ",
+				"start": 1.28,
+				"end": 1.4,
 				"index": 3
 			},
 			{
-				"text": "yeah",
-				"start": 2.58,
-				"end": 3.22,
+				"text": "so ",
+				"start": 1.4,
+				"end": 1.64,
 				"index": 4
-			}
-		],
-		"start": 0,
-		"end": 3.22
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "He ",
-				"start": 0,
-				"end": 0.26,
+				"text": "bright, ",
+				"start": 1.64,
+				"end": 1.96,
 				"index": 5
 			},
 			{
-				"text": "got ",
-				"start": 0.26,
-				"end": 0.48,
+				"text": "yeah",
+				"start": 2.22,
+				"end": 2.82,
 				"index": 6
-			},
-			{
-				"text": "Bronny, ",
-				"start": 0.48,
-				"end": 0.8,
-				"index": 7
-			},
-			{
-				"text": "he ",
-				"start": 0.94,
-				"end": 0.96,
-				"index": 8
-			},
-			{
-				"text": "got ",
-				"start": 0.96,
-				"end": 1.22,
-				"index": 9
-			},
-			{
-				"text": "Bryce, ",
-				"start": 1.22,
-				"end": 1.4,
-				"index": 10
-			},
-			{
-				"text": "what ",
-				"start": 1.48,
-				"end": 1.62,
-				"index": 11
-			},
-			{
-				"text": "you ",
-				"start": 1.62,
-				"end": 1.82,
-				"index": 12
-			},
-			{
-				"text": "want?",
-				"start": 1.82,
-				"end": 2.28,
-				"index": 13
 			}
 		],
-		"start": 3.9,
-		"end": 6.18
+		"start": 0,
+		"end": 2.82
 	},
 	{
 		"words": [
 			{
 				"text": "He ",
 				"start": 0,
-				"end": 0.08,
-				"index": 14
+				"end": 0.52,
+				"index": 7
 			},
 			{
 				"text": "got ",
-				"start": 0.08,
-				"end": 0.28,
-				"index": 15
+				"start": 0.52,
+				"end": 0.76,
+				"index": 8
 			},
 			{
-				"text": "all ",
-				"start": 0.28,
-				"end": 0.46,
-				"index": 16
-			},
-			{
-				"text": "the ",
-				"start": 0.46,
-				"end": 0.6,
-				"index": 17
-			},
-			{
-				"text": "skills, ",
-				"start": 0.6,
-				"end": 0.82,
-				"index": 18
-			},
-			{
-				"text": "so ",
-				"start": 1.1,
-				"end": 1.22,
-				"index": 19
-			},
-			{
-				"text": "plus ",
-				"start": 1.22,
-				"end": 1.48,
-				"index": 20
+				"text": "Bronny, ",
+				"start": 0.76,
+				"end": 1.16,
+				"index": 9
 			},
 			{
 				"text": "he ",
-				"start": 1.48,
-				"end": 1.64,
+				"start": 1.16,
+				"end": 1.24,
+				"index": 10
+			},
+			{
+				"text": "got ",
+				"start": 1.24,
+				"end": 1.44,
+				"index": 11
+			},
+			{
+				"text": "Bryce, ",
+				"start": 1.44,
+				"end": 1.76,
+				"index": 12
+			},
+			{
+				"text": "what ",
+				"start": 1.78,
+				"end": 1.94,
+				"index": 13
+			},
+			{
+				"text": "you ",
+				"start": 1.94,
+				"end": 2.08,
+				"index": 14
+			},
+			{
+				"text": "want?",
+				"start": 2.08,
+				"end": 2.46,
+				"index": 15
+			}
+		],
+		"start": 3.48,
+		"end": 5.94
+	},
+	{
+		"words": [
+			{
+				"text": "He ",
+				"start": 0,
+				"end": 0.2,
+				"index": 16
+			},
+			{
+				"text": "got ",
+				"start": 0.2,
+				"end": 0.4,
+				"index": 17
+			},
+			{
+				"text": "all ",
+				"start": 0.4,
+				"end": 0.6,
+				"index": 18
+			},
+			{
+				"text": "the ",
+				"start": 0.6,
+				"end": 0.74,
+				"index": 19
+			},
+			{
+				"text": "skills, ",
+				"start": 0.74,
+				"end": 1.02,
+				"index": 20
+			},
+			{
+				"text": "all ",
+				"start": 1.1,
+				"end": 1.34,
 				"index": 21
 			},
 			{
-				"text": "said ",
-				"start": 1.64,
-				"end": 1.88,
+				"text": "plus ",
+				"start": 1.34,
+				"end": 1.6,
 				"index": 22
-			},
-			{
-				"text": "so",
-				"start": 1.88,
-				"end": 2.42,
-				"index": 23
-			}
-		],
-		"start": 6.46,
-		"end": 8.88
-	},
-	{
-		"words": [
-			{
-				"text": "I ",
-				"start": 0,
-				"end": 0.36,
-				"index": 24
-			},
-			{
-				"text": "know ",
-				"start": 0.36,
-				"end": 0.52,
-				"index": 25
-			},
-			{
-				"text": "he's ",
-				"start": 0.52,
-				"end": 0.76,
-				"index": 26
-			},
-			{
-				"text": "the ",
-				"start": 0.76,
-				"end": 0.96,
-				"index": 27
-			},
-			{
-				"text": "GOAT, ",
-				"start": 0.96,
-				"end": 1.66,
-				"index": 28
-			},
-			{
-				"text": "I ",
-				"start": 1.68,
-				"end": 2.08,
-				"index": 29
-			},
-			{
-				"text": "ain't ",
-				"start": 2.08,
-				"end": 2.28,
-				"index": 30
-			},
-			{
-				"text": "done",
-				"start": 2.28,
-				"end": 2.62,
-				"index": 31
-			}
-		],
-		"start": 8.88,
-		"end": 11.5
-	},
-	{
-		"words": [
-			{
-				"text": "The ",
-				"start": 0,
-				"end": 0.26,
-				"index": 32
-			},
-			{
-				"text": "greatest ",
-				"start": 0.26,
-				"end": 0.52,
-				"index": 33
-			},
-			{
-				"text": "in ",
-				"start": 0.52,
-				"end": 0.78,
-				"index": 34
-			},
-			{
-				"text": "the ",
-				"start": 0.78,
-				"end": 0.96,
-				"index": 35
-			},
-			{
-				"text": "process, ",
-				"start": 0.96,
-				"end": 1.38,
-				"index": 36
-			},
-			{
-				"text": "he's really ",
-				"start": 1.64,
-				"end": 1.86,
-				"index": 37
-			},
-			{
-				"text": "one of ",
-				"start": 1.86,
-				"end": 2.16,
-				"index": 38
-			},
-			{
-				"text": "one",
-				"start": 2.16,
-				"end": 2.64,
-				"index": 39
-			}
-		],
-		"start": 11.5,
-		"end": 14.14
-	},
-	{
-		"words": [
-			{
-				"text": "The ",
-				"start": 0,
-				"end": 0.26,
-				"index": 40
-			},
-			{
-				"text": "GOAT is ",
-				"start": 0.26,
-				"end": 0.54,
-				"index": 41
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0.54,
-				"end": 1.34,
-				"index": 42
 			},
 			{
 				"text": "he's ",
 				"start": 1.6,
-				"end": 1.7,
-				"index": 43
-			},
-			{
-				"text": "always ",
-				"start": 1.7,
 				"end": 1.9,
-				"index": 44
+				"index": 23
 			},
 			{
-				"text": "showing ",
+				"text": "handsome",
 				"start": 1.9,
-				"end": 2.2,
-				"index": 45
-			},
-			{
-				"text": "off, ",
-				"start": 2.2,
-				"end": 2.6,
-				"index": 46
-			},
-			{
-				"text": "we ",
-				"start": 2.64,
-				"end": 2.78,
-				"index": 47
-			},
-			{
-				"text": "on ",
-				"start": 2.78,
-				"end": 2.98,
-				"index": 48
-			},
-			{
-				"text": "Bronify",
-				"start": 2.98,
-				"end": 3.72,
-				"index": 49
+				"end": 2.16,
+				"index": 24
 			}
 		],
-		"start": 14.14,
-		"end": 17.86
+		"start": 6.2,
+		"end": 8.36
 	},
 	{
 		"words": [
 			{
-				"text": "Cause ",
+				"text": "I ",
 				"start": 0,
-				"end": 0.36,
-				"index": 50
+				"end": 0.26,
+				"index": 25
 			},
 			{
-				"text": "that ",
-				"start": 0.36,
-				"end": 0.54,
-				"index": 51
+				"text": "know ",
+				"start": 0.26,
+				"end": 0.48,
+				"index": 26
 			},
 			{
-				"text": "three ",
-				"start": 0.54,
-				"end": 0.76,
-				"index": 52
-			},
-			{
-				"text": "point ",
-				"start": 0.76,
-				"end": 1.1,
-				"index": 53
-			},
-			{
-				"text": "hit, ",
-				"start": 1.1,
-				"end": 1.36,
-				"index": 54
-			},
-			{
-				"text": "it'll ",
-				"start": 1.44,
-				"end": 1.58,
-				"index": 55
-			},
-			{
-				"text": "get ",
-				"start": 1.58,
-				"end": 1.64,
-				"index": 56
-			},
-			{
-				"text": "you ",
-				"start": 1.64,
-				"end": 1.86,
-				"index": 57
-			},
-			{
-				"text": "on ",
-				"start": 1.86,
-				"end": 2.08,
-				"index": 58
-			},
-			{
-				"text": "Bronify",
-				"start": 2.08,
-				"end": 2.54,
-				"index": 59
-			}
-		],
-		"start": 17.86,
-		"end": 20.4
-	},
-	{
-		"words": [
-			{
-				"text": "We ",
-				"start": 0,
-				"end": 0.5,
-				"index": 60
-			},
-			{
-				"text": "been ",
-				"start": 0.5,
+				"text": "he's ",
+				"start": 0.48,
 				"end": 0.7,
-				"index": 61
-			},
-			{
-				"text": "talking ",
-				"start": 0.7,
-				"end": 0.92,
-				"index": 62
-			},
-			{
-				"text": "our ",
-				"start": 0.92,
-				"end": 1.28,
-				"index": 63
-			},
-			{
-				"text": "shit, ",
-				"start": 1.28,
-				"end": 1.62,
-				"index": 64
-			},
-			{
-				"text": "Lakers ",
-				"start": 1.8,
-				"end": 2.14,
-				"index": 65
-			},
-			{
-				"text": "in ",
-				"start": 2.14,
-				"end": 2.4,
-				"index": 66
-			},
-			{
-				"text": "five",
-				"start": 2.4,
-				"end": 2.78,
-				"index": 67
-			}
-		],
-		"start": 20.4,
-		"end": 23.18
-	},
-	{
-		"words": [
-			{
-				"text": "Yeah ",
-				"start": 0,
-				"end": 0.4,
-				"index": 68
+				"index": 27
 			},
 			{
 				"text": "the ",
-				"start": 0.4,
-				"end": 0.54,
-				"index": 69
+				"start": 0.7,
+				"end": 0.78,
+				"index": 28
+			},
+			{
+				"text": "GOAT, ",
+				"start": 0.78,
+				"end": 1.62,
+				"index": 29
+			},
+			{
+				"text": "I ",
+				"start": 1.62,
+				"end": 2.04,
+				"index": 30
+			},
+			{
+				"text": "ain't ",
+				"start": 2.04,
+				"end": 2.18,
+				"index": 31
+			},
+			{
+				"text": "done",
+				"start": 2.18,
+				"end": 2.42,
+				"index": 32
+			}
+		],
+		"start": 8.82,
+		"end": 11.24
+	},
+	{
+		"words": [
+			{
+				"text": "The ",
+				"start": 0,
+				"end": 0.34,
+				"index": 33
+			},
+			{
+				"text": "greatest ",
+				"start": 0.34,
+				"end": 0.66,
+				"index": 34
+			},
+			{
+				"text": "in ",
+				"start": 0.66,
+				"end": 0.92,
+				"index": 35
+			},
+			{
+				"text": "the ",
+				"start": 0.92,
+				"end": 1.02,
+				"index": 36
+			},
+			{
+				"text": "process, ",
+				"start": 1.02,
+				"end": 1.48,
+				"index": 37
+			},
+			{
+				"text": "really ",
+				"start": 1.58,
+				"end": 1.98,
+				"index": 38
+			},
+			{
+				"text": "wanna ",
+				"start": 1.98,
+				"end": 2.28,
+				"index": 39
+			},
+			{
+				"text": "watch",
+				"start": 2.28,
+				"end": 2.64,
+				"index": 40
+			}
+		],
+		"start": 11.24,
+		"end": 13.88
+	},
+	{
+		"words": [
+			{
+				"text": "The ",
+				"start": 0,
+				"end": 0.38,
+				"index": 41
 			},
 			{
 				"text": "GOAT ",
-				"start": 0.54,
-				"end": 0.76,
+				"start": 0.38,
+				"end": 0.66,
+				"index": 42
+			},
+			{
+				"text": "is ",
+				"start": 0.66,
+				"end": 0.8,
+				"index": 43
+			},
+			{
+				"text": "so ",
+				"start": 0.8,
+				"end": 1,
+				"index": 44
+			},
+			{
+				"text": "bright",
+				"start": 1,
+				"end": 1.36,
+				"index": 45
+			}
+		],
+		"start": 13.88,
+		"end": 15.24
+	},
+	{
+		"words": [
+			{
+				"text": "He's ",
+				"start": 0,
+				"end": 0.44,
+				"index": 46
+			},
+			{
+				"text": "always ",
+				"start": 0.44,
+				"end": 0.66,
+				"index": 47
+			},
+			{
+				"text": "showin' ",
+				"start": 0.66,
+				"end": 1.12,
+				"index": 48
+			},
+			{
+				"text": "off, ",
+				"start": 1.12,
+				"end": 1.32,
+				"index": 49
+			},
+			{
+				"text": "we ",
+				"start": 1.44,
+				"end": 1.56,
+				"index": 50
+			},
+			{
+				"text": "all ",
+				"start": 1.56,
+				"end": 1.64,
+				"index": 51
+			},
+			{
+				"text": "bronify",
+				"start": 1.64,
+				"end": 2.16,
+				"index": 52
+			}
+		],
+		"start": 15.24,
+		"end": 17.4
+	},
+	{
+		"words": [
+			{
+				"text": "Got ",
+				"start": 0,
+				"end": 0.26,
+				"index": 53
+			},
+			{
+				"text": "a ",
+				"start": 0.26,
+				"end": 0.42,
+				"index": 54
+			},
+			{
+				"text": "three",
+				"start": 0.42,
+				"end": 0.68,
+				"index": 55
+			},
+			{
+				"text": "-point ",
+				"start": 0.68,
+				"end": 1.04,
+				"index": 56
+			},
+			{
+				"text": "here ",
+				"start": 1.04,
+				"end": 1.28,
+				"index": 57
+			},
+			{
+				"text": "to ",
+				"start": 1.28,
+				"end": 1.44,
+				"index": 58
+			},
+			{
+				"text": "get ",
+				"start": 1.44,
+				"end": 1.56,
+				"index": 59
+			},
+			{
+				"text": "you ",
+				"start": 1.56,
+				"end": 1.72,
+				"index": 60
+			},
+			{
+				"text": "bronified",
+				"start": 1.72,
+				"end": 2.24,
+				"index": 61
+			}
+		],
+		"start": 17.84,
+		"end": 20.08
+	},
+	{
+		"words": [
+			{
+				"text": "We've ",
+				"start": 0,
+				"end": 0.78,
+				"index": 62
+			},
+			{
+				"text": "been ",
+				"start": 0.78,
+				"end": 0.9,
+				"index": 63
+			},
+			{
+				"text": "talking ",
+				"start": 0.9,
+				"end": 1.18,
+				"index": 64
+			},
+			{
+				"text": "on ",
+				"start": 1.18,
+				"end": 1.52,
+				"index": 65
+			},
+			{
+				"text": "shit, ",
+				"start": 1.52,
+				"end": 1.8,
+				"index": 66
+			},
+			{
+				"text": "liquor's in ",
+				"start": 1.88,
+				"end": 2.38,
+				"index": 67
+			},
+			{
+				"text": "fine",
+				"start": 2.38,
+				"end": 2.78,
+				"index": 68
+			}
+		],
+		"start": 20.08,
+		"end": 22.86
+	},
+	{
+		"words": [
+			{
+				"text": "Yeah, ",
+				"start": 0,
+				"end": 0.62,
+				"index": 69
+			},
+			{
+				"text": "the ",
+				"start": 0.62,
+				"end": 0.72,
 				"index": 70
 			},
 			{
-				"text": "heard ",
-				"start": 0.76,
-				"end": 1,
+				"text": "GOAT ",
+				"start": 0.72,
+				"end": 0.98,
 				"index": 71
 			},
 			{
-				"text": "it, ",
-				"start": 1,
-				"end": 1.2,
+				"text": "hurt ",
+				"start": 0.98,
+				"end": 1.18,
 				"index": 72
 			},
 			{
-				"text": "said ",
-				"start": 1.34,
-				"end": 1.42,
+				"text": "inside, ",
+				"start": 1.18,
+				"end": 1.52,
 				"index": 73
 			},
 			{
-				"text": "that ",
-				"start": 1.42,
-				"end": 1.64,
+				"text": "but ",
+				"start": 1.6,
+				"end": 1.84,
 				"index": 74
 			},
 			{
 				"text": "he's ",
-				"start": 1.64,
-				"end": 2.02,
+				"start": 1.84,
+				"end": 2.12,
 				"index": 75
 			},
 			{
 				"text": "alright",
-				"start": 2.02,
-				"end": 2.62,
+				"start": 2.12,
+				"end": 2.52,
 				"index": 76
 			}
 		],
-		"start": 23.18,
-		"end": 25.8
+		"start": 22.86,
+		"end": 25.38
 	},
 	{
 		"words": [
 			{
 				"text": "Better ",
 				"start": 0,
-				"end": 0.84,
+				"end": 0.52,
 				"index": 77
 			},
 			{
 				"text": "than ",
-				"start": 0.84,
-				"end": 1.24,
+				"start": 0.52,
+				"end": 0.86,
 				"index": 78
 			},
 			{
 				"text": "Michael ",
-				"start": 1.24,
-				"end": 1.56,
+				"start": 0.86,
+				"end": 1.2,
 				"index": 79
 			},
 			{
 				"text": "Jordan, ",
-				"start": 1.56,
-				"end": 1.82,
+				"start": 1.2,
+				"end": 1.56,
 				"index": 80
 			},
 			{
 				"text": "50K",
-				"start": 1.82,
-				"end": 2.54,
+				"start": 1.64,
+				"end": 2.16,
 				"index": 81
 			}
 		],
-		"start": 25.8,
-		"end": 28.34
+		"start": 26,
+		"end": 28.16
 	},
 	{
 		"words": [
 			{
-				"text": "Talking ",
+				"text": "Dunkin' ",
 				"start": 0,
-				"end": 0.34,
+				"end": 0.54,
 				"index": 82
 			},
 			{
-				"text": "all ",
-				"start": 0.34,
+				"text": "our ",
+				"start": 0.54,
 				"end": 0.72,
 				"index": 83
 			},
 			{
 				"text": "hoes, ",
 				"start": 0.72,
-				"end": 1.1,
+				"end": 1.22,
 				"index": 84
 			},
 			{
 				"text": "that's ",
-				"start": 1.18,
-				"end": 1.32,
+				"start": 1.22,
+				"end": 1.42,
 				"index": 85
 			},
 			{
-				"text": "LeBron, ",
-				"start": 1.32,
-				"end": 1.74,
+				"text": "a ",
+				"start": 1.42,
+				"end": 1.44,
 				"index": 86
 			},
 			{
-				"text": "how ",
-				"start": 1.92,
-				"end": 2,
+				"text": "bright ",
+				"start": 1.44,
+				"end": 1.74,
 				"index": 87
 			},
 			{
-				"text": "everyday",
-				"start": 2,
-				"end": 2.68,
+				"text": "heart ",
+				"start": 1.74,
+				"end": 2.06,
 				"index": 88
+			},
+			{
+				"text": "every ",
+				"start": 2.06,
+				"end": 2.44,
+				"index": 89
+			},
+			{
+				"text": "day",
+				"start": 2.44,
+				"end": 2.72,
+				"index": 90
 			}
 		],
-		"start": 28.34,
-		"end": 31.02
+		"start": 28.16,
+		"end": 30.88
 	},
 	{
 		"words": [
 			{
-				"text": "Going ",
+				"text": "Goin' ",
 				"start": 0,
-				"end": 0.42,
-				"index": 89
+				"end": 0.66,
+				"index": 91
 			},
 			{
 				"text": "straight ",
-				"start": 0.42,
+				"start": 0.72,
 				"end": 0.86,
-				"index": 90
+				"index": 92
 			},
 			{
 				"text": "to ",
 				"start": 0.86,
-				"end": 1.14,
-				"index": 91
-			},
-			{
-				"text": "the ",
-				"start": 1.14,
-				"end": 1.36,
-				"index": 92
-			},
-			{
-				"text": "championship, ",
-				"start": 1.36,
-				"end": 2.16,
+				"end": 1.1,
 				"index": 93
 			},
 			{
-				"text": "get ",
-				"start": 2.52,
-				"end": 2.58,
+				"text": "the ",
+				"start": 1.1,
+				"end": 1.3,
 				"index": 94
 			},
 			{
-				"text": "another ",
-				"start": 2.58,
-				"end": 2.96,
+				"text": "championship",
+				"start": 1.3,
+				"end": 1.74,
 				"index": 95
-			},
-			{
-				"text": "banner",
-				"start": 2.96,
-				"end": 3.54,
-				"index": 96
 			}
 		],
-		"start": 31.02,
-		"end": 34.56
+		"start": 30.88,
+		"end": 32.62
 	},
 	{
 		"words": [
 			{
 				"text": "Get ",
 				"start": 0,
-				"end": 0.36,
-				"index": 97
+				"end": 0.31,
+				"index": 96
 			},
 			{
 				"text": "another ",
-				"start": 0.36,
-				"end": 0.76,
+				"start": 0.31,
+				"end": 0.67,
+				"index": 97
+			},
+			{
+				"text": "banner, ",
+				"start": 0.67,
+				"end": 1.25,
 				"index": 98
 			},
 			{
-				"text": "banner",
-				"start": 0.76,
-				"end": 1.22,
+				"text": "fit ",
+				"start": 1.43,
+				"end": 1.65,
 				"index": 99
+			},
+			{
+				"text": "another ",
+				"start": 1.65,
+				"end": 1.99,
+				"index": 100
+			},
+			{
+				"text": "banner",
+				"start": 1.99,
+				"end": 2.51,
+				"index": 101
 			}
 		],
-		"start": 34.56,
-		"end": 35.78
+		"start": 33.13,
+		"end": 35.64
 	}
 ]

@@ -1,6 +1,9 @@
-import whisper
+from faster_whisper import WhisperModel
 import demucs.separate
-import whisper.tokenizer
+
+import torch
+torch.backends.cuda.matmul.allow_tf32 = True
+torch.backends.cudnn.allow_tf32 = True
 
 # iterate over tracks folder, copy each audio.mp3 into a new folder and name them {id}.mp3 instead
 import os
@@ -48,35 +51,47 @@ ids = copy_and_rename_audio_files("../../src/lib/content/tracks", "../tracks")
 
 print(ids)
 
-demucs.separate.main([
-    "--mp3", "--two-stems", "vocals", "--out", "../separated",
-    *map(lambda id: f"../tracks/{id}.mp3", ids)
-])
+need_demucs = []
 
-model = whisper.load_model("medium.en", device="cuda")
+for id in ids:
+    file_path = f"../separated/htdemucs/{id}/vocals.mp3"
+    if not os.path.isfile(file_path):
+        need_demucs.append(f"../tracks/{id}.mp3")
+    else:
+        print(f"File {file_path} already exists")
+
+if need_demucs:
+    demucs.separate.main([
+        "--mp3", "--two-stems", "vocals", "--out", "../separated",
+        *need_demucs
+    ])
 
 PROMPT = """\
-Write karaoke lyrics for a song about LeBron James.
-Aliases: Bronny, LeBronny, GOAT
-Common words: Gatorade, Lakers, Mavs, Luka Don, Dallas, Miami, Cavs, Heat, NBA
+Music lyrics.
+Bronny, LeBronny, GOAT, LBJ, LeBron, LeSunshine
+Gatorade, Lakers, Mavs, Luka Don, Dallas, Miami, Cavs, Heat, NBA
+Stephen Curry, Steph, Golden State, Warriors, light up the court
+Bronify
 """
+
+model = WhisperModel(
+    "large-v3",
+    device="cuda",
+    compute_type="float16",
+    #asr_options={
+    #    "initial_prompt": PROMPT,
+    #    "word_timestamps": True,
+    #},
+)
 
 def transcribe_audio(file_path):
     print(f"Transcribing {file_path}")
-    result = model.transcribe(
+    segments, _ = model.transcribe(
         file_path,
+        task="transcribe",
         word_timestamps=True,
         initial_prompt=PROMPT,
-        verbose=True,
-        prepend_punctuations="\"'“¿([{-",
-        append_punctuations="\"'.。,，!！?？:：”)]}、",
-        language="en",
-        task="transcribe",
-        # do not suppress tokens
-        suppress_tokens=list(whisper.tokenizer.get_tokenizer(
-            multilingual=False,
-            num_languages=1,
-        ).non_speech_tokens)
+        language="en"
     )
     print(f"Transcribed {file_path}")
     out = []
@@ -85,11 +100,18 @@ def transcribe_audio(file_path):
     start = 0
     end = 0
 
+    print(segments)
+
     # convert the results into a list of list of dicts with the structure:
     # text: "text", start: start, end: end
-    for segment in result["segments"]:
+    for segment in segments:
         words = []
-        for word in segment["words"]:
+        for word in segment.words:
+            word = {
+                "word": word.word,
+                "start": word.start,
+                "end": word.end
+            }
             # if the word starts with a space, remove it and add it to the previous word if it exists
             if word["word"].lstrip() != word["word"]:
                 if words:

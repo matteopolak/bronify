@@ -27,7 +27,7 @@
 			loading="lazy"
 			src={url}
 			alt={track.title}
-			class="aspect-square h-auto w-auto rounded-lg brightness-50 sm:brightness-100"
+			class="aspect-square h-auto w-auto rounded-lg shadow-lg brightness-50 sm:brightness-100"
 		/>
 
 		<!-- Play button -->

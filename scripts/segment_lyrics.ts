@@ -9,6 +9,8 @@ export type LyricsWord = {
 	start: number;
 	end: number;
 	index: number;
+	started?: boolean;
+	ended?: boolean;
 };
 export type LyricsLine = {
 	words: LyricsWord[];
@@ -49,12 +51,28 @@ function mustStartLine(text: string) {
 	return !canSkip;
 }
 
+const wordReplacements = {
+	goat: 'GOAT',
+	bronn: 'Bron',
+	brawn: 'Bron'
+};
+
+const wordReplacementsRegex = {};
+
+for (const key of Object.keys(wordReplacements)) {
+	wordReplacementsRegex[key] = new RegExp(`\\b${key}\\b`, 'gi');
+}
+
 function cleanWord(text: string) {
 	if (text.endsWith('.')) {
 		text = text.slice(0, -1);
 	}
 
-	return text.replace(/\bgoat\b/g, 'GOAT');
+	for (const [key, value] of Object.entries(wordReplacements)) {
+		text = text.replace(wordReplacementsRegex[key], value);
+	}
+
+	return text;
 }
 
 const weirdRepetitionRegex = /^([^,\s]+)(?:[, ]*\1){4,}$/;
@@ -81,7 +99,12 @@ for (const track of tracks) {
 	}
 
 	// flatten all lyrics
-	const flattened = lyrics.flatMap((l) => l.words);
+	const flattened = lyrics.flatMap((l) => {
+		const words = l.words;
+		words[0].started = true;
+		words[words.length - 1].ended = true;
+		return words;
+	});
 
 	// if the gap is larger than this, make a new line
 	const SPLIT_TIME_THRESHOLD = 0.39;
@@ -100,6 +123,10 @@ for (const track of tracks) {
 
 	for (const word of flattened) {
 		word.text = cleanWord(word.text);
+
+		if (!word.text) {
+			continue;
+		}
 
 		if (weirdRepetitionRegex.test(word.text)) {
 			weirdRepetitionCount++;
@@ -195,10 +222,18 @@ for (const track of tracks) {
 	let index = 0;
 
 	for (const line of newLyrics) {
-		for (const word of line.words) {
+		for (const [idx, word] of line.words.entries()) {
 			word.index = index++;
 			word.end = Math.max(word.end, 0);
 			word.start = Math.max(word.start, 0);
+
+			// add a space to the previous word if doesnt exist
+			if (idx > 0 && word.started && !line.words[idx - 1]?.text.endsWith(' ')) {
+				line.words[idx - 1].text += ' ';
+			}
+
+			word.started = undefined;
+			word.ended = undefined;
 		}
 	}
 

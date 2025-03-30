@@ -2,949 +2,1063 @@
 	{
 		"words": [
 			{
-				"text": "Bronny, ",
+				"text": "RUN",
 				"start": 0,
-				"end": 0.78,
+				"end": 0.42,
 				"index": 0
-			},
-			{
-				"text": "let's ",
-				"start": 1.24,
-				"end": 1.8,
-				"index": 1
-			},
-			{
-				"text": "talk ",
-				"start": 1.8,
-				"end": 2,
-				"index": 2
-			},
-			{
-				"text": "about",
-				"start": 2,
-				"end": 2.38,
-				"index": 3
 			}
 		],
 		"start": 0,
-		"end": 2.38
+		"end": 0.42
 	},
 	{
 		"words": [
 			{
-				"text": "Monny",
+				"text": "LET'S",
 				"start": 0,
-				"end": 1.62,
+				"end": 1.16,
+				"index": 1
+			}
+		],
+		"start": 0.6,
+		"end": 1.76
+	},
+	{
+		"words": [
+			{
+				"text": "TALK",
+				"start": 0,
+				"end": 0.16,
+				"index": 2
+			}
+		],
+		"start": 1.76,
+		"end": 1.92
+	},
+	{
+		"words": [
+			{
+				"text": "ABOUT",
+				"start": 0,
+				"end": 0.2,
+				"index": 3
+			}
+		],
+		"start": 1.92,
+		"end": 2.12
+	},
+	{
+		"words": [
+			{
+				"text": "RUN",
+				"start": 0,
+				"end": 0.92,
 				"index": 4
 			}
 		],
-		"start": 2.38,
-		"end": 4
+		"start": 2.12,
+		"end": 3.04
 	},
 	{
 		"words": [
 			{
-				"text": "Is ",
+				"text": "IS",
 				"start": 0,
-				"end": 0.5,
+				"end": 1.26,
 				"index": 5
-			},
+			}
+		],
+		"start": 3.04,
+		"end": 4.3
+	},
+	{
+		"words": [
 			{
-				"text": "he ",
-				"start": 0.5,
-				"end": 0.88,
+				"text": "HE",
+				"start": 0,
+				"end": 0.28,
 				"index": 6
-			},
+			}
+		],
+		"start": 4.3,
+		"end": 4.58
+	},
+	{
+		"words": [
 			{
-				"text": "everything ",
-				"start": 0.88,
-				"end": 1.5,
+				"text": "EVERYTHING",
+				"start": 0,
+				"end": 0.94,
 				"index": 7
-			},
+			}
+		],
+		"start": 4.58,
+		"end": 5.52
+	},
+	{
+		"words": [
 			{
-				"text": "and ",
-				"start": 1.5,
-				"end": 1.98,
+				"text": "AND",
+				"start": 0,
+				"end": 0.24,
 				"index": 8
-			},
+			}
+		],
+		"start": 5.52,
+		"end": 5.76
+	},
+	{
+		"words": [
 			{
-				"text": "anything ",
-				"start": 1.98,
-				"end": 2.7,
+				"text": "ANYTHING",
+				"start": 0,
+				"end": 0.98,
 				"index": 9
-			},
+			}
+		],
+		"start": 5.76,
+		"end": 6.74
+	},
+	{
+		"words": [
 			{
-				"text": "you ",
-				"start": 2.7,
-				"end": 3.06,
+				"text": "YOU",
+				"start": 0,
+				"end": 0.2,
 				"index": 10
-			},
+			}
+		],
+		"start": 6.74,
+		"end": 6.94
+	},
+	{
+		"words": [
 			{
-				"text": "hoped ",
-				"start": 3.06,
-				"end": 3.3,
+				"text": "HOPED",
+				"start": 0,
+				"end": 0.34,
 				"index": 11
-			},
+			}
+		],
+		"start": 6.94,
+		"end": 7.28
+	},
+	{
+		"words": [
 			{
-				"text": "for?",
-				"start": 3.3,
-				"end": 4.04,
+				"text": "FOR",
+				"start": 0,
+				"end": 0.24,
 				"index": 12
 			}
 		],
-		"start": 4,
-		"end": 8.04
+		"start": 7.28,
+		"end": 7.52
 	},
 	{
 		"words": [
 			{
-				"text": "To ",
+				"text": "TO",
 				"start": 0,
-				"end": 0.2,
+				"end": 1.24,
 				"index": 13
-			},
+			}
+		],
+		"start": 7.52,
+		"end": 8.76
+	},
+	{
+		"words": [
 			{
-				"text": "me ",
-				"start": 0.2,
-				"end": 0.38,
+				"text": "ME",
+				"start": 0,
+				"end": 0.14,
 				"index": 14
-			},
+			}
+		],
+		"start": 8.76,
+		"end": 8.9
+	},
+	{
+		"words": [
 			{
-				"text": "that ",
-				"start": 0.38,
-				"end": 0.56,
+				"text": "THAT",
+				"start": 0,
+				"end": 0.22,
 				"index": 15
-			},
+			}
+		],
+		"start": 8.9,
+		"end": 9.12
+	},
+	{
+		"words": [
 			{
-				"text": "is ",
-				"start": 0.56,
-				"end": 0.74,
+				"text": "IS",
+				"start": 0,
+				"end": 0.14,
 				"index": 16
-			},
+			}
+		],
+		"start": 9.12,
+		"end": 9.26
+	},
+	{
+		"words": [
 			{
-				"text": "beyond ",
-				"start": 0.74,
-				"end": 1.16,
+				"text": "BEYOND",
+				"start": 0,
+				"end": 0.6,
 				"index": 17
-			},
+			}
+		],
+		"start": 9.26,
+		"end": 9.86
+	},
+	{
+		"words": [
 			{
-				"text": "true",
-				"start": 1.16,
-				"end": 1.86,
+				"text": "TRUE",
+				"start": 0,
+				"end": 0.5,
 				"index": 18
 			}
 		],
-		"start": 8.66,
-		"end": 10.52
+		"start": 9.86,
+		"end": 10.36
 	},
 	{
 		"words": [
 			{
-				"text": "To ",
+				"text": "TO",
 				"start": 0,
-				"end": 3.28,
+				"end": 2.36,
 				"index": 19
-			},
+			}
+		],
+		"start": 10.36,
+		"end": 12.72
+	},
+	{
+		"words": [
 			{
-				"text": "me ",
-				"start": 3.28,
-				"end": 3.48,
+				"text": "ME",
+				"start": 0,
+				"end": 1.14,
 				"index": 20
-			},
+			}
+		],
+		"start": 12.72,
+		"end": 13.86
+	},
+	{
+		"words": [
 			{
-				"text": "that ",
-				"start": 3.48,
-				"end": 3.64,
+				"text": "THAT",
+				"start": 0,
+				"end": 0.22,
 				"index": 21
-			},
+			}
+		],
+		"start": 13.86,
+		"end": 14.08
+	},
+	{
+		"words": [
 			{
-				"text": "is ",
-				"start": 3.64,
-				"end": 3.82,
+				"text": "IS",
+				"start": 0,
+				"end": 0.12,
 				"index": 22
-			},
+			}
+		],
+		"start": 14.08,
+		"end": 14.2
+	},
+	{
+		"words": [
 			{
-				"text": "beyond ",
-				"start": 3.82,
-				"end": 4.4,
+				"text": "BEYOND",
+				"start": 0,
+				"end": 0.6,
 				"index": 23
-			},
+			}
+		],
+		"start": 14.2,
+		"end": 14.8
+	},
+	{
+		"words": [
 			{
-				"text": "true",
-				"start": 4.4,
-				"end": 4.76,
+				"text": "TRUE",
+				"start": 0,
+				"end": 0.54,
 				"index": 24
 			}
 		],
-		"start": 10.52,
-		"end": 15.28
+		"start": 14.8,
+		"end": 15.34
 	},
 	{
 		"words": [
 			{
-				"text": "This ",
+				"text": "THIS",
 				"start": 0,
-				"end": 0.72,
+				"end": 0.48,
 				"index": 25
-			},
+			}
+		],
+		"start": 18.42,
+		"end": 18.9
+	},
+	{
+		"words": [
 			{
-				"text": "may ",
-				"start": 0.72,
-				"end": 0.86,
+				"text": "MAY",
+				"start": 0,
+				"end": 0.2,
 				"index": 26
-			},
+			}
+		],
+		"start": 18.9,
+		"end": 19.1
+	},
+	{
+		"words": [
 			{
-				"text": "be ",
-				"start": 0.86,
-				"end": 1,
+				"text": "BE",
+				"start": 0,
+				"end": 0.16,
 				"index": 27
-			},
+			}
+		],
+		"start": 19.1,
+		"end": 19.26
+	},
+	{
+		"words": [
 			{
-				"text": "the ",
-				"start": 1,
-				"end": 1.24,
+				"text": "THE",
+				"start": 0,
+				"end": 0.16,
 				"index": 28
-			},
+			}
+		],
+		"start": 19.26,
+		"end": 19.42
+	},
+	{
+		"words": [
 			{
-				"text": "life ",
-				"start": 1.24,
-				"end": 1.42,
+				"text": "LUCK",
+				"start": 0,
+				"end": 0.38,
 				"index": 29
-			},
+			}
+		],
+		"start": 19.42,
+		"end": 19.8
+	},
+	{
+		"words": [
 			{
-				"text": "that ",
-				"start": 1.42,
-				"end": 1.72,
+				"text": "THAT",
+				"start": 0,
+				"end": 0.16,
 				"index": 30
-			},
+			}
+		],
+		"start": 19.8,
+		"end": 19.96
+	},
+	{
+		"words": [
 			{
-				"text": "my ",
-				"start": 1.72,
-				"end": 1.96,
+				"text": "MY",
+				"start": 0,
+				"end": 0.22,
 				"index": 31
-			},
+			}
+		],
+		"start": 19.96,
+		"end": 20.18
+	},
+	{
+		"words": [
 			{
-				"text": "king ",
-				"start": 1.96,
-				"end": 2.22,
+				"text": "KING",
+				"start": 0,
+				"end": 0.38,
 				"index": 32
-			},
+			}
+		],
+		"start": 20.18,
+		"end": 20.56
+	},
+	{
+		"words": [
 			{
-				"text": "might ",
-				"start": 2.22,
-				"end": 2.48,
+				"text": "MIGHT",
+				"start": 0,
+				"end": 0.28,
 				"index": 33
-			},
+			}
+		],
+		"start": 20.56,
+		"end": 20.84
+	},
+	{
+		"words": [
 			{
-				"text": "let ",
-				"start": 2.48,
-				"end": 2.84,
+				"text": "LET",
+				"start": 0,
+				"end": 0.22,
 				"index": 34
-			},
+			}
+		],
+		"start": 20.84,
+		"end": 21.06
+	},
+	{
+		"words": [
 			{
-				"text": "me ",
-				"start": 2.84,
-				"end": 3.18,
+				"text": "ME",
+				"start": 0,
+				"end": 0.3,
 				"index": 35
-			},
+			}
+		],
+		"start": 21.06,
+		"end": 21.36
+	},
+	{
+		"words": [
 			{
-				"text": "rule",
-				"start": 3.18,
-				"end": 3.56,
+				"text": "ROLL",
+				"start": 0,
+				"end": 0.52,
 				"index": 36
 			}
 		],
-		"start": 18.4,
-		"end": 21.96
+		"start": 21.36,
+		"end": 21.88
 	},
 	{
 		"words": [
 			{
-				"text": "All ",
+				"text": "ALL",
 				"start": 0,
-				"end": 0.58,
+				"end": 0.42,
 				"index": 37
-			},
-			{
-				"text": "the ",
-				"start": 0.58,
-				"end": 0.88,
-				"index": 38
-			},
-			{
-				"text": "bonds ",
-				"start": 0.88,
-				"end": 1.2,
-				"index": 39
-			},
-			{
-				"text": "are ",
-				"start": 1.2,
-				"end": 1.48,
-				"index": 40
-			},
-			{
-				"text": "going",
-				"start": 1.48,
-				"end": 2.14,
-				"index": 41
 			}
 		],
-		"start": 21.96,
-		"end": 24.1
+		"start": 21.88,
+		"end": 22.3
 	},
 	{
 		"words": [
 			{
-				"text": "All ",
+				"text": "THE",
 				"start": 0,
-				"end": 0.78,
+				"end": 0.26,
+				"index": 38
+			}
+		],
+		"start": 22.3,
+		"end": 22.56
+	},
+	{
+		"words": [
+			{
+				"text": "BONDS",
+				"start": 0,
+				"end": 0.58,
+				"index": 39
+			}
+		],
+		"start": 22.56,
+		"end": 23.14
+	},
+	{
+		"words": [
+			{
+				"text": "ARE",
+				"start": 0,
+				"end": 0.08,
+				"index": 40
+			}
+		],
+		"start": 23.14,
+		"end": 23.22
+	},
+	{
+		"words": [
+			{
+				"text": "GOING ",
+				"start": 0,
+				"end": 0.62,
+				"index": 41
+			},
+			{
+				"text": "speech",
+				"start": 0.62,
+				"end": 3.62,
 				"index": 42
-			},
+			}
+		],
+		"start": 23.22,
+		"end": 26.84
+	},
+	{
+		"words": [
 			{
-				"text": "the ",
-				"start": 0.78,
-				"end": 1.14,
+				"text": "TELL",
+				"start": 0,
+				"end": 0.48,
 				"index": 43
-			},
+			}
+		],
+		"start": 38.04,
+		"end": 38.52
+	},
+	{
+		"words": [
 			{
-				"text": "bonds ",
-				"start": 1.14,
-				"end": 1.5,
+				"text": "ME",
+				"start": 0,
+				"end": 0.48,
 				"index": 44
-			},
+			}
+		],
+		"start": 38.52,
+		"end": 39
+	},
+	{
+		"words": [
 			{
-				"text": "are ",
-				"start": 1.5,
-				"end": 1.74,
+				"text": "WHAT",
+				"start": 0,
+				"end": 0.08,
 				"index": 45
-			},
+			}
+		],
+		"start": 39,
+		"end": 39.08
+	},
+	{
+		"words": [
 			{
-				"text": "going",
-				"start": 1.74,
-				"end": 2.54,
+				"text": "HE",
+				"start": 0,
+				"end": 0.16,
 				"index": 46
 			}
 		],
-		"start": 24.1,
-		"end": 26.64
+		"start": 39.08,
+		"end": 39.24
 	},
 	{
 		"words": [
 			{
-				"text": "All ",
+				"text": "GON",
 				"start": 0,
-				"end": 0.82,
+				"end": 0.24,
 				"index": 47
-			},
+			}
+		],
+		"start": 39.24,
+		"end": 39.48
+	},
+	{
+		"words": [
 			{
-				"text": "the ",
-				"start": 0.82,
-				"end": 1.08,
+				"text": "DO",
+				"start": 0,
+				"end": 0.08,
 				"index": 48
-			},
+			}
+		],
+		"start": 39.48,
+		"end": 39.56
+	},
+	{
+		"words": [
 			{
-				"text": "bonds ",
-				"start": 1.08,
-				"end": 1.46,
+				"text": "TO",
+				"start": 0,
+				"end": 0.28,
 				"index": 49
-			},
+			}
+		],
+		"start": 39.56,
+		"end": 39.84
+	},
+	{
+		"words": [
 			{
-				"text": "are ",
-				"start": 1.46,
-				"end": 1.7,
+				"text": "HIM",
+				"start": 0,
+				"end": 0.32,
 				"index": 50
-			},
+			}
+		],
+		"start": 39.84,
+		"end": 40.16
+	},
+	{
+		"words": [
 			{
-				"text": "going",
-				"start": 1.7,
-				"end": 2.24,
+				"text": "HIT",
+				"start": 0,
+				"end": 0.9,
 				"index": 51
 			}
 		],
-		"start": 26.64,
-		"end": 28.88
+		"start": 40.16,
+		"end": 41.06
 	},
 	{
 		"words": [
 			{
-				"text": "All ",
+				"text": "THAT",
 				"start": 0,
-				"end": 3.02,
+				"end": 0.14,
 				"index": 52
-			},
+			}
+		],
+		"start": 41.06,
+		"end": 41.2
+	},
+	{
+		"words": [
 			{
-				"text": "the ",
-				"start": 3.02,
-				"end": 3.82,
+				"text": "BACK",
+				"start": 0,
+				"end": 0.14,
 				"index": 53
-			},
+			}
+		],
+		"start": 41.2,
+		"end": 41.34
+	},
+	{
+		"words": [
 			{
-				"text": "bonds ",
-				"start": 3.82,
-				"end": 4.24,
+				"text": "BOARD",
+				"start": 0,
+				"end": 0.18,
 				"index": 54
-			},
+			}
+		],
+		"start": 41.34,
+		"end": 41.52
+	},
+	{
+		"words": [
 			{
-				"text": "are ",
-				"start": 4.24,
-				"end": 4.5,
+				"text": "AIN'T",
+				"start": 0,
+				"end": 0.2,
 				"index": 55
-			},
+			}
+		],
+		"start": 41.52,
+		"end": 41.72
+	},
+	{
+		"words": [
 			{
-				"text": "going",
-				"start": 4.5,
-				"end": 4.76,
+				"text": "NOTHING",
+				"start": 0,
+				"end": 0.18,
 				"index": 56
 			}
 		],
-		"start": 28.88,
-		"end": 33.64
+		"start": 41.72,
+		"end": 41.9
 	},
 	{
 		"words": [
 			{
-				"text": "All ",
+				"text": "NEW",
+				"start": 0,
+				"end": 0.24,
+				"index": 57
+			}
+		],
+		"start": 41.9,
+		"end": 42.14
+	},
+	{
+		"words": [
+			{
+				"text": "TO",
+				"start": 0,
+				"end": 0.22,
+				"index": 58
+			}
+		],
+		"start": 42.14,
+		"end": 42.36
+	},
+	{
+		"words": [
+			{
+				"text": "HIM",
+				"start": 0,
+				"end": 0.24,
+				"index": 59
+			}
+		],
+		"start": 42.36,
+		"end": 42.6
+	},
+	{
+		"words": [
+			{
+				"text": "HE",
 				"start": 0,
 				"end": 0.48,
-				"index": 57
-			},
-			{
-				"text": "the ",
-				"start": 0.48,
-				"end": 0.8,
-				"index": 58
-			},
-			{
-				"text": "bonds ",
-				"start": 0.8,
-				"end": 1.2,
-				"index": 59
-			},
-			{
-				"text": "are ",
-				"start": 1.2,
-				"end": 1.5,
 				"index": 60
-			},
+			}
+		],
+		"start": 43.44,
+		"end": 43.92
+	},
+	{
+		"words": [
 			{
-				"text": "going",
-				"start": 1.5,
-				"end": 2.22,
+				"text": "CAN",
+				"start": 0,
+				"end": 0.14,
 				"index": 61
 			}
 		],
-		"start": 34.36,
-		"end": 36.58
+		"start": 43.92,
+		"end": 44.06
 	},
 	{
 		"words": [
 			{
-				"text": "All ",
+				"text": "BRING",
 				"start": 0,
-				"end": 0.72,
+				"end": 0.24,
 				"index": 62
-			},
+			}
+		],
+		"start": 44.06,
+		"end": 44.3
+	},
+	{
+		"words": [
 			{
-				"text": "the ",
-				"start": 0.72,
-				"end": 1.04,
+				"text": "THE ",
+				"start": 0,
+				"end": 0.1,
 				"index": 63
 			},
 			{
-				"text": "bonds ",
-				"start": 1.04,
-				"end": 1.48,
+				"text": "B ",
+				"start": 0.1,
+				"end": 0.18,
 				"index": 64
 			},
 			{
-				"text": "are ",
-				"start": 1.48,
-				"end": 1.74,
+				"text": "donci ",
+				"start": 0.18,
+				"end": 0.92,
 				"index": 65
 			},
 			{
-				"text": "going",
-				"start": 1.74,
-				"end": 1.82,
+				"text": "is ",
+				"start": 0.92,
+				"end": 1.06,
 				"index": 66
-			}
-		],
-		"start": 36.58,
-		"end": 38.4
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Tell ",
-				"start": 0,
-				"end": 0.48,
+				"text": "bring ",
+				"start": 1.06,
+				"end": 1.18,
 				"index": 67
 			},
 			{
-				"text": "me ",
-				"start": 0.48,
-				"end": 0.74,
+				"text": "the ",
+				"start": 1.18,
+				"end": 1.32,
 				"index": 68
 			},
 			{
-				"text": "what ",
-				"start": 0.74,
-				"end": 0.84,
+				"text": "warriors ",
+				"start": 1.32,
+				"end": 1.66,
 				"index": 69
 			},
 			{
-				"text": "he ",
-				"start": 0.84,
-				"end": 0.96,
+				"text": "they ",
+				"start": 1.66,
+				"end": 1.9,
 				"index": 70
 			},
 			{
-				"text": "gon' ",
-				"start": 0.96,
-				"end": 1.14,
+				"text": "nothing ",
+				"start": 1.9,
+				"end": 2.1,
 				"index": 71
 			},
 			{
-				"text": "do ",
-				"start": 1.22,
-				"end": 1.42,
+				"text": "but ",
+				"start": 2.1,
+				"end": 2.42,
 				"index": 72
 			},
 			{
-				"text": "to ",
-				"start": 1.42,
-				"end": 1.68,
+				"text": "a ",
+				"start": 2.42,
+				"end": 2.6,
 				"index": 73
 			},
 			{
-				"text": "him",
-				"start": 1.68,
-				"end": 1.88,
+				"text": "fool ",
+				"start": 2.6,
+				"end": 2.78,
 				"index": 74
-			}
-		],
-		"start": 38.4,
-		"end": 40.28
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Hit ",
-				"start": 0,
-				"end": 0.82,
+				"text": "to ",
+				"start": 2.78,
+				"end": 3.06,
 				"index": 75
 			},
 			{
-				"text": "that ",
-				"start": 0.82,
-				"end": 1.02,
+				"text": "them ",
+				"start": 3.06,
+				"end": 3.24,
 				"index": 76
 			},
 			{
-				"text": "backboard ",
-				"start": 1.02,
-				"end": 1.32,
+				"text": "tell ",
+				"start": 3.24,
+				"end": 4.06,
 				"index": 77
 			},
 			{
-				"text": "ain't ",
-				"start": 1.32,
-				"end": 1.52,
+				"text": "me ",
+				"start": 4.06,
+				"end": 4.26,
 				"index": 78
 			},
 			{
-				"text": "nothin' ",
-				"start": 1.52,
-				"end": 1.74,
+				"text": "somebody ",
+				"start": 4.26,
+				"end": 4.6,
 				"index": 79
 			},
 			{
-				"text": "new ",
-				"start": 1.82,
-				"end": 1.98,
+				"text": "balling ",
+				"start": 4.6,
+				"end": 5.12,
 				"index": 80
 			},
 			{
-				"text": "to ",
-				"start": 1.98,
-				"end": 2.22,
+				"text": "harder ",
+				"start": 5.12,
+				"end": 5.3,
 				"index": 81
 			},
 			{
-				"text": "him",
-				"start": 2.22,
-				"end": 2.46,
+				"text": "who ",
+				"start": 5.3,
+				"end": 5.52,
 				"index": 82
-			}
-		],
-		"start": 40.28,
-		"end": 42.74
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "He ",
-				"start": 0,
-				"end": 0.48,
+				"text": "this ",
+				"start": 5.52,
+				"end": 5.84,
 				"index": 83
 			},
 			{
-				"text": "can ",
-				"start": 0.48,
-				"end": 0.62,
+				"text": "don't ",
+				"start": 5.84,
+				"end": 6.7,
 				"index": 84
 			},
 			{
-				"text": "bring ",
-				"start": 0.62,
-				"end": 0.78,
+				"text": "even ",
+				"start": 6.7,
+				"end": 6.76,
 				"index": 85
 			},
 			{
-				"text": "the ",
-				"start": 0.78,
-				"end": 0.94,
+				"text": "want ",
+				"start": 6.76,
+				"end": 7.1,
 				"index": 86
 			},
 			{
-				"text": "bulls, ",
-				"start": 0.94,
-				"end": 1.18,
+				"text": "to ",
+				"start": 7.1,
+				"end": 7.24,
 				"index": 87
 			},
 			{
-				"text": "bring ",
-				"start": 1.3,
-				"end": 1.42,
+				"text": "hear ",
+				"start": 7.24,
+				"end": 7.38,
 				"index": 88
 			},
 			{
-				"text": "the ",
-				"start": 1.42,
-				"end": 1.58,
+				"text": "all ",
+				"start": 7.38,
+				"end": 7.54,
 				"index": 89
 			},
 			{
-				"text": "nuggets, ",
-				"start": 1.58,
-				"end": 1.78,
+				"text": "your ",
+				"start": 7.54,
+				"end": 7.68,
 				"index": 90
 			},
 			{
-				"text": "bring ",
-				"start": 1.9,
-				"end": 2.02,
+				"text": "excuses ",
+				"start": 7.68,
+				"end": 8.08,
 				"index": 91
 			},
 			{
-				"text": "the ",
-				"start": 2.02,
-				"end": 2.18,
+				"text": "i ",
+				"start": 8.08,
+				"end": 8.7,
 				"index": 92
 			},
 			{
-				"text": "warriors",
-				"start": 2.18,
-				"end": 2.52,
+				"text": "recognize ",
+				"start": 8.7,
+				"end": 9.38,
 				"index": 93
-			}
-		],
-		"start": 43.56,
-		"end": 46.08
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "They ",
-				"start": 0,
-				"end": 0.26,
+				"text": "as ",
+				"start": 9.38,
+				"end": 9.72,
 				"index": 94
 			},
 			{
-				"text": "nothin' ",
-				"start": 0.26,
-				"end": 0.6,
+				"text": "far ",
+				"start": 9.72,
+				"end": 9.88,
 				"index": 95
 			},
 			{
-				"text": "but ",
-				"start": 0.64,
-				"end": 0.76,
+				"text": "as ",
+				"start": 9.88,
+				"end": 10.04,
 				"index": 96
 			},
 			{
-				"text": "a ",
-				"start": 0.76,
-				"end": 0.98,
+				"text": "excellence ",
+				"start": 10.04,
+				"end": 10.4,
 				"index": 97
 			},
 			{
-				"text": "fool ",
-				"start": 0.98,
-				"end": 1.18,
+				"text": "and ",
+				"start": 10.4,
+				"end": 10.64,
 				"index": 98
 			},
 			{
-				"text": "to ",
-				"start": 1.18,
-				"end": 1.44,
+				"text": "glory ",
+				"start": 10.64,
+				"end": 10.86,
 				"index": 99
 			},
 			{
-				"text": "him",
-				"start": 1.44,
-				"end": 1.62,
+				"text": "to ",
+				"start": 10.86,
+				"end": 11.1,
 				"index": 100
-			}
-		],
-		"start": 46.08,
-		"end": 47.7
-	},
-	{
-		"words": [
-			{
-				"text": "Tell ",
-				"start": 0,
-				"end": 0.8,
-				"index": 101
-			},
-			{
-				"text": "me ",
-				"start": 0.8,
-				"end": 0.96,
-				"index": 102
-			},
-			{
-				"text": "somebody ",
-				"start": 0.96,
-				"end": 1.4,
-				"index": 103
-			},
-			{
-				"text": "ballin' ",
-				"start": 1.4,
-				"end": 1.8,
-				"index": 104
-			},
-			{
-				"text": "harder ",
-				"start": 1.82,
-				"end": 1.98,
-				"index": 105
-			},
-			{
-				"text": "who ",
-				"start": 1.98,
-				"end": 2.3,
-				"index": 106
-			},
-			{
-				"text": "dis",
-				"start": 2.3,
-				"end": 2.64,
-				"index": 107
-			}
-		],
-		"start": 47.7,
-		"end": 50.34
-	},
-	{
-		"words": [
-			{
-				"text": "Don't ",
-				"start": 0,
-				"end": 0.74,
-				"index": 108
-			},
-			{
-				"text": "even ",
-				"start": 0.74,
-				"end": 0.86,
-				"index": 109
-			},
-			{
-				"text": "wanna ",
-				"start": 0.86,
-				"end": 1.18,
-				"index": 110
-			},
-			{
-				"text": "hear ",
-				"start": 1.18,
-				"end": 1.42,
-				"index": 111
-			},
-			{
-				"text": "all ",
-				"start": 1.42,
-				"end": 1.58,
-				"index": 112
-			},
-			{
-				"text": "your ",
-				"start": 1.58,
-				"end": 1.78,
-				"index": 113
-			},
-			{
-				"text": "excuses ",
-				"start": 1.78,
-				"end": 2.36,
-				"index": 114
-			},
-			{
-				"text": "I ",
-				"start": 2.36,
-				"end": 3.14,
-				"index": 115
-			},
-			{
-				"text": "recognize ",
-				"start": 3.14,
-				"end": 3.54,
-				"index": 116
-			},
-			{
-				"text": "as ",
-				"start": 3.54,
-				"end": 3.78,
-				"index": 117
-			},
-			{
-				"text": "far ",
-				"start": 3.78,
-				"end": 3.94,
-				"index": 118
-			},
-			{
-				"text": "as ",
-				"start": 3.94,
-				"end": 4.16,
-				"index": 119
-			},
-			{
-				"text": "excellence ",
-				"start": 4.16,
-				"end": 4.46,
-				"index": 120
-			},
-			{
-				"text": "and ",
-				"start": 4.46,
-				"end": 4.72,
-				"index": 121
-			},
-			{
-				"text": "glory",
-				"start": 4.72,
-				"end": 4.96,
-				"index": 122
-			}
-		],
-		"start": 50.34,
-		"end": 55.3
-	},
-	{
-		"words": [
-			{
-				"text": "To ",
-				"start": 0,
-				"end": 0.2,
-				"index": 123
 			},
 			{
 				"text": "the ",
-				"start": 0.2,
-				"end": 0.36,
-				"index": 124
+				"start": 11.1,
+				"end": 11.24,
+				"index": 101
 			},
 			{
-				"text": "goal ",
-				"start": 0.36,
-				"end": 0.54,
-				"index": 125
+				"text": "GOAT ",
+				"start": 11.24,
+				"end": 11.48,
+				"index": 102
 			},
 			{
 				"text": "that ",
-				"start": 0.54,
-				"end": 0.7,
-				"index": 126
+				"start": 11.48,
+				"end": 11.62,
+				"index": 103
 			},
 			{
 				"text": "my ",
-				"start": 0.7,
-				"end": 0.86,
-				"index": 127
+				"start": 11.62,
+				"end": 11.72,
+				"index": 104
 			},
 			{
-				"text": "LeBron ",
-				"start": 0.86,
-				"end": 1.12,
-				"index": 128
+				"text": "lebron ",
+				"start": 11.72,
+				"end": 12.08,
+				"index": 105
 			},
 			{
 				"text": "is ",
-				"start": 1.12,
-				"end": 1.32,
-				"index": 129
+				"start": 12.08,
+				"end": 12.2,
+				"index": 106
 			},
 			{
-				"text": "nothin' ",
-				"start": 1.32,
-				"end": 1.6,
-				"index": 130
+				"text": "nothing ",
+				"start": 12.2,
+				"end": 12.4,
+				"index": 107
 			},
 			{
 				"text": "but ",
-				"start": 1.72,
-				"end": 1.76,
-				"index": 131
+				"start": 12.4,
+				"end": 12.66,
+				"index": 108
 			},
 			{
-				"text": "elusive",
-				"start": 1.76,
-				"end": 2.38,
-				"index": 132
-			}
-		],
-		"start": 55.3,
-		"end": 57.68
-	},
-	{
-		"words": [
-			{
-				"text": "So ",
-				"start": 0,
-				"end": 0.36,
-				"index": 133
+				"text": "elusive ",
+				"start": 12.66,
+				"end": 13.24,
+				"index": 109
 			},
 			{
-				"text": "captivating, ",
-				"start": 0.36,
-				"end": 0.72,
-				"index": 134
+				"text": "so ",
+				"start": 13.24,
+				"end": 14.16,
+				"index": 110
+			},
+			{
+				"text": "captivating ",
+				"start": 14.16,
+				"end": 14.8,
+				"index": 111
 			},
 			{
 				"text": "that's ",
-				"start": 0.84,
-				"end": 1.02,
-				"index": 135
+				"start": 14.8,
+				"end": 15,
+				"index": 112
 			},
 			{
-				"text": "what ",
-				"start": 1.02,
-				"end": 1.12,
-				"index": 136
-			},
-			{
-				"text": "Lebron",
-				"start": 1.12,
-				"end": 1.4,
-				"index": 137
+				"text": "what",
+				"start": 15,
+				"end": 15.14,
+				"index": 113
 			}
 		],
-		"start": 58.42,
-		"end": 59.82
+		"start": 44.3,
+		"end": 59.44
 	}
 ]

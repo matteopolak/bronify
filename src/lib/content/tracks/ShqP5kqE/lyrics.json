@@ -16,419 +16,425 @@
 			{
 				"text": "the ",
 				"start": 0.8,
-				"end": 0.94,
+				"end": 0.9,
 				"index": 2
 			},
 			{
 				"text": "king, ",
-				"start": 0.94,
-				"end": 1.44,
+				"start": 0.9,
+				"end": 1.3,
 				"index": 3
 			},
 			{
-				"text": "you ",
-				"start": 1.58,
-				"end": 1.64,
+				"text": "you're ",
+				"start": 1.52,
+				"end": 1.72,
 				"index": 4
 			},
 			{
-				"text": "bet ",
-				"start": 1.64,
-				"end": 1.78,
+				"text": "betting ",
+				"start": 1.72,
+				"end": 1.88,
 				"index": 5
 			},
 			{
-				"text": "he'll ",
-				"start": 1.78,
-				"end": 2.12,
+				"text": "your ",
+				"start": 1.88,
+				"end": 2.1,
 				"index": 6
 			},
 			{
 				"text": "cash ",
-				"start": 2.12,
-				"end": 2.32,
+				"start": 2.1,
+				"end": 2.4,
 				"index": 7
 			},
 			{
 				"text": "against ",
-				"start": 2.32,
-				"end": 2.6,
+				"start": 2.4,
+				"end": 2.62,
 				"index": 8
 			},
 			{
 				"text": "a ",
-				"start": 2.6,
-				"end": 2.78,
+				"start": 2.62,
+				"end": 2.82,
 				"index": 9
 			},
 			{
-				"text": "girl ",
-				"start": 2.78,
-				"end": 2.88,
+				"text": "GOAT ",
+				"start": 2.82,
+				"end": 3.02,
 				"index": 10
 			},
 			{
 				"text": "with ",
-				"start": 2.88,
-				"end": 3.1,
+				"start": 3.02,
+				"end": 3.2,
 				"index": 11
 			},
 			{
 				"text": "four ",
-				"start": 3.1,
-				"end": 3.28,
+				"start": 3.2,
+				"end": 3.32,
 				"index": 12
 			},
 			{
 				"text": "rings, ",
-				"start": 3.28,
-				"end": 3.9,
+				"start": 3.32,
+				"end": 3.74,
 				"index": 13
 			},
 			{
 				"text": "yeah",
-				"start": 3.92,
-				"end": 4.4,
+				"start": 4.04,
+				"end": 4.2,
 				"index": 14
 			}
 		],
-		"start": 4.74,
-		"end": 9.14
+		"start": 4.58,
+		"end": 8.78
 	},
 	{
 		"words": [
 			{
 				"text": "Mama ",
 				"start": 0,
-				"end": 0.32,
+				"end": 0.56,
 				"index": 15
 			},
 			{
 				"text": "asked ",
-				"start": 0.32,
-				"end": 0.54,
+				"start": 0.56,
+				"end": 0.86,
 				"index": 16
 			},
 			{
 				"text": "me ",
-				"start": 0.54,
-				"end": 0.74,
+				"start": 0.86,
+				"end": 0.98,
 				"index": 17
 			},
 			{
 				"text": "what ",
-				"start": 0.74,
-				"end": 0.86,
+				"start": 0.98,
+				"end": 1.12,
 				"index": 18
 			},
 			{
 				"text": "he ",
-				"start": 0.86,
-				"end": 0.98,
+				"start": 1.12,
+				"end": 1.28,
 				"index": 19
 			},
 			{
 				"text": "gon' ",
-				"start": 0.98,
-				"end": 1.22,
+				"start": 1.28,
+				"end": 1.48,
 				"index": 20
 			},
 			{
 				"text": "bring, ",
-				"start": 1.24,
-				"end": 1.64,
+				"start": 1.54,
+				"end": 1.76,
 				"index": 21
 			},
 			{
 				"text": "y",
-				"start": 1.78,
-				"end": 1.82,
+				"start": 1.96,
+				"end": 2.04,
 				"index": 22
 			},
 			{
 				"text": "'all ",
-				"start": 1.82,
-				"end": 1.84,
+				"start": 2.04,
+				"end": 2.12,
 				"index": 23
 			},
 			{
 				"text": "told ",
-				"start": 1.84,
-				"end": 2.04,
+				"start": 2.12,
+				"end": 2.3,
 				"index": 24
 			},
 			{
 				"text": "her ",
-				"start": 2.04,
-				"end": 2.18,
+				"start": 2.3,
+				"end": 2.46,
 				"index": 25
 			},
 			{
 				"text": "that ",
-				"start": 2.18,
-				"end": 2.32,
+				"start": 2.46,
+				"end": 2.62,
 				"index": 26
 			},
 			{
 				"text": "he ",
-				"start": 2.32,
-				"end": 2.46,
+				"start": 2.62,
+				"end": 2.74,
 				"index": 27
 			},
 			{
 				"text": "finna ",
-				"start": 2.46,
-				"end": 2.72,
+				"start": 2.74,
+				"end": 3,
 				"index": 28
 			},
 			{
 				"text": "bring ",
-				"start": 2.72,
-				"end": 2.94,
+				"start": 3,
+				"end": 3.16,
 				"index": 29
 			},
 			{
 				"text": "Bronny ",
-				"start": 2.94,
-				"end": 3.34,
+				"start": 3.16,
+				"end": 3.66,
 				"index": 30
 			},
 			{
 				"text": "to ",
-				"start": 3.34,
-				"end": 3.52,
+				"start": 3.66,
+				"end": 3.76,
 				"index": 31
 			},
 			{
 				"text": "the ",
-				"start": 3.52,
-				"end": 3.72,
+				"start": 3.76,
+				"end": 3.86,
 				"index": 32
 			},
 			{
 				"text": "team, ",
-				"start": 3.72,
-				"end": 4.16,
+				"start": 3.86,
+				"end": 4.2,
 				"index": 33
 			},
 			{
 				"text": "yeah",
-				"start": 4.16,
-				"end": 4.64,
+				"start": 4.4,
+				"end": 4.72,
 				"index": 34
 			}
 		],
-		"start": 9.14,
-		"end": 13.78
+		"start": 8.78,
+		"end": 13.5
 	},
 	{
 		"words": [
 			{
 				"text": "My ",
 				"start": 0,
-				"end": 0.42,
+				"end": 0.54,
 				"index": 35
 			},
 			{
 				"text": "life ",
-				"start": 0.42,
-				"end": 0.76,
+				"start": 0.54,
+				"end": 0.92,
 				"index": 36
 			},
 			{
 				"text": "changed ",
-				"start": 0.76,
-				"end": 0.98,
+				"start": 0.92,
+				"end": 1.14,
 				"index": 37
 			},
 			{
 				"text": "so ",
-				"start": 0.98,
-				"end": 1.3,
+				"start": 1.14,
+				"end": 1.42,
 				"index": 38
 			},
 			{
 				"text": "fast, ",
-				"start": 1.3,
-				"end": 1.84,
+				"start": 1.42,
+				"end": 1.76,
 				"index": 39
 			},
 			{
-				"text": "that I ",
-				"start": 2.02,
-				"end": 2.14,
+				"text": "that ",
+				"start": 2.22,
+				"end": 2.24,
 				"index": 40
 			},
 			{
-				"text": "don't ",
-				"start": 2.14,
-				"end": 2.22,
+				"text": "I ",
+				"start": 2.24,
+				"end": 2.3,
 				"index": 41
 			},
 			{
-				"text": "even ",
-				"start": 2.22,
-				"end": 2.5,
+				"text": "don't ",
+				"start": 2.3,
+				"end": 2.42,
 				"index": 42
 			},
 			{
-				"text": "recognize ",
-				"start": 2.5,
-				"end": 2.9,
+				"text": "even ",
+				"start": 2.42,
+				"end": 2.56,
 				"index": 43
 			},
 			{
-				"text": "the ",
-				"start": 2.9,
-				"end": 3.14,
+				"text": "recognize ",
+				"start": 2.56,
+				"end": 3,
 				"index": 44
 			},
 			{
-				"text": "girl ",
-				"start": 3.14,
-				"end": 3.34,
+				"text": "the ",
+				"start": 3,
+				"end": 3.26,
 				"index": 45
 			},
 			{
-				"text": "from ",
-				"start": 3.34,
-				"end": 3.64,
+				"text": "GOAT ",
+				"start": 3.26,
+				"end": 3.58,
 				"index": 46
 			},
 			{
-				"text": "last ",
-				"start": 3.64,
-				"end": 4.2,
+				"text": "from ",
+				"start": 3.58,
+				"end": 3.74,
 				"index": 47
 			},
 			{
-				"text": "year",
-				"start": 4.2,
-				"end": 4.56,
+				"text": "last ",
+				"start": 3.74,
+				"end": 4.1,
 				"index": 48
+			},
+			{
+				"text": "year",
+				"start": 4.1,
+				"end": 4.7,
+				"index": 49
 			}
 		],
-		"start": 13.78,
-		"end": 18.34
+		"start": 13.5,
+		"end": 18.2
 	},
 	{
 		"words": [
 			{
 				"text": "He ",
 				"start": 0,
-				"end": 0.18,
-				"index": 49
-			},
-			{
-				"text": "was ",
-				"start": 0.18,
-				"end": 0.32,
+				"end": 0.22,
 				"index": 50
 			},
 			{
-				"text": "killin' ",
-				"start": 0.32,
-				"end": 0.66,
+				"text": "was ",
+				"start": 0.22,
+				"end": 0.36,
 				"index": 51
 			},
 			{
-				"text": "when ",
-				"start": 0.72,
-				"end": 0.78,
+				"text": "killin' ",
+				"start": 0.36,
+				"end": 0.72,
 				"index": 52
+			},
+			{
+				"text": "when ",
+				"start": 0.74,
+				"end": 0.78,
+				"index": 53
 			},
 			{
 				"text": "he ",
 				"start": 0.78,
-				"end": 0.9,
-				"index": 53
-			},
-			{
-				"text": "put ",
-				"start": 0.9,
-				"end": 1.08,
+				"end": 0.96,
 				"index": 54
 			},
 			{
-				"text": "on ",
-				"start": 1.08,
-				"end": 1.26,
+				"text": "put ",
+				"start": 0.96,
+				"end": 1.1,
 				"index": 55
 			},
 			{
-				"text": "that ",
-				"start": 1.26,
-				"end": 1.5,
+				"text": "on ",
+				"start": 1.1,
+				"end": 1.28,
 				"index": 56
 			},
 			{
-				"text": "mask, ",
-				"start": 1.5,
-				"end": 1.82,
+				"text": "that ",
+				"start": 1.28,
+				"end": 1.48,
 				"index": 57
 			},
 			{
-				"text": "he's ",
-				"start": 1.98,
-				"end": 2.14,
+				"text": "mask, ",
+				"start": 1.48,
+				"end": 1.84,
 				"index": 58
 			},
 			{
-				"text": "only ",
-				"start": 2.14,
-				"end": 2.32,
+				"text": "he's ",
+				"start": 2,
+				"end": 2.2,
 				"index": 59
+			},
+			{
+				"text": "only ",
+				"start": 2.2,
+				"end": 2.32,
+				"index": 60
 			},
 			{
 				"text": "pushin' ",
 				"start": 2.32,
-				"end": 2.66,
-				"index": 60
-			},
-			{
-				"text": "40 ",
-				"start": 2.86,
-				"end": 2.94,
+				"end": 2.74,
 				"index": 61
 			},
 			{
-				"text": "hits, ",
-				"start": 2.94,
-				"end": 3.16,
+				"text": "40, ",
+				"start": 2.74,
+				"end": 2.9,
 				"index": 62
+			},
+			{
+				"text": "he ",
+				"start": 2.96,
+				"end": 3.16,
+				"index": 63
 			},
 			{
 				"text": "ain't ",
 				"start": 3.16,
-				"end": 3.36,
-				"index": 63
-			},
-			{
-				"text": "never ",
-				"start": 3.36,
-				"end": 3.54,
+				"end": 3.42,
 				"index": 64
 			},
 			{
-				"text": "endin' ",
-				"start": 3.54,
-				"end": 3.84,
+				"text": "never ",
+				"start": 3.42,
+				"end": 3.54,
 				"index": 65
 			},
 			{
-				"text": "his ",
-				"start": 3.84,
-				"end": 4.26,
+				"text": "ended ",
+				"start": 3.54,
+				"end": 3.82,
 				"index": 66
 			},
 			{
-				"text": "career",
-				"start": 4.26,
-				"end": 4.74,
+				"text": "his ",
+				"start": 3.82,
+				"end": 4.06,
 				"index": 67
+			},
+			{
+				"text": "career",
+				"start": 4.06,
+				"end": 4.64,
+				"index": 68
 			}
 		],
-		"start": 18.34,
-		"end": 23.08
+		"start": 18.2,
+		"end": 22.84
 	}
 ]

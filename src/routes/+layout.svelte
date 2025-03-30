@@ -168,7 +168,11 @@
 	let lyricsBackgroundColor = $derived(pastelColorFromString(player.track.id));
 
 	beforeNavigate(({ type, from, to }) => {
-		if (type === 'leave' || from?.url.pathname === to?.url.pathname) return;
+		if (
+			type === 'leave' ||
+			(from?.url.pathname === to?.url.pathname && from?.url?.search === to?.url?.search)
+		)
+			return;
 
 		if (comingSoonModal.open) {
 			comingSoonModal.close();
@@ -320,7 +324,7 @@
 					bind:value={search}
 					type="search"
 					class="grow"
-					placeholder="What do you want to play?"
+					placeholder="Search artist, title, and lyrics"
 					autocomplete="off"
 				/>
 				<kbd class="kbd kbd-sm">⌘</kbd>

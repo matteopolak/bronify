@@ -4,371 +4,179 @@
 			{
 				"text": "LeBron ",
 				"start": 0,
-				"end": 0.74,
+				"end": 0.78,
 				"index": 0
 			},
 			{
 				"text": "James, ",
-				"start": 0.74,
-				"end": 1.48,
+				"start": 0.78,
+				"end": 1.36,
 				"index": 1
 			},
 			{
 				"text": "you ",
-				"start": 1.52,
-				"end": 1.82,
+				"start": 1.58,
+				"end": 1.78,
 				"index": 2
 			},
 			{
 				"text": "are ",
-				"start": 1.82,
-				"end": 2.12,
+				"start": 1.78,
+				"end": 2.08,
 				"index": 3
 			},
 			{
 				"text": "so ",
-				"start": 2.12,
-				"end": 2.52,
+				"start": 2.08,
+				"end": 2.48,
 				"index": 4
 			},
 			{
-				"text": "unforgettable",
-				"start": 2.52,
-				"end": 3.5,
+				"text": "unforgettable, ",
+				"start": 2.48,
+				"end": 3.16,
 				"index": 5
-			}
-		],
-		"start": 1.74,
-		"end": 5.24
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "I've ",
-				"start": 0,
-				"end": 0.42,
+				"text": "move ",
+				"start": 3.78,
+				"end": 4.1,
 				"index": 6
 			},
 			{
-				"text": "crashed ",
-				"start": 0.42,
-				"end": 0.72,
+				"text": "by ",
+				"start": 4.1,
+				"end": 4.12,
 				"index": 7
 			},
 			{
-				"text": "beers ",
-				"start": 0.72,
-				"end": 1.2,
+				"text": "crash, ",
+				"start": 4.12,
+				"end": 4.86,
 				"index": 8
 			},
 			{
-				"text": "in ",
-				"start": 1.2,
-				"end": 1.54,
+				"text": "fierce, ",
+				"start": 4.86,
+				"end": 5.24,
 				"index": 9
 			},
 			{
-				"text": "three, ",
-				"start": 1.54,
-				"end": 1.82,
+				"text": "and ",
+				"start": 5.32,
+				"end": 5.64,
 				"index": 10
 			},
 			{
-				"text": "throw ",
-				"start": 2.12,
-				"end": 2.2,
+				"text": "three",
+				"start": 5.64,
+				"end": 5.84,
 				"index": 11
 			},
 			{
-				"text": "sunlight",
-				"start": 2.2,
-				"end": 2.96,
+				"text": "-throw ",
+				"start": 5.84,
+				"end": 6.32,
 				"index": 12
+			},
+			{
+				"text": "satellite",
+				"start": 6.32,
+				"end": 6.76,
+				"index": 13
 			}
 		],
-		"start": 5.82,
-		"end": 8.78
+		"start": 1.6,
+		"end": 8.36
 	},
 	{
 		"words": [
 			{
-				"text": "Laker's ",
+				"text": "Lakers, ",
 				"start": 0,
-				"end": 0.74,
-				"index": 13
-			},
-			{
-				"text": "breath ",
-				"start": 0.74,
-				"end": 0.92,
+				"end": 0.78,
 				"index": 14
 			},
 			{
-				"text": "is ",
-				"start": 0.92,
-				"end": 1.4,
+				"text": "represent, ",
+				"start": 0.84,
+				"end": 1.48,
 				"index": 15
 			},
 			{
-				"text": "sand, ",
-				"start": 1.4,
-				"end": 1.66,
+				"text": "now ",
+				"start": 2.2,
+				"end": 2.52,
 				"index": 16
 			},
 			{
-				"text": "now ",
-				"start": 1.9,
-				"end": 2,
+				"text": "put ",
+				"start": 2.52,
+				"end": 2.7,
 				"index": 17
 			},
 			{
-				"text": "put ",
-				"start": 2,
-				"end": 2.24,
+				"text": "your ",
+				"start": 2.7,
+				"end": 2.94,
 				"index": 18
 			},
 			{
-				"text": "your ",
-				"start": 2.24,
-				"end": 2.52,
+				"text": "hands ",
+				"start": 2.94,
+				"end": 3.42,
 				"index": 19
 			},
 			{
-				"text": "hands ",
-				"start": 2.52,
-				"end": 2.98,
+				"text": "up",
+				"start": 3.42,
+				"end": 3.82,
 				"index": 20
-			},
-			{
-				"text": "on",
-				"start": 2.98,
-				"end": 3.56,
-				"index": 21
 			}
 		],
-		"start": 9.88,
-		"end": 13.44
+		"start": 9.24,
+		"end": 13.06
 	},
 	{
 		"words": [
 			{
-				"text": "Oh, ",
+				"text": "LeBron ",
 				"start": 0,
-				"end": 0.04,
+				"end": 1.4,
+				"index": 21
+			},
+			{
+				"text": "James, ",
+				"start": 1.4,
+				"end": 1.88,
 				"index": 22
 			},
 			{
-				"text": "oh, oh, ",
-				"start": 0.06,
-				"end": 0.46,
+				"text": "you ",
+				"start": 2.14,
+				"end": 3.74,
 				"index": 23
 			},
 			{
-				"text": "oh, ",
-				"start": 0.46,
-				"end": 2.08,
+				"text": "are so unforgettable, move by crash, fierce, and three",
+				"start": 3.74,
+				"end": 4.26,
 				"index": 24
 			},
 			{
-				"text": "oh, ",
-				"start": 3.58,
-				"end": 3.58,
+				"text": "-throw ",
+				"start": 4.26,
+				"end": 5.22,
 				"index": 25
 			},
 			{
-				"text": "oh, ",
-				"start": 3.74,
-				"end": 3.9,
+				"text": "satellite",
+				"start": 5.22,
+				"end": 6.04,
 				"index": 26
-			},
-			{
-				"text": "oh, ",
-				"start": 3.9,
-				"end": 4.16,
-				"index": 27
-			},
-			{
-				"text": "oh, ",
-				"start": 4.16,
-				"end": 4.22,
-				"index": 28
-			},
-			{
-				"text": "oh, ",
-				"start": 4.22,
-				"end": 4.82,
-				"index": 29
-			},
-			{
-				"text": "oh, ",
-				"start": 4.84,
-				"end": 4.9,
-				"index": 30
-			},
-			{
-				"text": "oh, ",
-				"start": 5.14,
-				"end": 5.14,
-				"index": 31
-			},
-			{
-				"text": "oh, ",
-				"start": 5.86,
-				"end": 5.86,
-				"index": 32
-			},
-			{
-				"text": "oh, ",
-				"start": 6.68,
-				"end": 6.68,
-				"index": 33
-			},
-			{
-				"text": "oh, oh, oh, oh, ",
-				"start": 6.92,
-				"end": 6.92,
-				"index": 34
-			},
-			{
-				"text": "oh, ",
-				"start": 6.94,
-				"end": 6.96,
-				"index": 35
-			},
-			{
-				"text": "oh, ",
-				"start": 6.98,
-				"end": 7,
-				"index": 36
-			},
-			{
-				"text": "oh, ",
-				"start": 7.02,
-				"end": 7.04,
-				"index": 37
-			},
-			{
-				"text": "oh, ",
-				"start": 7.06,
-				"end": 7.08,
-				"index": 38
-			},
-			{
-				"text": "oh, ",
-				"start": 7.1,
-				"end": 7.12,
-				"index": 39
-			},
-			{
-				"text": "oh, ",
-				"start": 7.14,
-				"end": 7.16,
-				"index": 40
-			},
-			{
-				"text": "oh, ",
-				"start": 7.18,
-				"end": 7.2,
-				"index": 41
-			},
-			{
-				"text": "oh, ",
-				"start": 7.22,
-				"end": 7.24,
-				"index": 42
-			},
-			{
-				"text": "oh, ",
-				"start": 7.26,
-				"end": 7.28,
-				"index": 43
-			},
-			{
-				"text": "oh, ",
-				"start": 7.3,
-				"end": 7.32,
-				"index": 44
-			},
-			{
-				"text": "oh, ",
-				"start": 7.34,
-				"end": 7.36,
-				"index": 45
-			},
-			{
-				"text": "oh, ",
-				"start": 7.38,
-				"end": 7.4,
-				"index": 46
-			},
-			{
-				"text": "oh, ",
-				"start": 7.42,
-				"end": 7.44,
-				"index": 47
-			},
-			{
-				"text": "oh, ",
-				"start": 7.46,
-				"end": 7.48,
-				"index": 48
-			},
-			{
-				"text": "oh, ",
-				"start": 7.5,
-				"end": 7.52,
-				"index": 49
-			},
-			{
-				"text": "oh, ",
-				"start": 7.54,
-				"end": 7.56,
-				"index": 50
-			},
-			{
-				"text": "oh, ",
-				"start": 7.58,
-				"end": 7.6,
-				"index": 51
-			},
-			{
-				"text": "oh, ",
-				"start": 7.62,
-				"end": 7.64,
-				"index": 52
-			},
-			{
-				"text": "oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, ",
-				"start": 7.66,
-				"end": 7.68,
-				"index": 53
-			},
-			{
-				"text": "oh",
-				"start": 7.74,
-				"end": 8.6,
-				"index": 54
 			}
 		],
-		"start": 25.3,
-		"end": 33.9
-	},
-	{
-		"words": [
-			{
-				"text": "Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh",
-				"start": 0,
-				"end": 0.18,
-				"index": 55
-			},
-			{
-				"text": "you",
-				"start": 0.16,
-				"end": 0.18,
-				"index": 56
-			}
-		],
-		"start": 33.9,
-		"end": 34.08
+		"start": 23.7,
+		"end": 29.74
 	}
 ]
