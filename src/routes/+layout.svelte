@@ -41,13 +41,13 @@
 	}
 
 	function nextRelative(offset: number /*, overflow = true */) {
+		if (settings.loop === 'one') {
+			return player.toggle(player.track, true);
+		}
+
 		if (settings.shuffle === 'on') {
 			const nextIndex = Math.floor(Math.random() * player.queue.length);
 			return player.toggle(player.queue[nextIndex]);
-		}
-
-		if (settings.loop === 'one') {
-			return player.toggle(player.track, true);
 		}
 
 		const currentIndex = player.queue.findIndex((s) => s.id === player.track.id);
@@ -106,7 +106,7 @@
 		player.init(audioElement);
 
 		player.audio.onended = () => {
-			if (settings.shuffle === 'on') {
+			if (settings.shuffle === 'on' && settings.loop !== 'one') {
 				const nextIndex = Math.floor(Math.random() * player.queue.length);
 				player.toggle(player.queue[nextIndex]);
 			} else {
