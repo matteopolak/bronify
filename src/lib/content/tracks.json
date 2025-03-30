@@ -229,6 +229,21 @@
 		"createdAt": 1743042559884
 	},
 	{
+		"id": "6k2FQS7I",
+		"artist": "Joshua Cole",
+		"title": "LeMaps",
+		"durationSeconds": 56,
+		"tags": [
+			"reggae",
+			"ska",
+			"pop",
+			"rock",
+			"funk"
+		],
+		"index": 150,
+		"createdAt": 1743347560871
+	},
+	{
 		"id": "7atOOKjR",
 		"artist": "𝚂𝚊𝚛𝚋𝚛𝚘𝚗𝚑𝚊𝚎 ˚ʚ♡ɞ˚",
 		"title": "Brongularity",
@@ -761,6 +776,19 @@
 		],
 		"index": 43,
 		"createdAt": 1743090299849
+	},
+	{
+		"id": "gFo0Aasr",
+		"artist": "Joshua Cole",
+		"title": "LeStereo",
+		"durationSeconds": 53,
+		"tags": [
+			"pop",
+			"reggae",
+			"blues"
+		],
+		"index": 151,
+		"createdAt": 1743347560871
 	},
 	{
 		"id": "GhNwrUPB",
@@ -1308,6 +1336,19 @@
 		"id": "Oks-9n8L",
 		"index": 68,
 		"createdAt": 1743046843596
+	},
+	{
+		"id": "OSabUKaD",
+		"artist": "loveclxrity",
+		"title": "LeRage",
+		"durationSeconds": 41,
+		"tags": [
+			"blues",
+			"reggae",
+			"hip_hop"
+		],
+		"index": 152,
+		"createdAt": 1743347560871
 	},
 	{
 		"id": "P_nUdmXS",

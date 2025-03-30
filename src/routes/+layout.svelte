@@ -31,6 +31,7 @@
 	} from '$lib/playlist.svelte';
 	import type { Playlist } from '$lib/types';
 	import { page } from '$app/stores';
+	import { debounce } from '$lib/util';
 
 	let { children }: { children: Snippet } = $props();
 	let audioElement: HTMLAudioElement = $state()!;
@@ -188,6 +189,21 @@
 
 		goto(`/playlists/${playlist.id}`);
 	}
+
+	let search = $state('');
+
+	const updateGlobalSearch = debounce(() => {
+		global.search = search;
+	}, 300);
+
+	$effect(() => {
+		if (search === '') {
+			global.search = '';
+			return;
+		}
+
+		updateGlobalSearch();
+	});
 </script>
 
 <svelte:head>
@@ -301,7 +317,7 @@
 				>
 				<input
 					bind:this={searchInput}
-					bind:value={global.search}
+					bind:value={search}
 					type="search"
 					class="grow"
 					placeholder="What do you want to play?"
