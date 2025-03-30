@@ -285,6 +285,7 @@
 					type="search"
 					class="grow"
 					placeholder="What do you want to play?"
+					autocomplete="off"
 				/>
 				<kbd class="kbd kbd-sm">⌘</kbd>
 				<kbd class="kbd kbd-sm">K</kbd>
