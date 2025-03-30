@@ -8,6 +8,7 @@
 	import Lyrics from '$lib/components/lyrics.svelte';
 	import { DYNAMIC_HEIGHT_CLASS } from '$lib/constants';
 	import Sidebar from '$lib/components/sidebar.svelte';
+	import { Capacitor } from '@capacitor/core';
 
 	import { onMount, type Snippet } from 'svelte';
 	import {
@@ -208,6 +209,20 @@
 
 		updateGlobalSearch();
 	});
+
+	let insideApp = $state(true);
+
+	onMount(() => {
+		if (window.matchMedia('(display-mode: standalone)').matches) {
+			insideApp = true;
+		} else if (window.isTauri?.()) {
+			insideApp = true;
+		} else if (Capacitor.isNativePlatform()) {
+			insideApp = true;
+		} else {
+			insideApp = false;
+		}
+	});
 </script>
 
 <svelte:head>
@@ -271,10 +286,12 @@
 		</div>
 
 		<div class="navbar-end gap-2">
-			<a class="btn btn-md" href="/app" aria-label="Install app">
-				<ArrowBigDownDash size="1.2em" fill="currentColor" />
-				Install App
-			</a>
+			{#if !insideApp}
+				<a class="btn btn-md" href="/app" aria-label="Install app">
+					<ArrowBigDownDash size="1.2em" fill="currentColor" />
+					Install App
+				</a>
+			{/if}
 		</div>
 	</div>
 
@@ -333,10 +350,12 @@
 		</div>
 
 		<div class="md:navbar-end hidden gap-2">
-			<a class="btn btn-md" href="/app" aria-label="Install app">
-				<ArrowBigDownDash size="1.2em" fill="currentColor" />
-				Install App
-			</a>
+			{#if !insideApp}
+				<a class="btn btn-md" href="/app" aria-label="Install app">
+					<ArrowBigDownDash size="1.2em" fill="currentColor" />
+					Install App
+				</a>
+			{/if}
 		</div>
 	</div>
 

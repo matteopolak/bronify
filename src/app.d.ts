@@ -8,4 +8,8 @@ declare global {
 		// interface PageState {}
 		// interface Platform {}
 	}
+
+	interface window {
+		isTauri(): boolean;
+	}
 }

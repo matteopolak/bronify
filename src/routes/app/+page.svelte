@@ -1,39 +1,86 @@
 <script lang="ts">
 	import { ArrowBigDownDash } from '@lucide/svelte';
 	import { onMount } from 'svelte';
+	import { UAParser } from 'ua-parser-js';
 
-	function getMobileOperatingSystem(): 'Android' | 'iOS' | 'Desktop' {
-		var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+	type Platform =
+		| 'unknown'
+		| 'android'
+		| 'ios'
+		| 'windows'
+		| 'linux'
+		| 'macos'
+		| 'macos_arm'
+		| 'macos_intel';
 
-		// Windows Phone must come first because its UA also contains "Android"
-		if (/windows phone/i.test(userAgent)) {
-			//return 'Windows Phone';
-			return 'Desktop';
+	const LINKS_BY_PLATFORM: Record<Platform, string[]> = {
+		unknown: [],
+		android: ['bronify.apk'],
+		ios: ['Bronify.app.zip'],
+		windows: ['Bronify.exe'],
+		linux: ['bronify_amd64.deb', 'bronify_x86_64.rpm'],
+		macos: ['Bronify.dmg'],
+		macos_arm: ['Bronify.dmg'],
+		macos_intel: ['Bronify.dmg']
+	};
+
+	const PRETTY_NAME: Record<Platform, string> = {
+		unknown: 'Unknown',
+		android: 'Android',
+		ios: 'iOS',
+		windows: 'Windows',
+		linux: 'Linux',
+		macos: 'macOS',
+		macos_arm: 'macOS (ARM)',
+		macos_intel: 'macOS (Intel)'
+	};
+
+	let platform: Platform = $state('unknown');
+
+	export function detectPlatform(userAgentString?: string): Platform {
+		const parser = new UAParser(userAgentString);
+		const os = parser.getOS();
+		const cpu = parser.getCPU();
+
+		const osName = os.name?.toLowerCase();
+		const cpuArch = cpu.architecture?.toLowerCase();
+
+		if (!osName) return 'unknown';
+
+		if (osName.includes('android')) return 'android';
+		if (
+			osName.includes('ios') ||
+			(osName.includes('mac os') && /iphone|ipad/.test(userAgentString ?? ''))
+		)
+			return 'ios';
+		if (osName.includes('windows')) return 'windows';
+		if (osName.includes('linux')) return 'linux';
+
+		if (osName.includes('mac')) {
+			// Try to detect ARM vs Intel
+			if (cpuArch === 'arm64') return 'macos_arm';
+			if (cpuArch === 'amd64' || cpuArch === 'x86' || cpuArch === 'ia32') return 'macos_intel';
+
+			// Heuristic fallback based on common UA hints
+			if (userAgentString) {
+				const ua = userAgentString.toLowerCase();
+				if (ua.includes('apple m1') || ua.includes('apple m2') || ua.includes('arm')) {
+					return 'macos_arm';
+				}
+			}
+
+			// If unable to determine
+			return 'macos';
 		}
 
-		if (/android/i.test(userAgent)) {
-			return 'Android';
-		}
-
-		// iOS detection from: http://stackoverflow.com/a/9039885/177710
-		if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
-			return 'iOS';
-		}
-
-		return 'Desktop';
+		return 'unknown';
 	}
 
-	let os = $state('unknown');
-	let link = $derived(
-		os === 'Android'
-			? 'https://r2.bronify.love/bronify.apk'
-			: os === 'iOS'
-				? 'https://r2.bronify.love/Bronify.app.zip'
-				: null
-	);
-
 	onMount(() => {
-		os = getMobileOperatingSystem();
+		// @ts-expect-error - bunch of stuff isn't official
+		const userAgent: string = navigator.userAgent || navigator.vendor || window.opera;
+
+		platform = detectPlatform(userAgent);
 	});
 
 	function download(url: string) {
@@ -48,23 +95,27 @@
 
 <div class="flex flex-col place-items-start gap-4 p-3 md:p-6">
 	<!-- User can also add to Home screen -->
-	<div>
-		<h2 class="text-4xl">
-			Add <span class="font-bold">Bronify</span> to your home screen
-		</h2>
+	{#if platform === 'android' || platform === 'ios'}
+		<div>
+			<h2 class="text-4xl">
+				Add <span class="font-bold">Bronify</span> to your home screen
+			</h2>
 
-		<p class="text-neutral-400">
-			Add Bronify to your home screen by clicking the share button in your browser and selecting
-			"Add to Home Screen".
-		</p>
+			<p class="text-neutral-400">
+				Add Bronify to your home screen by clicking the share button in your browser and selecting
+				"Add to Home Screen".
+			</p>
 
-		<a href="https://www.brandeis.edu/its/support/website-shortcut.html"
-			>For more information, click here.</a
-		>
-	</div>
+			<a href="https://www.brandeis.edu/its/support/website-shortcut.html">
+				For more information, click here.
+			</a>
+		</div>
+	{/if}
 
 	<h1 class="text-4xl">
-		Download Bronify for <span class="font-bold">{os}</span>
+		Download Bronify for <span class="font-bold">
+			{PRETTY_NAME[platform] ?? PRETTY_NAME.unknown}
+		</span>
 	</h1>
 
 	<p class="text-neutral-300">
@@ -72,28 +123,25 @@
 		device.
 	</p>
 
-	{#if link}
-		{#if os === 'iOS'}
-			<p class="text-neutral-300">
-				This build is not signed, please wait for a signed version to be available if you want to
-				use the native application.
-			</p>
-		{:else if os === 'Android'}
-			<p class="text-neutral-300">
-				For more instructions, <a
-					href="https://www.androidauthority.com/how-to-install-apks-31494/"
-					class="text-white underline"
-				>
-					see this guide
-				</a>.
-			</p>
-		{/if}
+	{#if platform === 'ios'}
+		<p class="text-neutral-300">
+			This build is not signed, please wait for a signed version to be available if you want to use
+			the native application.
+		</p>
+	{/if}
 
-		<button class="btn btn-primary btn-lg" aria-label="Install app" onclick={() => download(link)}>
+	{#each LINKS_BY_PLATFORM[platform] as link (link)}
+		<button
+			class="btn btn-primary btn-lg"
+			aria-label="Install app"
+			onclick={() => download(`https://r2.bronify.love/${link}`)}
+		>
 			<ArrowBigDownDash size="1.2em" fill="currentColor" />
-			Download {os === 'iOS' ? 'Bronify.app.zip' : 'bronify.apk'}
+			Download {link}
 		</button>
-	{:else}
+	{/each}
+
+	{#if LINKS_BY_PLATFORM[platform].length === 0}
 		<p class="mt-auto text-neutral-400">No app available for your platform yet.</p>
 	{/if}
 </div>

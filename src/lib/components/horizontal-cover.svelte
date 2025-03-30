@@ -33,7 +33,7 @@
 	class:not-active={!active}
 >
 	<div
-		class="aspect-square place-items-center justify-center"
+		class="aspect-square w-12 place-items-center justify-center"
 		class:flex={!active}
 		class:group-hover:hidden={!active}
 		class:hidden={active}
@@ -42,12 +42,12 @@
 	</div>
 
 	<div
-		class="aspect-square place-items-center justify-center"
+		class="aspect-square w-12 place-items-center justify-center"
 		class:hidden={!active}
 		class:group-hover:flex={!active}
 		class:flex={active}
 	>
-		{#if player.paused}
+		{#if player.paused || player.track.id !== track.id}
 			<Play fill="currentColor" size="1em" />
 		{:else}
 			<Pause fill="currentColor" size="1em" />

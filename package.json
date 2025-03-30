@@ -27,7 +27,7 @@
 		"fix-lyrics": "node --experimental-strip-types scripts/segment_lyrics.ts",
 		"stats": "node --experimental-strip-types scripts/stats.ts",
 		"add-album-art": "node --experimental-strip-types scripts/add_album_art.ts",
-		"pre-build": "node --experimental-strip-types scripts/pre_build.ts",
+		"pre-build": "node --experimental-strip-types scripts/pre_build.ts && node --experimental-strip-types scripts/lyrics_index.ts",
 		"sync": "pnpm collect && pnpm lyrics && pnpm tag && pnpm pre-build"
 	},
 	"devDependencies": {
@@ -41,6 +41,7 @@
 		"@sveltejs/vite-plugin-svelte": "^5.0.0",
 		"@tailwindcss/typography": "^0.5.15",
 		"@tailwindcss/vite": "^4.0.0",
+		"@tauri-apps/cli": "1",
 		"@types/node": "^22.13.11",
 		"@types/nprogress": "^0.2.3",
 		"eslint": "^9.18.0",
@@ -60,7 +61,9 @@
 		"vite": "^6.0.0"
 	},
 	"pnpm": {
-		"onlyBuiltDependencies": ["esbuild"]
+		"onlyBuiltDependencies": [
+			"esbuild"
+		]
 	},
 	"dependencies": {
 		"@capacitor/android": "^7.1.0",
@@ -74,6 +77,7 @@
 		"axios": "^1.8.4",
 		"daisyui": "^5.0.9",
 		"fuse.js": "^7.1.0",
-		"svelte-device-info": "^1.0.6"
+		"svelte-device-info": "^1.0.6",
+		"ua-parser-js": "^2.0.3"
 	}
 }
