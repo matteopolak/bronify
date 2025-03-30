@@ -63,18 +63,14 @@ jobs:
           KEY_ALIAS: ${{ secrets.KEY_ALIAS }}
           KEY_PASSWORD: ${{ secrets.KEY_PASSWORD }}
 
-      - name: print out files
-        run: |
-          ls -la android/app/build/outputs
-          ls -la android/app/build/outputs/apk
-          ls -la android/app/build/outputs/apk/release
-
       - name: Rename and upload final APK
         run: |
           mv android/app/build/outputs/apk/release/app-release.apk android/app/build/outputs/apk/release/bronify.apk
 
-      - name: Upload release artifact
-        uses: actions/upload-artifact@v4
+      - name: Upload APK to GitHub Release
+        uses: softprops/action-gh-release@v1
         with:
-          name: bronify-apk
-          path: android/app/build/outputs/apk/release/bronify.apk
+          tag_name: ${{ github.ref_name }}
+          files: android/app/build/outputs/apk/release/bronify.apk
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
