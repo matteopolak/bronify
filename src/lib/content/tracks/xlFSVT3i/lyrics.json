@@ -332,7 +332,7 @@
 				"index": 49
 			},
 			{
-				"text": "win1 ",
+				"text": "win ",
 				"start": 1.4,
 				"end": 1.6,
 				"index": 50
@@ -506,16 +506,10 @@
 				"index": 74
 			},
 			{
-				"text": "Bron ",
+				"text": "glorious ",
 				"start": 0.46,
 				"end": 0.72,
 				"index": 75
-			},
-			{
-				"text": "is ",
-				"start": 0.72,
-				"end": 1,
-				"index": 76
 			},
 			{
 				"text": "king ",
@@ -704,16 +698,10 @@
 				"index": 104
 			},
 			{
-				"text": "Bron ",
+				"text": "glorious ",
 				"start": 0.38,
 				"end": 0.64,
 				"index": 105
-			},
-			{
-				"text": "is ",
-				"start": 0.64,
-				"end": 0.88,
-				"index": 106
 			},
 			{
 				"text": "king ",
