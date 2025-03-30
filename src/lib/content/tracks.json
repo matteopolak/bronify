@@ -474,8 +474,8 @@
 		"durationSeconds": 119,
 		"tags": [
 			"reggae",
-			"blues",
 			"soul",
+			"blues",
 			"hip_hop"
 		],
 		"index": 29,
@@ -733,6 +733,21 @@
 		],
 		"index": 41,
 		"createdAt": 1743105636401
+	},
+	{
+		"id": "fm0zJuag",
+		"artist": "𝚂𝚊𝚛𝚋𝚛𝚘𝚗𝚑𝚊𝚎 ˚ʚ♡ɞ˚",
+		"title": "From The Three Pt.2",
+		"durationSeconds": 107,
+		"tags": [
+			"soul",
+			"classical",
+			"ska",
+			"pop",
+			"reggae"
+		],
+		"index": 154,
+		"createdAt": 1743374700741
 	},
 	{
 		"id": "gcRMRVmf",
@@ -1282,6 +1297,20 @@
 		],
 		"index": 140,
 		"createdAt": 1743289416356
+	},
+	{
+		"id": "nshQQfN8",
+		"artist": "𝚂𝚊𝚛𝚋𝚛𝚘𝚗𝚑𝚊𝚎 ˚ʚ♡ɞ˚",
+		"title": "Bron Talk",
+		"durationSeconds": 82,
+		"tags": [
+			"reggae",
+			"blues",
+			"soul",
+			"tender"
+		],
+		"index": 155,
+		"createdAt": 1743374700741
 	},
 	{
 		"id": "ntq09zQG",
@@ -2147,5 +2176,21 @@
 		],
 		"index": 108,
 		"createdAt": 1743133184341
+	},
+	{
+		"id": "ZylYYwkb",
+		"artist": "kaiso",
+		"title": "LeBron Hearts",
+		"durationSeconds": 54,
+		"tags": [
+			"blues",
+			"funk",
+			"pop",
+			"reggae",
+			"soul",
+			"hip_hop"
+		],
+		"index": 156,
+		"createdAt": 1743374700741
 	}
 ]
