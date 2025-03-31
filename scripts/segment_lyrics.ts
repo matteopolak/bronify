@@ -54,7 +54,8 @@ function mustStartLine(text: string) {
 const wordReplacements = {
 	goat: 'GOAT',
 	bronn: 'Bron',
-	brawn: 'Bron'
+	brawn: 'Bron',
+	ron: 'Bron'
 };
 
 const wordReplacementsRegex = {};

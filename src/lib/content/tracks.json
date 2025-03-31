@@ -312,6 +312,22 @@
 		"createdAt": 1743288696479
 	},
 	{
+		"id": "8OI8hwvK",
+		"artist": "Daniel",
+		"title": "I Kissed LeBron",
+		"durationSeconds": 56,
+		"tags": [
+			"soul",
+			"rock",
+			"pop",
+			"country",
+			"grunge",
+			"blues"
+		],
+		"index": 158,
+		"createdAt": 1743380820401
+	},
+	{
 		"id": "8VgFsyx7",
 		"artist": "yaa2wavy",
 		"title": "LBJ",
@@ -600,6 +616,18 @@
 		"createdAt": 1743105919165
 	},
 	{
+		"id": "Cb5Lgdco",
+		"artist": "Daniel",
+		"title": "King LeBron Walking",
+		"durationSeconds": 66,
+		"tags": [
+			"lullaby",
+			"tender"
+		],
+		"index": 159,
+		"createdAt": 1743380820401
+	},
+	{
 		"id": "CO9jhZYZ",
 		"artist": "Mo The Aries 🕷️",
 		"title": "Teach Bron",
@@ -652,6 +680,22 @@
 		],
 		"index": 37,
 		"createdAt": 1743104944625
+	},
+	{
+		"id": "DcBe2GFh",
+		"artist": "Daniel",
+		"title": "Right Here",
+		"durationSeconds": 69,
+		"tags": [
+			"blues",
+			"soul",
+			"reggae",
+			"funk",
+			"hip_hop",
+			"pop"
+		],
+		"index": 160,
+		"createdAt": 1743380820401
 	},
 	{
 		"id": "e4gwLsZU",
@@ -1003,6 +1047,18 @@
 		"createdAt": 1743288696479
 	},
 	{
+		"id": "iQN4nmgR",
+		"artist": "kronke",
+		"title": "LeBron's Cheerleader",
+		"durationSeconds": 62,
+		"tags": [
+			"country",
+			"blues"
+		],
+		"index": 161,
+		"createdAt": 1743380820401
+	},
+	{
 		"id": "iwvzbPlu",
 		"artist": "VHM4D",
 		"title": "King LeBron (VHM4D Remix)",
@@ -1039,6 +1095,23 @@
 		],
 		"index": 134,
 		"createdAt": 1743289416356
+	},
+	{
+		"id": "jVitEEIU",
+		"artist": "Daniel",
+		"title": "You",
+		"durationSeconds": 116,
+		"tags": [
+			"blues",
+			"soul",
+			"pop",
+			"hip_hop",
+			"funk",
+			"reggae",
+			"tender"
+		],
+		"index": 162,
+		"createdAt": 1743380820401
 	},
 	{
 		"id": "JWjZmiPg",
@@ -1172,6 +1245,19 @@
 		],
 		"index": 60,
 		"createdAt": 1743090681925
+	},
+	{
+		"id": "Lej_TH3P",
+		"artist": "Daniel",
+		"title": "Get Bron",
+		"durationSeconds": 106,
+		"tags": [
+			"blues",
+			"lullaby",
+			"soul"
+		],
+		"index": 163,
+		"createdAt": 1743380820401
 	},
 	{
 		"id": "lmt31qwX",
@@ -2024,6 +2110,21 @@
 		],
 		"index": 100,
 		"createdAt": 1743090282849
+	},
+	{
+		"id": "XmuhwAWr",
+		"artist": "kaiso",
+		"title": "A Whole New Bron",
+		"durationSeconds": 63,
+		"tags": [
+			"soul",
+			"tender",
+			"happy",
+			"country",
+			"lullaby"
+		],
+		"index": 164,
+		"createdAt": 1743380820401
 	},
 	{
 		"id": "xyeI1zzI",
