@@ -1,0 +1,1184 @@
+[
+	{
+		"words": [
+			{
+				"text": "hey, ",
+				"start": 9.6,
+				"end": 10.22,
+				"index": 0
+			},
+			{
+				"text": "hey",
+				"start": 10.22,
+				"end": 11.68,
+				"index": 1
+			}
+		],
+		"start": -1,
+		"end": 10.78
+	},
+	{
+		"words": [
+			{
+				"text": "KENJIINNNNNNNNNNNN ",
+				"start": 0,
+				"end": 2.16,
+				"index": 2
+			},
+			{
+				"text": "haters ",
+				"start": 5.1,
+				"end": 5.58,
+				"index": 3
+			},
+			{
+				"text": "actin' ",
+				"start": 5.58,
+				"end": 5.92,
+				"index": 4
+			},
+			{
+				"text": "sad ",
+				"start": 5.92,
+				"end": 6.04,
+				"index": 5
+			},
+			{
+				"text": "cuz ",
+				"start": 6.04,
+				"end": 6.3,
+				"index": 6
+			},
+			{
+				"text": "LeBron ",
+				"start": 6.3,
+				"end": 6.62,
+				"index": 7
+			},
+			{
+				"text": "is ",
+				"start": 6.62,
+				"end": 6.78,
+				"index": 8
+			},
+			{
+				"text": "goin' ",
+				"start": 6.78,
+				"end": 6.96,
+				"index": 9
+			},
+			{
+				"text": "stupid, ",
+				"start": 7.08,
+				"end": 7.32,
+				"index": 10
+			},
+			{
+				"text": "got ",
+				"start": 7.42,
+				"end": 7.52,
+				"index": 11
+			},
+			{
+				"text": "his ",
+				"start": 7.52,
+				"end": 7.68,
+				"index": 12
+			},
+			{
+				"text": "foot ",
+				"start": 7.68,
+				"end": 7.86,
+				"index": 13
+			},
+			{
+				"text": "up ",
+				"start": 7.86,
+				"end": 7.98,
+				"index": 14
+			},
+			{
+				"text": "on ",
+				"start": 7.98,
+				"end": 8.12,
+				"index": 15
+			},
+			{
+				"text": "the ",
+				"start": 8.12,
+				"end": 8.24,
+				"index": 16
+			},
+			{
+				"text": "gas, ",
+				"start": 8.24,
+				"end": 8.52,
+				"index": 17
+			},
+			{
+				"text": "ain't ",
+				"start": 8.64,
+				"end": 8.8,
+				"index": 18
+			},
+			{
+				"text": "nobody ",
+				"start": 8.8,
+				"end": 8.92,
+				"index": 19
+			},
+			{
+				"text": "better ",
+				"start": 8.92,
+				"end": 9.34,
+				"index": 20
+			},
+			{
+				"text": "suited, ",
+				"start": 9.34,
+				"end": 9.68,
+				"index": 21
+			},
+			{
+				"text": "huh ",
+				"start": 9.78,
+				"end": 9.9,
+				"index": 22
+			},
+			{
+				"text": "what ",
+				"start": 9.9,
+				"end": 10.2,
+				"index": 23
+			},
+			{
+				"text": "is ",
+				"start": 10.2,
+				"end": 10.38,
+				"index": 24
+			},
+			{
+				"text": "steven ",
+				"start": 10.38,
+				"end": 10.64,
+				"index": 25
+			},
+			{
+				"text": "on, ",
+				"start": 10.64,
+				"end": 10.86,
+				"index": 26
+			},
+			{
+				"text": "what ",
+				"start": 10.98,
+				"end": 11.08,
+				"index": 27
+			},
+			{
+				"text": "is ",
+				"start": 11.08,
+				"end": 11.22,
+				"index": 28
+			},
+			{
+				"text": "steven ",
+				"start": 11.22,
+				"end": 11.54,
+				"index": 29
+			},
+			{
+				"text": "on, ",
+				"start": 11.54,
+				"end": 11.84,
+				"index": 30
+			},
+			{
+				"text": "what ",
+				"start": 11.9,
+				"end": 12.54,
+				"index": 31
+			},
+			{
+				"text": "is ",
+				"start": 12.54,
+				"end": 12.72,
+				"index": 32
+			},
+			{
+				"text": "steven ",
+				"start": 12.72,
+				"end": 13,
+				"index": 33
+			},
+			{
+				"text": "on, ",
+				"start": 13,
+				"end": 13.28,
+				"index": 34
+			},
+			{
+				"text": "what ",
+				"start": 13.34,
+				"end": 13.48,
+				"index": 35
+			},
+			{
+				"text": "is ",
+				"start": 13.48,
+				"end": 13.6,
+				"index": 36
+			},
+			{
+				"text": "steven ",
+				"start": 13.6,
+				"end": 13.86,
+				"index": 37
+			},
+			{
+				"text": "on, ",
+				"start": 13.86,
+				"end": 14.16,
+				"index": 38
+			},
+			{
+				"text": "what ",
+				"start": 14.26,
+				"end": 14.94,
+				"index": 39
+			},
+			{
+				"text": "is ",
+				"start": 14.94,
+				"end": 15.02,
+				"index": 40
+			},
+			{
+				"text": "steven ",
+				"start": 15.02,
+				"end": 15.38,
+				"index": 41
+			},
+			{
+				"text": "on, ",
+				"start": 15.38,
+				"end": 15.66,
+				"index": 42
+			},
+			{
+				"text": "what ",
+				"start": 15.68,
+				"end": 15.82,
+				"index": 43
+			},
+			{
+				"text": "is ",
+				"start": 15.82,
+				"end": 15.94,
+				"index": 44
+			},
+			{
+				"text": "steven ",
+				"start": 15.94,
+				"end": 16.28,
+				"index": 45
+			},
+			{
+				"text": "on, ",
+				"start": 16.28,
+				"end": 16.54,
+				"index": 46
+			},
+			{
+				"text": "what ",
+				"start": 16.62,
+				"end": 17.32,
+				"index": 47
+			},
+			{
+				"text": "is ",
+				"start": 17.32,
+				"end": 17.48,
+				"index": 48
+			},
+			{
+				"text": "steven ",
+				"start": 17.48,
+				"end": 17.76,
+				"index": 49
+			},
+			{
+				"text": "on, ",
+				"start": 17.76,
+				"end": 18.06,
+				"index": 50
+			},
+			{
+				"text": "what is steven on, what ",
+				"start": 18.12,
+				"end": 18.24,
+				"index": 51
+			},
+			{
+				"text": "is ",
+				"start": 18.24,
+				"end": 18.36,
+				"index": 52
+			},
+			{
+				"text": "steven ",
+				"start": 18.36,
+				"end": 18.66,
+				"index": 53
+			},
+			{
+				"text": "on, ",
+				"start": 18.66,
+				"end": 18.92,
+				"index": 54
+			},
+			{
+				"text": "what is steven on, ",
+				"start": 18.98,
+				"end": 18.98,
+				"index": 55
+			},
+			{
+				"text": "what ",
+				"start": 19,
+				"end": 19.24,
+				"index": 56
+			},
+			{
+				"text": "is steven on, ",
+				"start": 19.24,
+				"end": 19.44,
+				"index": 57
+			},
+			{
+				"text": "what is ",
+				"start": 19.44,
+				"end": 19.86,
+				"index": 58
+			},
+			{
+				"text": "steven on, ",
+				"start": 19.86,
+				"end": 19.9,
+				"index": 59
+			},
+			{
+				"text": "what is steven ",
+				"start": 20.08,
+				"end": 20.42,
+				"index": 60
+			},
+			{
+				"text": "on, ",
+				"start": 20.42,
+				"end": 20.48,
+				"index": 61
+			},
+			{
+				"text": "what is ",
+				"start": 21.8,
+				"end": 22.16,
+				"index": 62
+			},
+			{
+				"text": "steven ",
+				"start": 22.16,
+				"end": 22.52,
+				"index": 63
+			},
+			{
+				"text": "on, ",
+				"start": 22.52,
+				"end": 22.64,
+				"index": 64
+			},
+			{
+				"text": "what is ",
+				"start": 22.94,
+				"end": 23.18,
+				"index": 65
+			},
+			{
+				"text": "steven ",
+				"start": 23.18,
+				"end": 23.62,
+				"index": 66
+			},
+			{
+				"text": "on, ",
+				"start": 23.62,
+				"end": 24.12,
+				"index": 67
+			},
+			{
+				"text": "what is ",
+				"start": 24.44,
+				"end": 24.84,
+				"index": 68
+			},
+			{
+				"text": "steven ",
+				"start": 24.84,
+				"end": 25.2,
+				"index": 69
+			},
+			{
+				"text": "on, ",
+				"start": 25.2,
+				"end": 25.32,
+				"index": 70
+			},
+			{
+				"text": "what is ",
+				"start": 25.42,
+				"end": 25.48,
+				"index": 71
+			},
+			{
+				"text": "steven ",
+				"start": 25.48,
+				"end": 26.02,
+				"index": 72
+			},
+			{
+				"text": "on, ",
+				"start": 26.02,
+				"end": 26.22,
+				"index": 73
+			},
+			{
+				"text": "what is ",
+				"start": 26.32,
+				"end": 27.78,
+				"index": 74
+			},
+			{
+				"text": "steven ",
+				"start": 27.78,
+				"end": 28.68,
+				"index": 75
+			},
+			{
+				"text": "on, ",
+				"start": 28.68,
+				"end": 28.86,
+				"index": 76
+			},
+			{
+				"text": "what is ",
+				"start": 28.86,
+				"end": 29.02,
+				"index": 77
+			},
+			{
+				"text": "steven ",
+				"start": 29.02,
+				"end": 29.42,
+				"index": 78
+			},
+			{
+				"text": "on, ",
+				"start": 29.42,
+				"end": 29.6,
+				"index": 79
+			},
+			{
+				"text": "what is ",
+				"start": 29.6,
+				"end": 29.8,
+				"index": 80
+			},
+			{
+				"text": "steven on, what is steven on, what is steven on, what is steven on, what is steven on, what is steven on, what is steven on, what is steven on, what is steven on, what is steven on, what is steven on, what is steven on, what is steven on, what is steven on, what is steven on, what is ",
+				"start": 29.8,
+				"end": 29.88,
+				"index": 81
+			},
+			{
+				"text": "steven ",
+				"start": 29.88,
+				"end": 29.98,
+				"index": 82
+			},
+			{
+				"text": "on, ",
+				"start": 29.98,
+				"end": 30.04,
+				"index": 83
+			},
+			{
+				"text": "what ",
+				"start": 30.04,
+				"end": 30.2,
+				"index": 84
+			},
+			{
+				"text": "is ",
+				"start": 30.2,
+				"end": 30.3,
+				"index": 85
+			},
+			{
+				"text": "steven ",
+				"start": 30.3,
+				"end": 30.7,
+				"index": 86
+			},
+			{
+				"text": "on, ",
+				"start": 30.7,
+				"end": 30.88,
+				"index": 87
+			},
+			{
+				"text": "what ",
+				"start": 30.92,
+				"end": 30.94,
+				"index": 88
+			},
+			{
+				"text": "is ",
+				"start": 30.94,
+				"end": 30.98,
+				"index": 89
+			},
+			{
+				"text": "steven ",
+				"start": 30.98,
+				"end": 31.2,
+				"index": 90
+			},
+			{
+				"text": "on, ",
+				"start": 31.2,
+				"end": 31.44,
+				"index": 91
+			},
+			{
+				"text": "ain",
+				"start": 31.44,
+				"end": 31.48,
+				"index": 92
+			}
+		],
+		"start": 11,
+		"end": 42.48
+	},
+	{
+		"words": [
+			{
+				"text": "Lebron ",
+				"start": 0,
+				"end": 0.4,
+				"index": 93
+			},
+			{
+				"text": "is ",
+				"start": 0.4,
+				"end": 0.54,
+				"index": 94
+			},
+			{
+				"text": "not ",
+				"start": 0.54,
+				"end": 0.7,
+				"index": 95
+			},
+			{
+				"text": "on ",
+				"start": 0.7,
+				"end": 0.86,
+				"index": 96
+			},
+			{
+				"text": "the ",
+				"start": 0.86,
+				"end": 0.96,
+				"index": 97
+			},
+			{
+				"text": "heat, ",
+				"start": 0.96,
+				"end": 1.24,
+				"index": 98
+			},
+			{
+				"text": "but ",
+				"start": 1.28,
+				"end": 1.42,
+				"index": 99
+			},
+			{
+				"text": "he's ",
+				"start": 1.42,
+				"end": 1.6,
+				"index": 100
+			},
+			{
+				"text": "firebending, ",
+				"start": 1.6,
+				"end": 2.1,
+				"index": 101
+			},
+			{
+				"text": "walking ",
+				"start": 2.22,
+				"end": 2.4,
+				"index": 102
+			},
+			{
+				"text": "in ",
+				"start": 2.4,
+				"end": 2.68,
+				"index": 103
+			},
+			{
+				"text": "the ",
+				"start": 2.68,
+				"end": 2.8,
+				"index": 104
+			},
+			{
+				"text": "LA, ",
+				"start": 2.8,
+				"end": 3.06,
+				"index": 105
+			},
+			{
+				"text": "he ",
+				"start": 3.08,
+				"end": 3.22,
+				"index": 106
+			},
+			{
+				"text": "a ",
+				"start": 3.22,
+				"end": 3.32,
+				"index": 107
+			},
+			{
+				"text": "relic, ",
+				"start": 3.32,
+				"end": 3.7,
+				"index": 108
+			},
+			{
+				"text": "tell ",
+				"start": 3.7,
+				"end": 3.84,
+				"index": 109
+			},
+			{
+				"text": "it",
+				"start": 3.84,
+				"end": 3.96,
+				"index": 110
+			}
+		],
+		"start": 64.04,
+		"end": 68
+	},
+	{
+		"words": [
+			{
+				"text": "Trayvon ",
+				"start": 0,
+				"end": 0.3,
+				"index": 111
+			},
+			{
+				"text": "yelling, ",
+				"start": 0.3,
+				"end": 0.54,
+				"index": 112
+			},
+			{
+				"text": "King",
+				"start": 0.66,
+				"end": 0.8,
+				"index": 113
+			}
+		],
+		"start": 68,
+		"end": 68.8
+	},
+	{
+		"words": [
+			{
+				"text": "John, ",
+				"start": 0,
+				"end": 0.36,
+				"index": 114
+			},
+			{
+				"text": "they're ",
+				"start": 0.44,
+				"end": 1.56,
+				"index": 115
+			},
+			{
+				"text": "gonna ",
+				"start": 4.96,
+				"end": 5.1,
+				"index": 116
+			},
+			{
+				"text": "say ",
+				"start": 5.1,
+				"end": 5.32,
+				"index": 117
+			},
+			{
+				"text": "it, ",
+				"start": 5.32,
+				"end": 5.48,
+				"index": 118
+			},
+			{
+				"text": "cause ",
+				"start": 5.5,
+				"end": 5.58,
+				"index": 119
+			},
+			{
+				"text": "Lebron ",
+				"start": 5.58,
+				"end": 5.92,
+				"index": 120
+			},
+			{
+				"text": "is ",
+				"start": 5.92,
+				"end": 6.04,
+				"index": 121
+			},
+			{
+				"text": "going ",
+				"start": 6.04,
+				"end": 6.2,
+				"index": 122
+			},
+			{
+				"text": "stupid, ",
+				"start": 6.2,
+				"end": 6.46,
+				"index": 123
+			},
+			{
+				"text": "got ",
+				"start": 6.62,
+				"end": 6.74,
+				"index": 124
+			},
+			{
+				"text": "his ",
+				"start": 6.74,
+				"end": 6.9,
+				"index": 125
+			},
+			{
+				"text": "foot ",
+				"start": 6.9,
+				"end": 7.1,
+				"index": 126
+			},
+			{
+				"text": "up ",
+				"start": 7.1,
+				"end": 7.24,
+				"index": 127
+			},
+			{
+				"text": "on ",
+				"start": 7.24,
+				"end": 7.38,
+				"index": 128
+			},
+			{
+				"text": "the ",
+				"start": 7.38,
+				"end": 7.48,
+				"index": 129
+			},
+			{
+				"text": "gas, ",
+				"start": 7.48,
+				"end": 7.72,
+				"index": 130
+			},
+			{
+				"text": "ain't ",
+				"start": 7.88,
+				"end": 8.04,
+				"index": 131
+			},
+			{
+				"text": "nobody ",
+				"start": 8.04,
+				"end": 8.2,
+				"index": 132
+			},
+			{
+				"text": "better ",
+				"start": 8.2,
+				"end": 8.6,
+				"index": 133
+			},
+			{
+				"text": "suited, ",
+				"start": 8.6,
+				"end": 8.92,
+				"index": 134
+			},
+			{
+				"text": "huh, ",
+				"start": 9.06,
+				"end": 9.14,
+				"index": 135
+			},
+			{
+				"text": "what ",
+				"start": 9.22,
+				"end": 9.46,
+				"index": 136
+			},
+			{
+				"text": "is ",
+				"start": 9.46,
+				"end": 9.6,
+				"index": 137
+			},
+			{
+				"text": "steven ",
+				"start": 9.6,
+				"end": 9.86,
+				"index": 138
+			},
+			{
+				"text": "on, ",
+				"start": 9.86,
+				"end": 10.12,
+				"index": 139
+			},
+			{
+				"text": "what ",
+				"start": 10.22,
+				"end": 10.34,
+				"index": 140
+			},
+			{
+				"text": "is ",
+				"start": 10.34,
+				"end": 10.44,
+				"index": 141
+			},
+			{
+				"text": "steven ",
+				"start": 10.44,
+				"end": 10.76,
+				"index": 142
+			},
+			{
+				"text": "on, ",
+				"start": 10.76,
+				"end": 11.06,
+				"index": 143
+			},
+			{
+				"text": "what ",
+				"start": 11.16,
+				"end": 11.84,
+				"index": 144
+			},
+			{
+				"text": "is ",
+				"start": 11.84,
+				"end": 12,
+				"index": 145
+			},
+			{
+				"text": "steven ",
+				"start": 12,
+				"end": 12.26,
+				"index": 146
+			},
+			{
+				"text": "on, ",
+				"start": 12.26,
+				"end": 12.54,
+				"index": 147
+			},
+			{
+				"text": "what ",
+				"start": 12.58,
+				"end": 12.74,
+				"index": 148
+			},
+			{
+				"text": "is ",
+				"start": 12.74,
+				"end": 12.8,
+				"index": 149
+			},
+			{
+				"text": "steven ",
+				"start": 12.8,
+				"end": 13.08,
+				"index": 150
+			},
+			{
+				"text": "on, ",
+				"start": 13.08,
+				"end": 13.34,
+				"index": 151
+			},
+			{
+				"text": "what ",
+				"start": 13.46,
+				"end": 14.12,
+				"index": 152
+			},
+			{
+				"text": "is ",
+				"start": 14.12,
+				"end": 14.3,
+				"index": 153
+			},
+			{
+				"text": "steven ",
+				"start": 14.3,
+				"end": 14.56,
+				"index": 154
+			},
+			{
+				"text": "on, ",
+				"start": 14.56,
+				"end": 14.94,
+				"index": 155
+			},
+			{
+				"text": "what ",
+				"start": 14.94,
+				"end": 15.08,
+				"index": 156
+			},
+			{
+				"text": "is ",
+				"start": 15.08,
+				"end": 15.2,
+				"index": 157
+			},
+			{
+				"text": "steven ",
+				"start": 15.2,
+				"end": 15.48,
+				"index": 158
+			},
+			{
+				"text": "on, ",
+				"start": 15.48,
+				"end": 15.8,
+				"index": 159
+			},
+			{
+				"text": "what ",
+				"start": 15.86,
+				"end": 16.52,
+				"index": 160
+			},
+			{
+				"text": "is ",
+				"start": 16.52,
+				"end": 16.72,
+				"index": 161
+			},
+			{
+				"text": "steven ",
+				"start": 16.72,
+				"end": 16.96,
+				"index": 162
+			},
+			{
+				"text": "on, ",
+				"start": 16.96,
+				"end": 17.34,
+				"index": 163
+			},
+			{
+				"text": "what ",
+				"start": 17.34,
+				"end": 17.48,
+				"index": 164
+			},
+			{
+				"text": "is ",
+				"start": 17.48,
+				"end": 17.6,
+				"index": 165
+			},
+			{
+				"text": "steven on, what is ",
+				"start": 17.6,
+				"end": 17.62,
+				"index": 166
+			},
+			{
+				"text": "steven ",
+				"start": 17.62,
+				"end": 17.84,
+				"index": 167
+			},
+			{
+				"text": "on, what is steven ",
+				"start": 17.84,
+				"end": 18.04,
+				"index": 168
+			},
+			{
+				"text": "on, ",
+				"start": 18.04,
+				"end": 18.06,
+				"index": 169
+			},
+			{
+				"text": "Lebron ",
+				"start": 18.2,
+				"end": 18.46,
+				"index": 170
+			},
+			{
+				"text": "is ",
+				"start": 18.46,
+				"end": 18.7,
+				"index": 171
+			},
+			{
+				"text": "crazy, ",
+				"start": 18.7,
+				"end": 19.02,
+				"index": 172
+			},
+			{
+				"text": "got ",
+				"start": 19.28,
+				"end": 19.52,
+				"index": 173
+			},
+			{
+				"text": "it, ",
+				"start": 19.52,
+				"end": 19.84,
+				"index": 174
+			},
+			{
+				"text": "uno, ",
+				"start": 19.88,
+				"end": 20.22,
+				"index": 175
+			},
+			{
+				"text": "greatest, ",
+				"start": 20.42,
+				"end": 20.88,
+				"index": 176
+			},
+			{
+				"text": "crazy, ",
+				"start": 21.12,
+				"end": 21.46,
+				"index": 177
+			},
+			{
+				"text": "got ",
+				"start": 21.68,
+				"end": 21.9,
+				"index": 178
+			},
+			{
+				"text": "it, ",
+				"start": 21.9,
+				"end": 22.24,
+				"index": 179
+			},
+			{
+				"text": "uno, ",
+				"start": 22.26,
+				"end": 22.62,
+				"index": 180
+			},
+			{
+				"text": "greatest, ",
+				"start": 22.8,
+				"end": 23.28,
+				"index": 181
+			},
+			{
+				"text": "crazy, ",
+				"start": 23.54,
+				"end": 23.76,
+				"index": 182
+			},
+			{
+				"text": "got ",
+				"start": 24.14,
+				"end": 24.32,
+				"index": 183
+			},
+			{
+				"text": "it, ",
+				"start": 24.32,
+				"end": 24.62,
+				"index": 184
+			},
+			{
+				"text": "uno, ",
+				"start": 24.64,
+				"end": 25.02,
+				"index": 185
+			},
+			{
+				"text": "greatest, ",
+				"start": 25.14,
+				"end": 25.68,
+				"index": 186
+			},
+			{
+				"text": "crazy, ",
+				"start": 25.86,
+				"end": 26.26,
+				"index": 187
+			},
+			{
+				"text": "got ",
+				"start": 26.62,
+				"end": 26.68,
+				"index": 188
+			},
+			{
+				"text": "it, ",
+				"start": 26.68,
+				"end": 26.96,
+				"index": 189
+			},
+			{
+				"text": "uno, ",
+				"start": 27,
+				"end": 27.38,
+				"index": 190
+			},
+			{
+				"text": "greatest",
+				"start": 27.46,
+				"end": 27.9,
+				"index": 191
+			}
+		],
+		"start": 68.8,
+		"end": 96.8
+	}
+]

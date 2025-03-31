@@ -215,6 +215,33 @@
 		"createdAt": 1743105300923
 	},
 	{
+		"id": "5WmDiC3d",
+		"artist": "Von Pierre",
+		"title": "Watch the 90s Die",
+		"durationSeconds": 143,
+		"tags": [
+			"soul"
+		],
+		"index": 165,
+		"createdAt": 1743399492363
+	},
+	{
+		"id": "617sWmYj",
+		"artist": "Von Pierre",
+		"title": "Not Like Bron",
+		"durationSeconds": 90,
+		"tags": [
+			"hip_hop",
+			"rap",
+			"blues",
+			"funk",
+			"pop",
+			"reggae"
+		],
+		"index": 166,
+		"createdAt": 1743399492363
+	},
+	{
 		"title": "LeBron Hour",
 		"artist": "ilyaugust",
 		"tags": [
@@ -1068,6 +1095,20 @@
 		"createdAt": 1743307352905
 	},
 	{
+		"id": "J0h45f-7",
+		"artist": "Von Pierre",
+		"title": "6:16 in Akron",
+		"durationSeconds": 166,
+		"tags": [
+			"rap",
+			"hip_hop",
+			"blues",
+			"funk"
+		],
+		"index": 167,
+		"createdAt": 1743399492363
+	},
+	{
 		"id": "Ja72oExb",
 		"artist": "heyitskrypt",
 		"title": "LeBeware",
@@ -1081,6 +1122,21 @@
 		],
 		"index": 133,
 		"createdAt": 1743289416356
+	},
+	{
+		"id": "jd37rNv0",
+		"artist": "Von Pierre",
+		"title": "Bron Like That",
+		"durationSeconds": 89,
+		"tags": [
+			"hip_hop",
+			"rap",
+			"pop",
+			"funk",
+			"blues"
+		],
+		"index": 168,
+		"createdAt": 1743399492363
 	},
 	{
 		"id": "jR1sSKkR",
@@ -1827,6 +1883,21 @@
 		"createdAt": 1743104979182
 	},
 	{
+		"id": "U6c-w-Cz",
+		"artist": "Von Pierre",
+		"title": "Bron Push Ups",
+		"durationSeconds": 87,
+		"tags": [
+			"hip_hop",
+			"blues",
+			"soundtrack",
+			"funk",
+			"pop"
+		],
+		"index": 169,
+		"createdAt": 1743399492363
+	},
+	{
 		"id": "UeHUAhhB",
 		"artist": "heyitskrypt",
 		"title": "Ballboy",
@@ -1874,6 +1945,23 @@
 		"createdAt": 1743129436008
 	},
 	{
+		"id": "UhgRy5U-",
+		"artist": "HairDyedHoes",
+		"title": "I Wanna Have LeBron James' Babies",
+		"durationSeconds": 38,
+		"tags": [
+			"disco",
+			"house",
+			"electronic",
+			"funk",
+			"techno",
+			"pop",
+			"blues"
+		],
+		"index": 170,
+		"createdAt": 1743399492363
+	},
+	{
 		"id": "V9D1YzMs",
 		"artist": "Fortnite_lover",
 		"title": "LeBron Can You Please",
@@ -1902,6 +1990,20 @@
 		"id": "vFcHbgDW",
 		"index": 92,
 		"createdAt": 1743042559859
+	},
+	{
+		"id": "vJKVazWz",
+		"artist": "Von Pierre",
+		"title": "Stephen On",
+		"durationSeconds": 106,
+		"tags": [
+			"rap",
+			"hip_hop",
+			"blues",
+			"soundtrack"
+		],
+		"index": 171,
+		"createdAt": 1743399492363
 	},
 	{
 		"id": "vOQLbIXj",
@@ -2054,6 +2156,21 @@
 		"createdAt": 1743289416356
 	},
 	{
+		"id": "wwpy5Do2",
+		"artist": "ramon angelo",
+		"title": "LeMirrors",
+		"durationSeconds": 71,
+		"tags": [
+			"blues",
+			"hip_hop",
+			"pop",
+			"reggae",
+			"rap"
+		],
+		"index": 172,
+		"createdAt": 1743399492363
+	},
+	{
 		"id": "x0uBjNgP",
 		"artist": "Ghivio",
 		"title": "Bron-kia",
@@ -2141,6 +2258,21 @@
 		],
 		"index": 146,
 		"createdAt": 1743289416356
+	},
+	{
+		"id": "Y_x7uh5-",
+		"artist": "Von Pierre",
+		"title": "James Family Matters",
+		"durationSeconds": 158,
+		"tags": [
+			"hip_hop",
+			"rap",
+			"funk",
+			"pop",
+			"soundtrack"
+		],
+		"index": 173,
+		"createdAt": 1743399492363
 	},
 	{
 		"id": "y-neIdTS",
@@ -2293,6 +2425,18 @@
 		],
 		"index": 108,
 		"createdAt": 1743133184341
+	},
+	{
+		"id": "ZNn1HITc",
+		"artist": "Von Pierre",
+		"title": "Bronphoria",
+		"durationSeconds": 148,
+		"tags": [
+			"rap",
+			"hip_hop"
+		],
+		"index": 174,
+		"createdAt": 1743399492363
 	},
 	{
 		"id": "ZylYYwkb",

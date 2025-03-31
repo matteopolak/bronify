@@ -1,0 +1,3530 @@
+[
+	{
+		"words": [
+			{
+				"text": "All ",
+				"start": 0,
+				"end": 0.4,
+				"index": 0
+			},
+			{
+				"text": "white",
+				"start": 0.4,
+				"end": 0.7,
+				"index": 1
+			}
+		],
+		"start": 5.78,
+		"end": 6.58
+	},
+	{
+		"words": [
+			{
+				"text": "Nikes, ",
+				"start": 0,
+				"end": 0.28,
+				"index": 2
+			},
+			{
+				"text": "Bron",
+				"start": 0.38,
+				"end": 0.46,
+				"index": 3
+			}
+		],
+		"start": 6.72,
+		"end": 7.28
+	},
+	{
+		"words": [
+			{
+				"text": "Imma ",
+				"start": 0,
+				"end": 0.12,
+				"index": 4
+			},
+			{
+				"text": "buy ",
+				"start": 0.12,
+				"end": 0.36,
+				"index": 5
+			},
+			{
+				"text": "ya ",
+				"start": 0.36,
+				"end": 0.5,
+				"index": 6
+			},
+			{
+				"text": "sneakers",
+				"start": 0.5,
+				"end": 0.7,
+				"index": 7
+			}
+		],
+		"start": 7.42,
+		"end": 8.12
+	},
+	{
+		"words": [
+			{
+				"text": "Fuck ",
+				"start": 0,
+				"end": 0.5,
+				"index": 8
+			},
+			{
+				"text": "a ",
+				"start": 0.5,
+				"end": 0.66,
+				"index": 9
+			},
+			{
+				"text": "Jordan, ",
+				"start": 0.66,
+				"end": 0.86,
+				"index": 10
+			},
+			{
+				"text": "dare ",
+				"start": 0.96,
+				"end": 1.14,
+				"index": 11
+			},
+			{
+				"text": "him ",
+				"start": 1.14,
+				"end": 1.24,
+				"index": 12
+			},
+			{
+				"text": "to ",
+				"start": 1.24,
+				"end": 1.38,
+				"index": 13
+			},
+			{
+				"text": "take ",
+				"start": 1.38,
+				"end": 1.62,
+				"index": 14
+			},
+			{
+				"text": "shots, ",
+				"start": 1.62,
+				"end": 1.88,
+				"index": 15
+			},
+			{
+				"text": "we ",
+				"start": 2.02,
+				"end": 2.1,
+				"index": 16
+			},
+			{
+				"text": "gon' ",
+				"start": 2.1,
+				"end": 2.28,
+				"index": 17
+			},
+			{
+				"text": "grab ",
+				"start": 2.32,
+				"end": 2.46,
+				"index": 18
+			},
+			{
+				"text": "the ",
+				"start": 2.46,
+				"end": 2.62,
+				"index": 19
+			},
+			{
+				"text": "heater",
+				"start": 2.62,
+				"end": 2.9,
+				"index": 20
+			}
+		],
+		"start": 8.12,
+		"end": 11.02
+	},
+	{
+		"words": [
+			{
+				"text": "Why ",
+				"start": 0,
+				"end": 0.32,
+				"index": 21
+			},
+			{
+				"text": "even ",
+				"start": 0.32,
+				"end": 0.58,
+				"index": 22
+			},
+			{
+				"text": "fuck ",
+				"start": 0.58,
+				"end": 0.94,
+				"index": 23
+			},
+			{
+				"text": "with ",
+				"start": 0.94,
+				"end": 1.1,
+				"index": 24
+			},
+			{
+				"text": "the ",
+				"start": 1.1,
+				"end": 1.26,
+				"index": 25
+			},
+			{
+				"text": "goatee, ",
+				"start": 1.26,
+				"end": 1.56,
+				"index": 26
+			},
+			{
+				"text": "carry ",
+				"start": 1.64,
+				"end": 1.84,
+				"index": 27
+			},
+			{
+				"text": "just ",
+				"start": 1.84,
+				"end": 2.04,
+				"index": 28
+			},
+			{
+				"text": "my ",
+				"start": 2.04,
+				"end": 2.26,
+				"index": 29
+			},
+			{
+				"text": "leader",
+				"start": 2.26,
+				"end": 2.62,
+				"index": 30
+			}
+		],
+		"start": 11.02,
+		"end": 13.64
+	},
+	{
+		"words": [
+			{
+				"text": "Try ",
+				"start": 0,
+				"end": 0.34,
+				"index": 31
+			},
+			{
+				"text": "to ",
+				"start": 0.34,
+				"end": 0.48,
+				"index": 32
+			},
+			{
+				"text": "knock ",
+				"start": 0.48,
+				"end": 0.74,
+				"index": 33
+			},
+			{
+				"text": "him, ",
+				"start": 0.74,
+				"end": 0.86,
+				"index": 34
+			},
+			{
+				"text": "we ",
+				"start": 0.9,
+				"end": 0.98,
+				"index": 35
+			},
+			{
+				"text": "gon' ",
+				"start": 0.98,
+				"end": 1.16,
+				"index": 36
+			},
+			{
+				"text": "throw ",
+				"start": 1.18,
+				"end": 1.26,
+				"index": 37
+			},
+			{
+				"text": "hands, ",
+				"start": 1.26,
+				"end": 1.58,
+				"index": 38
+			},
+			{
+				"text": "call ",
+				"start": 1.76,
+				"end": 1.86,
+				"index": 39
+			},
+			{
+				"text": "me ",
+				"start": 1.86,
+				"end": 2.04,
+				"index": 40
+			},
+			{
+				"text": "a ",
+				"start": 2.04,
+				"end": 2.18,
+				"index": 41
+			},
+			{
+				"text": "Bron ",
+				"start": 2.18,
+				"end": 2.4,
+				"index": 42
+			},
+			{
+				"text": "bleeder ",
+				"start": 2.4,
+				"end": 2.78,
+				"index": 43
+			},
+			{
+				"text": "Bron ",
+				"start": 2.78,
+				"end": 3.16,
+				"index": 44
+			},
+			{
+				"text": "need ",
+				"start": 3.16,
+				"end": 3.42,
+				"index": 45
+			},
+			{
+				"text": "a ",
+				"start": 3.42,
+				"end": 3.56,
+				"index": 46
+			},
+			{
+				"text": "nigga ",
+				"start": 3.56,
+				"end": 3.78,
+				"index": 47
+			},
+			{
+				"text": "like ",
+				"start": 3.78,
+				"end": 3.98,
+				"index": 48
+			},
+			{
+				"text": "me ",
+				"start": 3.98,
+				"end": 4.22,
+				"index": 49
+			},
+			{
+				"text": "to ",
+				"start": 4.22,
+				"end": 4.36,
+				"index": 50
+			},
+			{
+				"text": "wake ",
+				"start": 4.36,
+				"end": 4.56,
+				"index": 51
+			},
+			{
+				"text": "up ",
+				"start": 4.56,
+				"end": 4.74,
+				"index": 52
+			},
+			{
+				"text": "LeBron ",
+				"start": 4.74,
+				"end": 5.06,
+				"index": 53
+			},
+			{
+				"text": "sleepers",
+				"start": 5.06,
+				"end": 5.62,
+				"index": 54
+			}
+		],
+		"start": 13.64,
+		"end": 19.26
+	},
+	{
+		"words": [
+			{
+				"text": "No ",
+				"start": 0,
+				"end": 0.3,
+				"index": 55
+			},
+			{
+				"text": "tweaker ",
+				"start": 0.3,
+				"end": 0.64,
+				"index": 56
+			},
+			{
+				"text": "tellin' ",
+				"start": 0.64,
+				"end": 1.04,
+				"index": 57
+			},
+			{
+				"text": "me ",
+				"start": 1.04,
+				"end": 1.14,
+				"index": 58
+			},
+			{
+				"text": "different, ",
+				"start": 1.14,
+				"end": 1.46,
+				"index": 59
+			},
+			{
+				"text": "Bron ",
+				"start": 1.6,
+				"end": 1.74,
+				"index": 60
+			},
+			{
+				"text": "is ",
+				"start": 1.74,
+				"end": 1.94,
+				"index": 61
+			},
+			{
+				"text": "a ",
+				"start": 1.94,
+				"end": 2.04,
+				"index": 62
+			},
+			{
+				"text": "ball ",
+				"start": 2.04,
+				"end": 2.24,
+				"index": 63
+			},
+			{
+				"text": "teacher",
+				"start": 2.24,
+				"end": 2.62,
+				"index": 64
+			}
+		],
+		"start": 19.26,
+		"end": 21.88
+	},
+	{
+		"words": [
+			{
+				"text": "Call ",
+				"start": 0,
+				"end": 0.3,
+				"index": 65
+			},
+			{
+				"text": "me",
+				"start": 0.3,
+				"end": 0.4,
+				"index": 66
+			}
+		],
+		"start": 21.88,
+		"end": 22.28
+	},
+	{
+		"words": [
+			{
+				"text": "Peter, ",
+				"start": 0,
+				"end": 0.26,
+				"index": 67
+			},
+			{
+				"text": "cook ",
+				"start": 0.34,
+				"end": 0.52,
+				"index": 68
+			},
+			{
+				"text": "with ",
+				"start": 0.52,
+				"end": 0.72,
+				"index": 69
+			},
+			{
+				"text": "this ",
+				"start": 0.72,
+				"end": 0.84,
+				"index": 70
+			},
+			{
+				"text": "pen, ",
+				"start": 0.84,
+				"end": 1.02,
+				"index": 71
+			},
+			{
+				"text": "LeBron ",
+				"start": 1.16,
+				"end": 1.4,
+				"index": 72
+			},
+			{
+				"text": "finna ",
+				"start": 1.4,
+				"end": 1.64,
+				"index": 73
+			},
+			{
+				"text": "fry ",
+				"start": 1.64,
+				"end": 1.84,
+				"index": 74
+			},
+			{
+				"text": "sweeper",
+				"start": 1.84,
+				"end": 2.4,
+				"index": 75
+			}
+		],
+		"start": 22.28,
+		"end": 24.68
+	},
+	{
+		"words": [
+			{
+				"text": "God, ",
+				"start": 0,
+				"end": 0.46,
+				"index": 76
+			},
+			{
+				"text": "huh, ",
+				"start": 0.52,
+				"end": 1.16,
+				"index": 77
+			},
+			{
+				"text": "huh, ",
+				"start": 1.36,
+				"end": 1.78,
+				"index": 78
+			},
+			{
+				"text": "LeBron, ",
+				"start": 1.78,
+				"end": 2.22,
+				"index": 79
+			},
+			{
+				"text": "it's ",
+				"start": 2.26,
+				"end": 2.42,
+				"index": 80
+			},
+			{
+				"text": "not ",
+				"start": 2.42,
+				"end": 2.6,
+				"index": 81
+			},
+			{
+				"text": "yours ",
+				"start": 2.6,
+				"end": 3,
+				"index": 82
+			},
+			{
+				"text": "I ",
+				"start": 3,
+				"end": 3.68,
+				"index": 83
+			},
+			{
+				"text": "know ",
+				"start": 3.68,
+				"end": 3.94,
+				"index": 84
+			},
+			{
+				"text": "you ",
+				"start": 3.94,
+				"end": 4.08,
+				"index": 85
+			},
+			{
+				"text": "made ",
+				"start": 4.08,
+				"end": 4.28,
+				"index": 86
+			},
+			{
+				"text": "it ",
+				"start": 4.28,
+				"end": 4.42,
+				"index": 87
+			},
+			{
+				"text": "so, ",
+				"start": 4.42,
+				"end": 4.56,
+				"index": 88
+			},
+			{
+				"text": "but ",
+				"start": 4.64,
+				"end": 4.84,
+				"index": 89
+			},
+			{
+				"text": "I ",
+				"start": 4.84,
+				"end": 5.04,
+				"index": 90
+			},
+			{
+				"text": "beg",
+				"start": 5.04,
+				"end": 5.2,
+				"index": 91
+			}
+		],
+		"start": 24.68,
+		"end": 29.98
+	},
+	{
+		"words": [
+			{
+				"text": "Lord",
+				"start": 0,
+				"end": 0.32,
+				"index": 92
+			}
+		],
+		"start": 30.08,
+		"end": 30.4
+	},
+	{
+		"words": [
+			{
+				"text": "Have ",
+				"start": 0,
+				"end": 0.4,
+				"index": 93
+			},
+			{
+				"text": "Jordan, ",
+				"start": 0.4,
+				"end": 0.8,
+				"index": 94
+			},
+			{
+				"text": "we ",
+				"start": 0.88,
+				"end": 1,
+				"index": 95
+			},
+			{
+				"text": "don't ",
+				"start": 1,
+				"end": 1.22,
+				"index": 96
+			},
+			{
+				"text": "care ",
+				"start": 1.22,
+				"end": 1.42,
+				"index": 97
+			},
+			{
+				"text": "about ",
+				"start": 1.42,
+				"end": 1.72,
+				"index": 98
+			},
+			{
+				"text": "awards",
+				"start": 1.72,
+				"end": 2.16,
+				"index": 99
+			}
+		],
+		"start": 30.94,
+		"end": 33.1
+	},
+	{
+		"words": [
+			{
+				"text": "He ",
+				"start": 0,
+				"end": 0.66,
+				"index": 100
+			},
+			{
+				"text": "played ",
+				"start": 0.66,
+				"end": 1.04,
+				"index": 101
+			},
+			{
+				"text": "in ",
+				"start": 1.04,
+				"end": 1.26,
+				"index": 102
+			},
+			{
+				"text": "the ",
+				"start": 1.26,
+				"end": 1.36,
+				"index": 103
+			},
+			{
+				"text": "league ",
+				"start": 1.36,
+				"end": 1.64,
+				"index": 104
+			},
+			{
+				"text": "where ",
+				"start": 1.64,
+				"end": 1.8,
+				"index": 105
+			},
+			{
+				"text": "nobody ",
+				"start": 1.8,
+				"end": 2.14,
+				"index": 106
+			},
+			{
+				"text": "scored",
+				"start": 2.14,
+				"end": 2.62,
+				"index": 107
+			}
+		],
+		"start": 33.1,
+		"end": 35.72
+	},
+	{
+		"words": [
+			{
+				"text": "Raise ",
+				"start": 0,
+				"end": 0.34,
+				"index": 108
+			},
+			{
+				"text": "my ",
+				"start": 0.34,
+				"end": 0.5,
+				"index": 109
+			},
+			{
+				"text": "hands ",
+				"start": 0.5,
+				"end": 0.76,
+				"index": 110
+			},
+			{
+				"text": "when ",
+				"start": 0.76,
+				"end": 0.9,
+				"index": 111
+			},
+			{
+				"text": "I ",
+				"start": 0.9,
+				"end": 1,
+				"index": 112
+			},
+			{
+				"text": "pray ",
+				"start": 1,
+				"end": 1.2,
+				"index": 113
+			},
+			{
+				"text": "to ",
+				"start": 1.2,
+				"end": 1.34,
+				"index": 114
+			},
+			{
+				"text": "GOAT",
+				"start": 1.34,
+				"end": 1.64,
+				"index": 115
+			}
+		],
+		"start": 35.72,
+		"end": 37.36
+	},
+	{
+		"words": [
+			{
+				"text": "These ",
+				"start": 0,
+				"end": 0.22,
+				"index": 116
+			},
+			{
+				"text": "words ",
+				"start": 0.22,
+				"end": 0.48,
+				"index": 117
+			},
+			{
+				"text": "I ",
+				"start": 0.48,
+				"end": 0.62,
+				"index": 118
+			},
+			{
+				"text": "wrote, ",
+				"start": 0.62,
+				"end": 0.84,
+				"index": 119
+			},
+			{
+				"text": "real ",
+				"start": 0.92,
+				"end": 1.18,
+				"index": 120
+			},
+			{
+				"text": "from ",
+				"start": 1.18,
+				"end": 1.38,
+				"index": 121
+			},
+			{
+				"text": "the ",
+				"start": 1.38,
+				"end": 1.58,
+				"index": 122
+			},
+			{
+				"text": "soul, ",
+				"start": 1.58,
+				"end": 1.76,
+				"index": 123
+			},
+			{
+				"text": "Bron, ",
+				"start": 1.86,
+				"end": 1.98,
+				"index": 124
+			},
+			{
+				"text": "let's ",
+				"start": 2,
+				"end": 2.2,
+				"index": 125
+			},
+			{
+				"text": "have ",
+				"start": 2.2,
+				"end": 2.3,
+				"index": 126
+			},
+			{
+				"text": "a ",
+				"start": 2.3,
+				"end": 2.46,
+				"index": 127
+			},
+			{
+				"text": "toast",
+				"start": 2.46,
+				"end": 2.68,
+				"index": 128
+			}
+		],
+		"start": 37.36,
+		"end": 40.04
+	},
+	{
+		"words": [
+			{
+				"text": "You ",
+				"start": 0,
+				"end": 0.26,
+				"index": 129
+			},
+			{
+				"text": "not ",
+				"start": 0.26,
+				"end": 0.44,
+				"index": 130
+			},
+			{
+				"text": "a ",
+				"start": 0.44,
+				"end": 0.62,
+				"index": 131
+			},
+			{
+				"text": "joke, ",
+				"start": 0.62,
+				"end": 0.82,
+				"index": 132
+			},
+			{
+				"text": "he ",
+				"start": 0.9,
+				"end": 1.14,
+				"index": 133
+			},
+			{
+				"text": "be ",
+				"start": 1.14,
+				"end": 1.46,
+				"index": 134
+			},
+			{
+				"text": "the ",
+				"start": 1.46,
+				"end": 1.6,
+				"index": 135
+			},
+			{
+				"text": "man ",
+				"start": 1.6,
+				"end": 1.84,
+				"index": 136
+			},
+			{
+				"text": "that ",
+				"start": 1.84,
+				"end": 2,
+				"index": 137
+			},
+			{
+				"text": "on ",
+				"start": 2,
+				"end": 2.14,
+				"index": 138
+			},
+			{
+				"text": "water ",
+				"start": 2.14,
+				"end": 2.44,
+				"index": 139
+			},
+			{
+				"text": "flow ",
+				"start": 2.44,
+				"end": 2.66,
+				"index": 140
+			},
+			{
+				"text": "I ",
+				"start": 2.66,
+				"end": 2.92,
+				"index": 141
+			},
+			{
+				"text": "need ",
+				"start": 2.92,
+				"end": 3.2,
+				"index": 142
+			},
+			{
+				"text": "a ",
+				"start": 3.2,
+				"end": 3.34,
+				"index": 143
+			},
+			{
+				"text": "bow, ",
+				"start": 3.34,
+				"end": 3.5,
+				"index": 144
+			},
+			{
+				"text": "King ",
+				"start": 3.62,
+				"end": 3.86,
+				"index": 145
+			},
+			{
+				"text": "got ",
+				"start": 3.86,
+				"end": 4.2,
+				"index": 146
+			},
+			{
+				"text": "a ",
+				"start": 4.2,
+				"end": 4.36,
+				"index": 147
+			},
+			{
+				"text": "throne, ",
+				"start": 4.36,
+				"end": 4.54,
+				"index": 148
+			},
+			{
+				"text": "who ",
+				"start": 4.64,
+				"end": 4.7,
+				"index": 149
+			},
+			{
+				"text": "gon' ",
+				"start": 4.7,
+				"end": 4.86,
+				"index": 150
+			},
+			{
+				"text": "stop ",
+				"start": 4.9,
+				"end": 5.06,
+				"index": 151
+			},
+			{
+				"text": "him?",
+				"start": 5.06,
+				"end": 5.28,
+				"index": 152
+			}
+		],
+		"start": 40.04,
+		"end": 45.32
+	},
+	{
+		"words": [
+			{
+				"text": "No, ",
+				"start": 0,
+				"end": 0.16,
+				"index": 153
+			},
+			{
+				"text": "when ",
+				"start": 0.18,
+				"end": 0.44,
+				"index": 154
+			},
+			{
+				"text": "in ",
+				"start": 0.44,
+				"end": 0.6,
+				"index": 155
+			},
+			{
+				"text": "the ",
+				"start": 0.6,
+				"end": 0.76,
+				"index": 156
+			},
+			{
+				"text": "post",
+				"start": 0.76,
+				"end": 1,
+				"index": 157
+			}
+		],
+		"start": 45.36,
+		"end": 46.36
+	},
+	{
+		"words": [
+			{
+				"text": "Tell ",
+				"start": 0,
+				"end": 0.56,
+				"index": 158
+			},
+			{
+				"text": "me ",
+				"start": 0.56,
+				"end": 0.76,
+				"index": 159
+			},
+			{
+				"text": "who ",
+				"start": 0.76,
+				"end": 0.94,
+				"index": 160
+			},
+			{
+				"text": "gon' ",
+				"start": 0.94,
+				"end": 1.14,
+				"index": 161
+			},
+			{
+				"text": "stop ",
+				"start": 1.22,
+				"end": 1.46,
+				"index": 162
+			},
+			{
+				"text": "him?",
+				"start": 1.46,
+				"end": 1.8,
+				"index": 163
+			}
+		],
+		"start": 46.36,
+		"end": 48.16
+	},
+	{
+		"words": [
+			{
+				"text": "Not ",
+				"start": 0,
+				"end": 0.22,
+				"index": 164
+			},
+			{
+				"text": "Jordan, ",
+				"start": 0.22,
+				"end": 0.54,
+				"index": 165
+			},
+			{
+				"text": "bro, ",
+				"start": 0.62,
+				"end": 0.8,
+				"index": 166
+			},
+			{
+				"text": "get ",
+				"start": 0.92,
+				"end": 1.14,
+				"index": 167
+			},
+			{
+				"text": "well ",
+				"start": 1.14,
+				"end": 1.44,
+				"index": 168
+			},
+			{
+				"text": "Bron ",
+				"start": 1.44,
+				"end": 1.86,
+				"index": 169
+			},
+			{
+				"text": "gonna ",
+				"start": 1.86,
+				"end": 2.06,
+				"index": 170
+			},
+			{
+				"text": "dunk ",
+				"start": 2.06,
+				"end": 2.42,
+				"index": 171
+			},
+			{
+				"text": "on ",
+				"start": 2.42,
+				"end": 2.74,
+				"index": 172
+			},
+			{
+				"text": "a ",
+				"start": 2.74,
+				"end": 2.88,
+				"index": 173
+			},
+			{
+				"text": "recorded ",
+				"start": 2.88,
+				"end": 3.18,
+				"index": 174
+			},
+			{
+				"text": "show",
+				"start": 3.18,
+				"end": 3.54,
+				"index": 175
+			}
+		],
+		"start": 48.22,
+		"end": 51.76
+	},
+	{
+		"words": [
+			{
+				"text": "It's ",
+				"start": 0,
+				"end": 0.44,
+				"index": 176
+			},
+			{
+				"text": "still ",
+				"start": 0.44,
+				"end": 0.7,
+				"index": 177
+			},
+			{
+				"text": "Jordan ",
+				"start": 0.7,
+				"end": 1.14,
+				"index": 178
+			},
+			{
+				"text": "exposed, ",
+				"start": 1.14,
+				"end": 1.48,
+				"index": 179
+			},
+			{
+				"text": "he ",
+				"start": 1.72,
+				"end": 1.86,
+				"index": 180
+			},
+			{
+				"text": "go ",
+				"start": 1.86,
+				"end": 2.02,
+				"index": 181
+			},
+			{
+				"text": "from ",
+				"start": 2.02,
+				"end": 2.18,
+				"index": 182
+			},
+			{
+				"text": "GOAT ",
+				"start": 2.18,
+				"end": 2.4,
+				"index": 183
+			},
+			{
+				"text": "to ",
+				"start": 2.4,
+				"end": 2.56,
+				"index": 184
+			},
+			{
+				"text": "GOAT ",
+				"start": 2.56,
+				"end": 2.8,
+				"index": 185
+			},
+			{
+				"text": "on ",
+				"start": 2.8,
+				"end": 3.02,
+				"index": 186
+			},
+			{
+				"text": "my ",
+				"start": 3.02,
+				"end": 3.22,
+				"index": 187
+			},
+			{
+				"text": "soul",
+				"start": 3.22,
+				"end": 3.42,
+				"index": 188
+			}
+		],
+		"start": 51.76,
+		"end": 55.18
+	},
+	{
+		"words": [
+			{
+				"text": "Staring ",
+				"start": 0,
+				"end": 0.42,
+				"index": 189
+			},
+			{
+				"text": "at ",
+				"start": 0.42,
+				"end": 0.7,
+				"index": 190
+			},
+			{
+				"text": "his ",
+				"start": 0.7,
+				"end": 0.86,
+				"index": 191
+			},
+			{
+				"text": "body ",
+				"start": 0.86,
+				"end": 1.14,
+				"index": 192
+			},
+			{
+				"text": "when ",
+				"start": 1.14,
+				"end": 1.36,
+				"index": 193
+			},
+			{
+				"text": "LeBron, ",
+				"start": 1.36,
+				"end": 1.68,
+				"index": 194
+			},
+			{
+				"text": "he ",
+				"start": 1.78,
+				"end": 1.88,
+				"index": 195
+			},
+			{
+				"text": "gets ",
+				"start": 1.88,
+				"end": 2.08,
+				"index": 196
+			},
+			{
+				"text": "an ",
+				"start": 2.08,
+				"end": 2.22,
+				"index": 197
+			},
+			{
+				"text": "and ",
+				"start": 2.22,
+				"end": 2.54,
+				"index": 198
+			},
+			{
+				"text": "one ",
+				"start": 2.54,
+				"end": 2.74,
+				"index": 199
+			},
+			{
+				"text": "I ",
+				"start": 2.74,
+				"end": 3.02,
+				"index": 200
+			},
+			{
+				"text": "know ",
+				"start": 3.02,
+				"end": 3.28,
+				"index": 201
+			},
+			{
+				"text": "that ",
+				"start": 3.28,
+				"end": 3.52,
+				"index": 202
+			},
+			{
+				"text": "Bron ",
+				"start": 3.52,
+				"end": 3.72,
+				"index": 203
+			},
+			{
+				"text": "is ",
+				"start": 3.72,
+				"end": 3.92,
+				"index": 204
+			},
+			{
+				"text": "number ",
+				"start": 3.92,
+				"end": 4.1,
+				"index": 205
+			},
+			{
+				"text": "one, ",
+				"start": 4.1,
+				"end": 4.46,
+				"index": 206
+			},
+			{
+				"text": "it's ",
+				"start": 4.48,
+				"end": 4.62,
+				"index": 207
+			},
+			{
+				"text": "not ",
+				"start": 4.62,
+				"end": 4.78,
+				"index": 208
+			},
+			{
+				"text": "fair",
+				"start": 4.78,
+				"end": 5.12,
+				"index": 209
+			}
+		],
+		"start": 55.18,
+		"end": 60.3
+	},
+	{
+		"words": [
+			{
+				"text": "Went ",
+				"start": 0,
+				"end": 0.3,
+				"index": 210
+			},
+			{
+				"text": "against ",
+				"start": 0.3,
+				"end": 0.66,
+				"index": 211
+			},
+			{
+				"text": "every ",
+				"start": 0.66,
+				"end": 0.9,
+				"index": 212
+			},
+			{
+				"text": "dynasty, ",
+				"start": 0.9,
+				"end": 1.34,
+				"index": 213
+			},
+			{
+				"text": "so ",
+				"start": 1.52,
+				"end": 1.64,
+				"index": 214
+			},
+			{
+				"text": "why ",
+				"start": 1.64,
+				"end": 1.86,
+				"index": 215
+			},
+			{
+				"text": "the ",
+				"start": 1.86,
+				"end": 1.98,
+				"index": 216
+			},
+			{
+				"text": "fuck ",
+				"start": 1.98,
+				"end": 2.2,
+				"index": 217
+			},
+			{
+				"text": "we ",
+				"start": 2.2,
+				"end": 2.34,
+				"index": 218
+			},
+			{
+				"text": "compare ",
+				"start": 2.34,
+				"end": 2.62,
+				"index": 219
+			},
+			{
+				"text": "him",
+				"start": 2.62,
+				"end": 2.94,
+				"index": 220
+			}
+		],
+		"start": 60.3,
+		"end": 63.24
+	},
+	{
+		"words": [
+			{
+				"text": "To ",
+				"start": 0,
+				"end": 0.22,
+				"index": 221
+			},
+			{
+				"text": "a ",
+				"start": 0.22,
+				"end": 0.38,
+				"index": 222
+			},
+			{
+				"text": "man ",
+				"start": 0.38,
+				"end": 0.74,
+				"index": 223
+			},
+			{
+				"text": "who ",
+				"start": 0.74,
+				"end": 0.94,
+				"index": 224
+			},
+			{
+				"text": "never ",
+				"start": 0.94,
+				"end": 1.14,
+				"index": 225
+			},
+			{
+				"text": "passed, ",
+				"start": 1.14,
+				"end": 1.56,
+				"index": 226
+			},
+			{
+				"text": "homie ",
+				"start": 1.68,
+				"end": 1.96,
+				"index": 227
+			},
+			{
+				"text": "never ",
+				"start": 1.96,
+				"end": 2.16,
+				"index": 228
+			},
+			{
+				"text": "shared",
+				"start": 2.16,
+				"end": 2.54,
+				"index": 229
+			}
+		],
+		"start": 63.24,
+		"end": 65.78
+	},
+	{
+		"words": [
+			{
+				"text": "Air ",
+				"start": 0,
+				"end": 0.26,
+				"index": 230
+			},
+			{
+				"text": "Jordan, ",
+				"start": 0.26,
+				"end": 0.68,
+				"index": 231
+			},
+			{
+				"text": "no ",
+				"start": 0.8,
+				"end": 0.9,
+				"index": 232
+			},
+			{
+				"text": "air ",
+				"start": 0.9,
+				"end": 1.12,
+				"index": 233
+			},
+			{
+				"text": "LeBron, ",
+				"start": 1.12,
+				"end": 1.46,
+				"index": 234
+			},
+			{
+				"text": "King's ",
+				"start": 1.62,
+				"end": 2,
+				"index": 235
+			},
+			{
+				"text": "leaf ",
+				"start": 2,
+				"end": 2.24,
+				"index": 236
+			},
+			{
+				"text": "is ",
+				"start": 2.24,
+				"end": 2.44,
+				"index": 237
+			},
+			{
+				"text": "rare",
+				"start": 2.44,
+				"end": 2.76,
+				"index": 238
+			}
+		],
+		"start": 65.78,
+		"end": 68.54
+	},
+	{
+		"words": [
+			{
+				"text": "Yeah, ",
+				"start": 0,
+				"end": 0.32,
+				"index": 239
+			},
+			{
+				"text": "somebody's ",
+				"start": 0.36,
+				"end": 0.94,
+				"index": 240
+			},
+			{
+				"text": "lyin', ",
+				"start": 0.94,
+				"end": 1.32,
+				"index": 241
+			},
+			{
+				"text": "I ",
+				"start": 1.32,
+				"end": 1.44,
+				"index": 242
+			},
+			{
+				"text": "can ",
+				"start": 1.44,
+				"end": 1.54,
+				"index": 243
+			},
+			{
+				"text": "see ",
+				"start": 1.54,
+				"end": 1.78,
+				"index": 244
+			},
+			{
+				"text": "the ",
+				"start": 1.78,
+				"end": 1.92,
+				"index": 245
+			},
+			{
+				"text": "vibes ",
+				"start": 1.92,
+				"end": 2.24,
+				"index": 246
+			},
+			{
+				"text": "on",
+				"start": 2.24,
+				"end": 2.42,
+				"index": 247
+			}
+		],
+		"start": 68.54,
+		"end": 70.96
+	},
+	{
+		"words": [
+			{
+				"text": "Smith",
+				"start": 0,
+				"end": 0.26,
+				"index": 248
+			}
+		],
+		"start": 70.96,
+		"end": 71.22
+	},
+	{
+		"words": [
+			{
+				"text": "Even ",
+				"start": 0,
+				"end": 0.42,
+				"index": 249
+			},
+			{
+				"text": "he's ",
+				"start": 0.42,
+				"end": 0.72,
+				"index": 250
+			},
+			{
+				"text": "lookin' ",
+				"start": 0.72,
+				"end": 0.88,
+				"index": 251
+			},
+			{
+				"text": "compromised, ",
+				"start": 1,
+				"end": 1.32,
+				"index": 252
+			},
+			{
+				"text": "like ",
+				"start": 1.68,
+				"end": 1.82,
+				"index": 253
+			},
+			{
+				"text": "his ",
+				"start": 1.82,
+				"end": 1.98,
+				"index": 254
+			},
+			{
+				"text": "hairline, ",
+				"start": 1.98,
+				"end": 2.36,
+				"index": 255
+			},
+			{
+				"text": "I'm ",
+				"start": 2.38,
+				"end": 2.54,
+				"index": 256
+			},
+			{
+				"text": "pissed",
+				"start": 2.54,
+				"end": 2.74,
+				"index": 257
+			}
+		],
+		"start": 71.22,
+		"end": 73.96
+	},
+	{
+		"words": [
+			{
+				"text": "Ain't ",
+				"start": 0,
+				"end": 0.34,
+				"index": 258
+			},
+			{
+				"text": "no ",
+				"start": 0.34,
+				"end": 0.42,
+				"index": 259
+			},
+			{
+				"text": "cappin', ",
+				"start": 0.42,
+				"end": 0.82,
+				"index": 260
+			},
+			{
+				"text": "homie, ",
+				"start": 0.82,
+				"end": 1.14,
+				"index": 261
+			},
+			{
+				"text": "lookin' ",
+				"start": 1.14,
+				"end": 1.3,
+				"index": 262
+			},
+			{
+				"text": "like",
+				"start": 1.48,
+				"end": 1.62,
+				"index": 263
+			}
+		],
+		"start": 73.96,
+		"end": 75.58
+	},
+	{
+		"words": [
+			{
+				"text": "Pleecy",
+				"start": 0,
+				"end": 0.22,
+				"index": 264
+			}
+		],
+		"start": 75.58,
+		"end": 75.9
+	},
+	{
+		"words": [
+			{
+				"text": "Lilo ",
+				"start": 0,
+				"end": 0.28,
+				"index": 265
+			},
+			{
+				"text": "and",
+				"start": 0.28,
+				"end": 0.38,
+				"index": 266
+			}
+		],
+		"start": 75.96,
+		"end": 76.34
+	},
+	{
+		"words": [
+			{
+				"text": "Stitch",
+				"start": 0,
+				"end": 0.2,
+				"index": 267
+			}
+		],
+		"start": 76.34,
+		"end": 76.54
+	},
+	{
+		"words": [
+			{
+				"text": "Fuckin' ",
+				"start": 0,
+				"end": 0.64,
+				"index": 268
+			},
+			{
+				"text": "with",
+				"start": 0.64,
+				"end": 0.72,
+				"index": 269
+			}
+		],
+		"start": 76.54,
+		"end": 77.26
+	},
+	{
+		"words": [
+			{
+				"text": "Team ",
+				"start": 0,
+				"end": 0.3,
+				"index": 270
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.3,
+				"end": 0.56,
+				"index": 271
+			},
+			{
+				"text": "push ",
+				"start": 0.68,
+				"end": 0.92,
+				"index": 272
+			},
+			{
+				"text": "the ",
+				"start": 0.92,
+				"end": 1.06,
+				"index": 273
+			},
+			{
+				"text": "gladiators ",
+				"start": 1.06,
+				"end": 1.44,
+				"index": 274
+			},
+			{
+				"text": "over ",
+				"start": 1.44,
+				"end": 1.66,
+				"index": 275
+			},
+			{
+				"text": "the ",
+				"start": 1.66,
+				"end": 1.88,
+				"index": 276
+			},
+			{
+				"text": "bridge",
+				"start": 1.88,
+				"end": 2.14,
+				"index": 277
+			}
+		],
+		"start": 77.26,
+		"end": 79.4
+	},
+	{
+		"words": [
+			{
+				"text": "Conspiracies ",
+				"start": 0,
+				"end": 0.56,
+				"index": 278
+			},
+			{
+				"text": "about ",
+				"start": 0.56,
+				"end": 0.9,
+				"index": 279
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.9,
+				"end": 1.18,
+				"index": 280
+			},
+			{
+				"text": "bro, ",
+				"start": 1.38,
+				"end": 1.54,
+				"index": 281
+			},
+			{
+				"text": "talkin' ",
+				"start": 1.62,
+				"end": 1.96,
+				"index": 282
+			},
+			{
+				"text": "about ",
+				"start": 2.12,
+				"end": 2.3,
+				"index": 283
+			},
+			{
+				"text": "D",
+				"start": 2.3,
+				"end": 2.56,
+				"index": 284
+			},
+			{
+				"text": "-Wade",
+				"start": 2.56,
+				"end": 2.76,
+				"index": 285
+			}
+		],
+		"start": 79.4,
+		"end": 82.16
+	},
+	{
+		"words": [
+			{
+				"text": "Like, ",
+				"start": 0,
+				"end": 0.14,
+				"index": 286
+			},
+			{
+				"text": "what ",
+				"start": 0.18,
+				"end": 0.3,
+				"index": 287
+			},
+			{
+				"text": "the ",
+				"start": 0.3,
+				"end": 0.38,
+				"index": 288
+			},
+			{
+				"text": "hell ",
+				"start": 0.38,
+				"end": 0.64,
+				"index": 289
+			},
+			{
+				"text": "is ",
+				"start": 0.64,
+				"end": 0.78,
+				"index": 290
+			},
+			{
+				"text": "you ",
+				"start": 0.78,
+				"end": 0.94,
+				"index": 291
+			},
+			{
+				"text": "on, ",
+				"start": 0.94,
+				"end": 1.18,
+				"index": 292
+			},
+			{
+				"text": "bro?",
+				"start": 1.32,
+				"end": 1.48,
+				"index": 293
+			}
+		],
+		"start": 82.16,
+		"end": 83.64
+	},
+	{
+		"words": [
+			{
+				"text": "Steven, ",
+				"start": 0,
+				"end": 0.34,
+				"index": 294
+			},
+			{
+				"text": "you ",
+				"start": 0.42,
+				"end": 0.54,
+				"index": 295
+			},
+			{
+				"text": "best ",
+				"start": 0.54,
+				"end": 0.68,
+				"index": 296
+			},
+			{
+				"text": "behave",
+				"start": 0.68,
+				"end": 1.02,
+				"index": 297
+			}
+		],
+		"start": 83.78,
+		"end": 84.8
+	},
+	{
+		"words": [
+			{
+				"text": "Are ",
+				"start": 0,
+				"end": 0.34,
+				"index": 298
+			},
+			{
+				"text": "you ",
+				"start": 0.34,
+				"end": 0.52,
+				"index": 299
+			},
+			{
+				"text": "finally ",
+				"start": 0.52,
+				"end": 0.78,
+				"index": 300
+			},
+			{
+				"text": "ready ",
+				"start": 0.78,
+				"end": 1.08,
+				"index": 301
+			},
+			{
+				"text": "to ",
+				"start": 1.08,
+				"end": 1.32,
+				"index": 302
+			},
+			{
+				"text": "play?",
+				"start": 1.32,
+				"end": 1.58,
+				"index": 303
+			}
+		],
+		"start": 84.8,
+		"end": 86.38
+	},
+	{
+		"words": [
+			{
+				"text": "Have ",
+				"start": 0,
+				"end": 0.24,
+				"index": 304
+			},
+			{
+				"text": "you ",
+				"start": 0.24,
+				"end": 0.38,
+				"index": 305
+			},
+			{
+				"text": "ever, ",
+				"start": 0.38,
+				"end": 0.66,
+				"index": 306
+			},
+			{
+				"text": "let's ",
+				"start": 0.72,
+				"end": 0.94,
+				"index": 307
+			},
+			{
+				"text": "see",
+				"start": 0.94,
+				"end": 1.06,
+				"index": 308
+			}
+		],
+		"start": 86.48,
+		"end": 87.54
+	},
+	{
+		"words": [
+			{
+				"text": "Have ",
+				"start": 0,
+				"end": 0.32,
+				"index": 309
+			},
+			{
+				"text": "you ",
+				"start": 0.32,
+				"end": 0.48,
+				"index": 310
+			},
+			{
+				"text": "ever ",
+				"start": 0.48,
+				"end": 0.76,
+				"index": 311
+			},
+			{
+				"text": "thought ",
+				"start": 0.76,
+				"end": 1.02,
+				"index": 312
+			},
+			{
+				"text": "that",
+				"start": 1.02,
+				"end": 1.14,
+				"index": 313
+			}
+		],
+		"start": 87.54,
+		"end": 88.68
+	},
+	{
+		"words": [
+			{
+				"text": "ESPN ",
+				"start": 0,
+				"end": 0.74,
+				"index": 314
+			},
+			{
+				"text": "workin' ",
+				"start": 0.74,
+				"end": 1.24,
+				"index": 315
+			},
+			{
+				"text": "for ",
+				"start": 1.3,
+				"end": 1.36,
+				"index": 316
+			},
+			{
+				"text": "me?",
+				"start": 1.36,
+				"end": 1.6,
+				"index": 317
+			}
+		],
+		"start": 88.68,
+		"end": 90.28
+	},
+	{
+		"words": [
+			{
+				"text": "Hate ",
+				"start": 0,
+				"end": 0.34,
+				"index": 318
+			},
+			{
+				"text": "bullies, ",
+				"start": 0.34,
+				"end": 0.84,
+				"index": 319
+			},
+			{
+				"text": "I ",
+				"start": 0.84,
+				"end": 0.96,
+				"index": 320
+			},
+			{
+				"text": "beg ",
+				"start": 0.96,
+				"end": 1.22,
+				"index": 321
+			},
+			{
+				"text": "bullies, ",
+				"start": 1.22,
+				"end": 1.68,
+				"index": 322
+			},
+			{
+				"text": "we ",
+				"start": 1.7,
+				"end": 1.8,
+				"index": 323
+			},
+			{
+				"text": "know ",
+				"start": 1.8,
+				"end": 2.04,
+				"index": 324
+			},
+			{
+				"text": "you ",
+				"start": 2.04,
+				"end": 2.18,
+				"index": 325
+			},
+			{
+				"text": "a ",
+				"start": 2.18,
+				"end": 2.3,
+				"index": 326
+			},
+			{
+				"text": "terrible ",
+				"start": 2.3,
+				"end": 2.68,
+				"index": 327
+			},
+			{
+				"text": "person",
+				"start": 2.68,
+				"end": 3.14,
+				"index": 328
+			}
+		],
+		"start": 90.28,
+		"end": 93.42
+	},
+	{
+		"words": [
+			{
+				"text": "Everyone ",
+				"start": 0,
+				"end": 0.4,
+				"index": 329
+			},
+			{
+				"text": "inside ",
+				"start": 0.4,
+				"end": 0.86,
+				"index": 330
+			},
+			{
+				"text": "your ",
+				"start": 0.86,
+				"end": 1.06,
+				"index": 331
+			},
+			{
+				"text": "team ",
+				"start": 1.06,
+				"end": 1.3,
+				"index": 332
+			},
+			{
+				"text": "be ",
+				"start": 1.3,
+				"end": 1.46,
+				"index": 333
+			},
+			{
+				"text": "cookin' ",
+				"start": 1.46,
+				"end": 1.8,
+				"index": 334
+			},
+			{
+				"text": "you, ",
+				"start": 1.8,
+				"end": 1.88,
+				"index": 335
+			},
+			{
+				"text": "and ",
+				"start": 1.96,
+				"end": 2.12,
+				"index": 336
+			},
+			{
+				"text": "you ",
+				"start": 2.12,
+				"end": 2.26,
+				"index": 337
+			},
+			{
+				"text": "deserve ",
+				"start": 2.26,
+				"end": 2.56,
+				"index": 338
+			},
+			{
+				"text": "it",
+				"start": 2.56,
+				"end": 2.86,
+				"index": 339
+			}
+		],
+		"start": 93.42,
+		"end": 96.28
+	},
+	{
+		"words": [
+			{
+				"text": "Can't ",
+				"start": 0,
+				"end": 0.18,
+				"index": 340
+			},
+			{
+				"text": "wiggle ",
+				"start": 0.18,
+				"end": 0.38,
+				"index": 341
+			},
+			{
+				"text": "out ",
+				"start": 0.38,
+				"end": 0.72,
+				"index": 342
+			},
+			{
+				"text": "of ",
+				"start": 0.72,
+				"end": 0.86,
+				"index": 343
+			},
+			{
+				"text": "this ",
+				"start": 0.86,
+				"end": 1,
+				"index": 344
+			},
+			{
+				"text": "conversation, ",
+				"start": 1,
+				"end": 1.48,
+				"index": 345
+			},
+			{
+				"text": "I ",
+				"start": 1.72,
+				"end": 1.86,
+				"index": 346
+			},
+			{
+				"text": "notice ",
+				"start": 1.86,
+				"end": 2.1,
+				"index": 347
+			},
+			{
+				"text": "you ",
+				"start": 2.1,
+				"end": 2.3,
+				"index": 348
+			},
+			{
+				"text": "nervous",
+				"start": 2.3,
+				"end": 2.6,
+				"index": 349
+			}
+		],
+		"start": 96.28,
+		"end": 98.88
+	},
+	{
+		"words": [
+			{
+				"text": "Every ",
+				"start": 0,
+				"end": 0.32,
+				"index": 350
+			},
+			{
+				"text": "bad ",
+				"start": 0.32,
+				"end": 0.62,
+				"index": 351
+			},
+			{
+				"text": "dog ",
+				"start": 0.62,
+				"end": 1,
+				"index": 352
+			},
+			{
+				"text": "gettin' ",
+				"start": 1,
+				"end": 1.32,
+				"index": 353
+			},
+			{
+				"text": "put ",
+				"start": 1.4,
+				"end": 1.54,
+				"index": 354
+			},
+			{
+				"text": "down, ",
+				"start": 1.54,
+				"end": 1.84,
+				"index": 355
+			},
+			{
+				"text": "now ",
+				"start": 1.92,
+				"end": 1.98,
+				"index": 356
+			},
+			{
+				"text": "livin' ",
+				"start": 1.98,
+				"end": 2.28,
+				"index": 357
+			},
+			{
+				"text": "your ",
+				"start": 2.32,
+				"end": 2.44,
+				"index": 358
+			},
+			{
+				"text": "purpose",
+				"start": 2.44,
+				"end": 2.78,
+				"index": 359
+			}
+		],
+		"start": 98.88,
+		"end": 101.66
+	},
+	{
+		"words": [
+			{
+				"text": "It ",
+				"start": 0,
+				"end": 0.2,
+				"index": 360
+			},
+			{
+				"text": "was ",
+				"start": 0.2,
+				"end": 0.36,
+				"index": 361
+			},
+			{
+				"text": "fun ",
+				"start": 0.36,
+				"end": 0.6,
+				"index": 362
+			},
+			{
+				"text": "until ",
+				"start": 0.6,
+				"end": 0.84,
+				"index": 363
+			},
+			{
+				"text": "you ",
+				"start": 0.84,
+				"end": 1.06,
+				"index": 364
+			},
+			{
+				"text": "started ",
+				"start": 1.06,
+				"end": 1.3,
+				"index": 365
+			},
+			{
+				"text": "talkin' ",
+				"start": 1.3,
+				"end": 1.64,
+				"index": 366
+			},
+			{
+				"text": "bout ",
+				"start": 1.78,
+				"end": 1.92,
+				"index": 367
+			},
+			{
+				"text": "Bronny",
+				"start": 1.92,
+				"end": 2.2,
+				"index": 368
+			}
+		],
+		"start": 101.66,
+		"end": 103.96
+	},
+	{
+		"words": [
+			{
+				"text": "Steve",
+				"start": 0,
+				"end": 0.18,
+				"index": 369
+			}
+		],
+		"start": 103.96,
+		"end": 104.14
+	},
+	{
+		"words": [
+			{
+				"text": "And ",
+				"start": 0,
+				"end": 0.36,
+				"index": 370
+			},
+			{
+				"text": "then ",
+				"start": 0.36,
+				"end": 0.54,
+				"index": 371
+			},
+			{
+				"text": "you ",
+				"start": 0.54,
+				"end": 0.64,
+				"index": 372
+			},
+			{
+				"text": "got ",
+				"start": 0.64,
+				"end": 0.86,
+				"index": 373
+			},
+			{
+				"text": "pressed ",
+				"start": 0.86,
+				"end": 1.2,
+				"index": 374
+			},
+			{
+				"text": "and ",
+				"start": 1.2,
+				"end": 1.36,
+				"index": 375
+			},
+			{
+				"text": "got ",
+				"start": 1.36,
+				"end": 1.52,
+				"index": 376
+			},
+			{
+				"text": "salty ",
+				"start": 1.52,
+				"end": 1.92,
+				"index": 377
+			},
+			{
+				"text": "and ",
+				"start": 1.92,
+				"end": 2.18,
+				"index": 378
+			},
+			{
+				"text": "said ",
+				"start": 2.18,
+				"end": 2.4,
+				"index": 379
+			},
+			{
+				"text": "it ",
+				"start": 2.4,
+				"end": 2.52,
+				"index": 380
+			},
+			{
+				"text": "was ",
+				"start": 2.52,
+				"end": 2.68,
+				"index": 381
+			},
+			{
+				"text": "weak ",
+				"start": 2.68,
+				"end": 2.92,
+				"index": 382
+			},
+			{
+				"text": "I'm ",
+				"start": 2.92,
+				"end": 3.04,
+				"index": 383
+			},
+			{
+				"text": "sorry ",
+				"start": 3.04,
+				"end": 3.28,
+				"index": 384
+			},
+			{
+				"text": "that ",
+				"start": 3.28,
+				"end": 3.52,
+				"index": 385
+			},
+			{
+				"text": "LeBron ",
+				"start": 3.52,
+				"end": 3.86,
+				"index": 386
+			},
+			{
+				"text": "a ",
+				"start": 3.86,
+				"end": 4.04,
+				"index": 387
+			},
+			{
+				"text": "perfect ",
+				"start": 4.04,
+				"end": 4.3,
+				"index": 388
+			},
+			{
+				"text": "father, ",
+				"start": 4.3,
+				"end": 4.62,
+				"index": 389
+			},
+			{
+				"text": "you'd ",
+				"start": 4.74,
+				"end": 4.94,
+				"index": 390
+			},
+			{
+				"text": "never ",
+				"start": 4.94,
+				"end": 5.18,
+				"index": 391
+			},
+			{
+				"text": "be",
+				"start": 5.18,
+				"end": 5.44,
+				"index": 392
+			}
+		],
+		"start": 104.14,
+		"end": 109.58
+	},
+	{
+		"words": [
+			{
+				"text": "The ",
+				"start": 0,
+				"end": 0.32,
+				"index": 393
+			},
+			{
+				"text": "type ",
+				"start": 0.32,
+				"end": 0.52,
+				"index": 394
+			},
+			{
+				"text": "of ",
+				"start": 0.52,
+				"end": 0.64,
+				"index": 395
+			},
+			{
+				"text": "dad ",
+				"start": 0.64,
+				"end": 0.84,
+				"index": 396
+			},
+			{
+				"text": "to ",
+				"start": 0.84,
+				"end": 0.98,
+				"index": 397
+			},
+			{
+				"text": "fight ",
+				"start": 0.98,
+				"end": 1.18,
+				"index": 398
+			},
+			{
+				"text": "with ",
+				"start": 1.18,
+				"end": 1.34,
+				"index": 399
+			},
+			{
+				"text": "anyone ",
+				"start": 1.34,
+				"end": 1.66,
+				"index": 400
+			},
+			{
+				"text": "who ",
+				"start": 1.66,
+				"end": 1.98,
+				"index": 401
+			},
+			{
+				"text": "degrade ",
+				"start": 1.98,
+				"end": 2.34,
+				"index": 402
+			},
+			{
+				"text": "his ",
+				"start": 2.34,
+				"end": 2.5,
+				"index": 403
+			},
+			{
+				"text": "seed ",
+				"start": 2.5,
+				"end": 2.74,
+				"index": 404
+			},
+			{
+				"text": "I'm ",
+				"start": 2.74,
+				"end": 3.04,
+				"index": 405
+			},
+			{
+				"text": "Mr.",
+				"start": 3.04,
+				"end": 3.18,
+				"index": 406
+			}
+		],
+		"start": 109.58,
+		"end": 112.76
+	},
+	{
+		"words": [
+			{
+				"text": "Clean, ",
+				"start": 0,
+				"end": 0.16,
+				"index": 407
+			},
+			{
+				"text": "that's ",
+				"start": 0.24,
+				"end": 0.34,
+				"index": 408
+			},
+			{
+				"text": "T",
+				"start": 0.34,
+				"end": 0.5,
+				"index": 409
+			},
+			{
+				"text": "-R",
+				"start": 0.5,
+				"end": 0.84,
+				"index": 410
+			},
+			{
+				"text": "-E, ",
+				"start": 0.84,
+				"end": 0.92,
+				"index": 411
+			},
+			{
+				"text": "the ",
+				"start": 1.08,
+				"end": 1.18,
+				"index": 412
+			},
+			{
+				"text": "V ",
+				"start": 1.18,
+				"end": 1.32,
+				"index": 413
+			},
+			{
+				"text": "on ",
+				"start": 1.32,
+				"end": 1.52,
+				"index": 414
+			},
+			{
+				"text": "your ",
+				"start": 1.52,
+				"end": 1.66,
+				"index": 415
+			},
+			{
+				"text": "damn ",
+				"start": 1.66,
+				"end": 1.9,
+				"index": 416
+			},
+			{
+				"text": "screen ",
+				"start": 1.9,
+				"end": 2.2,
+				"index": 417
+			},
+			{
+				"text": "LeBron ",
+				"start": 2.2,
+				"end": 2.66,
+				"index": 418
+			},
+			{
+				"text": "is ",
+				"start": 2.66,
+				"end": 2.82,
+				"index": 419
+			},
+			{
+				"text": "a ",
+				"start": 2.82,
+				"end": 2.92,
+				"index": 420
+			},
+			{
+				"text": "veteran, ",
+				"start": 2.92,
+				"end": 3.26,
+				"index": 421
+			},
+			{
+				"text": "all ",
+				"start": 3.48,
+				"end": 3.7,
+				"index": 422
+			},
+			{
+				"text": "the ",
+				"start": 3.7,
+				"end": 3.86,
+				"index": 423
+			},
+			{
+				"text": "guys ",
+				"start": 3.86,
+				"end": 4.08,
+				"index": 424
+			},
+			{
+				"text": "in ",
+				"start": 4.08,
+				"end": 4.28,
+				"index": 425
+			},
+			{
+				"text": "your ",
+				"start": 4.28,
+				"end": 4.42,
+				"index": 426
+			},
+			{
+				"text": "circle, ",
+				"start": 4.42,
+				"end": 4.74,
+				"index": 427
+			},
+			{
+				"text": "the ",
+				"start": 4.82,
+				"end": 4.88,
+				"index": 428
+			},
+			{
+				"text": "medicine",
+				"start": 4.88,
+				"end": 5.24,
+				"index": 429
+			}
+		],
+		"start": 112.94,
+		"end": 118.18
+	},
+	{
+		"words": [
+			{
+				"text": "If ",
+				"start": 0,
+				"end": 0.6,
+				"index": 430
+			},
+			{
+				"text": "you ",
+				"start": 0.6,
+				"end": 0.78,
+				"index": 431
+			},
+			{
+				"text": "were ",
+				"start": 0.78,
+				"end": 0.88,
+				"index": 432
+			},
+			{
+				"text": "street ",
+				"start": 0.88,
+				"end": 1.14,
+				"index": 433
+			},
+			{
+				"text": "smart, ",
+				"start": 1.14,
+				"end": 1.46,
+				"index": 434
+			},
+			{
+				"text": "you ",
+				"start": 1.56,
+				"end": 1.64,
+				"index": 435
+			},
+			{
+				"text": "would've ",
+				"start": 1.64,
+				"end": 1.92,
+				"index": 436
+			},
+			{
+				"text": "called the police",
+				"start": 1.92,
+				"end": 2.06,
+				"index": 437
+			}
+		],
+		"start": 118.18,
+		"end": 120.24
+	},
+	{
+		"words": [
+			{
+				"text": "If you were street smart, you would've called the police If you were street smart, you would've called the police If you were street smart, you would've called the police If you were street smart, you would've called the police If you were street smart, you would've called the police",
+				"start": 0,
+				"end": 120.26,
+				"index": 438
+			}
+		],
+		"start": 120.24,
+		"end": 120.24
+	},
+	{
+		"words": [
+			{
+				"text": "If ",
+				"start": 0,
+				"end": 0.44,
+				"index": 439
+			},
+			{
+				"text": "you ",
+				"start": 0.44,
+				"end": 0.64,
+				"index": 440
+			},
+			{
+				"text": "were ",
+				"start": 0.64,
+				"end": 1,
+				"index": 441
+			},
+			{
+				"text": "street ",
+				"start": 1,
+				"end": 1.56,
+				"index": 442
+			},
+			{
+				"text": "smart, ",
+				"start": 1.56,
+				"end": 1.84,
+				"index": 443
+			},
+			{
+				"text": "you ",
+				"start": 1.84,
+				"end": 2.14,
+				"index": 444
+			},
+			{
+				"text": "would've ",
+				"start": 2.14,
+				"end": 4.06,
+				"index": 445
+			},
+			{
+				"text": "called ",
+				"start": 4.06,
+				"end": 4.46,
+				"index": 446
+			},
+			{
+				"text": "the police",
+				"start": 4.46,
+				"end": 5.42,
+				"index": 447
+			}
+		],
+		"start": 139.12,
+		"end": 144.54
+	},
+	{
+		"words": [
+			{
+				"text": "If ",
+				"start": 0,
+				"end": 0.18,
+				"index": 448
+			},
+			{
+				"text": "you ",
+				"start": 0.18,
+				"end": 0.42,
+				"index": 449
+			},
+			{
+				"text": "were ",
+				"start": 0.42,
+				"end": 0.72,
+				"index": 450
+			},
+			{
+				"text": "street ",
+				"start": 0.72,
+				"end": 0.82,
+				"index": 451
+			},
+			{
+				"text": "smart, ",
+				"start": 0.82,
+				"end": 1.16,
+				"index": 452
+			},
+			{
+				"text": "you ",
+				"start": 1.26,
+				"end": 1.3,
+				"index": 453
+			},
+			{
+				"text": "would've ",
+				"start": 1.3,
+				"end": 1.38,
+				"index": 454
+			},
+			{
+				"text": "called the ",
+				"start": 1.38,
+				"end": 1.58,
+				"index": 455
+			},
+			{
+				"text": "police",
+				"start": 1.58,
+				"end": 1.86,
+				"index": 456
+			}
+		],
+		"start": 144.54,
+		"end": 146.4
+	},
+	{
+		"words": [
+			{
+				"text": "If you were street smart, you ",
+				"start": 0,
+				"end": 0.18,
+				"index": 457
+			},
+			{
+				"text": "would've ",
+				"start": 0.18,
+				"end": 0.6,
+				"index": 458
+			},
+			{
+				"text": "called ",
+				"start": 0.6,
+				"end": 0.72,
+				"index": 459
+			},
+			{
+				"text": "the police",
+				"start": 0.72,
+				"end": 1.06,
+				"index": 460
+			}
+		],
+		"start": 146.4,
+		"end": 147.46
+	},
+	{
+		"words": [
+			{
+				"text": "If ",
+				"start": 0,
+				"end": 0.08,
+				"index": 461
+			},
+			{
+				"text": "you were ",
+				"start": 0.08,
+				"end": 0.5,
+				"index": 462
+			},
+			{
+				"text": "street ",
+				"start": 0.5,
+				"end": 0.64,
+				"index": 463
+			},
+			{
+				"text": "smart, ",
+				"start": 0.64,
+				"end": 0.94,
+				"index": 464
+			},
+			{
+				"text": "you ",
+				"start": 0.94,
+				"end": 1.08,
+				"index": 465
+			},
+			{
+				"text": "would've ",
+				"start": 1.08,
+				"end": 1.16,
+				"index": 466
+			},
+			{
+				"text": "called ",
+				"start": 1.16,
+				"end": 1.22,
+				"index": 467
+			},
+			{
+				"text": "the police",
+				"start": 1.22,
+				"end": 1.74,
+				"index": 468
+			}
+		],
+		"start": 147.46,
+		"end": 149.2
+	},
+	{
+		"words": [
+			{
+				"text": "If you were street smart, you ",
+				"start": 0,
+				"end": 0.12,
+				"index": 469
+			},
+			{
+				"text": "would've ",
+				"start": 0.12,
+				"end": 0.28,
+				"index": 470
+			},
+			{
+				"text": "called ",
+				"start": 0.28,
+				"end": 0.52,
+				"index": 471
+			},
+			{
+				"text": "the police",
+				"start": 0.52,
+				"end": 1.02,
+				"index": 472
+			}
+		],
+		"start": 149.2,
+		"end": 150.22
+	},
+	{
+		"words": [
+			{
+				"text": "If ",
+				"start": 0,
+				"end": 0.1,
+				"index": 473
+			},
+			{
+				"text": "you ",
+				"start": 0.1,
+				"end": 0.62,
+				"index": 474
+			},
+			{
+				"text": "were ",
+				"start": 0.62,
+				"end": 0.8,
+				"index": 475
+			},
+			{
+				"text": "street smart, you would've ",
+				"start": 0.8,
+				"end": 0.86,
+				"index": 476
+			},
+			{
+				"text": "called ",
+				"start": 0.86,
+				"end": 1.14,
+				"index": 477
+			},
+			{
+				"text": "the police",
+				"start": 1.14,
+				"end": 1.34,
+				"index": 478
+			}
+		],
+		"start": 150.22,
+		"end": 151.56
+	},
+	{
+		"words": [
+			{
+				"text": "If you were street smart, ",
+				"start": 0,
+				"end": 0.08,
+				"index": 479
+			},
+			{
+				"text": "you ",
+				"start": 0.16,
+				"end": 0.26,
+				"index": 480
+			},
+			{
+				"text": "would've called the police",
+				"start": 0.26,
+				"end": 0.28,
+				"index": 481
+			}
+		],
+		"start": 151.56,
+		"end": 151.84
+	},
+	{
+		"words": [
+			{
+				"text": "If you ",
+				"start": 0,
+				"end": 0.14,
+				"index": 482
+			},
+			{
+				"text": "were street smart, you ",
+				"start": 0.14,
+				"end": 0.18,
+				"index": 483
+			},
+			{
+				"text": "would've ",
+				"start": 0.18,
+				"end": 0.3,
+				"index": 484
+			},
+			{
+				"text": "called ",
+				"start": 0.3,
+				"end": 0.58,
+				"index": 485
+			},
+			{
+				"text": "the police",
+				"start": 0.58,
+				"end": 0.76,
+				"index": 486
+			}
+		],
+		"start": 151.84,
+		"end": 152.6
+	},
+	{
+		"words": [
+			{
+				"text": "If you were street smart, you would've called the police",
+				"start": 0,
+				"end": 0.26,
+				"index": 487
+			}
+		],
+		"start": 152.6,
+		"end": 152.86
+	},
+	{
+		"words": [
+			{
+				"text": "If you were street smart, you would've called the police If you were street smart, you would've called the police If you were street smart, you would've called the police If you were ",
+				"start": 0,
+				"end": 153.04,
+				"index": 488
+			},
+			{
+				"text": "street ",
+				"start": 0.18,
+				"end": 0.44,
+				"index": 489
+			},
+			{
+				"text": "smart, ",
+				"start": 0.44,
+				"end": 0.74,
+				"index": 490
+			},
+			{
+				"text": "you ",
+				"start": 0.86,
+				"end": 0.94,
+				"index": 491
+			},
+			{
+				"text": "would've ",
+				"start": 0.94,
+				"end": 1.14,
+				"index": 492
+			},
+			{
+				"text": "called the ",
+				"start": 1.14,
+				"end": 2.1,
+				"index": 493
+			},
+			{
+				"text": "police",
+				"start": 2.1,
+				"end": 2.32,
+				"index": 494
+			}
+		],
+		"start": 152.86,
+		"end": 155.18
+	},
+	{
+		"words": [
+			{
+				"text": "If you were street smart, you would've ",
+				"start": 0,
+				"end": 0.12,
+				"index": 495
+			},
+			{
+				"text": "called the police",
+				"start": 0.12,
+				"end": 0.34,
+				"index": 496
+			}
+		],
+		"start": 155.18,
+		"end": 155.52
+	},
+	{
+		"words": [
+			{
+				"text": "If ",
+				"start": 0,
+				"end": 0.1,
+				"index": 497
+			},
+			{
+				"text": "you ",
+				"start": 0.1,
+				"end": 0.46,
+				"index": 498
+			},
+			{
+				"text": "were ",
+				"start": 0.46,
+				"end": 0.62,
+				"index": 499
+			},
+			{
+				"text": "street smart, ",
+				"start": 0.62,
+				"end": 2.8,
+				"index": 500
+			},
+			{
+				"text": "you ",
+				"start": 2.8,
+				"end": 3.6,
+				"index": 501
+			},
+			{
+				"text": "would've ",
+				"start": 3.6,
+				"end": 3.68,
+				"index": 502
+			},
+			{
+				"text": "called the ",
+				"start": 3.68,
+				"end": 3.74,
+				"index": 503
+			},
+			{
+				"text": "police",
+				"start": 3.74,
+				"end": 4,
+				"index": 504
+			}
+		],
+		"start": 155.52,
+		"end": 159.52
+	},
+	{
+		"words": [
+			{
+				"text": "If ",
+				"start": 0,
+				"end": 0.38,
+				"index": 505
+			},
+			{
+				"text": "you were street smart, you ",
+				"start": 0.38,
+				"end": 0.54,
+				"index": 506
+			},
+			{
+				"text": "would've ",
+				"start": 0.54,
+				"end": 1.04,
+				"index": 507
+			},
+			{
+				"text": "called ",
+				"start": 1.04,
+				"end": 2.14,
+				"index": 508
+			},
+			{
+				"text": "the police",
+				"start": 2.14,
+				"end": 2.7,
+				"index": 509
+			}
+		],
+		"start": 159.52,
+		"end": 162.22
+	},
+	{
+		"words": [
+			{
+				"text": "If ",
+				"start": 0,
+				"end": 0.34,
+				"index": 510
+			},
+			{
+				"text": "you ",
+				"start": 0.34,
+				"end": 0.74,
+				"index": 511
+			},
+			{
+				"text": "were ",
+				"start": 0.74,
+				"end": 0.88,
+				"index": 512
+			},
+			{
+				"text": "street smart, you would've ",
+				"start": 0.88,
+				"end": 1.4,
+				"index": 513
+			},
+			{
+				"text": "called ",
+				"start": 1.4,
+				"end": 2.64,
+				"index": 514
+			},
+			{
+				"text": "the police",
+				"start": 2.64,
+				"end": 2.8,
+				"index": 515
+			}
+		],
+		"start": 162.22,
+		"end": 165.02
+	},
+	{
+		"words": [
+			{
+				"text": "If you were street smart, ",
+				"start": 0,
+				"end": 0.18,
+				"index": 516
+			},
+			{
+				"text": "you ",
+				"start": 0.18,
+				"end": 0.4,
+				"index": 517
+			},
+			{
+				"text": "would've ",
+				"start": 0.4,
+				"end": 0.94,
+				"index": 518
+			},
+			{
+				"text": "called the police",
+				"start": 0.94,
+				"end": 1.24,
+				"index": 519
+			}
+		],
+		"start": 165.02,
+		"end": 166.26
+	},
+	{
+		"words": [
+			{
+				"text": "If you were street smart",
+				"start": 0,
+				"end": 0,
+				"index": 520
+			}
+		],
+		"start": 166.26,
+		"end": 166.26
+	}
+]
