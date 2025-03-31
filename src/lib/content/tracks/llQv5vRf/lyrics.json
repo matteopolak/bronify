@@ -1,0 +1,80 @@
+[
+	{
+		"words": [
+			{
+				"text": "Oh, ",
+				"start": 0,
+				"end": 0.64,
+				"index": 0
+			},
+			{
+				"text": "who ",
+				"start": 0.64,
+				"end": 1.12,
+				"index": 1
+			},
+			{
+				"text": "is ",
+				"start": 1.12,
+				"end": 2.28,
+				"index": 2
+			},
+			{
+				"text": "he? ",
+				"start": 2.28,
+				"end": 2.6,
+				"index": 3
+			},
+			{
+				"text": "I ",
+				"start": 2.98,
+				"end": 4.08,
+				"index": 4
+			},
+			{
+				"text": "shield ",
+				"start": 6.26,
+				"end": 6.78,
+				"index": 5
+			},
+			{
+				"text": "my ",
+				"start": 6.78,
+				"end": 7.16,
+				"index": 6
+			},
+			{
+				"text": "eyes ",
+				"start": 7.16,
+				"end": 8.06,
+				"index": 7
+			},
+			{
+				"text": "to ",
+				"start": 8.06,
+				"end": 8.82,
+				"index": 8
+			},
+			{
+				"text": "see ",
+				"start": 8.82,
+				"end": 9.32,
+				"index": 9
+			},
+			{
+				"text": "his ",
+				"start": 9.32,
+				"end": 10.74,
+				"index": 10
+			},
+			{
+				"text": "eye",
+				"start": 13.04,
+				"end": 13.74,
+				"index": 11
+			}
+		],
+		"start": 0.56,
+		"end": 14.3
+	}
+]

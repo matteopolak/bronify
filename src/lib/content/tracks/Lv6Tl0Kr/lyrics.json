@@ -1,0 +1,194 @@
+[
+	{
+		"words": [
+			{
+				"text": "So ",
+				"start": 0,
+				"end": 0.54,
+				"index": 0
+			},
+			{
+				"text": "what ",
+				"start": 0.54,
+				"end": 0.92,
+				"index": 1
+			},
+			{
+				"text": "is ",
+				"start": 0.92,
+				"end": 1.58,
+				"index": 2
+			},
+			{
+				"text": "a ",
+				"start": 1.58,
+				"end": 2.08,
+				"index": 3
+			},
+			{
+				"text": "team, ",
+				"start": 2.08,
+				"end": 2.7,
+				"index": 4
+			},
+			{
+				"text": "what ",
+				"start": 3.1,
+				"end": 4.94,
+				"index": 5
+			},
+			{
+				"text": "have ",
+				"start": 4.94,
+				"end": 5.38,
+				"index": 6
+			},
+			{
+				"text": "they ",
+				"start": 5.38,
+				"end": 5.68,
+				"index": 7
+			},
+			{
+				"text": "got, ",
+				"start": 5.68,
+				"end": 6.28,
+				"index": 8
+			},
+			{
+				"text": "if ",
+				"start": 6.5,
+				"end": 8.12,
+				"index": 9
+			},
+			{
+				"text": "not ",
+				"start": 8.12,
+				"end": 8.64,
+				"index": 10
+			},
+			{
+				"text": "LeBron, ",
+				"start": 8.64,
+				"end": 9.62,
+				"index": 11
+			},
+			{
+				"text": "they ",
+				"start": 9.62,
+				"end": 10.12,
+				"index": 12
+			},
+			{
+				"text": "have ",
+				"start": 12.14,
+				"end": 12.32,
+				"index": 13
+			},
+			{
+				"text": "not, ",
+				"start": 12.32,
+				"end": 12.76,
+				"index": 14
+			},
+			{
+				"text": "he ",
+				"start": 13,
+				"end": 13.88,
+				"index": 15
+			},
+			{
+				"text": "does ",
+				"start": 13.88,
+				"end": 14.68,
+				"index": 16
+			},
+			{
+				"text": "it ",
+				"start": 14.68,
+				"end": 15.26,
+				"index": 17
+			},
+			{
+				"text": "all, ",
+				"start": 15.26,
+				"end": 15.76,
+				"index": 18
+			},
+			{
+				"text": "does ",
+				"start": 18.41,
+				"end": 18.75,
+				"index": 19
+			},
+			{
+				"text": "it ",
+				"start": 18.75,
+				"end": 19.09,
+				"index": 20
+			},
+			{
+				"text": "well, ",
+				"start": 19.09,
+				"end": 19.41,
+				"index": 21
+			},
+			{
+				"text": "more ",
+				"start": 24.1,
+				"end": 24.3,
+				"index": 22
+			},
+			{
+				"text": "tales ",
+				"start": 24.3,
+				"end": 25,
+				"index": 23
+			},
+			{
+				"text": "to ",
+				"start": 25,
+				"end": 26.02,
+				"index": 24
+			},
+			{
+				"text": "tell, ",
+				"start": 26.02,
+				"end": 26.54,
+				"index": 25
+			},
+			{
+				"text": "all ",
+				"start": 31.25,
+				"end": 31.39,
+				"index": 26
+			},
+			{
+				"text": "shout ",
+				"start": 31.39,
+				"end": 31.99,
+				"index": 27
+			},
+			{
+				"text": "his ",
+				"start": 31.99,
+				"end": 32.37,
+				"index": 28
+			},
+			{
+				"text": "name, ",
+				"start": 32.37,
+				"end": 32.77,
+				"index": 29
+			},
+			{
+				"text": "change",
+				"start": 37.26,
+				"end": 37.62,
+				"index": 30
+			}
+		],
+		"start": 0.78,
+		"end": 38.4
+	}
+]
