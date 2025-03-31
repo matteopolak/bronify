@@ -134,9 +134,9 @@
 	{
 		"words": [
 			{
-				"text": "Ooh, ",
+				"text": "Ooh ",
 				"start": 0,
-				"end": 0.56,
+				"end": 0.46,
 				"index": 20
 			},
 			{
@@ -165,7 +165,7 @@
 			}
 		],
 		"start": 9.12,
-		"end": 10.58
+		"end": 10.48
 	},
 	{
 		"words": [
@@ -230,21 +230,21 @@
 	{
 		"words": [
 			{
-				"text": "Oh, ",
+				"text": "Oh ",
 				"start": 0,
-				"end": 0.66,
+				"end": 0.56,
 				"index": 34
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 0.66,
-				"end": 1.16,
+				"end": 1.06,
 				"index": 35
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 1.32,
-				"end": 1.86,
+				"end": 1.76,
 				"index": 36
 			},
 			{
@@ -794,145 +794,133 @@
 				"index": 121
 			},
 			{
-				"text": "up",
+				"text": "up ",
 				"start": 2.24,
 				"end": 2.46,
 				"index": 122
-			}
-		],
-		"start": 37.1,
-		"end": 39.56
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0.48,
+				"text": "LeBron ",
+				"start": 2.46,
+				"end": 2.84,
 				"index": 123
 			},
 			{
-				"text": "LeBron, ",
-				"start": 0.56,
-				"end": 1,
+				"text": "LeBron ",
+				"start": 3.02,
+				"end": 3.36,
 				"index": 124
 			},
 			{
 				"text": "LeBron, ",
-				"start": 1.04,
-				"end": 1.46,
+				"start": 3.5,
+				"end": 3.92,
 				"index": 125
 			},
 			{
 				"text": "my ",
-				"start": 1.48,
-				"end": 1.62,
+				"start": 3.94,
+				"end": 4.08,
 				"index": 126
 			},
 			{
 				"text": "GOAT ",
-				"start": 1.62,
-				"end": 1.94,
+				"start": 4.08,
+				"end": 4.4,
 				"index": 127
 			},
 			{
 				"text": "is ",
-				"start": 1.94,
-				"end": 2.08,
+				"start": 4.4,
+				"end": 4.54,
 				"index": 128
 			},
 			{
-				"text": "gone",
-				"start": 2.08,
-				"end": 2.34,
+				"text": "gone ",
+				"start": 4.54,
+				"end": 4.8,
 				"index": 129
-			}
-		],
-		"start": 39.56,
-		"end": 41.9
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "King ",
-				"start": 0,
-				"end": 0.16,
+				"start": 4.8,
+				"end": 4.96,
 				"index": 130
 			},
 			{
 				"text": "James, ",
-				"start": 0.16,
-				"end": 0.48,
+				"start": 4.96,
+				"end": 5.28,
 				"index": 131
 			},
 			{
 				"text": "he ",
-				"start": 0.6,
-				"end": 0.7,
+				"start": 5.4,
+				"end": 5.5,
 				"index": 132
 			},
 			{
 				"text": "knows, ",
-				"start": 0.7,
-				"end": 0.96,
+				"start": 5.5,
+				"end": 5.76,
 				"index": 133
 			},
 			{
 				"text": "he ",
-				"start": 1,
-				"end": 1.12,
+				"start": 5.8,
+				"end": 5.92,
 				"index": 134
 			},
 			{
 				"text": "says, ",
-				"start": 1.12,
-				"end": 1.38,
+				"start": 5.92,
+				"end": 6.18,
 				"index": 135
 			},
 			{
 				"text": "the ",
-				"start": 1.4,
-				"end": 1.58,
+				"start": 6.2,
+				"end": 6.38,
 				"index": 136
 			},
 			{
 				"text": "king, ",
-				"start": 1.58,
-				"end": 1.8,
+				"start": 6.38,
+				"end": 6.6,
 				"index": 137
 			},
 			{
 				"text": "he ",
-				"start": 1.9,
-				"end": 2.06,
+				"start": 6.7,
+				"end": 6.86,
 				"index": 138
 			},
 			{
 				"text": "tried, ",
-				"start": 2.06,
-				"end": 2.28,
+				"start": 6.86,
+				"end": 7.08,
 				"index": 139
 			},
 			{
 				"text": "he ",
-				"start": 2.42,
-				"end": 2.5,
+				"start": 7.22,
+				"end": 7.3,
 				"index": 140
 			},
 			{
 				"text": "won't ",
-				"start": 2.5,
-				"end": 2.8,
+				"start": 7.3,
+				"end": 7.6,
 				"index": 141
 			},
 			{
 				"text": "say",
-				"start": 2.8,
-				"end": 2.92,
+				"start": 7.6,
+				"end": 7.72,
 				"index": 142
 			}
 		],
-		"start": 41.9,
+		"start": 37.1,
 		"end": 44.82
 	},
 	{
@@ -1076,9 +1064,9 @@
 				"index": 163
 			},
 			{
-				"text": "fouls, ",
+				"text": "fouls ",
 				"start": 0.76,
-				"end": 1.5,
+				"end": 1.4,
 				"index": 164
 			},
 			{

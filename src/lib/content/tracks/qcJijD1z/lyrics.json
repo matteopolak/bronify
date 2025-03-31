@@ -722,9 +722,9 @@
 	{
 		"words": [
 			{
-				"text": "No, ",
+				"text": "No ",
 				"start": 0,
-				"end": 1.98,
+				"end": 1.88,
 				"index": 103
 			},
 			{
@@ -896,79 +896,73 @@
 				"index": 129
 			},
 			{
-				"text": "wise",
+				"text": "wise ",
 				"start": 2.28,
 				"end": 2.64,
 				"index": 130
-			}
-		],
-		"start": 71.39,
-		"end": 74.03
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "I ",
-				"start": 0,
-				"end": 0.36,
+				"start": 2.64,
+				"end": 3,
 				"index": 131
 			},
 			{
 				"text": "just ",
-				"start": 0.36,
-				"end": 0.54,
+				"start": 3,
+				"end": 3.18,
 				"index": 132
 			},
 			{
 				"text": "laugh ",
-				"start": 0.54,
-				"end": 0.86,
+				"start": 3.18,
+				"end": 3.5,
 				"index": 133
 			},
 			{
 				"text": "and ",
-				"start": 0.86,
-				"end": 1.04,
+				"start": 3.5,
+				"end": 3.68,
 				"index": 134
 			},
 			{
 				"text": "I ",
-				"start": 1.04,
-				"end": 1.24,
+				"start": 3.68,
+				"end": 3.88,
 				"index": 135
 			},
 			{
 				"text": "watch ",
-				"start": 1.24,
-				"end": 1.52,
+				"start": 3.88,
+				"end": 4.16,
 				"index": 136
 			},
 			{
 				"text": "em ",
-				"start": 1.52,
-				"end": 2,
+				"start": 4.16,
+				"end": 4.64,
 				"index": 137
 			},
 			{
 				"text": "drop ",
-				"start": 2,
-				"end": 2.2,
+				"start": 4.64,
+				"end": 4.84,
 				"index": 138
 			},
 			{
 				"text": "a ",
-				"start": 2.2,
-				"end": 2.4,
+				"start": 4.84,
+				"end": 5.04,
 				"index": 139
 			},
 			{
 				"text": "30",
-				"start": 2.4,
-				"end": 2.76,
+				"start": 5.04,
+				"end": 5.4,
 				"index": 140
 			}
 		],
-		"start": 74.03,
+		"start": 71.39,
 		"end": 76.79
 	},
 	{
@@ -1929,6 +1923,6 @@
 			}
 		],
 		"start": 154.74,
-		"end": 154.74
+		"end": 309.48
 	}
 ]

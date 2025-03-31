@@ -38,7 +38,7 @@
 				"index": 5
 			},
 			{
-				"text": "king.",
+				"text": "king",
 				"start": 3.06,
 				"end": 3.4,
 				"index": 6
@@ -68,7 +68,7 @@
 				"index": 9
 			},
 			{
-				"text": "his.",
+				"text": "his",
 				"start": 1.4,
 				"end": 1.82,
 				"index": 10
@@ -86,7 +86,7 @@
 				"index": 11
 			},
 			{
-				"text": "supreme.",
+				"text": "supreme",
 				"start": 0.8,
 				"end": 1.34,
 				"index": 12
@@ -140,7 +140,7 @@
 				"index": 19
 			},
 			{
-				"text": "LA.",
+				"text": "LA",
 				"start": 2.7,
 				"end": 3.14,
 				"index": 20
@@ -194,7 +194,7 @@
 				"index": 27
 			},
 			{
-				"text": "play.",
+				"text": "play",
 				"start": 3.28,
 				"end": 3.62,
 				"index": 28
@@ -230,7 +230,7 @@
 				"index": 32
 			},
 			{
-				"text": "sweater.",
+				"text": "sweater",
 				"start": 1.28,
 				"end": 1.68,
 				"index": 33
@@ -260,7 +260,7 @@
 				"index": 36
 			},
 			{
-				"text": "endeavor.",
+				"text": "endeavor",
 				"start": 1.18,
 				"end": 1.68,
 				"index": 37
@@ -344,7 +344,7 @@
 				"index": 48
 			},
 			{
-				"text": "lane.",
+				"text": "lane",
 				"start": 1.1,
 				"end": 1.5,
 				"index": 49
@@ -374,7 +374,7 @@
 				"index": 52
 			},
 			{
-				"text": "high.",
+				"text": "high",
 				"start": 0.96,
 				"end": 1.44,
 				"index": 53
@@ -392,7 +392,7 @@
 				"index": 54
 			},
 			{
-				"text": "greatness.",
+				"text": "greatness",
 				"start": 0.68,
 				"end": 1.12,
 				"index": 55
@@ -416,7 +416,7 @@
 				"index": 57
 			},
 			{
-				"text": "die.",
+				"text": "die",
 				"start": 0.8,
 				"end": 1.34,
 				"index": 58
@@ -458,7 +458,7 @@
 				"index": 63
 			},
 			{
-				"text": "about.",
+				"text": "about",
 				"start": 1.5,
 				"end": 1.78,
 				"index": 64
@@ -494,7 +494,7 @@
 				"index": 68
 			},
 			{
-				"text": "about. ",
+				"text": "about ",
 				"start": 1.18,
 				"end": 1.56,
 				"index": 69
@@ -506,25 +506,31 @@
 				"index": 70
 			},
 			{
-				"text": "James, ",
+				"text": "James",
 				"start": 2.56,
-				"end": 3.54,
+				"end": 3.44,
 				"index": 71
-			},
-			{
-				"text": "LeBron ",
-				"start": 3.9,
-				"end": 4.64,
-				"index": 72
-			},
-			{
-				"text": "James.",
-				"start": 4.64,
-				"end": 5.42,
-				"index": 73
 			}
 		],
 		"start": 36.64,
+		"end": 40.08
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron ",
+				"start": 0,
+				"end": 0.74,
+				"index": 72
+			},
+			{
+				"text": "James",
+				"start": 0.74,
+				"end": 1.52,
+				"index": 73
+			}
+		],
+		"start": 40.54,
 		"end": 42.06
 	},
 	{
@@ -548,7 +554,7 @@
 				"index": 76
 			},
 			{
-				"text": "gray.",
+				"text": "gray",
 				"start": 1.44,
 				"end": 1.76,
 				"index": 77
@@ -584,7 +590,7 @@
 				"index": 81
 			},
 			{
-				"text": "explain.",
+				"text": "explain",
 				"start": 1.18,
 				"end": 1.54,
 				"index": 82
@@ -632,7 +638,7 @@
 				"index": 88
 			},
 			{
-				"text": "vain.",
+				"text": "vain",
 				"start": 1.5,
 				"end": 1.8,
 				"index": 89
@@ -734,7 +740,7 @@
 				"index": 102
 			},
 			{
-				"text": "home.",
+				"text": "home",
 				"start": 2.78,
 				"end": 3.26,
 				"index": 103

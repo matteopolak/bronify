@@ -44,7 +44,7 @@
 				"index": 6
 			},
 			{
-				"text": "behind.",
+				"text": "behind",
 				"start": 2.96,
 				"end": 3.38,
 				"index": 7
@@ -104,7 +104,7 @@
 				"index": 15
 			},
 			{
-				"text": "find.",
+				"text": "find",
 				"start": 3.5,
 				"end": 3.98,
 				"index": 16
@@ -170,7 +170,7 @@
 				"index": 25
 			},
 			{
-				"text": "'9\".",
+				"text": "'9\"",
 				"start": 3.26,
 				"end": 4.52,
 				"index": 26
@@ -254,7 +254,7 @@
 				"index": 37
 			},
 			{
-				"text": "know.",
+				"text": "know",
 				"start": 1.62,
 				"end": 2.08,
 				"index": 38
@@ -302,7 +302,7 @@
 				"index": 44
 			},
 			{
-				"text": "oh.",
+				"text": "oh",
 				"start": 2.94,
 				"end": 3.28,
 				"index": 45
@@ -344,7 +344,7 @@
 				"index": 50
 			},
 			{
-				"text": "Bron.",
+				"text": "Bron",
 				"start": 2.18,
 				"end": 2.5,
 				"index": 51
@@ -501,6 +501,6 @@
 			}
 		],
 		"start": 41.52,
-		"end": 54.31
+		"end": 95.77
 	}
 ]

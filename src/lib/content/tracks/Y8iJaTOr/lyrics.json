@@ -50,9 +50,9 @@
 				"index": 7
 			},
 			{
-				"text": "up, ",
+				"text": "up ",
 				"start": 3.4,
-				"end": 4.06,
+				"end": 3.96,
 				"index": 8
 			},
 			{
@@ -128,9 +128,9 @@
 				"index": 20
 			},
 			{
-				"text": "up, ",
+				"text": "up ",
 				"start": 8.54,
-				"end": 9.06,
+				"end": 8.96,
 				"index": 21
 			},
 			{
@@ -170,146 +170,152 @@
 				"index": 27
 			},
 			{
-				"text": "special, ",
+				"text": "special",
 				"start": 10.28,
-				"end": 10.74,
+				"end": 10.64,
 				"index": 28
-			},
+			}
+		],
+		"start": 0,
+		"end": 10.64
+	},
+	{
+		"words": [
 			{
 				"text": "LeBron ",
-				"start": 11.06,
-				"end": 11.82,
+				"start": 0,
+				"end": 0.76,
 				"index": 29
 			},
 			{
 				"text": "is ",
-				"start": 11.82,
-				"end": 11.98,
+				"start": 0.76,
+				"end": 0.92,
 				"index": 30
 			},
 			{
 				"text": "on ",
-				"start": 11.98,
-				"end": 12.14,
+				"start": 0.92,
+				"end": 1.08,
 				"index": 31
 			},
 			{
 				"text": "a ",
-				"start": 12.14,
-				"end": 12.28,
+				"start": 1.08,
+				"end": 1.22,
 				"index": 32
 			},
 			{
 				"text": "whole ",
-				"start": 12.28,
-				"end": 12.5,
+				"start": 1.22,
+				"end": 1.44,
 				"index": 33
 			},
 			{
 				"text": "nother ",
-				"start": 12.5,
-				"end": 12.78,
+				"start": 1.44,
+				"end": 1.72,
 				"index": 34
 			},
 			{
 				"text": "level, ",
-				"start": 12.78,
-				"end": 13.2,
+				"start": 1.72,
+				"end": 2.14,
 				"index": 35
 			},
 			{
 				"text": "he's ",
-				"start": 13.28,
-				"end": 14.02,
+				"start": 2.22,
+				"end": 2.96,
 				"index": 36
 			},
 			{
 				"text": "funny ",
-				"start": 14.02,
-				"end": 14.38,
+				"start": 2.96,
+				"end": 3.32,
 				"index": 37
 			},
 			{
 				"text": "and ",
-				"start": 14.38,
-				"end": 14.66,
+				"start": 3.32,
+				"end": 3.6,
 				"index": 38
 			},
 			{
 				"text": "you ",
-				"start": 14.66,
-				"end": 14.76,
+				"start": 3.6,
+				"end": 3.7,
 				"index": 39
 			},
 			{
 				"text": "think ",
-				"start": 14.76,
-				"end": 14.92,
+				"start": 3.7,
+				"end": 3.86,
 				"index": 40
 			},
 			{
 				"text": "he's ",
-				"start": 14.92,
-				"end": 15.22,
+				"start": 3.86,
+				"end": 4.16,
 				"index": 41
 			},
 			{
 				"text": "just ",
-				"start": 15.22,
-				"end": 15.36,
+				"start": 4.16,
+				"end": 4.3,
 				"index": 42
 			},
 			{
 				"text": "better, ",
-				"start": 15.36,
-				"end": 15.64,
+				"start": 4.3,
+				"end": 4.58,
 				"index": 43
 			},
 			{
 				"text": "whenever ",
-				"start": 15.82,
-				"end": 16.2,
+				"start": 4.76,
+				"end": 5.14,
 				"index": 44
 			},
 			{
 				"text": "he's ",
-				"start": 16.2,
-				"end": 16.7,
+				"start": 5.14,
+				"end": 5.64,
 				"index": 45
 			},
 			{
 				"text": "into ",
-				"start": 16.7,
-				"end": 16.8,
+				"start": 5.64,
+				"end": 5.74,
 				"index": 46
 			},
 			{
-				"text": "you, ",
-				"start": 16.8,
-				"end": 17,
+				"text": "you ",
+				"start": 5.74,
+				"end": 5.84,
 				"index": 47
 			},
 			{
 				"text": "I ",
-				"start": 17.06,
-				"end": 17.18,
+				"start": 6,
+				"end": 6.12,
 				"index": 48
 			},
 			{
 				"text": "get ",
-				"start": 17.18,
-				"end": 17.38,
+				"start": 6.12,
+				"end": 6.32,
 				"index": 49
 			},
 			{
 				"text": "sentimental",
-				"start": 17.38,
-				"end": 17.78,
+				"start": 6.32,
+				"end": 6.72,
 				"index": 50
 			}
 		],
-		"start": 0,
-		"end": 17.88
+		"start": 11.06,
+		"end": 17.78
 	},
 	{
 		"words": [
@@ -387,7 +393,7 @@
 			}
 		],
 		"start": 18.28,
-		"end": 22.08
+		"end": 21.98
 	},
 	{
 		"words": [
@@ -464,187 +470,181 @@
 				"index": 74
 			},
 			{
-				"text": "just better",
+				"text": "just better ",
 				"start": 4.44,
 				"end": 4.86,
 				"index": 75
-			}
-		],
-		"start": 23.3,
-		"end": 28.26
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "LeBron ",
-				"start": 0,
-				"end": 0.56,
+				"start": 4.96,
+				"end": 5.52,
 				"index": 76
 			},
 			{
 				"text": "is ",
-				"start": 0.56,
-				"end": 0.78,
+				"start": 5.52,
+				"end": 5.74,
 				"index": 77
 			},
 			{
 				"text": "on ",
-				"start": 0.78,
-				"end": 1,
+				"start": 5.74,
+				"end": 5.96,
 				"index": 78
 			},
 			{
 				"text": "a ",
-				"start": 1,
-				"end": 1.48,
+				"start": 5.96,
+				"end": 6.44,
 				"index": 79
 			},
 			{
 				"text": "whole ",
-				"start": 1.48,
-				"end": 1.56,
+				"start": 6.44,
+				"end": 6.52,
 				"index": 80
 			},
 			{
 				"text": "nother level, ",
-				"start": 1.56,
-				"end": 1.84,
+				"start": 6.52,
+				"end": 6.8,
 				"index": 81
 			},
 			{
 				"text": "he's funny ",
-				"start": 1.84,
-				"end": 2.7,
+				"start": 6.8,
+				"end": 7.66,
 				"index": 82
 			},
 			{
 				"text": "and ",
-				"start": 2.7,
-				"end": 3.06,
+				"start": 7.66,
+				"end": 8.02,
 				"index": 83
 			},
 			{
 				"text": "you ",
-				"start": 3.06,
-				"end": 4.32,
+				"start": 8.02,
+				"end": 9.28,
 				"index": 84
 			},
 			{
 				"text": "think ",
-				"start": 4.32,
-				"end": 4.82,
+				"start": 9.28,
+				"end": 9.78,
 				"index": 85
 			},
 			{
 				"text": "he's ",
-				"start": 4.82,
-				"end": 6.36,
+				"start": 9.78,
+				"end": 11.32,
 				"index": 86
 			},
 			{
 				"text": "just ",
-				"start": 6.36,
-				"end": 6.48,
+				"start": 11.32,
+				"end": 11.44,
 				"index": 87
 			},
 			{
-				"text": "better, whenever he's into you, I get sentimental, ",
-				"start": 6.48,
-				"end": 7.4,
+				"text": "better, whenever he's into you, I get sentimental ",
+				"start": 11.44,
+				"end": 12.26,
 				"index": 88
 			},
 			{
 				"text": "LeBron ",
-				"start": 7.66,
-				"end": 8.12,
+				"start": 12.62,
+				"end": 13.08,
 				"index": 89
 			},
 			{
 				"text": "is ",
-				"start": 8.12,
-				"end": 8.3,
+				"start": 13.08,
+				"end": 13.26,
 				"index": 90
 			},
 			{
 				"text": "on ",
-				"start": 8.3,
-				"end": 8.72,
+				"start": 13.26,
+				"end": 13.68,
 				"index": 91
 			},
 			{
 				"text": "a ",
-				"start": 8.72,
-				"end": 11.08,
+				"start": 13.68,
+				"end": 16.04,
 				"index": 92
 			},
 			{
 				"text": "whole ",
-				"start": 11.08,
-				"end": 11.22,
+				"start": 16.04,
+				"end": 16.18,
 				"index": 93
 			},
 			{
 				"text": "nother ",
-				"start": 11.22,
-				"end": 11.42,
+				"start": 16.18,
+				"end": 16.38,
 				"index": 94
 			},
 			{
 				"text": "level, ",
-				"start": 11.42,
-				"end": 11.46,
+				"start": 16.38,
+				"end": 16.42,
 				"index": 95
 			},
 			{
 				"text": "he's ",
-				"start": 11.6,
-				"end": 11.98,
+				"start": 16.56,
+				"end": 16.94,
 				"index": 96
 			},
 			{
 				"text": "funny ",
-				"start": 11.98,
-				"end": 12.6,
+				"start": 16.94,
+				"end": 17.56,
 				"index": 97
 			},
 			{
 				"text": "and ",
-				"start": 12.6,
-				"end": 12.96,
+				"start": 17.56,
+				"end": 17.92,
 				"index": 98
 			},
 			{
 				"text": "you ",
-				"start": 12.96,
-				"end": 13.6,
+				"start": 17.92,
+				"end": 18.56,
 				"index": 99
 			},
 			{
 				"text": "think ",
-				"start": 13.6,
-				"end": 13.62,
+				"start": 18.56,
+				"end": 18.58,
 				"index": 100
 			},
 			{
 				"text": "he's ",
-				"start": 13.62,
-				"end": 15.72,
+				"start": 18.58,
+				"end": 20.68,
 				"index": 101
 			},
 			{
 				"text": "just ",
-				"start": 15.72,
-				"end": 15.86,
+				"start": 20.68,
+				"end": 20.82,
 				"index": 102
 			},
 			{
 				"text": "better",
-				"start": 15.86,
-				"end": 19.92,
+				"start": 20.82,
+				"end": 24.88,
 				"index": 103
 			}
 		],
-		"start": 28.26,
-		"end": 48.28
+		"start": 23.3,
+		"end": 48.18
 	}
 ]

@@ -598,29 +598,5 @@
 		],
 		"start": 57.54,
 		"end": 59.76
-	},
-	{
-		"words": [
-			{
-				"text": "Subtitles by the",
-				"start": 0,
-				"end": 0.06,
-				"index": 88
-			}
-		],
-		"start": 59.76,
-		"end": 59.82
-	},
-	{
-		"words": [
-			{
-				"text": "Amara.org community",
-				"start": 0,
-				"end": 0,
-				"index": 89
-			}
-		],
-		"start": 59.82,
-		"end": 59.82
 	}
 ]

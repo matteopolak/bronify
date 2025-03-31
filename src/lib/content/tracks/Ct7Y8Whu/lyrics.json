@@ -806,25 +806,19 @@
 				"index": 125
 			},
 			{
-				"text": "name",
+				"text": "name ",
 				"start": 10.43,
 				"end": 10.65,
 				"index": 126
-			}
-		],
-		"start": 73,
-		"end": 83.65
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "LeBron",
-				"start": 0,
-				"end": 0.94,
+				"start": 10.65,
+				"end": 11.59,
 				"index": 127
 			}
 		],
-		"start": 83.65,
+		"start": 73,
 		"end": 84.59
 	},
 	{

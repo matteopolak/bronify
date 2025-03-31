@@ -74,9 +74,9 @@
 				"index": 11
 			},
 			{
-				"text": "love, ",
+				"text": "love ",
 				"start": 3.26,
-				"end": 3.52,
+				"end": 3.42,
 				"index": 12
 			},
 			{
@@ -128,139 +128,133 @@
 				"index": 20
 			},
 			{
-				"text": "enough",
+				"text": "enough ",
 				"start": 6.74,
 				"end": 7.16,
 				"index": 21
-			}
-		],
-		"start": 0.27,
-		"end": 7.43
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "I ",
-				"start": 0,
-				"end": 0.42,
+				"start": 7.16,
+				"end": 7.58,
 				"index": 22
 			},
 			{
 				"text": "know ",
-				"start": 0.42,
-				"end": 0.68,
+				"start": 7.58,
+				"end": 7.84,
 				"index": 23
 			},
 			{
 				"text": "my ",
-				"start": 0.68,
-				"end": 0.92,
+				"start": 7.84,
+				"end": 8.08,
 				"index": 24
 			},
 			{
 				"text": "parlay ",
-				"start": 0.92,
-				"end": 1.38,
+				"start": 8.08,
+				"end": 8.54,
 				"index": 25
 			},
 			{
 				"text": "gon' ",
-				"start": 1.38,
-				"end": 1.62,
+				"start": 8.54,
+				"end": 8.78,
 				"index": 26
 			},
 			{
 				"text": "hit ",
-				"start": 1.66,
-				"end": 1.94,
+				"start": 8.82,
+				"end": 9.1,
 				"index": 27
 			},
 			{
 				"text": "that ",
-				"start": 1.94,
-				"end": 2.3,
+				"start": 9.1,
+				"end": 9.46,
 				"index": 28
 			},
 			{
 				"text": "fast, ",
-				"start": 2.3,
-				"end": 2.52,
+				"start": 9.46,
+				"end": 9.68,
 				"index": 29
 			},
 			{
 				"text": "she ",
-				"start": 2.68,
-				"end": 2.72,
+				"start": 9.84,
+				"end": 9.88,
 				"index": 30
 			},
 			{
 				"text": "pass ",
-				"start": 2.72,
-				"end": 2.96,
+				"start": 9.88,
+				"end": 10.12,
 				"index": 31
 			},
 			{
 				"text": "to ",
-				"start": 2.96,
-				"end": 3.18,
+				"start": 10.12,
+				"end": 10.34,
 				"index": 32
 			},
 			{
 				"text": "assist, ",
-				"start": 3.18,
-				"end": 3.54,
+				"start": 10.34,
+				"end": 10.7,
 				"index": 33
 			},
 			{
 				"text": "so ",
-				"start": 3.82,
-				"end": 4.14,
+				"start": 10.98,
+				"end": 11.3,
 				"index": 34
 			},
 			{
 				"text": "you ",
-				"start": 4.14,
-				"end": 4.56,
+				"start": 11.3,
+				"end": 11.72,
 				"index": 35
 			},
 			{
 				"text": "haters ",
-				"start": 4.56,
-				"end": 4.98,
+				"start": 11.72,
+				"end": 12.14,
 				"index": 36
 			},
 			{
 				"text": "stay ",
-				"start": 4.98,
-				"end": 5.18,
+				"start": 12.14,
+				"end": 12.34,
 				"index": 37
 			},
 			{
 				"text": "mad, ",
-				"start": 5.18,
-				"end": 5.54,
+				"start": 12.34,
+				"end": 12.7,
 				"index": 38
 			},
 			{
 				"text": "you ",
-				"start": 5.7,
-				"end": 5.96,
+				"start": 12.86,
+				"end": 13.12,
 				"index": 39
 			},
 			{
 				"text": "think ",
-				"start": 5.96,
-				"end": 6.22,
+				"start": 13.12,
+				"end": 13.38,
 				"index": 40
 			},
 			{
 				"text": "you",
-				"start": 6.22,
-				"end": 6.42,
+				"start": 13.38,
+				"end": 13.58,
 				"index": 41
 			}
 		],
-		"start": 7.43,
+		"start": 0.27,
 		"end": 13.85
 	},
 	{
@@ -278,7 +272,7 @@
 	{
 		"words": [
 			{
-				"text": "A.",
+				"text": "A",
 				"start": 0,
 				"end": 0.36,
 				"index": 43
@@ -398,9 +392,9 @@
 				"index": 60
 			},
 			{
-				"text": "three, ",
+				"text": "three ",
 				"start": 5.3,
-				"end": 5.6,
+				"end": 5.5,
 				"index": 61
 			},
 			{
@@ -554,123 +548,117 @@
 				"index": 85
 			},
 			{
-				"text": "three",
+				"text": "three ",
 				"start": 5.22,
 				"end": 5.48,
 				"index": 86
-			}
-		],
-		"start": 22.31,
-		"end": 27.79
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Don't ",
-				"start": 0,
-				"end": 0.46,
+				"start": 5.48,
+				"end": 5.94,
 				"index": 87
 			},
 			{
 				"text": "bother ",
-				"start": 0.46,
-				"end": 0.72,
+				"start": 5.94,
+				"end": 6.2,
 				"index": 88
 			},
 			{
 				"text": "hittin' ",
-				"start": 0.72,
-				"end": 1.32,
+				"start": 6.2,
+				"end": 6.8,
 				"index": 89
 			},
 			{
 				"text": "my ",
-				"start": 1.32,
-				"end": 1.46,
+				"start": 6.8,
+				"end": 6.94,
 				"index": 90
 			},
 			{
 				"text": "phone ",
-				"start": 1.46,
-				"end": 2.06,
+				"start": 6.94,
+				"end": 7.54,
 				"index": 91
 			},
 			{
 				"text": "up, ",
-				"start": 2.06,
-				"end": 2.54,
+				"start": 7.54,
+				"end": 8.02,
 				"index": 92
 			},
 			{
 				"text": "lest ",
-				"start": 2.6,
-				"end": 3,
+				"start": 8.08,
+				"end": 8.48,
 				"index": 93
 			},
 			{
 				"text": "he ",
-				"start": 3,
-				"end": 3.1,
+				"start": 8.48,
+				"end": 8.58,
 				"index": 94
 			},
 			{
 				"text": "talkin' ",
-				"start": 3.1,
-				"end": 3.48,
+				"start": 8.58,
+				"end": 8.96,
 				"index": 95
 			},
 			{
 				"text": "wrong ",
-				"start": 3.66,
-				"end": 3.98,
+				"start": 9.14,
+				"end": 9.46,
 				"index": 96
 			},
 			{
 				"text": "to ",
-				"start": 3.98,
-				"end": 4.22,
+				"start": 9.46,
+				"end": 9.7,
 				"index": 97
 			},
 			{
 				"text": "me",
-				"start": 4.22,
-				"end": 4.5,
+				"start": 9.7,
+				"end": 9.98,
 				"index": 98
 			}
 		],
-		"start": 27.79,
+		"start": 22.31,
 		"end": 32.29
 	},
 	{
 		"words": [
 			{
-				"text": "Bron, ",
+				"text": "Bron ",
 				"start": 0,
-				"end": 0.66,
+				"end": 0.56,
 				"index": 99
 			},
 			{
-				"text": "Bron, ",
+				"text": "Bron ",
 				"start": 0.78,
-				"end": 1.26,
+				"end": 1.16,
 				"index": 100
 			},
 			{
-				"text": "Bronny, ",
+				"text": "Bronny ",
 				"start": 1.26,
-				"end": 2.32,
+				"end": 2.22,
 				"index": 101
 			},
 			{
-				"text": "Bron, ",
+				"text": "Bron ",
 				"start": 2.34,
-				"end": 4.28,
+				"end": 4.18,
 				"index": 102
 			},
 			{
-				"text": "Bron, ",
+				"text": "Bron ",
 				"start": 4.48,
-				"end": 4.92,
+				"end": 4.82,
 				"index": 103
 			},
 			{
@@ -686,9 +674,9 @@
 	{
 		"words": [
 			{
-				"text": "See, ",
+				"text": "See ",
 				"start": 0,
-				"end": 0.66,
+				"end": 0.56,
 				"index": 105
 			},
 			{
@@ -848,9 +836,9 @@
 				"index": 130
 			},
 			{
-				"text": "ball, ",
+				"text": "ball ",
 				"start": 4.7,
-				"end": 5.04,
+				"end": 4.94,
 				"index": 131
 			},
 			{

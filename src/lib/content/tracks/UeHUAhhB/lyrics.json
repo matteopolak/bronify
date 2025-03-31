@@ -2,9 +2,9 @@
 	{
 		"words": [
 			{
-				"text": "Uh, ",
+				"text": "Uh ",
 				"start": 0,
-				"end": 0.24,
+				"end": 0.14,
 				"index": 0
 			},
 			{
@@ -236,9 +236,9 @@
 				"index": 35
 			},
 			{
-				"text": "man, ",
+				"text": "man ",
 				"start": 1.36,
-				"end": 1.48,
+				"end": 1.38,
 				"index": 36
 			},
 			{
@@ -644,9 +644,9 @@
 				"index": 97
 			},
 			{
-				"text": "man, ",
+				"text": "man ",
 				"start": 1.42,
-				"end": 1.58,
+				"end": 1.48,
 				"index": 98
 			},
 			{
@@ -1089,6 +1089,6 @@
 			}
 		],
 		"start": 41.7,
-		"end": 58.52
+		"end": 58.42
 	}
 ]

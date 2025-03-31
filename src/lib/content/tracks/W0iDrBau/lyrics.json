@@ -404,43 +404,37 @@
 				"index": 58
 			},
 			{
-				"text": "three",
+				"text": "three ",
 				"start": 3.22,
 				"end": 3.52,
 				"index": 59
-			}
-		],
-		"start": 62.09,
-		"end": 65.61
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "I'm ",
-				"start": 0,
-				"end": 0.72,
+				"start": 3.52,
+				"end": 4.24,
 				"index": 60
 			},
 			{
 				"text": "like, ",
-				"start": 0.72,
-				"end": 0.84,
+				"start": 4.24,
+				"end": 4.36,
 				"index": 61
 			},
 			{
 				"text": "that's ",
-				"start": 1.1,
-				"end": 1.62,
+				"start": 4.62,
+				"end": 5.14,
 				"index": 62
 			},
 			{
 				"text": "Bron",
-				"start": 1.62,
-				"end": 1.88,
+				"start": 5.14,
+				"end": 5.4,
 				"index": 63
 			}
 		],
-		"start": 65.61,
+		"start": 62.09,
 		"end": 67.49
 	},
 	{

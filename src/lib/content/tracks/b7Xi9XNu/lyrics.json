@@ -2,9 +2,9 @@
 	{
 		"words": [
 			{
-				"text": "Yeah, ",
+				"text": "Yeah ",
 				"start": 0,
-				"end": 1.1,
+				"end": 1,
 				"index": 0
 			},
 			{
@@ -350,9 +350,9 @@
 				"index": 57
 			},
 			{
-				"text": "yeah, ",
+				"text": "yeah ",
 				"start": 49.88,
-				"end": 50.28,
+				"end": 50.18,
 				"index": 58
 			},
 			{
@@ -386,9 +386,9 @@
 				"index": 63
 			},
 			{
-				"text": "king, ",
+				"text": "king ",
 				"start": 52.92,
-				"end": 53.34,
+				"end": 53.24,
 				"index": 64
 			},
 			{
@@ -404,9 +404,9 @@
 				"index": 66
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 53.94,
-				"end": 54.52,
+				"end": 54.42,
 				"index": 67
 			},
 			{
@@ -524,9 +524,9 @@
 				"index": 86
 			},
 			{
-				"text": "fire, ",
+				"text": "fire ",
 				"start": 63.26,
-				"end": 63.62,
+				"end": 63.52,
 				"index": 87
 			},
 			{
@@ -747,6 +747,6 @@
 			}
 		],
 		"start": 1.58,
-		"end": 115.76
+		"end": 115.66
 	}
 ]

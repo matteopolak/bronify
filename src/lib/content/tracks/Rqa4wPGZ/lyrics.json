@@ -38,55 +38,61 @@
 				"index": 5
 			},
 			{
-				"text": "wrong, ",
+				"text": "wrong",
 				"start": 2.32,
-				"end": 2.64,
+				"end": 2.54,
 				"index": 6
-			},
+			}
+		],
+		"start": 10.13,
+		"end": 12.67
+	},
+	{
+		"words": [
 			{
 				"text": "I ",
-				"start": 2.96,
-				"end": 3.36,
+				"start": 0,
+				"end": 0.4,
 				"index": 7
 			},
 			{
 				"text": "messed ",
-				"start": 3.36,
-				"end": 3.84,
+				"start": 0.4,
+				"end": 0.88,
 				"index": 8
 			},
 			{
 				"text": "up ",
-				"start": 3.84,
-				"end": 4.24,
+				"start": 0.88,
+				"end": 1.28,
 				"index": 9
 			},
 			{
 				"text": "and ",
-				"start": 4.24,
-				"end": 4.56,
+				"start": 1.28,
+				"end": 1.6,
 				"index": 10
 			},
 			{
 				"text": "now ",
-				"start": 4.56,
-				"end": 4.9,
+				"start": 1.6,
+				"end": 1.94,
 				"index": 11
 			},
 			{
 				"text": "you're ",
-				"start": 4.9,
-				"end": 5.38,
+				"start": 1.94,
+				"end": 2.42,
 				"index": 12
 			},
 			{
 				"text": "gone",
-				"start": 5.38,
-				"end": 5.76,
+				"start": 2.42,
+				"end": 2.8,
 				"index": 13
 			}
 		],
-		"start": 10.13,
+		"start": 13.09,
 		"end": 15.89
 	},
 	{
@@ -152,9 +158,9 @@
 				"index": 23
 			},
 			{
-				"text": "us, ",
+				"text": "us ",
 				"start": 3.4,
-				"end": 4.02,
+				"end": 3.92,
 				"index": 24
 			},
 			{
@@ -218,133 +224,127 @@
 				"index": 34
 			},
 			{
-				"text": "for",
+				"text": "for ",
 				"start": 9.06,
 				"end": 9.4,
 				"index": 35
-			}
-		],
-		"start": 21.25,
-		"end": 30.65
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Los ",
-				"start": 0,
-				"end": 0.46,
+				"start": 9.4,
+				"end": 9.86,
 				"index": 36
 			},
 			{
 				"text": "Angeles ",
-				"start": 0.46,
-				"end": 1.16,
+				"start": 9.86,
+				"end": 10.56,
 				"index": 37
 			},
 			{
 				"text": "you'll ",
-				"start": 3.04,
-				"end": 3.86,
+				"start": 12.44,
+				"end": 13.26,
 				"index": 38
 			},
 			{
 				"text": "step ",
-				"start": 3.86,
-				"end": 4.12,
+				"start": 13.26,
+				"end": 13.52,
 				"index": 39
 			},
 			{
 				"text": "back ",
-				"start": 4.12,
-				"end": 4.58,
+				"start": 13.52,
+				"end": 13.98,
 				"index": 40
 			},
 			{
 				"text": "right ",
-				"start": 4.58,
-				"end": 4.96,
+				"start": 13.98,
+				"end": 14.36,
 				"index": 41
 			},
 			{
 				"text": "now ",
-				"start": 4.96,
-				"end": 5.34,
+				"start": 14.36,
+				"end": 14.74,
 				"index": 42
 			},
 			{
 				"text": "with ",
-				"start": 5.34,
-				"end": 5.68,
+				"start": 14.74,
+				"end": 15.08,
 				"index": 43
 			},
 			{
 				"text": "sound ",
-				"start": 5.68,
-				"end": 6.16,
+				"start": 15.08,
+				"end": 15.56,
 				"index": 44
 			},
 			{
 				"text": "like ",
-				"start": 6.16,
-				"end": 6.48,
+				"start": 15.56,
+				"end": 15.88,
 				"index": 45
 			},
 			{
 				"text": "music ",
-				"start": 6.48,
-				"end": 7.06,
+				"start": 15.88,
+				"end": 16.46,
 				"index": 46
 			},
 			{
 				"text": "to ",
-				"start": 7.06,
-				"end": 7.44,
+				"start": 16.46,
+				"end": 16.84,
 				"index": 47
 			},
 			{
 				"text": "me ",
-				"start": 7.44,
-				"end": 7.86,
+				"start": 16.84,
+				"end": 17.26,
 				"index": 48
 			},
 			{
 				"text": "bron ",
-				"start": 7.86,
-				"end": 9.7,
+				"start": 17.26,
+				"end": 19.1,
 				"index": 49
 			},
 			{
 				"text": "I'm ",
-				"start": 9.7,
-				"end": 10.12,
+				"start": 19.1,
+				"end": 19.52,
 				"index": 50
 			},
 			{
 				"text": "sorry ",
-				"start": 10.12,
-				"end": 10.52,
+				"start": 19.52,
+				"end": 19.92,
 				"index": 51
 			},
 			{
 				"text": "I ",
-				"start": 10.52,
-				"end": 11.24,
+				"start": 19.92,
+				"end": 20.64,
 				"index": 52
 			},
 			{
 				"text": "dressed ",
-				"start": 11.24,
-				"end": 11.64,
+				"start": 20.64,
+				"end": 21.04,
 				"index": 53
 			},
 			{
 				"text": "your",
-				"start": 11.64,
-				"end": 12.04,
+				"start": 21.04,
+				"end": 21.44,
 				"index": 54
 			}
 		],
-		"start": 30.65,
+		"start": 21.25,
 		"end": 42.69
 	},
 	{

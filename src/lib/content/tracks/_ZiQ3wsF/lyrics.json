@@ -128,9 +128,9 @@
 				"index": 19
 			},
 			{
-				"text": "matter, ",
+				"text": "matter ",
 				"start": 1.62,
-				"end": 1.86,
+				"end": 1.76,
 				"index": 20
 			},
 			{
@@ -320,49 +320,43 @@
 				"index": 49
 			},
 			{
-				"text": "girls",
+				"text": "girls ",
 				"start": 3.2,
 				"end": 3.82,
 				"index": 50
-			}
-		],
-		"start": 38.3,
-		"end": 42.12
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "LeBron ",
-				"start": 0,
-				"end": 1,
+				"start": 3.82,
+				"end": 4.82,
 				"index": 51
 			},
 			{
 				"text": "and ",
-				"start": 1,
-				"end": 1.16,
+				"start": 4.82,
+				"end": 4.98,
 				"index": 52
 			},
 			{
 				"text": "Bronny, ",
-				"start": 1.16,
-				"end": 1.6,
+				"start": 4.98,
+				"end": 5.42,
 				"index": 53
 			},
 			{
 				"text": "he ",
-				"start": 1.7,
-				"end": 1.96,
+				"start": 5.52,
+				"end": 5.78,
 				"index": 54
 			},
 			{
 				"text": "and",
-				"start": 1.96,
-				"end": 2.22,
+				"start": 5.78,
+				"end": 6.04,
 				"index": 55
 			}
 		],
-		"start": 42.12,
+		"start": 38.3,
 		"end": 44.34
 	},
 	{
@@ -506,9 +500,9 @@
 				"index": 75
 			},
 			{
-				"text": "game, ",
+				"text": "game ",
 				"start": 2.18,
-				"end": 2.5,
+				"end": 2.4,
 				"index": 76
 			},
 			{

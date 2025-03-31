@@ -14,145 +14,157 @@
 				"index": 1
 			},
 			{
-				"text": "king, ",
+				"text": "king",
 				"start": 1.68,
-				"end": 2.06,
+				"end": 1.96,
 				"index": 2
-			},
+			}
+		],
+		"start": 5.26,
+		"end": 7.22
+	},
+	{
+		"words": [
 			{
-				"text": "LeBron, ",
-				"start": 2.4,
-				"end": 3.64,
+				"text": "LeBron",
+				"start": 0,
+				"end": 1.14,
 				"index": 3
-			},
+			}
+		],
+		"start": 7.66,
+		"end": 8.8
+	},
+	{
+		"words": [
 			{
 				"text": "I ",
-				"start": 3.94,
-				"end": 4.84,
+				"start": 0,
+				"end": 0.9,
 				"index": 4
 			},
 			{
 				"text": "cannot ",
-				"start": 4.84,
-				"end": 5.7,
+				"start": 0.9,
+				"end": 1.76,
 				"index": 5
 			},
 			{
 				"text": "move ",
-				"start": 5.7,
-				"end": 6.22,
+				"start": 1.76,
+				"end": 2.28,
 				"index": 6
 			},
 			{
 				"text": "my ",
-				"start": 6.22,
-				"end": 7.52,
+				"start": 2.28,
+				"end": 3.58,
 				"index": 7
 			},
 			{
-				"text": "eyes, ",
-				"start": 7.52,
-				"end": 8.26,
+				"text": "eyes ",
+				"start": 3.58,
+				"end": 4.22,
 				"index": 8
 			},
 			{
 				"text": "I'm ",
-				"start": 8.3,
-				"end": 8.92,
+				"start": 4.36,
+				"end": 4.98,
 				"index": 9
 			},
 			{
 				"text": "stunned, ",
-				"start": 8.92,
-				"end": 9.26,
+				"start": 4.98,
+				"end": 5.32,
 				"index": 10
 			},
 			{
 				"text": "every ",
-				"start": 9.52,
-				"end": 10.7,
+				"start": 5.58,
+				"end": 6.76,
 				"index": 11
 			},
 			{
 				"text": "single ",
-				"start": 10.7,
-				"end": 11.24,
+				"start": 6.76,
+				"end": 7.3,
 				"index": 12
 			},
 			{
 				"text": "day ",
-				"start": 11.24,
-				"end": 11.72,
+				"start": 7.3,
+				"end": 7.78,
 				"index": 13
 			},
 			{
 				"text": "I ",
-				"start": 11.72,
-				"end": 12.24,
+				"start": 7.78,
+				"end": 8.3,
 				"index": 14
 			},
 			{
 				"text": "put ",
-				"start": 12.24,
-				"end": 13.26,
+				"start": 8.3,
+				"end": 9.32,
 				"index": 15
 			},
 			{
 				"text": "the ",
-				"start": 13.26,
-				"end": 13.5,
+				"start": 9.32,
+				"end": 9.56,
 				"index": 16
 			},
 			{
 				"text": "game ",
-				"start": 13.5,
-				"end": 14.82,
+				"start": 9.56,
+				"end": 10.88,
 				"index": 17
 			},
 			{
 				"text": "on, ",
-				"start": 14.82,
-				"end": 15.28,
+				"start": 10.88,
+				"end": 11.34,
 				"index": 18
 			},
 			{
 				"text": "and ",
-				"start": 15.5,
-				"end": 16.22,
+				"start": 11.56,
+				"end": 12.28,
 				"index": 19
 			},
 			{
 				"text": "I ",
-				"start": 16.22,
-				"end": 16.42,
+				"start": 12.28,
+				"end": 12.48,
 				"index": 20
 			},
 			{
 				"text": "won't ",
-				"start": 16.42,
-				"end": 17.04,
+				"start": 12.48,
+				"end": 13.1,
 				"index": 21
 			},
 			{
 				"text": "trade ",
-				"start": 23.22,
-				"end": 23.66,
+				"start": 19.28,
+				"end": 19.72,
 				"index": 22
 			},
 			{
 				"text": "a ",
-				"start": 23.66,
-				"end": 23.94,
+				"start": 19.72,
+				"end": 20,
 				"index": 23
 			},
 			{
 				"text": "day",
-				"start": 23.94,
-				"end": 24.06,
+				"start": 20,
+				"end": 20.12,
 				"index": 24
 			}
 		],
-		"start": 5.26,
+		"start": 9.2,
 		"end": 29.32
 	}
 ]

@@ -32,7 +32,7 @@
 				"index": 4
 			},
 			{
-				"text": "TV.",
+				"text": "TV",
 				"start": 3.16,
 				"end": 3.92,
 				"index": 5
@@ -86,7 +86,7 @@
 				"index": 12
 			},
 			{
-				"text": "seen.",
+				"text": "seen",
 				"start": 3.34,
 				"end": 4.08,
 				"index": 13
@@ -116,73 +116,67 @@
 				"index": 16
 			},
 			{
-				"text": "even",
+				"text": "even ",
 				"start": 2.42,
 				"end": 3.5,
 				"index": 17
-			}
-		],
-		"start": 13.44,
-		"end": 16.94
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "AJ, ",
-				"start": 0,
-				"end": 0.82,
+				"start": 3.5,
+				"end": 4.32,
 				"index": 18
 			},
 			{
 				"text": "they ",
-				"start": 2.1,
-				"end": 2.46,
+				"start": 5.6,
+				"end": 5.96,
 				"index": 19
 			},
 			{
 				"text": "just ",
-				"start": 2.46,
-				"end": 2.8,
+				"start": 5.96,
+				"end": 6.3,
 				"index": 20
 			},
 			{
 				"text": "can't ",
-				"start": 2.8,
-				"end": 3.14,
+				"start": 6.3,
+				"end": 6.64,
 				"index": 21
 			},
 			{
 				"text": "compare ",
-				"start": 3.14,
-				"end": 3.58,
+				"start": 6.64,
+				"end": 7.08,
 				"index": 22
 			},
 			{
 				"text": "to ",
-				"start": 3.58,
-				"end": 3.9,
+				"start": 7.08,
+				"end": 7.4,
 				"index": 23
 			},
 			{
 				"text": "my ",
-				"start": 3.9,
-				"end": 4.24,
+				"start": 7.4,
+				"end": 7.74,
 				"index": 24
 			},
 			{
 				"text": "glorious ",
-				"start": 4.24,
-				"end": 4.94,
+				"start": 7.74,
+				"end": 8.44,
 				"index": 25
 			},
 			{
 				"text": "king",
-				"start": 4.94,
-				"end": 5.5,
+				"start": 8.44,
+				"end": 9,
 				"index": 26
 			}
 		],
-		"start": 16.94,
+		"start": 13.44,
 		"end": 22.44
 	},
 	{
@@ -230,7 +224,7 @@
 				"index": 33
 			},
 			{
-				"text": "three.",
+				"text": "three",
 				"start": 4.04,
 				"end": 4.3,
 				"index": 34
@@ -272,7 +266,7 @@
 				"index": 39
 			},
 			{
-				"text": "league.",
+				"text": "league",
 				"start": 3.87,
 				"end": 4.55,
 				"index": 40
@@ -320,7 +314,7 @@
 				"index": 46
 			},
 			{
-				"text": "fine.",
+				"text": "fine",
 				"start": 3.5,
 				"end": 4.08,
 				"index": 47
@@ -338,67 +332,61 @@
 				"index": 48
 			},
 			{
-				"text": "isn't",
+				"text": "isn't ",
 				"start": 0.86,
 				"end": 1.5,
 				"index": 49
-			}
-		],
-		"start": 38.79,
-		"end": 40.29
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Glace, ",
-				"start": 0,
-				"end": 0.4,
+				"text": "glaze, ",
+				"start": 1.5,
+				"end": 1.9,
 				"index": 50
 			},
 			{
 				"text": "he's ",
-				"start": 0.42,
-				"end": 0.66,
+				"start": 1.92,
+				"end": 2.16,
 				"index": 51
 			},
 			{
 				"text": "just ",
-				"start": 0.66,
-				"end": 0.92,
+				"start": 2.16,
+				"end": 2.42,
 				"index": 52
 			},
 			{
 				"text": "the ",
-				"start": 0.92,
-				"end": 1.14,
+				"start": 2.42,
+				"end": 2.64,
 				"index": 53
 			},
 			{
 				"text": "greatest ",
-				"start": 1.14,
-				"end": 1.64,
+				"start": 2.64,
+				"end": 3.14,
 				"index": 54
 			},
 			{
 				"text": "of ",
-				"start": 1.64,
-				"end": 2.16,
+				"start": 3.14,
+				"end": 3.66,
 				"index": 55
 			},
 			{
 				"text": "all ",
-				"start": 2.16,
-				"end": 2.54,
+				"start": 3.66,
+				"end": 4.04,
 				"index": 56
 			},
 			{
 				"text": "time",
-				"start": 2.54,
-				"end": 3.22,
+				"start": 4.04,
+				"end": 4.72,
 				"index": 57
 			}
 		],
-		"start": 40.29,
+		"start": 38.79,
 		"end": 43.51
 	},
 	{
@@ -440,7 +428,7 @@
 				"index": 63
 			},
 			{
-				"text": "dude.",
+				"text": "dude",
 				"start": 3.54,
 				"end": 3.88,
 				"index": 64
@@ -506,7 +494,7 @@
 				"index": 73
 			},
 			{
-				"text": "belt.",
+				"text": "belt",
 				"start": 8.94,
 				"end": 9.7,
 				"index": 74
@@ -620,7 +608,7 @@
 				"index": 90
 			},
 			{
-				"text": "three.",
+				"text": "three",
 				"start": 3.31,
 				"end": 3.61,
 				"index": 91

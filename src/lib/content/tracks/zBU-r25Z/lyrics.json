@@ -104,9 +104,9 @@
 				"index": 16
 			},
 			{
-				"text": "it, ",
+				"text": "it ",
 				"start": 6.74,
-				"end": 7,
+				"end": 6.9,
 				"index": 17
 			},
 			{
@@ -146,9 +146,9 @@
 				"index": 23
 			},
 			{
-				"text": "race, ",
+				"text": "race ",
 				"start": 9.02,
-				"end": 9.48,
+				"end": 9.38,
 				"index": 24
 			},
 			{
@@ -158,15 +158,15 @@
 				"index": 25
 			},
 			{
-				"text": "case, ",
+				"text": "case ",
 				"start": 10.36,
-				"end": 11.22,
+				"end": 11.12,
 				"index": 26
 			},
 			{
-				"text": "Bronny, ",
+				"text": "Bronny ",
 				"start": 11.48,
-				"end": 12.14,
+				"end": 12.04,
 				"index": 27
 			},
 			{
@@ -182,9 +182,9 @@
 				"index": 29
 			},
 			{
-				"text": "yeah, ",
+				"text": "yeah ",
 				"start": 12.94,
-				"end": 13.24,
+				"end": 13.14,
 				"index": 30
 			},
 			{
@@ -200,9 +200,9 @@
 				"index": 32
 			},
 			{
-				"text": "ya, ",
+				"text": "ya ",
 				"start": 13.68,
-				"end": 13.78,
+				"end": 13.68,
 				"index": 33
 			},
 			{
@@ -225,7 +225,7 @@
 			}
 		],
 		"start": 2.51,
-		"end": 17.67
+		"end": 17.57
 	},
 	{
 		"words": [
@@ -308,9 +308,9 @@
 				"index": 49
 			},
 			{
-				"text": "it, ",
+				"text": "it ",
 				"start": 5.76,
-				"end": 6,
+				"end": 5.9,
 				"index": 50
 			},
 			{
@@ -326,9 +326,9 @@
 				"index": 52
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 6.64,
-				"end": 7.24,
+				"end": 7.14,
 				"index": 53
 			},
 			{
@@ -344,9 +344,9 @@
 				"index": 55
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 10.09,
-				"end": 10.73,
+				"end": 10.63,
 				"index": 56
 			},
 			{
@@ -579,7 +579,7 @@
 			}
 		],
 		"start": 24.38,
-		"end": 51.66
+		"end": 51.56
 	},
 	{
 		"words": [
@@ -830,26 +830,20 @@
 				"index": 135
 			},
 			{
-				"text": "Luka",
+				"text": "Luka ",
 				"start": 13.7,
 				"end": 14.06,
 				"index": 136
-			}
-		],
-		"start": 52.18,
-		"end": 66.24
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Doncic",
-				"start": 0,
-				"end": 1.16,
+				"start": 14.06,
+				"end": 15.22,
 				"index": 137
 			}
 		],
-		"start": 66.24,
-		"end": 67.5
+		"start": 52.18,
+		"end": 67.4
 	},
 	{
 		"words": [
@@ -878,9 +872,9 @@
 				"index": 141
 			},
 			{
-				"text": "-D, ",
+				"text": "-D ",
 				"start": 1.38,
-				"end": 1.5,
+				"end": 1.4,
 				"index": 142
 			},
 			{
@@ -926,9 +920,9 @@
 				"index": 149
 			},
 			{
-				"text": "play, ",
+				"text": "play ",
 				"start": 4.46,
-				"end": 4.7,
+				"end": 4.6,
 				"index": 150
 			},
 			{
@@ -1046,9 +1040,9 @@
 				"index": 169
 			},
 			{
-				"text": "life, ",
+				"text": "life ",
 				"start": 10.84,
-				"end": 11.3,
+				"end": 11.2,
 				"index": 170
 			},
 			{
@@ -1154,9 +1148,9 @@
 				"index": 187
 			},
 			{
-				"text": "it, ",
+				"text": "it ",
 				"start": 18.18,
-				"end": 18.3,
+				"end": 18.2,
 				"index": 188
 			},
 			{
@@ -1196,9 +1190,9 @@
 				"index": 194
 			},
 			{
-				"text": "race, ",
+				"text": "race ",
 				"start": 20.38,
-				"end": 20.88,
+				"end": 20.78,
 				"index": 195
 			},
 			{
@@ -1215,14 +1209,14 @@
 			}
 		],
 		"start": 67.6,
-		"end": 90.2
+		"end": 90.1
 	},
 	{
 		"words": [
 			{
-				"text": "Bronny, ",
+				"text": "Bronny ",
 				"start": 0,
-				"end": 0.44,
+				"end": 0.34,
 				"index": 198
 			},
 			{
@@ -1238,145 +1232,139 @@
 				"index": 200
 			},
 			{
-				"text": "yeah, ",
+				"text": "yeah",
 				"start": 1.24,
-				"end": 1.62,
+				"end": 1.52,
 				"index": 201
-			},
+			}
+		],
+		"start": 90.72,
+		"end": 92.24
+	},
+	{
+		"words": [
 			{
 				"text": "I ",
-				"start": 1.92,
-				"end": 2.36,
+				"start": 0,
+				"end": 0.44,
 				"index": 202
 			},
 			{
 				"text": "like ",
-				"start": 2.36,
-				"end": 2.86,
+				"start": 0.44,
+				"end": 0.94,
 				"index": 203
 			},
 			{
-				"text": "LeBron, ",
-				"start": 2.86,
-				"end": 3.54,
+				"text": "LeBron ",
+				"start": 0.94,
+				"end": 1.52,
 				"index": 204
 			},
 			{
 				"text": "I ",
-				"start": 3.54,
-				"end": 4.52,
+				"start": 1.62,
+				"end": 2.6,
 				"index": 205
 			},
 			{
 				"text": "love ",
-				"start": 4.52,
-				"end": 5.2,
+				"start": 2.6,
+				"end": 3.28,
 				"index": 206
 			},
 			{
-				"text": "LeBron, ",
-				"start": 5.2,
-				"end": 6.32,
+				"text": "LeBron ",
+				"start": 3.28,
+				"end": 4.3,
 				"index": 207
 			},
 			{
 				"text": "I love ",
-				"start": 6.36,
-				"end": 6.6,
+				"start": 4.44,
+				"end": 4.68,
 				"index": 208
 			},
 			{
-				"text": "LeBron, ",
-				"start": 6.6,
-				"end": 6.6,
+				"text": "LeBron ",
+				"start": 4.68,
+				"end": 4.68,
 				"index": 209
 			},
 			{
-				"text": "I love LeBron, ",
-				"start": 6.78,
-				"end": 97.5,
+				"text": "I love LeBron ",
+				"start": 4.86,
+				"end": 95.48,
 				"index": 210
 			},
 			{
-				"text": "I love LeBron",
-				"start": 6.9,
-				"end": 99.58,
+				"text": "I love LeBron ",
+				"start": 4.98,
+				"end": 97.66,
 				"index": 211
-			}
-		],
-		"start": 90.72,
-		"end": 97.62
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "I love ",
-				"start": 0,
-				"end": 0.22,
+				"start": 7.04,
+				"end": 7.26,
 				"index": 212
 			},
 			{
-				"text": "LeBron, ",
-				"start": 0.22,
-				"end": 0.3,
+				"text": "LeBron ",
+				"start": 7.26,
+				"end": 7.26,
 				"index": 213
 			},
 			{
-				"text": "I love LeBron, I love LeBron, I love LeBron, I love LeBron, I love LeBron, I love LeBron, I love LeBron, I love LeBron, I love LeBron, I love LeBron, I love LeBron, I love LeBron, I love LeBron, I love LeBron, I love LeBron, I love LeBron, I love LeBron, I love LeBron",
-				"start": 0.6,
-				"end": 100.28,
+				"text": "I love LeBron, I love LeBron, I love LeBron, I love LeBron, I love LeBron, I love LeBron, I love LeBron, I love LeBron, I love LeBron, I love LeBron, I love LeBron, I love LeBron, I love LeBron, I love LeBron, I love LeBron, I love LeBron, I love LeBron, I love LeBron ",
+				"start": 7.64,
+				"end": 107.32,
 				"index": 214
-			}
-		],
-		"start": 99.68,
-		"end": 100.28
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "I ",
-				"start": 0,
-				"end": 0.22,
+				"start": 12.48,
+				"end": 12.7,
 				"index": 215
 			},
 			{
 				"text": "love ",
-				"start": 0.22,
-				"end": 0.28,
+				"start": 12.7,
+				"end": 12.76,
 				"index": 216
 			},
 			{
 				"text": "LeBron, I love ",
-				"start": 0.28,
-				"end": 0.56,
+				"start": 12.76,
+				"end": 13.04,
 				"index": 217
 			},
 			{
-				"text": "LeBron, I love LeBron, ",
-				"start": 0.56,
-				"end": 105.9,
+				"text": "LeBron, I love LeBron ",
+				"start": 13.04,
+				"end": 118.28,
 				"index": 218
 			},
 			{
 				"text": "I ",
-				"start": 0.78,
-				"end": 0.94,
+				"start": 13.26,
+				"end": 13.42,
 				"index": 219
 			},
 			{
 				"text": "love ",
-				"start": 0.94,
-				"end": 1.16,
+				"start": 13.42,
+				"end": 13.64,
 				"index": 220
 			},
 			{
 				"text": "LeBron, I love",
-				"start": 1.16,
-				"end": 2.58,
+				"start": 13.64,
+				"end": 15.06,
 				"index": 221
 			}
 		],
-		"start": 105.12,
-		"end": 107.7
+		"start": 92.64,
+		"end": 210.92
 	}
 ]

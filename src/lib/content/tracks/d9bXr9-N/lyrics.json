@@ -15,7 +15,7 @@
 			}
 		],
 		"start": 2.16,
-		"end": 2.98
+		"end": 2.88
 	},
 	{
 		"words": [
@@ -74,49 +74,43 @@
 				"index": 10
 			},
 			{
-				"text": "name",
+				"text": "name ",
 				"start": 2.98,
 				"end": 3.32,
 				"index": 11
-			}
-		],
-		"start": 3,
-		"end": 6.32
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "I'm ",
-				"start": 0,
-				"end": 0.4,
+				"start": 3.32,
+				"end": 3.72,
 				"index": 12
 			},
 			{
 				"text": "sitting ",
-				"start": 0.4,
-				"end": 0.76,
+				"start": 3.72,
+				"end": 4.08,
 				"index": 13
 			},
 			{
 				"text": "here ",
-				"start": 0.76,
-				"end": 1.26,
+				"start": 4.08,
+				"end": 4.58,
 				"index": 14
 			},
 			{
 				"text": "alone, ",
-				"start": 1.26,
-				"end": 1.72,
+				"start": 4.58,
+				"end": 5.04,
 				"index": 15
 			},
 			{
 				"text": "drinking",
-				"start": 1.76,
-				"end": 2.16,
+				"start": 5.08,
+				"end": 5.48,
 				"index": 16
 			}
 		],
-		"start": 6.32,
+		"start": 3,
 		"end": 8.48
 	},
 	{
@@ -140,31 +134,25 @@
 				"index": 19
 			},
 			{
-				"text": "-year",
+				"text": "-year ",
 				"start": 1.74,
 				"end": 2.16,
 				"index": 20
-			}
-		],
-		"start": 8.48,
-		"end": 10.64
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Cavs ",
-				"start": 0,
-				"end": 0.42,
+				"start": 2.16,
+				"end": 2.58,
 				"index": 21
 			},
 			{
 				"text": "mixtapes",
-				"start": 0.42,
-				"end": 1.66,
+				"start": 2.58,
+				"end": 3.82,
 				"index": 22
 			}
 		],
-		"start": 10.64,
+		"start": 8.48,
 		"end": 12.3
 	},
 	{
@@ -212,37 +200,43 @@
 				"index": 29
 			},
 			{
-				"text": "you, ",
+				"text": "you",
 				"start": 2.54,
-				"end": 3.2,
+				"end": 3.1,
 				"index": 30
-			},
+			}
+		],
+		"start": 13.46,
+		"end": 16.56
+	},
+	{
+		"words": [
 			{
 				"text": "I ",
-				"start": 3.54,
-				"end": 4.24,
+				"start": 0,
+				"end": 0.7,
 				"index": 31
 			},
 			{
 				"text": "swear ",
-				"start": 4.24,
-				"end": 4.56,
+				"start": 0.7,
+				"end": 1.02,
 				"index": 32
 			},
 			{
 				"text": "it's ",
-				"start": 4.56,
-				"end": 4.96,
+				"start": 1.02,
+				"end": 1.42,
 				"index": 33
 			},
 			{
 				"text": "true",
-				"start": 4.96,
-				"end": 5.26,
+				"start": 1.42,
+				"end": 1.72,
 				"index": 34
 			}
 		],
-		"start": 13.46,
+		"start": 17,
 		"end": 18.72
 	},
 	{
@@ -261,7 +255,7 @@
 			}
 		],
 		"start": 20.4,
-		"end": 21.38
+		"end": 21.28
 	},
 	{
 		"words": [
@@ -536,9 +530,9 @@
 				"index": 78
 			},
 			{
-				"text": "oh, ",
+				"text": "oh ",
 				"start": 3.26,
-				"end": 5.24,
+				"end": 5.14,
 				"index": 79
 			},
 			{
@@ -614,61 +608,67 @@
 				"index": 90
 			},
 			{
-				"text": "oh, ",
+				"text": "oh",
 				"start": 3.22,
-				"end": 5.14,
+				"end": 5.04,
 				"index": 91
-			},
+			}
+		],
+		"start": 48,
+		"end": 53.04
+	},
+	{
+		"words": [
 			{
 				"text": "I've ",
-				"start": 5.44,
-				"end": 6.08,
+				"start": 0,
+				"end": 0.64,
 				"index": 92
 			},
 			{
 				"text": "been ",
-				"start": 6.08,
-				"end": 6.18,
+				"start": 0.64,
+				"end": 0.74,
 				"index": 93
 			},
 			{
 				"text": "thinking ",
-				"start": 6.18,
-				"end": 6.56,
+				"start": 0.74,
+				"end": 1.12,
 				"index": 94
 			},
 			{
 				"text": "bout ",
-				"start": 6.56,
-				"end": 6.92,
+				"start": 1.12,
+				"end": 1.48,
 				"index": 95
 			},
 			{
 				"text": "Bronny, ",
-				"start": 6.92,
-				"end": 7.58,
+				"start": 1.48,
+				"end": 2.14,
 				"index": 96
 			},
 			{
 				"text": "thinking ",
-				"start": 7.64,
-				"end": 8.78,
+				"start": 2.2,
+				"end": 3.34,
 				"index": 97
 			},
 			{
 				"text": "bout ",
-				"start": 8.78,
-				"end": 9.22,
+				"start": 3.34,
+				"end": 3.78,
 				"index": 98
 			},
 			{
 				"text": "Bronny",
-				"start": 9.22,
-				"end": 9.74,
+				"start": 3.78,
+				"end": 4.3,
 				"index": 99
 			}
 		],
-		"start": 48,
+		"start": 53.44,
 		"end": 57.74
 	}
 ]

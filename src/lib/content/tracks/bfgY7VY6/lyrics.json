@@ -20,7 +20,7 @@
 				"index": 2
 			},
 			{
-				"text": ".A.",
+				"text": ".A",
 				"start": 1.76,
 				"end": 2.1,
 				"index": 3
@@ -86,9 +86,9 @@
 	{
 		"words": [
 			{
-				"text": "No, ",
+				"text": "No ",
 				"start": 0,
-				"end": 0.72,
+				"end": 0.62,
 				"index": 12
 			},
 			{
@@ -206,9 +206,9 @@
 	{
 		"words": [
 			{
-				"text": "Man, ",
+				"text": "Man ",
 				"start": 0,
-				"end": 2.16,
+				"end": 2.06,
 				"index": 30
 			},
 			{
@@ -260,43 +260,37 @@
 				"index": 38
 			},
 			{
-				"text": "Shaq",
+				"text": "Shaq ",
 				"start": 4.72,
 				"end": 5.2,
 				"index": 39
-			}
-		],
-		"start": 20.45,
-		"end": 25.65
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "I'm ",
-				"start": 0,
-				"end": 0.42,
+				"start": 5.2,
+				"end": 5.62,
 				"index": 40
 			},
 			{
 				"text": "just ",
-				"start": 0.42,
-				"end": 0.8,
+				"start": 5.62,
+				"end": 6,
 				"index": 41
 			},
 			{
 				"text": "a ",
-				"start": 0.8,
-				"end": 1.12,
+				"start": 6,
+				"end": 6.32,
 				"index": 42
 			},
 			{
 				"text": "blazer",
-				"start": 1.12,
-				"end": 1.74,
+				"start": 6.32,
+				"end": 6.94,
 				"index": 43
 			}
 		],
-		"start": 25.65,
+		"start": 20.45,
 		"end": 27.39
 	},
 	{

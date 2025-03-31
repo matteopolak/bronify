@@ -8,25 +8,19 @@
 				"index": 0
 			},
 			{
-				"text": "I",
+				"text": "I ",
 				"start": 1.16,
 				"end": 1.62,
 				"index": 1
-			}
-		],
-		"start": 2.06,
-		"end": 3.68
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "DON'T",
-				"start": 0,
-				"end": 0.52,
+				"start": 1.62,
+				"end": 2.14,
 				"index": 2
 			}
 		],
-		"start": 3.68,
+		"start": 2.06,
 		"end": 4.2
 	},
 	{
@@ -116,25 +110,19 @@
 	{
 		"words": [
 			{
-				"text": "WATCHING",
+				"text": "WATCHING ",
 				"start": 0,
 				"end": 1.76,
 				"index": 10
-			}
-		],
-		"start": 8.9,
-		"end": 10.66
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "LEBRON",
-				"start": 0,
-				"end": 0.76,
+				"start": 1.76,
+				"end": 2.52,
 				"index": 11
 			}
 		],
-		"start": 10.66,
+		"start": 8.9,
 		"end": 11.42
 	},
 	{
@@ -476,25 +464,19 @@
 	{
 		"words": [
 			{
-				"text": "AWAY",
+				"text": "AWAY ",
 				"start": 0,
 				"end": 0.84,
 				"index": 40
-			}
-		],
-		"start": 28.86,
-		"end": 29.7
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "I",
-				"start": 0,
-				"end": 0.5,
+				"start": 0.84,
+				"end": 1.34,
 				"index": 41
 			}
 		],
-		"start": 29.7,
+		"start": 28.86,
 		"end": 30.2
 	},
 	{
@@ -596,25 +578,19 @@
 	{
 		"words": [
 			{
-				"text": "THE",
+				"text": "THE ",
 				"start": 0,
 				"end": 0.22,
 				"index": 51
-			}
-		],
-		"start": 33.78,
-		"end": 34
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "GOOGLE",
-				"start": 0,
-				"end": 0.58,
+				"start": 0.22,
+				"end": 0.8,
 				"index": 52
 			}
 		],
-		"start": 34,
+		"start": 33.78,
 		"end": 34.58
 	},
 	{
@@ -740,25 +716,19 @@
 	{
 		"words": [
 			{
-				"text": "SOMEBODY",
+				"text": "SOMEBODY ",
 				"start": 0,
 				"end": 0.76,
 				"index": 64
-			}
-		],
-		"start": 40.54,
-		"end": 41.3
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "DON'T",
-				"start": 0,
-				"end": 0.72,
+				"start": 0.76,
+				"end": 1.48,
 				"index": 65
 			}
 		],
-		"start": 41.3,
+		"start": 40.54,
 		"end": 42.02
 	},
 	{
@@ -1022,25 +992,19 @@
 	{
 		"words": [
 			{
-				"text": "IT",
+				"text": "IT ",
 				"start": 0,
 				"end": 0.16,
 				"index": 89
-			}
-		],
-		"start": 52.52,
-		"end": 52.68
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "I",
-				"start": 0,
-				"end": 0.04,
+				"start": 0.16,
+				"end": 0.2,
 				"index": 90
 			}
 		],
-		"start": 52.68,
+		"start": 52.52,
 		"end": 52.72
 	},
 	{
@@ -1107,6 +1071,6 @@
 			}
 		],
 		"start": 53.34,
-		"end": 53.34
+		"end": 106.7
 	}
 ]

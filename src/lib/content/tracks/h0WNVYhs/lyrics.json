@@ -134,157 +134,151 @@
 				"index": 21
 			},
 			{
-				"text": "hey",
+				"text": "hey ",
 				"start": 11.8,
 				"end": 12.26,
 				"index": 22
-			}
-		],
-		"start": 0.43,
-		"end": 12.69
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "LeBron ",
-				"start": 0,
-				"end": 0.94,
+				"start": 12.26,
+				"end": 13.2,
 				"index": 23
 			},
 			{
 				"text": "is ",
-				"start": 0.94,
-				"end": 1.22,
+				"start": 13.2,
+				"end": 13.48,
 				"index": 24
 			},
 			{
 				"text": "taking ",
-				"start": 1.22,
-				"end": 1.54,
+				"start": 13.48,
+				"end": 13.8,
 				"index": 25
 			},
 			{
 				"text": "over, ",
-				"start": 1.54,
-				"end": 1.98,
+				"start": 13.8,
+				"end": 14.24,
 				"index": 26
 			},
 			{
 				"text": "he's ",
-				"start": 2.28,
-				"end": 2.82,
+				"start": 14.54,
+				"end": 15.08,
 				"index": 27
 			},
 			{
 				"text": "gonna ",
-				"start": 2.82,
-				"end": 3.06,
+				"start": 15.08,
+				"end": 15.32,
 				"index": 28
 			},
 			{
 				"text": "find ",
-				"start": 3.06,
-				"end": 3.48,
+				"start": 15.32,
+				"end": 15.74,
 				"index": 29
 			},
 			{
 				"text": "that ",
-				"start": 3.48,
-				"end": 3.7,
+				"start": 15.74,
+				"end": 15.96,
 				"index": 30
 			},
 			{
 				"text": "bucket, ",
-				"start": 3.7,
-				"end": 4.2,
+				"start": 15.96,
+				"end": 16.46,
 				"index": 31
 			},
 			{
 				"text": "he's ",
-				"start": 4.42,
-				"end": 4.9,
+				"start": 16.68,
+				"end": 17.16,
 				"index": 32
 			},
 			{
 				"text": "gonna ",
-				"start": 4.9,
-				"end": 5.16,
+				"start": 17.16,
+				"end": 17.42,
 				"index": 33
 			},
 			{
 				"text": "touch ",
-				"start": 5.16,
-				"end": 5.5,
+				"start": 17.42,
+				"end": 17.76,
 				"index": 34
 			},
 			{
 				"text": "the ",
-				"start": 5.5,
-				"end": 5.7,
+				"start": 17.76,
+				"end": 17.96,
 				"index": 35
 			},
 			{
 				"text": "stars, ",
-				"start": 5.7,
-				"end": 6.18,
+				"start": 17.96,
+				"end": 18.44,
 				"index": 36
 			},
 			{
 				"text": "he's ",
-				"start": 6.48,
-				"end": 6.98,
+				"start": 18.74,
+				"end": 19.24,
 				"index": 37
 			},
 			{
 				"text": "never ",
-				"start": 6.98,
-				"end": 7.22,
+				"start": 19.24,
+				"end": 19.48,
 				"index": 38
 			},
 			{
 				"text": "gonna ",
-				"start": 7.22,
-				"end": 7.66,
+				"start": 19.48,
+				"end": 19.92,
 				"index": 39
 			},
 			{
 				"text": "rush ",
-				"start": 7.66,
-				"end": 8.22,
+				"start": 19.92,
+				"end": 20.48,
 				"index": 40
 			},
 			{
 				"text": "it, ",
-				"start": 8.22,
-				"end": 8.56,
+				"start": 20.48,
+				"end": 20.82,
 				"index": 41
 			},
 			{
 				"text": "he's ",
-				"start": 8.64,
-				"end": 9.1,
+				"start": 20.9,
+				"end": 21.36,
 				"index": 42
 			},
 			{
 				"text": "always ",
-				"start": 9.1,
-				"end": 9.42,
+				"start": 21.36,
+				"end": 21.68,
 				"index": 43
 			},
 			{
 				"text": "taking ",
-				"start": 9.42,
-				"end": 9.82,
+				"start": 21.68,
+				"end": 22.08,
 				"index": 44
 			},
 			{
 				"text": "charge",
-				"start": 9.82,
-				"end": 10.18,
+				"start": 22.08,
+				"end": 22.44,
 				"index": 45
 			}
 		],
-		"start": 12.69,
+		"start": 0.43,
 		"end": 22.87
 	},
 	{
@@ -344,9 +338,9 @@
 				"index": 54
 			},
 			{
-				"text": "part, ",
+				"text": "part ",
 				"start": 3.9,
-				"end": 4.44,
+				"end": 4.34,
 				"index": 55
 			},
 			{
@@ -483,7 +477,7 @@
 			}
 		],
 		"start": 33.07,
-		"end": 36.71
+		"end": 36.61
 	},
 	{
 		"words": [
@@ -812,103 +806,97 @@
 				"index": 128
 			},
 			{
-				"text": "heart",
+				"text": "heart ",
 				"start": 8.04,
 				"end": 8.54,
 				"index": 129
-			}
-		],
-		"start": 52.09,
-		"end": 60.63
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "I ",
-				"start": 0,
-				"end": 0.7,
+				"start": 8.54,
+				"end": 9.24,
 				"index": 130
 			},
 			{
 				"text": "bet ",
-				"start": 0.7,
-				"end": 0.92,
+				"start": 9.24,
+				"end": 9.46,
 				"index": 131
 			},
 			{
 				"text": "that ",
-				"start": 0.92,
-				"end": 1.18,
+				"start": 9.46,
+				"end": 9.72,
 				"index": 132
 			},
 			{
 				"text": "he ",
-				"start": 1.18,
-				"end": 1.32,
+				"start": 9.72,
+				"end": 9.86,
 				"index": 133
 			},
 			{
 				"text": "gave ",
-				"start": 1.32,
-				"end": 1.68,
+				"start": 9.86,
+				"end": 10.22,
 				"index": 134
 			},
 			{
 				"text": "all ",
-				"start": 1.68,
-				"end": 2.06,
+				"start": 10.22,
+				"end": 10.6,
 				"index": 135
 			},
 			{
 				"text": "his ",
-				"start": 2.06,
-				"end": 2.52,
+				"start": 10.6,
+				"end": 11.06,
 				"index": 136
 			},
 			{
 				"text": "love, ",
-				"start": 2.52,
-				"end": 3.16,
+				"start": 11.06,
+				"end": 11.7,
 				"index": 137
 			},
 			{
 				"text": "so ",
-				"start": 3.22,
-				"end": 3.4,
+				"start": 11.76,
+				"end": 11.94,
 				"index": 138
 			},
 			{
 				"text": "nothing ",
-				"start": 3.4,
-				"end": 3.98,
+				"start": 11.94,
+				"end": 12.52,
 				"index": 139
 			},
 			{
 				"text": "ever ",
-				"start": 3.98,
-				"end": 4.64,
+				"start": 12.52,
+				"end": 13.18,
 				"index": 140
 			},
 			{
 				"text": "tore ",
-				"start": 4.64,
-				"end": 5.04,
+				"start": 13.18,
+				"end": 13.58,
 				"index": 141
 			},
 			{
 				"text": "him ",
-				"start": 5.04,
-				"end": 5.44,
+				"start": 13.58,
+				"end": 13.98,
 				"index": 142
 			},
 			{
 				"text": "apart",
-				"start": 5.44,
-				"end": 5.76,
+				"start": 13.98,
+				"end": 14.3,
 				"index": 143
 			}
 		],
-		"start": 60.63,
+		"start": 52.09,
 		"end": 66.39
 	}
 ]

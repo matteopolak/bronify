@@ -8,7 +8,7 @@
 				"index": 0
 			},
 			{
-				"text": "off.",
+				"text": "off",
 				"start": 0.84,
 				"end": 1.14,
 				"index": 1
@@ -50,7 +50,7 @@
 				"index": 6
 			},
 			{
-				"text": "off.",
+				"text": "off",
 				"start": 1.8,
 				"end": 2.3,
 				"index": 7
@@ -74,7 +74,7 @@
 				"index": 9
 			},
 			{
-				"text": "eh.",
+				"text": "eh",
 				"start": 1.2,
 				"end": 1.48,
 				"index": 10
@@ -146,7 +146,7 @@
 				"index": 19
 			},
 			{
-				"text": "draw.",
+				"text": "draw",
 				"start": 1.9,
 				"end": 2.2,
 				"index": 20
@@ -170,7 +170,7 @@
 				"index": 22
 			},
 			{
-				"text": "eh.",
+				"text": "eh",
 				"start": 1.18,
 				"end": 1.48,
 				"index": 23
@@ -236,7 +236,7 @@
 				"index": 32
 			},
 			{
-				"text": "right. ",
+				"text": "right ",
 				"start": 3.1,
 				"end": 3.2,
 				"index": 33
@@ -296,7 +296,7 @@
 				"index": 42
 			},
 			{
-				"text": "life.",
+				"text": "life",
 				"start": 6.52,
 				"end": 6.78,
 				"index": 43
@@ -356,7 +356,7 @@
 				"index": 51
 			},
 			{
-				"text": "tonight.",
+				"text": "tonight",
 				"start": 2.66,
 				"end": 3.12,
 				"index": 52
@@ -404,7 +404,7 @@
 				"index": 58
 			},
 			{
-				"text": "cause..",
+				"text": "cause",
 				"start": 2.52,
 				"end": 3.04,
 				"index": 59
@@ -422,7 +422,7 @@
 				"index": 60
 			},
 			{
-				"text": "hard.",
+				"text": "hard",
 				"start": 0.46,
 				"end": 0.68,
 				"index": 61
@@ -500,7 +500,7 @@
 				"index": 71
 			},
 			{
-				"text": "complete.",
+				"text": "complete",
 				"start": 2.02,
 				"end": 2.72,
 				"index": 72
@@ -518,7 +518,7 @@
 				"index": 73
 			},
 			{
-				"text": "hard.",
+				"text": "hard",
 				"start": 0.92,
 				"end": 1.24,
 				"index": 74
@@ -560,7 +560,7 @@
 				"index": 79
 			},
 			{
-				"text": "move.",
+				"text": "move",
 				"start": 6.01,
 				"end": 6.47,
 				"index": 80

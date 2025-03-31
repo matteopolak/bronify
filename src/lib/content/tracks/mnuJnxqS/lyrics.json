@@ -2,9 +2,9 @@
 	{
 		"words": [
 			{
-				"text": "Ayy, ",
+				"text": "Ayy ",
 				"start": 0,
-				"end": 0.54,
+				"end": 0.44,
 				"index": 0
 			},
 			{
@@ -92,9 +92,9 @@
 				"index": 13
 			},
 			{
-				"text": "mine, ",
+				"text": "mine ",
 				"start": 1.08,
-				"end": 1.32,
+				"end": 1.22,
 				"index": 14
 			},
 			{
@@ -104,49 +104,43 @@
 				"index": 15
 			},
 			{
-				"text": "make",
+				"text": "make ",
 				"start": 1.5,
 				"end": 1.7,
 				"index": 16
-			}
-		],
-		"start": 3.5,
-		"end": 5.2
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Uranus ",
-				"start": 0,
-				"end": 0.6,
+				"start": 1.7,
+				"end": 2.3,
 				"index": 17
 			},
 			{
 				"text": "king ",
-				"start": 0.6,
-				"end": 0.8,
+				"start": 2.3,
+				"end": 2.5,
 				"index": 18
 			},
 			{
 				"text": "and ",
-				"start": 0.8,
-				"end": 1.06,
+				"start": 2.5,
+				"end": 2.76,
 				"index": 19
 			},
 			{
 				"text": "never ",
-				"start": 1.06,
-				"end": 1.38,
+				"start": 2.76,
+				"end": 3.08,
 				"index": 20
 			},
 			{
 				"text": "stop",
-				"start": 1.38,
-				"end": 1.72,
+				"start": 3.08,
+				"end": 3.42,
 				"index": 21
 			}
 		],
-		"start": 5.2,
+		"start": 3.5,
 		"end": 6.92
 	},
 	{
@@ -356,9 +350,9 @@
 	{
 		"words": [
 			{
-				"text": "Ayy, ",
+				"text": "Ayy ",
 				"start": 0,
-				"end": 1.72,
+				"end": 1.62,
 				"index": 51
 			},
 			{
@@ -446,9 +440,9 @@
 				"index": 64
 			},
 			{
-				"text": "mine, ",
+				"text": "mine ",
 				"start": 1.06,
-				"end": 1.26,
+				"end": 1.16,
 				"index": 65
 			},
 			{

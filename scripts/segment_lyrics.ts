@@ -46,7 +46,7 @@ function mustStartLine(text: string) {
 
 	if (/^A\b/.test(text)) return true;
 
-	const canSkip = allowedToStay.has(text.split(/[^A-Za-z]/)[0]);
+	const canSkip = allowedToStay.has('+' + text.split(/[^A-Za-z]/)[0].toLowerCase());
 
 	return !canSkip;
 }
@@ -55,7 +55,11 @@ const wordReplacements = {
 	goat: 'GOAT',
 	bronn: 'Bron',
 	brawn: 'Bron',
-	ron: 'Bron'
+	ron: 'Bron',
+	bronnis: "Bronny's",
+	bonnie: 'Bronny',
+	glace: 'glaze',
+	bronya: 'Bron ya'
 };
 
 const wordReplacementsRegex = {};
@@ -79,6 +83,8 @@ function cleanWord(text: string) {
 const weirdRepetitionRegex = /^([^,\s]+)(?:[, ]*\1){4,}$/;
 
 const skipLyrics: string[] = JSON.parse(fs.readFileSync('scripts/skip_lyrics.json', 'utf-8'));
+
+const skipWord = ['Subtitles by the', 'Amara.org community'];
 
 for (const track of tracks) {
 	if (!fs.existsSync(path.join(base, track, 'lyrics.json'))) {
@@ -123,6 +129,10 @@ for (const track of tracks) {
 	let weirdRepetitionCount = 0;
 
 	for (const word of flattened) {
+		if (skipWord.includes(word.text)) {
+			continue;
+		}
+
 		word.text = cleanWord(word.text);
 
 		if (!word.text) {
@@ -134,7 +144,7 @@ for (const track of tracks) {
 		}
 
 		const currentStartsWithSpace = word.text.startsWith(' ');
-		const noSpace = !lastEndedWithSpace && !currentStartsWithSpace;
+		let noSpace = !lastEndedWithSpace && !currentStartsWithSpace;
 
 		const wordEnd = word.end;
 		const wordStart = word.start;
@@ -149,10 +159,18 @@ for (const track of tracks) {
 			continue;
 		}
 
-		if (
-			canStartLine(word.text) &&
-			(mustStartLine(word.text) || noSpace || word.start - lastEnd > SPLIT_TIME_THRESHOLD)
-		) {
+		const canStart = canStartLine(word.text);
+		const mustStart = mustStartLine(word.text);
+
+		if (canStart && noSpace && words.length > 0) {
+			// add space to previouis word
+			const lastWord = words[words.length - 1];
+			lastWord.text += ' ';
+			noSpace = false;
+			lastEndedWithSpace = true;
+		}
+
+		if (canStart && (mustStart || noSpace || word.start - lastEnd > SPLIT_TIME_THRESHOLD)) {
 			if (words.length > 0) {
 				// remove trailing commas and spaces from last word
 				const lastWord = words[words.length - 1];

@@ -9,7 +9,7 @@
 			}
 		],
 		"start": 3.31,
-		"end": 3.83
+		"end": 3.73
 	},
 	{
 		"words": [
@@ -129,7 +129,7 @@
 			}
 		],
 		"start": 11.41,
-		"end": 18.89
+		"end": 18.79
 	},
 	{
 		"words": [
@@ -296,9 +296,9 @@
 				"index": 46
 			},
 			{
-				"text": "along, ",
+				"text": "along ",
 				"start": 10.2,
-				"end": 10.66,
+				"end": 10.56,
 				"index": 47
 			},
 			{
@@ -386,9 +386,9 @@
 				"index": 61
 			},
 			{
-				"text": "you, ",
+				"text": "you ",
 				"start": 15.41,
-				"end": 15.63,
+				"end": 15.53,
 				"index": 62
 			},
 			{
@@ -416,15 +416,15 @@
 				"index": 66
 			},
 			{
-				"text": "you, ",
+				"text": "you ",
 				"start": 16.61,
-				"end": 16.81,
+				"end": 16.71,
 				"index": 67
 			},
 			{
-				"text": "Bron, ",
+				"text": "Bron ",
 				"start": 16.83,
-				"end": 16.97,
+				"end": 16.87,
 				"index": 68
 			},
 			{
@@ -470,9 +470,9 @@
 				"index": 75
 			},
 			{
-				"text": "end, ",
+				"text": "end ",
 				"start": 18.25,
-				"end": 18.75,
+				"end": 18.65,
 				"index": 76
 			},
 			{
@@ -494,15 +494,15 @@
 				"index": 79
 			},
 			{
-				"text": "end, ",
+				"text": "end ",
 				"start": 19.51,
-				"end": 19.91,
+				"end": 19.81,
 				"index": 80
 			},
 			{
-				"text": "Bron to the end, ",
+				"text": "Bron to the end ",
 				"start": 19.95,
-				"end": 20.13,
+				"end": 20.03,
 				"index": 81
 			},
 			{
@@ -567,6 +567,6 @@
 			}
 		],
 		"start": 19.31,
-		"end": 48.62
+		"end": 59.23
 	}
 ]

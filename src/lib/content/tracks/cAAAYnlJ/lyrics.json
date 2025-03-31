@@ -14,50 +14,56 @@
 				"index": 1
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron",
 				"start": 1.16,
-				"end": 1.9,
+				"end": 1.8,
 				"index": 2
-			},
+			}
+		],
+		"start": 0.43,
+		"end": 2.23
+	},
+	{
+		"words": [
 			{
 				"text": "L",
-				"start": 2.2,
-				"end": 3.22,
+				"start": 0,
+				"end": 1.02,
 				"index": 3
 			},
 			{
 				"text": "-E",
-				"start": 3.22,
-				"end": 3.44,
+				"start": 1.02,
+				"end": 1.24,
 				"index": 4
 			},
 			{
 				"text": "-B",
-				"start": 3.44,
-				"end": 3.6,
+				"start": 1.24,
+				"end": 1.4,
 				"index": 5
 			},
 			{
 				"text": "-R",
-				"start": 3.6,
-				"end": 4.02,
+				"start": 1.4,
+				"end": 1.82,
 				"index": 6
 			},
 			{
 				"text": "-O",
-				"start": 4.02,
-				"end": 4.34,
+				"start": 1.82,
+				"end": 2.14,
 				"index": 7
 			},
 			{
 				"text": "-N",
-				"start": 4.34,
-				"end": 4.64,
+				"start": 2.14,
+				"end": 2.44,
 				"index": 8
 			}
 		],
-		"start": 0.43,
-		"end": 5.17
+		"start": 2.63,
+		"end": 5.07
 	},
 	{
 		"words": [
@@ -201,7 +207,7 @@
 			}
 		],
 		"start": 5.43,
-		"end": 14.43
+		"end": 14.33
 	},
 	{
 		"words": [

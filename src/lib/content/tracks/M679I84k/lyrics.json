@@ -38,9 +38,9 @@
 				"index": 5
 			},
 			{
-				"text": "random, ",
+				"text": "random ",
 				"start": 2.04,
-				"end": 2.68,
+				"end": 2.58,
 				"index": 6
 			},
 			{
@@ -98,9 +98,9 @@
 				"index": 14
 			},
 			{
-				"text": "once, ",
+				"text": "once ",
 				"start": 2.2,
-				"end": 2.84,
+				"end": 2.74,
 				"index": 15
 			},
 			{
@@ -194,43 +194,31 @@
 	{
 		"words": [
 			{
-				"text": "It's a",
+				"text": "It's a ",
 				"start": 0,
 				"end": 0.42,
 				"index": 29
-			}
-		],
-		"start": 16.36,
-		"end": 16.78
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Taco",
-				"start": 0,
-				"end": 0.52,
+				"text": "Taco ",
+				"start": 0.42,
+				"end": 0.94,
 				"index": 30
-			}
-		],
-		"start": 16.78,
-		"end": 17.3
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Tuesday ",
-				"start": 0,
-				"end": 0.74,
+				"start": 0.94,
+				"end": 1.68,
 				"index": 31
 			},
 			{
 				"text": "night",
-				"start": 0.74,
-				"end": 1.44,
+				"start": 1.68,
+				"end": 2.38,
 				"index": 32
 			}
 		],
-		"start": 17.3,
+		"start": 16.36,
 		"end": 18.74
 	},
 	{

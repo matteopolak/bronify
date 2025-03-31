@@ -8,7 +8,7 @@
 				"index": 0
 			},
 			{
-				"text": "life.",
+				"text": "life",
 				"start": 0.78,
 				"end": 1.02,
 				"index": 1
@@ -50,7 +50,7 @@
 				"index": 6
 			},
 			{
-				"text": "say.",
+				"text": "say",
 				"start": 2.14,
 				"end": 2.62,
 				"index": 7
@@ -116,7 +116,7 @@
 				"index": 16
 			},
 			{
-				"text": "glaze.",
+				"text": "glaze",
 				"start": 4.98,
 				"end": 5.54,
 				"index": 17
@@ -146,7 +146,7 @@
 				"index": 20
 			},
 			{
-				"text": "are.",
+				"text": "are",
 				"start": 1.08,
 				"end": 2.32,
 				"index": 21
@@ -218,7 +218,7 @@
 				"index": 30
 			},
 			{
-				"text": "Bron.",
+				"text": "Bron",
 				"start": 0.62,
 				"end": 0.74,
 				"index": 31
@@ -248,7 +248,7 @@
 				"index": 34
 			},
 			{
-				"text": "three.",
+				"text": "three",
 				"start": 4.35,
 				"end": 4.71,
 				"index": 35
@@ -302,7 +302,7 @@
 				"index": 42
 			},
 			{
-				"text": "clean.",
+				"text": "clean",
 				"start": 4.32,
 				"end": 4.92,
 				"index": 43
@@ -398,7 +398,7 @@
 				"index": 57
 			},
 			{
-				"text": "king.",
+				"text": "king",
 				"start": 7.65,
 				"end": 8.03,
 				"index": 58
@@ -614,31 +614,25 @@
 				"index": 90
 			},
 			{
-				"text": "he's",
+				"text": "he's ",
 				"start": 5.04,
 				"end": 5.5,
 				"index": 91
-			}
-		],
-		"start": 57.37,
-		"end": 62.87
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "GOATed ",
-				"start": 0,
-				"end": 0.38,
+				"start": 5.5,
+				"end": 5.88,
 				"index": 92
 			},
 			{
 				"text": "C",
-				"start": 0.38,
-				"end": 0.54,
+				"start": 5.88,
+				"end": 6.04,
 				"index": 93
 			}
 		],
-		"start": 62.87,
+		"start": 57.37,
 		"end": 63.41
 	},
 	{
@@ -686,7 +680,7 @@
 				"index": 100
 			},
 			{
-				"text": "pace.",
+				"text": "pace",
 				"start": 5.8,
 				"end": 6.26,
 				"index": 101
@@ -764,7 +758,7 @@
 				"index": 111
 			},
 			{
-				"text": "Bron.",
+				"text": "Bron",
 				"start": 0.72,
 				"end": 0.88,
 				"index": 112

@@ -38,9 +38,9 @@
 	{
 		"words": [
 			{
-				"text": "Hey, ",
+				"text": "Hey ",
 				"start": 0,
-				"end": 0.7,
+				"end": 0.6,
 				"index": 5
 			},
 			{
@@ -410,9 +410,9 @@
 	{
 		"words": [
 			{
-				"text": "Hey, ",
+				"text": "Hey ",
 				"start": 0,
-				"end": 0.9,
+				"end": 0.8,
 				"index": 59
 			},
 			{

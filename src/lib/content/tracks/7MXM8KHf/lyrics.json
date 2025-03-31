@@ -62,9 +62,9 @@
 				"index": 9
 			},
 			{
-				"text": "baby, ",
+				"text": "baby ",
 				"start": 8.66,
-				"end": 9.38,
+				"end": 9.28,
 				"index": 10
 			},
 			{
@@ -92,68 +92,62 @@
 				"index": 14
 			},
 			{
-				"text": "rolls",
+				"text": "rolls ",
 				"start": 11.84,
 				"end": 12.06,
 				"index": 15
-			}
-		],
-		"start": 1.01,
-		"end": 13.07
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Los ",
-				"start": 0,
-				"end": 0.14,
+				"start": 12.06,
+				"end": 12.2,
 				"index": 16
 			},
 			{
 				"text": "Angeles ",
-				"start": 0.14,
-				"end": 0.74,
+				"start": 12.2,
+				"end": 12.8,
 				"index": 17
 			},
 			{
 				"text": "Lakers ",
-				"start": 0.74,
-				"end": 2.2,
+				"start": 12.8,
+				"end": 14.26,
 				"index": 18
 			},
 			{
 				"text": "in ",
-				"start": 2.2,
-				"end": 2.42,
+				"start": 14.26,
+				"end": 14.48,
 				"index": 19
 			},
 			{
 				"text": "5 ",
-				"start": 2.42,
-				"end": 2.84,
+				"start": 14.48,
+				"end": 14.9,
 				"index": 20
 			},
 			{
 				"text": "in ",
-				"start": 2.84,
-				"end": 3.14,
+				"start": 14.9,
+				"end": 15.2,
 				"index": 21
 			},
 			{
 				"text": "here ",
-				"start": 3.14,
-				"end": 3.38,
+				"start": 15.2,
+				"end": 15.44,
 				"index": 22
 			},
 			{
 				"text": "baby",
-				"start": 3.38,
-				"end": 3.98,
+				"start": 15.44,
+				"end": 16.04,
 				"index": 23
 			}
 		],
-		"start": 13.07,
-		"end": 17.15
+		"start": 1.01,
+		"end": 17.05
 	},
 	{
 		"words": [

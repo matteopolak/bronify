@@ -2,7 +2,7 @@
 	{
 		"words": [
 			{
-				"text": "Stop.",
+				"text": "Stop",
 				"start": 0,
 				"end": 0.76,
 				"index": 0
@@ -26,7 +26,7 @@
 				"index": 2
 			},
 			{
-				"text": "minute.",
+				"text": "minute",
 				"start": 0.52,
 				"end": 0.94,
 				"index": 3
@@ -92,7 +92,7 @@
 				"index": 12
 			},
 			{
-				"text": "it.",
+				"text": "it",
 				"start": 3.76,
 				"end": 4.2,
 				"index": 13
@@ -140,7 +140,7 @@
 				"index": 19
 			},
 			{
-				"text": "tonight.",
+				"text": "tonight",
 				"start": 2.24,
 				"end": 2.72,
 				"index": 20
@@ -158,7 +158,7 @@
 				"index": 21
 			},
 			{
-				"text": "please.",
+				"text": "please",
 				"start": 0.64,
 				"end": 0.86,
 				"index": 22
@@ -200,7 +200,7 @@
 				"index": 27
 			},
 			{
-				"text": "true.",
+				"text": "true",
 				"start": 1.6,
 				"end": 1.82,
 				"index": 28
@@ -248,7 +248,7 @@
 				"index": 34
 			},
 			{
-				"text": "you. ",
+				"text": "you ",
 				"start": 1.64,
 				"end": 1.96,
 				"index": 35
@@ -284,7 +284,7 @@
 				"index": 40
 			},
 			{
-				"text": "do.",
+				"text": "do",
 				"start": 3.32,
 				"end": 3.72,
 				"index": 41
@@ -356,7 +356,7 @@
 				"index": 50
 			},
 			{
-				"text": "feel.",
+				"text": "feel",
 				"start": 1.4,
 				"end": 1.94,
 				"index": 51
@@ -392,7 +392,7 @@
 				"index": 55
 			},
 			{
-				"text": "proof.",
+				"text": "proof",
 				"start": 1.4,
 				"end": 1.68,
 				"index": 56
@@ -440,7 +440,7 @@
 				"index": 62
 			},
 			{
-				"text": "here.",
+				"text": "here",
 				"start": 1.66,
 				"end": 2.1,
 				"index": 63
@@ -500,7 +500,7 @@
 				"index": 70
 			},
 			{
-				"text": "alright.",
+				"text": "alright",
 				"start": 1.8,
 				"end": 2.18,
 				"index": 71
@@ -536,7 +536,7 @@
 				"index": 75
 			},
 			{
-				"text": "chill.",
+				"text": "chill",
 				"start": 1.58,
 				"end": 2.12,
 				"index": 76
@@ -584,7 +584,7 @@
 				"index": 82
 			},
 			{
-				"text": "here.",
+				"text": "here",
 				"start": 1.76,
 				"end": 2.12,
 				"index": 83
@@ -662,7 +662,7 @@
 				"index": 93
 			},
 			{
-				"text": "cool.",
+				"text": "cool",
 				"start": 2.42,
 				"end": 2.84,
 				"index": 94
@@ -734,7 +734,7 @@
 				"index": 103
 			},
 			{
-				"text": "cool. ",
+				"text": "cool ",
 				"start": 4.99,
 				"end": 5.47,
 				"index": 104
@@ -752,7 +752,7 @@
 				"index": 106
 			},
 			{
-				"text": "it.",
+				"text": "it",
 				"start": 10.19,
 				"end": 10.63,
 				"index": 107
@@ -788,7 +788,7 @@
 				"index": 111
 			},
 			{
-				"text": "game.",
+				"text": "game",
 				"start": 1.42,
 				"end": 1.84,
 				"index": 112
@@ -836,7 +836,7 @@
 				"index": 117
 			},
 			{
-				"text": "predicting.",
+				"text": "predicting",
 				"start": 0.64,
 				"end": 1.12,
 				"index": 118
@@ -944,7 +944,7 @@
 				"index": 133
 			},
 			{
-				"text": "here.",
+				"text": "here",
 				"start": 1.94,
 				"end": 2.24,
 				"index": 134
@@ -1040,7 +1040,7 @@
 				"index": 147
 			},
 			{
-				"text": "do.",
+				"text": "do",
 				"start": 1.38,
 				"end": 1.5,
 				"index": 148
@@ -1112,7 +1112,7 @@
 				"index": 157
 			},
 			{
-				"text": "feel.",
+				"text": "feel",
 				"start": 1.44,
 				"end": 1.98,
 				"index": 158
@@ -1196,7 +1196,7 @@
 				"index": 169
 			},
 			{
-				"text": "here.",
+				"text": "here",
 				"start": 1.7,
 				"end": 2.08,
 				"index": 170
@@ -1232,7 +1232,7 @@
 				"index": 174
 			},
 			{
-				"text": "type.",
+				"text": "type",
 				"start": 1.24,
 				"end": 1.82,
 				"index": 175
@@ -1256,7 +1256,7 @@
 				"index": 177
 			},
 			{
-				"text": "alright.",
+				"text": "alright",
 				"start": 1.08,
 				"end": 1.52,
 				"index": 178
@@ -1322,7 +1322,7 @@
 				"index": 186
 			},
 			{
-				"text": "proof.",
+				"text": "proof",
 				"start": 1.9,
 				"end": 2.92,
 				"index": 187
@@ -1364,7 +1364,7 @@
 				"index": 192
 			},
 			{
-				"text": "of here.",
+				"text": "of here",
 				"start": 4.37,
 				"end": 4.97,
 				"index": 193
@@ -1394,7 +1394,7 @@
 				"index": 196
 			},
 			{
-				"text": "here.",
+				"text": "here",
 				"start": 1.86,
 				"end": 1.96,
 				"index": 197

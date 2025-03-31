@@ -56,9 +56,9 @@
 				"index": 8
 			},
 			{
-				"text": "man, ",
+				"text": "man ",
 				"start": 2.62,
-				"end": 2.94,
+				"end": 2.84,
 				"index": 9
 			},
 			{
@@ -434,145 +434,145 @@
 				"index": 68
 			},
 			{
-				"text": "way, ",
+				"text": "way",
 				"start": 1.84,
-				"end": 2.14,
+				"end": 2.04,
 				"index": 69
-			},
-			{
-				"text": "I ",
-				"start": 2.44,
-				"end": 2.72,
-				"index": 70
-			},
-			{
-				"text": "just ",
-				"start": 2.72,
-				"end": 2.88,
-				"index": 71
-			},
-			{
-				"text": "wanna ",
-				"start": 2.88,
-				"end": 3.14,
-				"index": 72
-			},
-			{
-				"text": "be ",
-				"start": 3.14,
-				"end": 3.34,
-				"index": 73
-			},
-			{
-				"text": "in ",
-				"start": 3.34,
-				"end": 3.54,
-				"index": 74
-			},
-			{
-				"text": "my ",
-				"start": 3.54,
-				"end": 3.72,
-				"index": 75
-			},
-			{
-				"text": "bag, ",
-				"start": 3.72,
-				"end": 4.16,
-				"index": 76
-			},
-			{
-				"text": "show ",
-				"start": 4.62,
-				"end": 4.76,
-				"index": 77
-			},
-			{
-				"text": "everything ",
-				"start": 4.76,
-				"end": 5.18,
-				"index": 78
-			},
-			{
-				"text": "that ",
-				"start": 5.18,
-				"end": 5.62,
-				"index": 79
-			},
-			{
-				"text": "I ",
-				"start": 5.62,
-				"end": 5.8,
-				"index": 80
-			},
-			{
-				"text": "have",
-				"start": 5.8,
-				"end": 6.26,
-				"index": 81
 			}
 		],
 		"start": 26.28,
-		"end": 32.54
+		"end": 28.32
 	},
 	{
 		"words": [
 			{
-				"text": "I'm ",
+				"text": "I ",
 				"start": 0,
-				"end": 0.78,
+				"end": 0.28,
+				"index": 70
+			},
+			{
+				"text": "just ",
+				"start": 0.28,
+				"end": 0.44,
+				"index": 71
+			},
+			{
+				"text": "wanna ",
+				"start": 0.44,
+				"end": 0.7,
+				"index": 72
+			},
+			{
+				"text": "be ",
+				"start": 0.7,
+				"end": 0.9,
+				"index": 73
+			},
+			{
+				"text": "in ",
+				"start": 0.9,
+				"end": 1.1,
+				"index": 74
+			},
+			{
+				"text": "my ",
+				"start": 1.1,
+				"end": 1.28,
+				"index": 75
+			},
+			{
+				"text": "bag, ",
+				"start": 1.28,
+				"end": 1.72,
+				"index": 76
+			},
+			{
+				"text": "show ",
+				"start": 2.18,
+				"end": 2.32,
+				"index": 77
+			},
+			{
+				"text": "everything ",
+				"start": 2.32,
+				"end": 2.74,
+				"index": 78
+			},
+			{
+				"text": "that ",
+				"start": 2.74,
+				"end": 3.18,
+				"index": 79
+			},
+			{
+				"text": "I ",
+				"start": 3.18,
+				"end": 3.36,
+				"index": 80
+			},
+			{
+				"text": "have ",
+				"start": 3.36,
+				"end": 3.82,
+				"index": 81
+			},
+			{
+				"text": "I'm ",
+				"start": 3.82,
+				"end": 4.6,
 				"index": 82
 			},
 			{
 				"text": "trying, ",
-				"start": 0.78,
-				"end": 1.08,
+				"start": 4.6,
+				"end": 4.9,
 				"index": 83
 			},
 			{
 				"text": "but ",
-				"start": 1.34,
-				"end": 1.6,
+				"start": 5.16,
+				"end": 5.42,
 				"index": 84
 			},
 			{
 				"text": "it's really ",
-				"start": 1.6,
-				"end": 2.26,
+				"start": 5.42,
+				"end": 6.08,
 				"index": 85
 			},
 			{
 				"text": "broken, ",
-				"start": 2.26,
-				"end": 2.9,
+				"start": 6.08,
+				"end": 6.72,
 				"index": 86
 			},
 			{
 				"text": "you ",
-				"start": 2.9,
-				"end": 3.36,
+				"start": 6.72,
+				"end": 7.18,
 				"index": 87
 			},
 			{
 				"text": "won't ",
-				"start": 3.36,
-				"end": 4.04,
+				"start": 7.18,
+				"end": 7.86,
 				"index": 88
 			},
 			{
 				"text": "believe ",
-				"start": 4.04,
-				"end": 4.2,
+				"start": 7.86,
+				"end": 8.02,
 				"index": 89
 			},
 			{
 				"text": "me",
-				"start": 4.2,
-				"end": 4.7,
+				"start": 8.02,
+				"end": 8.52,
 				"index": 90
 			}
 		],
-		"start": 32.54,
+		"start": 28.72,
 		"end": 37.24
 	},
 	{
@@ -650,9 +650,9 @@
 				"index": 102
 			},
 			{
-				"text": "run, ",
+				"text": "run ",
 				"start": 4.76,
-				"end": 5.36,
+				"end": 5.26,
 				"index": 103
 			},
 			{

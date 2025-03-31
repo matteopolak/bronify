@@ -92,25 +92,19 @@
 	{
 		"words": [
 			{
-				"text": "MY",
+				"text": "MY ",
 				"start": 0,
 				"end": 0.2,
 				"index": 8
-			}
-		],
-		"start": 10.44,
-		"end": 10.64
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "KING",
-				"start": 0,
-				"end": 0.36,
+				"start": 0.2,
+				"end": 0.56,
 				"index": 9
 			}
 		],
-		"start": 10.64,
+		"start": 10.44,
 		"end": 11
 	},
 	{
@@ -176,25 +170,19 @@
 	{
 		"words": [
 			{
-				"text": "YEAH",
+				"text": "YEAH ",
 				"start": 0,
 				"end": 0.46,
 				"index": 15
-			}
-		],
-		"start": 13.04,
-		"end": 13.5
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "BRON",
-				"start": 0,
-				"end": 0.7,
+				"start": 0.46,
+				"end": 1.16,
 				"index": 16
 			}
 		],
-		"start": 13.5,
+		"start": 13.04,
 		"end": 14.2
 	},
 	{
@@ -788,25 +776,19 @@
 	{
 		"words": [
 			{
-				"text": "THAT",
+				"text": "THAT ",
 				"start": 0,
 				"end": 0.28,
 				"index": 68
-			}
-		],
-		"start": 30.28,
-		"end": 30.56
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "LEBRON'S",
-				"start": 0,
-				"end": 0.76,
+				"start": 0.28,
+				"end": 1.04,
 				"index": 69
 			}
 		],
-		"start": 30.56,
+		"start": 30.28,
 		"end": 31.32
 	},
 	{
@@ -890,31 +872,25 @@
 	{
 		"words": [
 			{
-				"text": "WAS",
+				"text": "WAS ",
 				"start": 0,
 				"end": 0.2,
 				"index": 78
-			}
-		],
-		"start": 34.08,
-		"end": 34.28
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "SAVANNAH ",
-				"start": 0,
-				"end": 0.68,
+				"start": 0.2,
+				"end": 0.88,
 				"index": 79
 			},
 			{
 				"text": "I",
-				"start": 0.68,
-				"end": 0.88,
+				"start": 0.88,
+				"end": 1.08,
 				"index": 80
 			}
 		],
-		"start": 34.28,
+		"start": 34.08,
 		"end": 35.16
 	},
 	{
@@ -986,25 +962,19 @@
 	{
 		"words": [
 			{
-				"text": "THAT",
+				"text": "THAT ",
 				"start": 0,
 				"end": 0.3,
 				"index": 87
-			}
-		],
-		"start": 37.66,
-		"end": 37.96
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "LEBRON'S",
-				"start": 0,
-				"end": 0.74,
+				"start": 0.3,
+				"end": 1.04,
 				"index": 88
 			}
 		],
-		"start": 37.96,
+		"start": 37.66,
 		"end": 38.7
 	},
 	{
@@ -1088,31 +1058,25 @@
 	{
 		"words": [
 			{
-				"text": "WAS",
+				"text": "WAS ",
 				"start": 0,
 				"end": 0.26,
 				"index": 97
-			}
-		],
-		"start": 41.42,
-		"end": 41.68
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "SAVANNAH ",
-				"start": 0,
-				"end": 0.7,
+				"start": 0.26,
+				"end": 0.96,
 				"index": 98
 			},
 			{
 				"text": "I",
-				"start": 0.7,
-				"end": 0.86,
+				"start": 0.96,
+				"end": 1.12,
 				"index": 99
 			}
 		],
-		"start": 41.68,
+		"start": 41.42,
 		"end": 42.54
 	},
 	{
@@ -1664,25 +1628,19 @@
 	{
 		"words": [
 			{
-				"text": "LIKE",
+				"text": "LIKE ",
 				"start": 0,
 				"end": 0.18,
 				"index": 148
-			}
-		],
-		"start": 59.82,
-		"end": 60
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "LEBRON",
-				"start": 0,
-				"end": 0.5,
+				"start": 0.18,
+				"end": 0.68,
 				"index": 149
 			}
 		],
-		"start": 60,
+		"start": 59.82,
 		"end": 60.5
 	},
 	{
@@ -1827,6 +1785,6 @@
 			}
 		],
 		"start": 62.3,
-		"end": 62.3
+		"end": 124.6
 	}
 ]

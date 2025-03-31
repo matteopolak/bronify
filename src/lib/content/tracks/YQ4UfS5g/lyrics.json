@@ -8,7 +8,7 @@
 				"index": 0
 			},
 			{
-				"text": "Bron.",
+				"text": "Bron",
 				"start": 0.56,
 				"end": 0.7,
 				"index": 1
@@ -32,7 +32,7 @@
 				"index": 3
 			},
 			{
-				"text": "getcha.",
+				"text": "getcha",
 				"start": 0.68,
 				"end": 0.98,
 				"index": 4
@@ -86,7 +86,7 @@
 				"index": 11
 			},
 			{
-				"text": "betcha.",
+				"text": "betcha",
 				"start": 1.62,
 				"end": 2.08,
 				"index": 12
@@ -104,7 +104,7 @@
 				"index": 13
 			},
 			{
-				"text": "Bron.",
+				"text": "Bron",
 				"start": 0.44,
 				"end": 0.72,
 				"index": 14
@@ -218,7 +218,7 @@
 				"index": 30
 			},
 			{
-				"text": "highlight.",
+				"text": "highlight",
 				"start": 1.7,
 				"end": 2.02,
 				"index": 31
@@ -284,7 +284,7 @@
 				"index": 40
 			},
 			{
-				"text": "fight.",
+				"text": "fight",
 				"start": 1.62,
 				"end": 1.9,
 				"index": 41
@@ -326,7 +326,7 @@
 				"index": 46
 			},
 			{
-				"text": "tight.",
+				"text": "tight",
 				"start": 1.8,
 				"end": 2.02,
 				"index": 47
@@ -350,7 +350,7 @@
 				"index": 49
 			},
 			{
-				"text": "crossing.",
+				"text": "crossing",
 				"start": 0.44,
 				"end": 0.68,
 				"index": 50
@@ -411,12 +411,12 @@
 			}
 		],
 		"start": 19.71,
-		"end": 20.63
+		"end": 20.53
 	},
 	{
 		"words": [
 			{
-				"text": "Winniyara.",
+				"text": "Winniyara",
 				"start": 0,
 				"end": 0.84,
 				"index": 58
@@ -470,7 +470,7 @@
 				"index": 65
 			},
 			{
-				"text": "out.",
+				"text": "out",
 				"start": 1.74,
 				"end": 2,
 				"index": 66
@@ -518,7 +518,7 @@
 				"index": 72
 			},
 			{
-				"text": "floor.",
+				"text": "floor",
 				"start": 1.56,
 				"end": 1.82,
 				"index": 73
@@ -626,7 +626,7 @@
 				"index": 88
 			},
 			{
-				"text": "paint.",
+				"text": "paint",
 				"start": 4.94,
 				"end": 5.3,
 				"index": 89
@@ -728,7 +728,7 @@
 				"index": 103
 			},
 			{
-				"text": "over.",
+				"text": "over",
 				"start": 0.98,
 				"end": 1.46,
 				"index": 104
@@ -782,7 +782,7 @@
 				"index": 111
 			},
 			{
-				"text": "closer.",
+				"text": "closer",
 				"start": 1.36,
 				"end": 1.78,
 				"index": 112
@@ -824,7 +824,7 @@
 				"index": 117
 			},
 			{
-				"text": "Bronny.",
+				"text": "Bronny",
 				"start": 2.78,
 				"end": 3.58,
 				"index": 118
@@ -884,9 +884,9 @@
 				"index": 125
 			},
 			{
-				"text": "LeBronny, ",
+				"text": "LeBronny ",
 				"start": 2.81,
-				"end": 3.31,
+				"end": 3.21,
 				"index": 126
 			},
 			{
@@ -914,7 +914,7 @@
 				"index": 130
 			},
 			{
-				"text": "baby.",
+				"text": "baby",
 				"start": 5.89,
 				"end": 6.33,
 				"index": 131
@@ -944,7 +944,7 @@
 				"index": 134
 			},
 			{
-				"text": "trademark.",
+				"text": "trademark",
 				"start": 1.28,
 				"end": 1.74,
 				"index": 135
@@ -998,13 +998,13 @@
 				"index": 141
 			},
 			{
-				"text": "LeBronny, ",
+				"text": "LeBronny ",
 				"start": 0.34,
-				"end": 0.68,
+				"end": 0.58,
 				"index": 142
 			},
 			{
-				"text": "LeBronny.",
+				"text": "LeBronny",
 				"start": 0.68,
 				"end": 1.54,
 				"index": 143
@@ -1028,7 +1028,7 @@
 				"index": 145
 			},
 			{
-				"text": "getcha.",
+				"text": "getcha",
 				"start": 3.94,
 				"end": 4.24,
 				"index": 146
@@ -1082,7 +1082,7 @@
 				"index": 153
 			},
 			{
-				"text": "betcha.",
+				"text": "betcha",
 				"start": 1.6,
 				"end": 2.06,
 				"index": 154
@@ -1100,7 +1100,7 @@
 				"index": 155
 			},
 			{
-				"text": "Bron.",
+				"text": "Bron",
 				"start": 0.34,
 				"end": 0.46,
 				"index": 156

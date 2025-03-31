@@ -116,61 +116,55 @@
 				"index": 16
 			},
 			{
-				"text": "my",
+				"text": "my ",
 				"start": 3.96,
 				"end": 4.22,
 				"index": 17
-			}
-		],
-		"start": 7.72,
-		"end": 11.94
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Jordans ",
-				"start": 0,
-				"end": 0.7,
+				"start": 4.22,
+				"end": 4.92,
 				"index": 18
 			},
 			{
 				"text": "say ",
-				"start": 0.7,
-				"end": 1.16,
+				"start": 4.92,
+				"end": 5.38,
 				"index": 19
 			},
 			{
 				"text": "I ",
-				"start": 1.16,
-				"end": 2.24,
+				"start": 5.38,
+				"end": 6.46,
 				"index": 20
 			},
 			{
 				"text": "just ",
-				"start": 3.49,
-				"end": 3.79,
+				"start": 7.71,
+				"end": 8.01,
 				"index": 21
 			},
 			{
 				"text": "go ",
-				"start": 3.79,
-				"end": 4.01,
+				"start": 8.01,
+				"end": 8.23,
 				"index": 22
 			},
 			{
 				"text": "LeBron's ",
-				"start": 4.01,
-				"end": 5.01,
+				"start": 8.23,
+				"end": 9.23,
 				"index": 23
 			},
 			{
 				"text": "way",
-				"start": 5.01,
-				"end": 5.21,
+				"start": 9.23,
+				"end": 9.43,
 				"index": 24
 			}
 		],
-		"start": 11.94,
+		"start": 7.72,
 		"end": 17.15
 	},
 	{

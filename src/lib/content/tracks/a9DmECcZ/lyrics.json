@@ -20,9 +20,9 @@
 				"index": 2
 			},
 			{
-				"text": "poison, ",
+				"text": "poison ",
 				"start": 0.94,
-				"end": 1.56,
+				"end": 1.46,
 				"index": 3
 			},
 			{
@@ -44,15 +44,15 @@
 				"index": 6
 			},
 			{
-				"text": "poison, ",
+				"text": "poison ",
 				"start": 2.86,
-				"end": 3.24,
+				"end": 3.14,
 				"index": 7
 			},
 			{
-				"text": "LeBron is my poison, ",
+				"text": "LeBron is my poison ",
 				"start": 3.26,
-				"end": 3.4,
+				"end": 3.3,
 				"index": 8
 			},
 			{
@@ -68,15 +68,15 @@
 				"index": 10
 			},
 			{
-				"text": "my poison, ",
+				"text": "my poison ",
 				"start": 4.16,
-				"end": 4.42,
+				"end": 4.32,
 				"index": 11
 			},
 			{
-				"text": "LeBron is my poison, LeBron is my poison, ",
+				"text": "LeBron is my poison, LeBron is my poison ",
 				"start": 4.42,
-				"end": 7.03,
+				"end": 6.93,
 				"index": 12
 			},
 			{
@@ -93,7 +93,7 @@
 			}
 		],
 		"start": 2.35,
-		"end": 7.73
+		"end": 9.28
 	},
 	{
 		"words": [
@@ -110,164 +110,170 @@
 				"index": 16
 			},
 			{
-				"text": "poison, ",
+				"text": "poison",
 				"start": 0.3,
-				"end": 0.54,
+				"end": 0.44,
 				"index": 17
-			},
+			}
+		],
+		"start": 8.39,
+		"end": 8.83
+	},
+	{
+		"words": [
 			{
 				"text": "LeBron is ",
-				"start": 0.92,
-				"end": 1.64,
+				"start": 0,
+				"end": 0.72,
 				"index": 18
 			},
 			{
 				"text": "my ",
-				"start": 1.64,
-				"end": 2.66,
+				"start": 0.72,
+				"end": 1.74,
 				"index": 19
 			},
 			{
-				"text": "poison, ",
-				"start": 2.66,
-				"end": 2.92,
+				"text": "poison ",
+				"start": 1.74,
+				"end": 1.9,
 				"index": 20
 			},
 			{
-				"text": "LeBron is my poison, ",
-				"start": 2.94,
-				"end": 3.02,
+				"text": "LeBron is my poison ",
+				"start": 2.02,
+				"end": 2.02,
 				"index": 21
 			},
 			{
 				"text": "LeBron ",
-				"start": 3.02,
-				"end": 3.82,
+				"start": 2.1,
+				"end": 2.9,
 				"index": 22
 			},
 			{
 				"text": "is ",
-				"start": 3.82,
-				"end": 4.04,
+				"start": 2.9,
+				"end": 3.12,
 				"index": 23
 			},
 			{
 				"text": "my ",
-				"start": 4.04,
-				"end": 4.36,
+				"start": 3.12,
+				"end": 3.44,
 				"index": 24
 			},
 			{
-				"text": "poison, ",
-				"start": 4.36,
-				"end": 5,
+				"text": "poison ",
+				"start": 3.44,
+				"end": 3.98,
 				"index": 25
 			},
 			{
 				"text": "LeBron ",
-				"start": 5,
-				"end": 5.32,
+				"start": 4.08,
+				"end": 4.4,
 				"index": 26
 			},
 			{
-				"text": "is my poison, ",
-				"start": 5.32,
-				"end": 5.48,
+				"text": "is my poison ",
+				"start": 4.4,
+				"end": 4.46,
 				"index": 27
 			},
 			{
-				"text": "LeBron is my poison, ",
-				"start": 5.48,
-				"end": 5.7,
+				"text": "LeBron is my poison ",
+				"start": 4.56,
+				"end": 4.68,
 				"index": 28
 			},
 			{
 				"text": "LeBron is my poison, LeBron is ",
-				"start": 5.7,
-				"end": 14.35,
+				"start": 4.78,
+				"end": 13.43,
 				"index": 29
 			},
 			{
 				"text": "my ",
-				"start": 5.96,
-				"end": 6.08,
+				"start": 5.04,
+				"end": 5.16,
 				"index": 30
 			},
 			{
-				"text": "poison, ",
-				"start": 6.08,
-				"end": 6.94,
+				"text": "poison ",
+				"start": 5.16,
+				"end": 5.92,
 				"index": 31
 			},
 			{
 				"text": "LeBron ",
-				"start": 7.12,
-				"end": 7.92,
+				"start": 6.2,
+				"end": 7,
 				"index": 32
 			},
 			{
 				"text": "is my ",
-				"start": 7.92,
-				"end": 7.96,
+				"start": 7,
+				"end": 7.04,
 				"index": 33
 			},
 			{
-				"text": "poison, ",
-				"start": 7.96,
-				"end": 8.76,
+				"text": "poison ",
+				"start": 7.04,
+				"end": 7.74,
 				"index": 34
 			},
 			{
 				"text": "LeBron ",
-				"start": 8.76,
-				"end": 9.8,
+				"start": 7.84,
+				"end": 8.88,
 				"index": 35
 			},
 			{
 				"text": "is ",
-				"start": 9.8,
-				"end": 9.82,
+				"start": 8.88,
+				"end": 8.9,
 				"index": 36
 			},
 			{
 				"text": "my ",
-				"start": 9.82,
-				"end": 10.32,
+				"start": 8.9,
+				"end": 9.4,
 				"index": 37
 			},
 			{
-				"text": "poison, ",
-				"start": 10.32,
-				"end": 10.56,
+				"text": "poison ",
+				"start": 9.4,
+				"end": 9.54,
 				"index": 38
 			},
 			{
 				"text": "LeBron ",
-				"start": 10.56,
-				"end": 13.16,
+				"start": 9.64,
+				"end": 12.24,
 				"index": 39
 			},
 			{
 				"text": "is ",
-				"start": 13.16,
-				"end": 13.3,
+				"start": 12.24,
+				"end": 12.38,
 				"index": 40
 			},
 			{
 				"text": "my ",
-				"start": 13.3,
-				"end": 14.02,
+				"start": 12.38,
+				"end": 13.1,
 				"index": 41
 			},
 			{
 				"text": "poison",
-				"start": 14.02,
-				"end": 14.06,
+				"start": 13.1,
+				"end": 13.14,
 				"index": 42
 			}
 		],
-		"start": 8.39,
-		"end": 22.55
+		"start": 9.31,
+		"end": 22.74
 	},
 	{
 		"words": [
@@ -297,7 +303,7 @@
 			}
 		],
 		"start": 23.07,
-		"end": 26.41
+		"end": 26.31
 	},
 	{
 		"words": [
@@ -320,259 +326,259 @@
 				"index": 49
 			},
 			{
-				"text": "poison",
+				"text": "poison ",
 				"start": 3.16,
 				"end": 3.42,
 				"index": 50
-			}
-		],
-		"start": 26.83,
-		"end": 30.35
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "LeBron is my ",
-				"start": 0,
-				"end": 0.38,
+				"start": 3.52,
+				"end": 3.9,
 				"index": 51
 			},
 			{
-				"text": "poison, ",
-				"start": 0.38,
-				"end": 0.4,
+				"text": "poison ",
+				"start": 3.9,
+				"end": 3.82,
 				"index": 52
 			},
 			{
 				"text": "LeBron ",
-				"start": 0.4,
-				"end": 0.9,
+				"start": 3.92,
+				"end": 4.42,
 				"index": 53
 			},
 			{
 				"text": "is my ",
-				"start": 0.9,
-				"end": 1.12,
+				"start": 4.42,
+				"end": 4.64,
 				"index": 54
 			},
 			{
-				"text": "poison, ",
-				"start": 1.12,
-				"end": 1.38,
+				"text": "poison ",
+				"start": 4.64,
+				"end": 4.8,
 				"index": 55
 			},
 			{
 				"text": "LeBron ",
-				"start": 1.38,
-				"end": 2.52,
+				"start": 4.9,
+				"end": 6.04,
 				"index": 56
 			},
 			{
 				"text": "is ",
-				"start": 2.52,
-				"end": 2.54,
+				"start": 6.04,
+				"end": 6.06,
 				"index": 57
 			},
 			{
-				"text": "my poison, ",
-				"start": 2.54,
-				"end": 2.76,
+				"text": "my poison ",
+				"start": 6.06,
+				"end": 6.18,
 				"index": 58
 			},
 			{
 				"text": "LeBron is ",
-				"start": 2.76,
-				"end": 3.06,
+				"start": 6.28,
+				"end": 6.58,
 				"index": 59
 			},
 			{
 				"text": "my ",
-				"start": 3.06,
-				"end": 3.52,
+				"start": 6.58,
+				"end": 7.04,
 				"index": 60
 			},
 			{
-				"text": "poison, ",
-				"start": 3.52,
-				"end": 3.8,
+				"text": "poison ",
+				"start": 7.04,
+				"end": 7.22,
 				"index": 61
 			},
 			{
 				"text": "LeBron is my ",
-				"start": 3.8,
-				"end": 3.96,
+				"start": 7.32,
+				"end": 7.48,
 				"index": 62
 			},
 			{
-				"text": "poison, ",
-				"start": 3.96,
-				"end": 4.24,
+				"text": "poison ",
+				"start": 7.48,
+				"end": 7.66,
 				"index": 63
 			},
 			{
-				"text": "LeBron is my poison, ",
-				"start": 4.24,
-				"end": 5.12,
+				"text": "LeBron is my poison ",
+				"start": 7.76,
+				"end": 8.54,
 				"index": 64
 			},
 			{
 				"text": "LeBron is my ",
-				"start": 5.12,
-				"end": 5.38,
+				"start": 8.64,
+				"end": 8.9,
 				"index": 65
 			},
 			{
-				"text": "poison, ",
-				"start": 5.38,
-				"end": 5.66,
+				"text": "poison ",
+				"start": 8.9,
+				"end": 9.08,
 				"index": 66
 			},
 			{
-				"text": "LeBron is my poison, ",
-				"start": 5.72,
-				"end": 6.42,
+				"text": "LeBron is my poison ",
+				"start": 9.24,
+				"end": 9.84,
 				"index": 67
 			},
 			{
-				"text": "LeBron is my poison, LeBron is my poison, LeBron is my poison, LeBron is my poison, ",
-				"start": 6.42,
-				"end": 36.81,
+				"text": "LeBron is my poison, LeBron is my poison, LeBron is my poison, LeBron is my poison ",
+				"start": 9.94,
+				"end": 40.23,
 				"index": 68
 			},
 			{
 				"text": "LeBron is ",
-				"start": 6.46,
-				"end": 6.86,
+				"start": 9.98,
+				"end": 10.38,
 				"index": 69
 			},
 			{
-				"text": "my poison, ",
-				"start": 6.86,
-				"end": 6.88,
+				"text": "my poison ",
+				"start": 10.38,
+				"end": 10.3,
 				"index": 70
 			},
 			{
 				"text": "LeBron is my poison, LeBron is my poison, LeBron is my poison, LeBron is my poison, LeBron is my ",
-				"start": 6.88,
-				"end": 37.49,
+				"start": 10.4,
+				"end": 41.01,
 				"index": 71
 			},
 			{
-				"text": "poison, ",
-				"start": 7.14,
-				"end": 7.22,
+				"text": "poison ",
+				"start": 10.66,
+				"end": 10.64,
 				"index": 72
 			},
 			{
 				"text": "LeBron is ",
-				"start": 7.22,
-				"end": 7.32,
+				"start": 10.74,
+				"end": 10.84,
 				"index": 73
 			},
 			{
-				"text": "my poison, ",
-				"start": 7.32,
-				"end": 7.34,
+				"text": "my poison ",
+				"start": 10.84,
+				"end": 10.76,
 				"index": 74
 			},
 			{
 				"text": "LeBron is my ",
-				"start": 7.34,
-				"end": 7.58,
+				"start": 10.86,
+				"end": 11.1,
 				"index": 75
 			},
 			{
-				"text": "poison, ",
-				"start": 7.58,
-				"end": 7.76,
+				"text": "poison ",
+				"start": 11.1,
+				"end": 11.18,
 				"index": 76
 			},
 			{
 				"text": "LeBron ",
-				"start": 7.92,
-				"end": 8.68,
+				"start": 11.44,
+				"end": 12.2,
 				"index": 77
 			},
 			{
 				"text": "is ",
-				"start": 8.68,
-				"end": 9,
+				"start": 12.2,
+				"end": 12.52,
 				"index": 78
 			},
 			{
 				"text": "my ",
-				"start": 9,
-				"end": 9.32,
+				"start": 12.52,
+				"end": 12.84,
 				"index": 79
 			},
 			{
-				"text": "poison, ",
-				"start": 9.32,
-				"end": 9.56,
+				"text": "poison ",
+				"start": 12.84,
+				"end": 12.98,
 				"index": 80
 			},
 			{
 				"text": "LeBron ",
-				"start": 9.56,
-				"end": 9.72,
+				"start": 13.08,
+				"end": 13.24,
 				"index": 81
 			},
 			{
 				"text": "is ",
-				"start": 9.72,
-				"end": 10.06,
+				"start": 13.24,
+				"end": 13.58,
 				"index": 82
 			},
 			{
-				"text": "my poison, ",
-				"start": 10.06,
-				"end": 10.16,
+				"text": "my poison ",
+				"start": 13.58,
+				"end": 13.58,
 				"index": 83
 			},
 			{
 				"text": "LeBron ",
-				"start": 10.16,
-				"end": 10.62,
+				"start": 13.68,
+				"end": 14.14,
 				"index": 84
 			},
 			{
 				"text": "is ",
-				"start": 10.62,
-				"end": 10.94,
+				"start": 14.14,
+				"end": 14.46,
 				"index": 85
 			},
 			{
-				"text": "my poison, ",
-				"start": 10.94,
-				"end": 11.54,
+				"text": "my poison ",
+				"start": 14.46,
+				"end": 14.96,
 				"index": 86
 			},
 			{
 				"text": "LeBron is ",
-				"start": 11.6,
-				"end": 12.54,
+				"start": 15.12,
+				"end": 16.06,
 				"index": 87
 			},
 			{
 				"text": "my ",
-				"start": 12.54,
-				"end": 13.22,
+				"start": 16.06,
+				"end": 16.74,
 				"index": 88
 			},
 			{
-				"text": "poison, ",
-				"start": 13.22,
-				"end": 14.54,
+				"text": "poison",
+				"start": 16.74,
+				"end": 17.96,
 				"index": 89
-			},
+			}
+		],
+		"start": 26.83,
+		"end": 67.84
+	},
+	{
+		"words": [
 			{
 				"text": "LeBron is my poison",
-				"start": 14.92,
-				"end": 15.8,
+				"start": 0,
+				"end": 0.88,
 				"index": 90
 			}
 		],
-		"start": 30.35,
-		"end": 46.25
+		"start": 45.27,
+		"end": 46.15
 	}
 ]

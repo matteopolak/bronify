@@ -2,9 +2,9 @@
 	{
 		"words": [
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 0,
-				"end": 0.6,
+				"end": 0.5,
 				"index": 0
 			},
 			{
@@ -15,14 +15,14 @@
 			}
 		],
 		"start": 1.46,
-		"end": 3.02
+		"end": 2.92
 	},
 	{
 		"words": [
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 0,
-				"end": 0.62,
+				"end": 0.52,
 				"index": 2
 			},
 			{

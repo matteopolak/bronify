@@ -39,7 +39,7 @@
 			}
 		],
 		"start": 0.59,
-		"end": 2.11
+		"end": 2.01
 	},
 	{
 		"words": [
@@ -81,7 +81,7 @@
 			}
 		],
 		"start": 3.09,
-		"end": 5.31
+		"end": 5.21
 	},
 	{
 		"words": [
@@ -123,7 +123,7 @@
 			}
 		],
 		"start": 5.93,
-		"end": 7.91
+		"end": 7.81
 	},
 	{
 		"words": [
@@ -188,9 +188,9 @@
 				"index": 27
 			},
 			{
-				"text": "me, ",
+				"text": "me ",
 				"start": 4.48,
-				"end": 4.68,
+				"end": 4.58,
 				"index": 28
 			},
 			{
@@ -332,9 +332,9 @@
 				"index": 51
 			},
 			{
-				"text": "seat, ",
+				"text": "seat ",
 				"start": 9.92,
-				"end": 10.2,
+				"end": 10.1,
 				"index": 52
 			},
 			{
@@ -398,9 +398,9 @@
 				"index": 62
 			},
 			{
-				"text": "three, ",
+				"text": "three ",
 				"start": 12.7,
-				"end": 12.94,
+				"end": 12.84,
 				"index": 63
 			},
 			{
@@ -518,9 +518,9 @@
 				"index": 82
 			},
 			{
-				"text": "through, ",
+				"text": "through ",
 				"start": 18.22,
-				"end": 18.42,
+				"end": 18.32,
 				"index": 83
 			},
 			{
@@ -591,20 +591,20 @@
 			}
 		],
 		"start": 8.41,
-		"end": 29.61
+		"end": 29.51
 	},
 	{
 		"words": [
 			{
-				"text": "I said LeBron can you please, I said LeBron can you please, I said LeBron can you please, I said LeBron can you please, I said LeBron can you please, I said LeBron can you please, I said LeBron can you please, I said LeBron can you please, I said LeBron can you please, I said LeBron can you please, I said LeBron can you please, I said LeBron can you please, ",
+				"text": "I said LeBron can you please, I said LeBron can you please, I said LeBron can you please, I said LeBron can you please, I said LeBron can you please, I said LeBron can you please, I said LeBron can you please, I said LeBron can you please, I said LeBron can you please, I said LeBron can you please, I said LeBron can you please, I said LeBron can you please ",
 				"start": 0,
-				"end": 30.59,
+				"end": 30.49,
 				"index": 95
 			},
 			{
-				"text": "I said LeBron can you please, ",
+				"text": "I said LeBron can you please ",
 				"start": 0.02,
-				"end": 30.61,
+				"end": 30.51,
 				"index": 96
 			},
 			{
@@ -621,6 +621,6 @@
 			}
 		],
 		"start": 30.59,
-		"end": 30.67
+		"end": 61.24
 	}
 ]

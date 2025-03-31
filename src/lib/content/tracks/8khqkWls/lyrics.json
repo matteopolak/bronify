@@ -2,9 +2,9 @@
 	{
 		"words": [
 			{
-				"text": "baby, ",
+				"text": "baby ",
 				"start": 4.15,
-				"end": 4.67,
+				"end": 4.57,
 				"index": 0
 			},
 			{
@@ -201,7 +201,7 @@
 			}
 		],
 		"start": -1,
-		"end": 16.49
+		"end": 16.39
 	},
 	{
 		"words": [
@@ -213,14 +213,14 @@
 			}
 		],
 		"start": 16.75,
-		"end": 17.13
+		"end": 17.03
 	},
 	{
 		"words": [
 			{
-				"text": "OT, ",
+				"text": "OT ",
 				"start": 0,
-				"end": 0.34,
+				"end": 0.24,
 				"index": 34
 			},
 			{
@@ -266,9 +266,9 @@
 	{
 		"words": [
 			{
-				"text": "OT, ",
+				"text": "OT ",
 				"start": 0,
-				"end": 0.36,
+				"end": 0.26,
 				"index": 41
 			},
 			{
@@ -356,9 +356,9 @@
 				"index": 55
 			},
 			{
-				"text": "like, ",
+				"text": "like ",
 				"start": 4.84,
-				"end": 5.04,
+				"end": 4.94,
 				"index": 56
 			},
 			{
@@ -393,7 +393,7 @@
 			}
 		],
 		"start": 19.43,
-		"end": 25.45
+		"end": 25.35
 	},
 	{
 		"words": [
@@ -530,9 +530,9 @@
 				"index": 83
 			},
 			{
-				"text": "me, ",
+				"text": "me ",
 				"start": 5.92,
-				"end": 6.24,
+				"end": 6.14,
 				"index": 84
 			},
 			{
@@ -567,7 +567,7 @@
 			}
 		],
 		"start": 25.75,
-		"end": 33.15
+		"end": 33.05
 	},
 	{
 		"words": [

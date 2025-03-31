@@ -200,133 +200,127 @@
 				"index": 31
 			},
 			{
-				"text": "LeBron",
+				"text": "LeBron ",
 				"start": 19.12,
 				"end": 19.62,
 				"index": 32
-			}
-		],
-		"start": 9.96,
-		"end": 29.58
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "I've been thinking ",
-				"start": 0,
-				"end": 0.28,
+				"start": 19.62,
+				"end": 19.9,
 				"index": 33
 			},
 			{
 				"text": "bout ",
-				"start": 0.28,
-				"end": 0.42,
+				"start": 19.9,
+				"end": 20.04,
 				"index": 34
 			},
 			{
 				"text": "LeBron ",
-				"start": 0.42,
-				"end": 0.7,
+				"start": 20.04,
+				"end": 20.32,
 				"index": 35
 			},
 			{
 				"text": "I've ",
-				"start": 0.7,
-				"end": 1.26,
+				"start": 20.32,
+				"end": 20.88,
 				"index": 36
 			},
 			{
 				"text": "been thinking bout ",
-				"start": 1.26,
-				"end": 1.62,
+				"start": 20.88,
+				"end": 21.24,
 				"index": 37
 			},
 			{
 				"text": "LeBron I've ",
-				"start": 1.62,
-				"end": 31.36,
+				"start": 21.24,
+				"end": 50.98,
 				"index": 38
 			},
 			{
 				"text": "been ",
-				"start": 1.78,
-				"end": 2.16,
+				"start": 21.4,
+				"end": 21.78,
 				"index": 39
 			},
 			{
 				"text": "thinking ",
-				"start": 2.16,
-				"end": 2.18,
+				"start": 21.78,
+				"end": 21.8,
 				"index": 40
 			},
 			{
 				"text": "bout ",
-				"start": 2.18,
-				"end": 2.66,
+				"start": 21.8,
+				"end": 22.28,
 				"index": 41
 			},
 			{
 				"text": "LeBron ",
-				"start": 2.66,
-				"end": 3.36,
+				"start": 22.28,
+				"end": 22.98,
 				"index": 42
 			},
 			{
 				"text": "I've been ",
-				"start": 3.36,
-				"end": 3.42,
+				"start": 22.98,
+				"end": 23.04,
 				"index": 43
 			},
 			{
 				"text": "thinking ",
-				"start": 3.42,
-				"end": 3.62,
+				"start": 23.04,
+				"end": 23.24,
 				"index": 44
 			},
 			{
 				"text": "bout ",
-				"start": 3.62,
-				"end": 3.76,
+				"start": 23.24,
+				"end": 23.38,
 				"index": 45
 			},
 			{
 				"text": "LeBron ",
-				"start": 3.76,
-				"end": 7.1,
+				"start": 23.38,
+				"end": 26.72,
 				"index": 46
 			},
 			{
 				"text": "I've ",
-				"start": 7.1,
-				"end": 7.42,
+				"start": 26.72,
+				"end": 27.04,
 				"index": 47
 			},
 			{
 				"text": "been ",
-				"start": 7.42,
-				"end": 7.54,
+				"start": 27.04,
+				"end": 27.16,
 				"index": 48
 			},
 			{
 				"text": "thinking ",
-				"start": 7.54,
-				"end": 7.56,
+				"start": 27.16,
+				"end": 27.18,
 				"index": 49
 			},
 			{
 				"text": "bout ",
-				"start": 7.56,
-				"end": 7.82,
+				"start": 27.18,
+				"end": 27.44,
 				"index": 50
 			},
 			{
 				"text": "LeBron",
-				"start": 7.82,
-				"end": 11.24,
+				"start": 27.44,
+				"end": 30.86,
 				"index": 51
 			}
 		],
-		"start": 29.58,
-		"end": 40.82
+		"start": 9.96,
+		"end": 60.94
 	}
 ]

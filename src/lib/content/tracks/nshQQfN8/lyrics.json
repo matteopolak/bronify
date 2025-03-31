@@ -308,9 +308,9 @@
 				"index": 47
 			},
 			{
-				"text": "glazing, ",
+				"text": "glazing ",
 				"start": 1.34,
-				"end": 1.62,
+				"end": 1.52,
 				"index": 48
 			},
 			{
@@ -423,7 +423,7 @@
 			}
 		],
 		"start": 29.12,
-		"end": 31.54
+		"end": 31.44
 	},
 	{
 		"words": [
@@ -470,9 +470,9 @@
 				"index": 72
 			},
 			{
-				"text": "next, ",
+				"text": "next ",
 				"start": 1.76,
-				"end": 2.08,
+				"end": 1.98,
 				"index": 73
 			},
 			{
@@ -680,9 +680,9 @@
 				"index": 106
 			},
 			{
-				"text": "moon, ",
+				"text": "moon ",
 				"start": 6.86,
-				"end": 7.14,
+				"end": 7.04,
 				"index": 107
 			},
 			{
@@ -740,145 +740,133 @@
 				"index": 116
 			},
 			{
-				"text": "you",
+				"text": "you ",
 				"start": 9.32,
 				"end": 9.62,
 				"index": 117
-			}
-		],
-		"start": 38.96,
-		"end": 48.58
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Bronny",
-				"start": 0,
-				"end": 0.86,
+				"text": "Bronny ",
+				"start": 9.62,
+				"end": 10.48,
 				"index": 118
-			}
-		],
-		"start": 48.58,
-		"end": 49.44
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Sr., ",
-				"start": 0,
-				"end": 0.8,
+				"start": 10.48,
+				"end": 11.28,
 				"index": 119
 			},
 			{
 				"text": "he's ",
-				"start": 0.8,
-				"end": 1.1,
+				"start": 11.28,
+				"end": 11.58,
 				"index": 120
 			},
 			{
 				"text": "the ",
-				"start": 1.1,
-				"end": 1.22,
+				"start": 11.58,
+				"end": 11.7,
 				"index": 121
 			},
 			{
 				"text": "danger ",
-				"start": 1.22,
-				"end": 1.8,
+				"start": 11.7,
+				"end": 12.28,
 				"index": 122
 			},
 			{
 				"text": "that ",
-				"start": 1.8,
-				"end": 2.22,
+				"start": 12.28,
+				"end": 12.7,
 				"index": 123
 			},
 			{
 				"text": "I ",
-				"start": 2.22,
-				"end": 2.5,
+				"start": 12.7,
+				"end": 12.98,
 				"index": 124
 			},
 			{
 				"text": "know ",
-				"start": 2.5,
-				"end": 2.84,
+				"start": 12.98,
+				"end": 13.32,
 				"index": 125
 			},
 			{
 				"text": "you ",
-				"start": 2.84,
-				"end": 3.14,
+				"start": 13.32,
+				"end": 13.62,
 				"index": 126
 			},
 			{
 				"text": "cannot ",
-				"start": 3.14,
-				"end": 3.64,
+				"start": 13.62,
+				"end": 14.12,
 				"index": 127
 			},
 			{
 				"text": "manage, ",
-				"start": 3.64,
-				"end": 4.28,
+				"start": 14.12,
+				"end": 14.76,
 				"index": 128
 			},
 			{
 				"text": "but ",
-				"start": 4.52,
-				"end": 4.66,
+				"start": 15,
+				"end": 15.14,
 				"index": 129
 			},
 			{
 				"text": "you're ",
-				"start": 4.66,
-				"end": 4.96,
+				"start": 15.14,
+				"end": 15.44,
 				"index": 130
 			},
 			{
 				"text": "gonna ",
-				"start": 4.96,
-				"end": 5.3,
+				"start": 15.44,
+				"end": 15.78,
 				"index": 131
 			},
 			{
 				"text": "have ",
-				"start": 5.3,
-				"end": 5.8,
+				"start": 15.78,
+				"end": 16.28,
 				"index": 132
 			},
 			{
 				"text": "to ",
-				"start": 5.8,
-				"end": 6.16,
+				"start": 16.28,
+				"end": 16.64,
 				"index": 133
 			},
 			{
 				"text": "guard ",
-				"start": 6.16,
-				"end": 6.5,
+				"start": 16.64,
+				"end": 16.98,
 				"index": 134
 			},
 			{
 				"text": "up ",
-				"start": 6.5,
-				"end": 6.82,
+				"start": 16.98,
+				"end": 17.3,
 				"index": 135
 			},
 			{
 				"text": "on ",
-				"start": 6.82,
-				"end": 7.1,
+				"start": 17.3,
+				"end": 17.58,
 				"index": 136
 			},
 			{
 				"text": "him",
-				"start": 7.1,
-				"end": 7.42,
+				"start": 17.58,
+				"end": 17.9,
 				"index": 137
 			}
 		],
-		"start": 49.44,
+		"start": 38.96,
 		"end": 56.86
 	},
 	{
@@ -1034,103 +1022,91 @@
 				"index": 161
 			},
 			{
-				"text": "LeBron",
+				"text": "LeBron ",
 				"start": 4.06,
 				"end": 4.62,
 				"index": 162
-			}
-		],
-		"start": 64.62,
-		"end": 69.24
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Bronny",
-				"start": 0,
-				"end": 0.54,
+				"text": "Bronny ",
+				"start": 4.62,
+				"end": 5.16,
 				"index": 163
-			}
-		],
-		"start": 69.24,
-		"end": 69.78
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Jr., ",
-				"start": 0,
-				"end": 0.66,
+				"start": 5.16,
+				"end": 5.82,
 				"index": 164
 			},
 			{
 				"text": "that's ",
-				"start": 0.66,
-				"end": 1.06,
+				"start": 5.82,
+				"end": 6.22,
 				"index": 165
 			},
 			{
 				"text": "his ",
-				"start": 1.06,
-				"end": 1.1,
+				"start": 6.22,
+				"end": 6.26,
 				"index": 166
 			},
 			{
 				"text": "son, ",
-				"start": 1.1,
-				"end": 1.58,
+				"start": 6.26,
+				"end": 6.74,
 				"index": 167
 			},
 			{
 				"text": "courage ",
-				"start": 1.78,
-				"end": 2.06,
+				"start": 6.94,
+				"end": 7.22,
 				"index": 168
 			},
 			{
 				"text": "for ",
-				"start": 2.06,
-				"end": 2.32,
+				"start": 7.22,
+				"end": 7.48,
 				"index": 169
 			},
 			{
 				"text": "him ",
-				"start": 2.32,
-				"end": 2.62,
+				"start": 7.48,
+				"end": 7.78,
 				"index": 170
 			},
 			{
 				"text": "was ",
-				"start": 2.62,
-				"end": 2.94,
+				"start": 7.78,
+				"end": 8.1,
 				"index": 171
 			},
 			{
 				"text": "the ",
-				"start": 2.94,
-				"end": 3.06,
+				"start": 8.1,
+				"end": 8.22,
 				"index": 172
 			},
 			{
 				"text": "one ",
-				"start": 3.06,
-				"end": 3.42,
+				"start": 8.22,
+				"end": 8.58,
 				"index": 173
 			},
 			{
 				"text": "in ",
-				"start": 3.42,
-				"end": 3.62,
+				"start": 8.58,
+				"end": 8.78,
 				"index": 174
 			},
 			{
 				"text": "there",
-				"start": 3.62,
-				"end": 3.94,
+				"start": 8.78,
+				"end": 9.1,
 				"index": 175
 			}
 		],
-		"start": 69.78,
+		"start": 64.62,
 		"end": 73.72
 	},
 	{

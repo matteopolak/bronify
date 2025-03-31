@@ -2,7 +2,7 @@
 	{
 		"words": [
 			{
-				"text": "Bron...",
+				"text": "Bron",
 				"start": 0,
 				"end": 0.72,
 				"index": 0
@@ -524,9 +524,9 @@
 	{
 		"words": [
 			{
-				"text": "Yeah, ",
+				"text": "Yeah ",
 				"start": 0,
-				"end": 0.38,
+				"end": 0.28,
 				"index": 75
 			},
 			{
@@ -614,61 +614,55 @@
 				"index": 87
 			},
 			{
-				"text": "it",
+				"text": "it ",
 				"start": 1.28,
 				"end": 1.72,
 				"index": 88
-			}
-		],
-		"start": 70.8,
-		"end": 72.52
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "I ",
-				"start": 0,
-				"end": 0.2,
+				"start": 1.72,
+				"end": 1.92,
 				"index": 89
 			},
 			{
 				"text": "know ",
-				"start": 0.2,
-				"end": 0.5,
+				"start": 1.92,
+				"end": 2.22,
 				"index": 90
 			},
 			{
 				"text": "with ",
-				"start": 0.5,
-				"end": 0.92,
+				"start": 2.22,
+				"end": 2.64,
 				"index": 91
 			},
 			{
 				"text": "all ",
-				"start": 0.92,
-				"end": 1.3,
+				"start": 2.64,
+				"end": 3.02,
 				"index": 92
 			},
 			{
 				"text": "of ",
-				"start": 1.3,
-				"end": 1.74,
+				"start": 3.02,
+				"end": 3.46,
 				"index": 93
 			},
 			{
 				"text": "my ",
-				"start": 1.74,
-				"end": 2,
+				"start": 3.46,
+				"end": 3.72,
 				"index": 94
 			},
 			{
 				"text": "heart",
-				"start": 2,
-				"end": 2.42,
+				"start": 3.72,
+				"end": 4.14,
 				"index": 95
 			}
 		],
-		"start": 72.52,
+		"start": 70.8,
 		"end": 74.94
 	},
 	{

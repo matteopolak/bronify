@@ -2,25 +2,19 @@
 	{
 		"words": [
 			{
-				"text": "PARTY",
+				"text": "PARTY ",
 				"start": 0,
 				"end": 0.7,
 				"index": 0
-			}
-		],
-		"start": 2.67,
-		"end": 3.37
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "BRON!",
-				"start": 0,
-				"end": 0.4,
+				"start": 0.7,
+				"end": 1.1,
 				"index": 1
 			}
 		],
-		"start": 3.37,
+		"start": 2.67,
 		"end": 3.77
 	},
 	{
@@ -50,25 +44,19 @@
 	{
 		"words": [
 			{
-				"text": "PARTY",
+				"text": "PARTY ",
 				"start": 0,
 				"end": 0.8,
 				"index": 4
-			}
-		],
-		"start": 14.58,
-		"end": 15.38
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "LEBRON",
-				"start": 0,
-				"end": 0.34,
+				"start": 0.8,
+				"end": 1.14,
 				"index": 5
 			}
 		],
-		"start": 15.38,
+		"start": 14.58,
 		"end": 15.72
 	},
 	{
@@ -362,25 +350,19 @@
 	{
 		"words": [
 			{
-				"text": "PARTY",
+				"text": "PARTY ",
 				"start": 0,
 				"end": 0.54,
 				"index": 30
-			}
-		],
-		"start": 29.58,
-		"end": 30.12
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "LEBRON",
-				"start": 0,
-				"end": 0.46,
+				"start": 0.54,
+				"end": 1,
 				"index": 31
 			}
 		],
-		"start": 30.12,
+		"start": 29.58,
 		"end": 30.58
 	},
 	{
@@ -602,26 +584,20 @@
 	{
 		"words": [
 			{
-				"text": "PARTY",
+				"text": "PARTY ",
 				"start": 0,
 				"end": 0.96,
 				"index": 50
-			}
-		],
-		"start": 40.1,
-		"end": 41.06
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "LEBRON IN THE HOUSE TONIGHT EVERYBODY JUST HAVE A",
-				"start": 0,
-				"end": 41.48,
+				"start": 0.96,
+				"end": 42.44,
 				"index": 51
 			}
 		],
-		"start": 41.06,
-		"end": 41.06
+		"start": 40.1,
+		"end": 82.54
 	},
 	{
 		"words": [
@@ -669,7 +645,7 @@
 			}
 		],
 		"start": 43.26,
-		"end": 43.26
+		"end": 86.76
 	},
 	{
 		"words": [
@@ -681,7 +657,7 @@
 			}
 		],
 		"start": 43.5,
-		"end": 43.5
+		"end": 87.52
 	},
 	{
 		"words": [
@@ -705,6 +681,6 @@
 			}
 		],
 		"start": 44.4,
-		"end": 44.4
+		"end": 88.8
 	}
 ]

@@ -554,9 +554,9 @@
 	{
 		"words": [
 			{
-				"text": "Now, ",
+				"text": "Now ",
 				"start": 0,
-				"end": 0.68,
+				"end": 0.58,
 				"index": 85
 			},
 			{
@@ -758,9 +758,9 @@
 				"index": 114
 			},
 			{
-				"text": "great, ",
+				"text": "great ",
 				"start": 3.04,
-				"end": 3.4,
+				"end": 3.3,
 				"index": 115
 			},
 			{
@@ -790,29 +790,5 @@
 		],
 		"start": 64.07,
 		"end": 69.23
-	},
-	{
-		"words": [
-			{
-				"text": "Subtitles by the",
-				"start": 0,
-				"end": 0.2,
-				"index": 120
-			}
-		],
-		"start": 70.23,
-		"end": 70.43
-	},
-	{
-		"words": [
-			{
-				"text": "Amara.org community",
-				"start": 0,
-				"end": 0,
-				"index": 121
-			}
-		],
-		"start": 70.43,
-		"end": 70.43
 	}
 ]

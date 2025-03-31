@@ -2,111 +2,111 @@
 	{
 		"words": [
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 0,
-				"end": 0.86,
+				"end": 0.76,
 				"index": 0
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 0.86,
-				"end": 1.72,
+				"end": 1.62,
 				"index": 1
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 1.72,
-				"end": 4.76,
+				"end": 4.66,
 				"index": 2
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 4.86,
-				"end": 6.02,
+				"end": 5.92,
 				"index": 3
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 6.14,
-				"end": 7.1,
+				"end": 7,
 				"index": 4
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 7.22,
-				"end": 8.5,
+				"end": 8.4,
 				"index": 5
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 8.64,
-				"end": 9.56,
+				"end": 9.46,
 				"index": 6
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 9.68,
-				"end": 9.88,
+				"end": 9.78,
 				"index": 7
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 10.06,
 				"end": 10.06,
 				"index": 8
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 10.1,
-				"end": 10.36,
+				"end": 10.26,
 				"index": 9
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 10.36,
-				"end": 10.72,
+				"end": 10.62,
 				"index": 10
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 10.72,
-				"end": 10.92,
+				"end": 10.82,
 				"index": 11
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 10.92,
-				"end": 11.52,
+				"end": 11.42,
 				"index": 12
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 11.52,
-				"end": 12.8,
+				"end": 12.7,
 				"index": 13
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 12.8,
-				"end": 14.32,
+				"end": 14.22,
 				"index": 14
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 14.56,
-				"end": 14.68,
+				"end": 14.58,
 				"index": 15
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 14.68,
-				"end": 15.2,
+				"end": 15.1,
 				"index": 16
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 15.22,
-				"end": 17.08,
+				"end": 16.98,
 				"index": 17
 			},
 			{
@@ -117,14 +117,14 @@
 			}
 		],
 		"start": 30.24,
-		"end": 48.5
+		"end": 48.4
 	},
 	{
 		"words": [
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 0,
-				"end": 0.52,
+				"end": 0.42,
 				"index": 19
 			},
 			{
@@ -147,56 +147,56 @@
 			}
 		],
 		"start": 51.56,
-		"end": 52.04
+		"end": 51.94
 	},
 	{
 		"words": [
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 0,
-				"end": 0.18,
+				"end": 0.08,
 				"index": 22
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 0.18,
-				"end": 0.36,
+				"end": 0.26,
 				"index": 23
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 0.36,
-				"end": 0.6,
+				"end": 0.5,
 				"index": 24
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 0.6,
-				"end": 0.62,
+				"end": 0.6,
 				"index": 25
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 0.62,
-				"end": 0.72,
+				"end": 0.62,
 				"index": 26
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 0.72,
-				"end": 1.6,
+				"end": 1.5,
 				"index": 27
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 1.6,
-				"end": 2.92,
+				"end": 2.82,
 				"index": 28
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 3.08,
-				"end": 10.06,
+				"end": 9.96,
 				"index": 29
 			},
 			{

@@ -206,43 +206,37 @@
 				"index": 32
 			},
 			{
-				"text": "king",
+				"text": "king ",
 				"start": 10.12,
 				"end": 10.6,
 				"index": 33
-			}
-		],
-		"start": 11.78,
-		"end": 22.38
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "I ",
-				"start": 0,
-				"end": 0.34,
+				"start": 10.98,
+				"end": 11.32,
 				"index": 34
 			},
 			{
 				"text": "see ",
-				"start": 0.34,
-				"end": 0.54,
+				"start": 11.32,
+				"end": 11.52,
 				"index": 35
 			},
 			{
 				"text": "you ",
-				"start": 0.54,
-				"end": 0.66,
+				"start": 11.52,
+				"end": 11.64,
 				"index": 36
 			},
 			{
 				"text": "LeBron",
-				"start": 0.66,
-				"end": 1,
+				"start": 11.64,
+				"end": 11.98,
 				"index": 37
 			}
 		],
-		"start": 22.76,
+		"start": 11.78,
 		"end": 23.76
 	}
 ]

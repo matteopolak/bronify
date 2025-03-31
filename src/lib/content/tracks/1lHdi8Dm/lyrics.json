@@ -9,7 +9,7 @@
 			}
 		],
 		"start": 2.32,
-		"end": 3.24
+		"end": 3.14
 	},
 	{
 		"words": [
@@ -182,61 +182,49 @@
 				"index": 24
 			},
 			{
-				"text": "the",
+				"text": "the ",
 				"start": 5.84,
 				"end": 6.28,
 				"index": 25
-			}
-		],
-		"start": 27.5,
-		"end": 33.78
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Rolly ",
-				"start": 0,
-				"end": 0.72,
+				"start": 6.28,
+				"end": 7,
 				"index": 26
 			},
 			{
 				"text": "store ",
-				"start": 0.72,
-				"end": 1.1,
+				"start": 7,
+				"end": 7.38,
 				"index": 27
 			},
 			{
 				"text": "with ",
-				"start": 1.1,
-				"end": 1.72,
+				"start": 7.38,
+				"end": 8,
 				"index": 28
 			},
 			{
-				"text": "the",
-				"start": 1.72,
-				"end": 1.94,
+				"text": "the ",
+				"start": 8,
+				"end": 8.22,
 				"index": 29
-			}
-		],
-		"start": 33.78,
-		"end": 35.72
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Rolly ",
-				"start": 0,
-				"end": 0.7,
+				"start": 8.22,
+				"end": 8.92,
 				"index": 30
 			},
 			{
 				"text": "on",
-				"start": 0.7,
-				"end": 1.36,
+				"start": 8.92,
+				"end": 9.58,
 				"index": 31
 			}
 		],
-		"start": 35.72,
+		"start": 27.5,
 		"end": 37.08
 	}
 ]

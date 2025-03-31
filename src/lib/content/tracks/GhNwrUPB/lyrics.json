@@ -20,15 +20,15 @@
 				"index": 2
 			},
 			{
-				"text": "second, ",
+				"text": "second ",
 				"start": 0.98,
-				"end": 1.34,
+				"end": 1.24,
 				"index": 3
 			},
 			{
-				"text": "I, ",
+				"text": "I ",
 				"start": 1.4,
-				"end": 1.62,
+				"end": 1.52,
 				"index": 4
 			},
 			{
@@ -80,79 +80,73 @@
 	{
 		"words": [
 			{
-				"text": "But",
+				"text": "But ",
 				"start": 0,
 				"end": 0.2,
 				"index": 12
-			}
-		],
-		"start": 6.17,
-		"end": 6.37
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Bonnie's ",
-				"start": 0,
-				"end": 0.62,
+				"text": "Bronny's ",
+				"start": 0.2,
+				"end": 0.82,
 				"index": 13
 			},
 			{
 				"text": "in ",
-				"start": 0.62,
-				"end": 0.76,
+				"start": 0.82,
+				"end": 0.96,
 				"index": 14
 			},
 			{
 				"text": "the ",
-				"start": 0.76,
-				"end": 0.96,
+				"start": 0.96,
+				"end": 1.16,
 				"index": 15
 			},
 			{
 				"text": "bathroom, ",
-				"start": 0.96,
-				"end": 1.42,
+				"start": 1.16,
+				"end": 1.62,
 				"index": 16
 			},
 			{
 				"text": "doing ",
-				"start": 1.54,
-				"end": 1.9,
+				"start": 1.74,
+				"end": 2.1,
 				"index": 17
 			},
 			{
 				"text": "blowin', ",
-				"start": 1.9,
-				"end": 2.6,
+				"start": 2.1,
+				"end": 2.8,
 				"index": 18
 			},
 			{
 				"text": "scoring ",
-				"start": 2.6,
-				"end": 2.92,
+				"start": 2.8,
+				"end": 3.12,
 				"index": 19
 			},
 			{
 				"text": "two",
-				"start": 2.92,
-				"end": 3.2,
+				"start": 3.12,
+				"end": 3.4,
 				"index": 20
 			},
 			{
 				"text": "-point ",
-				"start": 3.2,
-				"end": 3.7,
+				"start": 3.4,
+				"end": 3.9,
 				"index": 21
 			},
 			{
 				"text": "games",
-				"start": 3.7,
-				"end": 4,
+				"start": 3.9,
+				"end": 4.2,
 				"index": 22
 			}
 		],
-		"start": 6.37,
+		"start": 6.17,
 		"end": 10.37
 	},
 	{
@@ -230,79 +224,73 @@
 				"index": 33
 			},
 			{
-				"text": "Luka",
+				"text": "Luka ",
 				"start": 0.4,
 				"end": 0.82,
 				"index": 34
-			}
-		],
-		"start": 13.71,
-		"end": 14.53
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Doncic ",
-				"start": 0,
-				"end": 0.64,
+				"start": 0.82,
+				"end": 1.46,
 				"index": 35
 			},
 			{
 				"text": "is ",
-				"start": 0.64,
-				"end": 0.82,
+				"start": 1.46,
+				"end": 1.64,
 				"index": 36
 			},
 			{
 				"text": "laughing ",
-				"start": 0.82,
-				"end": 1.3,
+				"start": 1.64,
+				"end": 2.12,
 				"index": 37
 			},
 			{
 				"text": "with ",
-				"start": 1.3,
-				"end": 1.68,
+				"start": 2.12,
+				"end": 2.5,
 				"index": 38
 			},
 			{
 				"text": "him, ",
-				"start": 1.68,
-				"end": 2,
+				"start": 2.5,
+				"end": 2.82,
 				"index": 39
 			},
 			{
 				"text": "it's ",
-				"start": 2.1,
-				"end": 2.26,
+				"start": 2.92,
+				"end": 3.08,
 				"index": 40
 			},
 			{
 				"text": "causing ",
-				"start": 2.26,
-				"end": 2.6,
+				"start": 3.08,
+				"end": 3.42,
 				"index": 41
 			},
 			{
 				"text": "quite ",
-				"start": 2.6,
-				"end": 2.96,
+				"start": 3.42,
+				"end": 3.78,
 				"index": 42
 			},
 			{
 				"text": "a ",
-				"start": 2.96,
-				"end": 3.12,
+				"start": 3.78,
+				"end": 3.94,
 				"index": 43
 			},
 			{
 				"text": "stir",
-				"start": 3.12,
-				"end": 3.38,
+				"start": 3.94,
+				"end": 4.2,
 				"index": 44
 			}
 		],
-		"start": 14.53,
+		"start": 13.71,
 		"end": 17.91
 	},
 	{
@@ -518,61 +506,55 @@
 				"index": 77
 			},
 			{
-				"text": "know",
+				"text": "know ",
 				"start": 2.26,
 				"end": 2.44,
 				"index": 78
-			}
-		],
-		"start": 28.81,
-		"end": 31.25
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "I ",
-				"start": 0,
-				"end": 0.46,
+				"start": 2.44,
+				"end": 2.9,
 				"index": 79
 			},
 			{
 				"text": "try ",
-				"start": 0.46,
-				"end": 0.64,
+				"start": 2.9,
+				"end": 3.08,
 				"index": 80
 			},
 			{
 				"text": "my ",
-				"start": 0.64,
-				"end": 0.96,
+				"start": 3.08,
+				"end": 3.4,
 				"index": 81
 			},
 			{
 				"text": "hardest ",
-				"start": 0.96,
-				"end": 1.4,
+				"start": 3.4,
+				"end": 3.84,
 				"index": 82
 			},
 			{
 				"text": "not ",
-				"start": 1.4,
-				"end": 1.62,
+				"start": 3.84,
+				"end": 4.06,
 				"index": 83
 			},
 			{
 				"text": "to ",
-				"start": 1.62,
-				"end": 2,
+				"start": 4.06,
+				"end": 4.44,
 				"index": 84
 			},
 			{
 				"text": "scream",
-				"start": 2,
-				"end": 2.52,
+				"start": 4.44,
+				"end": 4.96,
 				"index": 85
 			}
 		],
-		"start": 31.25,
+		"start": 28.81,
 		"end": 33.77
 	},
 	{
@@ -668,9 +650,9 @@
 				"index": 99
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 4.02,
-				"end": 5.5,
+				"end": 5.4,
 				"index": 100
 			},
 			{

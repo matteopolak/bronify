@@ -2,15 +2,15 @@
 	{
 		"words": [
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 0,
-				"end": 0.88,
+				"end": 0.78,
 				"index": 0
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 0.88,
-				"end": 1.52,
+				"end": 1.42,
 				"index": 1
 			},
 			{
@@ -21,38 +21,38 @@
 			}
 		],
 		"start": 13.1,
-		"end": 15.08
+		"end": 14.98
 	},
 	{
 		"words": [
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 0,
-				"end": 0.42,
+				"end": 0.32,
 				"index": 3
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 0.42,
-				"end": 0.48,
+				"end": 0.42,
 				"index": 4
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 0.48,
-				"end": 0.92,
+				"end": 0.82,
 				"index": 5
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 0.92,
-				"end": 0.96,
+				"end": 0.92,
 				"index": 6
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 0.96,
-				"end": 2.22,
+				"end": 2.12,
 				"index": 7
 			},
 			{
@@ -76,29 +76,5 @@
 		],
 		"start": 18.84,
 		"end": 19.58
-	},
-	{
-		"words": [
-			{
-				"text": "Subtitles by the",
-				"start": 0,
-				"end": 0.06,
-				"index": 10
-			}
-		],
-		"start": 19.58,
-		"end": 19.64
-	},
-	{
-		"words": [
-			{
-				"text": "Amara.org community",
-				"start": 0,
-				"end": 0,
-				"index": 11
-			}
-		],
-		"start": 19.64,
-		"end": 19.64
 	}
 ]

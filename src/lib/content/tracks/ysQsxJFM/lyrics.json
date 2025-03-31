@@ -212,235 +212,229 @@
 				"index": 34
 			},
 			{
-				"text": "-T",
+				"text": "-T ",
 				"start": 9.56,
 				"end": 9.66,
 				"index": 35
-			}
-		],
-		"start": 2.54,
-		"end": 12.2
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "I ",
-				"start": 0,
-				"end": 0.48,
+				"start": 9.66,
+				"end": 10.14,
 				"index": 36
 			},
 			{
 				"text": "don't ",
-				"start": 0.48,
-				"end": 1.16,
+				"start": 10.14,
+				"end": 10.82,
 				"index": 37
 			},
 			{
 				"text": "know ",
-				"start": 1.16,
-				"end": 1.3,
+				"start": 10.82,
+				"end": 10.96,
 				"index": 38
 			},
 			{
 				"text": "if ",
-				"start": 1.3,
-				"end": 1.56,
+				"start": 10.96,
+				"end": 11.22,
 				"index": 39
 			},
 			{
 				"text": "you ",
-				"start": 1.56,
-				"end": 1.72,
+				"start": 11.22,
+				"end": 11.38,
 				"index": 40
 			},
 			{
 				"text": "heard ",
-				"start": 1.72,
-				"end": 2,
+				"start": 11.38,
+				"end": 11.66,
 				"index": 41
 			},
 			{
 				"text": "of ",
-				"start": 2,
-				"end": 2.24,
+				"start": 11.66,
+				"end": 11.9,
 				"index": 42
 			},
 			{
 				"text": "my ",
-				"start": 2.24,
-				"end": 2.38,
+				"start": 11.9,
+				"end": 12.04,
 				"index": 43
 			},
 			{
 				"text": "king, ",
-				"start": 2.38,
-				"end": 2.74,
+				"start": 12.04,
+				"end": 12.4,
 				"index": 44
 			},
 			{
 				"text": "all ",
-				"start": 3,
-				"end": 3.5,
+				"start": 12.66,
+				"end": 13.16,
 				"index": 45
 			},
 			{
 				"text": "I ",
-				"start": 3.5,
-				"end": 3.66,
+				"start": 13.16,
+				"end": 13.32,
 				"index": 46
 			},
 			{
 				"text": "can ",
-				"start": 3.66,
-				"end": 3.8,
+				"start": 13.32,
+				"end": 13.46,
 				"index": 47
 			},
 			{
 				"text": "say ",
-				"start": 3.8,
-				"end": 4.04,
+				"start": 13.46,
+				"end": 13.7,
 				"index": 48
 			},
 			{
 				"text": "is ",
-				"start": 4.04,
-				"end": 4.32,
+				"start": 13.7,
+				"end": 13.98,
 				"index": 49
 			},
 			{
 				"text": "he ",
-				"start": 4.32,
-				"end": 4.44,
+				"start": 13.98,
+				"end": 14.1,
 				"index": 50
 			},
 			{
 				"text": "dominate ",
-				"start": 4.44,
-				"end": 4.78,
+				"start": 14.1,
+				"end": 14.44,
 				"index": 51
 			},
 			{
 				"text": "the ",
-				"start": 4.78,
-				"end": 5.1,
+				"start": 14.44,
+				"end": 14.76,
 				"index": 52
 			},
 			{
 				"text": "league, ",
-				"start": 5.1,
-				"end": 5.36,
+				"start": 14.76,
+				"end": 15.02,
 				"index": 53
 			},
 			{
 				"text": "it ",
-				"start": 5.56,
-				"end": 6.1,
+				"start": 15.22,
+				"end": 15.76,
 				"index": 54
 			},
 			{
 				"text": "ain't ",
-				"start": 6.1,
-				"end": 6.32,
+				"start": 15.76,
+				"end": 15.98,
 				"index": 55
 			},
 			{
 				"text": "a ",
-				"start": 6.32,
-				"end": 6.4,
+				"start": 15.98,
+				"end": 16.06,
 				"index": 56
 			},
 			{
 				"text": "dime ",
-				"start": 6.4,
-				"end": 6.66,
+				"start": 16.06,
+				"end": 16.32,
 				"index": 57
 			},
 			{
 				"text": "on ",
-				"start": 6.66,
-				"end": 6.8,
+				"start": 16.32,
+				"end": 16.46,
 				"index": 58
 			},
 			{
 				"text": "the ",
-				"start": 6.8,
-				"end": 6.9,
+				"start": 16.46,
+				"end": 16.56,
 				"index": 59
 			},
 			{
 				"text": "court, ",
-				"start": 6.9,
-				"end": 7.1,
+				"start": 16.56,
+				"end": 16.76,
 				"index": 60
 			},
 			{
 				"text": "he ",
-				"start": 7.22,
-				"end": 7.3,
+				"start": 16.88,
+				"end": 16.96,
 				"index": 61
 			},
 			{
 				"text": "can't ",
-				"start": 7.3,
-				"end": 7.66,
+				"start": 16.96,
+				"end": 17.32,
 				"index": 62
 			},
 			{
 				"text": "see, ",
-				"start": 7.66,
-				"end": 7.88,
+				"start": 17.32,
+				"end": 17.54,
 				"index": 63
 			},
 			{
 				"text": "cause ",
-				"start": 8,
-				"end": 8.6,
+				"start": 17.66,
+				"end": 18.26,
 				"index": 64
 			},
 			{
 				"text": "he ",
-				"start": 8.6,
-				"end": 8.8,
+				"start": 18.26,
+				"end": 18.46,
 				"index": 65
 			},
 			{
 				"text": "the ",
-				"start": 8.8,
-				"end": 8.92,
+				"start": 18.46,
+				"end": 18.58,
 				"index": 66
 			},
 			{
 				"text": "motherfuckin' ",
-				"start": 8.92,
-				"end": 9.6,
+				"start": 18.58,
+				"end": 19.26,
 				"index": 67
 			},
 			{
 				"text": "G",
-				"start": 9.6,
-				"end": 9.78,
+				"start": 19.26,
+				"end": 19.44,
 				"index": 68
 			},
 			{
 				"text": "-O",
-				"start": 9.78,
-				"end": 9.9,
+				"start": 19.44,
+				"end": 19.56,
 				"index": 69
 			},
 			{
 				"text": "-A",
-				"start": 9.9,
-				"end": 10.08,
+				"start": 19.56,
+				"end": 19.74,
 				"index": 70
 			},
 			{
 				"text": "-T",
-				"start": 10.08,
-				"end": 10.26,
+				"start": 19.74,
+				"end": 19.92,
 				"index": 71
 			}
 		],
-		"start": 12.2,
+		"start": 2.54,
 		"end": 22.46
 	},
 	{

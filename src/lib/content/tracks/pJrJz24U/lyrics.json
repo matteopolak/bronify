@@ -75,7 +75,7 @@
 			}
 		],
 		"start": 0.82,
-		"end": 6.08
+		"end": 5.98
 	},
 	{
 		"words": [
@@ -104,21 +104,21 @@
 				"index": 15
 			},
 			{
-				"text": "LBJ, ",
+				"text": "LBJ ",
 				"start": 1.8,
-				"end": 2.92,
+				"end": 2.82,
 				"index": 16
 			},
 			{
-				"text": "J, ",
+				"text": "J ",
 				"start": 3.1,
-				"end": 3.46,
+				"end": 3.36,
 				"index": 17
 			},
 			{
-				"text": "J, ",
+				"text": "J ",
 				"start": 3.46,
-				"end": 3.66,
+				"end": 3.56,
 				"index": 18
 			},
 			{
@@ -158,9 +158,9 @@
 	{
 		"words": [
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 0,
-				"end": 0.8,
+				"end": 0.7,
 				"index": 23
 			},
 			{
@@ -290,9 +290,9 @@
 				"index": 44
 			},
 			{
-				"text": "famer, ",
+				"text": "famer ",
 				"start": 13.98,
-				"end": 14.72,
+				"end": 14.62,
 				"index": 45
 			},
 			{

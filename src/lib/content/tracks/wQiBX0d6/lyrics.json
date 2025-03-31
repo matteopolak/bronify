@@ -32,7 +32,7 @@
 				"index": 4
 			},
 			{
-				"text": "james.",
+				"text": "james",
 				"start": 2.3,
 				"end": 3.26,
 				"index": 5
@@ -86,7 +86,7 @@
 				"index": 12
 			},
 			{
-				"text": "game.",
+				"text": "game",
 				"start": 2.4,
 				"end": 2.92,
 				"index": 13
@@ -152,7 +152,7 @@
 				"index": 22
 			},
 			{
-				"text": "LeBron.",
+				"text": "LeBron",
 				"start": 3.14,
 				"end": 3.7,
 				"index": 23
@@ -236,9 +236,9 @@
 				"index": 34
 			},
 			{
-				"text": "Ohio, ",
+				"text": "Ohio ",
 				"start": 0.8,
-				"end": 1.2,
+				"end": 1.1,
 				"index": 35
 			},
 			{
@@ -260,7 +260,7 @@
 				"index": 38
 			},
 			{
-				"text": ".A.",
+				"text": ".A",
 				"start": 2.1,
 				"end": 2.32,
 				"index": 39
@@ -314,7 +314,7 @@
 				"index": 46
 			},
 			{
-				"text": "day.",
+				"text": "day",
 				"start": 1.48,
 				"end": 1.7,
 				"index": 47
@@ -392,7 +392,7 @@
 				"index": 58
 			},
 			{
-				"text": "knees. ",
+				"text": "knees ",
 				"start": 1.5,
 				"end": 1.84,
 				"index": 59
@@ -440,7 +440,7 @@
 				"index": 66
 			},
 			{
-				"text": "referee.",
+				"text": "referee",
 				"start": 2.96,
 				"end": 3.2,
 				"index": 67
@@ -482,25 +482,19 @@
 				"index": 72
 			},
 			{
-				"text": "LeBron",
+				"text": "LeBron ",
 				"start": 1.04,
 				"end": 1.24,
 				"index": 73
-			}
-		],
-		"start": 34.77,
-		"end": 36.11
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Kyrie.",
-				"start": 0,
-				"end": 0.44,
+				"text": "Kyrie",
+				"start": 1.42,
+				"end": 1.86,
 				"index": 74
 			}
 		],
-		"start": 36.19,
+		"start": 34.77,
 		"end": 36.63
 	},
 	{
@@ -554,7 +548,7 @@
 				"index": 82
 			},
 			{
-				"text": "free.",
+				"text": "free",
 				"start": 1.44,
 				"end": 1.64,
 				"index": 83
@@ -614,7 +608,7 @@
 				"index": 90
 			},
 			{
-				"text": "-wee.",
+				"text": "-wee",
 				"start": 1.14,
 				"end": 1.38,
 				"index": 91
@@ -656,25 +650,19 @@
 	{
 		"words": [
 			{
-				"text": "Not",
+				"text": "Not ",
 				"start": 0,
 				"end": 0.28,
 				"index": 96
-			}
-		],
-		"start": 41.31,
-		"end": 41.59
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Kyrie",
-				"start": 0,
-				"end": 0.58,
+				"start": 0.28,
+				"end": 0.86,
 				"index": 97
 			}
 		],
-		"start": 41.59,
+		"start": 41.31,
 		"end": 42.17
 	},
 	{
@@ -698,7 +686,7 @@
 				"index": 100
 			},
 			{
-				"text": "go.",
+				"text": "go",
 				"start": 1.2,
 				"end": 1.5,
 				"index": 101
@@ -734,7 +722,7 @@
 				"index": 105
 			},
 			{
-				"text": "bro.",
+				"text": "bro",
 				"start": 1.16,
 				"end": 1.42,
 				"index": 106
@@ -770,13 +758,13 @@
 				"index": 110
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 1.48,
-				"end": 2.28,
+				"end": 2.18,
 				"index": 111
 			},
 			{
-				"text": "LBJ.",
+				"text": "LBJ",
 				"start": 2.3,
 				"end": 3.48,
 				"index": 112
@@ -830,7 +818,7 @@
 				"index": 119
 			},
 			{
-				"text": "this.",
+				"text": "this",
 				"start": 2.88,
 				"end": 3.4,
 				"index": 120
@@ -842,183 +830,165 @@
 	{
 		"words": [
 			{
-				"text": "Swap",
+				"text": "Swap ",
 				"start": 0,
 				"end": 0.36,
 				"index": 121
-			}
-		],
-		"start": 54.59,
-		"end": 54.95
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "LeBrons ",
-				"start": 0,
-				"end": 0.44,
+				"start": 0.36,
+				"end": 0.8,
 				"index": 122
 			},
 			{
 				"text": "and ",
-				"start": 0.44,
-				"end": 0.62,
+				"start": 0.8,
+				"end": 0.98,
 				"index": 123
 			},
 			{
-				"text": "go",
-				"start": 0.62,
-				"end": 0.86,
+				"text": "go ",
+				"start": 0.98,
+				"end": 1.22,
 				"index": 124
-			}
-		],
-		"start": 54.95,
-		"end": 55.81
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0.44,
+				"text": "LeBron ",
+				"start": 1.22,
+				"end": 1.56,
 				"index": 125
 			},
 			{
-				"text": "LeBron, ",
-				"start": 0.5,
-				"end": 0.74,
+				"text": "LeBron ",
+				"start": 1.72,
+				"end": 1.86,
 				"index": 126
 			},
 			{
 				"text": "LeBron",
-				"start": 0.74,
-				"end": 2.04,
+				"start": 1.96,
+				"end": 3.26,
 				"index": 127
 			}
 		],
-		"start": 55.81,
-		"end": 57.95
+		"start": 54.59,
+		"end": 57.85
 	},
 	{
 		"words": [
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 0,
-				"end": 0.36,
+				"end": 0.26,
 				"index": 128
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 0.36,
-				"end": 0.88,
+				"end": 0.78,
 				"index": 129
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 0.88,
-				"end": 2.5,
+				"end": 2.4,
 				"index": 130
 			},
 			{
-				"text": "Raymond James",
+				"text": "Raymond James ",
 				"start": 2.5,
 				"end": 62.51,
 				"index": 131
-			}
-		],
-		"start": 59.69,
-		"end": 62.19
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Sr.",
-				"start": 0,
-				"end": 0.36,
+				"text": "Sr",
+				"start": 2.82,
+				"end": 3.18,
 				"index": 132
 			}
 		],
-		"start": 62.51,
-		"end": 62.87
+		"start": 59.69,
+		"end": 122.2
 	},
 	{
 		"words": [
 			{
-				"text": "LeBron, ",
+				"text": "LeBron",
 				"start": 0,
-				"end": 0.3,
+				"end": 0.2,
 				"index": 133
-			},
+			}
+		],
+		"start": 63.27,
+		"end": 63.47
+	},
+	{
+		"words": [
 			{
-				"text": "LeBron, ",
-				"start": 0.66,
-				"end": 0.8,
+				"text": "LeBron ",
+				"start": 0,
+				"end": 0.04,
 				"index": 134
 			},
 			{
 				"text": "LeBron",
-				"start": 0.8,
-				"end": 1.96,
+				"start": 0.14,
+				"end": 1.3,
 				"index": 135
 			}
 		],
-		"start": 63.27,
-		"end": 65.33
+		"start": 63.93,
+		"end": 65.23
 	},
 	{
 		"words": [
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 0,
-				"end": 1.66,
+				"end": 1.56,
 				"index": 136
 			},
 			{
-				"text": "Raymond James",
+				"text": "Raymond James ",
 				"start": 1.66,
 				"end": 69.64,
 				"index": 137
-			}
-		],
-		"start": 67.66,
-		"end": 69.32
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Sr",
-				"start": 0,
-				"end": 0.44,
+				"start": 1.98,
+				"end": 2.42,
 				"index": 138
 			}
 		],
-		"start": 69.64,
-		"end": 70.08
+		"start": 67.66,
+		"end": 137.3
 	},
 	{
 		"words": [
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 0,
-				"end": 0.36,
+				"end": 0.26,
 				"index": 139
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 0.62,
-				"end": 1.02,
+				"end": 0.92,
 				"index": 140
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 1.02,
-				"end": 1.38,
+				"end": 1.28,
 				"index": 141
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 1.38,
-				"end": 1.66,
+				"end": 1.56,
 				"index": 142
 			},
 			{

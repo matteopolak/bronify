@@ -8,9 +8,9 @@
 				"index": 0
 			},
 			{
-				"text": "Akron, ",
+				"text": "Akron ",
 				"start": 0.64,
-				"end": 1.46,
+				"end": 1.36,
 				"index": 1
 			},
 			{
@@ -212,15 +212,15 @@
 	{
 		"words": [
 			{
-				"text": "Oh, ",
+				"text": "Oh ",
 				"start": 0,
-				"end": 0.82,
+				"end": 0.72,
 				"index": 33
 			},
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 0.82,
-				"end": 1.78,
+				"end": 1.68,
 				"index": 34
 			},
 			{
