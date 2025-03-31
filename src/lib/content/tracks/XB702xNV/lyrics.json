@@ -2,943 +2,331 @@
 	{
 		"words": [
 			{
-				"text": "today, ",
-				"start": 22.12,
-				"end": 22.32,
+				"text": "I ",
+				"start": 0,
+				"end": 0.72,
 				"index": 0
 			},
 			{
-				"text": "we're ",
-				"start": 22.32,
-				"end": 22.52,
+				"text": "will ",
+				"start": 0.72,
+				"end": 0.98,
 				"index": 1
 			},
 			{
-				"text": "going ",
-				"start": 22.52,
-				"end": 23.62,
+				"text": "never ",
+				"start": 0.98,
+				"end": 1.3,
 				"index": 2
 			},
 			{
-				"text": "to ",
-				"start": 23.62,
-				"end": 23.68,
+				"text": "find ",
+				"start": 1.3,
+				"end": 1.76,
 				"index": 3
 			},
 			{
-				"text": "have a little ",
-				"start": 23.68,
-				"end": 24,
+				"text": "another ",
+				"start": 1.76,
+				"end": 2.14,
 				"index": 4
 			},
 			{
-				"text": "bit ",
-				"start": 24,
-				"end": 24.08,
+				"text": "player ",
+				"start": 2.14,
+				"end": 2.74,
 				"index": 5
 			},
 			{
-				"text": "of ",
-				"start": 24.08,
-				"end": 24.28,
+				"text": "better ",
+				"start": 2.74,
+				"end": 3.68,
 				"index": 6
 			},
 			{
-				"text": "a ",
-				"start": 24.28,
-				"end": 24.76,
+				"text": "than ",
+				"start": 3.68,
+				"end": 4.04,
 				"index": 7
 			},
 			{
-				"text": "break, ",
-				"start": 24.76,
-				"end": 25.64,
+				"text": "you, ",
+				"start": 4.04,
+				"end": 4.64,
 				"index": 8
 			},
 			{
-				"text": "and then ",
-				"start": 29.38,
-				"end": 30.14,
+				"text": "better ",
+				"start": 4.82,
+				"end": 5.4,
 				"index": 9
 			},
 			{
-				"text": "we're ",
-				"start": 30.14,
-				"end": 30.42,
+				"text": "than ",
+				"start": 5.4,
+				"end": 5.94,
 				"index": 10
 			},
 			{
-				"text": "going ",
-				"start": 30.42,
-				"end": 30.54,
+				"text": "you",
+				"start": 5.94,
+				"end": 6.18,
 				"index": 11
-			},
+			}
+		],
+		"start": 30.13,
+		"end": 36.31
+	},
+	{
+		"words": [
 			{
-				"text": "to ",
-				"start": 30.54,
-				"end": 30.56,
+				"text": "And ",
+				"start": 0,
+				"end": 0.36,
 				"index": 12
 			},
 			{
-				"text": "have ",
-				"start": 30.56,
-				"end": 30.58,
+				"text": "I ",
+				"start": 0.36,
+				"end": 1.02,
 				"index": 13
 			},
 			{
-				"text": "a ",
-				"start": 30.58,
-				"end": 30.6,
+				"text": "will ",
+				"start": 1.02,
+				"end": 1.24,
 				"index": 14
 			},
 			{
-				"text": "little ",
-				"start": 30.6,
-				"end": 30.76,
+				"text": "never ",
+				"start": 1.24,
+				"end": 1.56,
 				"index": 15
 			},
 			{
-				"text": "bit ",
-				"start": 30.76,
-				"end": 30.78,
+				"text": "find ",
+				"start": 1.56,
+				"end": 2.04,
 				"index": 16
 			},
 			{
-				"text": "of ",
-				"start": 30.78,
-				"end": 30.8,
+				"text": "another ",
+				"start": 2.04,
+				"end": 2.42,
 				"index": 17
 			},
 			{
-				"text": "a ",
-				"start": 30.8,
-				"end": 30.82,
+				"text": "player ",
+				"start": 2.42,
+				"end": 3.08,
 				"index": 18
 			},
 			{
-				"text": "break, ",
-				"start": 30.82,
-				"end": 30.84,
+				"text": "more ",
+				"start": 3.08,
+				"end": 3.58,
 				"index": 19
 			},
 			{
-				"text": "and ",
-				"start": 30.86,
-				"end": 30.92,
+				"text": "clutcher ",
+				"start": 3.58,
+				"end": 4.04,
 				"index": 20
 			},
 			{
-				"text": "then ",
-				"start": 30.92,
-				"end": 30.94,
+				"text": "than ",
+				"start": 4.04,
+				"end": 4.26,
 				"index": 21
 			},
 			{
-				"text": "we're going to have a little",
-				"start": 30.94,
-				"end": 30.98,
+				"text": "you, ",
+				"start": 4.26,
+				"end": 4.7,
 				"index": 22
-			}
-		],
-		"start": -1,
-		"end": 29.98
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "I ",
-				"start": 0,
-				"end": 0.82,
+				"text": "clutcher ",
+				"start": 4.74,
+				"end": 5.94,
 				"index": 23
 			},
 			{
-				"text": "will ",
-				"start": 0.82,
-				"end": 1.14,
+				"text": "than ",
+				"start": 5.94,
+				"end": 6.12,
 				"index": 24
 			},
 			{
-				"text": "never ",
-				"start": 1.14,
-				"end": 1.44,
+				"text": "you",
+				"start": 6.12,
+				"end": 6.5,
 				"index": 25
-			},
+			}
+		],
+		"start": 37.35,
+		"end": 43.85
+	},
+	{
+		"words": [
 			{
-				"text": "find ",
-				"start": 1.44,
-				"end": 1.92,
+				"text": "LeBron's ",
+				"start": 0,
+				"end": 0.88,
 				"index": 26
 			},
 			{
-				"text": "another ",
-				"start": 1.92,
-				"end": 2.3,
+				"text": "better ",
+				"start": 3.51,
+				"end": 3.81,
 				"index": 27
 			},
 			{
-				"text": "player ",
-				"start": 2.3,
-				"end": 2.88,
+				"text": "than ",
+				"start": 3.81,
+				"end": 4.37,
 				"index": 28
 			},
 			{
-				"text": "better ",
-				"start": 2.88,
-				"end": 3.82,
+				"text": "all ",
+				"start": 4.37,
+				"end": 4.67,
 				"index": 29
 			},
 			{
-				"text": "than ",
-				"start": 3.82,
-				"end": 4.2,
+				"text": "of ",
+				"start": 4.67,
+				"end": 4.87,
 				"index": 30
 			},
 			{
-				"text": "you, ",
-				"start": 4.2,
-				"end": 4.78,
+				"text": "my ",
+				"start": 4.87,
+				"end": 5.09,
 				"index": 31
 			},
 			{
-				"text": "better ",
-				"start": 4.98,
-				"end": 5.58,
+				"text": "uncles, ",
+				"start": 5.09,
+				"end": 5.47,
 				"index": 32
 			},
 			{
-				"text": "than ",
-				"start": 5.58,
-				"end": 6.04,
+				"text": "better ",
+				"start": 5.57,
+				"end": 5.81,
 				"index": 33
 			},
 			{
-				"text": "you",
-				"start": 6.04,
-				"end": 6.34,
+				"text": "than ",
+				"start": 5.81,
+				"end": 6.21,
 				"index": 34
-			}
-		],
-		"start": 29.98,
-		"end": 36.32
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "And ",
-				"start": 0,
-				"end": 0.68,
+				"text": "all ",
+				"start": 6.21,
+				"end": 6.57,
 				"index": 35
 			},
 			{
-				"text": "I ",
-				"start": 0.68,
-				"end": 0.96,
+				"text": "of ",
+				"start": 6.57,
+				"end": 6.73,
 				"index": 36
 			},
 			{
-				"text": "will ",
-				"start": 0.96,
-				"end": 1.2,
+				"text": "my ",
+				"start": 6.73,
+				"end": 6.97,
 				"index": 37
 			},
 			{
-				"text": "never ",
-				"start": 1.2,
-				"end": 1.52,
+				"text": "nephews",
+				"start": 6.97,
+				"end": 7.39,
 				"index": 38
-			},
+			}
+		],
+		"start": 43.85,
+		"end": 51.24
+	},
+	{
+		"words": [
 			{
-				"text": "find ",
-				"start": 1.52,
-				"end": 1.98,
+				"text": "Better ",
+				"start": 0,
+				"end": 0.3,
 				"index": 39
 			},
 			{
-				"text": "another ",
-				"start": 1.98,
-				"end": 2.36,
+				"text": "than ",
+				"start": 0.3,
+				"end": 0.64,
 				"index": 40
 			},
 			{
-				"text": "player ",
-				"start": 2.36,
-				"end": 3.02,
+				"text": "all ",
+				"start": 0.64,
+				"end": 0.96,
 				"index": 41
 			},
 			{
-				"text": "more ",
-				"start": 3.02,
-				"end": 3.52,
+				"text": "of ",
+				"start": 0.96,
+				"end": 1.2,
 				"index": 42
 			},
 			{
-				"text": "clutcher ",
-				"start": 3.52,
-				"end": 3.96,
+				"text": "my ",
+				"start": 1.2,
+				"end": 1.42,
 				"index": 43
 			},
 			{
-				"text": "than ",
-				"start": 3.96,
-				"end": 4.18,
+				"text": "bros, ",
+				"start": 1.42,
+				"end": 1.84,
 				"index": 44
 			},
 			{
-				"text": "you, ",
-				"start": 4.18,
-				"end": 4.62,
+				"text": "this ",
+				"start": 7.95,
+				"end": 8.19,
 				"index": 45
 			},
 			{
-				"text": "clutcher ",
-				"start": 5.04,
-				"end": 5.76,
+				"text": "song ",
+				"start": 8.19,
+				"end": 8.65,
 				"index": 46
 			},
 			{
-				"text": "than ",
-				"start": 5.76,
-				"end": 6.08,
+				"text": "I ",
+				"start": 8.65,
+				"end": 8.91,
 				"index": 47
 			},
 			{
-				"text": "you",
-				"start": 6.08,
-				"end": 6.38,
+				"text": "sing",
+				"start": 8.91,
+				"end": 9.23,
 				"index": 48
 			}
 		],
-		"start": 37.4,
-		"end": 43.78
+		"start": 51.24,
+		"end": 60.47
 	},
 	{
 		"words": [
 			{
-				"text": "LeBron, ",
+				"text": "HELLO",
 				"start": 0,
-				"end": 0.56,
+				"end": 0.68,
 				"index": 49
-			},
-			{
-				"text": "you ",
-				"start": 0.7,
-				"end": 1.08,
-				"index": 50
-			},
-			{
-				"text": "are ",
-				"start": 1.08,
-				"end": 1.5,
-				"index": 51
-			},
-			{
-				"text": "better ",
-				"start": 1.5,
-				"end": 1.98,
-				"index": 52
-			},
-			{
-				"text": "than ",
-				"start": 1.98,
-				"end": 2.4,
-				"index": 53
-			},
-			{
-				"text": "all ",
-				"start": 2.4,
-				"end": 2.7,
-				"index": 54
-			},
-			{
-				"text": "of ",
-				"start": 2.7,
-				"end": 2.9,
-				"index": 55
-			},
-			{
-				"text": "my ",
-				"start": 2.9,
-				"end": 3.14,
-				"index": 56
-			},
-			{
-				"text": "cousins, ",
-				"start": 3.14,
-				"end": 3.5,
-				"index": 57
-			},
-			{
-				"text": "better ",
-				"start": 3.64,
-				"end": 3.9,
-				"index": 58
-			},
-			{
-				"text": "than ",
-				"start": 3.9,
-				"end": 4.28,
-				"index": 59
-			},
-			{
-				"text": "all ",
-				"start": 4.28,
-				"end": 4.6,
-				"index": 60
-			},
-			{
-				"text": "of ",
-				"start": 4.6,
-				"end": 4.8,
-				"index": 61
-			},
-			{
-				"text": "my ",
-				"start": 4.8,
-				"end": 5.04,
-				"index": 62
-			},
-			{
-				"text": "uncles, ",
-				"start": 5.04,
-				"end": 5.4,
-				"index": 63
-			},
-			{
-				"text": "better ",
-				"start": 5.5,
-				"end": 5.76,
-				"index": 64
-			},
-			{
-				"text": "than ",
-				"start": 5.76,
-				"end": 6.14,
-				"index": 65
-			},
-			{
-				"text": "all ",
-				"start": 6.14,
-				"end": 6.46,
-				"index": 66
-			},
-			{
-				"text": "of ",
-				"start": 6.46,
-				"end": 6.66,
-				"index": 67
-			},
-			{
-				"text": "my ",
-				"start": 6.66,
-				"end": 6.9,
-				"index": 68
-			},
-			{
-				"text": "nephews, ",
-				"start": 6.9,
-				"end": 7.28,
-				"index": 69
-			},
-			{
-				"text": "better ",
-				"start": 7.36,
-				"end": 7.62,
-				"index": 70
-			},
-			{
-				"text": "than ",
-				"start": 7.62,
-				"end": 8,
-				"index": 71
-			},
-			{
-				"text": "all ",
-				"start": 8,
-				"end": 8.32,
-				"index": 72
-			},
-			{
-				"text": "of ",
-				"start": 8.32,
-				"end": 8.5,
-				"index": 73
-			},
-			{
-				"text": "my ",
-				"start": 8.5,
-				"end": 8.72,
-				"index": 74
-			},
-			{
-				"text": "brothers",
-				"start": 8.72,
-				"end": 9.32,
-				"index": 75
 			}
 		],
-		"start": 43.92,
-		"end": 53.24
-	},
-	{
-		"words": [
-			{
-				"text": "And ",
-				"start": 0,
-				"end": 0.76,
-				"index": 76
-			},
-			{
-				"text": "you ",
-				"start": 0.76,
-				"end": 1.06,
-				"index": 77
-			},
-			{
-				"text": "are ",
-				"start": 1.06,
-				"end": 1.3,
-				"index": 78
-			},
-			{
-				"text": "the ",
-				"start": 1.3,
-				"end": 1.48,
-				"index": 79
-			},
-			{
-				"text": "only ",
-				"start": 1.48,
-				"end": 2.22,
-				"index": 80
-			},
-			{
-				"text": "player ",
-				"start": 2.22,
-				"end": 2.94,
-				"index": 81
-			},
-			{
-				"text": "I'll ",
-				"start": 2.94,
-				"end": 3.52,
-				"index": 82
-			},
-			{
-				"text": "ever ",
-				"start": 3.52,
-				"end": 3.82,
-				"index": 83
-			},
-			{
-				"text": "see, ",
-				"start": 3.82,
-				"end": 4.48,
-				"index": 84
-			},
-			{
-				"text": "for ",
-				"start": 4.72,
-				"end": 5.22,
-				"index": 85
-			},
-			{
-				"text": "you, ",
-				"start": 5.22,
-				"end": 5.56,
-				"index": 86
-			},
-			{
-				"text": "this ",
-				"start": 5.76,
-				"end": 6.2,
-				"index": 87
-			},
-			{
-				"text": "song ",
-				"start": 6.2,
-				"end": 6.6,
-				"index": 88
-			},
-			{
-				"text": "I ",
-				"start": 6.6,
-				"end": 6.92,
-				"index": 89
-			},
-			{
-				"text": "sing",
-				"start": 6.92,
-				"end": 7.22,
-				"index": 90
-			}
-		],
-		"start": 53.24,
-		"end": 60.46
-	},
-	{
-		"words": [
-			{
-				"text": "LeBron ",
-				"start": 0,
-				"end": 0.92,
-				"index": 91
-			},
-			{
-				"text": "James, ",
-				"start": 0.92,
-				"end": 1.7,
-				"index": 92
-			},
-			{
-				"text": "there's ",
-				"start": 2,
-				"end": 3.5,
-				"index": 93
-			},
-			{
-				"text": "no ",
-				"start": 3.5,
-				"end": 3.62,
-				"index": 94
-			},
-			{
-				"text": "player ",
-				"start": 3.62,
-				"end": 4.06,
-				"index": 95
-			},
-			{
-				"text": "better ",
-				"start": 4.06,
-				"end": 4.48,
-				"index": 96
-			},
-			{
-				"text": "than ",
-				"start": 4.48,
-				"end": 4.94,
-				"index": 97
-			},
-			{
-				"text": "you, ",
-				"start": 4.94,
-				"end": 5.66,
-				"index": 98
-			},
-			{
-				"text": "and ",
-				"start": 6.04,
-				"end": 7.22,
-				"index": 99
-			},
-			{
-				"text": "I ",
-				"start": 7.22,
-				"end": 7.54,
-				"index": 100
-			},
-			{
-				"text": "can't ",
-				"start": 7.54,
-				"end": 8.86,
-				"index": 101
-			},
-			{
-				"text": "name ",
-				"start": 8.86,
-				"end": 9.1,
-				"index": 102
-			},
-			{
-				"text": "a ",
-				"start": 9.1,
-				"end": 10,
-				"index": 103
-			},
-			{
-				"text": "player, ",
-				"start": 10,
-				"end": 10.64,
-				"index": 104
-			},
-			{
-				"text": "a ",
-				"start": 10.82,
-				"end": 11.36,
-				"index": 105
-			},
-			{
-				"text": "player ",
-				"start": 11.36,
-				"end": 11.84,
-				"index": 106
-			},
-			{
-				"text": "that ",
-				"start": 11.84,
-				"end": 12.08,
-				"index": 107
-			},
-			{
-				"text": "can ",
-				"start": 12.08,
-				"end": 12.58,
-				"index": 108
-			},
-			{
-				"text": "beat ",
-				"start": 12.58,
-				"end": 12.86,
-				"index": 109
-			},
-			{
-				"text": "you",
-				"start": 12.86,
-				"end": 13.32,
-				"index": 110
-			}
-		],
-		"start": 60.92,
-		"end": 74.24
-	},
-	{
-		"words": [
-			{
-				"text": "And ",
-				"start": 0,
-				"end": 0.72,
-				"index": 111
-			},
-			{
-				"text": "LeBron ",
-				"start": 0.72,
-				"end": 1.96,
-				"index": 112
-			},
-			{
-				"text": "James, ",
-				"start": 1.96,
-				"end": 2.78,
-				"index": 113
-			},
-			{
-				"text": "there's ",
-				"start": 3.46,
-				"end": 4.56,
-				"index": 114
-			},
-			{
-				"text": "no ",
-				"start": 4.56,
-				"end": 4.66,
-				"index": 115
-			},
-			{
-				"text": "one ",
-				"start": 4.66,
-				"end": 5.12,
-				"index": 116
-			},
-			{
-				"text": "on ",
-				"start": 5.12,
-				"end": 5.26,
-				"index": 117
-			},
-			{
-				"text": "earth ",
-				"start": 5.26,
-				"end": 5.62,
-				"index": 118
-			},
-			{
-				"text": "like ",
-				"start": 5.62,
-				"end": 6.14,
-				"index": 119
-			},
-			{
-				"text": "you",
-				"start": 6.14,
-				"end": 6.84,
-				"index": 120
-			}
-		],
-		"start": 74.86,
-		"end": 81.7
-	},
-	{
-		"words": [
-			{
-				"text": "And ",
-				"start": 0,
-				"end": 0.46,
-				"index": 121
-			},
-			{
-				"text": "there's",
-				"start": 0.46,
-				"end": 1.3,
-				"index": 122
-			}
-		],
-		"start": 81.92,
-		"end": 83.22
-	},
-	{
-		"words": [
-			{
-				"text": "Yes, they're mad ",
-				"start": 0,
-				"end": 0.4,
-				"index": 123
-			},
-			{
-				"text": "that ",
-				"start": 0.4,
-				"end": 0.82,
-				"index": 124
-			},
-			{
-				"text": "Jordan ",
-				"start": 0.82,
-				"end": 1.52,
-				"index": 125
-			},
-			{
-				"text": "is ",
-				"start": 1.52,
-				"end": 2.46,
-				"index": 126
-			},
-			{
-				"text": "number ",
-				"start": 2.46,
-				"end": 2.82,
-				"index": 127
-			},
-			{
-				"text": "two",
-				"start": 2.82,
-				"end": 3.92,
-				"index": 128
-			}
-		],
-		"start": 83.24,
-		"end": 87.16
-	},
-	{
-		"words": [
-			{
-				"text": "Yes, ",
-				"start": 0,
-				"end": 0.57,
-				"index": 129
-			},
-			{
-				"text": "they're ",
-				"start": 0.57,
-				"end": 1.07,
-				"index": 130
-			},
-			{
-				"text": "mad ",
-				"start": 1.07,
-				"end": 1.51,
-				"index": 131
-			},
-			{
-				"text": "that ",
-				"start": 1.51,
-				"end": 2.17,
-				"index": 132
-			},
-			{
-				"text": "Jordan ",
-				"start": 2.17,
-				"end": 2.77,
-				"index": 133
-			},
-			{
-				"text": "is ",
-				"start": 2.77,
-				"end": 3.81,
-				"index": 134
-			},
-			{
-				"text": "number ",
-				"start": 3.81,
-				"end": 4.25,
-				"index": 135
-			},
-			{
-				"text": "two",
-				"start": 4.25,
-				"end": 5.13,
-				"index": 136
-			}
-		],
-		"start": 89.43,
-		"end": 94.56
-	},
-	{
-		"words": [
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 1.14,
-				"index": 137
-			},
-			{
-				"text": "LeBron, ",
-				"start": 1.5,
-				"end": 2.4,
-				"index": 138
-			},
-			{
-				"text": "LeBron, ",
-				"start": 2.56,
-				"end": 5.04,
-				"index": 139
-			},
-			{
-				"text": "LeBron, ",
-				"start": 5.04,
-				"end": 8.1,
-				"index": 140
-			},
-			{
-				"text": "LeBron, ",
-				"start": 8.1,
-				"end": 8.64,
-				"index": 141
-			},
-			{
-				"text": "LeBron",
-				"start": 9,
-				"end": 12.2,
-				"index": 142
-			}
-		],
-		"start": 95.06,
-		"end": 107.26
-	},
-	{
-		"words": [
-			{
-				"text": "LeBron ",
-				"start": 0,
-				"end": 0.7,
-				"index": 143
-			},
-			{
-				"text": "James, there's no player better than you, better than you",
-				"start": 0.7,
-				"end": 0.7,
-				"index": 144
-			}
-		],
-		"start": 113.34,
-		"end": 114.04
+		"start": 60.47,
+		"end": 61.15
 	}
 ]

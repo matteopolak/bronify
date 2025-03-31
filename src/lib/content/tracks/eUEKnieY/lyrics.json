@@ -4,287 +4,281 @@
 			{
 				"text": "I'll ",
 				"start": 0,
-				"end": 0.9,
+				"end": 0.62,
 				"index": 0
 			},
 			{
 				"text": "always ",
-				"start": 0.9,
-				"end": 1.26,
+				"start": 0.62,
+				"end": 1,
 				"index": 1
 			},
 			{
-				"text": "be ",
-				"start": 1.26,
-				"end": 1.62,
+				"text": "be, ",
+				"start": 1,
+				"end": 1.34,
 				"index": 2
 			},
 			{
 				"text": "on ",
-				"start": 1.62,
-				"end": 3.46,
+				"start": 1.8,
+				"end": 3.1,
 				"index": 3
 			},
 			{
 				"text": "LeBron's ",
-				"start": 3.46,
-				"end": 4.14,
+				"start": 3.1,
+				"end": 3.98,
 				"index": 4
 			},
 			{
 				"text": "side",
-				"start": 4.14,
-				"end": 4.66,
+				"start": 3.98,
+				"end": 4.36,
 				"index": 5
 			}
 		],
-		"start": 0,
-		"end": 4.66
+		"start": 0.27,
+		"end": 4.63
 	},
 	{
 		"words": [
 			{
 				"text": "Can't ",
 				"start": 0,
-				"end": 5,
+				"end": 1.46,
 				"index": 6
 			},
 			{
 				"text": "change ",
-				"start": 5,
-				"end": 5.26,
+				"start": 5.05,
+				"end": 5.31,
 				"index": 7
 			},
 			{
 				"text": "my ",
-				"start": 5.26,
-				"end": 5.56,
+				"start": 5.31,
+				"end": 5.59,
 				"index": 8
 			},
 			{
 				"text": "mind, ",
-				"start": 5.56,
-				"end": 6.2,
+				"start": 5.59,
+				"end": 6.19,
 				"index": 9
 			},
 			{
 				"text": "even ",
-				"start": 6.34,
-				"end": 7.74,
+				"start": 6.55,
+				"end": 7.77,
 				"index": 10
 			},
 			{
 				"text": "if ",
-				"start": 7.74,
-				"end": 8.14,
+				"start": 7.77,
+				"end": 8.21,
 				"index": 11
 			},
 			{
 				"text": "you ",
-				"start": 8.14,
-				"end": 8.5,
+				"start": 8.21,
+				"end": 8.49,
 				"index": 12
 			},
 			{
-				"text": "try",
-				"start": 8.5,
-				"end": 9.02,
+				"text": "tried",
+				"start": 8.49,
+				"end": 9.25,
 				"index": 13
 			}
 		],
-		"start": 4.66,
-		"end": 13.68
+		"start": 4.63,
+		"end": 13.88
 	},
 	{
 		"words": [
 			{
-				"text": "Cause ",
+				"text": "Cuz ",
 				"start": 0,
-				"end": 1.34,
+				"end": 1.66,
 				"index": 14
 			},
 			{
 				"text": "he's ",
-				"start": 1.34,
-				"end": 2.32,
+				"start": 1.66,
+				"end": 2.12,
 				"index": 15
 			},
 			{
 				"text": "my ",
-				"start": 2.32,
-				"end": 2.46,
+				"start": 2.12,
+				"end": 2.26,
 				"index": 16
 			},
 			{
 				"text": "GOAT",
-				"start": 2.46,
-				"end": 3.34,
+				"start": 2.26,
+				"end": 3.12,
 				"index": 17
 			}
 		],
-		"start": 13.68,
-		"end": 17.02
+		"start": 13.88,
+		"end": 17
 	},
 	{
 		"words": [
 			{
 				"text": "Here's ",
 				"start": 0,
-				"end": 0.74,
+				"end": 0.76,
 				"index": 18
 			},
 			{
 				"text": "LeBron ",
-				"start": 0.74,
-				"end": 1.28,
+				"start": 0.76,
+				"end": 1.32,
 				"index": 19
 			},
 			{
 				"text": "James, ",
-				"start": 1.28,
-				"end": 1.72,
+				"start": 1.32,
+				"end": 1.74,
 				"index": 20
 			},
 			{
 				"text": "he's ",
-				"start": 2.12,
-				"end": 4.02,
+				"start": 2.16,
+				"end": 4.04,
 				"index": 21
 			},
 			{
 				"text": "my ",
-				"start": 4.02,
-				"end": 4.2,
+				"start": 4.04,
+				"end": 4.22,
 				"index": 22
 			},
 			{
-				"text": "sunshine",
-				"start": 4.2,
-				"end": 4.9,
+				"text": "sunshine ",
+				"start": 4.22,
+				"end": 4.98,
 				"index": 23
-			}
-		],
-		"start": 17.02,
-		"end": 21.92
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "I'll ",
-				"start": 0,
-				"end": 1.1,
+				"text": "I ",
+				"start": 4.98,
+				"end": 7.38,
 				"index": 24
 			},
 			{
 				"text": "watch ",
-				"start": 1.1,
-				"end": 1.42,
+				"start": 7.38,
+				"end": 10.4,
 				"index": 25
 			},
 			{
-				"text": "LeBron ",
-				"start": 1.42,
-				"end": 2.08,
+				"text": "LeBron, ",
+				"start": 10.4,
+				"end": 11.16,
 				"index": 26
 			},
 			{
-				"text": "every ",
-				"start": 2.08,
-				"end": 4,
+				"text": "everyday ",
+				"start": 11.7,
+				"end": 13.08,
 				"index": 27
 			},
 			{
-				"text": "day ",
-				"start": 4,
-				"end": 4.48,
+				"text": "of ",
+				"start": 13.08,
+				"end": 13.64,
 				"index": 28
 			},
 			{
-				"text": "of ",
-				"start": 4.48,
-				"end": 4.66,
+				"text": "my ",
+				"start": 13.64,
+				"end": 13.86,
 				"index": 29
 			},
 			{
-				"text": "my ",
-				"start": 4.66,
-				"end": 4.9,
+				"text": "life",
+				"start": 13.86,
+				"end": 14.5,
 				"index": 30
-			},
+			}
+		],
+		"start": 17,
+		"end": 31.5
+	},
+	{
+		"words": [
 			{
-				"text": "life ",
-				"start": 4.9,
-				"end": 5.58,
+				"text": "I ",
+				"start": 0,
+				"end": 1.24,
 				"index": 31
 			},
 			{
-				"text": "I ",
-				"start": 5.58,
-				"end": 10.1,
+				"text": "don't ",
+				"start": 4.6,
+				"end": 5.38,
 				"index": 32
 			},
 			{
-				"text": "don't ",
-				"start": 10.1,
-				"end": 10.68,
+				"text": "care, ",
+				"start": 5.38,
+				"end": 5.7,
 				"index": 33
 			},
 			{
-				"text": "care ",
-				"start": 10.68,
-				"end": 11.14,
+				"text": "what ",
+				"start": 5.82,
+				"end": 7.38,
 				"index": 34
 			},
 			{
-				"text": "what ",
-				"start": 11.14,
-				"end": 12.9,
+				"text": "they ",
+				"start": 7.38,
+				"end": 7.72,
 				"index": 35
 			},
 			{
-				"text": "they ",
-				"start": 12.9,
-				"end": 13.22,
-				"index": 36
-			},
-			{
 				"text": "say",
-				"start": 13.22,
-				"end": 13.76,
-				"index": 37
+				"start": 7.72,
+				"end": 8.26,
+				"index": 36
 			}
 		],
-		"start": 25.98,
-		"end": 39.74
+		"start": 31.5,
+		"end": 39.76
 	},
 	{
 		"words": [
 			{
 				"text": "You're ",
 				"start": 0,
-				"end": 0.9,
-				"index": 38
+				"end": 2.08,
+				"index": 37
 			},
 			{
 				"text": "my ",
-				"start": 0.9,
-				"end": 1.1,
-				"index": 39
+				"start": 2.08,
+				"end": 2.26,
+				"index": 38
 			},
 			{
 				"text": "King ",
-				"start": 1.1,
-				"end": 1.66,
-				"index": 40
+				"start": 2.26,
+				"end": 2.82,
+				"index": 39
 			},
 			{
 				"text": "James",
-				"start": 1.66,
-				"end": 2.16,
-				"index": 41
+				"start": 2.82,
+				"end": 3.36,
+				"index": 40
 			}
 		],
-		"start": 40.92,
-		"end": 43.08
+		"start": 39.76,
+		"end": 43.12
 	}
 ]

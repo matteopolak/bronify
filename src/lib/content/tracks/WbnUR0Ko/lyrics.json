@@ -2,319 +2,283 @@
 	{
 		"words": [
 			{
-				"text": "LeBronny, ",
+				"text": "He ",
 				"start": 0,
-				"end": 0.96,
+				"end": 1.1,
 				"index": 0
 			},
 			{
-				"text": "oh yea, ",
-				"start": 2.32,
-				"end": 2.64,
+				"text": "scored ",
+				"start": 3.73,
+				"end": 4.21,
 				"index": 1
 			},
 			{
-				"text": "on ",
-				"start": 2.7,
-				"end": 3.64,
+				"text": "better ",
+				"start": 4.21,
+				"end": 4.87,
 				"index": 2
 			},
 			{
-				"text": "the ",
-				"start": 3.64,
-				"end": 4.22,
+				"text": "than ",
+				"start": 4.87,
+				"end": 5.33,
 				"index": 3
 			},
 			{
-				"text": "court",
-				"start": 4.22,
-				"end": 4.52,
+				"text": "him ",
+				"start": 5.33,
+				"end": 5.71,
 				"index": 4
+			},
+			{
+				"text": "on ",
+				"start": 5.71,
+				"end": 5.97,
+				"index": 5
+			},
+			{
+				"text": "the ",
+				"start": 5.97,
+				"end": 6.11,
+				"index": 6
+			},
+			{
+				"text": "court",
+				"start": 6.11,
+				"end": 6.51,
+				"index": 7
 			}
 		],
-		"start": 5.34,
-		"end": 9.86
+		"start": 3.47,
+		"end": 9.98
 	},
 	{
 		"words": [
 			{
 				"text": "It ",
 				"start": 0,
-				"end": 0.7,
-				"index": 5
+				"end": 0.64,
+				"index": 8
 			},
 			{
 				"text": "ain't ",
-				"start": 0.7,
-				"end": 1.14,
-				"index": 6
+				"start": 0.64,
+				"end": 1.1,
+				"index": 9
 			},
 			{
-				"text": "glazing ",
-				"start": 1.14,
-				"end": 1.7,
-				"index": 7
+				"text": "glazin' ",
+				"start": 1.1,
+				"end": 1.58,
+				"index": 10
 			},
 			{
 				"text": "when ",
 				"start": 1.7,
-				"end": 2.92,
-				"index": 8
-			},
-			{
-				"text": "you're ",
-				"start": 2.92,
-				"end": 3.14,
-				"index": 9
-			},
-			{
-				"text": "the ",
-				"start": 3.14,
-				"end": 3.24,
-				"index": 10
-			},
-			{
-				"text": "world's ",
-				"start": 3.24,
-				"end": 3.72,
+				"end": 2.8,
 				"index": 11
 			},
 			{
-				"text": "greatest",
-				"start": 3.72,
-				"end": 4.16,
+				"text": "you're ",
+				"start": 2.8,
+				"end": 3.04,
 				"index": 12
+			},
+			{
+				"text": "the ",
+				"start": 3.04,
+				"end": 3.14,
+				"index": 13
+			},
+			{
+				"text": "world's ",
+				"start": 3.14,
+				"end": 3.6,
+				"index": 14
+			},
+			{
+				"text": "greatest",
+				"start": 3.6,
+				"end": 3.9,
+				"index": 15
 			}
 		],
-		"start": 9.86,
-		"end": 14.02
+		"start": 9.98,
+		"end": 13.88
 	},
 	{
 		"words": [
 			{
 				"text": "No ",
 				"start": 0,
-				"end": 0.48,
-				"index": 13
-			},
-			{
-				"text": "matter ",
-				"start": 0.48,
-				"end": 0.98,
-				"index": 14
-			},
-			{
-				"text": "how ",
-				"start": 0.98,
-				"end": 2.5,
-				"index": 15
-			},
-			{
-				"text": "long ",
-				"start": 2.5,
-				"end": 2.74,
+				"end": 0.64,
 				"index": 16
 			},
 			{
-				"text": "it ",
-				"start": 2.74,
-				"end": 3.16,
+				"text": "matter ",
+				"start": 0.64,
+				"end": 1.02,
 				"index": 17
 			},
 			{
-				"text": "takes, ",
-				"start": 3.16,
-				"end": 3.52,
+				"text": "how ",
+				"start": 1.02,
+				"end": 1.34,
 				"index": 18
 			},
 			{
-				"text": "ain't ",
-				"start": 3.8,
-				"end": 4.36,
+				"text": "long ",
+				"start": 1.34,
+				"end": 2.9,
 				"index": 19
 			},
 			{
-				"text": "no ",
-				"start": 4.36,
-				"end": 4.38,
+				"text": "it ",
+				"start": 2.9,
+				"end": 3.3,
 				"index": 20
 			},
 			{
-				"text": "record ",
-				"start": 4.38,
-				"end": 4.88,
+				"text": "take",
+				"start": 3.3,
+				"end": 3.7,
 				"index": 21
-			},
+			}
+		],
+		"start": 13.88,
+		"end": 17.58
+	},
+	{
+		"words": [
 			{
-				"text": "he ",
-				"start": 4.88,
-				"end": 5.36,
+				"text": "Ain't ",
+				"start": 0,
+				"end": 0.76,
 				"index": 22
 			},
 			{
-				"text": "won't ",
-				"start": 5.36,
-				"end": 5.66,
+				"text": "no ",
+				"start": 0.76,
+				"end": 0.84,
 				"index": 23
 			},
 			{
-				"text": "break",
-				"start": 5.66,
-				"end": 5.96,
+				"text": "record ",
+				"start": 0.84,
+				"end": 1.28,
 				"index": 24
-			}
-		],
-		"start": 14.02,
-		"end": 19.98
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "It ",
-				"start": 0,
-				"end": 0.56,
+				"text": "he ",
+				"start": 1.28,
+				"end": 1.78,
 				"index": 25
 			},
 			{
-				"text": "ain't ",
-				"start": 0.56,
-				"end": 1.04,
+				"text": "won't ",
+				"start": 1.78,
+				"end": 2.1,
 				"index": 26
 			},
 			{
-				"text": "glazing ",
-				"start": 1.04,
-				"end": 1.56,
+				"text": "break",
+				"start": 2.1,
+				"end": 2.44,
 				"index": 27
-			},
+			}
+		],
+		"start": 17.58,
+		"end": 20.02
+	},
+	{
+		"words": [
 			{
-				"text": "when ",
-				"start": 1.56,
-				"end": 2.76,
+				"text": "It ",
+				"start": 0,
+				"end": 0.52,
 				"index": 28
 			},
 			{
-				"text": "you're ",
-				"start": 2.76,
-				"end": 3.02,
+				"text": "ain't ",
+				"start": 0.52,
+				"end": 1,
 				"index": 29
 			},
 			{
-				"text": "the ",
-				"start": 3.02,
-				"end": 3.1,
+				"text": "glazin' ",
+				"start": 1,
+				"end": 1.52,
 				"index": 30
 			},
 			{
-				"text": "world's ",
-				"start": 3.1,
-				"end": 3.6,
+				"text": "when ",
+				"start": 1.72,
+				"end": 2.72,
 				"index": 31
 			},
 			{
-				"text": "greatest",
-				"start": 3.6,
-				"end": 4.04,
+				"text": "you're ",
+				"start": 2.72,
+				"end": 2.96,
 				"index": 32
-			}
-		],
-		"start": 19.98,
-		"end": 24.02
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "It ",
-				"start": 0,
-				"end": 1.6,
+				"text": "the ",
+				"start": 2.96,
+				"end": 3.06,
 				"index": 33
 			},
 			{
-				"text": "ain't ",
-				"start": 1.6,
-				"end": 6.98,
+				"text": "world's ",
+				"start": 3.06,
+				"end": 3.56,
 				"index": 34
 			},
 			{
-				"text": "blazin' ",
-				"start": 6.98,
-				"end": 7.56,
+				"text": "greatest",
+				"start": 3.56,
+				"end": 3.98,
 				"index": 35
-			},
-			{
-				"text": "when ",
-				"start": 7.9,
-				"end": 8.64,
-				"index": 36
-			},
-			{
-				"text": "your ",
-				"start": 8.64,
-				"end": 8.88,
-				"index": 37
-			},
-			{
-				"text": "world's ",
-				"start": 8.88,
-				"end": 9.64,
-				"index": 38
-			},
-			{
-				"text": "breakin'",
-				"start": 9.64,
-				"end": 9.92,
-				"index": 39
 			}
 		],
-		"start": 24.02,
-		"end": 33.94
+		"start": 20.02,
+		"end": 24
 	},
 	{
 		"words": [
 			{
 				"text": "It ",
 				"start": 0,
-				"end": 0.06,
-				"index": 40
+				"end": 1.42,
+				"index": 36
 			},
 			{
 				"text": "ain't ",
-				"start": 0.06,
-				"end": 1.24,
-				"index": 41
+				"start": 4.3,
+				"end": 13.22,
+				"index": 37
 			},
 			{
-				"text": "blazin' ",
-				"start": 1.24,
-				"end": 1.26,
-				"index": 42
+				"text": "glazin' ",
+				"start": 16.86,
+				"end": 17.52,
+				"index": 38
 			},
 			{
 				"text": "when ",
-				"start": 1.6,
-				"end": 1.8,
-				"index": 43
+				"start": 17.54,
+				"end": 18.02,
+				"index": 39
 			},
 			{
-				"text": "your ",
-				"start": 1.8,
-				"end": 8.8,
-				"index": 44
-			},
-			{
-				"text": "world's ",
-				"start": 8.8,
-				"end": 9.48,
-				"index": 45
-			},
-			{
-				"text": "breakin'",
-				"start": 9.48,
-				"end": 10.08,
-				"index": 46
+				"text": "you're the world's greatest",
+				"start": 18.02,
+				"end": 18.8,
+				"index": 40
 			}
 		],
-		"start": 34.02,
-		"end": 44.1
+		"start": 24,
+		"end": 42.8
 	}
 ]

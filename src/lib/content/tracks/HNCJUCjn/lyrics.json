@@ -4,12 +4,12 @@
 			{
 				"text": "I ",
 				"start": 0,
-				"end": 0.16,
+				"end": 0.18,
 				"index": 0
 			},
 			{
 				"text": "believe ",
-				"start": 0.16,
+				"start": 0.18,
 				"end": 0.68,
 				"index": 1
 			},
@@ -34,41 +34,41 @@
 			{
 				"text": "Just ",
 				"start": 0,
-				"end": 1.06,
+				"end": 2,
 				"index": 4
 			},
 			{
 				"text": "to ",
-				"start": 1.06,
-				"end": 1.3,
+				"start": 2,
+				"end": 2.26,
 				"index": 5
 			},
 			{
 				"text": "give ",
-				"start": 1.3,
-				"end": 1.66,
+				"start": 2.26,
+				"end": 2.64,
 				"index": 6
 			},
 			{
 				"text": "everything ",
-				"start": 1.66,
-				"end": 2.62,
+				"start": 2.64,
+				"end": 3.58,
 				"index": 7
 			},
 			{
 				"text": "we've ",
-				"start": 2.62,
-				"end": 3.4,
+				"start": 3.58,
+				"end": 4.36,
 				"index": 8
 			},
 			{
 				"text": "got",
-				"start": 3.4,
-				"end": 3.7,
+				"start": 4.36,
+				"end": 4.66,
 				"index": 9
 			}
 		],
-		"start": 2.88,
+		"start": 1.92,
 		"end": 6.58
 	},
 	{
@@ -106,23 +106,23 @@
 			{
 				"text": "Chasing ",
 				"start": 0,
-				"end": 1.08,
+				"end": 0.54,
 				"index": 14
 			},
 			{
 				"text": "every ",
-				"start": 1.08,
-				"end": 1.62,
+				"start": 0.54,
+				"end": 1.08,
 				"index": 15
 			},
 			{
 				"text": "dream",
-				"start": 1.62,
-				"end": 2.38,
+				"start": 1.08,
+				"end": 1.84,
 				"index": 16
 			}
 		],
-		"start": 10.26,
+		"start": 10.8,
 		"end": 12.64
 	},
 	{
@@ -136,23 +136,23 @@
 			{
 				"text": "journey's ",
 				"start": 1.08,
-				"end": 1.74,
+				"end": 1.76,
 				"index": 18
 			},
 			{
 				"text": "a ",
-				"start": 1.74,
-				"end": 1.84,
+				"start": 1.76,
+				"end": 1.86,
 				"index": 19
 			},
 			{
 				"text": "testament",
-				"start": 1.84,
-				"end": 2.32,
+				"start": 1.86,
+				"end": 2.34,
 				"index": 20
 			}
 		],
-		"start": 13.82,
+		"start": 13.8,
 		"end": 16.14
 	},
 	{
@@ -166,156 +166,162 @@
 			{
 				"text": "what ",
 				"start": 1.08,
-				"end": 1.3,
+				"end": 1.32,
 				"index": 22
 			},
 			{
 				"text": "hard ",
-				"start": 1.3,
-				"end": 1.64,
+				"start": 1.32,
+				"end": 1.66,
 				"index": 23
 			},
 			{
 				"text": "work ",
-				"start": 1.64,
-				"end": 1.9,
+				"start": 1.66,
+				"end": 1.92,
 				"index": 24
 			},
 			{
 				"text": "can ",
-				"start": 1.9,
-				"end": 2.32,
+				"start": 1.92,
+				"end": 2.34,
 				"index": 25
 			},
 			{
 				"text": "mean",
-				"start": 2.32,
-				"end": 2.76,
+				"start": 2.34,
+				"end": 2.74,
 				"index": 26
 			}
 		],
-		"start": 17.86,
-		"end": 20.62
+		"start": 17.84,
+		"end": 20.58
 	},
 	{
 		"words": [
 			{
-				"text": "From ",
+				"text": "From",
 				"start": 0,
-				"end": 1.08,
+				"end": 1.4,
 				"index": 27
-			},
+			}
+		],
+		"start": 20.58,
+		"end": 21.98
+	},
+	{
+		"words": [
 			{
 				"text": "Akron ",
-				"start": 1.08,
-				"end": 1.82,
+				"start": 0,
+				"end": 0.72,
 				"index": 28
 			},
 			{
 				"text": "streets ",
-				"start": 1.82,
-				"end": 2.08,
+				"start": 0.72,
+				"end": 0.98,
 				"index": 29
 			},
 			{
 				"text": "to ",
-				"start": 2.08,
-				"end": 3.08,
+				"start": 0.98,
+				"end": 1.98,
 				"index": 30
 			},
 			{
 				"text": "global ",
-				"start": 3.08,
-				"end": 3.46,
+				"start": 1.98,
+				"end": 2.36,
 				"index": 31
 			},
 			{
 				"text": "fame",
-				"start": 3.46,
-				"end": 4.18,
+				"start": 2.36,
+				"end": 3.06,
 				"index": 32
 			}
 		],
-		"start": 22.32,
-		"end": 26.5
+		"start": 23.42,
+		"end": 26.48
 	},
 	{
 		"words": [
 			{
 				"text": "We ",
 				"start": 0,
-				"end": 1.12,
+				"end": 0.54,
 				"index": 33
 			},
 			{
 				"text": "all ",
-				"start": 1.12,
-				"end": 1.5,
+				"start": 0.54,
+				"end": 0.94,
 				"index": 34
 			},
 			{
 				"text": "know ",
-				"start": 1.5,
-				"end": 2.02,
+				"start": 0.94,
+				"end": 1.44,
 				"index": 35
 			},
 			{
 				"text": "and ",
-				"start": 2.02,
-				"end": 2.92,
+				"start": 1.44,
+				"end": 2.36,
 				"index": 36
 			},
 			{
 				"text": "chant ",
-				"start": 2.92,
-				"end": 3.24,
+				"start": 2.36,
+				"end": 2.68,
 				"index": 37
 			},
 			{
 				"text": "his ",
-				"start": 3.24,
-				"end": 3.72,
+				"start": 2.68,
+				"end": 3.14,
 				"index": 38
 			},
 			{
 				"text": "name",
-				"start": 3.72,
-				"end": 4.14,
+				"start": 3.14,
+				"end": 3.52,
 				"index": 39
 			}
 		],
-		"start": 26.5,
-		"end": 30.64
+		"start": 27.06,
+		"end": 30.58
 	},
 	{
 		"words": [
 			{
 				"text": "I ",
 				"start": 0,
-				"end": 0.5,
+				"end": 0.58,
 				"index": 40
 			},
 			{
 				"text": "believe ",
-				"start": 0.5,
-				"end": 1.04,
+				"start": 0.58,
+				"end": 1.1,
 				"index": 41
 			},
 			{
 				"text": "in ",
-				"start": 1.04,
-				"end": 1.62,
+				"start": 1.1,
+				"end": 1.66,
 				"index": 42
 			},
 			{
 				"text": "LeBron",
-				"start": 1.62,
-				"end": 2.2,
+				"start": 1.66,
+				"end": 2.14,
 				"index": 43
 			}
 		],
-		"start": 30.64,
-		"end": 32.84
+		"start": 30.58,
+		"end": 32.72
 	},
 	{
 		"words": [
@@ -328,54 +334,54 @@
 			{
 				"text": "up ",
 				"start": 1.16,
-				"end": 1.42,
+				"end": 1.44,
 				"index": 45
 			},
 			{
 				"text": "the ",
-				"start": 1.42,
+				"start": 1.44,
 				"end": 1.76,
 				"index": 46
 			},
 			{
 				"text": "game",
 				"start": 1.76,
-				"end": 2.22,
+				"end": 2.26,
 				"index": 47
 			}
 		],
 		"start": 34.42,
-		"end": 36.64
+		"end": 36.68
 	},
 	{
 		"words": [
 			{
 				"text": "His ",
 				"start": 0,
-				"end": 1.44,
+				"end": 0.58,
 				"index": 48
 			},
 			{
 				"text": "legacy ",
-				"start": 1.44,
-				"end": 2.04,
+				"start": 0.58,
+				"end": 1.12,
 				"index": 49
 			},
 			{
 				"text": "and ",
-				"start": 2.04,
-				"end": 2.68,
+				"start": 1.12,
+				"end": 1.8,
 				"index": 50
 			},
 			{
 				"text": "spirit",
-				"start": 2.68,
-				"end": 3,
+				"start": 1.8,
+				"end": 2.16,
 				"index": 51
 			}
 		],
-		"start": 37.52,
-		"end": 40.52
+		"start": 38.38,
+		"end": 40.54
 	},
 	{
 		"words": [
@@ -388,102 +394,102 @@
 			{
 				"text": "aflame",
 				"start": 1.16,
-				"end": 2.14,
+				"end": 2.18,
 				"index": 53
 			}
 		],
 		"start": 42.44,
-		"end": 44.58
+		"end": 44.62
 	},
 	{
 		"words": [
 			{
 				"text": "As ",
 				"start": 0,
-				"end": 1.16,
+				"end": 0.58,
 				"index": 54
 			},
 			{
 				"text": "he ",
-				"start": 1.16,
-				"end": 1.58,
+				"start": 2.37,
+				"end": 2.67,
 				"index": 55
 			},
 			{
 				"text": "continues ",
-				"start": 1.58,
-				"end": 2.24,
+				"start": 2.67,
+				"end": 3.31,
 				"index": 56
 			},
 			{
 				"text": "to ",
-				"start": 2.24,
-				"end": 2.76,
+				"start": 3.31,
+				"end": 3.85,
 				"index": 57
 			},
 			{
 				"text": "defy ",
-				"start": 2.76,
-				"end": 3.64,
+				"start": 3.85,
+				"end": 4.73,
 				"index": 58
 			},
 			{
 				"text": "the ",
-				"start": 3.64,
-				"end": 3.84,
+				"start": 4.73,
+				"end": 4.91,
 				"index": 59
 			},
 			{
 				"text": "odds",
-				"start": 3.84,
-				"end": 4.26,
+				"start": 4.91,
+				"end": 5.31,
 				"index": 60
 			}
 		],
-		"start": 46.38,
-		"end": 50.64
+		"start": 45.3,
+		"end": 50.61
 	},
 	{
 		"words": [
 			{
 				"text": "We ",
 				"start": 0,
-				"end": 0.74,
+				"end": 0.76,
 				"index": 61
 			},
 			{
 				"text": "stand ",
-				"start": 0.74,
-				"end": 1.06,
+				"start": 0.76,
+				"end": 1.1,
 				"index": 62
 			},
 			{
 				"text": "united ",
-				"start": 1.06,
-				"end": 1.86,
+				"start": 1.1,
+				"end": 1.9,
 				"index": 63
 			},
 			{
 				"text": "giving ",
-				"start": 1.86,
-				"end": 2.58,
+				"start": 1.9,
+				"end": 2.6,
 				"index": 64
 			},
 			{
 				"text": "our ",
-				"start": 2.58,
-				"end": 3.2,
+				"start": 2.6,
+				"end": 3.22,
 				"index": 65
 			},
 			{
 				"text": "applause",
-				"start": 3.2,
-				"end": 3.82,
+				"start": 3.22,
+				"end": 3.86,
 				"index": 66
 			}
 		],
-		"start": 50.64,
-		"end": 54.46
+		"start": 50.61,
+		"end": 54.47
 	},
 	{
 		"words": [
@@ -502,449 +508,209 @@
 			{
 				"text": "in ",
 				"start": 1.22,
-				"end": 1.78,
+				"end": 1.76,
 				"index": 69
 			},
 			{
 				"text": "LeBron",
-				"start": 1.78,
-				"end": 2.22,
+				"start": 1.76,
+				"end": 2.58,
 				"index": 70
 			}
 		],
-		"start": 54.46,
-		"end": 56.68
+		"start": 54.47,
+		"end": 57.05
 	},
 	{
 		"words": [
 			{
 				"text": "I ",
 				"start": 0,
-				"end": 1.12,
+				"end": 0.88,
 				"index": 71
 			},
 			{
 				"text": "believe ",
-				"start": 1.12,
-				"end": 2.2,
+				"start": 0.88,
+				"end": 1.28,
 				"index": 72
 			},
 			{
 				"text": "in ",
-				"start": 2.2,
-				"end": 2.82,
+				"start": 1.28,
+				"end": 1.84,
 				"index": 73
 			},
 			{
 				"text": "LeBron",
-				"start": 2.82,
-				"end": 3.5,
+				"start": 1.84,
+				"end": 2.44,
 				"index": 74
 			}
 		],
-		"start": 57.46,
-		"end": 60.96
+		"start": 58.37,
+		"end": 60.81
 	},
 	{
 		"words": [
 			{
 				"text": "I ",
 				"start": 0,
-				"end": 1.46,
+				"end": 0.86,
 				"index": 75
 			},
 			{
 				"text": "believe ",
-				"start": 1.46,
-				"end": 2.7,
+				"start": 0.86,
+				"end": 1.28,
 				"index": 76
 			},
 			{
 				"text": "in ",
-				"start": 2.7,
-				"end": 3.26,
+				"start": 1.28,
+				"end": 1.86,
 				"index": 77
 			},
 			{
 				"text": "LeBron",
-				"start": 3.26,
-				"end": 4.2,
+				"start": 1.86,
+				"end": 2.74,
 				"index": 78
 			}
 		],
-		"start": 60.96,
-		"end": 65.16
+		"start": 62.37,
+		"end": 65.11
 	},
 	{
 		"words": [
 			{
-				"text": "Oh, ",
+				"text": "Oh ",
 				"start": 0,
-				"end": 2.58,
+				"end": 1.12,
 				"index": 79
 			},
 			{
-				"text": "oh, ",
-				"start": 2.7,
-				"end": 3.64,
+				"text": "the ",
+				"start": 1.12,
+				"end": 2.12,
 				"index": 80
 			},
 			{
-				"text": "oh",
-				"start": 3.74,
-				"end": 5.56,
+				"text": "sky",
+				"start": 73.61,
+				"end": 74.03,
 				"index": 81
 			}
 		],
-		"start": 65.16,
-		"end": 70.72
-	},
-	{
-		"words": [
-			{
-				"text": "Oh, ",
-				"start": 0,
-				"end": 1.28,
-				"index": 82
-			},
-			{
-				"text": "oh, ",
-				"start": 1.38,
-				"end": 5.18,
-				"index": 83
-			},
-			{
-				"text": "oh",
-				"start": 5.42,
-				"end": 6.6,
-				"index": 84
-			}
-		],
-		"start": 71.46,
-		"end": 78.06
-	},
-	{
-		"words": [
-			{
-				"text": "Oh, ",
-				"start": 0,
-				"end": 1.78,
-				"index": 85
-			},
-			{
-				"text": "oh, ",
-				"start": 1.8,
-				"end": 2.64,
-				"index": 86
-			},
-			{
-				"text": "ohOh, ",
-				"start": 3.6,
-				"end": 84.08,
-				"index": 87
-			},
-			{
-				"text": "oh, ",
-				"start": 6.02,
-				"end": 11.26,
-				"index": 88
-			},
-			{
-				"text": "oh, ",
-				"start": 11.38,
-				"end": 14.62,
-				"index": 89
-			},
-			{
-				"text": "oh, ",
-				"start": 15.24,
-				"end": 15.54,
-				"index": 90
-			},
-			{
-				"text": "oh",
-				"start": 17.84,
-				"end": 18.5,
-				"index": 91
-			}
-		],
-		"start": 78.06,
-		"end": 162.14
-	},
-	{
-		"words": [
-			{
-				"text": "I'm",
-				"start": 0,
-				"end": 5.02,
-				"index": 92
-			}
-		],
-		"start": 98.58,
-		"end": 103.6
-	},
-	{
-		"words": [
-			{
-				"text": "Oh, ",
-				"start": 0,
-				"end": 1.34,
-				"index": 93
-			},
-			{
-				"text": "oh, ",
-				"start": 3.34,
-				"end": 4.14,
-				"index": 94
-			},
-			{
-				"text": "oh, ",
-				"start": 4.32,
-				"end": 5.28,
-				"index": 95
-			},
-			{
-				"text": "oh, oh, ",
-				"start": 8.24,
-				"end": 9.14,
-				"index": 96
-			},
-			{
-				"text": "oh",
-				"start": 10.9,
-				"end": 13.04,
-				"index": 97
-			}
-		],
-		"start": 103.6,
-		"end": 116.64
-	},
-	{
-		"words": [
-			{
-				"text": "Oh, ",
-				"start": 0,
-				"end": 1,
-				"index": 98
-			},
-			{
-				"text": "oh, ",
-				"start": 1,
-				"end": 2,
-				"index": 99
-			},
-			{
-				"text": "oh, ",
-				"start": 2.28,
-				"end": 2.96,
-				"index": 100
-			},
-			{
-				"text": "oh, ",
-				"start": 5.66,
-				"end": 5.68,
-				"index": 101
-			},
-			{
-				"text": "oh, ",
-				"start": 6.18,
-				"end": 7.04,
-				"index": 102
-			},
-			{
-				"text": "oh",
-				"start": 8.04,
-				"end": 11.1,
-				"index": 103
-			}
-		],
-		"start": 121.64,
-		"end": 132.74
-	},
-	{
-		"words": [
-			{
-				"text": "I ",
-				"start": 0,
-				"end": 0.26,
-				"index": 104
-			},
-			{
-				"text": "believe ",
-				"start": 0.26,
-				"end": 0.84,
-				"index": 105
-			},
-			{
-				"text": "in ",
-				"start": 0.84,
-				"end": 1.38,
-				"index": 106
-			},
-			{
-				"text": "that ",
-				"start": 1.38,
-				"end": 1.6,
-				"index": 107
-			},
-			{
-				"text": "broad, ",
-				"start": 1.6,
-				"end": 1.9,
-				"index": 108
-			},
-			{
-				"text": "reaching ",
-				"start": 2.22,
-				"end": 4.32,
-				"index": 109
-			},
-			{
-				"text": "for ",
-				"start": 4.32,
-				"end": 4.76,
-				"index": 110
-			},
-			{
-				"text": "the ",
-				"start": 4.76,
-				"end": 5.24,
-				"index": 111
-			},
-			{
-				"text": "sky",
-				"start": 5.24,
-				"end": 5.64,
-				"index": 112
-			}
-		],
-		"start": 134.86,
-		"end": 140.5
+		"start": 66.41,
+		"end": 140.44
 	},
 	{
 		"words": [
 			{
 				"text": "With ",
 				"start": 0,
-				"end": 0.5,
-				"index": 113
+				"end": 0.96,
+				"index": 82
 			},
 			{
 				"text": "every ",
-				"start": 0.5,
-				"end": 0.98,
-				"index": 114
+				"start": 2.43,
+				"end": 2.81,
+				"index": 83
 			},
 			{
 				"text": "game ",
-				"start": 0.98,
-				"end": 1.4,
-				"index": 115
+				"start": 2.81,
+				"end": 3.25,
+				"index": 84
 			},
 			{
 				"text": "he ",
-				"start": 1.4,
-				"end": 1.84,
-				"index": 116
+				"start": 3.25,
+				"end": 3.81,
+				"index": 85
 			},
 			{
 				"text": "plays",
-				"start": 1.84,
-				"end": 2.34,
-				"index": 117
+				"start": 3.81,
+				"end": 4.23,
+				"index": 86
 			}
 		],
-		"start": 142.4,
-		"end": 144.74
-	},
-	{
-		"words": [
-			{
-				"text": "Oh, ",
-				"start": 0,
-				"end": 1,
-				"index": 118
-			},
-			{
-				"text": "oh, oh, oh, oh, oh",
-				"start": 1.26,
-				"end": 1.26,
-				"index": 119
-			}
-		],
-		"start": 145.36,
-		"end": 146.62
+		"start": 140.44,
+		"end": 144.67
 	},
 	{
 		"words": [
 			{
 				"text": "He ",
 				"start": 0,
-				"end": 0.6,
-				"index": 120
+				"end": 1.12,
+				"index": 87
 			},
 			{
 				"text": "aims ",
-				"start": 0.6,
-				"end": 1.22,
-				"index": 121
+				"start": 1.12,
+				"end": 1.8,
+				"index": 88
 			},
 			{
 				"text": "to ",
-				"start": 1.22,
-				"end": 1.52,
-				"index": 122
+				"start": 1.8,
+				"end": 2.1,
+				"index": 89
 			},
 			{
 				"text": "fly",
-				"start": 1.52,
-				"end": 1.84,
-				"index": 123
+				"start": 2.1,
+				"end": 2.44,
+				"index": 90
 			}
 		],
-		"start": 146.64,
-		"end": 148.48
+		"start": 146.05,
+		"end": 148.49
 	},
 	{
 		"words": [
 			{
 				"text": "From ",
 				"start": 0,
-				"end": 1.04,
-				"index": 124
+				"end": 0.8,
+				"index": 91
 			},
 			{
 				"text": "humble ",
-				"start": 1.04,
-				"end": 1.6,
-				"index": 125
+				"start": 2.85,
+				"end": 3.43,
+				"index": 92
 			},
 			{
 				"text": "beginnings ",
-				"start": 1.6,
-				"end": 2.14,
-				"index": 126
+				"start": 3.43,
+				"end": 3.97,
+				"index": 93
 			},
 			{
 				"text": "to ",
-				"start": 2.14,
-				"end": 3.12,
-				"index": 127
+				"start": 3.97,
+				"end": 4.93,
+				"index": 94
 			},
 			{
 				"text": "championship ",
-				"start": 3.12,
-				"end": 3.66,
-				"index": 128
+				"start": 4.93,
+				"end": 5.49,
+				"index": 95
 			},
 			{
 				"text": "rings",
-				"start": 3.66,
-				"end": 4.3,
-				"index": 129
+				"start": 5.49,
+				"end": 6.13,
+				"index": 96
 			}
 		],
-		"start": 150.32,
+		"start": 148.49,
 		"end": 154.62
 	},
 	{
@@ -952,77 +718,77 @@
 			{
 				"text": "He ",
 				"start": 0,
-				"end": 0.4,
-				"index": 130
+				"end": 0.8,
+				"index": 97
 			},
 			{
 				"text": "shows ",
-				"start": 0.4,
-				"end": 0.9,
-				"index": 131
+				"start": 0.8,
+				"end": 1.26,
+				"index": 98
 			},
 			{
 				"text": "us ",
-				"start": 0.9,
-				"end": 1.26,
-				"index": 132
+				"start": 1.26,
+				"end": 1.66,
+				"index": 99
 			},
 			{
 				"text": "all ",
-				"start": 1.26,
-				"end": 1.58,
-				"index": 133
+				"start": 1.66,
+				"end": 1.96,
+				"index": 100
 			},
 			{
 				"text": "what ",
-				"start": 1.58,
-				"end": 1.96,
-				"index": 134
+				"start": 1.96,
+				"end": 2.36,
+				"index": 101
 			},
 			{
 				"text": "dedication ",
-				"start": 1.96,
-				"end": 2.58,
-				"index": 135
+				"start": 2.36,
+				"end": 2.96,
+				"index": 102
 			},
 			{
 				"text": "brings",
-				"start": 2.58,
-				"end": 3.5,
-				"index": 136
+				"start": 2.96,
+				"end": 3.92,
+				"index": 103
 			}
 		],
-		"start": 155.02,
-		"end": 158.52
+		"start": 154.62,
+		"end": 158.54
 	},
 	{
 		"words": [
 			{
 				"text": "I ",
 				"start": 0,
-				"end": 0.54,
-				"index": 137
+				"end": 0.64,
+				"index": 104
 			},
 			{
 				"text": "believe ",
-				"start": 0.54,
-				"end": 1.06,
-				"index": 138
+				"start": 0.64,
+				"end": 1.18,
+				"index": 105
 			},
 			{
 				"text": "in ",
-				"start": 1.06,
-				"end": 1.64,
-				"index": 139
+				"start": 1.18,
+				"end": 1.72,
+				"index": 106
 			},
 			{
 				"text": "LeBron",
-				"start": 1.64,
-				"end": 2.12,
-				"index": 140
+				"start": 1.72,
+				"end": 2.24,
+				"index": 107
 			}
 		],
-		"start": 158.66,
+		"start": 158.54,
 		"end": 160.78
 	}
 ]

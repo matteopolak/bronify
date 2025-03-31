@@ -4,12 +4,12 @@
 			{
 				"text": "That",
 				"start": 0,
-				"end": 0.44,
+				"end": 0.16,
 				"index": 0
 			}
 		],
-		"start": 7.32,
-		"end": 7.76
+		"start": 7.66,
+		"end": 7.82
 	},
 	{
 		"words": [
@@ -22,23 +22,23 @@
 			{
 				"text": "whippin' ",
 				"start": 0.26,
-				"end": 0.66,
+				"end": 0.58,
 				"index": 2
 			},
 			{
 				"text": "like ",
-				"start": 0.66,
-				"end": 0.74,
+				"start": 0.6,
+				"end": 0.68,
 				"index": 3
 			},
 			{
 				"text": "a",
-				"start": 0.74,
-				"end": 0.88,
+				"start": 0.68,
+				"end": 0.82,
 				"index": 4
 			}
 		],
-		"start": 7.76,
+		"start": 7.82,
 		"end": 8.64
 	},
 	{
@@ -58,12 +58,12 @@
 			{
 				"text": "You ",
 				"start": 0,
-				"end": 1.06,
+				"end": 1.04,
 				"index": 6
 			},
 			{
 				"text": "know ",
-				"start": 1.06,
+				"start": 1.04,
 				"end": 1.24,
 				"index": 7
 			},
@@ -81,7 +81,7 @@
 			},
 			{
 				"text": "California",
-				"start": 1.66,
+				"start": 1.64,
 				"end": 1.98,
 				"index": 10
 			}
@@ -94,107 +94,107 @@
 			{
 				"text": "He ",
 				"start": 0,
-				"end": 0.44,
+				"end": 0.74,
 				"index": 11
 			},
 			{
 				"text": "got ",
-				"start": 0.44,
-				"end": 0.66,
+				"start": 0.74,
+				"end": 1.48,
 				"index": 12
 			},
 			{
 				"text": "like ",
-				"start": 0.66,
-				"end": 0.76,
+				"start": 1.48,
+				"end": 1.6,
 				"index": 13
 			},
 			{
 				"text": "50",
-				"start": 0.76,
-				"end": 0.98,
+				"start": 1.6,
+				"end": 1.82,
 				"index": 14
 			},
 			{
 				"text": ",000",
-				"start": 0.98,
-				"end": 1.3,
+				"start": 1.82,
+				"end": 2.14,
 				"index": 15
 			}
 		],
-		"start": 11.76,
+		"start": 10.92,
 		"end": 13.06
 	},
 	{
 		"words": [
 			{
-				"text": "Porsche's ",
+				"text": "Porsche, ",
 				"start": 0,
-				"end": 0.36,
+				"end": 0.22,
 				"index": 16
 			},
 			{
-				"text": "sold",
-				"start": 0.36,
-				"end": 0.54,
+				"text": "so",
+				"start": 0.3,
+				"end": 0.44,
 				"index": 17
 			}
 		],
 		"start": 13.06,
-		"end": 13.6
+		"end": 13.5
 	},
 	{
 		"words": [
 			{
 				"text": "Forget ",
 				"start": 0,
-				"end": 0.96,
+				"end": 1.02,
 				"index": 18
 			},
 			{
 				"text": "them ",
-				"start": 0.96,
-				"end": 1.16,
+				"start": 1.02,
+				"end": 1.26,
 				"index": 19
 			},
 			{
 				"text": "ladies, ",
-				"start": 1.16,
-				"end": 1.38,
+				"start": 1.26,
+				"end": 1.46,
 				"index": 20
 			},
 			{
 				"text": "give ",
-				"start": 1.42,
-				"end": 1.58,
+				"start": 1.54,
+				"end": 1.66,
 				"index": 21
 			},
 			{
 				"text": "him ",
-				"start": 1.58,
-				"end": 1.74,
+				"start": 1.66,
+				"end": 1.82,
 				"index": 22
 			},
 			{
 				"text": "all ",
-				"start": 1.74,
-				"end": 1.92,
+				"start": 1.82,
+				"end": 2.02,
 				"index": 23
 			},
 			{
 				"text": "the ",
-				"start": 1.92,
-				"end": 2.02,
+				"start": 2.02,
+				"end": 2.12,
 				"index": 24
 			},
 			{
 				"text": "love",
-				"start": 2.02,
-				"end": 2.32,
+				"start": 2.12,
+				"end": 2.42,
 				"index": 25
 			}
 		],
-		"start": 13.6,
+		"start": 13.5,
 		"end": 15.92
 	},
 	{
@@ -202,161 +202,173 @@
 			{
 				"text": "And ",
 				"start": 0,
-				"end": 0.44,
+				"end": 1.1,
 				"index": 26
 			},
 			{
 				"text": "I ",
-				"start": 0.44,
-				"end": 0.66,
+				"start": 1.1,
+				"end": 1.34,
 				"index": 27
 			},
 			{
 				"text": "say, ",
-				"start": 0.66,
-				"end": 0.94,
+				"start": 1.34,
+				"end": 1.6,
 				"index": 28
 			},
 			{
-				"text": "Bron, ",
-				"start": 0.94,
-				"end": 1.18,
+				"text": "Bron",
+				"start": 1.6,
+				"end": 1.82,
 				"index": 29
-			},
-			{
-				"text": "the ",
-				"start": 1.46,
-				"end": 2.08,
-				"index": 30
-			},
-			{
-				"text": "way ",
-				"start": 2.08,
-				"end": 2.28,
-				"index": 31
-			},
-			{
-				"text": "y",
-				"start": 2.28,
-				"end": 2.42,
-				"index": 32
-			},
-			{
-				"text": "'all ",
-				"start": 2.42,
-				"end": 2.56,
-				"index": 33
-			},
-			{
-				"text": "see ",
-				"start": 2.56,
-				"end": 2.72,
-				"index": 34
-			},
-			{
-				"text": "you ",
-				"start": 2.72,
-				"end": 3.02,
-				"index": 35
-			},
-			{
-				"text": "in",
-				"start": 3.02,
-				"end": 3.36,
-				"index": 36
 			}
 		],
-		"start": 16.58,
-		"end": 19.94
+		"start": 15.92,
+		"end": 17.74
 	},
 	{
 		"words": [
 			{
-				"text": "It's a ",
+				"text": "The ",
 				"start": 0,
-				"end": 0.88,
-				"index": 37
+				"end": 0.5,
+				"index": 30
 			},
 			{
-				"text": "mixture ",
-				"start": 0.88,
-				"end": 1.24,
-				"index": 38
+				"text": "way ",
+				"start": 0.5,
+				"end": 1.1,
+				"index": 31
 			},
 			{
-				"text": "of ",
-				"start": 1.24,
-				"end": 1.68,
-				"index": 39
+				"text": "y",
+				"start": 1.1,
+				"end": 1.26,
+				"index": 32
 			},
 			{
-				"text": "your ",
-				"start": 1.68,
-				"end": 1.88,
-				"index": 40
+				"text": "'all ",
+				"start": 1.26,
+				"end": 1.36,
+				"index": 33
 			},
 			{
-				"text": "ambition",
-				"start": 1.88,
-				"end": 2.42,
-				"index": 41
+				"text": "see ",
+				"start": 1.36,
+				"end": 1.56,
+				"index": 34
+			},
+			{
+				"text": "you ",
+				"start": 1.56,
+				"end": 1.86,
+				"index": 35
+			},
+			{
+				"text": "in",
+				"start": 1.86,
+				"end": 2.22,
+				"index": 36
 			}
 		],
-		"start": 19.94,
-		"end": 22.36
+		"start": 17.74,
+		"end": 19.96
 	},
 	{
 		"words": [
 			{
 				"text": "It's ",
 				"start": 0,
-				"end": 0.62,
+				"end": 0.86,
+				"index": 37
+			},
+			{
+				"text": "a ",
+				"start": 0.86,
+				"end": 0.88,
+				"index": 38
+			},
+			{
+				"text": "mixture ",
+				"start": 0.88,
+				"end": 1.22,
+				"index": 39
+			},
+			{
+				"text": "of ",
+				"start": 1.22,
+				"end": 1.64,
+				"index": 40
+			},
+			{
+				"text": "your ",
+				"start": 1.64,
+				"end": 1.86,
+				"index": 41
+			},
+			{
+				"text": "ambition",
+				"start": 1.86,
+				"end": 2.42,
 				"index": 42
+			}
+		],
+		"start": 19.96,
+		"end": 22.38
+	},
+	{
+		"words": [
+			{
+				"text": "It's ",
+				"start": 0,
+				"end": 0.6,
+				"index": 43
 			},
 			{
 				"text": "how ",
-				"start": 0.62,
+				"start": 0.6,
 				"end": 0.64,
-				"index": 43
+				"index": 44
 			},
 			{
 				"text": "you ",
 				"start": 0.64,
-				"end": 0.78,
-				"index": 44
-			},
-			{
-				"text": "wrap ",
-				"start": 0.78,
-				"end": 0.96,
+				"end": 0.74,
 				"index": 45
 			},
 			{
-				"text": "your ",
-				"start": 0.96,
-				"end": 1.08,
+				"text": "wrap ",
+				"start": 0.74,
+				"end": 0.94,
 				"index": 46
 			},
 			{
-				"text": "head ",
-				"start": 1.08,
-				"end": 1.24,
+				"text": "your ",
+				"start": 0.94,
+				"end": 1.04,
 				"index": 47
 			},
 			{
-				"text": "around ",
-				"start": 1.24,
-				"end": 1.44,
+				"text": "head ",
+				"start": 1.04,
+				"end": 1.22,
 				"index": 48
 			},
 			{
-				"text": "it",
-				"start": 1.44,
-				"end": 1.62,
+				"text": "around ",
+				"start": 1.22,
+				"end": 1.42,
 				"index": 49
+			},
+			{
+				"text": "it",
+				"start": 1.42,
+				"end": 1.6,
+				"index": 50
 			}
 		],
-		"start": 22.36,
+		"start": 22.38,
 		"end": 23.98
 	},
 	{
@@ -364,317 +376,305 @@
 			{
 				"text": "Then ",
 				"start": 0,
-				"end": 0.14,
-				"index": 50
+				"end": 0.12,
+				"index": 51
 			},
 			{
 				"text": "apply ",
-				"start": 0.14,
+				"start": 0.12,
 				"end": 0.3,
-				"index": 51
+				"index": 52
 			},
 			{
 				"text": "to ",
 				"start": 0.3,
-				"end": 0.54,
-				"index": 52
+				"end": 0.52,
+				"index": 53
 			},
 			{
 				"text": "things ",
-				"start": 0.54,
+				"start": 0.52,
 				"end": 0.72,
-				"index": 53
+				"index": 54
 			},
 			{
 				"text": "you ",
 				"start": 0.72,
 				"end": 0.84,
-				"index": 54
-			},
-			{
-				"text": "know, ",
-				"start": 0.84,
-				"end": 1.08,
 				"index": 55
 			},
 			{
-				"text": "oh",
-				"start": 1.22,
-				"end": 1.72,
+				"text": "know",
+				"start": 0.84,
+				"end": 1.06,
 				"index": 56
 			}
 		],
 		"start": 23.98,
-		"end": 25.7
+		"end": 25.04
 	},
 	{
 		"words": [
 			{
 				"text": "And ",
 				"start": 0,
-				"end": 0.4,
+				"end": 0.7,
 				"index": 57
 			},
 			{
 				"text": "I ",
-				"start": 0.4,
-				"end": 0.44,
+				"start": 0.7,
+				"end": 1.1,
 				"index": 58
 			},
 			{
 				"text": "say, ",
-				"start": 0.44,
-				"end": 0.76,
+				"start": 1.1,
+				"end": 1.36,
 				"index": 59
 			},
 			{
-				"text": "Bron, ",
-				"start": 0.76,
-				"end": 0.98,
+				"text": "Bron ",
+				"start": 1.44,
+				"end": 1.76,
 				"index": 60
 			},
 			{
 				"text": "I ",
-				"start": 1.36,
-				"end": 1.86,
+				"start": 1.76,
+				"end": 2.48,
 				"index": 61
 			},
 			{
 				"text": "know ",
-				"start": 1.86,
-				"end": 2.08,
+				"start": 2.48,
+				"end": 2.74,
 				"index": 62
 			},
 			{
 				"text": "you ",
-				"start": 2.08,
-				"end": 2.28,
+				"start": 2.74,
+				"end": 2.92,
 				"index": 63
 			},
 			{
 				"text": "pay ",
-				"start": 2.28,
-				"end": 2.58,
+				"start": 2.92,
+				"end": 3.24,
 				"index": 64
 			},
 			{
 				"text": "too ",
-				"start": 2.58,
-				"end": 2.86,
+				"start": 3.24,
+				"end": 3.5,
 				"index": 65
 			},
 			{
 				"text": "much",
-				"start": 2.86,
-				"end": 3.42,
+				"start": 3.5,
+				"end": 4.12,
 				"index": 66
 			}
 		],
-		"start": 25.7,
-		"end": 29.12
+		"start": 25.04,
+		"end": 29.16
 	},
 	{
 		"words": [
 			{
 				"text": "The ",
 				"start": 0,
-				"end": 0.58,
+				"end": 0.52,
 				"index": 67
 			},
 			{
 				"text": "way ",
-				"start": 0.58,
-				"end": 0.84,
+				"start": 0.52,
+				"end": 0.82,
 				"index": 68
 			},
 			{
 				"text": "you ",
-				"start": 0.84,
-				"end": 1.06,
+				"start": 0.82,
+				"end": 1.02,
 				"index": 69
 			},
 			{
 				"text": "lift ",
-				"start": 1.06,
-				"end": 1.38,
+				"start": 1.02,
+				"end": 1.34,
 				"index": 70
 			},
 			{
 				"text": "me ",
-				"start": 1.38,
-				"end": 1.64,
+				"start": 1.34,
+				"end": 1.58,
 				"index": 71
 			},
 			{
-				"text": "up, ",
-				"start": 1.64,
-				"end": 2.16,
+				"text": "up",
+				"start": 1.58,
+				"end": 1.98,
 				"index": 72
-			},
-			{
-				"text": "oh",
-				"start": 2.18,
-				"end": 2.5,
-				"index": 73
 			}
 		],
-		"start": 29.12,
-		"end": 31.62
+		"start": 29.16,
+		"end": 31.14
 	},
 	{
 		"words": [
 			{
 				"text": "And ",
 				"start": 0,
-				"end": 0.82,
-				"index": 74
+				"end": 1.2,
+				"index": 73
 			},
 			{
 				"text": "we'll ",
-				"start": 0.82,
-				"end": 1.36,
-				"index": 75
+				"start": 1.2,
+				"end": 1.84,
+				"index": 74
 			},
 			{
 				"text": "be ",
-				"start": 1.36,
-				"end": 1.44,
-				"index": 76
+				"start": 1.84,
+				"end": 1.92,
+				"index": 75
 			},
 			{
 				"text": "right ",
-				"start": 1.44,
-				"end": 1.7,
-				"index": 77
+				"start": 1.92,
+				"end": 2.18,
+				"index": 76
 			},
 			{
 				"text": "here ",
-				"start": 1.7,
-				"end": 1.98,
-				"index": 78
+				"start": 2.18,
+				"end": 2.46,
+				"index": 77
 			},
 			{
 				"text": "with ",
-				"start": 1.98,
-				"end": 2.18,
-				"index": 79
+				"start": 2.46,
+				"end": 2.66,
+				"index": 78
 			},
 			{
 				"text": "you ",
-				"start": 2.18,
-				"end": 2.32,
-				"index": 80
+				"start": 2.66,
+				"end": 2.76,
+				"index": 79
 			},
 			{
 				"text": "till ",
-				"start": 2.32,
-				"end": 2.48,
-				"index": 81
+				"start": 2.76,
+				"end": 2.96,
+				"index": 80
 			},
 			{
 				"text": "the ",
-				"start": 2.48,
-				"end": 2.58,
-				"index": 82
+				"start": 2.96,
+				"end": 3.08,
+				"index": 81
 			},
 			{
 				"text": "end",
-				"start": 2.58,
-				"end": 2.76,
-				"index": 83
+				"start": 3.08,
+				"end": 3.2,
+				"index": 82
 			}
 		],
-		"start": 31.62,
-		"end": 34.38
+		"start": 31.14,
+		"end": 34.34
 	},
 	{
 		"words": [
 			{
 				"text": "That",
 				"start": 0,
-				"end": 0.14,
-				"index": 84
+				"end": 0.16,
+				"index": 83
 			}
 		],
-		"start": 34.38,
-		"end": 34.52
+		"start": 34.34,
+		"end": 34.5
 	},
 	{
 		"words": [
 			{
 				"text": "Nebby ",
 				"start": 0,
-				"end": 0.28,
-				"index": 85
+				"end": 0.24,
+				"index": 84
 			},
 			{
 				"text": "whippin' ",
-				"start": 0.28,
+				"start": 0.24,
 				"end": 0.56,
-				"index": 86
+				"index": 85
 			},
 			{
 				"text": "like ",
 				"start": 0.56,
-				"end": 0.64,
-				"index": 87
+				"end": 0.66,
+				"index": 86
 			},
 			{
 				"text": "a",
-				"start": 0.64,
+				"start": 0.66,
 				"end": 0.78,
-				"index": 88
+				"index": 87
 			}
 		],
-		"start": 34.52,
-		"end": 35.3
+		"start": 34.5,
+		"end": 35.28
 	},
 	{
 		"words": [
 			{
 				"text": "Porsche",
 				"start": 0,
-				"end": 0.3,
-				"index": 89
+				"end": 0.36,
+				"index": 88
 			}
 		],
-		"start": 35.3,
-		"end": 35.6
+		"start": 35.28,
+		"end": 35.64
 	},
 	{
 		"words": [
 			{
 				"text": "You ",
 				"start": 0,
-				"end": 0.48,
-				"index": 90
+				"end": 1.02,
+				"index": 89
 			},
 			{
 				"text": "know ",
-				"start": 0.48,
-				"end": 0.72,
-				"index": 91
+				"start": 1.02,
+				"end": 1.2,
+				"index": 90
 			},
 			{
 				"text": "who ",
-				"start": 0.72,
-				"end": 0.84,
-				"index": 92
+				"start": 1.2,
+				"end": 1.3,
+				"index": 91
 			},
 			{
 				"text": "payin' ",
-				"start": 0.84,
-				"end": 1.12,
-				"index": 93
+				"start": 1.3,
+				"end": 1.58,
+				"index": 92
 			},
 			{
 				"text": "California",
-				"start": 1.16,
-				"end": 1.44,
-				"index": 94
+				"start": 1.6,
+				"end": 1.92,
+				"index": 93
 			}
 		],
-		"start": 36.12,
+		"start": 35.64,
 		"end": 37.56
 	},
 	{
@@ -682,107 +682,167 @@
 			{
 				"text": "He ",
 				"start": 0,
-				"end": 1.3,
-				"index": 95
+				"end": 0.44,
+				"index": 94
 			},
 			{
 				"text": "got ",
-				"start": 1.3,
-				"end": 1.52,
-				"index": 96
+				"start": 0.44,
+				"end": 0.7,
+				"index": 95
 			},
 			{
 				"text": "like ",
-				"start": 1.52,
-				"end": 1.62,
-				"index": 97
+				"start": 0.7,
+				"end": 0.8,
+				"index": 96
 			},
 			{
 				"text": "50",
-				"start": 1.62,
-				"end": 1.88,
-				"index": 98
+				"start": 0.8,
+				"end": 1.06,
+				"index": 97
 			},
 			{
 				"text": ",000",
-				"start": 1.88,
-				"end": 2.18,
-				"index": 99
+				"start": 1.06,
+				"end": 1.34,
+				"index": 98
 			}
 		],
-		"start": 37.56,
-		"end": 39.74
+		"start": 38.38,
+		"end": 39.72
 	},
 	{
 		"words": [
 			{
-				"text": "Porsche's ",
+				"text": "Porsche, ",
 				"start": 0,
-				"end": 0.34,
-				"index": 100
+				"end": 0.22,
+				"index": 99
 			},
 			{
-				"text": "sold",
-				"start": 0.34,
-				"end": 0.52,
-				"index": 101
+				"text": "so",
+				"start": 0.3,
+				"end": 0.42,
+				"index": 100
 			}
 		],
-		"start": 39.74,
-		"end": 40.26
+		"start": 39.72,
+		"end": 40.14
 	},
 	{
 		"words": [
 			{
 				"text": "Forget ",
 				"start": 0,
-				"end": 0.3,
-				"index": 102
+				"end": 1.04,
+				"index": 101
 			},
 			{
 				"text": "them ",
-				"start": 0.3,
-				"end": 0.54,
-				"index": 103
+				"start": 1.04,
+				"end": 1.28,
+				"index": 102
 			},
 			{
 				"text": "ladies, ",
-				"start": 0.54,
-				"end": 0.74,
-				"index": 104
+				"start": 1.28,
+				"end": 1.5,
+				"index": 103
 			},
 			{
 				"text": "give ",
-				"start": 0.84,
-				"end": 0.94,
-				"index": 105
+				"start": 1.56,
+				"end": 1.7,
+				"index": 104
 			},
 			{
 				"text": "him ",
-				"start": 0.94,
-				"end": 1.1,
-				"index": 106
+				"start": 1.7,
+				"end": 1.84,
+				"index": 105
 			},
 			{
 				"text": "all ",
-				"start": 1.1,
-				"end": 1.28,
-				"index": 107
+				"start": 1.84,
+				"end": 2.04,
+				"index": 106
 			},
 			{
 				"text": "the ",
-				"start": 1.28,
-				"end": 1.38,
-				"index": 108
+				"start": 2.04,
+				"end": 2.14,
+				"index": 107
 			},
 			{
 				"text": "love",
-				"start": 1.38,
-				"end": 1.62,
+				"start": 2.14,
+				"end": 2.38,
+				"index": 108
+			}
+		],
+		"start": 40.14,
+		"end": 42.52
+	},
+	{
+		"words": [
+			{
+				"text": "That",
+				"start": 0,
+				"end": 0.1,
 				"index": 109
 			}
 		],
-		"start": 40.9,
-		"end": 42.52
+		"start": 42.52,
+		"end": 42.62
+	},
+	{
+		"words": [
+			{
+				"text": "Nebby ",
+				"start": 0,
+				"end": 0.2,
+				"index": 110
+			},
+			{
+				"text": "whippin' like a",
+				"start": 0.2,
+				"end": 0.36,
+				"index": 111
+			}
+		],
+		"start": 42.62,
+		"end": 42.98
+	},
+	{
+		"words": [
+			{
+				"text": "Porsche You ",
+				"start": 0,
+				"end": 43.42,
+				"index": 112
+			},
+			{
+				"text": "know ",
+				"start": 0.44,
+				"end": 0.72,
+				"index": 113
+			},
+			{
+				"text": "who payin' ",
+				"start": 0.72,
+				"end": 0.78,
+				"index": 114
+			},
+			{
+				"text": "California",
+				"start": 1,
+				"end": 1,
+				"index": 115
+			}
+		],
+		"start": 42.98,
+		"end": 43.98
 	}
 ]

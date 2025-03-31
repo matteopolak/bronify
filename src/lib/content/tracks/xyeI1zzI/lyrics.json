@@ -2,146 +2,146 @@
 	{
 		"words": [
 			{
-				"text": "listen ",
-				"start": 5.58,
-				"end": 6.44,
+				"text": "listen, ",
+				"start": 5.71,
+				"end": 6.49,
 				"index": 0
 			},
 			{
 				"text": "out ",
-				"start": 6.44,
-				"end": 7.3,
+				"start": 6.49,
+				"end": 7.27,
 				"index": 1
 			},
 			{
 				"text": "for ",
-				"start": 7.3,
-				"end": 7.54,
+				"start": 7.27,
+				"end": 7.53,
 				"index": 2
 			},
 			{
 				"text": "too ",
-				"start": 7.54,
-				"end": 7.82,
+				"start": 7.53,
+				"end": 7.83,
 				"index": 3
 			},
 			{
 				"text": "long ",
-				"start": 7.82,
-				"end": 8.24,
+				"start": 7.83,
+				"end": 8.23,
 				"index": 4
 			},
 			{
 				"text": "it's ",
-				"start": 8.24,
-				"end": 8.54,
+				"start": 8.23,
+				"end": 8.63,
 				"index": 5
 			},
 			{
 				"text": "you ",
-				"start": 8.54,
-				"end": 8.64,
+				"start": 8.63,
+				"end": 8.65,
 				"index": 6
 			},
 			{
 				"text": "i'm ",
-				"start": 8.64,
-				"end": 9.08,
+				"start": 8.65,
+				"end": 9.05,
 				"index": 7
 			},
 			{
-				"text": "missing ",
-				"start": 9.08,
-				"end": 9.6,
+				"text": "missing, ",
+				"start": 9.05,
+				"end": 9.61,
 				"index": 8
 			},
 			{
 				"text": "straining ",
-				"start": 9.6,
-				"end": 11.82,
+				"start": 9.95,
+				"end": 11.83,
 				"index": 9
 			},
 			{
 				"text": "your ",
-				"start": 11.82,
-				"end": 12.12,
+				"start": 11.83,
+				"end": 12.11,
 				"index": 10
 			},
 			{
 				"text": "groin ",
-				"start": 12.12,
-				"end": 12.64,
+				"start": 12.11,
+				"end": 12.63,
 				"index": 11
 			},
 			{
 				"text": "from ",
-				"start": 12.64,
-				"end": 12.92,
+				"start": 12.63,
+				"end": 12.93,
 				"index": 12
 			},
 			{
 				"text": "the ",
-				"start": 12.92,
-				"end": 13.16,
+				"start": 12.93,
+				"end": 13.17,
 				"index": 13
 			},
 			{
 				"text": "celtics ",
-				"start": 13.16,
-				"end": 14.32,
+				"start": 13.17,
+				"end": 14.31,
 				"index": 14
 			},
 			{
 				"text": "match ",
-				"start": 14.32,
-				"end": 14.68,
+				"start": 14.31,
+				"end": 14.69,
 				"index": 15
 			},
 			{
 				"text": "got ",
-				"start": 14.68,
-				"end": 15.12,
+				"start": 14.69,
+				"end": 15.13,
 				"index": 16
 			},
 			{
 				"text": "me ",
-				"start": 15.12,
-				"end": 15.26,
+				"start": 15.13,
+				"end": 15.27,
 				"index": 17
 			},
 			{
 				"text": "falling ",
-				"start": 15.26,
-				"end": 15.94,
+				"start": 15.27,
+				"end": 15.99,
 				"index": 18
 			},
 			{
 				"text": "apart ",
-				"start": 15.94,
-				"end": 16.62,
+				"start": 15.99,
+				"end": 16.59,
 				"index": 19
 			},
 			{
-				"text": "yeah ",
-				"start": 21.21,
-				"end": 21.64,
+				"text": "yeah, ",
+				"start": 21,
+				"end": 21.78,
 				"index": 20
 			},
 			{
-				"text": "tension ",
-				"start": 21.64,
-				"end": 22.5,
+				"text": "tension, ",
+				"start": 21.78,
+				"end": 22.56,
 				"index": 21
 			},
 			{
 				"text": "between ",
-				"start": 22.5,
-				"end": 24.22,
+				"start": 23.14,
+				"end": 24.34,
 				"index": 22
 			},
 			{
 				"text": "you ",
-				"start": 24.22,
+				"start": 24.34,
 				"end": 24.74,
 				"index": 23
 			},
@@ -160,269 +160,251 @@
 			{
 				"text": "ball ",
 				"start": 25.22,
-				"end": 25.56,
+				"end": 25.58,
 				"index": 26
 			},
 			{
 				"text": "from ",
-				"start": 25.56,
+				"start": 25.58,
 				"end": 25.78,
 				"index": 27
 			},
 			{
-				"text": "the ",
+				"text": "a ",
 				"start": 25.78,
 				"end": 26.06,
 				"index": 28
 			},
 			{
-				"text": "distance",
+				"text": "distance, ",
 				"start": 26.06,
-				"end": 26.78,
+				"end": 26.84,
 				"index": 29
-			}
-		],
-		"start": -1,
-		"end": 25.78
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Ronnie ",
-				"start": 0,
-				"end": 0.66,
+				"text": "bronny ",
+				"start": 27.44,
+				"end": 29.1,
 				"index": 30
 			},
 			{
 				"text": "on ",
-				"start": 0.66,
-				"end": 1.24,
+				"start": 29.1,
+				"end": 29.28,
 				"index": 31
 			},
 			{
 				"text": "the ",
-				"start": 1.24,
-				"end": 1.48,
+				"start": 29.28,
+				"end": 29.5,
 				"index": 32
 			},
 			{
 				"text": "court ",
-				"start": 1.48,
-				"end": 1.86,
+				"start": 29.5,
+				"end": 29.86,
 				"index": 33
 			},
 			{
 				"text": "watch ",
-				"start": 1.86,
-				"end": 2.18,
+				"start": 29.86,
+				"end": 30.2,
 				"index": 34
 			},
 			{
 				"text": "him ",
-				"start": 2.18,
-				"end": 2.42,
+				"start": 30.2,
+				"end": 30.46,
 				"index": 35
 			},
 			{
 				"text": "shoot ",
-				"start": 2.42,
-				"end": 2.64,
+				"start": 30.46,
+				"end": 30.68,
 				"index": 36
 			},
 			{
 				"text": "it ",
-				"start": 2.64,
-				"end": 3.16,
+				"start": 30.68,
+				"end": 31.2,
 				"index": 37
 			},
 			{
 				"text": "for ",
-				"start": 3.16,
-				"end": 3.34,
+				"start": 31.2,
+				"end": 31.38,
 				"index": 38
 			},
 			{
-				"text": "now ",
-				"start": 3.34,
-				"end": 3.62,
+				"text": "now, ",
+				"start": 31.38,
+				"end": 31.68,
 				"index": 39
 			},
 			{
 				"text": "sitting ",
-				"start": 3.62,
-				"end": 4.26,
+				"start": 32,
+				"end": 32.36,
 				"index": 40
 			},
 			{
 				"text": "out ",
-				"start": 4.26,
-				"end": 4.84,
+				"start": 32.36,
+				"end": 32.88,
 				"index": 41
 			},
 			{
 				"text": "from ",
-				"start": 4.84,
-				"end": 5.3,
+				"start": 32.88,
+				"end": 33.28,
 				"index": 42
 			},
 			{
-				"text": "afar",
-				"start": 5.3,
-				"end": 5.66,
+				"text": "afar ",
+				"start": 33.28,
+				"end": 33.72,
 				"index": 43
-			}
-		],
-		"start": 27.02,
-		"end": 32.68
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Bron ",
-				"start": 0,
-				"end": 0.66,
+				"text": "bronny i ",
+				"start": 39.08,
+				"end": 39.76,
 				"index": 44
 			},
 			{
-				"text": "I ",
-				"start": 0.66,
-				"end": 0.8,
+				"text": "miss ",
+				"start": 39.76,
+				"end": 40.04,
 				"index": 45
 			},
 			{
-				"text": "miss ",
-				"start": 0.8,
-				"end": 1.08,
+				"text": "you ",
+				"start": 40.04,
+				"end": 40.24,
 				"index": 46
 			},
 			{
-				"text": "you ",
-				"start": 1.08,
-				"end": 1.34,
+				"text": "every ",
+				"start": 40.24,
+				"end": 40.72,
 				"index": 47
 			},
 			{
-				"text": "every ",
-				"start": 1.34,
-				"end": 1.82,
+				"text": "day, ",
+				"start": 40.72,
+				"end": 41.12,
 				"index": 48
 			},
 			{
-				"text": "day ",
-				"start": 1.82,
-				"end": 2.22,
+				"text": "on ",
+				"start": 41.44,
+				"end": 42.62,
 				"index": 49
 			},
 			{
-				"text": "on ",
-				"start": 2.22,
-				"end": 3.78,
+				"text": "the ",
+				"start": 42.62,
+				"end": 42.86,
 				"index": 50
 			},
 			{
-				"text": "the ",
-				"start": 3.78,
-				"end": 4,
+				"text": "court ",
+				"start": 42.86,
+				"end": 43.26,
 				"index": 51
 			},
 			{
-				"text": "court ",
-				"start": 4,
-				"end": 4.3,
+				"text": "you ",
+				"start": 43.26,
+				"end": 43.46,
 				"index": 52
 			},
 			{
-				"text": "you ",
-				"start": 4.3,
-				"end": 4.54,
+				"text": "need ",
+				"start": 43.46,
+				"end": 43.74,
 				"index": 53
 			},
 			{
-				"text": "need ",
-				"start": 4.54,
-				"end": 4.84,
+				"text": "to ",
+				"start": 43.74,
+				"end": 43.94,
 				"index": 54
 			},
 			{
-				"text": "to ",
-				"start": 4.84,
-				"end": 5.04,
+				"text": "stay, ",
+				"start": 43.94,
+				"end": 44.32,
 				"index": 55
 			},
 			{
-				"text": "stay ",
-				"start": 5.04,
-				"end": 5.4,
+				"text": "get ",
+				"start": 44.68,
+				"end": 45.86,
 				"index": 56
 			},
 			{
-				"text": "get ",
-				"start": 6.63,
-				"end": 6.96,
+				"text": "well ",
+				"start": 45.86,
+				"end": 46.12,
 				"index": 57
 			},
 			{
-				"text": "well ",
-				"start": 6.96,
-				"end": 7.2,
+				"text": "soon ",
+				"start": 46.12,
+				"end": 46.4,
 				"index": 58
 			},
 			{
-				"text": "soon ",
-				"start": 7.2,
-				"end": 7.5,
+				"text": "cuz ",
+				"start": 46.4,
+				"end": 46.7,
 				"index": 59
 			},
 			{
-				"text": "cause ",
-				"start": 7.5,
-				"end": 7.82,
+				"text": "anyway ",
+				"start": 46.7,
+				"end": 47.3,
 				"index": 60
 			},
 			{
-				"text": "anyway ",
-				"start": 7.82,
-				"end": 8.44,
+				"text": "you've ",
+				"start": 47.3,
+				"end": 48.18,
 				"index": 61
 			},
 			{
-				"text": "you've ",
-				"start": 8.44,
-				"end": 9.3,
+				"text": "been ",
+				"start": 48.18,
+				"end": 48.42,
 				"index": 62
 			},
 			{
-				"text": "been ",
-				"start": 9.3,
-				"end": 9.52,
+				"text": "gone ",
+				"start": 48.42,
+				"end": 48.78,
 				"index": 63
 			},
 			{
-				"text": "gone ",
-				"start": 9.52,
-				"end": 9.86,
+				"text": "too ",
+				"start": 48.78,
+				"end": 48.96,
 				"index": 64
 			},
 			{
-				"text": "too ",
-				"start": 9.86,
-				"end": 10.06,
+				"text": "long, ",
+				"start": 48.96,
+				"end": 49.44,
 				"index": 65
 			},
 			{
-				"text": "long ",
-				"start": 10.06,
-				"end": 10.48,
-				"index": 66
-			},
-			{
 				"text": "long",
-				"start": 12.62,
-				"end": 13.28,
-				"index": 67
+				"start": 51.23,
+				"end": 52.15,
+				"index": 66
 			}
 		],
-		"start": 37.9,
-		"end": 51.18
+		"start": -1,
+		"end": 51.15
 	}
 ]

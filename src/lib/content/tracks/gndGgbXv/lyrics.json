@@ -3,85 +3,85 @@
 		"words": [
 			{
 				"text": "greatness ",
-				"start": 1,
+				"start": 1.94,
 				"end": 2.66,
 				"index": 0
 			},
 			{
 				"text": "on ",
 				"start": 2.66,
-				"end": 4.9,
+				"end": 4.94,
 				"index": 1
 			},
 			{
 				"text": "the ",
-				"start": 4.9,
-				"end": 5.34,
+				"start": 4.94,
+				"end": 5.32,
 				"index": 2
 			},
 			{
 				"text": "court ",
-				"start": 5.34,
-				"end": 6.4,
+				"start": 5.32,
+				"end": 6.42,
 				"index": 3
 			},
 			{
 				"text": "he ",
-				"start": 6.4,
-				"end": 7.34,
+				"start": 6.42,
+				"end": 7.36,
 				"index": 4
 			},
 			{
 				"text": "is ",
-				"start": 7.34,
-				"end": 7.92,
+				"start": 7.36,
+				"end": 7.88,
 				"index": 5
 			},
 			{
 				"text": "the ",
-				"start": 7.92,
+				"start": 7.88,
 				"end": 9.78,
 				"index": 6
 			},
 			{
 				"text": "best ",
 				"start": 9.78,
-				"end": 10.82,
+				"end": 10.8,
 				"index": 7
 			},
 			{
 				"text": "part ",
-				"start": 10.82,
-				"end": 11.32,
+				"start": 10.8,
+				"end": 11.3,
 				"index": 8
 			},
 			{
 				"text": "copy ",
-				"start": 11.32,
-				"end": 12.2,
+				"start": 11.3,
+				"end": 12.22,
 				"index": 9
 			},
 			{
 				"text": "him ",
-				"start": 12.2,
-				"end": 12.54,
+				"start": 12.22,
+				"end": 12.48,
 				"index": 10
 			},
 			{
 				"text": "when ",
-				"start": 12.54,
-				"end": 14.54,
+				"start": 12.48,
+				"end": 14.58,
 				"index": 11
 			},
 			{
 				"text": "we ",
-				"start": 14.54,
-				"end": 15.16,
+				"start": 14.58,
+				"end": 15.14,
 				"index": 12
 			},
 			{
 				"text": "play ",
-				"start": 15.16,
+				"start": 15.14,
 				"end": 16.1,
 				"index": 13
 			},
@@ -94,72 +94,72 @@
 			{
 				"text": "the ",
 				"start": 18.28,
-				"end": 18.44,
+				"end": 18.42,
 				"index": 15
 			},
 			{
 				"text": "LeBron ",
-				"start": 18.44,
+				"start": 18.42,
 				"end": 20,
 				"index": 16
 			},
 			{
 				"text": "way ",
 				"start": 20,
-				"end": 21,
+				"end": 21.02,
 				"index": 17
 			},
 			{
 				"text": "for ",
-				"start": 21,
-				"end": 21.84,
+				"start": 21.02,
+				"end": 21.88,
 				"index": 18
 			},
 			{
 				"text": "rings ",
-				"start": 21.84,
-				"end": 22.4,
+				"start": 21.88,
+				"end": 22.34,
 				"index": 19
 			},
 			{
 				"text": "he ",
-				"start": 22.4,
+				"start": 22.34,
 				"end": 23.96,
 				"index": 20
 			},
 			{
 				"text": "needs ",
 				"start": 23.96,
-				"end": 24.5,
+				"end": 24.42,
 				"index": 21
 			},
 			{
 				"text": "one ",
-				"start": 24.5,
-				"end": 24.88,
+				"start": 24.42,
+				"end": 24.86,
 				"index": 22
 			},
 			{
 				"text": "more ",
-				"start": 24.88,
-				"end": 25.82,
+				"start": 24.86,
+				"end": 25.8,
 				"index": 23
 			},
 			{
 				"text": "50k ",
-				"start": 25.82,
+				"start": 25.8,
 				"end": 28.74,
 				"index": 24
 			},
 			{
 				"text": "points ",
 				"start": 28.74,
-				"end": 29.18,
+				"end": 29.32,
 				"index": 25
 			},
 			{
 				"text": "he ",
-				"start": 29.18,
+				"start": 29.32,
 				"end": 29.7,
 				"index": 26
 			},
@@ -190,12 +190,12 @@
 			{
 				"text": "thing ",
 				"start": 33.26,
-				"end": 33.7,
+				"end": 33.68,
 				"index": 31
 			},
 			{
 				"text": "I ",
-				"start": 33.7,
+				"start": 33.68,
 				"end": 34.26,
 				"index": 32
 			},
@@ -214,215 +214,179 @@
 			{
 				"text": "that's ",
 				"start": 36.06,
-				"end": 37.66,
+				"end": 37.68,
 				"index": 35
 			},
 			{
 				"text": "the ",
-				"start": 37.66,
+				"start": 37.68,
 				"end": 37.82,
 				"index": 36
 			},
 			{
-				"text": "LeBron ",
+				"text": "LeBron",
 				"start": 37.82,
 				"end": 39.42,
 				"index": 37
-			},
-			{
-				"text": "way ",
-				"start": 39.42,
-				"end": 40.36,
-				"index": 38
-			},
-			{
-				"text": "LeBron ",
-				"start": 40.36,
-				"end": 41.56,
-				"index": 39
-			},
-			{
-				"text": "James ",
-				"start": 41.56,
-				"end": 42.18,
-				"index": 40
-			},
-			{
-				"text": "is ",
-				"start": 42.18,
-				"end": 42.54,
-				"index": 41
-			},
-			{
-				"text": "the ",
-				"start": 42.54,
-				"end": 42.82,
-				"index": 42
-			},
-			{
-				"text": "Lakers ",
-				"start": 42.82,
-				"end": 43.24,
-				"index": 43
-			},
-			{
-				"text": "every ",
-				"start": 43.24,
-				"end": 43.84,
-				"index": 44
-			},
-			{
-				"text": "single ",
-				"start": 43.84,
-				"end": 44.48,
-				"index": 45
-			},
-			{
-				"text": "day ",
-				"start": 44.48,
-				"end": 45.2,
-				"index": 46
-			},
-			{
-				"text": "LeBron ",
-				"start": 45.2,
-				"end": 46.4,
-				"index": 47
-			},
-			{
-				"text": "James ",
-				"start": 46.4,
-				"end": 46.82,
-				"index": 48
-			},
-			{
-				"text": "is ",
-				"start": 46.82,
-				"end": 47.28,
-				"index": 49
-			},
-			{
-				"text": "the ",
-				"start": 47.28,
-				"end": 47.56,
-				"index": 50
-			},
-			{
-				"text": "best ",
-				"start": 47.56,
-				"end": 47.92,
-				"index": 51
-			},
-			{
-				"text": "of ",
-				"start": 47.92,
-				"end": 48.2,
-				"index": 52
-			},
-			{
-				"text": "all ",
-				"start": 48.2,
-				"end": 48.52,
-				"index": 53
-			},
-			{
-				"text": "his ",
-				"start": 48.52,
-				"end": 48.86,
-				"index": 54
-			},
-			{
-				"text": "teammates",
-				"start": 48.86,
-				"end": 49.58,
-				"index": 55
 			}
 		],
 		"start": -1,
-		"end": 48.58
+		"end": 38.42
+	},
+	{
+		"words": [
+			{
+				"text": "James ",
+				"start": 0,
+				"end": 0.98,
+				"index": 38
+			},
+			{
+				"text": "he's ",
+				"start": 0.98,
+				"end": 1.76,
+				"index": 39
+			},
+			{
+				"text": "the ",
+				"start": 1.76,
+				"end": 1.9,
+				"index": 40
+			},
+			{
+				"text": "Lakers ",
+				"start": 1.9,
+				"end": 2.4,
+				"index": 41
+			},
+			{
+				"text": "every ",
+				"start": 2.4,
+				"end": 3.02,
+				"index": 42
+			},
+			{
+				"text": "single ",
+				"start": 3.02,
+				"end": 3.64,
+				"index": 43
+			},
+			{
+				"text": "day ",
+				"start": 3.64,
+				"end": 4.38,
+				"index": 44
+			},
+			{
+				"text": "LeBron ",
+				"start": 4.38,
+				"end": 5.58,
+				"index": 45
+			},
+			{
+				"text": "James ",
+				"start": 5.58,
+				"end": 6,
+				"index": 46
+			},
+			{
+				"text": "is ",
+				"start": 6,
+				"end": 6.46,
+				"index": 47
+			},
+			{
+				"text": "the ",
+				"start": 6.46,
+				"end": 6.7,
+				"index": 48
+			},
+			{
+				"text": "best ",
+				"start": 6.7,
+				"end": 7.1,
+				"index": 49
+			},
+			{
+				"text": "of ",
+				"start": 7.1,
+				"end": 7.36,
+				"index": 50
+			},
+			{
+				"text": "all ",
+				"start": 7.36,
+				"end": 7.68,
+				"index": 51
+			},
+			{
+				"text": "his ",
+				"start": 7.68,
+				"end": 8.04,
+				"index": 52
+			},
+			{
+				"text": "teammates",
+				"start": 8.04,
+				"end": 8.74,
+				"index": 53
+			}
+		],
+		"start": 39.83,
+		"end": 48.57
 	},
 	{
 		"words": [
 			{
 				"text": "LeBron ",
 				"start": 0,
-				"end": 1.66,
-				"index": 56
+				"end": 0.66,
+				"index": 54
 			},
 			{
 				"text": "James ",
-				"start": 1.66,
-				"end": 2.16,
-				"index": 57
-			},
-			{
-				"text": "there ",
-				"start": 2.16,
-				"end": 2.6,
-				"index": 58
-			},
-			{
-				"text": "is ",
-				"start": 2.6,
-				"end": 2.98,
-				"index": 59
-			},
-			{
-				"text": "one ",
-				"start": 2.98,
-				"end": 3.12,
-				"index": 60
-			},
-			{
-				"text": "thing ",
-				"start": 3.12,
-				"end": 3.46,
-				"index": 61
-			},
-			{
-				"text": "I ",
-				"start": 3.46,
-				"end": 3.72,
-				"index": 62
+				"start": 0.66,
+				"end": 1.16,
+				"index": 55
 			},
 			{
 				"text": "gotta ",
-				"start": 3.72,
-				"end": 4.42,
-				"index": 63
+				"start": 3.16,
+				"end": 3.74,
+				"index": 56
 			},
 			{
 				"text": "say ",
-				"start": 4.42,
-				"end": 5.28,
-				"index": 64
+				"start": 3.74,
+				"end": 4.26,
+				"index": 57
 			},
 			{
 				"text": "that's ",
-				"start": 5.28,
-				"end": 7.5,
-				"index": 65
+				"start": 4.26,
+				"end": 6.48,
+				"index": 58
 			},
 			{
 				"text": "the ",
-				"start": 7.5,
-				"end": 7.64,
-				"index": 66
+				"start": 6.48,
+				"end": 6.62,
+				"index": 59
 			},
 			{
 				"text": "LeBron ",
-				"start": 7.64,
-				"end": 9.54,
-				"index": 67
+				"start": 6.62,
+				"end": 8.42,
+				"index": 60
 			},
 			{
 				"text": "way",
-				"start": 9.54,
-				"end": 10.16,
-				"index": 68
+				"start": 8.42,
+				"end": 9.16,
+				"index": 61
 			}
 		],
-		"start": 48.58,
-		"end": 58.74
+		"start": 49.59,
+		"end": 58.75
 	}
 ]

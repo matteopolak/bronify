@@ -4,851 +4,203 @@
 			{
 				"text": "Let's ",
 				"start": 0,
-				"end": 0.52,
+				"end": 0.4,
 				"index": 0
 			},
 			{
 				"text": "go!",
-				"start": 0.52,
-				"end": 0.58,
+				"start": 0.4,
+				"end": 0.48,
 				"index": 1
 			}
 		],
-		"start": 0.58,
-		"end": 1.16
+		"start": 0.69,
+		"end": 1.17
 	},
 	{
 		"words": [
 			{
-				"text": "Ooh",
+				"text": "Let's ",
 				"start": 0,
-				"end": 0.48,
+				"end": 0.64,
 				"index": 2
-			}
-		],
-		"start": 1.5,
-		"end": 1.98
-	},
-	{
-		"words": [
-			{
-				"text": "Bryan ",
-				"start": 0,
-				"end": 0.54,
-				"index": 3
 			},
 			{
-				"text": "you're ",
-				"start": 0.54,
-				"end": 0.8,
+				"text": "go!",
+				"start": 0.64,
+				"end": 1.28,
+				"index": 3
+			}
+		],
+		"start": 33.09,
+		"end": 34.37
+	},
+	{
+		"words": [
+			{
+				"text": "Let's ",
+				"start": 0,
+				"end": 0.28,
 				"index": 4
 			},
 			{
-				"text": "shinin'",
-				"start": 0.8,
-				"end": 1.48,
+				"text": "go!",
+				"start": 0.28,
+				"end": 0.52,
 				"index": 5
 			}
 		],
-		"start": 1.98,
-		"end": 3.46
+		"start": 38.53,
+		"end": 39.05
 	},
 	{
 		"words": [
 			{
-				"text": "Hit ",
+				"text": "Let's go!",
 				"start": 0,
-				"end": 0.26,
+				"end": 0.28,
 				"index": 6
-			},
+			}
+		],
+		"start": 39.29,
+		"end": 39.57
+	},
+	{
+		"words": [
 			{
-				"text": "a ",
-				"start": 0.26,
-				"end": 0.42,
+				"text": "Let's ",
+				"start": 0,
+				"end": 0.02,
 				"index": 7
 			},
 			{
-				"text": "game ",
-				"start": 0.42,
-				"end": 0.68,
+				"text": "go!",
+				"start": 0.02,
+				"end": 0.98,
 				"index": 8
-			},
+			}
+		],
+		"start": 39.57,
+		"end": 40.55
+	},
+	{
+		"words": [
 			{
-				"text": "winnin' ",
-				"start": 0.68,
-				"end": 1,
+				"text": "Let's ",
+				"start": 0,
+				"end": 0.14,
 				"index": 9
 			},
 			{
-				"text": "no ",
-				"start": 1.02,
-				"end": 1.08,
+				"text": "go!",
+				"start": 0.14,
+				"end": 0.82,
 				"index": 10
-			},
+			}
+		],
+		"start": 40.63,
+		"end": 41.45
+	},
+	{
+		"words": [
 			{
-				"text": "time ",
-				"start": 1.08,
-				"end": 1.42,
+				"text": "Let's ",
+				"start": 0,
+				"end": 0.28,
 				"index": 11
 			},
 			{
-				"text": "left",
-				"start": 1.42,
-				"end": 1.92,
+				"text": "go!",
+				"start": 0.28,
+				"end": 0.44,
 				"index": 12
 			}
 		],
-		"start": 3.86,
-		"end": 5.78
+		"start": 41.85,
+		"end": 42.29
 	},
 	{
 		"words": [
 			{
-				"text": "No ",
+				"text": "Let's go!",
 				"start": 0,
-				"end": 0.76,
+				"end": 0.08,
 				"index": 13
-			},
+			}
+		],
+		"start": 42.43,
+		"end": 42.51
+	},
+	{
+		"words": [
 			{
-				"text": "one ",
-				"start": 0.76,
-				"end": 0.88,
+				"text": "Let's go!",
+				"start": 0,
+				"end": 0.02,
 				"index": 14
-			},
+			}
+		],
+		"start": 42.51,
+		"end": 42.53
+	},
+	{
+		"words": [
 			{
-				"text": "plays ",
-				"start": 0.88,
-				"end": 1.1,
+				"text": "Let's go!",
+				"start": 0,
+				"end": 0.06,
 				"index": 15
-			},
+			}
+		],
+		"start": 42.53,
+		"end": 42.59
+	},
+	{
+		"words": [
 			{
-				"text": "the ",
-				"start": 1.1,
-				"end": 1.28,
+				"text": "Let's go!",
+				"start": 0,
+				"end": 0.02,
 				"index": 16
-			},
+			}
+		],
+		"start": 42.59,
+		"end": 42.61
+	},
+	{
+		"words": [
 			{
-				"text": "way ",
-				"start": 1.28,
-				"end": 1.5,
+				"text": "Let's ",
+				"start": 0,
+				"end": 0.28,
 				"index": 17
 			},
 			{
-				"text": "that ",
-				"start": 1.5,
-				"end": 1.7,
+				"text": "go!",
+				"start": 0.28,
+				"end": 0.4,
 				"index": 18
-			},
+			}
+		],
+		"start": 43.57,
+		"end": 43.97
+	},
+	{
+		"words": [
 			{
-				"text": "you ",
-				"start": 1.7,
-				"end": 1.82,
+				"text": "Let's ",
+				"start": 0,
+				"end": 0.1,
 				"index": 19
 			},
 			{
-				"text": "do",
-				"start": 1.82,
-				"end": 1.96,
+				"text": "go!",
+				"start": 0.1,
+				"end": 0.28,
 				"index": 20
 			}
 		],
-		"start": 5.78,
-		"end": 7.74
-	},
-	{
-		"words": [
-			{
-				"text": "I ",
-				"start": 0,
-				"end": 0.42,
-				"index": 21
-			},
-			{
-				"text": "know ",
-				"start": 0.42,
-				"end": 0.7,
-				"index": 22
-			},
-			{
-				"text": "you're ",
-				"start": 0.7,
-				"end": 0.84,
-				"index": 23
-			},
-			{
-				"text": "gonna ",
-				"start": 0.84,
-				"end": 0.98,
-				"index": 24
-			},
-			{
-				"text": "win ",
-				"start": 0.98,
-				"end": 1.24,
-				"index": 25
-			},
-			{
-				"text": "the ",
-				"start": 1.24,
-				"end": 1.48,
-				"index": 26
-			},
-			{
-				"text": "finals",
-				"start": 1.48,
-				"end": 1.8,
-				"index": 27
-			}
-		],
-		"start": 7.74,
-		"end": 9.54
-	},
-	{
-		"words": [
-			{
-				"text": "Ooh ",
-				"start": 0,
-				"end": 0.52,
-				"index": 28
-			},
-			{
-				"text": "you ",
-				"start": 0.52,
-				"end": 1,
-				"index": 29
-			},
-			{
-				"text": "amaze ",
-				"start": 1,
-				"end": 1.74,
-				"index": 30
-			},
-			{
-				"text": "me",
-				"start": 1.74,
-				"end": 1.94,
-				"index": 31
-			}
-		],
-		"start": 10.06,
-		"end": 12
-	},
-	{
-		"words": [
-			{
-				"text": "Every ",
-				"start": 0,
-				"end": 0.54,
-				"index": 32
-			},
-			{
-				"text": "single ",
-				"start": 0.54,
-				"end": 1,
-				"index": 33
-			},
-			{
-				"text": "time ",
-				"start": 1,
-				"end": 1.38,
-				"index": 34
-			},
-			{
-				"text": "it's ",
-				"start": 1.38,
-				"end": 1.6,
-				"index": 35
-			},
-			{
-				"text": "crazy",
-				"start": 1.6,
-				"end": 1.86,
-				"index": 36
-			}
-		],
-		"start": 12,
-		"end": 13.86
-	},
-	{
-		"words": [
-			{
-				"text": "The ",
-				"start": 0,
-				"end": 0.9,
-				"index": 37
-			},
-			{
-				"text": "way ",
-				"start": 0.9,
-				"end": 1.28,
-				"index": 38
-			},
-			{
-				"text": "I ",
-				"start": 1.28,
-				"end": 1.38,
-				"index": 39
-			},
-			{
-				"text": "glaze ",
-				"start": 1.38,
-				"end": 1.58,
-				"index": 40
-			},
-			{
-				"text": "you ",
-				"start": 1.58,
-				"end": 1.8,
-				"index": 41
-			},
-			{
-				"text": "who ",
-				"start": 1.8,
-				"end": 1.92,
-				"index": 42
-			},
-			{
-				"text": "can ",
-				"start": 1.92,
-				"end": 2.16,
-				"index": 43
-			},
-			{
-				"text": "blame ",
-				"start": 2.16,
-				"end": 2.42,
-				"index": 44
-			},
-			{
-				"text": "me",
-				"start": 2.42,
-				"end": 2.64,
-				"index": 45
-			}
-		],
-		"start": 13.86,
-		"end": 16.5
-	},
-	{
-		"words": [
-			{
-				"text": "When ",
-				"start": 0,
-				"end": 0.22,
-				"index": 46
-			},
-			{
-				"text": "you're ",
-				"start": 0.22,
-				"end": 0.34,
-				"index": 47
-			},
-			{
-				"text": "still ",
-				"start": 0.34,
-				"end": 0.48,
-				"index": 48
-			},
-			{
-				"text": "the ",
-				"start": 0.48,
-				"end": 0.6,
-				"index": 49
-			},
-			{
-				"text": "best ",
-				"start": 0.6,
-				"end": 0.82,
-				"index": 50
-			},
-			{
-				"text": "player ",
-				"start": 0.82,
-				"end": 1.24,
-				"index": 51
-			},
-			{
-				"text": "out",
-				"start": 1.24,
-				"end": 1.48,
-				"index": 52
-			}
-		],
-		"start": 16.5,
-		"end": 17.98
-	},
-	{
-		"words": [
-			{
-				"text": "You're ",
-				"start": 0,
-				"end": 0.26,
-				"index": 53
-			},
-			{
-				"text": "so ",
-				"start": 0.26,
-				"end": 0.3,
-				"index": 54
-			},
-			{
-				"text": "much ",
-				"start": 0.3,
-				"end": 0.44,
-				"index": 55
-			},
-			{
-				"text": "better ",
-				"start": 0.44,
-				"end": 0.68,
-				"index": 56
-			},
-			{
-				"text": "than ",
-				"start": 0.68,
-				"end": 0.9,
-				"index": 57
-			},
-			{
-				"text": "Michael",
-				"start": 0.9,
-				"end": 1.3,
-				"index": 58
-			}
-		],
-		"start": 17.98,
-		"end": 19.28
-	},
-	{
-		"words": [
-			{
-				"text": "Much ",
-				"start": 0,
-				"end": 0.26,
-				"index": 59
-			},
-			{
-				"text": "better ",
-				"start": 0.26,
-				"end": 0.56,
-				"index": 60
-			},
-			{
-				"text": "than ",
-				"start": 0.56,
-				"end": 0.82,
-				"index": 61
-			},
-			{
-				"text": "O",
-				"start": 0.82,
-				"end": 1.18,
-				"index": 62
-			},
-			{
-				"text": "'Neal",
-				"start": 1.18,
-				"end": 1.56,
-				"index": 63
-			}
-		],
-		"start": 19.92,
-		"end": 21.48
-	},
-	{
-		"words": [
-			{
-				"text": "Larry ",
-				"start": 0,
-				"end": 0.52,
-				"index": 64
-			},
-			{
-				"text": "Bird ",
-				"start": 0.52,
-				"end": 0.72,
-				"index": 65
-			},
-			{
-				"text": "and",
-				"start": 0.72,
-				"end": 1.02,
-				"index": 66
-			}
-		],
-		"start": 22.16,
-		"end": 23.18
-	},
-	{
-		"words": [
-			{
-				"text": "Magic",
-				"start": 0,
-				"end": 0.4,
-				"index": 67
-			}
-		],
-		"start": 23.18,
-		"end": 23.58
-	},
-	{
-		"words": [
-			{
-				"text": "Johnson",
-				"start": 0,
-				"end": 0.34,
-				"index": 68
-			}
-		],
-		"start": 23.58,
-		"end": 23.92
-	},
-	{
-		"words": [
-			{
-				"text": "Got ",
-				"start": 0,
-				"end": 0.3,
-				"index": 69
-			},
-			{
-				"text": "nothin' ",
-				"start": 0.3,
-				"end": 0.56,
-				"index": 70
-			},
-			{
-				"text": "on ",
-				"start": 0.88,
-				"end": 0.96,
-				"index": 71
-			},
-			{
-				"text": "you ",
-				"start": 0.96,
-				"end": 1.18,
-				"index": 72
-			},
-			{
-				"text": "you're ",
-				"start": 1.18,
-				"end": 1.38,
-				"index": 73
-			},
-			{
-				"text": "the ",
-				"start": 1.38,
-				"end": 1.46,
-				"index": 74
-			},
-			{
-				"text": "best ",
-				"start": 1.46,
-				"end": 1.7,
-				"index": 75
-			},
-			{
-				"text": "just ",
-				"start": 1.7,
-				"end": 1.84,
-				"index": 76
-			},
-			{
-				"text": "keep ",
-				"start": 1.84,
-				"end": 2.06,
-				"index": 77
-			},
-			{
-				"text": "it ",
-				"start": 2.06,
-				"end": 2.3,
-				"index": 78
-			},
-			{
-				"text": "real",
-				"start": 2.3,
-				"end": 2.68,
-				"index": 79
-			}
-		],
-		"start": 23.92,
-		"end": 26.6
-	},
-	{
-		"words": [
-			{
-				"text": "Cause ",
-				"start": 0,
-				"end": 0.42,
-				"index": 80
-			},
-			{
-				"text": "you're ",
-				"start": 0.42,
-				"end": 0.64,
-				"index": 81
-			},
-			{
-				"text": "LeBron ",
-				"start": 0.64,
-				"end": 0.82,
-				"index": 82
-			},
-			{
-				"text": "James",
-				"start": 0.82,
-				"end": 1.18,
-				"index": 83
-			}
-		],
-		"start": 26.6,
-		"end": 27.78
-	},
-	{
-		"words": [
-			{
-				"text": "Best ",
-				"start": 0,
-				"end": 0.44,
-				"index": 84
-			},
-			{
-				"text": "ever ",
-				"start": 0.44,
-				"end": 0.7,
-				"index": 85
-			},
-			{
-				"text": "played, ",
-				"start": 0.7,
-				"end": 1.06,
-				"index": 86
-			},
-			{
-				"text": "50k ",
-				"start": 1.3,
-				"end": 1.68,
-				"index": 87
-			},
-			{
-				"text": "points",
-				"start": 1.68,
-				"end": 2.04,
-				"index": 88
-			}
-		],
-		"start": 27.78,
-		"end": 29.82
-	},
-	{
-		"words": [
-			{
-				"text": "Hope ",
-				"start": 0,
-				"end": 0.56,
-				"index": 89
-			},
-			{
-				"text": "you ",
-				"start": 0.56,
-				"end": 0.62,
-				"index": 90
-			},
-			{
-				"text": "stay ",
-				"start": 0.62,
-				"end": 0.82,
-				"index": 91
-			},
-			{
-				"text": "the ",
-				"start": 0.82,
-				"end": 0.92,
-				"index": 92
-			},
-			{
-				"text": "same, ",
-				"start": 0.92,
-				"end": 1.26,
-				"index": 93
-			},
-			{
-				"text": "my ",
-				"start": 1.36,
-				"end": 1.58,
-				"index": 94
-			},
-			{
-				"text": "kingy ",
-				"start": 1.58,
-				"end": 2.02,
-				"index": 95
-			},
-			{
-				"text": "reigns",
-				"start": 2.02,
-				"end": 2.58,
-				"index": 96
-			}
-		],
-		"start": 29.82,
-		"end": 32.4
-	},
-	{
-		"words": [
-			{
-				"text": "Shoot ",
-				"start": 0,
-				"end": 0.04,
-				"index": 97
-			},
-			{
-				"text": "a ",
-				"start": 0.04,
-				"end": 0.22,
-				"index": 98
-			},
-			{
-				"text": "ball ",
-				"start": 0.22,
-				"end": 0.4,
-				"index": 99
-			},
-			{
-				"text": "don't ",
-				"start": 0.4,
-				"end": 0.84,
-				"index": 100
-			},
-			{
-				"text": "need ",
-				"start": 0.84,
-				"end": 0.86,
-				"index": 101
-			},
-			{
-				"text": "a ",
-				"start": 0.86,
-				"end": 1,
-				"index": 102
-			},
-			{
-				"text": "passin'",
-				"start": 1,
-				"end": 1.54,
-				"index": 103
-			}
-		],
-		"start": 32.4,
-		"end": 33.94
-	},
-	{
-		"words": [
-			{
-				"text": "Four ",
-				"start": 0,
-				"end": 0.8,
-				"index": 104
-			},
-			{
-				"text": "rings ",
-				"start": 0.8,
-				"end": 1.2,
-				"index": 105
-			},
-			{
-				"text": "fantastic",
-				"start": 1.2,
-				"end": 1.8,
-				"index": 106
-			}
-		],
-		"start": 34.04,
-		"end": 35.84
-	},
-	{
-		"words": [
-			{
-				"text": "Four ",
-				"start": 0,
-				"end": 0.72,
-				"index": 107
-			},
-			{
-				"text": "rings ",
-				"start": 0.72,
-				"end": 1.44,
-				"index": 108
-			},
-			{
-				"text": "fantastic",
-				"start": 1.44,
-				"end": 2.22,
-				"index": 109
-			}
-		],
-		"start": 38.1,
-		"end": 40.32
-	},
-	{
-		"words": [
-			{
-				"text": "Four rings fantastic",
-				"start": 0,
-				"end": 0.72,
-				"index": 110
-			}
-		],
-		"start": 41.62,
-		"end": 42.34
-	},
-	{
-		"words": [
-			{
-				"text": "Bronny ",
-				"start": 0,
-				"end": 0.14,
-				"index": 111
-			},
-			{
-				"text": "ooh ",
-				"start": 0.14,
-				"end": 0.38,
-				"index": 112
-			},
-			{
-				"text": "ooh",
-				"start": 0.38,
-				"end": 0.64,
-				"index": 113
-			}
-		],
-		"start": 42.34,
-		"end": 42.98
-	},
-	{
-		"words": [
-			{
-				"text": "Four ",
-				"start": 0,
-				"end": 0.36,
-				"index": 114
-			},
-			{
-				"text": "rings ",
-				"start": 0.36,
-				"end": 0.78,
-				"index": 115
-			},
-			{
-				"text": "fantastic",
-				"start": 0.78,
-				"end": 1.28,
-				"index": 116
-			}
-		],
-		"start": 42.98,
-		"end": 44.26
+		"start": 44.41,
+		"end": 44.69
 	}
 ]

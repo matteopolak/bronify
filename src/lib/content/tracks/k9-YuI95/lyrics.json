@@ -2,523 +2,67 @@
 	{
 		"words": [
 			{
-				"text": "How ",
+				"text": "As ",
 				"start": 0,
-				"end": 1.32,
+				"end": 0.3,
 				"index": 0
 			},
 			{
-				"text": "do ",
-				"start": 1.32,
-				"end": 2.14,
+				"text": "before, ",
+				"start": 0.3,
+				"end": 0.94,
 				"index": 1
 			},
 			{
-				"text": "you ",
-				"start": 2.14,
-				"end": 2.62,
+				"text": "the ",
+				"start": 1.24,
+				"end": 1.8,
 				"index": 2
 			},
 			{
-				"text": "leave ",
-				"start": 2.62,
-				"end": 3.46,
+				"text": "chosen ",
+				"start": 13.51,
+				"end": 13.93,
 				"index": 3
 			},
 			{
-				"text": "the ",
-				"start": 3.46,
-				"end": 4.08,
+				"text": "one ",
+				"start": 13.93,
+				"end": 14.73,
 				"index": 4
 			},
 			{
-				"text": "league ",
-				"start": 4.08,
-				"end": 4.54,
+				"text": "got ",
+				"start": 17.96,
+				"end": 18.22,
 				"index": 5
 			},
 			{
-				"text": "like ",
-				"start": 4.54,
-				"end": 5.12,
+				"text": "15",
+				"start": 18.22,
+				"end": 18.68,
 				"index": 6
-			},
+			}
+		],
+		"start": 8.53,
+		"end": 27.21
+	},
+	{
+		"words": [
 			{
-				"text": "no ",
-				"start": 5.12,
-				"end": 5.58,
+				"text": "TEEHEE",
+				"start": 0,
+				"end": 0.38,
 				"index": 7
 			},
 			{
-				"text": "one ",
-				"start": 5.58,
-				"end": 6.58,
-				"index": 8
-			},
-			{
-				"text": "has ",
-				"start": 6.58,
-				"end": 6.9,
-				"index": 9
-			},
-			{
-				"text": "before?",
-				"start": 6.9,
-				"end": 7.68,
-				"index": 10
-			}
-		],
-		"start": 1.84,
-		"end": 9.52
-	},
-	{
-		"words": [
-			{
-				"text": "Seeking ",
-				"start": 0,
-				"end": 0.66,
-				"index": 11
-			},
-			{
-				"text": "a ",
-				"start": 0.66,
-				"end": 1.76,
-				"index": 12
-			},
-			{
-				"text": "dream ",
-				"start": 1.76,
-				"end": 2.58,
-				"index": 13
-			},
-			{
-				"text": "from ",
-				"start": 2.58,
-				"end": 3.28,
-				"index": 14
-			},
-			{
-				"text": "the ",
-				"start": 3.28,
-				"end": 3.44,
-				"index": 15
-			},
-			{
-				"text": "beyond, ",
-				"start": 3.44,
-				"end": 4.4,
-				"index": 16
-			},
-			{
-				"text": "it ",
-				"start": 5.18,
-				"end": 5.78,
-				"index": 17
-			},
-			{
-				"text": "burns ",
-				"start": 5.78,
-				"end": 6.12,
-				"index": 18
-			},
-			{
-				"text": "to ",
-				"start": 6.12,
-				"end": 6.38,
-				"index": 19
-			},
-			{
-				"text": "the ",
-				"start": 6.38,
-				"end": 6.6,
-				"index": 20
-			},
-			{
-				"text": "level ",
-				"start": 6.6,
-				"end": 7.56,
-				"index": 21
-			},
-			{
-				"text": "of ",
-				"start": 7.56,
-				"end": 8.08,
-				"index": 22
-			},
-			{
-				"text": "war",
-				"start": 8.08,
-				"end": 8.56,
-				"index": 23
-			}
-		],
-		"start": 11.76,
-		"end": 20.32
-	},
-	{
-		"words": [
-			{
-				"text": "A ",
-				"start": 0,
-				"end": 1.66,
-				"index": 24
-			},
-			{
-				"text": "chosen ",
-				"start": 1.66,
-				"end": 2.28,
-				"index": 25
-			},
-			{
-				"text": "one, ",
-				"start": 2.28,
-				"end": 3.62,
-				"index": 26
-			},
-			{
-				"text": "got ",
-				"start": 3.62,
-				"end": 6.32,
-				"index": 27
-			},
-			{
-				"text": "15",
-				"start": 6.32,
-				"end": 6.84,
-				"index": 28
-			},
-			{
-				"text": ",000 ",
-				"start": 6.84,
-				"end": 8.1,
-				"index": 29
-			},
-			{
-				"text": "career ",
-				"start": 8.1,
-				"end": 8.82,
-				"index": 30
-			},
-			{
-				"text": "points",
-				"start": 8.82,
-				"end": 10.34,
-				"index": 31
-			}
-		],
-		"start": 20.32,
-		"end": 30.66
-	},
-	{
-		"words": [
-			{
-				"text": "It's ",
-				"start": 0,
-				"end": 0.78,
-				"index": 32
-			},
-			{
-				"text": "time ",
-				"start": 0.78,
-				"end": 1.02,
-				"index": 33
-			},
-			{
-				"text": "to ",
-				"start": 1.02,
-				"end": 1.28,
-				"index": 34
-			},
-			{
-				"text": "win ",
-				"start": 1.28,
-				"end": 1.9,
-				"index": 35
-			},
-			{
-				"text": "another ",
-				"start": 1.9,
-				"end": 3.1,
-				"index": 36
-			},
-			{
-				"text": "league",
-				"start": 3.1,
-				"end": 4.34,
-				"index": 37
-			}
-		],
-		"start": 30.66,
-		"end": 35
-	},
-	{
-		"words": [
-			{
-				"text": "Lakers ",
-				"start": 0,
-				"end": 2.04,
-				"index": 38
-			},
-			{
-				"text": "in ",
-				"start": 2.04,
-				"end": 3.08,
-				"index": 39
-			},
-			{
-				"text": "five",
-				"start": 3.08,
-				"end": 4.18,
-				"index": 40
-			}
-		],
-		"start": 35.54,
-		"end": 39.72
-	},
-	{
-		"words": [
-			{
-				"text": "When ",
-				"start": 0,
-				"end": 1.42,
-				"index": 41
-			},
-			{
-				"text": "the ",
-				"start": 1.42,
-				"end": 1.82,
-				"index": 42
-			},
-			{
-				"text": "ring ",
-				"start": 1.82,
-				"end": 2.18,
-				"index": 43
-			},
-			{
-				"text": "will ",
-				"start": 2.18,
-				"end": 2.4,
-				"index": 44
-			},
-			{
-				"text": "break, ",
-				"start": 2.4,
-				"end": 2.74,
-				"index": 45
-			},
-			{
-				"text": "do ",
-				"start": 3.6,
-				"end": 3.76,
-				"index": 46
-			},
-			{
-				"text": "I ",
-				"start": 3.76,
-				"end": 4.12,
-				"index": 47
-			},
-			{
-				"text": "play ",
-				"start": 4.12,
-				"end": 4.42,
-				"index": 48
-			},
-			{
-				"text": "or ",
-				"start": 4.42,
-				"end": 4.72,
-				"index": 49
-			},
-			{
-				"text": "shine?",
-				"start": 4.72,
-				"end": 5.26,
-				"index": 50
-			}
-		],
-		"start": 40.32,
-		"end": 45.58
-	},
-	{
-		"words": [
-			{
-				"text": "Take ",
-				"start": 0,
-				"end": 0.78,
-				"index": 51
-			},
-			{
-				"text": "the ",
-				"start": 0.78,
-				"end": 1.16,
-				"index": 52
-			},
-			{
-				"text": "Lakers ",
-				"start": 1.16,
-				"end": 1.7,
-				"index": 53
-			},
-			{
-				"text": "to ",
-				"start": 1.7,
-				"end": 2.08,
-				"index": 54
-			},
-			{
-				"text": "the ",
-				"start": 2.08,
-				"end": 2.62,
-				"index": 55
-			},
-			{
-				"text": "finals ",
-				"start": 2.62,
-				"end": 3.6,
-				"index": 56
-			},
-			{
-				"text": "game",
-				"start": 3.6,
-				"end": 4.22,
-				"index": 57
-			}
-		],
-		"start": 45.6,
-		"end": 49.82
-	},
-	{
-		"words": [
-			{
-				"text": "The ",
-				"start": 0,
-				"end": 0.2,
-				"index": 58
-			},
-			{
-				"text": "best ",
-				"start": 0.2,
-				"end": 1.24,
-				"index": 59
-			},
-			{
-				"text": "you'll ",
-				"start": 1.24,
-				"end": 1.58,
-				"index": 60
-			},
-			{
-				"text": "ever ",
-				"start": 1.58,
-				"end": 1.96,
-				"index": 61
-			},
-			{
-				"text": "play",
-				"start": 1.96,
-				"end": 2.38,
-				"index": 62
-			}
-		],
-		"start": 49.82,
-		"end": 52.2
-	},
-	{
-		"words": [
-			{
-				"text": "We ",
-				"start": 0,
-				"end": 0.44,
-				"index": 63
-			},
-			{
-				"text": "all ",
-				"start": 0.44,
-				"end": 0.88,
-				"index": 64
-			},
-			{
-				"text": "know ",
-				"start": 0.88,
-				"end": 1.16,
-				"index": 65
-			},
-			{
-				"text": "he's ",
-				"start": 1.16,
-				"end": 1.48,
-				"index": 66
-			},
-			{
-				"text": "brought ",
-				"start": 1.48,
-				"end": 1.8,
-				"index": 67
-			},
-			{
-				"text": "it",
-				"start": 1.8,
-				"end": 2.56,
-				"index": 68
-			}
-		],
-		"start": 52.8,
-		"end": 55.36
-	},
-	{
-		"words": [
-			{
-				"text": "Scream ",
-				"start": 0,
+				"text": "-",
+				"start": 0.38,
 				"end": 0.46,
-				"index": 69
-			},
-			{
-				"text": "it ",
-				"start": 0.46,
-				"end": 0.5,
-				"index": 70
-			},
-			{
-				"text": "loud ",
-				"start": 0.5,
-				"end": 0.98,
-				"index": 71
-			},
-			{
-				"text": "and ",
-				"start": 0.98,
-				"end": 1.34,
-				"index": 72
-			},
-			{
-				"text": "he'll ",
-				"start": 1.34,
-				"end": 1.78,
-				"index": 73
-			},
-			{
-				"text": "carry ",
-				"start": 1.78,
-				"end": 2.28,
-				"index": 74
-			},
-			{
-				"text": "his ",
-				"start": 2.28,
-				"end": 3.2,
-				"index": 75
-			},
-			{
-				"text": "team",
-				"start": 3.2,
-				"end": 3.9,
-				"index": 76
+				"index": 8
 			}
 		],
-		"start": 55.36,
-		"end": 59.26
+		"start": 27.21,
+		"end": 27.67
 	}
 ]

@@ -2,529 +2,487 @@
 	{
 		"words": [
 			{
-				"text": "Well, ",
-				"start": 0,
-				"end": 0.56,
+				"text": "well ",
+				"start": 13.53,
+				"end": 14.01,
 				"index": 0
 			},
 			{
-				"text": "Bron ",
-				"start": 0.66,
-				"end": 0.94,
+				"text": "LeBron ",
+				"start": 14.01,
+				"end": 14.37,
 				"index": 1
 			},
 			{
 				"text": "undunked ",
-				"start": 0.94,
-				"end": 1.92,
+				"start": 14.37,
+				"end": 15.37,
 				"index": 2
 			},
 			{
 				"text": "it ",
-				"start": 1.92,
-				"end": 1.96,
+				"start": 15.37,
+				"end": 15.39,
 				"index": 3
 			},
 			{
 				"text": "and ",
-				"start": 1.96,
-				"end": 2.2,
+				"start": 15.39,
+				"end": 15.63,
 				"index": 4
 			},
 			{
 				"text": "you ",
-				"start": 2.2,
-				"end": 2.36,
+				"start": 15.63,
+				"end": 15.81,
 				"index": 5
 			},
 			{
 				"text": "bet ",
-				"start": 2.36,
-				"end": 2.58,
+				"start": 15.81,
+				"end": 16.01,
 				"index": 6
 			},
 			{
 				"text": "they ",
-				"start": 2.58,
-				"end": 2.86,
+				"start": 16.01,
+				"end": 16.29,
 				"index": 7
 			},
 			{
 				"text": "felt ",
-				"start": 2.86,
-				"end": 3.24,
+				"start": 16.29,
+				"end": 16.69,
 				"index": 8
 			},
 			{
-				"text": "it",
-				"start": 3.24,
-				"end": 3.7,
+				"text": "it ",
+				"start": 16.69,
+				"end": 17.13,
 				"index": 9
-			}
-		],
-		"start": 12.44,
-		"end": 16.14
-	},
-	{
-		"words": [
-			{
-				"text": "They ",
-				"start": 0,
-				"end": 0.2,
-				"index": 10
 			},
 			{
 				"text": "tried ",
-				"start": 0.2,
-				"end": 0.46,
+				"start": 17.13,
+				"end": 17.45,
+				"index": 10
+			},
+			{
+				"text": "to ",
+				"start": 17.45,
+				"end": 17.81,
 				"index": 11
 			},
 			{
-				"text": "to ",
-				"start": 0.46,
-				"end": 0.68,
+				"text": "defend ",
+				"start": 17.81,
+				"end": 18.21,
 				"index": 12
 			},
 			{
-				"text": "defend ",
-				"start": 0.68,
-				"end": 1.06,
+				"text": "but ",
+				"start": 18.21,
+				"end": 18.63,
 				"index": 13
 			},
 			{
-				"text": "but ",
-				"start": 1.06,
-				"end": 1.5,
+				"text": "he ",
+				"start": 18.63,
+				"end": 18.79,
 				"index": 14
 			},
 			{
-				"text": "he ",
-				"start": 1.5,
-				"end": 1.66,
+				"text": "flew ",
+				"start": 18.79,
+				"end": 19.01,
 				"index": 15
 			},
 			{
-				"text": "flew ",
-				"start": 1.66,
-				"end": 1.82,
+				"text": "up ",
+				"start": 19.01,
+				"end": 19.31,
 				"index": 16
 			},
 			{
-				"text": "up ",
-				"start": 1.82,
-				"end": 2.18,
+				"text": "and ",
+				"start": 19.31,
+				"end": 19.47,
 				"index": 17
 			},
 			{
-				"text": "and ",
-				"start": 2.18,
-				"end": 2.32,
+				"text": "he ",
+				"start": 19.47,
+				"end": 19.61,
 				"index": 18
 			},
 			{
-				"text": "he ",
-				"start": 2.32,
-				"end": 2.46,
+				"text": "stuffed ",
+				"start": 19.61,
+				"end": 19.97,
 				"index": 19
 			},
 			{
-				"text": "stuffed ",
-				"start": 2.46,
-				"end": 2.82,
+				"text": "it ",
+				"start": 19.97,
+				"end": 20.27,
 				"index": 20
 			},
 			{
-				"text": "it",
-				"start": 2.82,
-				"end": 3.14,
+				"text": "got ",
+				"start": 20.27,
+				"end": 20.77,
 				"index": 21
-			}
-		],
-		"start": 16.14,
-		"end": 19.28
-	},
-	{
-		"words": [
-			{
-				"text": "Got ",
-				"start": 0,
-				"end": 0.52,
-				"index": 22
 			},
 			{
 				"text": "right ",
-				"start": 0.52,
-				"end": 0.78,
+				"start": 20.77,
+				"end": 21.05,
+				"index": 22
+			},
+			{
+				"text": "to ",
+				"start": 21.05,
+				"end": 21.39,
 				"index": 23
 			},
 			{
-				"text": "to ",
-				"start": 0.78,
-				"end": 1.12,
+				"text": "the ",
+				"start": 21.39,
+				"end": 21.69,
 				"index": 24
 			},
 			{
-				"text": "the ",
-				"start": 1.12,
-				"end": 1.42,
+				"text": "rack ",
+				"start": 21.69,
+				"end": 22.29,
 				"index": 25
 			},
 			{
-				"text": "rack, ",
-				"start": 1.42,
-				"end": 2.02,
+				"text": "now ",
+				"start": 22.83,
+				"end": 23.49,
 				"index": 26
 			},
 			{
-				"text": "now ",
-				"start": 2.22,
-				"end": 3.18,
+				"text": "he's ",
+				"start": 23.49,
+				"end": 23.87,
 				"index": 27
 			},
 			{
-				"text": "he's ",
-				"start": 3.18,
-				"end": 3.6,
+				"text": "hitting ",
+				"start": 23.87,
+				"end": 24.17,
 				"index": 28
 			},
 			{
-				"text": "hitting ",
-				"start": 3.6,
-				"end": 3.9,
+				"text": "step ",
+				"start": 24.17,
+				"end": 24.57,
 				"index": 29
 			},
 			{
-				"text": "step ",
-				"start": 3.9,
-				"end": 4.3,
+				"text": "backs ",
+				"start": 24.57,
+				"end": 25.27,
 				"index": 30
 			},
 			{
-				"text": "backs",
-				"start": 4.3,
-				"end": 4.9,
+				"text": "and ",
+				"start": 25.27,
+				"end": 26.67,
 				"index": 31
-			}
-		],
-		"start": 19.28,
-		"end": 24.18
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "And ",
-				"start": 0,
-				"end": 1.56,
+				"text": "the ",
+				"start": 26.67,
+				"end": 26.95,
 				"index": 32
 			},
 			{
-				"text": "the ",
-				"start": 1.56,
-				"end": 1.78,
+				"text": "Lakers ",
+				"start": 26.95,
+				"end": 27.31,
 				"index": 33
 			},
 			{
-				"text": "Lakers ",
-				"start": 1.78,
-				"end": 2.12,
+				"text": "picked ",
+				"start": 27.31,
+				"end": 27.55,
 				"index": 34
 			},
 			{
-				"text": "picked ",
-				"start": 2.12,
-				"end": 2.38,
+				"text": "up ",
+				"start": 27.55,
+				"end": 27.79,
 				"index": 35
 			},
 			{
-				"text": "up ",
-				"start": 2.38,
-				"end": 2.6,
+				"text": "Luka ",
+				"start": 27.79,
+				"end": 28.09,
 				"index": 36
 			},
 			{
-				"text": "Luka, ",
-				"start": 2.6,
-				"end": 2.98,
+				"text": "all ",
+				"start": 28.09,
+				"end": 28.37,
 				"index": 37
 			},
 			{
-				"text": "all ",
-				"start": 3.02,
-				"end": 3.24,
+				"text": "they ",
+				"start": 28.37,
+				"end": 28.57,
 				"index": 38
 			},
 			{
-				"text": "they ",
-				"start": 3.24,
-				"end": 3.42,
+				"text": "had ",
+				"start": 28.57,
+				"end": 28.79,
 				"index": 39
 			},
 			{
-				"text": "had ",
-				"start": 3.42,
-				"end": 3.62,
+				"text": "to ",
+				"start": 28.79,
+				"end": 28.91,
 				"index": 40
 			},
 			{
-				"text": "to ",
-				"start": 3.62,
-				"end": 3.76,
+				"text": "trade ",
+				"start": 28.91,
+				"end": 29.21,
 				"index": 41
 			},
 			{
-				"text": "trade ",
-				"start": 3.76,
-				"end": 4.04,
+				"text": "was ",
+				"start": 29.21,
+				"end": 29.37,
 				"index": 42
 			},
 			{
-				"text": "was ",
-				"start": 4.04,
-				"end": 4.18,
+				"text": "AD ",
+				"start": 29.37,
+				"end": 29.67,
 				"index": 43
 			},
 			{
-				"text": "AD",
-				"start": 4.18,
-				"end": 4.5,
+				"text": "and ",
+				"start": 29.67,
+				"end": 30.13,
 				"index": 44
-			}
-		],
-		"start": 24.18,
-		"end": 28.68
-	},
-	{
-		"words": [
-			{
-				"text": "And ",
-				"start": 0,
-				"end": 0.46,
-				"index": 45
 			},
 			{
 				"text": "nothing's ",
-				"start": 0.46,
-				"end": 0.94,
-				"index": 46
+				"start": 30.13,
+				"end": 30.63,
+				"index": 45
 			},
 			{
 				"text": "gonna ",
-				"start": 0.94,
-				"end": 1.06,
-				"index": 47
+				"start": 30.63,
+				"end": 30.73,
+				"index": 46
 			},
 			{
 				"text": "stop ",
-				"start": 1.06,
-				"end": 1.46,
-				"index": 48
+				"start": 30.73,
+				"end": 31.13,
+				"index": 47
 			},
 			{
 				"text": "him ",
-				"start": 1.46,
-				"end": 1.66,
-				"index": 49
+				"start": 31.13,
+				"end": 31.35,
+				"index": 48
 			},
 			{
 				"text": "from ",
-				"start": 1.66,
-				"end": 1.84,
-				"index": 50
+				"start": 31.35,
+				"end": 31.51,
+				"index": 49
 			},
 			{
 				"text": "a ",
-				"start": 1.84,
-				"end": 2.06,
-				"index": 51
+				"start": 31.51,
+				"end": 31.73,
+				"index": 50
 			},
 			{
 				"text": "winning ",
-				"start": 2.06,
-				"end": 2.38,
-				"index": 52
+				"start": 31.73,
+				"end": 32.07,
+				"index": 51
 			},
 			{
 				"text": "ban ",
-				"start": 2.38,
-				"end": 2.66,
-				"index": 53
+				"start": 32.07,
+				"end": 32.33,
+				"index": 52
 			},
 			{
 				"text": "of ",
-				"start": 2.66,
-				"end": 2.86,
-				"index": 54
+				"start": 32.33,
+				"end": 32.53,
+				"index": 53
 			},
 			{
 				"text": "18 ",
-				"start": 2.86,
-				"end": 3.18,
-				"index": 55
+				"start": 32.53,
+				"end": 32.89,
+				"index": 54
 			},
 			{
 				"text": "LeBron ",
-				"start": 3.18,
-				"end": 3.82,
+				"start": 32.89,
+				"end": 33.57,
+				"index": 55
+			},
+			{
+				"text": "is ",
+				"start": 33.57,
+				"end": 33.79,
 				"index": 56
 			},
 			{
-				"text": "is ",
-				"start": 3.82,
-				"end": 4.1,
+				"text": "still ",
+				"start": 33.79,
+				"end": 34.19,
 				"index": 57
 			},
 			{
-				"text": "still ",
-				"start": 4.1,
-				"end": 4.5,
+				"text": "the ",
+				"start": 34.19,
+				"end": 34.47,
 				"index": 58
 			},
 			{
-				"text": "the ",
-				"start": 4.5,
-				"end": 4.8,
+				"text": "king ",
+				"start": 34.47,
+				"end": 34.97,
 				"index": 59
 			},
 			{
-				"text": "king ",
-				"start": 4.8,
-				"end": 5.32,
+				"text": "forty ",
+				"start": 34.97,
+				"end": 35.67,
 				"index": 60
 			},
 			{
-				"text": "40 ",
-				"start": 5.32,
-				"end": 5.94,
+				"text": "years ",
+				"start": 35.67,
+				"end": 36.83,
 				"index": 61
 			},
 			{
-				"text": "years ",
-				"start": 5.94,
-				"end": 7.14,
+				"text": "old ",
+				"start": 36.83,
+				"end": 37.41,
 				"index": 62
 			},
 			{
-				"text": "old ",
-				"start": 7.14,
-				"end": 7.72,
+				"text": "and ",
+				"start": 37.41,
+				"end": 37.83,
 				"index": 63
 			},
 			{
-				"text": "in ",
-				"start": 7.72,
-				"end": 8.24,
+				"text": "four ",
+				"start": 37.83,
+				"end": 38.21,
 				"index": 64
 			},
 			{
-				"text": "four ",
-				"start": 8.24,
-				"end": 8.62,
+				"text": "rings, ",
+				"start": 38.21,
+				"end": 39.29,
 				"index": 65
 			},
 			{
-				"text": "rings",
-				"start": 8.62,
-				"end": 9.52,
+				"text": "hits, ",
+				"start": 39.43,
+				"end": 40.01,
 				"index": 66
-			}
-		],
-		"start": 28.68,
-		"end": 38.2
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Hits, ",
-				"start": 0,
-				"end": 0.86,
+				"text": "lay, ",
+				"start": 40.15,
+				"end": 40.57,
 				"index": 67
 			},
 			{
-				"text": "bleh, ",
-				"start": 0.94,
-				"end": 1.68,
+				"text": "fuck ",
+				"start": 40.87,
+				"end": 41.49,
 				"index": 68
 			},
 			{
-				"text": "fuck ",
-				"start": 1.68,
-				"end": 2.4,
+				"text": "you ",
+				"start": 41.49,
+				"end": 42.21,
 				"index": 69
 			},
 			{
-				"text": "you ",
-				"start": 2.4,
-				"end": 3,
+				"text": "threes, ",
+				"start": 42.21,
+				"end": 43.33,
 				"index": 70
 			},
 			{
-				"text": "threes",
-				"start": 3,
-				"end": 4.08,
+				"text": "and ",
+				"start": 43.39,
+				"end": 43.83,
 				"index": 71
-			}
-		],
-		"start": 38.2,
-		"end": 42.28
-	},
-	{
-		"words": [
-			{
-				"text": "And ",
-				"start": 0,
-				"end": 0.6,
-				"index": 72
 			},
 			{
 				"text": "blocked ",
-				"start": 0.6,
-				"end": 1.46,
-				"index": 73
+				"start": 43.83,
+				"end": 44.75,
+				"index": 72
 			},
 			{
 				"text": "by ",
-				"start": 1.46,
-				"end": 2.12,
-				"index": 74
+				"start": 44.75,
+				"end": 45.41,
+				"index": 73
 			},
 			{
 				"text": "James, ",
-				"start": 2.12,
-				"end": 2.96,
-				"index": 75
+				"start": 45.41,
+				"end": 46.25,
+				"index": 74
 			},
 			{
 				"text": "he ",
-				"start": 3.24,
-				"end": 3.68,
-				"index": 76
+				"start": 46.53,
+				"end": 46.95,
+				"index": 75
 			},
 			{
 				"text": "is ",
-				"start": 3.68,
-				"end": 4.66,
-				"index": 77
+				"start": 46.95,
+				"end": 47.95,
+				"index": 76
 			},
 			{
 				"text": "the ",
-				"start": 4.66,
-				"end": 5.2,
-				"index": 78
+				"start": 47.95,
+				"end": 48.49,
+				"index": 77
 			},
 			{
 				"text": "GOAT, ",
-				"start": 5.2,
-				"end": 6.4,
-				"index": 79
+				"start": 48.49,
+				"end": 49.71,
+				"index": 78
 			},
 			{
 				"text": "LeBron",
-				"start": 6.4,
-				"end": 8.02,
-				"index": 80
+				"start": 49.71,
+				"end": 51.27,
+				"index": 79
 			}
 		],
-		"start": 42.28,
-		"end": 50.3
+		"start": -1,
+		"end": 50.27
 	}
 ]

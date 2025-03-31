@@ -2,307 +2,103 @@
 	{
 		"words": [
 			{
-				"text": "say ",
-				"start": 1.74,
-				"end": 2.26,
+				"text": "LeBron, ",
+				"start": 0,
+				"end": 0.88,
 				"index": 0
 			},
 			{
-				"text": "they ",
-				"start": 2.26,
-				"end": 2.54,
+				"text": "LeBron, ",
+				"start": 0.88,
+				"end": 1.52,
 				"index": 1
 			},
 			{
-				"text": "used ",
-				"start": 2.54,
-				"end": 2.68,
+				"text": "LeBron",
+				"start": 1.52,
+				"end": 1.88,
 				"index": 2
-			},
+			}
+		],
+		"start": 13.1,
+		"end": 15.08
+	},
+	{
+		"words": [
 			{
-				"text": "to ",
-				"start": 2.68,
-				"end": 2.88,
+				"text": "LeBron, ",
+				"start": 0,
+				"end": 0.42,
 				"index": 3
 			},
 			{
-				"text": "let ",
-				"start": 2.88,
-				"end": 3.08,
+				"text": "LeBron, ",
+				"start": 0.42,
+				"end": 0.48,
 				"index": 4
 			},
 			{
-				"text": "it ",
-				"start": 3.08,
-				"end": 3.36,
+				"text": "LeBron, ",
+				"start": 0.48,
+				"end": 0.92,
 				"index": 5
 			},
 			{
-				"text": "go, ",
-				"start": 3.36,
-				"end": 3.76,
+				"text": "LeBron, ",
+				"start": 0.92,
+				"end": 0.96,
 				"index": 6
 			},
 			{
-				"text": "but ",
-				"start": 3.98,
-				"end": 4.24,
+				"text": "LeBron, ",
+				"start": 0.96,
+				"end": 2.22,
 				"index": 7
 			},
 			{
-				"text": "we're ",
-				"start": 4.24,
-				"end": 4.44,
+				"text": "LeBron",
+				"start": 2.22,
+				"end": 2.52,
 				"index": 8
-			},
-			{
-				"text": "40 ",
-				"start": 4.44,
-				"end": 4.78,
-				"index": 9
-			},
-			{
-				"text": "but ",
-				"start": 4.78,
-				"end": 5.02,
-				"index": 10
-			},
-			{
-				"text": "for ",
-				"start": 5.02,
-				"end": 5.22,
-				"index": 11
-			},
-			{
-				"text": "40 ",
-				"start": 5.22,
-				"end": 5.62,
-				"index": 12
-			},
-			{
-				"text": "still ",
-				"start": 5.62,
-				"end": 5.88,
-				"index": 13
-			},
-			{
-				"text": "pushin' ",
-				"start": 5.88,
-				"end": 6.46,
-				"index": 14
-			},
-			{
-				"text": "that's ",
-				"start": 6.46,
-				"end": 6.66,
-				"index": 15
-			},
-			{
-				"text": "why ",
-				"start": 6.66,
-				"end": 6.74,
-				"index": 16
-			},
-			{
-				"text": "here's ",
-				"start": 6.74,
-				"end": 7.34,
-				"index": 17
-			},
-			{
-				"text": "the ",
-				"start": 7.34,
-				"end": 7.36,
-				"index": 18
-			},
-			{
-				"text": "goal ",
-				"start": 7.36,
-				"end": 7.76,
-				"index": 19
-			},
-			{
-				"text": "my ",
-				"start": 7.76,
-				"end": 8.42,
-				"index": 20
-			},
-			{
-				"text": "glory ",
-				"start": 8.42,
-				"end": 8.6,
-				"index": 21
-			},
-			{
-				"text": "is ",
-				"start": 8.6,
-				"end": 9,
-				"index": 22
-			},
-			{
-				"text": "king ",
-				"start": 9,
-				"end": 9.26,
-				"index": 23
-			},
-			{
-				"text": "LeBron, ",
-				"start": 9.26,
-				"end": 10.3,
-				"index": 24
-			},
-			{
-				"text": "breakin' ",
-				"start": 10.56,
-				"end": 11.48,
-				"index": 25
-			},
-			{
-				"text": "records, ",
-				"start": 11.48,
-				"end": 11.64,
-				"index": 26
-			},
-			{
-				"text": "triple",
-				"start": 11.86,
-				"end": 12.08,
-				"index": 27
-			},
-			{
-				"text": "-doubles, ",
-				"start": 12.08,
-				"end": 12.62,
-				"index": 28
-			},
-			{
-				"text": "pushin' ",
-				"start": 12.62,
-				"end": 13,
-				"index": 29
-			},
-			{
-				"text": "three ",
-				"start": 13,
-				"end": 13.14,
-				"index": 30
-			},
-			{
-				"text": "like ",
-				"start": 13.14,
-				"end": 13.4,
-				"index": 31
-			},
-			{
-				"text": "it's ",
-				"start": 13.4,
-				"end": 13.6,
-				"index": 32
-			},
-			{
-				"text": "nothing ",
-				"start": 13.6,
-				"end": 13.9,
-				"index": 33
-			},
-			{
-				"text": "lethal ",
-				"start": 13.9,
-				"end": 14.8,
-				"index": 34
-			},
-			{
-				"text": "from ",
-				"start": 14.8,
-				"end": 15.1,
-				"index": 35
-			},
-			{
-				"text": "the ",
-				"start": 15.1,
-				"end": 15.3,
-				"index": 36
-			},
-			{
-				"text": "free ",
-				"start": 15.3,
-				"end": 15.54,
-				"index": 37
-			},
-			{
-				"text": "throw, ",
-				"start": 15.54,
-				"end": 16.28,
-				"index": 38
-			},
-			{
-				"text": "glory's ",
-				"start": 16.6,
-				"end": 17.34,
-				"index": 39
-			},
-			{
-				"text": "still ",
-				"start": 17.34,
-				"end": 17.46,
-				"index": 40
-			},
-			{
-				"text": "pushin' ",
-				"start": 17.46,
-				"end": 18.08,
-				"index": 41
-			},
-			{
-				"text": "that's ",
-				"start": 18.08,
-				"end": 18.34,
-				"index": 42
-			},
-			{
-				"text": "why ",
-				"start": 18.34,
-				"end": 18.38,
-				"index": 43
-			},
-			{
-				"text": "here's ",
-				"start": 18.38,
-				"end": 18.82,
-				"index": 44
-			},
-			{
-				"text": "the ",
-				"start": 18.82,
-				"end": 18.94,
-				"index": 45
-			},
-			{
-				"text": "goal, ",
-				"start": 18.94,
-				"end": 19.44,
-				"index": 46
-			},
-			{
-				"text": "LeBronny, ",
-				"start": 19.62,
-				"end": 20.46,
-				"index": 47
-			},
-			{
-				"text": "oh ",
-				"start": 20.46,
-				"end": 21.44,
-				"index": 48
-			},
-			{
-				"text": "LeBronny",
-				"start": 21.44,
-				"end": 23.28,
-				"index": 49
 			}
 		],
-		"start": -1,
-		"end": 22.28
+		"start": 16.32,
+		"end": 18.84
+	},
+	{
+		"words": [
+			{
+				"text": "LeBronnyyyyyyyy",
+				"start": 0,
+				"end": 0.74,
+				"index": 9
+			}
+		],
+		"start": 18.84,
+		"end": 19.58
+	},
+	{
+		"words": [
+			{
+				"text": "Subtitles by the",
+				"start": 0,
+				"end": 0.06,
+				"index": 10
+			}
+		],
+		"start": 19.58,
+		"end": 19.64
+	},
+	{
+		"words": [
+			{
+				"text": "Amara.org community",
+				"start": 0,
+				"end": 0,
+				"index": 11
+			}
+		],
+		"start": 19.64,
+		"end": 19.64
 	}
 ]

@@ -2,445 +2,595 @@
 	{
 		"words": [
 			{
-				"text": "You ",
+				"text": "YOU",
 				"start": 0,
-				"end": 1.4,
+				"end": 0.52,
 				"index": 0
-			},
+			}
+		],
+		"start": 3.38,
+		"end": 3.9
+	},
+	{
+		"words": [
 			{
-				"text": "are ",
-				"start": 1.4,
-				"end": 1.98,
+				"text": "ARE",
+				"start": 0,
+				"end": 0.64,
 				"index": 1
-			},
+			}
+		],
+		"start": 3.9,
+		"end": 4.54
+	},
+	{
+		"words": [
 			{
-				"text": "my ",
-				"start": 1.98,
-				"end": 3.86,
+				"text": "MY",
+				"start": 0,
+				"end": 1.88,
 				"index": 2
-			},
+			}
+		],
+		"start": 4.54,
+		"end": 6.42
+	},
+	{
+		"words": [
 			{
-				"text": "glorious ",
-				"start": 3.86,
-				"end": 5,
+				"text": "GLORIOUS",
+				"start": 0,
+				"end": 1.34,
 				"index": 3
-			},
+			}
+		],
+		"start": 6.42,
+		"end": 7.76
+	},
+	{
+		"words": [
 			{
-				"text": "king, ",
-				"start": 5,
-				"end": 5.5,
+				"text": "KING",
+				"start": 0,
+				"end": 0.62,
 				"index": 4
-			},
+			}
+		],
+		"start": 7.76,
+		"end": 8.38
+	},
+	{
+		"words": [
 			{
-				"text": "the ",
-				"start": 6.1,
-				"end": 6.32,
+				"text": "THE",
+				"start": 0,
+				"end": 0.58,
 				"index": 5
-			},
+			}
+		],
+		"start": 8.38,
+		"end": 8.96
+	},
+	{
+		"words": [
 			{
-				"text": "one, ",
-				"start": 6.32,
-				"end": 7.16,
+				"text": "ONE",
+				"start": 0,
+				"end": 0.62,
 				"index": 6
-			},
+			}
+		],
+		"start": 8.96,
+		"end": 9.58
+	},
+	{
+		"words": [
 			{
-				"text": "the ",
-				"start": 7.16,
-				"end": 8.78,
+				"text": "THE",
+				"start": 0,
+				"end": 1.84,
 				"index": 7
-			},
+			}
+		],
+		"start": 9.58,
+		"end": 11.42
+	},
+	{
+		"words": [
 			{
-				"text": "greatest ",
-				"start": 8.78,
-				"end": 10.24,
+				"text": "GREATEST",
+				"start": 0,
+				"end": 1.74,
 				"index": 8
-			},
+			}
+		],
+		"start": 11.42,
+		"end": 13.16
+	},
+	{
+		"words": [
 			{
-				"text": "belief",
-				"start": 10.24,
-				"end": 11.54,
+				"text": "BELIEVER",
+				"start": 0,
+				"end": 1.14,
 				"index": 9
 			}
 		],
-		"start": 2.54,
-		"end": 14.08
+		"start": 13.16,
+		"end": 14.3
 	},
 	{
 		"words": [
 			{
-				"text": "When ",
+				"text": "AND",
 				"start": 0,
-				"end": 2.14,
+				"end": 0.08,
 				"index": 10
-			},
+			}
+		],
+		"start": 14.3,
+		"end": 14.38
+	},
+	{
+		"words": [
 			{
-				"text": "I ",
-				"start": 2.14,
-				"end": 2.84,
+				"text": "I",
+				"start": 0,
+				"end": 0.48,
 				"index": 11
-			},
+			}
+		],
+		"start": 16.49,
+		"end": 16.97
+	},
+	{
+		"words": [
 			{
-				"text": "say ",
-				"start": 2.84,
-				"end": 3.8,
+				"text": "SAY ",
+				"start": 0,
+				"end": 0.94,
 				"index": 12
 			},
 			{
-				"text": "I ",
-				"start": 3.8,
-				"end": 5.26,
+				"text": "I",
+				"start": 0.94,
+				"end": 2.44,
 				"index": 13
-			},
+			}
+		],
+		"start": 16.97,
+		"end": 19.41
+	},
+	{
+		"words": [
 			{
-				"text": "want ",
-				"start": 5.26,
-				"end": 6.36,
+				"text": "THINK",
+				"start": 0,
+				"end": 0.44,
 				"index": 14
-			},
+			}
+		],
+		"start": 19.41,
+		"end": 19.85
+	},
+	{
+		"words": [
 			{
-				"text": "LeBron ",
-				"start": 6.36,
-				"end": 7.78,
+				"text": "NO",
+				"start": 0,
+				"end": 0.42,
 				"index": 15
-			},
+			}
+		],
+		"start": 23.24,
+		"end": 23.66
+	},
+	{
+		"words": [
 			{
-				"text": "James, ",
-				"start": 7.78,
-				"end": 8.72,
+				"text": "ONE",
+				"start": 0,
+				"end": 0.62,
 				"index": 16
-			},
+			}
+		],
+		"start": 23.66,
+		"end": 24.28
+	},
+	{
+		"words": [
 			{
-				"text": "no ",
-				"start": 9.06,
-				"end": 9.48,
+				"text": "CAN",
+				"start": 0,
+				"end": 1.38,
 				"index": 17
-			},
+			}
+		],
+		"start": 24.28,
+		"end": 25.66
+	},
+	{
+		"words": [
 			{
-				"text": "one ",
-				"start": 9.48,
-				"end": 10.14,
+				"text": "TEAR",
+				"start": 0,
+				"end": 0.62,
 				"index": 18
-			},
+			}
+		],
+		"start": 25.66,
+		"end": 26.28
+	},
+	{
+		"words": [
 			{
-				"text": "can ",
-				"start": 10.14,
-				"end": 11.6,
+				"text": "YOU",
+				"start": 0,
+				"end": 0.4,
 				"index": 19
-			},
+			}
+		],
+		"start": 26.28,
+		"end": 26.68
+	},
+	{
+		"words": [
 			{
-				"text": "tear ",
-				"start": 11.6,
-				"end": 12.06,
+				"text": "APART",
+				"start": 0,
+				"end": 1.1,
 				"index": 20
-			},
+			}
+		],
+		"start": 26.68,
+		"end": 27.78
+	},
+	{
+		"words": [
 			{
-				"text": "you ",
-				"start": 12.06,
-				"end": 12.6,
+				"text": "STILL",
+				"start": 0,
+				"end": 0.82,
 				"index": 21
-			},
+			}
+		],
+		"start": 27.78,
+		"end": 28.6
+	},
+	{
+		"words": [
 			{
-				"text": "apart",
-				"start": 12.6,
-				"end": 13.42,
+				"text": "BREAKING",
+				"start": 0,
+				"end": 1.1,
 				"index": 22
 			}
 		],
-		"start": 14.08,
-		"end": 27.5
+		"start": 28.6,
+		"end": 29.7
 	},
 	{
 		"words": [
 			{
-				"text": "Still ",
+				"text": "RECORDS",
 				"start": 0,
-				"end": 0.84,
+				"end": 1.5,
 				"index": 23
-			},
+			}
+		],
+		"start": 29.7,
+		"end": 31.2
+	},
+	{
+		"words": [
 			{
-				"text": "breaking ",
-				"start": 0.84,
-				"end": 1.64,
+				"text": "PURE",
+				"start": 0,
+				"end": 0.64,
 				"index": 24
-			},
+			}
+		],
+		"start": 31.2,
+		"end": 31.84
+	},
+	{
+		"words": [
 			{
-				"text": "records, ",
-				"start": 1.64,
-				"end": 3.14,
+				"text": "TO",
+				"start": 0,
+				"end": 0.4,
 				"index": 25
-			},
+			}
+		],
+		"start": 31.84,
+		"end": 32.24
+	},
+	{
+		"words": [
 			{
-				"text": "pure ",
-				"start": 3.58,
-				"end": 4.04,
+				"text": "PLAY",
+				"start": 0,
+				"end": 0.54,
 				"index": 26
-			},
+			}
+		],
+		"start": 33.87,
+		"end": 34.41
+	},
+	{
+		"words": [
 			{
-				"text": "art",
-				"start": 4.04,
-				"end": 5.08,
+				"text": "YOU",
+				"start": 0,
+				"end": 1.12,
 				"index": 27
 			}
 		],
-		"start": 27.5,
-		"end": 32.58
+		"start": 34.41,
+		"end": 35.53
 	},
 	{
 		"words": [
 			{
-				"text": "When ",
+				"text": "MAKE",
 				"start": 0,
-				"end": 0.8,
+				"end": 0.48,
 				"index": 28
-			},
+			}
+		],
+		"start": 35.53,
+		"end": 36.01
+	},
+	{
+		"words": [
 			{
-				"text": "you ",
-				"start": 0.8,
-				"end": 1.14,
+				"text": "THE",
+				"start": 0,
+				"end": 0.12,
 				"index": 29
-			},
+			}
+		],
+		"start": 36.01,
+		"end": 36.13
+	},
+	{
+		"words": [
 			{
-				"text": "play, ",
-				"start": 1.14,
-				"end": 1.78,
+				"text": "GAME",
+				"start": 0,
+				"end": 0.48,
 				"index": 30
-			},
+			}
+		],
+		"start": 36.13,
+		"end": 36.61
+	},
+	{
+		"words": [
 			{
-				"text": "you ",
-				"start": 2.14,
-				"end": 2.88,
+				"text": "LOOK",
+				"start": 0,
+				"end": 0.22,
 				"index": 31
-			},
+			}
+		],
+		"start": 36.61,
+		"end": 36.83
+	},
+	{
+		"words": [
 			{
-				"text": "make ",
-				"start": 2.88,
-				"end": 3.26,
+				"text": "INSANE",
+				"start": 0,
+				"end": 0.86,
 				"index": 32
-			},
+			}
+		],
+		"start": 36.83,
+		"end": 37.69
+	},
+	{
+		"words": [
 			{
-				"text": "the ",
-				"start": 3.26,
-				"end": 3.54,
+				"text": "THAT'S",
+				"start": 0,
+				"end": 1.02,
 				"index": 33
-			},
+			}
+		],
+		"start": 37.69,
+		"end": 38.71
+	},
+	{
+		"words": [
 			{
-				"text": "game ",
-				"start": 3.54,
-				"end": 3.98,
+				"text": "WHY ",
+				"start": 0,
+				"end": 0.18,
 				"index": 34
 			},
 			{
-				"text": "look ",
-				"start": 3.98,
-				"end": 4.24,
+				"text": "I",
+				"start": 0.18,
+				"end": 0.86,
 				"index": 35
-			},
+			}
+		],
+		"start": 38.71,
+		"end": 39.57
+	},
+	{
+		"words": [
 			{
-				"text": "insane",
-				"start": 4.24,
-				"end": 4.76,
+				"text": "WANT",
+				"start": 0,
+				"end": 0.9,
 				"index": 36
 			}
 		],
-		"start": 32.58,
-		"end": 37.34
+		"start": 39.57,
+		"end": 40.47
 	},
 	{
 		"words": [
 			{
-				"text": "That's ",
+				"text": "LEBRON",
 				"start": 0,
-				"end": 1.34,
+				"end": 1.4,
 				"index": 37
-			},
+			}
+		],
+		"start": 40.47,
+		"end": 41.87
+	},
+	{
+		"words": [
 			{
-				"text": "why ",
-				"start": 1.34,
-				"end": 1.56,
+				"text": "JAMES",
+				"start": 0,
+				"end": 0.54,
 				"index": 38
-			},
+			}
+		],
+		"start": 41.87,
+		"end": 42.41
+	},
+	{
+		"words": [
 			{
-				"text": "I ",
-				"start": 1.56,
-				"end": 2.26,
+				"text": "TELL",
+				"start": 0,
+				"end": 0.55,
 				"index": 39
-			},
+			}
+		],
+		"start": 42.84,
+		"end": 43.39
+	},
+	{
+		"words": [
 			{
-				"text": "want ",
-				"start": 2.26,
-				"end": 2.64,
+				"text": "ME",
+				"start": 0,
+				"end": 0.06,
 				"index": 40
-			},
+			}
+		],
+		"start": 43.39,
+		"end": 43.45
+	},
+	{
+		"words": [
 			{
-				"text": "LeBron ",
-				"start": 2.64,
-				"end": 4.2,
+				"text": "WHY",
+				"start": 0,
+				"end": 0.22,
 				"index": 41
-			},
+			}
+		],
+		"start": 43.45,
+		"end": 43.67
+	},
+	{
+		"words": [
 			{
-				"text": "James",
-				"start": 4.2,
-				"end": 5.06,
+				"text": "HE'S",
+				"start": 0,
+				"end": 0.52,
 				"index": 42
 			}
 		],
-		"start": 37.34,
-		"end": 42.4
+		"start": 46.71,
+		"end": 47.23
 	},
 	{
 		"words": [
 			{
-				"text": "Ain't ",
+				"text": "IN",
 				"start": 0,
-				"end": 2.3,
+				"end": 1.74,
 				"index": 43
-			},
+			}
+		],
+		"start": 47.23,
+		"end": 48.97
+	},
+	{
+		"words": [
 			{
-				"text": "no ",
-				"start": 2.3,
-				"end": 2.62,
+				"text": "FOR ",
+				"start": 0,
+				"end": 0.28,
 				"index": 44
 			},
 			{
-				"text": "one ",
-				"start": 2.62,
-				"end": 3.04,
+				"text": "MVP",
+				"start": 0.28,
+				"end": 1.42,
 				"index": 45
-			},
+			}
+		],
+		"start": 50.25,
+		"end": 51.67
+	},
+	{
+		"words": [
 			{
-				"text": "like ",
-				"start": 3.04,
-				"end": 3.36,
+				"text": "I",
+				"start": 0,
+				"end": 0.9,
 				"index": 46
-			},
+			}
+		],
+		"start": 51.67,
+		"end": 52.57
+	},
+	{
+		"words": [
 			{
-				"text": "LeBron ",
-				"start": 3.36,
-				"end": 4.18,
+				"text": "WANNA",
+				"start": 0,
+				"end": 0.2,
 				"index": 47
-			},
+			}
+		],
+		"start": 55.71,
+		"end": 55.91
+	},
+	{
+		"words": [
 			{
-				"text": "James",
-				"start": 4.18,
-				"end": 5.18,
+				"text": "HEAR",
+				"start": 0,
+				"end": 0.56,
 				"index": 48
 			}
 		],
-		"start": 42.4,
-		"end": 47.58
+		"start": 55.91,
+		"end": 56.47
 	},
 	{
 		"words": [
 			{
-				"text": "Four ",
+				"text": "YOU",
 				"start": 0,
-				"end": 0.72,
+				"end": 0.18,
 				"index": 49
-			},
+			}
+		],
+		"start": 56.47,
+		"end": 56.65
+	},
+	{
+		"words": [
 			{
-				"text": "rings ",
-				"start": 0.72,
-				"end": 1.6,
+				"text": "SAY",
+				"start": 0,
+				"end": 0.4,
 				"index": 50
-			},
-			{
-				"text": "and ",
-				"start": 1.6,
-				"end": 1.74,
-				"index": 51
-			},
-			{
-				"text": "four",
-				"start": 1.74,
-				"end": 2,
-				"index": 52
 			}
 		],
-		"start": 48.5,
-		"end": 50.5
-	},
-	{
-		"words": [
-			{
-				"text": "MVPs ",
-				"start": 0,
-				"end": 1.8,
-				"index": 53
-			},
-			{
-				"text": "I ",
-				"start": 1.8,
-				"end": 3.62,
-				"index": 54
-			},
-			{
-				"text": "always ",
-				"start": 3.62,
-				"end": 4.58,
-				"index": 55
-			},
-			{
-				"text": "wanna ",
-				"start": 4.58,
-				"end": 5.08,
-				"index": 56
-			},
-			{
-				"text": "hear ",
-				"start": 5.08,
-				"end": 5.64,
-				"index": 57
-			},
-			{
-				"text": "you ",
-				"start": 5.64,
-				"end": 6.2,
-				"index": 58
-			},
-			{
-				"text": "say",
-				"start": 6.2,
-				"end": 6.56,
-				"index": 59
-			}
-		],
-		"start": 50.5,
-		"end": 57.06
-	},
-	{
-		"words": [
-			{
-				"text": "That ",
-				"start": 0,
-				"end": 1.04,
-				"index": 60
-			},
-			{
-				"text": "you ",
-				"start": 1.04,
-				"end": 1.44,
-				"index": 61
-			},
-			{
-				"text": "love ",
-				"start": 1.44,
-				"end": 2.46,
-				"index": 62
-			},
-			{
-				"text": "LeBron ",
-				"start": 2.46,
-				"end": 4.22,
-				"index": 63
-			},
-			{
-				"text": "James",
-				"start": 4.22,
-				"end": 4.92,
-				"index": 64
-			}
-		],
-		"start": 57.06,
-		"end": 61.98
+		"start": 56.65,
+		"end": 57.05
 	}
 ]

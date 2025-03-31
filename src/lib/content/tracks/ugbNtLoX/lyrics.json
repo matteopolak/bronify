@@ -4,455 +4,119 @@
 			{
 				"text": "LeBron ",
 				"start": 0,
-				"end": 0.88,
+				"end": 1.78,
 				"index": 0
 			},
 			{
 				"text": "James, ",
-				"start": 0.88,
-				"end": 1.5,
+				"start": 1.78,
+				"end": 2.54,
 				"index": 1
 			},
 			{
 				"text": "making ",
-				"start": 1.9,
-				"end": 3.12,
+				"start": 2.84,
+				"end": 4.1,
 				"index": 2
 			},
 			{
-				"text": "buckets ",
-				"start": 3.12,
-				"end": 3.62,
+				"text": "pockets ",
+				"start": 4.1,
+				"end": 4.62,
 				"index": 3
 			},
 			{
 				"text": "from ",
-				"start": 3.62,
-				"end": 3.96,
+				"start": 4.62,
+				"end": 4.92,
 				"index": 4
 			},
 			{
 				"text": "the ",
-				"start": 3.96,
-				"end": 4.16,
+				"start": 4.92,
+				"end": 5.16,
 				"index": 5
 			},
 			{
 				"text": "free ",
-				"start": 4.16,
-				"end": 4.5,
+				"start": 5.16,
+				"end": 5.44,
 				"index": 6
 			},
 			{
-				"text": "throw, ",
-				"start": 4.5,
-				"end": 5,
+				"text": "throw ",
+				"start": 5.44,
+				"end": 5.92,
 				"index": 7
 			},
 			{
-				"text": "born ",
-				"start": 5.36,
-				"end": 7.42,
+				"text": "LeBron",
+				"start": 5.92,
+				"end": 7.36,
 				"index": 8
-			},
+			}
+		],
+		"start": 3.31,
+		"end": 10.67
+	},
+	{
+		"words": [
 			{
-				"text": "to ",
-				"start": 7.42,
-				"end": 8.52,
+				"text": "James, ",
+				"start": 0,
+				"end": 0.06,
 				"index": 9
 			},
 			{
-				"text": "be ",
-				"start": 8.52,
-				"end": 8.8,
+				"text": "making pockets from ",
+				"start": 0.48,
+				"end": 0.76,
 				"index": 10
 			},
 			{
-				"text": "great, ",
-				"start": 8.8,
-				"end": 9.32,
+				"text": "the ",
+				"start": 8.16,
+				"end": 8.74,
 				"index": 11
 			},
 			{
-				"text": "there ",
-				"start": 9.58,
-				"end": 10.46,
+				"text": "free ",
+				"start": 8.74,
+				"end": 8.78,
 				"index": 12
 			},
 			{
-				"text": "must ",
-				"start": 10.46,
-				"end": 10.78,
+				"text": "throw ",
+				"start": 8.78,
+				"end": 9.38,
 				"index": 13
 			},
 			{
-				"text": "be ",
-				"start": 10.78,
-				"end": 10.96,
+				"text": "LeBron ",
+				"start": 9.38,
+				"end": 9.74,
 				"index": 14
 			},
 			{
-				"text": "something ",
-				"start": 10.96,
-				"end": 11.4,
+				"text": "James, ",
+				"start": 9.74,
+				"end": 10.76,
 				"index": 15
 			},
 			{
-				"text": "in ",
-				"start": 11.4,
-				"end": 11.76,
+				"text": "making ",
+				"start": 36.68,
+				"end": 37.06,
 				"index": 16
 			},
 			{
-				"text": "the ",
-				"start": 11.76,
-				"end": 11.9,
+				"text": "pockets from the free throw",
+				"start": 39.81,
+				"end": 41.13,
 				"index": 17
-			},
-			{
-				"text": "water, ",
-				"start": 11.9,
-				"end": 12.62,
-				"index": 18
-			},
-			{
-				"text": "sit ",
-				"start": 14.06,
-				"end": 14.92,
-				"index": 19
-			},
-			{
-				"text": "bet, ",
-				"start": 14.92,
-				"end": 15.38,
-				"index": 20
-			},
-			{
-				"text": "laterate, ",
-				"start": 15.72,
-				"end": 17.18,
-				"index": 21
-			},
-			{
-				"text": "white ",
-				"start": 17.4,
-				"end": 18.36,
-				"index": 22
-			},
-			{
-				"text": "bleach ",
-				"start": 18.36,
-				"end": 18.7,
-				"index": 23
-			},
-			{
-				"text": "wet ",
-				"start": 18.7,
-				"end": 18.96,
-				"index": 24
-			},
-			{
-				"text": "from ",
-				"start": 18.96,
-				"end": 19.16,
-				"index": 25
-			},
-			{
-				"text": "office ",
-				"start": 19.16,
-				"end": 19.54,
-				"index": 26
-			},
-			{
-				"text": "waterheads",
-				"start": 19.54,
-				"end": 20.54,
-				"index": 27
 			}
 		],
-		"start": 4.24,
-		"end": 24.78
-	},
-	{
-		"words": [
-			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0.86,
-				"index": 28
-			},
-			{
-				"text": "year ",
-				"start": 1.32,
-				"end": 2.04,
-				"index": 29
-			},
-			{
-				"text": "to ",
-				"start": 2.04,
-				"end": 2.24,
-				"index": 30
-			},
-			{
-				"text": "go, ",
-				"start": 2.24,
-				"end": 2.78,
-				"index": 31
-			},
-			{
-				"text": "the ",
-				"start": 2.9,
-				"end": 3.88,
-				"index": 32
-			},
-			{
-				"text": "greatest ",
-				"start": 3.88,
-				"end": 4.38,
-				"index": 33
-			},
-			{
-				"text": "gold ",
-				"start": 4.38,
-				"end": 4.76,
-				"index": 34
-			},
-			{
-				"text": "that ",
-				"start": 4.76,
-				"end": 4.92,
-				"index": 35
-			},
-			{
-				"text": "ever ",
-				"start": 4.92,
-				"end": 5.3,
-				"index": 36
-			},
-			{
-				"text": "lived ",
-				"start": 5.3,
-				"end": 5.74,
-				"index": 37
-			},
-			{
-				"text": "here",
-				"start": 5.74,
-				"end": 6.24,
-				"index": 38
-			}
-		],
-		"start": 26.12,
-		"end": 32.36
-	},
-	{
-		"words": [
-			{
-				"text": "You ",
-				"start": 0,
-				"end": 0.86,
-				"index": 39
-			},
-			{
-				"text": "could ",
-				"start": 0.86,
-				"end": 1.14,
-				"index": 40
-			},
-			{
-				"text": "travel ",
-				"start": 1.14,
-				"end": 1.64,
-				"index": 41
-			},
-			{
-				"text": "the ",
-				"start": 1.64,
-				"end": 1.94,
-				"index": 42
-			},
-			{
-				"text": "world, ",
-				"start": 1.94,
-				"end": 2.48,
-				"index": 43
-			},
-			{
-				"text": "but ",
-				"start": 3.36,
-				"end": 4.1,
-				"index": 44
-			},
-			{
-				"text": "nothing ",
-				"start": 4.1,
-				"end": 4.52,
-				"index": 45
-			},
-			{
-				"text": "compares ",
-				"start": 4.52,
-				"end": 5.24,
-				"index": 46
-			},
-			{
-				"text": "to ",
-				"start": 5.24,
-				"end": 5.72,
-				"index": 47
-			},
-			{
-				"text": "LeBron ",
-				"start": 5.72,
-				"end": 6.48,
-				"index": 48
-			},
-			{
-				"text": "would ",
-				"start": 6.48,
-				"end": 6.82,
-				"index": 49
-			},
-			{
-				"text": "go, ",
-				"start": 6.82,
-				"end": 7.3,
-				"index": 50
-			},
-			{
-				"text": "once ",
-				"start": 7.64,
-				"end": 8.68,
-				"index": 51
-			},
-			{
-				"text": "you ",
-				"start": 8.68,
-				"end": 8.82,
-				"index": 52
-			},
-			{
-				"text": "see ",
-				"start": 8.82,
-				"end": 9.24,
-				"index": 53
-			},
-			{
-				"text": "him ",
-				"start": 9.24,
-				"end": 9.42,
-				"index": 54
-			},
-			{
-				"text": "play ",
-				"start": 9.42,
-				"end": 9.56,
-				"index": 55
-			},
-			{
-				"text": "ball, ",
-				"start": 9.56,
-				"end": 9.9,
-				"index": 56
-			},
-			{
-				"text": "you'll ",
-				"start": 10.58,
-				"end": 11.58,
-				"index": 57
-			},
-			{
-				"text": "be ",
-				"start": 11.58,
-				"end": 11.68,
-				"index": 58
-			},
-			{
-				"text": "falling ",
-				"start": 11.68,
-				"end": 12.24,
-				"index": 59
-			},
-			{
-				"text": "in ",
-				"start": 12.24,
-				"end": 12.42,
-				"index": 60
-			},
-			{
-				"text": "love",
-				"start": 12.42,
-				"end": 12.56,
-				"index": 61
-			}
-		],
-		"start": 34.18,
-		"end": 46.74
-	},
-	{
-		"words": [
-			{
-				"text": "I ",
-				"start": 0,
-				"end": 0.82,
-				"index": 62
-			},
-			{
-				"text": "don't ",
-				"start": 0.82,
-				"end": 1.64,
-				"index": 63
-			},
-			{
-				"text": "care, ",
-				"start": 1.64,
-				"end": 1.74,
-				"index": 64
-			},
-			{
-				"text": "I'm ",
-				"start": 1.96,
-				"end": 2.26,
-				"index": 65
-			},
-			{
-				"text": "glazing ",
-				"start": 2.26,
-				"end": 2.98,
-				"index": 66
-			},
-			{
-				"text": "all ",
-				"start": 2.98,
-				"end": 3.28,
-				"index": 67
-			},
-			{
-				"text": "night, ",
-				"start": 3.28,
-				"end": 3.72,
-				"index": 68
-			},
-			{
-				"text": "smooth ",
-				"start": 4.04,
-				"end": 4.58,
-				"index": 69
-			},
-			{
-				"text": "dark ",
-				"start": 4.58,
-				"end": 5.18,
-				"index": 70
-			},
-			{
-				"text": "skin",
-				"start": 5.18,
-				"end": 5.56,
-				"index": 71
-			}
-		],
-		"start": 53.08,
-		"end": 58.64
+		"start": 15.34,
+		"end": 56.47
 	}
 ]

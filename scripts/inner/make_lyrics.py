@@ -71,7 +71,8 @@ Music lyrics.
 Bronny, LeBronny, GOAT, LBJ, LeBron, LeSunshine
 Gatorade, Lakers, Mavs, Luka Don, Dallas, Miami, Cavs, Heat, NBA
 Stephen Curry, Steph, Golden State, Warriors, light up the court
-Bronify
+Bronify, pump fake, light up, LAX, NBA, MVP, win in five, 6 foot 9,
+glaze, GOAT is LeBron, Bron is the GOAT
 """
 
 model = WhisperModel(
@@ -89,9 +90,20 @@ def transcribe_audio(file_path):
     segments, _ = model.transcribe(
         file_path,
         task="transcribe",
+        beam_size=15,
+        best_of=15,
+        temperature=[0.0],
+        condition_on_previous_text=True,
+        chunk_length=30,
         word_timestamps=True,
+        without_timestamps=False,
         initial_prompt=PROMPT,
-        language="en"
+        language="en",
+        vad_filter=True,
+        vad_parameters={"threshold": 0.4},
+        suppress_blank=True,
+        no_speech_threshold=0.3,
+        hallucination_silence_threshold=0.1
     )
     print(f"Transcribed {file_path}")
     out = []

@@ -2,547 +2,409 @@
 	{
 		"words": [
 			{
-				"text": "I ",
+				"text": "LOOP",
 				"start": 0,
-				"end": 0.64,
+				"end": 0.52,
 				"index": 0
-			},
+			}
+		],
+		"start": 0,
+		"end": 0.52
+	},
+	{
+		"words": [
 			{
-				"text": "gotta ",
-				"start": 0.64,
-				"end": 1.08,
+				"text": "LOOP",
+				"start": 0,
+				"end": 1.2,
 				"index": 1
-			},
+			}
+		],
+		"start": 0.52,
+		"end": 1.72
+	},
+	{
+		"words": [
 			{
-				"text": "thank ",
-				"start": 1.08,
-				"end": 1.74,
+				"text": "LOOP",
+				"start": 0,
+				"end": 0.92,
 				"index": 2
-			},
+			}
+		],
+		"start": 1.72,
+		"end": 2.64
+	},
+	{
+		"words": [
 			{
-				"text": "LeBron",
-				"start": 1.74,
-				"end": 2.32,
+				"text": "LOOP",
+				"start": 0,
+				"end": 0.62,
 				"index": 3
 			}
 		],
-		"start": 12.58,
-		"end": 14.9
+		"start": 2.64,
+		"end": 3.26
 	},
 	{
 		"words": [
 			{
-				"text": "He ",
+				"text": "LOOP",
+				"start": 0,
+				"end": 0.18,
+				"index": 4
+			}
+		],
+		"start": 3.26,
+		"end": 3.44
+	},
+	{
+		"words": [
+			{
+				"text": "LOOP",
+				"start": 0,
+				"end": 0.34,
+				"index": 5
+			}
+		],
+		"start": 3.44,
+		"end": 3.78
+	},
+	{
+		"words": [
+			{
+				"text": "LOOP",
+				"start": 0,
+				"end": 0.24,
+				"index": 6
+			}
+		],
+		"start": 3.78,
+		"end": 4.02
+	},
+	{
+		"words": [
+			{
+				"text": "LOOP",
+				"start": 0,
+				"end": 0.24,
+				"index": 7
+			}
+		],
+		"start": 4.02,
+		"end": 4.26
+	},
+	{
+		"words": [
+			{
+				"text": "LOOP",
+				"start": 0,
+				"end": 0.28,
+				"index": 8
+			}
+		],
+		"start": 4.26,
+		"end": 4.54
+	},
+	{
+		"words": [
+			{
+				"text": "LOOP",
+				"start": 0,
+				"end": 0.28,
+				"index": 9
+			}
+		],
+		"start": 4.54,
+		"end": 4.82
+	},
+	{
+		"words": [
+			{
+				"text": "LOOP",
+				"start": 0,
+				"end": 0.22,
+				"index": 10
+			}
+		],
+		"start": 4.82,
+		"end": 5.04
+	},
+	{
+		"words": [
+			{
+				"text": "LOOP LOOP",
+				"start": 0,
+				"end": 5.18,
+				"index": 11
+			}
+		],
+		"start": 5.04,
+		"end": 5.04
+	},
+	{
+		"words": [
+			{
+				"text": "LOOP",
+				"start": 0,
+				"end": 0.08,
+				"index": 12
+			}
+		],
+		"start": 5.18,
+		"end": 5.26
+	},
+	{
+		"words": [
+			{
+				"text": "LOOP",
 				"start": 0,
 				"end": 0.7,
-				"index": 4
-			},
-			{
-				"text": "done ",
-				"start": 0.7,
-				"end": 0.94,
-				"index": 5
-			},
-			{
-				"text": "played ",
-				"start": 0.94,
-				"end": 1.26,
-				"index": 6
-			},
-			{
-				"text": "a ",
-				"start": 1.26,
-				"end": 1.42,
-				"index": 7
-			},
-			{
-				"text": "bunch ",
-				"start": 1.42,
-				"end": 1.66,
-				"index": 8
-			},
-			{
-				"text": "of ",
-				"start": 1.66,
-				"end": 1.86,
-				"index": 9
-			},
-			{
-				"text": "games ",
-				"start": 1.86,
-				"end": 2.3,
-				"index": 10
-			},
-			{
-				"text": "that ",
-				"start": 2.3,
-				"end": 2.52,
-				"index": 11
-			},
-			{
-				"text": "he ",
-				"start": 2.52,
-				"end": 2.74,
-				"index": 12
-			},
-			{
-				"text": "deserve ",
-				"start": 2.74,
-				"end": 3.14,
 				"index": 13
-			},
+			}
+		],
+		"start": 5.26,
+		"end": 5.96
+	},
+	{
+		"words": [
 			{
-				"text": "all ",
-				"start": 3.14,
-				"end": 3.48,
+				"text": "LOOP",
+				"start": 0,
+				"end": 0.06,
 				"index": 14
-			},
+			}
+		],
+		"start": 5.96,
+		"end": 6.02
+	},
+	{
+		"words": [
 			{
-				"text": "this ",
-				"start": 3.48,
-				"end": 3.68,
+				"text": "LOOP",
+				"start": 0,
+				"end": 0.54,
 				"index": 15
-			},
+			}
+		],
+		"start": 6.02,
+		"end": 6.56
+	},
+	{
+		"words": [
 			{
-				"text": "fame ",
-				"start": 3.68,
-				"end": 3.94,
+				"text": "LOOP LOOP",
+				"start": 0,
+				"end": 6.6,
 				"index": 16
-			},
+			}
+		],
+		"start": 6.56,
+		"end": 6.56
+	},
+	{
+		"words": [
 			{
-				"text": "so ",
-				"start": 3.94,
-				"end": 4.28,
+				"text": "LOOP",
+				"start": 0,
+				"end": 0.14,
 				"index": 17
-			},
+			}
+		],
+		"start": 6.6,
+		"end": 6.74
+	},
+	{
+		"words": [
 			{
-				"text": "we ",
-				"start": 4.28,
-				"end": 4.52,
+				"text": "LOOP",
+				"start": 0,
+				"end": 0.96,
 				"index": 18
-			},
+			}
+		],
+		"start": 6.74,
+		"end": 7.7
+	},
+	{
+		"words": [
 			{
-				"text": "do ",
-				"start": 4.52,
-				"end": 4.72,
+				"text": "LOOP",
+				"start": 0,
+				"end": 2.78,
 				"index": 19
-			},
+			}
+		],
+		"start": 9.17,
+		"end": 11.95
+	},
+	{
+		"words": [
 			{
-				"text": "Brian ",
-				"start": 4.72,
-				"end": 5.1,
+				"text": "LOOP",
+				"start": 0,
+				"end": 2.68,
 				"index": 20
-			},
+			}
+		],
+		"start": 11.95,
+		"end": 14.63
+	},
+	{
+		"words": [
 			{
-				"text": "the ",
-				"start": 5.1,
-				"end": 5.44,
+				"text": "LOOP",
+				"start": 0,
+				"end": 1.74,
 				"index": 21
-			},
+			}
+		],
+		"start": 14.63,
+		"end": 16.37
+	},
+	{
+		"words": [
 			{
-				"text": "same ",
-				"start": 5.44,
-				"end": 5.78,
+				"text": "LOOP",
+				"start": 0,
+				"end": 15.08,
 				"index": 22
-			},
+			}
+		],
+		"start": 16.37,
+		"end": 31.45
+	},
+	{
+		"words": [
 			{
-				"text": "I ",
-				"start": 5.78,
-				"end": 5.88,
+				"text": "LOOP",
+				"start": 0,
+				"end": 1.4,
 				"index": 23
-			},
+			}
+		],
+		"start": 34.05,
+		"end": 35.45
+	},
+	{
+		"words": [
 			{
-				"text": "gotta ",
-				"start": 5.88,
-				"end": 6.3,
+				"text": "LOOP",
+				"start": 0,
+				"end": 1.4,
 				"index": 24
-			},
+			}
+		],
+		"start": 35.45,
+		"end": 36.85
+	},
+	{
+		"words": [
 			{
-				"text": "thank ",
-				"start": 6.3,
-				"end": 6.64,
+				"text": "LOOP",
+				"start": 0,
+				"end": 0.22,
 				"index": 25
-			},
+			}
+		],
+		"start": 36.85,
+		"end": 37.07
+	},
+	{
+		"words": [
 			{
-				"text": "LeBron",
-				"start": 6.64,
-				"end": 7.54,
+				"text": "LOOP",
+				"start": 0,
+				"end": 0.24,
 				"index": 26
 			}
 		],
-		"start": 14.9,
-		"end": 22.44
+		"start": 37.07,
+		"end": 37.31
 	},
 	{
 		"words": [
 			{
-				"text": "He ",
+				"text": "LOOP",
 				"start": 0,
-				"end": 0.18,
+				"end": 0.42,
 				"index": 27
-			},
+			}
+		],
+		"start": 37.31,
+		"end": 37.73
+	},
+	{
+		"words": [
 			{
-				"text": "been ",
-				"start": 0.18,
-				"end": 0.28,
+				"text": "LOOP",
+				"start": 0,
+				"end": 0.78,
 				"index": 28
-			},
+			}
+		],
+		"start": 37.73,
+		"end": 38.51
+	},
+	{
+		"words": [
 			{
-				"text": "that ",
-				"start": 0.28,
-				"end": 0.6,
+				"text": "LOOP",
+				"start": 0,
+				"end": 1.16,
 				"index": 29
-			},
+			}
+		],
+		"start": 38.51,
+		"end": 39.67
+	},
+	{
+		"words": [
 			{
-				"text": "guy ",
-				"start": 0.6,
-				"end": 0.8,
+				"text": "LOOP",
+				"start": 0,
+				"end": 0.32,
 				"index": 30
-			},
-			{
-				"text": "since ",
-				"start": 0.8,
-				"end": 1.22,
-				"index": 31
-			},
-			{
-				"text": "03 ",
-				"start": 1.22,
-				"end": 1.62,
-				"index": 32
-			},
-			{
-				"text": "like ",
-				"start": 1.62,
-				"end": 2.24,
-				"index": 33
-			},
-			{
-				"text": "LBJ",
-				"start": 2.24,
-				"end": 3.08,
-				"index": 34
 			}
 		],
-		"start": 22.44,
-		"end": 25.52
+		"start": 39.67,
+		"end": 39.99
 	},
 	{
 		"words": [
 			{
-				"text": "Sween",
+				"text": "LOOP",
 				"start": 0,
-				"end": 0.24,
-				"index": 35
-			}
-		],
-		"start": 25.82,
-		"end": 26.06
-	},
-	{
-		"words": [
-			{
-				"text": "Tween",
-				"start": 0,
-				"end": 0.08,
-				"index": 36
-			}
-		],
-		"start": 26.28,
-		"end": 26.36
-	},
-	{
-		"words": [
-			{
-				"text": "Lay, ",
-				"start": 0,
-				"end": 0.22,
-				"index": 37
-			},
-			{
-				"text": "he ",
-				"start": 0.4,
 				"end": 0.6,
-				"index": 38
-			},
-			{
-				"text": "go ",
-				"start": 0.6,
-				"end": 0.82,
-				"index": 39
-			},
-			{
-				"text": "insane ",
-				"start": 0.82,
-				"end": 1.12,
-				"index": 40
-			},
-			{
-				"text": "I ",
-				"start": 1.12,
-				"end": 1.54,
-				"index": 41
-			},
-			{
-				"text": "gotta ",
-				"start": 1.54,
-				"end": 1.84,
-				"index": 42
-			},
-			{
-				"text": "thank ",
-				"start": 1.84,
-				"end": 2.22,
-				"index": 43
-			},
-			{
-				"text": "LeBron",
-				"start": 2.22,
-				"end": 2.7,
-				"index": 44
+				"index": 31
 			}
 		],
-		"start": 26.46,
-		"end": 29.16
+		"start": 39.99,
+		"end": 40.59
 	},
 	{
 		"words": [
 			{
-				"text": "When ",
+				"text": "LOOP",
 				"start": 0,
-				"end": 0.26,
-				"index": 45
-			},
-			{
-				"text": "he ",
-				"start": 0.26,
-				"end": 0.3,
-				"index": 46
-			},
-			{
-				"text": "does ",
-				"start": 0.3,
-				"end": 0.46,
-				"index": 47
-			},
-			{
-				"text": "that ",
-				"start": 0.46,
-				"end": 0.76,
-				"index": 48
-			},
-			{
-				"text": "move, ",
-				"start": 0.76,
-				"end": 1.02,
-				"index": 49
-			},
-			{
-				"text": "that ",
-				"start": 1.26,
-				"end": 1.84,
-				"index": 50
-			},
-			{
-				"text": "look ",
-				"start": 1.84,
-				"end": 2.2,
-				"index": 51
-			},
-			{
-				"text": "for ",
-				"start": 2.2,
-				"end": 2.54,
-				"index": 52
-			},
-			{
-				"text": "you ",
-				"start": 2.54,
-				"end": 2.8,
-				"index": 53
-			},
-			{
-				"text": "I ",
-				"start": 2.8,
-				"end": 3.2,
-				"index": 54
-			},
-			{
-				"text": "appreciate ",
-				"start": 3.2,
-				"end": 3.74,
-				"index": 55
-			},
-			{
-				"text": "every ",
-				"start": 3.74,
-				"end": 4.6,
-				"index": 56
-			},
-			{
-				"text": "buggy ",
-				"start": 4.6,
-				"end": 5.22,
-				"index": 57
-			},
-			{
-				"text": "he ",
-				"start": 5.22,
-				"end": 5.26,
-				"index": 58
-			},
-			{
-				"text": "be ",
-				"start": 5.26,
-				"end": 5.46,
-				"index": 59
-			},
-			{
-				"text": "scoring ",
-				"start": 5.46,
-				"end": 5.74,
-				"index": 60
-			},
-			{
-				"text": "I ",
-				"start": 5.74,
-				"end": 6,
-				"index": 61
-			},
-			{
-				"text": "gotta ",
-				"start": 6,
-				"end": 6.32,
-				"index": 62
-			},
-			{
-				"text": "thank ",
-				"start": 6.32,
-				"end": 6.78,
-				"index": 63
-			},
-			{
-				"text": "LeBron",
-				"start": 6.78,
-				"end": 7.76,
-				"index": 64
-			}
-		],
-		"start": 29.16,
-		"end": 36.92
-	},
-	{
-		"words": [
-			{
-				"text": "He ",
-				"start": 0,
-				"end": 0.34,
-				"index": 65
-			},
-			{
-				"text": "gonna ",
-				"start": 0.34,
-				"end": 0.54,
-				"index": 66
-			},
-			{
-				"text": "do ",
-				"start": 0.54,
-				"end": 0.68,
-				"index": 67
-			},
-			{
-				"text": "his ",
-				"start": 0.68,
-				"end": 0.92,
-				"index": 68
-			},
-			{
-				"text": "best ",
-				"start": 0.92,
-				"end": 1.14,
-				"index": 69
-			},
-			{
-				"text": "for ",
-				"start": 1.14,
 				"end": 1.36,
-				"index": 70
-			},
-			{
-				"text": "the ",
-				"start": 1.36,
-				"end": 1.44,
-				"index": 71
-			},
-			{
-				"text": "team",
-				"start": 1.44,
-				"end": 1.78,
-				"index": 72
+				"index": 32
 			}
 		],
-		"start": 36.92,
-		"end": 38.7
+		"start": 40.59,
+		"end": 41.95
 	},
 	{
 		"words": [
 			{
-				"text": "Shout ",
+				"text": "LOOP",
 				"start": 0,
-				"end": 0.64,
-				"index": 73
-			},
-			{
-				"text": "out ",
-				"start": 0.64,
-				"end": 0.98,
-				"index": 74
-			},
-			{
-				"text": "to ",
-				"start": 0.98,
-				"end": 1.14,
-				"index": 75
-			},
-			{
-				"text": "my ",
-				"start": 1.14,
-				"end": 1.32,
-				"index": 76
-			},
-			{
-				"text": "glorious ",
-				"start": 1.32,
-				"end": 1.8,
-				"index": 77
-			},
-			{
-				"text": "king ",
-				"start": 1.8,
-				"end": 2.26,
-				"index": 78
-			},
-			{
-				"text": "and ",
-				"start": 2.26,
-				"end": 2.74,
-				"index": 79
-			},
-			{
-				"text": "thank ",
-				"start": 2.74,
-				"end": 2.94,
-				"index": 80
-			},
-			{
-				"text": "LeBron",
-				"start": 2.94,
-				"end": 3.52,
-				"index": 81
+				"end": 1.06,
+				"index": 33
 			}
 		],
-		"start": 38.7,
-		"end": 42.22
+		"start": 41.95,
+		"end": 43.01
 	}
 ]

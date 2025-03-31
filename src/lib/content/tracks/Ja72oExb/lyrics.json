@@ -165,7 +165,7 @@
 			}
 		],
 		"start": 9.12,
-		"end": 10.48
+		"end": 10.58
 	},
 	{
 		"words": [
@@ -742,12 +742,12 @@
 			{
 				"text": "The ",
 				"start": 0,
-				"end": 0.22,
+				"end": 0.24,
 				"index": 113
 			},
 			{
 				"text": "day ",
-				"start": 0.22,
+				"start": 0.24,
 				"end": 0.58,
 				"index": 114
 			},
@@ -1004,145 +1004,121 @@
 	{
 		"words": [
 			{
-				"text": "I ",
+				"text": "No, ",
 				"start": 0,
-				"end": 0.18,
+				"end": 0.42,
 				"index": 153
 			},
 			{
-				"text": "know ",
-				"start": 0.18,
-				"end": 0.44,
+				"text": "he ",
+				"start": 0.5,
+				"end": 0.56,
 				"index": 154
 			},
 			{
-				"text": "he ",
-				"start": 0.44,
-				"end": 0.6,
+				"text": "had ",
+				"start": 0.56,
+				"end": 0.82,
 				"index": 155
 			},
 			{
-				"text": "had ",
-				"start": 0.6,
-				"end": 0.84,
-				"index": 156
-			},
-			{
 				"text": "four, ",
-				"start": 0.84,
-				"end": 1.12,
-				"index": 157
+				"start": 0.82,
+				"end": 1.1,
+				"index": 156
 			},
 			{
 				"text": "but ",
 				"start": 1.24,
 				"end": 1.36,
-				"index": 158
+				"index": 157
 			},
 			{
 				"text": "was ",
 				"start": 1.36,
 				"end": 1.54,
-				"index": 159
+				"index": 158
 			},
 			{
 				"text": "grindin' ",
 				"start": 1.54,
-				"end": 1.86,
-				"index": 160
+				"end": 1.88,
+				"index": 159
 			},
 			{
 				"text": "five ",
 				"start": 1.88,
 				"end": 2.02,
-				"index": 161
+				"index": 160
 			},
 			{
 				"text": "ranks",
 				"start": 2.02,
-				"end": 2.48,
-				"index": 162
+				"end": 2.46,
+				"index": 161
 			}
 		],
 		"start": 47.08,
-		"end": 49.56
+		"end": 49.54
 	},
 	{
 		"words": [
 			{
-				"text": "And ",
+				"text": "No ",
 				"start": 0,
-				"end": 0.04,
-				"index": 163
-			},
-			{
-				"text": "he ",
-				"start": 0.04,
-				"end": 0.18,
-				"index": 164
-			},
-			{
-				"text": "has ",
-				"start": 0.18,
-				"end": 0.22,
-				"index": 165
-			},
-			{
-				"text": "no ",
-				"start": 0.22,
-				"end": 0.44,
-				"index": 166
+				"end": 0.42,
+				"index": 162
 			},
 			{
 				"text": "technical ",
-				"start": 0.44,
-				"end": 0.82,
-				"index": 167
+				"start": 0.42,
+				"end": 0.76,
+				"index": 163
 			},
 			{
 				"text": "fouls, ",
-				"start": 0.82,
-				"end": 1.48,
-				"index": 168
+				"start": 0.76,
+				"end": 1.5,
+				"index": 164
 			},
 			{
 				"text": "I ",
-				"start": 1.48,
-				"end": 1.9,
-				"index": 169
+				"start": 1.5,
+				"end": 1.94,
+				"index": 165
 			},
 			{
 				"text": "mean, ",
-				"start": 1.9,
-				"end": 2.14,
-				"index": 170
+				"start": 1.94,
+				"end": 2.16,
+				"index": 166
 			},
 			{
 				"text": "maybe ",
-				"start": 2.14,
-				"end": 2.38,
-				"index": 171
+				"start": 2.16,
+				"end": 2.42,
+				"index": 167
 			},
 			{
 				"text": "once ",
-				"start": 2.38,
-				"end": 2.62,
-				"index": 172
+				"start": 2.42,
+				"end": 2.64,
+				"index": 168
 			},
 			{
 				"text": "or ",
-				"start": 2.62,
-				"end": 2.72,
-				"index": 173
+				"start": 2.64,
+				"end": 2.74,
+				"index": 169
 			},
 			{
 				"text": "twice",
-				"start": 2.72,
-				"end": 2.96,
-				"index": 174
+				"start": 2.74,
+				"end": 2.98,
+				"index": 170
 			}
 		],
-		"start": 49.56,
+		"start": 49.54,
 		"end": 52.52
 	},
 	{
@@ -1151,106 +1127,112 @@
 				"text": "One ",
 				"start": 0,
 				"end": 0.26,
-				"index": 175
+				"index": 171
 			},
 			{
 				"text": "time, ",
 				"start": 0.26,
 				"end": 0.66,
-				"index": 176
+				"index": 172
 			},
 			{
 				"text": "don't ",
 				"start": 0.74,
 				"end": 1,
-				"index": 177
+				"index": 173
 			},
 			{
 				"text": "change ",
 				"start": 1,
 				"end": 1.24,
-				"index": 178
+				"index": 174
 			},
 			{
-				"text": "everything",
+				"text": "every ",
 				"start": 1.24,
-				"end": 1.7,
-				"index": 179
+				"end": 1.62,
+				"index": 175
+			},
+			{
+				"text": "time",
+				"start": 1.62,
+				"end": 1.98,
+				"index": 176
 			}
 		],
 		"start": 52.52,
-		"end": 54.22
+		"end": 54.5
 	},
 	{
 		"words": [
 			{
 				"text": "They ",
 				"start": 0,
-				"end": 0.56,
-				"index": 180
+				"end": 0.28,
+				"index": 177
 			},
 			{
 				"text": "say ",
-				"start": 0.56,
-				"end": 0.8,
-				"index": 181
+				"start": 0.28,
+				"end": 0.52,
+				"index": 178
 			},
 			{
 				"text": "that ",
-				"start": 0.8,
-				"end": 1.06,
-				"index": 182
+				"start": 0.52,
+				"end": 0.78,
+				"index": 179
 			},
 			{
 				"text": "he's ",
-				"start": 1.06,
-				"end": 1.18,
-				"index": 183
+				"start": 0.78,
+				"end": 0.9,
+				"index": 180
 			},
 			{
 				"text": "still ",
-				"start": 1.18,
-				"end": 1.4,
-				"index": 184
+				"start": 0.9,
+				"end": 1.12,
+				"index": 181
 			},
 			{
 				"text": "the ",
-				"start": 1.4,
-				"end": 1.64,
-				"index": 185
+				"start": 1.12,
+				"end": 1.36,
+				"index": 182
 			},
 			{
 				"text": "king, ",
-				"start": 1.64,
-				"end": 1.9,
-				"index": 186
+				"start": 1.36,
+				"end": 1.62,
+				"index": 183
 			},
 			{
 				"text": "it's ",
-				"start": 2.02,
-				"end": 2.14,
-				"index": 187
+				"start": 1.74,
+				"end": 1.86,
+				"index": 184
 			},
 			{
 				"text": "still ",
-				"start": 2.14,
-				"end": 2.36,
-				"index": 188
+				"start": 1.86,
+				"end": 2.08,
+				"index": 185
 			},
 			{
 				"text": "a ",
-				"start": 2.36,
-				"end": 2.54,
-				"index": 189
+				"start": 2.08,
+				"end": 2.26,
+				"index": 186
 			},
 			{
 				"text": "shame",
-				"start": 2.54,
-				"end": 2.82,
-				"index": 190
+				"start": 2.26,
+				"end": 2.54,
+				"index": 187
 			}
 		],
-		"start": 54.22,
+		"start": 54.5,
 		"end": 57.04
 	},
 	{
@@ -1259,49 +1241,49 @@
 				"text": "The ",
 				"start": 0,
 				"end": 0.2,
-				"index": 191
+				"index": 188
 			},
 			{
 				"text": "king ",
 				"start": 0.2,
 				"end": 0.42,
-				"index": 192
+				"index": 189
 			},
 			{
 				"text": "will ",
 				"start": 0.42,
 				"end": 0.66,
-				"index": 193
+				"index": 190
 			},
 			{
 				"text": "reign, ",
 				"start": 0.66,
 				"end": 0.96,
-				"index": 194
+				"index": 191
 			},
 			{
 				"text": "but ",
 				"start": 1,
 				"end": 1.14,
-				"index": 195
+				"index": 192
 			},
 			{
 				"text": "when, ",
 				"start": 1.14,
 				"end": 1.4,
-				"index": 196
+				"index": 193
 			},
 			{
 				"text": "he ",
 				"start": 1.44,
 				"end": 1.6,
-				"index": 197
+				"index": 194
 			},
 			{
 				"text": "said",
 				"start": 1.6,
 				"end": 1.86,
-				"index": 198
+				"index": 195
 			}
 		],
 		"start": 57.04,

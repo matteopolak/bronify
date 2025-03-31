@@ -2,745 +2,985 @@
 	{
 		"words": [
 			{
-				"text": "oh ",
-				"start": 3.5,
-				"end": 4.42,
+				"text": "OH",
+				"start": 0,
+				"end": 0.44,
 				"index": 0
-			},
-			{
-				"text": "you ",
-				"start": 4.42,
-				"end": 4.72,
-				"index": 1
-			},
-			{
-				"text": "are ",
-				"start": 4.72,
-				"end": 4.98,
-				"index": 2
-			},
-			{
-				"text": "my ",
-				"start": 4.98,
-				"end": 5.2,
-				"index": 3
-			},
-			{
-				"text": "sunshine ",
-				"start": 5.2,
-				"end": 6.6,
-				"index": 4
-			},
-			{
-				"text": "the ",
-				"start": 6.6,
-				"end": 9.12,
-				"index": 5
-			},
-			{
-				"text": "chosen ",
-				"start": 9.12,
-				"end": 9.52,
-				"index": 6
-			},
-			{
-				"text": "one ",
-				"start": 9.52,
-				"end": 9.9,
-				"index": 7
-			},
-			{
-				"text": "baby ",
-				"start": 9.9,
-				"end": 10.64,
-				"index": 8
-			},
-			{
-				"text": "chosen ",
-				"start": 10.64,
-				"end": 11.34,
-				"index": 9
-			},
-			{
-				"text": "one ",
-				"start": 11.34,
-				"end": 11.86,
-				"index": 10
-			},
-			{
-				"text": "baby ",
-				"start": 11.86,
-				"end": 12.48,
-				"index": 11
-			},
-			{
-				"text": "no ",
-				"start": 12.48,
-				"end": 13.32,
-				"index": 12
-			},
-			{
-				"text": "one ",
-				"start": 13.32,
-				"end": 13.54,
-				"index": 13
-			},
-			{
-				"text": "plays ",
-				"start": 13.54,
-				"end": 13.82,
-				"index": 14
-			},
-			{
-				"text": "the ",
-				"start": 13.82,
-				"end": 14,
-				"index": 15
-			},
-			{
-				"text": "game ",
-				"start": 14,
-				"end": 14.28,
-				"index": 16
-			},
-			{
-				"text": "like ",
-				"start": 14.28,
-				"end": 14.78,
-				"index": 17
-			},
-			{
-				"text": "Michael ",
-				"start": 14.78,
-				"end": 15.14,
-				"index": 18
-			},
-			{
-				"text": "King ",
-				"start": 15.14,
-				"end": 15.76,
-				"index": 19
-			},
-			{
-				"text": "James",
-				"start": 15.76,
-				"end": 16.26,
-				"index": 20
 			}
 		],
-		"start": -1,
-		"end": 15.26
+		"start": 3.06,
+		"end": 3.5
 	},
 	{
 		"words": [
 			{
-				"text": "Bond ",
+				"text": "YOU",
+				"start": 0,
+				"end": 0.22,
+				"index": 1
+			}
+		],
+		"start": 3.5,
+		"end": 3.72
+	},
+	{
+		"words": [
+			{
+				"text": "ARE",
+				"start": 0,
+				"end": 0.22,
+				"index": 2
+			}
+		],
+		"start": 3.72,
+		"end": 3.94
+	},
+	{
+		"words": [
+			{
+				"text": "MY",
+				"start": 0,
+				"end": 0.28,
+				"index": 3
+			}
+		],
+		"start": 3.94,
+		"end": 4.22
+	},
+	{
+		"words": [
+			{
+				"text": "SUNshine",
+				"start": 0,
+				"end": 1.66,
+				"index": 4
+			}
+		],
+		"start": 4.22,
+		"end": 5.88
+	},
+	{
+		"words": [
+			{
+				"text": "THE",
+				"start": 0,
+				"end": 2.2,
+				"index": 5
+			}
+		],
+		"start": 5.88,
+		"end": 8.08
+	},
+	{
+		"words": [
+			{
+				"text": "CHOSEN",
+				"start": 0,
+				"end": 0.58,
+				"index": 6
+			}
+		],
+		"start": 8.08,
+		"end": 8.66
+	},
+	{
+		"words": [
+			{
+				"text": "ONE",
+				"start": 0,
+				"end": 0.24,
+				"index": 7
+			}
+		],
+		"start": 8.66,
+		"end": 8.9
+	},
+	{
+		"words": [
+			{
+				"text": "BABY",
+				"start": 0,
+				"end": 1.04,
+				"index": 8
+			}
+		],
+		"start": 8.9,
+		"end": 9.94
+	},
+	{
+		"words": [
+			{
+				"text": "CHOSEN",
+				"start": 0,
+				"end": 0.62,
+				"index": 9
+			}
+		],
+		"start": 9.94,
+		"end": 10.56
+	},
+	{
+		"words": [
+			{
+				"text": "ONE",
+				"start": 0,
+				"end": 0.28,
+				"index": 10
+			}
+		],
+		"start": 10.56,
+		"end": 10.84
+	},
+	{
+		"words": [
+			{
+				"text": "BABY",
+				"start": 0,
+				"end": 0.9,
+				"index": 11
+			}
+		],
+		"start": 10.84,
+		"end": 11.74
+	},
+	{
+		"words": [
+			{
+				"text": "NO",
+				"start": 0,
+				"end": 0.54,
+				"index": 12
+			}
+		],
+		"start": 11.74,
+		"end": 12.28
+	},
+	{
+		"words": [
+			{
+				"text": "ONE",
+				"start": 0,
+				"end": 0.26,
+				"index": 13
+			}
+		],
+		"start": 12.28,
+		"end": 12.54
+	},
+	{
+		"words": [
+			{
+				"text": "PLAYS",
+				"start": 0,
+				"end": 0.4,
+				"index": 14
+			}
+		],
+		"start": 12.54,
+		"end": 12.94
+	},
+	{
+		"words": [
+			{
+				"text": "THE",
+				"start": 0,
+				"end": 0.06,
+				"index": 15
+			}
+		],
+		"start": 12.94,
+		"end": 13
+	},
+	{
+		"words": [
+			{
+				"text": "GAME",
+				"start": 0,
+				"end": 0.48,
+				"index": 16
+			}
+		],
+		"start": 13,
+		"end": 13.48
+	},
+	{
+		"words": [
+			{
+				"text": "LIFE",
+				"start": 0,
+				"end": 0.38,
+				"index": 17
+			}
+		],
+		"start": 13.48,
+		"end": 13.86
+	},
+	{
+		"words": [
+			{
+				"text": "LIKE",
 				"start": 0,
 				"end": 0.2,
+				"index": 18
+			}
+		],
+		"start": 13.86,
+		"end": 14.06
+	},
+	{
+		"words": [
+			{
+				"text": "THOSE",
+				"start": 0,
+				"end": 0.28,
+				"index": 19
+			}
+		],
+		"start": 14.06,
+		"end": 14.34
+	},
+	{
+		"words": [
+			{
+				"text": "KINGS",
+				"start": 0,
+				"end": 0.5,
+				"index": 20
+			}
+		],
+		"start": 14.34,
+		"end": 14.94
+	},
+	{
+		"words": [
+			{
+				"text": "KINGS",
+				"start": 0,
+				"end": 0.26,
 				"index": 21
-			},
+			}
+		],
+		"start": 14.94,
+		"end": 15.3
+	},
+	{
+		"words": [
 			{
-				"text": "saying ",
-				"start": 0.2,
-				"end": 0.6,
+				"text": "THOSE",
+				"start": 0,
+				"end": 0.22,
 				"index": 22
-			},
+			}
+		],
+		"start": 15.3,
+		"end": 15.52
+	},
+	{
+		"words": [
 			{
-				"text": "this ",
-				"start": 0.6,
-				"end": 0.98,
+				"text": "ENDS",
+				"start": 0,
+				"end": 0.44,
 				"index": 23
-			},
+			}
+		],
+		"start": 15.52,
+		"end": 15.96
+	},
+	{
+		"words": [
 			{
-				"text": "of ",
-				"start": 0.98,
-				"end": 1.48,
+				"text": "OF",
+				"start": 0,
+				"end": 0.58,
 				"index": 24
-			},
+			}
+		],
+		"start": 15.96,
+		"end": 16.54
+	},
+	{
+		"words": [
 			{
-				"text": "all ",
-				"start": 1.48,
-				"end": 1.98,
+				"text": "ALL",
+				"start": 0,
+				"end": 0.66,
 				"index": 25
-			},
+			}
+		],
+		"start": 16.54,
+		"end": 17.2
+	},
+	{
+		"words": [
 			{
-				"text": "time ",
-				"start": 1.98,
-				"end": 2.64,
+				"text": "TIME",
+				"start": 0,
+				"end": 0.54,
 				"index": 26
-			},
+			}
+		],
+		"start": 17.2,
+		"end": 17.74
+	},
+	{
+		"words": [
 			{
-				"text": "if ",
-				"start": 4.32,
-				"end": 4.8,
+				"text": "WOULD",
+				"start": 0,
+				"end": 0.9,
 				"index": 27
-			},
+			}
+		],
+		"start": 33,
+		"end": 33.9
+	},
+	{
+		"words": [
 			{
-				"text": "you ",
-				"start": 4.8,
-				"end": 5.66,
+				"text": "YOU",
+				"start": 0,
+				"end": 0.9,
 				"index": 28
-			},
+			}
+		],
+		"start": 33.9,
+		"end": 34.8
+	},
+	{
+		"words": [
 			{
-				"text": "want ",
-				"start": 5.66,
-				"end": 5.96,
+				"text": "BE",
+				"start": 0,
+				"end": 0.46,
 				"index": 29
-			},
+			}
+		],
+		"start": 34.8,
+		"end": 35.26
+	},
+	{
+		"words": [
 			{
-				"text": "a ",
-				"start": 5.96,
-				"end": 6.18,
+				"text": "SHINING",
+				"start": 0,
+				"end": 1.12,
 				"index": 30
-			},
+			}
+		],
+		"start": 35.26,
+		"end": 36.38
+	},
+	{
+		"words": [
 			{
-				"text": "ring ",
-				"start": 6.18,
-				"end": 6.94,
+				"text": "SO",
+				"start": 0,
+				"end": 0.38,
 				"index": 31
-			},
+			}
+		],
+		"start": 36.38,
+		"end": 36.76
+	},
+	{
+		"words": [
 			{
-				"text": "you ",
-				"start": 6.94,
-				"end": 7.5,
+				"text": "BRIGHT",
+				"start": 0,
+				"end": 0.64,
 				"index": 32
-			},
+			}
+		],
+		"start": 36.76,
+		"end": 37.5
+	},
+	{
+		"words": [
 			{
-				"text": "can ",
-				"start": 7.5,
-				"end": 7.66,
+				"text": "GIVING",
+				"start": 0,
+				"end": 1.28,
 				"index": 33
-			},
+			}
+		],
+		"start": 37.5,
+		"end": 38.78
+	},
+	{
+		"words": [
 			{
-				"text": "get ",
-				"start": 7.66,
-				"end": 7.92,
+				"text": "THEM ",
+				"start": 0,
+				"end": 0.6,
 				"index": 34
 			},
 			{
-				"text": "it ",
-				"start": 7.92,
-				"end": 8.22,
+				"text": "30",
+				"start": 0.6,
+				"end": 1.26,
 				"index": 35
-			},
-			{
-				"text": "Lakers ",
-				"start": 8.22,
-				"end": 9.24,
-				"index": 36
-			},
-			{
-				"text": "in ",
-				"start": 9.24,
-				"end": 9.78,
-				"index": 37
-			},
-			{
-				"text": "five ",
-				"start": 9.78,
-				"end": 10.26,
-				"index": 38
-			},
-			{
-				"text": "for ",
-				"start": 10.26,
-				"end": 11.48,
-				"index": 39
-			},
-			{
-				"text": "you ",
-				"start": 11.48,
-				"end": 11.78,
-				"index": 40
-			},
-			{
-				"text": "cuz ",
-				"start": 12.54,
-				"end": 13.02,
-				"index": 41
-			},
-			{
-				"text": "we ",
-				"start": 13.02,
-				"end": 13.2,
-				"index": 42
-			},
-			{
-				"text": "got ",
-				"start": 13.2,
-				"end": 13.42,
-				"index": 43
-			},
-			{
-				"text": "Luka ",
-				"start": 13.42,
-				"end": 13.86,
-				"index": 44
-			},
-			{
-				"text": "never ",
-				"start": 13.86,
-				"end": 14.7,
-				"index": 45
-			},
-			{
-				"text": "needed",
-				"start": 14.7,
-				"end": 15.32,
-				"index": 46
 			}
 		],
-		"start": 15.26,
-		"end": 30.58
+		"start": 38.78,
+		"end": 40.04
+	},
+	{
+		"words": [
+			{
+				"text": "EACH",
+				"start": 0,
+				"end": 0.86,
+				"index": 36
+			}
+		],
+		"start": 40.04,
+		"end": 40.9
+	},
+	{
+		"words": [
+			{
+				"text": "NIGHT",
+				"start": 0,
+				"end": 0.32,
+				"index": 37
+			}
+		],
+		"start": 40.9,
+		"end": 41.32
+	},
+	{
+		"words": [
+			{
+				"text": "LETS",
+				"start": 0,
+				"end": 0.64,
+				"index": 38
+			}
+		],
+		"start": 41.44,
+		"end": 42.08
+	},
+	{
+		"words": [
+			{
+				"text": "GET",
+				"start": 0,
+				"end": 0.12,
+				"index": 39
+			}
+		],
+		"start": 42.08,
+		"end": 42.2
 	},
 	{
 		"words": [
 			{
 				"text": "A",
 				"start": 0,
-				"end": 0.4,
+				"end": 0.26,
+				"index": 40
+			}
+		],
+		"start": 42.2,
+		"end": 42.46
+	},
+	{
+		"words": [
+			{
+				"text": "RING",
+				"start": 0,
+				"end": 0.32,
+				"index": 41
+			}
+		],
+		"start": 42.46,
+		"end": 42.78
+	},
+	{
+		"words": [
+			{
+				"text": "LAKERS",
+				"start": 0,
+				"end": 0.48,
+				"index": 42
+			}
+		],
+		"start": 42.78,
+		"end": 43.26
+	},
+	{
+		"words": [
+			{
+				"text": "IN",
+				"start": 0,
+				"end": 0.18,
+				"index": 43
+			}
+		],
+		"start": 43.26,
+		"end": 43.44
+	},
+	{
+		"words": [
+			{
+				"text": "FIVE",
+				"start": 0,
+				"end": 0.3,
+				"index": 44
+			}
+		],
+		"start": 43.44,
+		"end": 43.84
+	},
+	{
+		"words": [
+			{
+				"text": "LAKERS",
+				"start": 0,
+				"end": 0.9,
+				"index": 45
+			}
+		],
+		"start": 43.86,
+		"end": 44.76
+	},
+	{
+		"words": [
+			{
+				"text": "IN",
+				"start": 0,
+				"end": 0.22,
+				"index": 46
+			}
+		],
+		"start": 44.76,
+		"end": 44.98
+	},
+	{
+		"words": [
+			{
+				"text": "FIVE",
+				"start": 0,
+				"end": 0.3,
 				"index": 47
-			},
+			}
+		],
+		"start": 44.98,
+		"end": 45.38
+	},
+	{
+		"words": [
 			{
-				"text": ".D. ",
-				"start": 0.4,
-				"end": 0.86,
+				"text": "MY",
+				"start": 0,
+				"end": 0.46,
 				"index": 48
-			},
+			}
+		],
+		"start": 45.38,
+		"end": 45.84
+	},
+	{
+		"words": [
 			{
-				"text": "to ",
-				"start": 0.94,
-				"end": 1.38,
+				"text": "GLORIOUS",
+				"start": 0,
+				"end": 0.62,
 				"index": 49
-			},
+			}
+		],
+		"start": 45.84,
+		"end": 46.46
+	},
+	{
+		"words": [
 			{
-				"text": "get ",
-				"start": 1.38,
-				"end": 1.9,
+				"text": "KING",
+				"start": 0,
+				"end": 0.3,
 				"index": 50
-			},
+			}
+		],
+		"start": 46.46,
+		"end": 46.76
+	},
+	{
+		"words": [
 			{
-				"text": "this ",
-				"start": 1.9,
-				"end": 2.16,
+				"text": "LAKERS",
+				"start": 0,
+				"end": 0.44,
 				"index": 51
-			},
+			}
+		],
+		"start": 46.76,
+		"end": 47.2
+	},
+	{
+		"words": [
 			{
-				"text": "win ",
-				"start": 2.16,
-				"end": 2.34,
+				"text": "IN",
+				"start": 0,
+				"end": 0.14,
 				"index": 52
-			},
+			}
+		],
+		"start": 47.2,
+		"end": 47.34
+	},
+	{
+		"words": [
 			{
-				"text": "for ",
-				"start": 2.34,
-				"end": 2.58,
+				"text": "FIVE",
+				"start": 0,
+				"end": 0.36,
 				"index": 53
-			},
+			}
+		],
+		"start": 47.34,
+		"end": 47.8
+	},
+	{
+		"words": [
 			{
-				"text": "you ",
-				"start": 2.58,
-				"end": 2.9,
+				"text": "LAKERS",
+				"start": 0,
+				"end": 0.72,
 				"index": 54
-			},
+			}
+		],
+		"start": 47.88,
+		"end": 48.6
+	},
+	{
+		"words": [
 			{
-				"text": "would ",
-				"start": 3.42,
-				"end": 3.9,
+				"text": "IN",
+				"start": 0,
+				"end": 0.22,
 				"index": 55
-			},
+			}
+		],
+		"start": 48.6,
+		"end": 48.82
+	},
+	{
+		"words": [
 			{
-				"text": "you ",
-				"start": 3.9,
-				"end": 4.3,
+				"text": "FIVE",
+				"start": 0,
+				"end": 0.42,
 				"index": 56
-			},
+			}
+		],
+		"start": 48.82,
+		"end": 49.24
+	},
+	{
+		"words": [
 			{
-				"text": "be ",
-				"start": 4.3,
-				"end": 4.74,
+				"text": "SAVANNAH",
+				"start": 0,
+				"end": 0.9,
 				"index": 57
-			},
+			}
+		],
+		"start": 50.26,
+		"end": 51.16
+	},
+	{
+		"words": [
 			{
-				"text": "shining ",
-				"start": 4.74,
-				"end": 5.58,
+				"text": "WAY",
+				"start": 0,
+				"end": 0.4,
 				"index": 58
-			},
+			}
+		],
+		"start": 51.16,
+		"end": 51.56
+	},
+	{
+		"words": [
 			{
-				"text": "so ",
-				"start": 5.58,
-				"end": 6.16,
+				"text": "ON",
+				"start": 0,
+				"end": 0.54,
 				"index": 59
-			},
+			}
+		],
+		"start": 51.56,
+		"end": 52.1
+	},
+	{
+		"words": [
 			{
-				"text": "bright ",
-				"start": 6.16,
-				"end": 6.72,
+				"text": "THE",
+				"start": 0,
+				"end": 0.34,
 				"index": 60
-			},
+			}
+		],
+		"start": 52.1,
+		"end": 52.44
+	},
+	{
+		"words": [
 			{
-				"text": "giving ",
-				"start": 6.72,
-				"end": 7.94,
+				"text": "SIDE, ",
+				"start": 0,
+				"end": 1.1,
 				"index": 61
 			},
 			{
-				"text": "them ",
-				"start": 7.94,
-				"end": 8.68,
+				"text": "I'M",
+				"start": 1.42,
+				"end": 1.7,
 				"index": 62
-			},
+			}
+		],
+		"start": 52.44,
+		"end": 54.14
+	},
+	{
+		"words": [
 			{
-				"text": "thirty ",
-				"start": 8.68,
-				"end": 9.4,
+				"text": "TAKING",
+				"start": 0,
+				"end": 0.78,
 				"index": 63
-			},
+			}
+		],
+		"start": 54.14,
+		"end": 54.92
+	},
+	{
+		"words": [
 			{
-				"text": "each ",
-				"start": 9.4,
-				"end": 10.2,
+				"text": "BRONC",
+				"start": 0,
+				"end": 0.7,
 				"index": 64
-			},
+			}
+		],
+		"start": 54.92,
+		"end": 55.62
+	},
+	{
+		"words": [
 			{
-				"text": "night ",
-				"start": 10.2,
-				"end": 10.68,
+				"text": "FOR",
+				"start": 0,
+				"end": 0.22,
 				"index": 65
-			},
+			}
+		],
+		"start": 55.62,
+		"end": 55.84
+	},
+	{
+		"words": [
 			{
-				"text": "lets ",
-				"start": 10.68,
-				"end": 11.34,
+				"text": "THE",
+				"start": 0,
+				"end": 0.56,
 				"index": 66
-			},
+			}
+		],
+		"start": 55.84,
+		"end": 56.4
+	},
+	{
+		"words": [
 			{
-				"text": "get ",
-				"start": 11.34,
-				"end": 11.6,
+				"text": "NIGHT",
+				"start": 0,
+				"end": 0.52,
 				"index": 67
-			},
+			}
+		],
+		"start": 56.4,
+		"end": 57.02
+	},
+	{
+		"words": [
 			{
-				"text": "a ",
-				"start": 11.6,
-				"end": 11.78,
+				"text": "LETS",
+				"start": 0,
+				"end": 0.74,
 				"index": 68
-			},
+			}
+		],
+		"start": 57.1,
+		"end": 57.84
+	},
+	{
+		"words": [
 			{
-				"text": "ring ",
-				"start": 11.78,
-				"end": 12.04,
+				"text": "GET A",
+				"start": 0,
+				"end": 0.06,
 				"index": 69
-			},
+			}
+		],
+		"start": 57.84,
+		"end": 57.9
+	},
+	{
+		"words": [
 			{
-				"text": "Lakers ",
-				"start": 12.04,
-				"end": 12.58,
+				"text": "RING LAKERS IN FIVE, LAKERS IN FIVE",
+				"start": 0,
+				"end": 57.9,
 				"index": 70
-			},
+			}
+		],
+		"start": 57.9,
+		"end": 57.9
+	},
+	{
+		"words": [
 			{
-				"text": "in ",
-				"start": 12.58,
-				"end": 12.82,
+				"text": "LAKERS",
+				"start": 0,
+				"end": 0.8,
 				"index": 71
-			},
+			}
+		],
+		"start": 59.7,
+		"end": 60.5
+	},
+	{
+		"words": [
 			{
-				"text": "five ",
-				"start": 12.82,
-				"end": 13.1,
+				"text": "IN",
+				"start": 0,
+				"end": 0.08,
 				"index": 72
-			},
+			}
+		],
+		"start": 60.5,
+		"end": 60.58
+	},
+	{
+		"words": [
 			{
-				"text": "Lakers ",
-				"start": 13.1,
-				"end": 14.06,
+				"text": "FIVE",
+				"start": 0,
+				"end": 0.46,
 				"index": 73
-			},
+			}
+		],
+		"start": 60.58,
+		"end": 61.14
+	},
+	{
+		"words": [
 			{
-				"text": "in ",
-				"start": 14.06,
-				"end": 14.36,
+				"text": "MY",
+				"start": 0,
+				"end": 0.36,
 				"index": 74
-			},
+			}
+		],
+		"start": 61.16,
+		"end": 61.52
+	},
+	{
+		"words": [
 			{
-				"text": "five",
-				"start": 14.36,
-				"end": 14.66,
+				"text": "GLORIOUS",
+				"start": 0,
+				"end": 0.72,
 				"index": 75
 			}
 		],
-		"start": 30.58,
-		"end": 45.24
+		"start": 61.52,
+		"end": 62.24
 	},
 	{
 		"words": [
 			{
-				"text": "My",
+				"text": "KING",
 				"start": 0,
-				"end": 0.64,
+				"end": 0.16,
 				"index": 76
 			}
 		],
-		"start": 45.24,
-		"end": 45.88
+		"start": 62.24,
+		"end": 62.4
 	},
 	{
 		"words": [
 			{
-				"text": "Longest ",
+				"text": "LAKERS",
 				"start": 0,
-				"end": 0.64,
+				"end": 0.48,
 				"index": 77
-			},
+			}
+		],
+		"start": 62.4,
+		"end": 62.88
+	},
+	{
+		"words": [
 			{
-				"text": "King ",
-				"start": 0.64,
-				"end": 0.76,
+				"text": "IN",
+				"start": 0,
+				"end": 0.12,
 				"index": 78
-			},
+			}
+		],
+		"start": 62.88,
+		"end": 63
+	},
+	{
+		"words": [
 			{
-				"text": "Lakers ",
-				"start": 0.76,
-				"end": 1.26,
+				"text": "FIVE",
+				"start": 0,
+				"end": 0.4,
 				"index": 79
-			},
+			}
+		],
+		"start": 63,
+		"end": 63.5
+	},
+	{
+		"words": [
 			{
-				"text": "in ",
-				"start": 1.26,
-				"end": 1.46,
+				"text": "LAKERS",
+				"start": 0,
+				"end": 0.86,
 				"index": 80
-			},
+			}
+		],
+		"start": 63.5,
+		"end": 64.36
+	},
+	{
+		"words": [
 			{
-				"text": "five ",
-				"start": 1.46,
-				"end": 1.86,
+				"text": "IN",
+				"start": 0,
+				"end": 0.16,
 				"index": 81
-			},
+			}
+		],
+		"start": 64.36,
+		"end": 64.52
+	},
+	{
+		"words": [
 			{
-				"text": "Lakers ",
-				"start": 1.86,
-				"end": 2.7,
+				"text": "FIVE",
+				"start": 0,
+				"end": 0.4,
 				"index": 82
-			},
-			{
-				"text": "in ",
-				"start": 2.7,
-				"end": 2.92,
-				"index": 83
-			},
-			{
-				"text": "five",
-				"start": 2.92,
-				"end": 3.24,
-				"index": 84
 			}
 		],
-		"start": 45.88,
-		"end": 49.12
-	},
-	{
-		"words": [
-			{
-				"text": "Savannah ",
-				"start": 0,
-				"end": 1.34,
-				"index": 85
-			},
-			{
-				"text": "way ",
-				"start": 1.34,
-				"end": 2.44,
-				"index": 86
-			},
-			{
-				"text": "on ",
-				"start": 2.44,
-				"end": 3,
-				"index": 87
-			},
-			{
-				"text": "the ",
-				"start": 3,
-				"end": 3.32,
-				"index": 88
-			},
-			{
-				"text": "side ",
-				"start": 3.32,
-				"end": 3.56,
-				"index": 89
-			},
-			{
-				"text": "I'm ",
-				"start": 3.56,
-				"end": 5.02,
-				"index": 90
-			},
-			{
-				"text": "takin' ",
-				"start": 5.02,
-				"end": 5.98,
-				"index": 91
-			},
-			{
-				"text": "Bron ",
-				"start": 5.98,
-				"end": 6.3,
-				"index": 92
-			},
-			{
-				"text": "for ",
-				"start": 6.3,
-				"end": 6.74,
-				"index": 93
-			},
-			{
-				"text": "the ",
-				"start": 6.74,
-				"end": 7.24,
-				"index": 94
-			},
-			{
-				"text": "night",
-				"start": 7.24,
-				"end": 7.84,
-				"index": 95
-			}
-		],
-		"start": 49.12,
-		"end": 56.96
-	},
-	{
-		"words": [
-			{
-				"text": "Let's ",
-				"start": 0,
-				"end": 0.9,
-				"index": 96
-			},
-			{
-				"text": "get ",
-				"start": 0.9,
-				"end": 1,
-				"index": 97
-			},
-			{
-				"text": "a ",
-				"start": 1,
-				"end": 1.14,
-				"index": 98
-			},
-			{
-				"text": "ring ",
-				"start": 1.14,
-				"end": 1.42,
-				"index": 99
-			},
-			{
-				"text": "Lakers ",
-				"start": 1.42,
-				"end": 1.94,
-				"index": 100
-			},
-			{
-				"text": "in ",
-				"start": 1.94,
-				"end": 2.14,
-				"index": 101
-			},
-			{
-				"text": "fire ",
-				"start": 2.14,
-				"end": 2.48,
-				"index": 102
-			},
-			{
-				"text": "Lakers ",
-				"start": 2.48,
-				"end": 3.4,
-				"index": 103
-			},
-			{
-				"text": "in ",
-				"start": 3.4,
-				"end": 3.66,
-				"index": 104
-			},
-			{
-				"text": "five",
-				"start": 3.66,
-				"end": 3.94,
-				"index": 105
-			}
-		],
-		"start": 56.96,
-		"end": 60.9
-	},
-	{
-		"words": [
-			{
-				"text": "My",
-				"start": 0,
-				"end": 0.64,
-				"index": 106
-			}
-		],
-		"start": 60.9,
-		"end": 61.54
-	},
-	{
-		"words": [
-			{
-				"text": "Longest ",
-				"start": 0,
-				"end": 0.56,
-				"index": 107
-			},
-			{
-				"text": "King ",
-				"start": 0.56,
-				"end": 0.78,
-				"index": 108
-			},
-			{
-				"text": "Lakers ",
-				"start": 0.78,
-				"end": 1.24,
-				"index": 109
-			},
-			{
-				"text": "in ",
-				"start": 1.24,
-				"end": 1.46,
-				"index": 110
-			},
-			{
-				"text": "five ",
-				"start": 1.46,
-				"end": 1.84,
-				"index": 111
-			},
-			{
-				"text": "Lakers ",
-				"start": 1.84,
-				"end": 2.68,
-				"index": 112
-			},
-			{
-				"text": "in ",
-				"start": 2.68,
-				"end": 2.92,
-				"index": 113
-			},
-			{
-				"text": "five",
-				"start": 2.92,
-				"end": 3.26,
-				"index": 114
-			}
-		],
-		"start": 61.54,
-		"end": 64.8
+		"start": 64.52,
+		"end": 64.92
 	}
 ]

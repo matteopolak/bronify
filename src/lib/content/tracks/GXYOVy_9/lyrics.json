@@ -4,245 +4,239 @@
 			{
 				"text": "People ",
 				"start": 0,
-				"end": 0.84,
+				"end": 0.7,
 				"index": 0
 			},
 			{
 				"text": "keep ",
-				"start": 0.84,
-				"end": 1.02,
+				"start": 0.7,
+				"end": 0.88,
 				"index": 1
 			},
 			{
-				"text": "talking, ",
-				"start": 1.02,
-				"end": 1.6,
+				"text": "talkin, ",
+				"start": 0.88,
+				"end": 1.38,
 				"index": 2
 			},
 			{
 				"text": "they ",
-				"start": 2.1,
-				"end": 2.5,
+				"start": 1.94,
+				"end": 2.34,
 				"index": 3
 			},
 			{
 				"text": "can ",
-				"start": 2.5,
-				"end": 2.7,
+				"start": 2.34,
+				"end": 2.52,
 				"index": 4
 			},
 			{
 				"text": "say ",
-				"start": 2.7,
-				"end": 2.92,
+				"start": 2.52,
+				"end": 2.74,
 				"index": 5
 			},
 			{
 				"text": "what ",
-				"start": 2.92,
-				"end": 3.16,
+				"start": 2.74,
+				"end": 2.98,
 				"index": 6
 			},
 			{
 				"text": "they ",
-				"start": 3.16,
-				"end": 3.42,
+				"start": 2.98,
+				"end": 3.24,
 				"index": 7
 			},
 			{
 				"text": "like",
-				"start": 3.42,
-				"end": 4.1,
+				"start": 3.24,
+				"end": 3.9,
 				"index": 8
 			}
 		],
-		"start": 1.8,
-		"end": 5.9
+		"start": 1.97,
+		"end": 5.87
 	},
 	{
 		"words": [
 			{
-				"text": "Cause ",
+				"text": "Cuz ",
 				"start": 0,
-				"end": 0.96,
+				"end": 1.02,
 				"index": 9
 			},
 			{
-				"text": "if ",
-				"start": 0.96,
-				"end": 1.18,
+				"text": "cuz ",
+				"start": 1.02,
+				"end": 1.16,
 				"index": 10
 			},
 			{
-				"text": "we ",
-				"start": 1.18,
-				"end": 1.32,
+				"text": "if ",
+				"start": 1.16,
+				"end": 1.22,
 				"index": 11
 			},
 			{
-				"text": "got ",
-				"start": 1.32,
-				"end": 1.56,
+				"text": "we ",
+				"start": 1.22,
+				"end": 1.36,
 				"index": 12
 			},
 			{
-				"text": "LeBron, ",
-				"start": 1.56,
-				"end": 2.24,
+				"text": "got ",
+				"start": 1.36,
+				"end": 1.58,
 				"index": 13
 			},
 			{
-				"text": "then ",
-				"start": 2.26,
-				"end": 2.46,
+				"text": "LeBron ",
+				"start": 1.58,
+				"end": 2.2,
 				"index": 14
 			},
 			{
-				"text": "everything's ",
-				"start": 2.46,
-				"end": 3.18,
+				"text": "then ",
+				"start": 2.2,
+				"end": 2.44,
 				"index": 15
 			},
 			{
-				"text": "gonna ",
-				"start": 3.18,
-				"end": 3.34,
+				"text": "everything's ",
+				"start": 2.44,
+				"end": 3.22,
 				"index": 16
 			},
 			{
-				"text": "be ",
-				"start": 3.34,
-				"end": 3.6,
+				"text": "gonna ",
+				"start": 3.22,
+				"end": 3.38,
 				"index": 17
 			},
 			{
-				"text": "alright",
-				"start": 3.6,
-				"end": 4.5,
+				"text": "be ",
+				"start": 3.38,
+				"end": 3.64,
 				"index": 18
+			},
+			{
+				"text": "alright",
+				"start": 3.64,
+				"end": 4.5,
+				"index": 19
 			}
 		],
-		"start": 5.9,
-		"end": 10.4
+		"start": 5.87,
+		"end": 10.37
 	},
 	{
 		"words": [
 			{
 				"text": "LeBron, ",
 				"start": 0,
-				"end": 0.84,
-				"index": 19
-			},
-			{
-				"text": "LeBron, ",
-				"start": 0.84,
-				"end": 1.68,
+				"end": 0.88,
 				"index": 20
 			},
 			{
-				"text": "LeBron ",
-				"start": 1.7,
-				"end": 3.12,
+				"text": "LeBron, ",
+				"start": 0.88,
+				"end": 1.76,
 				"index": 21
 			},
 			{
 				"text": "I ",
-				"start": 3.12,
-				"end": 5.1,
+				"start": 1.76,
+				"end": 2.22,
 				"index": 22
 			},
 			{
 				"text": "can't ",
-				"start": 5.1,
-				"end": 5.72,
+				"start": 5.23,
+				"end": 5.79,
 				"index": 23
 			},
 			{
 				"text": "explain ",
-				"start": 5.72,
-				"end": 6.16,
+				"start": 5.79,
+				"end": 6.21,
 				"index": 24
 			},
 			{
 				"text": "what ",
-				"start": 6.16,
-				"end": 6.9,
+				"start": 6.21,
+				"end": 6.97,
 				"index": 25
 			},
 			{
 				"text": "I'm ",
-				"start": 6.9,
-				"end": 7.34,
+				"start": 6.97,
+				"end": 7.37,
 				"index": 26
 			},
 			{
-				"text": "feeling",
-				"start": 7.34,
-				"end": 7.74,
+				"text": "feelin ",
+				"start": 7.37,
+				"end": 8.23,
 				"index": 27
+			},
+			{
+				"text": "LeBron, ",
+				"start": 8.23,
+				"end": 10.25,
+				"index": 28
+			},
+			{
+				"text": "LeBron",
+				"start": 10.25,
+				"end": 11.35,
+				"index": 29
 			}
 		],
-		"start": 12.02,
-		"end": 19.76
+		"start": 11.95,
+		"end": 23.4
 	},
 	{
 		"words": [
 			{
-				"text": "LeBron, ",
+				"text": "I ",
 				"start": 0,
-				"end": 2.3,
-				"index": 28
-			},
-			{
-				"text": "LeBron, ",
-				"start": 2.48,
-				"end": 3.62,
-				"index": 29
-			},
-			{
-				"text": "LeBron ",
-				"start": 3.66,
-				"end": 5.14,
+				"end": 0.42,
 				"index": 30
 			},
 			{
-				"text": "I ",
-				"start": 5.14,
-				"end": 7.08,
+				"text": "can't ",
+				"start": 0.42,
+				"end": 0.7,
 				"index": 31
 			},
 			{
-				"text": "can't ",
-				"start": 7.08,
-				"end": 7.68,
+				"text": "explain ",
+				"start": 0.7,
+				"end": 1.14,
 				"index": 32
 			},
 			{
-				"text": "explain ",
-				"start": 7.68,
-				"end": 8.1,
+				"text": "what ",
+				"start": 1.14,
+				"end": 1.88,
 				"index": 33
 			},
 			{
-				"text": "what ",
-				"start": 8.1,
-				"end": 8.86,
+				"text": "I'm ",
+				"start": 1.88,
+				"end": 2.32,
 				"index": 34
 			},
 			{
-				"text": "I'm ",
-				"start": 8.86,
-				"end": 9.26,
+				"text": "feelin",
+				"start": 2.32,
+				"end": 3.08,
 				"index": 35
-			},
-			{
-				"text": "feeling",
-				"start": 9.26,
-				"end": 9.64,
-				"index": 36
 			}
 		],
-		"start": 19.76,
-		"end": 29.4
+		"start": 26.73,
+		"end": 29.81
 	}
 ]

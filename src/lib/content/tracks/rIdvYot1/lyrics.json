@@ -392,32 +392,32 @@
 				"index": 63
 			},
 			{
-				"text": "you're ",
+				"text": "yo ",
 				"start": 4.16,
-				"end": 4.34,
+				"end": 4.3,
 				"index": 64
 			},
 			{
 				"text": "S",
-				"start": 4.34,
-				"end": 4.56,
+				"start": 4.3,
+				"end": 4.62,
 				"index": 65
 			},
 			{
 				"text": ".A",
-				"start": 4.56,
+				"start": 4.62,
 				"end": 4.76,
 				"index": 66
 			},
 			{
 				"text": ".M",
 				"start": 4.76,
-				"end": 4.88,
+				"end": 4.9,
 				"index": 67
 			},
 			{
 				"text": ".J., ",
-				"start": 4.88,
+				"start": 4.9,
 				"end": 5.12,
 				"index": 68
 			},
@@ -538,12 +538,12 @@
 			{
 				"text": "a ",
 				"start": 9.42,
-				"end": 9.58,
+				"end": 9.56,
 				"index": 88
 			},
 			{
 				"text": "bird, ",
-				"start": 9.58,
+				"start": 9.56,
 				"end": 9.9,
 				"index": 89
 			},
@@ -662,142 +662,148 @@
 				"index": 107
 			},
 			{
-				"text": "shoutout ",
+				"text": "shout ",
 				"start": 3.16,
-				"end": 3.58,
+				"end": 3.36,
 				"index": 108
 			},
 			{
-				"text": "Bronny, ",
-				"start": 3.58,
-				"end": 4,
+				"text": "out ",
+				"start": 3.36,
+				"end": 3.6,
 				"index": 109
+			},
+			{
+				"text": "Bronny, ",
+				"start": 3.6,
+				"end": 4,
+				"index": 110
 			},
 			{
 				"text": "he ",
 				"start": 4.06,
 				"end": 4.16,
-				"index": 110
+				"index": 111
 			},
 			{
 				"text": "dropped ",
 				"start": 4.16,
-				"end": 4.4,
-				"index": 111
+				"end": 4.38,
+				"index": 112
 			},
 			{
 				"text": "17, ",
-				"start": 4.4,
+				"start": 4.38,
 				"end": 4.86,
-				"index": 112
+				"index": 113
 			},
 			{
 				"text": "we ",
 				"start": 5.06,
 				"end": 5.16,
-				"index": 113
+				"index": 114
 			},
 			{
 				"text": "know ",
 				"start": 5.16,
 				"end": 5.3,
-				"index": 114
+				"index": 115
 			},
 			{
 				"text": "Bryce ",
 				"start": 5.3,
 				"end": 5.56,
-				"index": 115
+				"index": 116
 			},
 			{
 				"text": "on ",
 				"start": 5.56,
 				"end": 5.76,
-				"index": 116
+				"index": 117
 			},
 			{
 				"text": "the ",
 				"start": 5.76,
 				"end": 5.9,
-				"index": 117
+				"index": 118
 			},
 			{
 				"text": "way, ",
 				"start": 5.9,
 				"end": 6.1,
-				"index": 118
+				"index": 119
 			},
 			{
 				"text": "he ",
 				"start": 6.24,
 				"end": 6.48,
-				"index": 119
+				"index": 120
 			},
 			{
 				"text": "the ",
 				"start": 6.48,
 				"end": 6.62,
-				"index": 120
+				"index": 121
 			},
 			{
 				"text": "GOAT, ",
 				"start": 6.62,
 				"end": 7,
-				"index": 121
+				"index": 122
 			},
 			{
 				"text": "get ",
 				"start": 7.04,
 				"end": 7.26,
-				"index": 122
+				"index": 123
 			},
 			{
 				"text": "that ",
 				"start": 7.26,
 				"end": 7.44,
-				"index": 123
+				"index": 124
 			},
 			{
 				"text": "understood, ",
 				"start": 7.44,
 				"end": 7.74,
-				"index": 124
+				"index": 125
 			},
 			{
 				"text": "you ",
-				"start": 8.06,
+				"start": 8.04,
 				"end": 8.18,
-				"index": 125
+				"index": 126
 			},
 			{
 				"text": "best ",
 				"start": 8.18,
 				"end": 8.38,
-				"index": 126
+				"index": 127
 			},
 			{
 				"text": "watch ",
 				"start": 8.38,
 				"end": 8.56,
-				"index": 127
+				"index": 128
 			},
 			{
 				"text": "what ",
 				"start": 8.56,
 				"end": 8.72,
-				"index": 128
+				"index": 129
 			},
 			{
 				"text": "you ",
 				"start": 8.72,
 				"end": 8.84,
-				"index": 129
+				"index": 130
 			},
 			{
 				"text": "say",
 				"start": 8.84,
 				"end": 9.1,
-				"index": 130
+				"index": 131
 			}
 		],
 		"start": 27.72,
@@ -809,259 +815,259 @@
 				"text": "In ",
 				"start": 0,
 				"end": 0.34,
-				"index": 131
+				"index": 132
 			},
 			{
 				"text": "L",
 				"start": 0.34,
 				"end": 0.54,
-				"index": 132
+				"index": 133
 			},
 			{
 				"text": ".A., ",
 				"start": 0.54,
 				"end": 0.9,
-				"index": 133
+				"index": 134
 			},
 			{
 				"text": "ballin' ",
 				"start": 0.9,
 				"end": 1.36,
-				"index": 134
+				"index": 135
 			},
 			{
 				"text": "with ",
 				"start": 1.36,
 				"end": 1.5,
-				"index": 135
+				"index": 136
 			},
 			{
 				"text": "the ",
 				"start": 1.5,
 				"end": 1.72,
-				"index": 136
+				"index": 137
 			},
 			{
 				"text": "Lakers, ",
 				"start": 1.72,
 				"end": 2.04,
-				"index": 137
+				"index": 138
 			},
 			{
 				"text": "you ",
 				"start": 2.12,
 				"end": 2.22,
-				"index": 138
+				"index": 139
 			},
 			{
 				"text": "know ",
 				"start": 2.22,
 				"end": 2.4,
-				"index": 139
+				"index": 140
 			},
 			{
 				"text": "where ",
 				"start": 2.4,
 				"end": 2.62,
-				"index": 140
+				"index": 141
 			},
 			{
 				"text": "he ",
 				"start": 2.62,
 				"end": 2.78,
-				"index": 141
+				"index": 142
 			},
 			{
 				"text": "be, ",
 				"start": 2.78,
 				"end": 2.98,
-				"index": 142
+				"index": 143
 			},
 			{
 				"text": "talkin' ",
 				"start": 3.12,
-				"end": 3.46,
-				"index": 143
+				"end": 3.44,
+				"index": 144
 			},
 			{
 				"text": "crazy, ",
 				"start": 3.6,
 				"end": 3.92,
-				"index": 144
+				"index": 145
 			},
 			{
 				"text": "on ",
 				"start": 4.04,
 				"end": 4.2,
-				"index": 145
+				"index": 146
 			},
 			{
 				"text": "the ",
 				"start": 4.2,
 				"end": 4.32,
-				"index": 146
+				"index": 147
 			},
 			{
 				"text": "fuckin' ",
 				"start": 4.32,
 				"end": 4.64,
-				"index": 147
+				"index": 148
 			},
 			{
 				"text": "king, ",
 				"start": 4.78,
 				"end": 4.92,
-				"index": 148
+				"index": 149
 			},
 			{
 				"text": "cash ",
 				"start": 5.1,
 				"end": 5.34,
-				"index": 149
+				"index": 150
 			},
 			{
 				"text": "is ",
 				"start": 5.34,
 				"end": 5.48,
-				"index": 150
+				"index": 151
 			},
 			{
 				"text": "23, ",
 				"start": 5.48,
-				"end": 5.8,
-				"index": 151
+				"end": 5.82,
+				"index": 152
 			},
 			{
 				"text": "that's ",
 				"start": 6.14,
 				"end": 6.24,
-				"index": 152
+				"index": 153
 			},
 			{
 				"text": "40 ",
 				"start": 6.24,
 				"end": 6.46,
-				"index": 153
+				"index": 154
 			},
 			{
 				"text": "cow, ",
 				"start": 6.46,
 				"end": 6.78,
-				"index": 154
+				"index": 155
 			},
 			{
 				"text": "know ",
 				"start": 7,
 				"end": 7.14,
-				"index": 155
+				"index": 156
 			},
 			{
 				"text": "this ",
 				"start": 7.14,
 				"end": 7.3,
-				"index": 156
+				"index": 157
 			},
 			{
 				"text": "shit ",
 				"start": 7.3,
 				"end": 7.52,
-				"index": 157
+				"index": 158
 			},
 			{
 				"text": "get ",
 				"start": 7.52,
 				"end": 7.7,
-				"index": 158
+				"index": 159
 			},
 			{
 				"text": "wild, ",
 				"start": 7.7,
 				"end": 7.92,
-				"index": 159
+				"index": 160
 			},
 			{
 				"text": "he ",
 				"start": 8.16,
 				"end": 8.24,
-				"index": 160
+				"index": 161
 			},
 			{
 				"text": "got ",
 				"start": 8.24,
 				"end": 8.4,
-				"index": 161
+				"index": 162
 			},
 			{
 				"text": "40 ",
 				"start": 8.4,
 				"end": 8.72,
-				"index": 162
+				"index": 163
 			},
 			{
 				"text": "thou, ",
 				"start": 8.72,
 				"end": 9.04,
-				"index": 163
+				"index": 164
 			},
 			{
 				"text": "yeah ",
 				"start": 9.26,
 				"end": 9.36,
-				"index": 164
+				"index": 165
 			},
 			{
 				"text": "he ",
 				"start": 9.36,
 				"end": 9.5,
-				"index": 165
+				"index": 166
 			},
 			{
 				"text": "40, ",
 				"start": 9.5,
 				"end": 9.84,
-				"index": 166
+				"index": 167
 			},
 			{
 				"text": "droppin' ",
 				"start": 9.96,
 				"end": 10.34,
-				"index": 167
+				"index": 168
 			},
 			{
 				"text": "triple ",
 				"start": 10.38,
 				"end": 10.58,
-				"index": 168
+				"index": 169
 			},
 			{
 				"text": "doubles, ",
 				"start": 10.58,
 				"end": 10.94,
-				"index": 169
+				"index": 170
 			},
 			{
 				"text": "niggas ",
 				"start": 11.18,
 				"end": 11.48,
-				"index": 170
+				"index": 171
 			},
 			{
 				"text": "don't ",
 				"start": 11.48,
 				"end": 11.68,
-				"index": 171
+				"index": 172
 			},
 			{
 				"text": "see ",
 				"start": 11.68,
 				"end": 11.8,
-				"index": 172
+				"index": 173
 			},
 			{
 				"text": "how",
 				"start": 11.8,
 				"end": 12.04,
-				"index": 173
+				"index": 174
 			}
 		],
 		"start": 36.82,
@@ -1073,85 +1079,85 @@
 				"text": "Just ",
 				"start": 0,
 				"end": 0.24,
-				"index": 174
+				"index": 175
 			},
 			{
 				"text": "throw ",
 				"start": 0.24,
 				"end": 0.44,
-				"index": 175
+				"index": 176
 			},
 			{
 				"text": "the ",
 				"start": 0.44,
 				"end": 0.58,
-				"index": 176
+				"index": 177
 			},
 			{
 				"text": "alley, ",
 				"start": 0.58,
 				"end": 0.88,
-				"index": 177
+				"index": 178
 			},
 			{
 				"text": "drivin' ",
 				"start": 1.04,
 				"end": 1.38,
-				"index": 178
+				"index": 179
 			},
 			{
 				"text": "down ",
 				"start": 1.42,
 				"end": 1.6,
-				"index": 179
+				"index": 180
 			},
 			{
 				"text": "the ",
 				"start": 1.6,
 				"end": 1.76,
-				"index": 180
+				"index": 181
 			},
 			{
 				"text": "lane, ",
 				"start": 1.76,
 				"end": 2.06,
-				"index": 181
+				"index": 182
 			},
 			{
 				"text": "he ",
 				"start": 2.24,
 				"end": 2.32,
-				"index": 182
+				"index": 183
 			},
 			{
 				"text": "gon' ",
 				"start": 2.32,
 				"end": 2.48,
-				"index": 183
+				"index": 184
 			},
 			{
 				"text": "bring ",
 				"start": 2.5,
 				"end": 2.68,
-				"index": 184
+				"index": 185
 			},
 			{
 				"text": "it ",
 				"start": 2.68,
 				"end": 2.88,
-				"index": 185
+				"index": 186
 			},
 			{
 				"text": "down, ",
 				"start": 2.88,
 				"end": 3.12,
-				"index": 186
+				"index": 187
 			},
 			{
 				"text": "it's",
 				"start": 3.26,
 				"end": 3.36,
-				"index": 187
+				"index": 188
 			}
 		],
 		"start": 48.86,
@@ -1160,169 +1166,79 @@
 	{
 		"words": [
 			{
-				"text": "Steffan",
+				"text": "Stephan",
 				"start": 0,
-				"end": 0.32,
-				"index": 188
+				"end": 0.16,
+				"index": 189
 			}
 		],
 		"start": 52.22,
-		"end": 52.54
+		"end": 52.38
 	},
 	{
 		"words": [
 			{
 				"text": "A., ",
 				"start": 0,
-				"end": 0.28,
-				"index": 189
-			},
-			{
-				"text": "boy ",
-				"start": 0.28,
-				"end": 0.52,
+				"end": 0.44,
 				"index": 190
 			},
 			{
-				"text": "you ",
-				"start": 0.52,
-				"end": 0.64,
+				"text": "boy ",
+				"start": 0.44,
+				"end": 0.68,
 				"index": 191
 			},
 			{
-				"text": "fuckin' ",
-				"start": 0.64,
-				"end": 0.9,
+				"text": "you ",
+				"start": 0.68,
+				"end": 0.8,
 				"index": 192
 			},
 			{
-				"text": "lucky, ",
-				"start": 1.08,
-				"end": 1.24,
+				"text": "fuckin' ",
+				"start": 0.8,
+				"end": 1.06,
 				"index": 193
 			},
 			{
-				"text": "I ",
-				"start": 1.48,
-				"end": 1.58,
+				"text": "lucky, ",
+				"start": 1.24,
+				"end": 1.4,
 				"index": 194
 			},
 			{
-				"text": "wasn't ",
-				"start": 1.58,
-				"end": 1.9,
+				"text": "I ",
+				"start": 1.64,
+				"end": 1.74,
 				"index": 195
 			},
 			{
-				"text": "in ",
-				"start": 1.9,
-				"end": 1.98,
+				"text": "wasn't ",
+				"start": 1.74,
+				"end": 2.06,
 				"index": 196
 			},
 			{
-				"text": "that ",
-				"start": 1.98,
+				"text": "in ",
+				"start": 2.06,
 				"end": 2.14,
 				"index": 197
 			},
 			{
-				"text": "crowd",
+				"text": "that ",
 				"start": 2.14,
-				"end": 2.44,
+				"end": 2.3,
 				"index": 198
-			}
-		],
-		"start": 52.54,
-		"end": 54.98
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Bow, ",
-				"start": 0,
-				"end": 0.36,
+				"text": "crowd",
+				"start": 2.3,
+				"end": 2.6,
 				"index": 199
-			},
-			{
-				"text": "bow, ",
-				"start": 0.36,
-				"end": 0.42,
-				"index": 200
-			},
-			{
-				"text": "bow, ",
-				"start": 0.52,
-				"end": 0.62,
-				"index": 201
-			},
-			{
-				"text": "bow, ",
-				"start": 0.9,
-				"end": 1,
-				"index": 202
-			},
-			{
-				"text": "bow, ",
-				"start": 1.24,
-				"end": 1.4,
-				"index": 203
-			},
-			{
-				"text": "bow, ",
-				"start": 1.52,
-				"end": 1.72,
-				"index": 204
-			},
-			{
-				"text": "bow, ",
-				"start": 2.02,
-				"end": 2.06,
-				"index": 205
-			},
-			{
-				"text": "bow, ",
-				"start": 2.06,
-				"end": 2.16,
-				"index": 206
-			},
-			{
-				"text": "bow, ",
-				"start": 2.36,
-				"end": 2.5,
-				"index": 207
-			},
-			{
-				"text": "bow, ",
-				"start": 2.66,
-				"end": 2.74,
-				"index": 208
-			},
-			{
-				"text": "bow, ",
-				"start": 2.74,
-				"end": 2.86,
-				"index": 209
-			},
-			{
-				"text": "bow, ",
-				"start": 2.88,
-				"end": 2.88,
-				"index": 210
-			},
-			{
-				"text": "bow, ",
-				"start": 2.98,
-				"end": 2.98,
-				"index": 211
-			},
-			{
-				"text": "bow",
-				"start": 3.14,
-				"end": 3.68,
-				"index": 212
 			}
 		],
-		"start": 54.98,
-		"end": 58.66
+		"start": 52.38,
+		"end": 54.98
 	}
 ]

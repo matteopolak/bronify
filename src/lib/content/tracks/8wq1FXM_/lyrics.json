@@ -2,74 +2,68 @@
 	{
 		"words": [
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 0,
-				"end": 0.64,
+				"end": 0.74,
 				"index": 0
 			},
 			{
 				"text": "he ",
-				"start": 0.72,
-				"end": 0.86,
+				"start": 0.74,
+				"end": 0.98,
 				"index": 1
 			},
 			{
 				"text": "can ",
-				"start": 0.86,
-				"end": 1.22,
+				"start": 0.98,
+				"end": 1.4,
 				"index": 2
 			},
 			{
-				"text": "dunk",
-				"start": 1.22,
-				"end": 1.9,
+				"text": "dunk, ",
+				"start": 1.4,
+				"end": 2.02,
 				"index": 3
-			}
-		],
-		"start": 1.76,
-		"end": 3.66
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Once ",
-				"start": 0,
-				"end": 0.64,
+				"text": "won't ",
+				"start": 2.08,
+				"end": 3.6,
 				"index": 4
 			},
 			{
 				"text": "you ",
-				"start": 0.64,
-				"end": 0.8,
+				"start": 3.6,
+				"end": 3.72,
 				"index": 5
 			},
 			{
 				"text": "race ",
-				"start": 0.8,
-				"end": 1.14,
+				"start": 3.72,
+				"end": 4.1,
 				"index": 6
 			},
 			{
 				"text": "with ",
-				"start": 1.14,
-				"end": 1.36,
+				"start": 4.1,
+				"end": 4.32,
 				"index": 7
 			},
 			{
 				"text": "the ",
-				"start": 1.36,
-				"end": 1.5,
+				"start": 4.32,
+				"end": 4.46,
 				"index": 8
 			},
 			{
 				"text": "Miami",
-				"start": 1.5,
-				"end": 2.02,
+				"start": 4.46,
+				"end": 4.98,
 				"index": 9
 			}
 		],
-		"start": 4.6,
-		"end": 6.62
+		"start": 1.65,
+		"end": 6.63
 	},
 	{
 		"words": [
@@ -81,7 +75,7 @@
 			},
 			{
 				"text": "that's ",
-				"start": 0.64,
+				"start": 0.62,
 				"end": 0.92,
 				"index": 11
 			},
@@ -100,617 +94,431 @@
 			{
 				"text": "to ",
 				"start": 2.06,
-				"end": 2.32,
+				"end": 2.28,
 				"index": 14
 			},
 			{
 				"text": "me",
-				"start": 2.32,
+				"start": 2.28,
 				"end": 2.6,
 				"index": 15
 			}
 		],
-		"start": 6.62,
-		"end": 9.22
+		"start": 6.63,
+		"end": 9.23
 	},
 	{
 		"words": [
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 0,
-				"end": 0.64,
+				"end": 1.34,
 				"index": 16
 			},
 			{
 				"text": "he ",
-				"start": 0.64,
-				"end": 0.84,
+				"start": 1.34,
+				"end": 1.56,
 				"index": 17
 			},
 			{
 				"text": "can ",
-				"start": 0.84,
-				"end": 1.22,
+				"start": 1.56,
+				"end": 1.9,
 				"index": 18
 			},
 			{
-				"text": "dunk",
-				"start": 1.22,
-				"end": 1.82,
+				"text": "dunk, ",
+				"start": 1.9,
+				"end": 2.52,
 				"index": 19
-			}
-		],
-		"start": 9.96,
-		"end": 11.78
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Weeping ",
-				"start": 0,
-				"end": 0.64,
+				"text": "weeping ",
+				"start": 2.76,
+				"end": 4.4,
 				"index": 20
 			},
 			{
 				"text": "you ",
-				"start": 0.64,
-				"end": 0.76,
+				"start": 4.4,
+				"end": 4.52,
 				"index": 21
 			},
 			{
 				"text": "can't ",
-				"start": 0.76,
-				"end": 1.16,
+				"start": 4.52,
+				"end": 4.94,
 				"index": 22
 			},
 			{
 				"text": "find ",
-				"start": 1.16,
-				"end": 1.44,
+				"start": 4.94,
+				"end": 5.16,
 				"index": 23
 			},
 			{
 				"text": "anything ",
-				"start": 1.44,
-				"end": 1.8,
+				"start": 5.16,
+				"end": 5.54,
 				"index": 24
 			},
 			{
 				"text": "wrong, ",
-				"start": 1.8,
-				"end": 2.38,
+				"start": 5.54,
+				"end": 6.14,
 				"index": 25
 			},
 			{
 				"text": "that's ",
-				"start": 2.42,
-				"end": 2.7,
+				"start": 6.24,
+				"end": 6.44,
 				"index": 26
 			},
 			{
 				"text": "why ",
-				"start": 2.7,
-				"end": 2.84,
+				"start": 6.44,
+				"end": 6.58,
 				"index": 27
 			},
 			{
-				"text": "they ",
-				"start": 2.84,
-				"end": 3.16,
+				"text": "the ",
+				"start": 6.58,
+				"end": 6.92,
 				"index": 28
 			},
 			{
-				"text": "yell ",
-				"start": 3.16,
-				"end": 3.42,
+				"text": "other ",
+				"start": 6.92,
+				"end": 7.18,
 				"index": 29
 			},
 			{
-				"text": "at ",
-				"start": 3.42,
-				"end": 3.58,
+				"text": "king ",
+				"start": 7.18,
+				"end": 7.6,
 				"index": 30
 			},
 			{
-				"text": "King ",
-				"start": 3.58,
-				"end": 3.9,
+				"text": "LeBron, ",
+				"start": 7.6,
+				"end": 8.44,
 				"index": 31
 			},
 			{
-				"text": "LeBron",
-				"start": 3.9,
-				"end": 4.62,
+				"text": "the ",
+				"start": 8.6,
+				"end": 9.54,
 				"index": 32
+			},
+			{
+				"text": "king ",
+				"start": 11.3,
+				"end": 11.68,
+				"index": 33
+			},
+			{
+				"text": "LeBron",
+				"start": 11.68,
+				"end": 12.4,
+				"index": 34
 			}
 		],
-		"start": 12.98,
-		"end": 17.6
+		"start": 9.23,
+		"end": 21.63
 	},
 	{
 		"words": [
 			{
-				"text": "LeBron, ",
+				"text": "LeBron ",
 				"start": 0,
-				"end": 0.56,
-				"index": 33
+				"end": 0.64,
+				"index": 35
 			},
 			{
 				"text": "he ",
 				"start": 0.64,
-				"end": 0.66,
-				"index": 34
+				"end": 0.88,
+				"index": 36
 			},
 			{
 				"text": "can ",
-				"start": 0.66,
-				"end": 1.18,
-				"index": 35
-			},
-			{
-				"text": "dunk",
-				"start": 1.18,
-				"end": 1.62,
-				"index": 36
-			}
-		],
-		"start": 26.32,
-		"end": 27.94
-	},
-	{
-		"words": [
-			{
-				"text": "You ",
-				"start": 0,
-				"end": 0.56,
+				"start": 0.88,
+				"end": 1.36,
 				"index": 37
 			},
 			{
-				"text": "know ",
-				"start": 0.56,
-				"end": 0.86,
+				"text": "dunk, ",
+				"start": 1.36,
+				"end": 1.78,
 				"index": 38
 			},
 			{
-				"text": "he's ",
-				"start": 0.86,
-				"end": 1.26,
+				"text": "you ",
+				"start": 1.94,
+				"end": 3.06,
 				"index": 39
 			},
 			{
-				"text": "called ",
-				"start": 1.26,
-				"end": 1.5,
+				"text": "know ",
+				"start": 3.06,
+				"end": 3.4,
 				"index": 40
 			},
 			{
-				"text": "50k ",
-				"start": 1.5,
-				"end": 2.38,
+				"text": "he's ",
+				"start": 3.4,
+				"end": 3.78,
 				"index": 41
 			},
 			{
-				"text": "points, ",
-				"start": 2.38,
-				"end": 2.94,
+				"text": "caught, ",
+				"start": 3.78,
+				"end": 3.94,
 				"index": 42
 			},
 			{
-				"text": "you ",
-				"start": 3.06,
-				"end": 3.2,
+				"text": "50k ",
+				"start": 4.22,
+				"end": 4.9,
 				"index": 43
 			},
 			{
-				"text": "can't ",
-				"start": 3.2,
-				"end": 3.6,
+				"text": "points, ",
+				"start": 4.9,
+				"end": 5.44,
 				"index": 44
 			},
 			{
-				"text": "hate ",
-				"start": 3.6,
-				"end": 3.78,
+				"text": "you ",
+				"start": 5.6,
+				"end": 5.7,
 				"index": 45
 			},
 			{
-				"text": "him, ",
-				"start": 3.78,
-				"end": 4.08,
+				"text": "can't ",
+				"start": 5.7,
+				"end": 6.1,
 				"index": 46
 			},
 			{
-				"text": "that's a ",
-				"start": 4.1,
-				"end": 4.24,
+				"text": "hate ",
+				"start": 6.1,
+				"end": 6.3,
 				"index": 47
 			},
 			{
-				"text": "bad ",
-				"start": 4.24,
-				"end": 4.56,
+				"text": "him, ",
+				"start": 6.3,
+				"end": 6.56,
 				"index": 48
 			},
 			{
-				"text": "choice",
-				"start": 4.56,
-				"end": 5,
+				"text": "that's a ",
+				"start": 6.56,
+				"end": 6.78,
 				"index": 49
-			}
-		],
-		"start": 28.64,
-		"end": 33.64
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "LeBron, ",
-				"start": 0,
-				"end": 0.56,
+				"text": "bad ",
+				"start": 6.78,
+				"end": 7.04,
 				"index": 50
 			},
 			{
-				"text": "he ",
-				"start": 0.58,
-				"end": 0.78,
+				"text": "choice",
+				"start": 7.04,
+				"end": 7.5,
 				"index": 51
-			},
-			{
-				"text": "can ",
-				"start": 0.78,
-				"end": 1.2,
-				"index": 52
-			},
-			{
-				"text": "dunk",
-				"start": 1.2,
-				"end": 1.6,
-				"index": 53
 			}
 		],
-		"start": 34.42,
-		"end": 36.02
+		"start": 26.13,
+		"end": 33.63
 	},
 	{
 		"words": [
 			{
-				"text": "If ",
+				"text": "LeBron ",
 				"start": 0,
-				"end": 0.56,
+				"end": 0.64,
+				"index": 52
+			},
+			{
+				"text": "he ",
+				"start": 0.64,
+				"end": 0.86,
+				"index": 53
+			},
+			{
+				"text": "can ",
+				"start": 0.86,
+				"end": 1.3,
 				"index": 54
 			},
 			{
-				"text": "you ",
-				"start": 0.56,
-				"end": 0.72,
+				"text": "dunk, ",
+				"start": 1.3,
+				"end": 1.7,
 				"index": 55
 			},
 			{
-				"text": "hate ",
-				"start": 0.72,
-				"end": 1.1,
+				"text": "if ",
+				"start": 2.62,
+				"end": 3.4,
 				"index": 56
 			},
 			{
-				"text": "him, ",
-				"start": 1.1,
-				"end": 1.38,
+				"text": "you ",
+				"start": 3.4,
+				"end": 3.56,
 				"index": 57
 			},
 			{
-				"text": "don't ",
-				"start": 1.4,
-				"end": 1.64,
+				"text": "hate ",
+				"start": 3.56,
+				"end": 3.94,
 				"index": 58
 			},
 			{
-				"text": "know ",
-				"start": 1.64,
-				"end": 1.78,
+				"text": "him, ",
+				"start": 3.94,
+				"end": 4.22,
 				"index": 59
 			},
 			{
-				"text": "what ",
-				"start": 1.78,
-				"end": 2.06,
+				"text": "don't ",
+				"start": 4.24,
+				"end": 4.56,
 				"index": 60
 			},
 			{
-				"text": "you ",
-				"start": 2.06,
-				"end": 2.32,
+				"text": "know ",
+				"start": 4.56,
+				"end": 4.6,
 				"index": 61
 			},
 			{
-				"text": "want, ",
-				"start": 2.32,
-				"end": 2.64,
+				"text": "what ",
+				"start": 4.6,
+				"end": 4.92,
 				"index": 62
 			},
 			{
 				"text": "you ",
-				"start": 2.7,
-				"end": 2.8,
+				"start": 4.92,
+				"end": 5.16,
 				"index": 63
 			},
 			{
-				"text": "can't ",
-				"start": 2.8,
-				"end": 3.22,
+				"text": "want, ",
+				"start": 5.16,
+				"end": 5.48,
 				"index": 64
 			},
 			{
-				"text": "hate ",
-				"start": 3.22,
-				"end": 3.46,
+				"text": "you ",
+				"start": 5.54,
+				"end": 5.62,
 				"index": 65
 			},
 			{
-				"text": "him, ",
-				"start": 3.46,
-				"end": 3.58,
+				"text": "can't ",
+				"start": 5.62,
+				"end": 6.1,
 				"index": 66
 			},
 			{
-				"text": "that's ",
-				"start": 3.7,
-				"end": 3.92,
+				"text": "hate ",
+				"start": 6.1,
+				"end": 6.24,
 				"index": 67
 			},
 			{
-				"text": "King ",
-				"start": 3.92,
-				"end": 4.02,
+				"text": "him, ",
+				"start": 6.24,
+				"end": 6.44,
 				"index": 68
 			},
 			{
-				"text": "LeBron",
-				"start": 4.02,
-				"end": 4.9,
+				"text": "the ",
+				"start": 6.5,
+				"end": 6.62,
 				"index": 69
-			}
-		],
-		"start": 37.16,
-		"end": 42.06
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "King ",
-				"start": 0,
-				"end": 0.4,
+				"text": "king ",
+				"start": 6.62,
+				"end": 6.9,
 				"index": 70
 			},
 			{
 				"text": "LeBron",
-				"start": 0.4,
-				"end": 2.2,
+				"start": 6.9,
+				"end": 7.7,
 				"index": 71
 			}
 		],
-		"start": 42.24,
-		"end": 44.44
+		"start": 34.33,
+		"end": 42.03
 	},
 	{
 		"words": [
 			{
-				"text": "King ",
+				"text": "The ",
 				"start": 0,
-				"end": 0.56,
+				"end": 0.64,
 				"index": 72
 			},
 			{
-				"text": "LeBron",
-				"start": 0.56,
-				"end": 1.54,
+				"text": "king ",
+				"start": 2.27,
+				"end": 2.57,
 				"index": 73
-			}
-		],
-		"start": 44.56,
-		"end": 46.1
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "King ",
-				"start": 0,
-				"end": 0.12,
+				"text": "LeBron, ",
+				"start": 2.57,
+				"end": 3.43,
 				"index": 74
 			},
 			{
-				"text": "LeBron",
-				"start": 0.12,
-				"end": 0.4,
+				"text": "the ",
+				"start": 3.55,
+				"end": 4.57,
 				"index": 75
-			}
-		],
-		"start": 46.38,
-		"end": 46.78
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "King ",
-				"start": 0,
-				"end": 0.08,
+				"text": "king ",
+				"start": 10.39,
+				"end": 10.73,
 				"index": 76
 			},
 			{
-				"text": "LeBron",
-				"start": 0.08,
-				"end": 0.08,
+				"text": "LeBron, ",
+				"start": 10.73,
+				"end": 11.59,
 				"index": 77
-			}
-		],
-		"start": 47.5,
-		"end": 47.58
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "King",
-				"start": 0,
-				"end": 1.06,
+				"text": "50k ",
+				"start": 11.63,
+				"end": 12.71,
 				"index": 78
-			}
-		],
-		"start": 47.6,
-		"end": 48.66
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "LeBronKing",
-				"start": 0,
-				"end": 48.2,
+				"text": "points ",
+				"start": 12.71,
+				"end": 13.41,
 				"index": 79
-			}
-		],
-		"start": 48.66,
-		"end": 96.86
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "LeBron",
-				"start": 0,
-				"end": 0.7,
+				"text": "down",
+				"start": 13.41,
+				"end": 13.81,
 				"index": 80
 			}
 		],
-		"start": 49.26,
-		"end": 49.96
-	},
-	{
-		"words": [
-			{
-				"text": "King ",
-				"start": 0,
-				"end": 0.36,
-				"index": 81
-			},
-			{
-				"text": "LeBron",
-				"start": 0.36,
-				"end": 0.73,
-				"index": 82
-			}
-		],
-		"start": 49.98,
-		"end": 50.71
-	},
-	{
-		"words": [
-			{
-				"text": "King ",
-				"start": 0,
-				"end": 0.74,
-				"index": 83
-			},
-			{
-				"text": "LeBron",
-				"start": 0.74,
-				"end": 1.48,
-				"index": 84
-			}
-		],
-		"start": 52.82,
-		"end": 54.3
-	},
-	{
-		"words": [
-			{
-				"text": "King ",
-				"start": 0,
-				"end": 0.38,
-				"index": 85
-			},
-			{
-				"text": "LeBron",
-				"start": 0.38,
-				"end": 1.88,
-				"index": 86
-			}
-		],
-		"start": 54.34,
-		"end": 56.22
-	},
-	{
-		"words": [
-			{
-				"text": "King LeBron ",
-				"start": 0,
-				"end": 56.88,
-				"index": 87
-			},
-			{
-				"text": "King ",
-				"start": 0.34,
-				"end": 0.78,
-				"index": 88
-			},
-			{
-				"text": "LeBron",
-				"start": 0.78,
-				"end": 1.76,
-				"index": 89
-			}
-		],
-		"start": 56.54,
-		"end": 113.42
-	},
-	{
-		"words": [
-			{
-				"text": "King",
-				"start": 0,
-				"end": 0.08,
-				"index": 90
-			}
-		],
-		"start": 58.46,
-		"end": 58.54
-	},
-	{
-		"words": [
-			{
-				"text": "LeBronKing",
-				"start": 0,
-				"end": 58.98,
-				"index": 91
-			}
-		],
-		"start": 58.54,
-		"end": 117.52
-	},
-	{
-		"words": [
-			{
-				"text": "LeBron",
-				"start": 0,
-				"end": 0.08,
-				"index": 92
-			}
-		],
-		"start": 59.06,
-		"end": 59.14
-	},
-	{
-		"words": [
-			{
-				"text": "King LeBron ",
-				"start": 0,
-				"end": 59.2,
-				"index": 93
-			},
-			{
-				"text": "King LeBron",
-				"start": 0.06,
-				"end": 59.72,
-				"index": 94
-			}
-		],
-		"start": 59.14,
-		"end": 118.86
+		"start": 42.73,
+		"end": 56.54
 	}
 ]
