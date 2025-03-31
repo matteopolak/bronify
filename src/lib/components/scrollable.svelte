@@ -1,8 +1,12 @@
 <script lang="ts">
 	import { ArrowLeft, ArrowRight } from '@lucide/svelte';
-	import type { Snippet } from 'svelte';
+	import { onDestroy, onMount, type Snippet } from 'svelte';
 
-	let { children, class: klass }: { children: Snippet; class?: string } = $props();
+	let {
+		children,
+		childrenCount,
+		class: klass
+	}: { children: Snippet; childrenCount: number; class?: string } = $props();
 
 	let container: HTMLDivElement = $state()!;
 
@@ -18,11 +22,13 @@
 	let scrollLeft = $state(0);
 	let scrollWidth = $state(0);
 
-	let canLeft = $derived(scrollLeft > 20);
-	let canRight = $derived(scrollWidth - clientWidth > scrollLeft + 20);
+	let canLeft = $derived(scrollLeft > 0);
+	let canRight = $derived(scrollWidth - clientWidth > scrollLeft + 10);
 
 	$effect(() => {
-		clientWidth = container.clientWidth;
+		childrenCount;
+		clientWidth;
+
 		scrollLeft = container.scrollLeft;
 		scrollWidth = container.scrollWidth;
 	});

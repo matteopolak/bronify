@@ -1,5 +1,4 @@
 <script lang="ts">
-	import Cover from '$lib/components/cover.svelte';
 	import { player, global } from '$lib/player.svelte';
 	import Fuse from 'fuse.js';
 	import {
@@ -155,7 +154,7 @@
 			<div class="p-3">
 				<h1 class="p-2 text-2xl font-bold text-neutral-100">Matching lyrics</h1>
 
-				<Scrollable class="gap-0">
+				<Scrollable class="gap-0" childrenCount={tracksLyrics.length}>
 					{#each tracksLyrics as track (track.id)}
 						<div transition:fade={{ duration: ANIMATION_TIME }}>
 							<VerticalCover
@@ -171,12 +170,32 @@
 			</div>
 		{/if}
 
+		{#if tracks.length}
+			<div class="p-3">
+				<h1 class="p-2 text-2xl font-semibold text-neutral-100">All tracks</h1>
+
+				<Scrollable class="gap-0" childrenCount={tracks.length}>
+					{#each tracks as track (track.id)}
+						<div transition:fade={{ duration: ANIMATION_TIME }}>
+							<VerticalCover
+								{track}
+								onClick={() => {
+									player.queue = tracks;
+									player.toggle(track);
+								}}
+							/>
+						</div>
+					{/each}
+				</Scrollable>
+			</div>
+		{/if}
+
 		<!-- New releases (within the last 24 hours) -->
 		{#if newReleases.length}
 			<div class="p-3">
 				<h1 class="p-2 text-2xl font-bold text-neutral-100">Newest releases</h1>
 
-				<Scrollable class="gap-0">
+				<Scrollable class="gap-0" childrenCount={newReleases.length}>
 					{#each newReleases as track (track.id)}
 						<div transition:fade={{ duration: ANIMATION_TIME }}>
 							<VerticalCover
@@ -197,7 +216,7 @@
 			<div class="p-3">
 				<h1 class="p-2 text-2xl font-semibold text-neutral-100">Featured albums</h1>
 
-				<Scrollable class="gap-0">
+				<Scrollable class="gap-0" childrenCount={albums.length}>
 					{#each albums as album (album.id)}
 						<div transition:fade={{ duration: ANIMATION_TIME }}>
 							<VerticalAlbum {album} />
@@ -210,7 +229,7 @@
 		{#if categories.length}
 			<div class="p-3">
 				<h1 class="p-2 text-2xl font-semibold text-neutral-100">Popular categories</h1>
-				<Scrollable class="gap-1">
+				<Scrollable class="gap-1" childrenCount={categories.length}>
 					{#each categories as [key, title] (key)}
 						<div transition:fade={{ duration: ANIMATION_TIME }}>
 							{@render collection({
@@ -229,27 +248,13 @@
 		{#if artists.length}
 			<div class="p-3">
 				<h1 class="p-2 text-2xl font-semibold text-neutral-100">Top artists</h1>
-				<Scrollable class="gap-1">
+				<Scrollable class="gap-1" childrenCount={artists.length}>
 					{#each artists as artist (artist.id)}
 						<div transition:fade={{ duration: ANIMATION_TIME }}>
 							<VerticalArtist {artist} />
 						</div>
 					{/each}
 				</Scrollable>
-			</div>
-		{/if}
-
-		{#if tracks.length}
-			<div class="p-3">
-				<h1 class="p-2 text-2xl font-semibold text-neutral-100">Everything else ig</h1>
-
-				<div class="grid w-full grid-cols-1 gap-1 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6">
-					{#each tracks as track (track.id)}
-						<div transition:fade={{ duration: ANIMATION_TIME }}>
-							<Cover {track} onClick={() => player.toggle(track)} />
-						</div>
-					{/each}
-				</div>
 			</div>
 		{/if}
 	</div>
