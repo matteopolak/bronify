@@ -136,8 +136,11 @@
 			<div class="mt-auto flex flex-col gap-3 p-8 pb-12 lg:gap-4">
 				<h2 class="text-5xl font-extrabold md:text-7xl lg:text-8xl">Missing a track?</h2>
 				<p class="text-md text-lg text-neutral-300">
-					DM me on TikTok at <a href="https://tiktok.com/@bronify.love" class="font-bold underline"
-						>@bronify.love</a
+					DM me on TikTok at <a href="https://tiktok.com/@bronify.love" class="font-bold underline">
+						@bronify.love
+					</a>
+					or email
+					<a href="mailto:contact@bronify.love" class="font-bold underline">contact@bronify.love</a
 					>.
 				</p>
 			</div>
