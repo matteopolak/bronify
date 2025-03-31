@@ -1550,91 +1550,85 @@
 				"index": 246
 			},
 			{
-				"text": "with",
+				"text": "with ",
 				"start": 7.58,
 				"end": 7.82,
 				"index": 247
-			}
-		],
-		"start": 76.3,
-		"end": 84.12
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Jordashians, ",
-				"start": 0,
-				"end": 0.92,
+				"start": 7.82,
+				"end": 8.74,
 				"index": 248
 			},
 			{
 				"text": "can't ",
-				"start": 1,
-				"end": 1.2,
+				"start": 8.82,
+				"end": 9.02,
 				"index": 249
 			},
 			{
 				"text": "blame ",
-				"start": 1.2,
-				"end": 1.38,
+				"start": 9.02,
+				"end": 9.2,
 				"index": 250
 			},
 			{
 				"text": "them, ",
-				"start": 1.38,
-				"end": 1.64,
+				"start": 9.2,
+				"end": 9.46,
 				"index": 251
 			},
 			{
 				"text": "the ",
-				"start": 1.72,
-				"end": 1.9,
+				"start": 9.54,
+				"end": 9.72,
 				"index": 252
 			},
 			{
 				"text": "90s ",
-				"start": 1.9,
-				"end": 2.3,
+				"start": 9.72,
+				"end": 10.12,
 				"index": 253
 			},
 			{
 				"text": "took ",
-				"start": 2.3,
-				"end": 2.42,
+				"start": 10.12,
+				"end": 10.24,
 				"index": 254
 			},
 			{
 				"text": "Jordan ",
-				"start": 2.42,
-				"end": 2.82,
+				"start": 10.24,
+				"end": 10.64,
 				"index": 255
 			},
 			{
 				"text": "and ",
-				"start": 2.82,
-				"end": 2.96,
+				"start": 10.64,
+				"end": 10.78,
 				"index": 256
 			},
 			{
 				"text": "started ",
-				"start": 2.96,
-				"end": 3.24,
+				"start": 10.78,
+				"end": 11.06,
 				"index": 257
 			},
 			{
 				"text": "gassing ",
-				"start": 3.24,
-				"end": 3.68,
+				"start": 11.06,
+				"end": 11.5,
 				"index": 258
 			},
 			{
 				"text": "them",
-				"start": 3.68,
-				"end": 3.88,
+				"start": 11.5,
+				"end": 11.7,
 				"index": 259
 			}
 		],
-		"start": 84.12,
+		"start": 76.3,
 		"end": 88
 	},
 	{

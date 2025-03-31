@@ -28,7 +28,8 @@
 		"stats": "node --experimental-strip-types scripts/stats.ts",
 		"add-album-art": "node --experimental-strip-types scripts/add_album_art.ts",
 		"pre-build": "node --experimental-strip-types scripts/pre_build.ts && node --experimental-strip-types scripts/lyrics_index.ts",
-		"sync": "pnpm collect && pnpm lyrics && pnpm tag && pnpm pre-build"
+		"sync": "pnpm collect && pnpm lyrics && pnpm tag && pnpm pre-build",
+		"capitals": "node --experimental-strip-types scripts/capitals.ts"
 	},
 	"devDependencies": {
 		"@capacitor/assets": "^3.0.5",
@@ -61,9 +62,7 @@
 		"vite": "^6.0.0"
 	},
 	"pnpm": {
-		"onlyBuiltDependencies": [
-			"esbuild"
-		]
+		"onlyBuiltDependencies": ["esbuild"]
 	},
 	"dependencies": {
 		"@capacitor/android": "^7.1.0",

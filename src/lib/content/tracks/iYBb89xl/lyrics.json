@@ -1,0 +1,638 @@
+[
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 1.12,
+				"index": 0
+			},
+			{
+				"text": "got ",
+				"start": 1.12,
+				"end": 1.5,
+				"index": 1
+			},
+			{
+				"text": "my ",
+				"start": 1.5,
+				"end": 1.74,
+				"index": 2
+			},
+			{
+				"text": "eyes",
+				"start": 1.74,
+				"end": 2.34,
+				"index": 3
+			}
+		],
+		"start": 0,
+		"end": 2.34
+	},
+	{
+		"words": [
+			{
+				"text": "Yeah, ",
+				"start": 0,
+				"end": 0.34,
+				"index": 4
+			},
+			{
+				"text": "everything ",
+				"start": 0.4,
+				"end": 0.86,
+				"index": 5
+			},
+			{
+				"text": "that ",
+				"start": 0.86,
+				"end": 1.26,
+				"index": 6
+			},
+			{
+				"text": "I ",
+				"start": 1.26,
+				"end": 1.42,
+				"index": 7
+			},
+			{
+				"text": "see ",
+				"start": 1.42,
+				"end": 1.74,
+				"index": 8
+			},
+			{
+				"text": "I ",
+				"start": 1.74,
+				"end": 2.02,
+				"index": 9
+			},
+			{
+				"text": "want ",
+				"start": 2.02,
+				"end": 2.38,
+				"index": 10
+			},
+			{
+				"text": "your ",
+				"start": 2.38,
+				"end": 2.64,
+				"index": 11
+			},
+			{
+				"text": "highlights ",
+				"start": 2.64,
+				"end": 3.16,
+				"index": 12
+			},
+			{
+				"text": "and ",
+				"start": 3.16,
+				"end": 3.66,
+				"index": 13
+			},
+			{
+				"text": "your ",
+				"start": 3.66,
+				"end": 3.82,
+				"index": 14
+			},
+			{
+				"text": "motion ",
+				"start": 3.82,
+				"end": 4.46,
+				"index": 15
+			},
+			{
+				"text": "endlessly ",
+				"start": 4.46,
+				"end": 5.64,
+				"index": 16
+			},
+			{
+				"text": "I ",
+				"start": 5.64,
+				"end": 6.72,
+				"index": 17
+			},
+			{
+				"text": "can't ",
+				"start": 6.72,
+				"end": 7.22,
+				"index": 18
+			},
+			{
+				"text": "get ",
+				"start": 7.22,
+				"end": 7.32,
+				"index": 19
+			},
+			{
+				"text": "over ",
+				"start": 7.32,
+				"end": 7.96,
+				"index": 20
+			},
+			{
+				"text": "Bronny",
+				"start": 8.2,
+				"end": 9.48,
+				"index": 21
+			}
+		],
+		"start": 4,
+		"end": 13.48
+	},
+	{
+		"words": [
+			{
+				"text": "You ",
+				"start": 0,
+				"end": 0.4,
+				"index": 22
+			},
+			{
+				"text": "brought ",
+				"start": 0.4,
+				"end": 0.64,
+				"index": 23
+			},
+			{
+				"text": "a ",
+				"start": 0.64,
+				"end": 0.92,
+				"index": 24
+			},
+			{
+				"text": "team, ",
+				"start": 0.92,
+				"end": 1.18,
+				"index": 25
+			},
+			{
+				"text": "a ",
+				"start": 1.2,
+				"end": 1.6,
+				"index": 26
+			},
+			{
+				"text": "ring ",
+				"start": 1.6,
+				"end": 1.86,
+				"index": 27
+			},
+			{
+				"text": "I ",
+				"start": 1.86,
+				"end": 2.16,
+				"index": 28
+			},
+			{
+				"text": "want ",
+				"start": 2.16,
+				"end": 2.48,
+				"index": 29
+			},
+			{
+				"text": "your ",
+				"start": 2.48,
+				"end": 2.76,
+				"index": 30
+			},
+			{
+				"text": "highlights ",
+				"start": 2.76,
+				"end": 3.32,
+				"index": 31
+			},
+			{
+				"text": "and ",
+				"start": 3.32,
+				"end": 3.76,
+				"index": 32
+			},
+			{
+				"text": "your ",
+				"start": 3.76,
+				"end": 3.9,
+				"index": 33
+			},
+			{
+				"text": "motion ",
+				"start": 3.9,
+				"end": 4.56,
+				"index": 34
+			},
+			{
+				"text": "endlessly",
+				"start": 4.56,
+				"end": 5.82,
+				"index": 35
+			}
+		],
+		"start": 13.48,
+		"end": 19.3
+	},
+	{
+		"words": [
+			{
+				"text": "Cuz ",
+				"start": 0,
+				"end": 1.08,
+				"index": 36
+			},
+			{
+				"text": "you're ",
+				"start": 1.08,
+				"end": 1.52,
+				"index": 37
+			},
+			{
+				"text": "the ",
+				"start": 1.52,
+				"end": 1.68,
+				"index": 38
+			},
+			{
+				"text": "king ",
+				"start": 1.68,
+				"end": 2.04,
+				"index": 39
+			},
+			{
+				"text": "and ",
+				"start": 2.04,
+				"end": 2.52,
+				"index": 40
+			},
+			{
+				"text": "you ",
+				"start": 2.52,
+				"end": 2.84,
+				"index": 41
+			},
+			{
+				"text": "know ",
+				"start": 2.84,
+				"end": 3.24,
+				"index": 42
+			},
+			{
+				"text": "it",
+				"start": 3.24,
+				"end": 3.58,
+				"index": 43
+			}
+		],
+		"start": 19.3,
+		"end": 22.88
+	},
+	{
+		"words": [
+			{
+				"text": "You ",
+				"start": 0,
+				"end": 1.82,
+				"index": 44
+			},
+			{
+				"text": "play ",
+				"start": 1.82,
+				"end": 2.64,
+				"index": 45
+			},
+			{
+				"text": "different ",
+				"start": 2.64,
+				"end": 3.46,
+				"index": 46
+			},
+			{
+				"text": "than ",
+				"start": 3.46,
+				"end": 3.98,
+				"index": 47
+			},
+			{
+				"text": "the ",
+				"start": 3.98,
+				"end": 4.14,
+				"index": 48
+			},
+			{
+				"text": "league",
+				"start": 4.14,
+				"end": 4.68,
+				"index": 49
+			}
+		],
+		"start": 22.88,
+		"end": 27.56
+	},
+	{
+		"words": [
+			{
+				"text": "Cuz ",
+				"start": 0,
+				"end": 2.54,
+				"index": 50
+			},
+			{
+				"text": "you're ",
+				"start": 2.54,
+				"end": 2.8,
+				"index": 51
+			},
+			{
+				"text": "the ",
+				"start": 2.8,
+				"end": 2.98,
+				"index": 52
+			},
+			{
+				"text": "king ",
+				"start": 2.98,
+				"end": 3.36,
+				"index": 53
+			},
+			{
+				"text": "and ",
+				"start": 3.36,
+				"end": 3.9,
+				"index": 54
+			},
+			{
+				"text": "you know it ",
+				"start": 3.9,
+				"end": 4.08,
+				"index": 55
+			},
+			{
+				"text": "I ",
+				"start": 4.08,
+				"end": 5.04,
+				"index": 56
+			},
+			{
+				"text": "know ",
+				"start": 6.58,
+				"end": 7.52,
+				"index": 57
+			},
+			{
+				"text": "you're ",
+				"start": 7.52,
+				"end": 7.86,
+				"index": 58
+			},
+			{
+				"text": "the ",
+				"start": 7.86,
+				"end": 7.9,
+				"index": 59
+			},
+			{
+				"text": "best ",
+				"start": 7.9,
+				"end": 8.3,
+				"index": 60
+			},
+			{
+				"text": "on ",
+				"start": 8.3,
+				"end": 8.66,
+				"index": 61
+			},
+			{
+				"text": "the ",
+				"start": 8.66,
+				"end": 8.86,
+				"index": 62
+			},
+			{
+				"text": "team",
+				"start": 8.86,
+				"end": 9.16,
+				"index": 63
+			}
+		],
+		"start": 27.56,
+		"end": 36.72
+	},
+	{
+		"words": [
+			{
+				"text": "Just ",
+				"start": 0,
+				"end": 2.42,
+				"index": 64
+			},
+			{
+				"text": "hold ",
+				"start": 2.42,
+				"end": 2.82,
+				"index": 65
+			},
+			{
+				"text": "on, ",
+				"start": 2.82,
+				"end": 3.26,
+				"index": 66
+			},
+			{
+				"text": "we ",
+				"start": 3.34,
+				"end": 3.46,
+				"index": 67
+			},
+			{
+				"text": "got ",
+				"start": 3.46,
+				"end": 3.66,
+				"index": 68
+			},
+			{
+				"text": "LeBron",
+				"start": 3.66,
+				"end": 4.3,
+				"index": 69
+			}
+		],
+		"start": 36.72,
+		"end": 41.02
+	},
+	{
+		"words": [
+			{
+				"text": "Just ",
+				"start": 0,
+				"end": 1.4,
+				"index": 70
+			},
+			{
+				"text": "hold ",
+				"start": 2.97,
+				"end": 3.33,
+				"index": 71
+			},
+			{
+				"text": "on, ",
+				"start": 3.33,
+				"end": 3.67,
+				"index": 72
+			},
+			{
+				"text": "we ",
+				"start": 3.79,
+				"end": 3.99,
+				"index": 73
+			},
+			{
+				"text": "got ",
+				"start": 3.99,
+				"end": 4.17,
+				"index": 74
+			},
+			{
+				"text": "LeBron",
+				"start": 4.17,
+				"end": 4.95,
+				"index": 75
+			}
+		],
+		"start": 41.02,
+		"end": 45.97
+	},
+	{
+		"words": [
+			{
+				"text": "It's ",
+				"start": 0,
+				"end": 0.92,
+				"index": 76
+			},
+			{
+				"text": "hard ",
+				"start": 2.65,
+				"end": 2.85,
+				"index": 77
+			},
+			{
+				"text": "to ",
+				"start": 2.85,
+				"end": 3.27,
+				"index": 78
+			},
+			{
+				"text": "be ",
+				"start": 3.27,
+				"end": 3.49,
+				"index": 79
+			},
+			{
+				"text": "like ",
+				"start": 3.49,
+				"end": 4.01,
+				"index": 80
+			},
+			{
+				"text": "the ",
+				"start": 4.01,
+				"end": 4.17,
+				"index": 81
+			},
+			{
+				"text": "GOAT",
+				"start": 4.17,
+				"end": 4.71,
+				"index": 82
+			}
+		],
+		"start": 45.97,
+		"end": 50.68
+	},
+	{
+		"words": [
+			{
+				"text": "Just ",
+				"start": 0,
+				"end": 1.02,
+				"index": 83
+			},
+			{
+				"text": "hold ",
+				"start": 2.87,
+				"end": 3.27,
+				"index": 84
+			},
+			{
+				"text": "on, ",
+				"start": 3.27,
+				"end": 3.61,
+				"index": 85
+			},
+			{
+				"text": "we ",
+				"start": 3.63,
+				"end": 3.91,
+				"index": 86
+			},
+			{
+				"text": "got ",
+				"start": 3.91,
+				"end": 4.11,
+				"index": 87
+			},
+			{
+				"text": "LeBron ",
+				"start": 4.11,
+				"end": 5.65,
+				"index": 88
+			},
+			{
+				"text": "LeBron, ",
+				"start": 5.65,
+				"end": 7.03,
+				"index": 89
+			},
+			{
+				"text": "my ",
+				"start": 7.03,
+				"end": 7.65,
+				"index": 90
+			},
+			{
+				"text": "LeBron",
+				"start": 7.65,
+				"end": 8.57,
+				"index": 91
+			}
+		],
+		"start": 50.68,
+		"end": 59.25
+	},
+	{
+		"words": [
+			{
+				"text": "It's hard to be like the ",
+				"start": 0,
+				"end": 0.42,
+				"index": 92
+			},
+			{
+				"text": "GOAT It's hard to be like the ",
+				"start": 0.42,
+				"end": 60.11,
+				"index": 93
+			},
+			{
+				"text": "GOAT It's hard to be like the GOAT It's hard to be like the GOAT It's hard to be like the GOAT It's hard to be like the GOAT It's hard to be like the GOAT It's hard to be like the GOAT It's hard to be like the GOAT It's hard to be like the GOAT It's hard to be like the GOAT It's hard to be like the GOAT",
+				"start": 0.44,
+				"end": 60.13,
+				"index": 94
+			}
+		],
+		"start": 59.25,
+		"end": 119.38
+	}
+]

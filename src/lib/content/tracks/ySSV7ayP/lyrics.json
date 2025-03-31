@@ -380,49 +380,43 @@
 				"index": 59
 			},
 			{
-				"text": "the",
+				"text": "the ",
 				"start": 5.42,
 				"end": 5.48,
 				"index": 60
-			}
-		],
-		"start": 22.34,
-		"end": 27.82
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Mavs, ",
-				"start": 0,
-				"end": 0.42,
+				"start": 5.48,
+				"end": 5.9,
 				"index": 61
 			},
 			{
 				"text": "you know ",
-				"start": 0.5,
-				"end": 0.62,
+				"start": 5.98,
+				"end": 6.1,
 				"index": 62
 			},
 			{
 				"text": "that ",
-				"start": 0.62,
-				"end": 0.72,
+				"start": 6.1,
+				"end": 6.2,
 				"index": 63
 			},
 			{
 				"text": "he ",
-				"start": 0.72,
-				"end": 0.86,
+				"start": 6.2,
+				"end": 6.34,
 				"index": 64
 			},
 			{
 				"text": "sold",
-				"start": 0.86,
-				"end": 1.14,
+				"start": 6.34,
+				"end": 6.62,
 				"index": 65
 			}
 		],
-		"start": 27.82,
+		"start": 22.34,
 		"end": 28.96
 	},
 	{
@@ -759,6 +753,6 @@
 			}
 		],
 		"start": 28.96,
-		"end": 51.8
+		"end": 80.76
 	}
 ]

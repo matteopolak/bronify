@@ -464,67 +464,61 @@
 				"index": 71
 			},
 			{
-				"text": "love",
+				"text": "love ",
 				"start": 3.02,
 				"end": 3.32,
 				"index": 72
-			}
-		],
-		"start": 16.69,
-		"end": 20.01
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Mike, ",
-				"start": 0,
-				"end": 0.22,
+				"start": 3.32,
+				"end": 3.54,
 				"index": 73
 			},
 			{
 				"text": "he ",
-				"start": 0.42,
-				"end": 0.5,
+				"start": 3.74,
+				"end": 3.82,
 				"index": 74
 			},
 			{
 				"text": "the ",
-				"start": 0.5,
-				"end": 0.68,
+				"start": 3.82,
+				"end": 4,
 				"index": 75
 			},
 			{
 				"text": "GOAT, ",
-				"start": 0.68,
-				"end": 0.94,
+				"start": 4,
+				"end": 4.26,
 				"index": 76
 			},
 			{
 				"text": "don't ",
-				"start": 0.98,
-				"end": 1.1,
+				"start": 4.3,
+				"end": 4.42,
 				"index": 77
 			},
 			{
 				"text": "tell ",
-				"start": 1.1,
-				"end": 1.24,
+				"start": 4.42,
+				"end": 4.56,
 				"index": 78
 			},
 			{
 				"text": "me ",
-				"start": 1.24,
-				"end": 1.38,
+				"start": 4.56,
+				"end": 4.7,
 				"index": 79
 			},
 			{
 				"text": "anything",
-				"start": 1.38,
-				"end": 1.68,
+				"start": 4.7,
+				"end": 5,
 				"index": 80
 			}
 		],
-		"start": 20.01,
+		"start": 16.69,
 		"end": 21.69
 	},
 	{
@@ -1112,133 +1106,127 @@
 				"index": 171
 			},
 			{
-				"text": "behind",
+				"text": "behind ",
 				"start": 0.98,
 				"end": 1.26,
 				"index": 172
-			}
-		],
-		"start": 40.29,
-		"end": 41.55
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Mike ",
-				"start": 0,
-				"end": 0.38,
+				"start": 1.26,
+				"end": 1.64,
 				"index": 173
 			},
 			{
 				"text": "but ",
-				"start": 0.38,
-				"end": 0.56,
+				"start": 1.64,
+				"end": 1.82,
 				"index": 174
 			},
 			{
 				"text": "need ",
-				"start": 0.56,
-				"end": 0.68,
+				"start": 1.82,
+				"end": 1.94,
 				"index": 175
 			},
 			{
 				"text": "more ",
-				"start": 0.68,
-				"end": 0.82,
+				"start": 1.94,
+				"end": 2.08,
 				"index": 176
 			},
 			{
 				"text": "evidence ",
-				"start": 0.82,
-				"end": 1.24,
+				"start": 2.08,
+				"end": 2.5,
 				"index": 177
 			},
 			{
 				"text": "I'm ",
-				"start": 1.24,
-				"end": 1.86,
+				"start": 2.5,
+				"end": 3.12,
 				"index": 178
 			},
 			{
 				"text": "like ",
-				"start": 1.86,
-				"end": 1.98,
+				"start": 3.12,
+				"end": 3.24,
 				"index": 179
 			},
 			{
 				"text": "I ",
-				"start": 1.98,
-				"end": 2.16,
+				"start": 3.24,
+				"end": 3.42,
 				"index": 180
 			},
 			{
 				"text": "know, ",
-				"start": 2.16,
-				"end": 2.34,
+				"start": 3.42,
+				"end": 3.6,
 				"index": 181
 			},
 			{
 				"text": "I ",
-				"start": 2.38,
-				"end": 2.5,
+				"start": 3.64,
+				"end": 3.76,
 				"index": 182
 			},
 			{
 				"text": "know, ",
-				"start": 2.5,
-				"end": 2.68,
+				"start": 3.76,
+				"end": 3.94,
 				"index": 183
 			},
 			{
 				"text": "I ",
-				"start": 2.72,
-				"end": 2.82,
+				"start": 3.98,
+				"end": 4.08,
 				"index": 184
 			},
 			{
 				"text": "know, ",
-				"start": 2.82,
-				"end": 2.98,
+				"start": 4.08,
+				"end": 4.24,
 				"index": 185
 			},
 			{
 				"text": "you ",
-				"start": 3.04,
-				"end": 3.14,
+				"start": 4.3,
+				"end": 4.4,
 				"index": 186
 			},
 			{
 				"text": "gon ",
-				"start": 3.14,
-				"end": 3.3,
+				"start": 4.4,
+				"end": 4.56,
 				"index": 187
 			},
 			{
 				"text": "bring ",
-				"start": 3.3,
-				"end": 3.46,
+				"start": 4.56,
+				"end": 4.72,
 				"index": 188
 			},
 			{
 				"text": "up ",
-				"start": 3.46,
-				"end": 3.66,
+				"start": 4.72,
+				"end": 4.92,
 				"index": 189
 			},
 			{
 				"text": "the ",
-				"start": 3.66,
-				"end": 3.78,
+				"start": 4.92,
+				"end": 5.04,
 				"index": 190
 			},
 			{
 				"text": "chips",
-				"start": 3.78,
-				"end": 4.06,
+				"start": 5.04,
+				"end": 5.32,
 				"index": 191
 			}
 		],
-		"start": 41.55,
+		"start": 40.29,
 		"end": 45.61
 	}
 ]

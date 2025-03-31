@@ -1,0 +1,218 @@
+[
+	{
+		"words": [
+			{
+				"text": "Yo ",
+				"start": 0,
+				"end": 0.44,
+				"index": 0
+			},
+			{
+				"text": "Pierre, ",
+				"start": 0.44,
+				"end": 0.76,
+				"index": 1
+			},
+			{
+				"text": "you ",
+				"start": 0.92,
+				"end": 1.02,
+				"index": 2
+			},
+			{
+				"text": "wanna ",
+				"start": 1.02,
+				"end": 1.16,
+				"index": 3
+			},
+			{
+				"text": "come ",
+				"start": 1.16,
+				"end": 1.34,
+				"index": 4
+			},
+			{
+				"text": "out ",
+				"start": 1.34,
+				"end": 1.48,
+				"index": 5
+			},
+			{
+				"text": "here?",
+				"start": 1.48,
+				"end": 1.62,
+				"index": 6
+			}
+		],
+		"start": 0.05,
+		"end": 1.67
+	},
+	{
+		"words": [
+			{
+				"text": "I'd ",
+				"start": 0,
+				"end": 0.52,
+				"index": 7
+			},
+			{
+				"text": "rather ",
+				"start": 0.52,
+				"end": 0.58,
+				"index": 8
+			},
+			{
+				"text": "I'd ",
+				"start": 0.94,
+				"end": 2.32,
+				"index": 9
+			},
+			{
+				"text": "rather ",
+				"start": 2.32,
+				"end": 2.52,
+				"index": 10
+			},
+			{
+				"text": "lie ",
+				"start": 2.52,
+				"end": 2.88,
+				"index": 11
+			},
+			{
+				"text": "to ",
+				"start": 2.88,
+				"end": 3.06,
+				"index": 12
+			},
+			{
+				"text": "lose ",
+				"start": 3.06,
+				"end": 3.28,
+				"index": 13
+			},
+			{
+				"text": "the ",
+				"start": 3.28,
+				"end": 3.46,
+				"index": 14
+			},
+			{
+				"text": "point ",
+				"start": 3.46,
+				"end": 3.68,
+				"index": 15
+			},
+			{
+				"text": "I'd ",
+				"start": 3.94,
+				"end": 4.12,
+				"index": 16
+			},
+			{
+				"text": "rather ",
+				"start": 4.12,
+				"end": 4.26,
+				"index": 17
+			},
+			{
+				"text": "lie",
+				"start": 4.26,
+				"end": 4.66,
+				"index": 18
+			}
+		],
+		"start": 31.95,
+		"end": 36.61
+	},
+	{
+		"words": [
+			{
+				"text": "I'd ",
+				"start": 0,
+				"end": 0.52,
+				"index": 19
+			},
+			{
+				"text": "rather ",
+				"start": 0.52,
+				"end": 0.72,
+				"index": 20
+			},
+			{
+				"text": "I'd ",
+				"start": 0.86,
+				"end": 2.32,
+				"index": 21
+			},
+			{
+				"text": "rather ",
+				"start": 2.32,
+				"end": 2.5,
+				"index": 22
+			},
+			{
+				"text": "I'd ",
+				"start": 2.88,
+				"end": 4.14,
+				"index": 23
+			},
+			{
+				"text": "rather ",
+				"start": 4.14,
+				"end": 4.34,
+				"index": 24
+			},
+			{
+				"text": "lie ",
+				"start": 4.34,
+				"end": 4.68,
+				"index": 25
+			},
+			{
+				"text": "to ",
+				"start": 4.68,
+				"end": 4.8,
+				"index": 26
+			},
+			{
+				"text": "lose ",
+				"start": 4.8,
+				"end": 5.06,
+				"index": 27
+			},
+			{
+				"text": "the ",
+				"start": 5.06,
+				"end": 5.24,
+				"index": 28
+			},
+			{
+				"text": "point ",
+				"start": 5.24,
+				"end": 5.44,
+				"index": 29
+			},
+			{
+				"text": "I'd ",
+				"start": 5.72,
+				"end": 5.92,
+				"index": 30
+			},
+			{
+				"text": "rather ",
+				"start": 5.92,
+				"end": 6.04,
+				"index": 31
+			},
+			{
+				"text": "lie",
+				"start": 6.04,
+				"end": 6.46,
+				"index": 32
+			}
+		],
+		"start": 37.39,
+		"end": 43.85
+	}
+]

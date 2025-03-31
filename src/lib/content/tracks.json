@@ -300,6 +300,20 @@
 		"createdAt": 1743133133498
 	},
 	{
+		"id": "7f2buY_R",
+		"artist": "Lepe",
+		"title": "Rather LieBron",
+		"durationSeconds": 48,
+		"tags": [
+			"blues",
+			"tender",
+			"sad",
+			"hip_hop"
+		],
+		"index": 194,
+		"createdAt": 1743454795747
+	},
+	{
 		"id": "7I-_u__O",
 		"artist": "ymrnando",
 		"title": "LeForever",
@@ -809,6 +823,22 @@
 		"createdAt": 1743042559894
 	},
 	{
+		"id": "EBp_LkXq",
+		"artist": "Lepe",
+		"title": "LeBron Never Looked So Good",
+		"durationSeconds": 60,
+		"tags": [
+			"soul",
+			"funk",
+			"blues",
+			"reggae",
+			"pop",
+			"disco"
+		],
+		"index": 195,
+		"createdAt": 1743454795747
+	},
+	{
 		"id": "eUEKnieY",
 		"artist": "sixer",
 		"title": "Bron's Side",
@@ -933,6 +963,22 @@
 		],
 		"index": 151,
 		"createdAt": 1743347560871
+	},
+	{
+		"id": "GfqTN1ZE",
+		"artist": "Lepe",
+		"title": "Find Your LeBron",
+		"durationSeconds": 48,
+		"tags": [
+			"reggae",
+			"hip_hop",
+			"soul",
+			"happy",
+			"blues",
+			"rap"
+		],
+		"index": 196,
+		"createdAt": 1743454795747
 	},
 	{
 		"id": "GhNwrUPB",
@@ -1166,6 +1212,21 @@
 		"createdAt": 1743307352905
 	},
 	{
+		"id": "iYBb89xl",
+		"artist": "Lepe",
+		"title": "Hold on, we got LeBron",
+		"durationSeconds": 59,
+		"tags": [
+			"soul",
+			"blues",
+			"happy",
+			"tender",
+			"funk"
+		],
+		"index": 197,
+		"createdAt": 1743454795747
+	},
+	{
 		"id": "J0h45f-7",
 		"artist": "Von Pierre",
 		"title": "6:16 in Akron",
@@ -1294,6 +1355,21 @@
 		],
 		"index": 55,
 		"createdAt": 1743090666906
+	},
+	{
+		"id": "K1AzxYhf",
+		"artist": "Lepe",
+		"title": "You're Not Alone LeBron",
+		"durationSeconds": 61,
+		"tags": [
+			"soul",
+			"blues",
+			"tender",
+			"lullaby",
+			"reggae"
+		],
+		"index": 198,
+		"createdAt": 1743454795747
 	},
 	{
 		"id": "k9-YuI95",
@@ -1852,6 +1928,23 @@
 		],
 		"index": 78,
 		"createdAt": 1743105314346
+	},
+	{
+		"id": "RI8AZ-tp",
+		"artist": "Lepe",
+		"title": "LeNo One",
+		"durationSeconds": 60,
+		"tags": [
+			"blues",
+			"soul",
+			"tender",
+			"hip_hop",
+			"reggae",
+			"pop",
+			"funk"
+		],
+		"index": 199,
+		"createdAt": 1743454795747
 	},
 	{
 		"id": "rIdvYot1",
@@ -2468,6 +2561,23 @@
 		],
 		"index": 164,
 		"createdAt": 1743380820401
+	},
+	{
+		"id": "xPUDGI1e",
+		"artist": "Lepe",
+		"title": "LeTreasure",
+		"durationSeconds": 60,
+		"tags": [
+			"funk",
+			"soul",
+			"disco",
+			"blues",
+			"reggae",
+			"pop",
+			"happy"
+		],
+		"index": 200,
+		"createdAt": 1743454795747
 	},
 	{
 		"id": "xyeI1zzI",

@@ -26,9 +26,16 @@ const allowedToStay = new Set(
 );
 
 for (const trackId of trackIds) {
-	const lyrics = JSON.parse(
-		fs.readFileSync(`src/lib/content/tracks/${trackId}/lyrics.json`, 'utf-8')
-	) as Lyrics;
+	let lyrics: Lyrics;
+
+	try {
+		lyrics = JSON.parse(
+			fs.readFileSync(`src/lib/content/tracks/${trackId}/lyrics.json`, 'utf-8')
+		) as Lyrics;
+	} catch (e) {
+		console.error(`Error parsing lyrics for track ${trackId}:`, e);
+		continue;
+	}
 
 	for (const line of lyrics) {
 		for (const word of line.words) {

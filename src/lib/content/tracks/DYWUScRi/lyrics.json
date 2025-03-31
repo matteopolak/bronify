@@ -446,25 +446,19 @@
 				"index": 69
 			},
 			{
-				"text": "only",
+				"text": "only ",
 				"start": 2.04,
 				"end": 2.18,
 				"index": 70
-			}
-		],
-		"start": 16.54,
-		"end": 18.72
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Stefan",
-				"start": 0,
-				"end": 0.42,
+				"start": 2.18,
+				"end": 2.6,
 				"index": 71
 			}
 		],
-		"start": 18.72,
+		"start": 16.54,
 		"end": 19.14
 	},
 	{
@@ -794,31 +788,25 @@
 				"index": 122
 			},
 			{
-				"text": "about",
+				"text": "about ",
 				"start": 4.44,
 				"end": 4.74,
 				"index": 123
-			}
-		],
-		"start": 27.32,
-		"end": 32.06
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Mike ",
-				"start": 0,
-				"end": 0.3,
+				"start": 4.74,
+				"end": 5.04,
 				"index": 124
 			},
 			{
 				"text": "again",
-				"start": 0.3,
-				"end": 0.56,
+				"start": 5.04,
+				"end": 5.3,
 				"index": 125
 			}
 		],
-		"start": 32.06,
+		"start": 27.32,
 		"end": 32.62
 	},
 	{

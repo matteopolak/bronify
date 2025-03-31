@@ -722,229 +722,223 @@
 				"index": 119
 			},
 			{
-				"text": "it",
+				"text": "it ",
 				"start": 25.48,
 				"end": 25.54,
 				"index": 120
-			}
-		],
-		"start": 0.27,
-		"end": 25.91
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Micah, ",
-				"start": 0,
-				"end": 0.48,
+				"start": 25.64,
+				"end": 26.12,
 				"index": 121
 			},
 			{
 				"text": "Bill, ",
-				"start": 0.48,
-				"end": 0.64,
+				"start": 26.12,
+				"end": 26.28,
 				"index": 122
 			},
 			{
 				"text": "you ",
-				"start": 0.64,
-				"end": 0.78,
+				"start": 26.28,
+				"end": 26.42,
 				"index": 123
 			},
 			{
 				"text": "Bron ",
-				"start": 0.78,
-				"end": 0.92,
+				"start": 26.42,
+				"end": 26.56,
 				"index": 124
 			},
 			{
 				"text": "ain't ",
-				"start": 0.92,
-				"end": 1.14,
+				"start": 26.56,
+				"end": 26.78,
 				"index": 125
 			},
 			{
 				"text": "trippin', ",
-				"start": 1.14,
-				"end": 1.5,
+				"start": 26.78,
+				"end": 27.14,
 				"index": 126
 			},
 			{
 				"text": "is ",
-				"start": 1.5,
-				"end": 1.76,
+				"start": 27.14,
+				"end": 27.4,
 				"index": 127
 			},
 			{
 				"text": "you ",
-				"start": 1.76,
-				"end": 1.86,
+				"start": 27.4,
+				"end": 27.5,
 				"index": 128
 			},
 			{
 				"text": "gon' ",
-				"start": 1.86,
-				"end": 2.06,
+				"start": 27.5,
+				"end": 27.7,
 				"index": 129
 			},
 			{
 				"text": "win ",
-				"start": 2.06,
-				"end": 2.22,
+				"start": 27.7,
+				"end": 27.86,
 				"index": 130
 			},
 			{
 				"text": "it, ",
-				"start": 2.22,
-				"end": 2.36,
+				"start": 27.86,
+				"end": 28,
 				"index": 131
 			},
 			{
 				"text": "shit, ",
-				"start": 2.4,
-				"end": 2.66,
+				"start": 28.04,
+				"end": 28.3,
 				"index": 132
 			},
 			{
 				"text": "I ",
-				"start": 2.7,
-				"end": 2.82,
+				"start": 28.34,
+				"end": 28.46,
 				"index": 133
 			},
 			{
 				"text": "be ",
-				"start": 2.82,
-				"end": 2.94,
+				"start": 28.46,
+				"end": 28.58,
 				"index": 134
 			},
 			{
 				"text": "happy ",
-				"start": 2.94,
-				"end": 3.22,
+				"start": 28.58,
+				"end": 28.86,
 				"index": 135
 			},
 			{
 				"text": "to ",
-				"start": 3.22,
-				"end": 3.44,
+				"start": 28.86,
+				"end": 29.08,
 				"index": 136
 			},
 			{
 				"text": "bid ",
-				"start": 3.44,
-				"end": 3.6,
+				"start": 29.08,
+				"end": 29.24,
 				"index": 137
 			},
 			{
 				"text": "it, ",
-				"start": 3.6,
-				"end": 3.74,
+				"start": 29.24,
+				"end": 29.38,
 				"index": 138
 			},
 			{
 				"text": "whenever ",
-				"start": 3.74,
-				"end": 4,
+				"start": 29.38,
+				"end": 29.64,
 				"index": 139
 			},
 			{
 				"text": "you ",
-				"start": 4,
-				"end": 4.34,
+				"start": 29.64,
+				"end": 29.98,
 				"index": 140
 			},
 			{
 				"text": "dunkin', ",
-				"start": 4.34,
-				"end": 4.7,
+				"start": 29.98,
+				"end": 30.34,
 				"index": 141
 			},
 			{
 				"text": "I ",
-				"start": 4.7,
-				"end": 4.78,
+				"start": 30.34,
+				"end": 30.42,
 				"index": 142
 			},
 			{
 				"text": "clip ",
-				"start": 4.78,
-				"end": 4.96,
+				"start": 30.42,
+				"end": 30.6,
 				"index": 143
 			},
 			{
 				"text": "it, ",
-				"start": 4.96,
-				"end": 5.2,
+				"start": 30.6,
+				"end": 30.84,
 				"index": 144
 			},
 			{
 				"text": "I'd ",
-				"start": 5.22,
-				"end": 5.52,
+				"start": 30.86,
+				"end": 31.16,
 				"index": 145
 			},
 			{
 				"text": "rather ",
-				"start": 5.52,
-				"end": 5.68,
+				"start": 31.16,
+				"end": 31.32,
 				"index": 146
 			},
 			{
 				"text": "watch ",
-				"start": 5.68,
-				"end": 5.94,
+				"start": 31.32,
+				"end": 31.58,
 				"index": 147
 			},
 			{
 				"text": "you ",
-				"start": 5.94,
-				"end": 6.08,
+				"start": 31.58,
+				"end": 31.72,
 				"index": 148
 			},
 			{
 				"text": "play, ",
-				"start": 6.08,
-				"end": 6.22,
+				"start": 31.72,
+				"end": 31.86,
 				"index": 149
 			},
 			{
 				"text": "then ",
-				"start": 6.3,
-				"end": 6.42,
+				"start": 31.94,
+				"end": 32.06,
 				"index": 150
 			},
 			{
 				"text": "go ",
-				"start": 6.42,
-				"end": 6.52,
+				"start": 32.06,
+				"end": 32.16,
 				"index": 151
 			},
 			{
 				"text": "get ",
-				"start": 6.52,
-				"end": 6.7,
+				"start": 32.16,
+				"end": 32.34,
 				"index": 152
 			},
 			{
 				"text": "spotted ",
-				"start": 6.7,
-				"end": 6.94,
+				"start": 32.34,
+				"end": 32.58,
 				"index": 153
 			},
 			{
 				"text": "on ",
-				"start": 6.94,
-				"end": 7.16,
+				"start": 32.58,
+				"end": 32.8,
 				"index": 154
 			},
 			{
 				"text": "civics",
-				"start": 7.16,
-				"end": 7.56,
+				"start": 32.8,
+				"end": 33.2,
 				"index": 155
 			}
 		],
-		"start": 25.91,
+		"start": 0.27,
 		"end": 33.47
 	}
 ]
