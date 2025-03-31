@@ -68,11 +68,11 @@ if need_demucs:
 
 PROMPT = """\
 Music lyrics.
-Bronny, LeBronny, GOAT, LBJ, LeBron, LeSunshine
+Bronny, LeBronny, goat, LBJ, LeBron, LeSunshine
 Gatorade, Lakers, Mavs, Luka Don, Dallas, Miami, Cavs, Heat, NBA
 Stephen Curry, Steph, Golden State, Warriors, light up the court
 Bronify, pump fake, light up, LAX, NBA, MVP, win in five, 6 foot 9,
-glaze, GOAT is LeBron, Bron is the GOAT
+glaze, LeBron goat, Jumbotron
 """
 
 model = WhisperModel(

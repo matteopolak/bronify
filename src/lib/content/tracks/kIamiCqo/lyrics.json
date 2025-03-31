@@ -1,0 +1,950 @@
+[
+	{
+		"words": [
+			{
+				"text": "Yo, ",
+				"start": 0,
+				"end": 0.42,
+				"index": 0
+			},
+			{
+				"text": "accolades, ",
+				"start": 0.48,
+				"end": 0.96,
+				"index": 1
+			},
+			{
+				"text": "plural, ",
+				"start": 0.96,
+				"end": 1.18,
+				"index": 2
+			},
+			{
+				"text": "they ",
+				"start": 1.28,
+				"end": 1.38,
+				"index": 3
+			},
+			{
+				"text": "talkin' ",
+				"start": 1.38,
+				"end": 1.66,
+				"index": 4
+			},
+			{
+				"text": "bout ",
+				"start": 1.74,
+				"end": 1.88,
+				"index": 5
+			},
+			{
+				"text": "rings, ",
+				"start": 1.88,
+				"end": 2.14,
+				"index": 6
+			},
+			{
+				"text": "eatin' ",
+				"start": 2.24,
+				"end": 2.42,
+				"index": 7
+			},
+			{
+				"text": "out ",
+				"start": 2.52,
+				"end": 2.62,
+				"index": 8
+			},
+			{
+				"text": "them ",
+				"start": 2.62,
+				"end": 2.68,
+				"index": 9
+			},
+			{
+				"text": "like ",
+				"start": 2.68,
+				"end": 2.78,
+				"index": 10
+			},
+			{
+				"text": "four, ",
+				"start": 2.78,
+				"end": 3.02,
+				"index": 11
+			},
+			{
+				"text": "I'm ",
+				"start": 3.12,
+				"end": 3.28,
+				"index": 12
+			},
+			{
+				"text": "yellin' ",
+				"start": 3.28,
+				"end": 3.6,
+				"index": 13
+			},
+			{
+				"text": "King ",
+				"start": 3.6,
+				"end": 3.7,
+				"index": 14
+			},
+			{
+				"text": "James ",
+				"start": 3.7,
+				"end": 3.92,
+				"index": 15
+			},
+			{
+				"text": "all ",
+				"start": 3.92,
+				"end": 4.12,
+				"index": 16
+			},
+			{
+				"text": "inside ",
+				"start": 4.12,
+				"end": 4.34,
+				"index": 17
+			},
+			{
+				"text": "of ",
+				"start": 4.34,
+				"end": 4.56,
+				"index": 18
+			},
+			{
+				"text": "the ",
+				"start": 4.56,
+				"end": 4.64,
+				"index": 19
+			},
+			{
+				"text": "store, ",
+				"start": 4.64,
+				"end": 4.88,
+				"index": 20
+			},
+			{
+				"text": "I'm ",
+				"start": 5.02,
+				"end": 5.18,
+				"index": 21
+			},
+			{
+				"text": "watchin' ",
+				"start": 5.18,
+				"end": 5.5,
+				"index": 22
+			},
+			{
+				"text": "you ",
+				"start": 5.52,
+				"end": 5.58,
+				"index": 23
+			},
+			{
+				"text": "dunk, ",
+				"start": 5.58,
+				"end": 5.84,
+				"index": 24
+			},
+			{
+				"text": "droolin' ",
+				"start": 5.88,
+				"end": 6.04,
+				"index": 25
+			},
+			{
+				"text": "all ",
+				"start": 6.16,
+				"end": 6.28,
+				"index": 26
+			},
+			{
+				"text": "on ",
+				"start": 6.28,
+				"end": 6.44,
+				"index": 27
+			},
+			{
+				"text": "the ",
+				"start": 6.44,
+				"end": 6.58,
+				"index": 28
+			},
+			{
+				"text": "floor, ",
+				"start": 6.58,
+				"end": 6.78,
+				"index": 29
+			},
+			{
+				"text": "I'm ",
+				"start": 6.9,
+				"end": 7.06,
+				"index": 30
+			},
+			{
+				"text": "buyin' ",
+				"start": 7.06,
+				"end": 7.36,
+				"index": 31
+			},
+			{
+				"text": "your ",
+				"start": 7.38,
+				"end": 7.44,
+				"index": 32
+			},
+			{
+				"text": "jerseys, ",
+				"start": 7.44,
+				"end": 7.84,
+				"index": 33
+			},
+			{
+				"text": "I'm ",
+				"start": 7.86,
+				"end": 8,
+				"index": 34
+			},
+			{
+				"text": "goin', ",
+				"start": 8,
+				"end": 8.34,
+				"index": 35
+			},
+			{
+				"text": "I ",
+				"start": 8.34,
+				"end": 8.42,
+				"index": 36
+			},
+			{
+				"text": "splurgin', ",
+				"start": 8.42,
+				"end": 8.82,
+				"index": 37
+			},
+			{
+				"text": "that ",
+				"start": 8.82,
+				"end": 8.9,
+				"index": 38
+			},
+			{
+				"text": "loss ",
+				"start": 8.9,
+				"end": 9.12,
+				"index": 39
+			},
+			{
+				"text": "cut ",
+				"start": 9.12,
+				"end": 9.26,
+				"index": 40
+			},
+			{
+				"text": "me ",
+				"start": 9.26,
+				"end": 9.34,
+				"index": 41
+			},
+			{
+				"text": "deep, ",
+				"start": 9.34,
+				"end": 9.58,
+				"index": 42
+			},
+			{
+				"text": "think ",
+				"start": 9.66,
+				"end": 9.74,
+				"index": 43
+			},
+			{
+				"text": "I ",
+				"start": 9.74,
+				"end": 9.84,
+				"index": 44
+			},
+			{
+				"text": "need ",
+				"start": 9.84,
+				"end": 10.02,
+				"index": 45
+			},
+			{
+				"text": "me ",
+				"start": 10.02,
+				"end": 10.14,
+				"index": 46
+			},
+			{
+				"text": "a ",
+				"start": 10.14,
+				"end": 10.28,
+				"index": 47
+			},
+			{
+				"text": "surgeon, ",
+				"start": 10.28,
+				"end": 10.58,
+				"index": 48
+			},
+			{
+				"text": "you ",
+				"start": 10.68,
+				"end": 10.74,
+				"index": 49
+			},
+			{
+				"text": "been ",
+				"start": 10.74,
+				"end": 10.88,
+				"index": 50
+			},
+			{
+				"text": "my ",
+				"start": 10.88,
+				"end": 11.04,
+				"index": 51
+			},
+			{
+				"text": "sunshine ",
+				"start": 11.04,
+				"end": 11.32,
+				"index": 52
+			},
+			{
+				"text": "like ",
+				"start": 11.32,
+				"end": 11.6,
+				"index": 53
+			},
+			{
+				"text": "I ",
+				"start": 11.6,
+				"end": 11.72,
+				"index": 54
+			},
+			{
+				"text": "opened ",
+				"start": 11.72,
+				"end": 11.98,
+				"index": 55
+			},
+			{
+				"text": "the ",
+				"start": 11.98,
+				"end": 12.2,
+				"index": 56
+			},
+			{
+				"text": "curtains, ",
+				"start": 12.2,
+				"end": 12.5,
+				"index": 57
+			},
+			{
+				"text": "I ",
+				"start": 12.58,
+				"end": 12.68,
+				"index": 58
+			},
+			{
+				"text": "got ",
+				"start": 12.68,
+				"end": 12.84,
+				"index": 59
+			},
+			{
+				"text": "up ",
+				"start": 12.84,
+				"end": 13,
+				"index": 60
+			},
+			{
+				"text": "and ",
+				"start": 13,
+				"end": 13.12,
+				"index": 61
+			},
+			{
+				"text": "shit, ",
+				"start": 13.12,
+				"end": 13.28,
+				"index": 62
+			},
+			{
+				"text": "I ",
+				"start": 13.36,
+				"end": 13.48,
+				"index": 63
+			},
+			{
+				"text": "ain't ",
+				"start": 13.48,
+				"end": 13.62,
+				"index": 64
+			},
+			{
+				"text": "do ",
+				"start": 13.62,
+				"end": 13.74,
+				"index": 65
+			},
+			{
+				"text": "it ",
+				"start": 13.74,
+				"end": 13.9,
+				"index": 66
+			},
+			{
+				"text": "on ",
+				"start": 13.9,
+				"end": 14.04,
+				"index": 67
+			},
+			{
+				"text": "purpose, ",
+				"start": 14.04,
+				"end": 14.26,
+				"index": 68
+			},
+			{
+				"text": "my ",
+				"start": 14.42,
+				"end": 14.52,
+				"index": 69
+			},
+			{
+				"text": "mama ",
+				"start": 14.52,
+				"end": 14.74,
+				"index": 70
+			},
+			{
+				"text": "get ",
+				"start": 14.74,
+				"end": 14.96,
+				"index": 71
+			},
+			{
+				"text": "mad ",
+				"start": 14.96,
+				"end": 15.18,
+				"index": 72
+			},
+			{
+				"text": "when ",
+				"start": 15.18,
+				"end": 15.32,
+				"index": 73
+			},
+			{
+				"text": "you ",
+				"start": 15.32,
+				"end": 15.46,
+				"index": 74
+			},
+			{
+				"text": "losin', ",
+				"start": 15.46,
+				"end": 15.84,
+				"index": 75
+			},
+			{
+				"text": "I'm ",
+				"start": 15.84,
+				"end": 15.94,
+				"index": 76
+			},
+			{
+				"text": "cursin', ",
+				"start": 15.94,
+				"end": 16.3,
+				"index": 77
+			},
+			{
+				"text": "Savannah ",
+				"start": 16.3,
+				"end": 16.54,
+				"index": 78
+			},
+			{
+				"text": "don't ",
+				"start": 16.54,
+				"end": 16.92,
+				"index": 79
+			},
+			{
+				"text": "only ",
+				"start": 16.92,
+				"end": 17.12,
+				"index": 80
+			},
+			{
+				"text": "want ",
+				"start": 17.12,
+				"end": 17.32,
+				"index": 81
+			},
+			{
+				"text": "slobber, ",
+				"start": 17.32,
+				"end": 17.66,
+				"index": 82
+			},
+			{
+				"text": "there's ",
+				"start": 17.66,
+				"end": 17.82,
+				"index": 83
+			},
+			{
+				"text": "persons, ",
+				"start": 17.82,
+				"end": 18.1,
+				"index": 84
+			},
+			{
+				"text": "you ",
+				"start": 18.16,
+				"end": 18.28,
+				"index": 85
+			},
+			{
+				"text": "bringin' ",
+				"start": 18.28,
+				"end": 18.64,
+				"index": 86
+			},
+			{
+				"text": "a ",
+				"start": 18.64,
+				"end": 18.7,
+				"index": 87
+			},
+			{
+				"text": "chip, ",
+				"start": 18.7,
+				"end": 18.92,
+				"index": 88
+			},
+			{
+				"text": "if ",
+				"start": 19,
+				"end": 19.1,
+				"index": 89
+			},
+			{
+				"text": "it's ",
+				"start": 19.1,
+				"end": 19.26,
+				"index": 90
+			},
+			{
+				"text": "Cleveland, ",
+				"start": 19.26,
+				"end": 19.46,
+				"index": 91
+			},
+			{
+				"text": "Miami, ",
+				"start": 19.56,
+				"end": 19.82,
+				"index": 92
+			},
+			{
+				"text": "you're ",
+				"start": 20,
+				"end": 20.1,
+				"index": 93
+			},
+			{
+				"text": "down ",
+				"start": 20.1,
+				"end": 20.28,
+				"index": 94
+			},
+			{
+				"text": "to ",
+				"start": 20.28,
+				"end": 20.46,
+				"index": 95
+			},
+			{
+				"text": "LA, ",
+				"start": 20.46,
+				"end": 20.7,
+				"index": 96
+			},
+			{
+				"text": "Bron, ",
+				"start": 20.82,
+				"end": 20.96,
+				"index": 97
+			},
+			{
+				"text": "wherever ",
+				"start": 21,
+				"end": 21.2,
+				"index": 98
+			},
+			{
+				"text": "you ",
+				"start": 21.2,
+				"end": 21.5,
+				"index": 99
+			},
+			{
+				"text": "playin', ",
+				"start": 21.5,
+				"end": 21.88,
+				"index": 100
+			},
+			{
+				"text": "I ",
+				"start": 21.88,
+				"end": 22,
+				"index": 101
+			},
+			{
+				"text": "told ",
+				"start": 22,
+				"end": 22.18,
+				"index": 102
+			},
+			{
+				"text": "em ",
+				"start": 22.18,
+				"end": 22.34,
+				"index": 103
+			},
+			{
+				"text": "you ",
+				"start": 22.34,
+				"end": 22.48,
+				"index": 104
+			},
+			{
+				"text": "with ",
+				"start": 22.48,
+				"end": 22.7,
+				"index": 105
+			},
+			{
+				"text": "it, ",
+				"start": 22.7,
+				"end": 22.8,
+				"index": 106
+			},
+			{
+				"text": "yo, ",
+				"start": 22.84,
+				"end": 22.96,
+				"index": 107
+			},
+			{
+				"text": "gamers ",
+				"start": 22.98,
+				"end": 23.24,
+				"index": 108
+			},
+			{
+				"text": "like ",
+				"start": 23.24,
+				"end": 23.38,
+				"index": 109
+			},
+			{
+				"text": "go ",
+				"start": 23.38,
+				"end": 23.6,
+				"index": 110
+			},
+			{
+				"text": "to ",
+				"start": 23.6,
+				"end": 23.76,
+				"index": 111
+			},
+			{
+				"text": "a ",
+				"start": 23.76,
+				"end": 23.9,
+				"index": 112
+			},
+			{
+				"text": "city, ",
+				"start": 23.9,
+				"end": 24.14,
+				"index": 113
+			},
+			{
+				"text": "wherever ",
+				"start": 24.26,
+				"end": 24.48,
+				"index": 114
+			},
+			{
+				"text": "you ",
+				"start": 24.48,
+				"end": 24.82,
+				"index": 115
+			},
+			{
+				"text": "go, ",
+				"start": 24.82,
+				"end": 25.04,
+				"index": 116
+			},
+			{
+				"text": "they ",
+				"start": 25.06,
+				"end": 25.14,
+				"index": 117
+			},
+			{
+				"text": "gon' ",
+				"start": 25.14,
+				"end": 25.3,
+				"index": 118
+			},
+			{
+				"text": "win ",
+				"start": 25.36,
+				"end": 25.48,
+				"index": 119
+			},
+			{
+				"text": "it",
+				"start": 25.48,
+				"end": 25.54,
+				"index": 120
+			}
+		],
+		"start": 0.27,
+		"end": 25.91
+	},
+	{
+		"words": [
+			{
+				"text": "Micah, ",
+				"start": 0,
+				"end": 0.48,
+				"index": 121
+			},
+			{
+				"text": "Bill, ",
+				"start": 0.48,
+				"end": 0.64,
+				"index": 122
+			},
+			{
+				"text": "you ",
+				"start": 0.64,
+				"end": 0.78,
+				"index": 123
+			},
+			{
+				"text": "Bron ",
+				"start": 0.78,
+				"end": 0.92,
+				"index": 124
+			},
+			{
+				"text": "ain't ",
+				"start": 0.92,
+				"end": 1.14,
+				"index": 125
+			},
+			{
+				"text": "trippin', ",
+				"start": 1.14,
+				"end": 1.5,
+				"index": 126
+			},
+			{
+				"text": "is ",
+				"start": 1.5,
+				"end": 1.76,
+				"index": 127
+			},
+			{
+				"text": "you ",
+				"start": 1.76,
+				"end": 1.86,
+				"index": 128
+			},
+			{
+				"text": "gon' ",
+				"start": 1.86,
+				"end": 2.06,
+				"index": 129
+			},
+			{
+				"text": "win ",
+				"start": 2.06,
+				"end": 2.22,
+				"index": 130
+			},
+			{
+				"text": "it, ",
+				"start": 2.22,
+				"end": 2.36,
+				"index": 131
+			},
+			{
+				"text": "shit, ",
+				"start": 2.4,
+				"end": 2.66,
+				"index": 132
+			},
+			{
+				"text": "I ",
+				"start": 2.7,
+				"end": 2.82,
+				"index": 133
+			},
+			{
+				"text": "be ",
+				"start": 2.82,
+				"end": 2.94,
+				"index": 134
+			},
+			{
+				"text": "happy ",
+				"start": 2.94,
+				"end": 3.22,
+				"index": 135
+			},
+			{
+				"text": "to ",
+				"start": 3.22,
+				"end": 3.44,
+				"index": 136
+			},
+			{
+				"text": "bid ",
+				"start": 3.44,
+				"end": 3.6,
+				"index": 137
+			},
+			{
+				"text": "it, ",
+				"start": 3.6,
+				"end": 3.74,
+				"index": 138
+			},
+			{
+				"text": "whenever ",
+				"start": 3.74,
+				"end": 4,
+				"index": 139
+			},
+			{
+				"text": "you ",
+				"start": 4,
+				"end": 4.34,
+				"index": 140
+			},
+			{
+				"text": "dunkin', ",
+				"start": 4.34,
+				"end": 4.7,
+				"index": 141
+			},
+			{
+				"text": "I ",
+				"start": 4.7,
+				"end": 4.78,
+				"index": 142
+			},
+			{
+				"text": "clip ",
+				"start": 4.78,
+				"end": 4.96,
+				"index": 143
+			},
+			{
+				"text": "it, ",
+				"start": 4.96,
+				"end": 5.2,
+				"index": 144
+			},
+			{
+				"text": "I'd ",
+				"start": 5.22,
+				"end": 5.52,
+				"index": 145
+			},
+			{
+				"text": "rather ",
+				"start": 5.52,
+				"end": 5.68,
+				"index": 146
+			},
+			{
+				"text": "watch ",
+				"start": 5.68,
+				"end": 5.94,
+				"index": 147
+			},
+			{
+				"text": "you ",
+				"start": 5.94,
+				"end": 6.08,
+				"index": 148
+			},
+			{
+				"text": "play, ",
+				"start": 6.08,
+				"end": 6.22,
+				"index": 149
+			},
+			{
+				"text": "then ",
+				"start": 6.3,
+				"end": 6.42,
+				"index": 150
+			},
+			{
+				"text": "go ",
+				"start": 6.42,
+				"end": 6.52,
+				"index": 151
+			},
+			{
+				"text": "get ",
+				"start": 6.52,
+				"end": 6.7,
+				"index": 152
+			},
+			{
+				"text": "spotted ",
+				"start": 6.7,
+				"end": 6.94,
+				"index": 153
+			},
+			{
+				"text": "on ",
+				"start": 6.94,
+				"end": 7.16,
+				"index": 154
+			},
+			{
+				"text": "civics",
+				"start": 7.16,
+				"end": 7.56,
+				"index": 155
+			}
+		],
+		"start": 25.91,
+		"end": 33.47
+	}
+]

@@ -1,0 +1,278 @@
+[
+	{
+		"words": [
+			{
+				"text": "Oh, ",
+				"start": 0,
+				"end": 0.3,
+				"index": 0
+			},
+			{
+				"text": "I'll ",
+				"start": 0.3,
+				"end": 0.86,
+				"index": 1
+			},
+			{
+				"text": "turn ",
+				"start": 3.39,
+				"end": 3.69,
+				"index": 2
+			},
+			{
+				"text": "the ",
+				"start": 3.69,
+				"end": 3.99,
+				"index": 3
+			},
+			{
+				"text": "2K ",
+				"start": 3.99,
+				"end": 4.73,
+				"index": 4
+			},
+			{
+				"text": "up, ",
+				"start": 4.73,
+				"end": 5.47,
+				"index": 5
+			},
+			{
+				"text": "I'll ",
+				"start": 5.75,
+				"end": 7.65,
+				"index": 6
+			},
+			{
+				"text": "flip ",
+				"start": 7.65,
+				"end": 8.09,
+				"index": 7
+			},
+			{
+				"text": "that ",
+				"start": 8.09,
+				"end": 8.33,
+				"index": 8
+			},
+			{
+				"text": "Lakers ",
+				"start": 8.33,
+				"end": 8.81,
+				"index": 9
+			},
+			{
+				"text": "game ",
+				"start": 8.81,
+				"end": 9.21,
+				"index": 10
+			},
+			{
+				"text": "on, ",
+				"start": 9.21,
+				"end": 9.87,
+				"index": 11
+			},
+			{
+				"text": "your ",
+				"start": 9.87,
+				"end": 11.45,
+				"index": 12
+			},
+			{
+				"text": "son ",
+				"start": 11.45,
+				"end": 11.93,
+				"index": 13
+			},
+			{
+				"text": "didn't ",
+				"start": 11.93,
+				"end": 12.61,
+				"index": 14
+			},
+			{
+				"text": "play ",
+				"start": 12.61,
+				"end": 12.91,
+				"index": 15
+			},
+			{
+				"text": "with ",
+				"start": 12.91,
+				"end": 13.51,
+				"index": 16
+			},
+			{
+				"text": "you, ",
+				"start": 13.51,
+				"end": 14.05,
+				"index": 17
+			},
+			{
+				"text": "that ",
+				"start": 14.33,
+				"end": 14.73,
+				"index": 18
+			},
+			{
+				"text": "song ",
+				"start": 14.73,
+				"end": 15.09,
+				"index": 19
+			},
+			{
+				"text": "only ",
+				"start": 15.09,
+				"end": 15.51,
+				"index": 20
+			},
+			{
+				"text": "done ",
+				"start": 15.51,
+				"end": 15.77,
+				"index": 21
+			},
+			{
+				"text": "by ",
+				"start": 15.77,
+				"end": 16.03,
+				"index": 22
+			},
+			{
+				"text": "you, ",
+				"start": 16.03,
+				"end": 16.45,
+				"index": 23
+			},
+			{
+				"text": "Lakers ",
+				"start": 16.73,
+				"end": 18.65,
+				"index": 24
+			},
+			{
+				"text": "losing, ",
+				"start": 20.76,
+				"end": 21.14,
+				"index": 25
+			},
+			{
+				"text": "I'm ",
+				"start": 21.34,
+				"end": 21.92,
+				"index": 26
+			},
+			{
+				"text": "supposed ",
+				"start": 21.92,
+				"end": 22.2,
+				"index": 27
+			},
+			{
+				"text": "to ",
+				"start": 22.2,
+				"end": 22.46,
+				"index": 28
+			},
+			{
+				"text": "cheer, ",
+				"start": 22.46,
+				"end": 22.82,
+				"index": 29
+			},
+			{
+				"text": "I'm ",
+				"start": 23.12,
+				"end": 24.9,
+				"index": 30
+			},
+			{
+				"text": "cheering ",
+				"start": 24.9,
+				"end": 25.26,
+				"index": 31
+			},
+			{
+				"text": "you ",
+				"start": 25.26,
+				"end": 25.7,
+				"index": 32
+			},
+			{
+				"text": "on, ",
+				"start": 25.7,
+				"end": 26.14,
+				"index": 33
+			},
+			{
+				"text": "do ",
+				"start": 26.14,
+				"end": 26.46,
+				"index": 34
+			},
+			{
+				"text": "you ",
+				"start": 26.46,
+				"end": 26.56,
+				"index": 35
+			},
+			{
+				"text": "feel ",
+				"start": 29.09,
+				"end": 29.31,
+				"index": 36
+			},
+			{
+				"text": "me ",
+				"start": 29.31,
+				"end": 29.47,
+				"index": 37
+			},
+			{
+				"text": "Bron, ",
+				"start": 29.47,
+				"end": 29.71,
+				"index": 38
+			},
+			{
+				"text": "can ",
+				"start": 29.85,
+				"end": 29.99,
+				"index": 39
+			},
+			{
+				"text": "you ",
+				"start": 29.99,
+				"end": 30.13,
+				"index": 40
+			},
+			{
+				"text": "feel ",
+				"start": 30.13,
+				"end": 30.41,
+				"index": 41
+			},
+			{
+				"text": "it ",
+				"start": 30.41,
+				"end": 30.61,
+				"index": 42
+			},
+			{
+				"text": "Bron, ",
+				"start": 30.61,
+				"end": 30.81,
+				"index": 43
+			},
+			{
+				"text": "oh",
+				"start": 30.97,
+				"end": 31.15,
+				"index": 44
+			}
+		],
+		"start": 0,
+		"end": 31.15
+	}
+]
