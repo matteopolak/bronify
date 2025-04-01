@@ -62,10 +62,12 @@ jobs:
         run: |
           mv android/app/build/outputs/apk/release/app-release.apk android/app/build/outputs/apk/release/bronify.apk
 
-      - name: Upload APK to GitHub Release
-        uses: softprops/action-gh-release@v2
+      - uses: ryand56/r2-upload-action@latest
         with:
-          tag_name: ${{ github.ref_name }}
-          files: android/app/build/outputs/apk/release/bronify.apk
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          r2-account-id: ${{ secrets.R2_ACCOUNT_ID }}
+          r2-access-key-id: ${{ secrets.R2_ACCESS_KEY_ID }}
+          r2-secret-access-key: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          r2-bucket: ${{ secrets.R2_BUCKET }}
+          source-dir: |
+            android/app/build/outputs/apk/release/bronify.apk
+          destination-dir: ./
