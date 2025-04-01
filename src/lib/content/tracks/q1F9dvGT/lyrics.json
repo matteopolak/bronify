@@ -3170,265 +3170,259 @@
 				"index": 520
 			},
 			{
-				"text": "from",
+				"text": "from ",
 				"start": 11.42,
 				"end": 11.58,
 				"index": 521
-			}
-		],
-		"start": 161.17,
-		"end": 172.75
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "OC ",
-				"start": 0,
-				"end": 0.22,
+				"start": 11.58,
+				"end": 11.8,
 				"index": 522
 			},
 			{
 				"text": "keepin' ",
-				"start": 0.22,
-				"end": 0.64,
+				"start": 11.8,
+				"end": 12.22,
 				"index": 523
 			},
 			{
 				"text": "silence ",
-				"start": 0.7,
-				"end": 0.8,
+				"start": 12.28,
+				"end": 12.38,
 				"index": 524
 			},
 			{
 				"text": "in ",
-				"start": 0.8,
-				"end": 1,
+				"start": 12.38,
+				"end": 12.58,
 				"index": 525
 			},
 			{
 				"text": "my ",
-				"start": 1,
-				"end": 1.1,
+				"start": 12.58,
+				"end": 12.68,
 				"index": 526
 			},
 			{
 				"text": "face, ",
-				"start": 1.1,
-				"end": 1.36,
+				"start": 12.68,
+				"end": 12.94,
 				"index": 527
 			},
 			{
 				"text": "let ",
-				"start": 1.38,
-				"end": 1.5,
+				"start": 12.96,
+				"end": 13.08,
 				"index": 528
 			},
 			{
 				"text": "the ",
-				"start": 1.5,
-				"end": 1.62,
+				"start": 13.08,
+				"end": 13.2,
 				"index": 529
 			},
 			{
 				"text": "haters ",
-				"start": 1.62,
-				"end": 1.82,
+				"start": 13.2,
+				"end": 13.4,
 				"index": 530
 			},
 			{
 				"text": "see ",
-				"start": 1.82,
-				"end": 2,
+				"start": 13.4,
+				"end": 13.58,
 				"index": 531
 			},
 			{
 				"text": "it, ",
-				"start": 2,
-				"end": 2.1,
+				"start": 13.58,
+				"end": 13.68,
 				"index": 532
 			},
 			{
 				"text": "speed's ",
-				"start": 2.14,
-				"end": 2.4,
+				"start": 13.72,
+				"end": 13.98,
 				"index": 533
 			},
 			{
 				"text": "givin' ",
-				"start": 2.4,
-				"end": 2.6,
+				"start": 13.98,
+				"end": 14.18,
 				"index": 534
 			},
 			{
 				"text": "story ",
-				"start": 2.6,
-				"end": 2.78,
+				"start": 14.18,
+				"end": 14.36,
 				"index": 535
 			},
 			{
 				"text": "to ",
-				"start": 2.78,
-				"end": 2.94,
+				"start": 14.36,
+				"end": 14.52,
 				"index": 536
 			},
 			{
 				"text": "my ",
-				"start": 2.94,
-				"end": 3.06,
+				"start": 14.52,
+				"end": 14.64,
 				"index": 537
 			},
 			{
 				"text": "children, ",
-				"start": 3.06,
-				"end": 3.28,
+				"start": 14.64,
+				"end": 14.86,
 				"index": 538
 			},
 			{
 				"text": "keep ",
-				"start": 3.36,
-				"end": 3.44,
+				"start": 14.94,
+				"end": 15.02,
 				"index": 539
 			},
 			{
 				"text": "the ",
-				"start": 3.44,
-				"end": 3.6,
+				"start": 15.02,
+				"end": 15.18,
 				"index": 540
 			},
 			{
 				"text": "Bronny ",
-				"start": 3.6,
-				"end": 3.82,
+				"start": 15.18,
+				"end": 15.4,
 				"index": 541
 			},
 			{
 				"text": "legacy ",
-				"start": 3.82,
-				"end": 4.08,
+				"start": 15.4,
+				"end": 15.66,
 				"index": 542
 			},
 			{
 				"text": "and ",
-				"start": 4.08,
-				"end": 4.46,
+				"start": 15.66,
+				"end": 16.04,
 				"index": 543
 			},
 			{
 				"text": "the ",
-				"start": 4.46,
-				"end": 4.56,
+				"start": 16.04,
+				"end": 16.14,
 				"index": 544
 			},
 			{
 				"text": "glory ",
-				"start": 4.56,
-				"end": 4.78,
+				"start": 16.14,
+				"end": 16.36,
 				"index": 545
 			},
 			{
 				"text": "of ",
-				"start": 4.78,
-				"end": 4.94,
+				"start": 16.36,
+				"end": 16.52,
 				"index": 546
 			},
 			{
 				"text": "the ",
-				"start": 4.94,
-				"end": 5.06,
+				"start": 16.52,
+				"end": 16.64,
 				"index": 547
 			},
 			{
 				"text": "feelin' ",
-				"start": 5.06,
-				"end": 5.38,
+				"start": 16.64,
+				"end": 16.96,
 				"index": 548
 			},
 			{
 				"text": "of ",
-				"start": 5.38,
-				"end": 5.46,
+				"start": 16.96,
+				"end": 17.04,
 				"index": 549
 			},
 			{
 				"text": "a ",
-				"start": 5.46,
-				"end": 5.58,
+				"start": 17.04,
+				"end": 17.16,
 				"index": 550
 			},
 			{
 				"text": "Bronny ",
-				"start": 5.58,
-				"end": 5.82,
+				"start": 17.16,
+				"end": 17.4,
 				"index": 551
 			},
 			{
 				"text": "MVP ",
-				"start": 5.82,
-				"end": 6.02,
+				"start": 17.4,
+				"end": 17.6,
 				"index": 552
 			},
 			{
 				"text": "seedin' ",
-				"start": 6.02,
-				"end": 6.56,
+				"start": 17.6,
+				"end": 18.14,
 				"index": 553
 			},
 			{
 				"text": "off, ",
-				"start": 6.56,
-				"end": 6.72,
+				"start": 18.14,
+				"end": 18.3,
 				"index": 554
 			},
 			{
 				"text": "makin' ",
-				"start": 6.8,
-				"end": 7,
+				"start": 18.38,
+				"end": 18.58,
 				"index": 555
 			},
 			{
 				"text": "every ",
-				"start": 7.04,
-				"end": 7.2,
+				"start": 18.62,
+				"end": 18.78,
 				"index": 556
 			},
 			{
 				"text": "hope, ",
-				"start": 7.2,
-				"end": 7.42,
+				"start": 18.78,
+				"end": 19,
 				"index": 557
 			},
 			{
 				"text": "I ",
-				"start": 7.44,
-				"end": 7.56,
+				"start": 19.02,
+				"end": 19.14,
 				"index": 558
 			},
 			{
 				"text": "scream ",
-				"start": 7.56,
-				"end": 7.62,
+				"start": 19.14,
+				"end": 19.2,
 				"index": 559
 			},
 			{
 				"text": "I ",
-				"start": 7.62,
-				"end": 7.92,
+				"start": 19.2,
+				"end": 19.5,
 				"index": 560
 			},
 			{
 				"text": "love ",
-				"start": 7.92,
-				"end": 8.2,
+				"start": 19.5,
+				"end": 19.78,
 				"index": 561
 			},
 			{
 				"text": "LeBron!",
-				"start": 8.2,
-				"end": 8.84,
+				"start": 19.78,
+				"end": 20.42,
 				"index": 562
 			}
 		],
-		"start": 172.75,
+		"start": 161.17,
 		"end": 181.59
 	},
 	{

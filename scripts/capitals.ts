@@ -32,8 +32,8 @@ for (const trackId of trackIds) {
 		lyrics = JSON.parse(
 			fs.readFileSync(`src/lib/content/tracks/${trackId}/lyrics.json`, 'utf-8')
 		) as Lyrics;
-	} catch (e) {
-		console.error(`Error parsing lyrics for track ${trackId}:`, e);
+	} catch {
+		console.error(`Error parsing lyrics for track ${trackId}`);
 		continue;
 	}
 

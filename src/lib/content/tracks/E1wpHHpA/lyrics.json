@@ -1,0 +1,578 @@
+[
+	{
+		"words": [
+			{
+				"text": "fine, ",
+				"start": 3.99,
+				"end": 4.67,
+				"index": 0
+			},
+			{
+				"text": "you ",
+				"start": 4.69,
+				"end": 5.39,
+				"index": 1
+			},
+			{
+				"text": "can ",
+				"start": 5.39,
+				"end": 5.55,
+				"index": 2
+			},
+			{
+				"text": "really ",
+				"start": 5.55,
+				"end": 5.77,
+				"index": 3
+			},
+			{
+				"text": "do ",
+				"start": 5.77,
+				"end": 5.95,
+				"index": 4
+			},
+			{
+				"text": "anything, ",
+				"start": 5.95,
+				"end": 6.41,
+				"index": 5
+			},
+			{
+				"text": "you ",
+				"start": 6.65,
+				"end": 7.73,
+				"index": 6
+			},
+			{
+				"text": "can ",
+				"start": 7.73,
+				"end": 7.93,
+				"index": 7
+			},
+			{
+				"text": "dunk, ",
+				"start": 7.93,
+				"end": 8.21,
+				"index": 8
+			},
+			{
+				"text": "you ",
+				"start": 8.35,
+				"end": 8.47,
+				"index": 9
+			},
+			{
+				"text": "can ",
+				"start": 8.47,
+				"end": 8.59,
+				"index": 10
+			},
+			{
+				"text": "shoot, ",
+				"start": 8.59,
+				"end": 8.97,
+				"index": 11
+			},
+			{
+				"text": "you ",
+				"start": 9.15,
+				"end": 9.31,
+				"index": 12
+			},
+			{
+				"text": "can ",
+				"start": 9.31,
+				"end": 9.43,
+				"index": 13
+			},
+			{
+				"text": "get ",
+				"start": 9.43,
+				"end": 9.67,
+				"index": 14
+			},
+			{
+				"text": "a ",
+				"start": 9.67,
+				"end": 9.75,
+				"index": 15
+			},
+			{
+				"text": "wife, ",
+				"start": 9.75,
+				"end": 10.09,
+				"index": 16
+			},
+			{
+				"text": "you ",
+				"start": 10.29,
+				"end": 10.43,
+				"index": 17
+			},
+			{
+				"text": "can ",
+				"start": 10.43,
+				"end": 10.63,
+				"index": 18
+			},
+			{
+				"text": "get, ",
+				"start": 10.63,
+				"end": 10.91,
+				"index": 19
+			},
+			{
+				"text": "you ",
+				"start": 10.95,
+				"end": 11.37,
+				"index": 20
+			},
+			{
+				"text": "can do ",
+				"start": 11.37,
+				"end": 11.47,
+				"index": 21
+			},
+			{
+				"text": "anything, ",
+				"start": 11.47,
+				"end": 11.85,
+				"index": 22
+			},
+			{
+				"text": "you ",
+				"start": 12.19,
+				"end": 12.27,
+				"index": 23
+			},
+			{
+				"text": "can ",
+				"start": 12.27,
+				"end": 12.33,
+				"index": 24
+			},
+			{
+				"text": "have ",
+				"start": 12.33,
+				"end": 12.49,
+				"index": 25
+			},
+			{
+				"text": "your ",
+				"start": 12.49,
+				"end": 12.53,
+				"index": 26
+			},
+			{
+				"text": "sons ",
+				"start": 12.53,
+				"end": 12.75,
+				"index": 27
+			},
+			{
+				"text": "in ",
+				"start": 12.75,
+				"end": 12.89,
+				"index": 28
+			},
+			{
+				"text": "the ",
+				"start": 12.89,
+				"end": 12.97,
+				"index": 29
+			},
+			{
+				"text": "NBA, ",
+				"start": 12.97,
+				"end": 13.35,
+				"index": 30
+			},
+			{
+				"text": "you ",
+				"start": 13.99,
+				"end": 14.21,
+				"index": 31
+			},
+			{
+				"text": "can ",
+				"start": 14.21,
+				"end": 14.29,
+				"index": 32
+			},
+			{
+				"text": "make an ",
+				"start": 14.29,
+				"end": 14.39,
+				"index": 33
+			},
+			{
+				"text": "all",
+				"start": 14.39,
+				"end": 14.71,
+				"index": 34
+			},
+			{
+				"text": "-star ",
+				"start": 14.71,
+				"end": 14.91,
+				"index": 35
+			},
+			{
+				"text": "score ",
+				"start": 14.91,
+				"end": 15.25,
+				"index": 36
+			},
+			{
+				"text": "record, ",
+				"start": 15.25,
+				"end": 15.55,
+				"index": 37
+			},
+			{
+				"text": "50k, ",
+				"start": 15.93,
+				"end": 16.91,
+				"index": 38
+			},
+			{
+				"text": "oh ",
+				"start": 16.99,
+				"end": 17.19,
+				"index": 39
+			},
+			{
+				"text": "my ",
+				"start": 17.19,
+				"end": 17.27,
+				"index": 40
+			},
+			{
+				"text": "god, ",
+				"start": 17.27,
+				"end": 17.59,
+				"index": 41
+			},
+			{
+				"text": "bro, ",
+				"start": 17.65,
+				"end": 17.87,
+				"index": 42
+			},
+			{
+				"text": "and ",
+				"start": 17.99,
+				"end": 18.27,
+				"index": 43
+			},
+			{
+				"text": "guess ",
+				"start": 18.27,
+				"end": 18.47,
+				"index": 44
+			},
+			{
+				"text": "what, ",
+				"start": 18.47,
+				"end": 18.57,
+				"index": 45
+			},
+			{
+				"text": "40, ",
+				"start": 18.71,
+				"end": 19.49,
+				"index": 46
+			},
+			{
+				"text": "crazy ",
+				"start": 19.75,
+				"end": 20.79,
+				"index": 47
+			},
+			{
+				"text": "and ",
+				"start": 48.53,
+				"end": 49.29,
+				"index": 48
+			},
+			{
+				"text": "that's ",
+				"start": 49.29,
+				"end": 50.05,
+				"index": 49
+			},
+			{
+				"text": "why ",
+				"start": 50.05,
+				"end": 50.11,
+				"index": 50
+			},
+			{
+				"text": "I ",
+				"start": 50.11,
+				"end": 50.37,
+				"index": 51
+			},
+			{
+				"text": "say ",
+				"start": 50.37,
+				"end": 50.73,
+				"index": 52
+			},
+			{
+				"text": "I ",
+				"start": 50.73,
+				"end": 51.11,
+				"index": 53
+			},
+			{
+				"text": "need ",
+				"start": 51.11,
+				"end": 51.39,
+				"index": 54
+			},
+			{
+				"text": "the ",
+				"start": 51.39,
+				"end": 51.81,
+				"index": 55
+			},
+			{
+				"text": "test ",
+				"start": 51.81,
+				"end": 52.01,
+				"index": 56
+			},
+			{
+				"text": "so ",
+				"start": 52.01,
+				"end": 52.45,
+				"index": 57
+			},
+			{
+				"text": "I ",
+				"start": 52.45,
+				"end": 52.65,
+				"index": 58
+			},
+			{
+				"text": "could ",
+				"start": 52.65,
+				"end": 53.03,
+				"index": 59
+			},
+			{
+				"text": "go ",
+				"start": 53.03,
+				"end": 53.45,
+				"index": 60
+			},
+			{
+				"text": "super ",
+				"start": 53.45,
+				"end": 53.91,
+				"index": 61
+			},
+			{
+				"text": "pro, ",
+				"start": 53.91,
+				"end": 54.31,
+				"index": 62
+			},
+			{
+				"text": "he's ",
+				"start": 54.55,
+				"end": 55.27,
+				"index": 63
+			},
+			{
+				"text": "big ",
+				"start": 55.27,
+				"end": 55.49,
+				"index": 64
+			},
+			{
+				"text": "bro, ",
+				"start": 55.49,
+				"end": 55.99,
+				"index": 65
+			},
+			{
+				"text": "so ",
+				"start": 56.23,
+				"end": 57.87,
+				"index": 66
+			},
+			{
+				"text": "I ",
+				"start": 57.87,
+				"end": 57.99,
+				"index": 67
+			},
+			{
+				"text": "need ",
+				"start": 57.99,
+				"end": 58.21,
+				"index": 68
+			},
+			{
+				"text": "you ",
+				"start": 58.21,
+				"end": 58.41,
+				"index": 69
+			},
+			{
+				"text": "to ",
+				"start": 58.41,
+				"end": 58.53,
+				"index": 70
+			},
+			{
+				"text": "change ",
+				"start": 58.53,
+				"end": 58.93,
+				"index": 71
+			},
+			{
+				"text": "the ",
+				"start": 58.93,
+				"end": 59.31,
+				"index": 72
+			},
+			{
+				"text": "game ",
+				"start": 59.31,
+				"end": 59.73,
+				"index": 73
+			},
+			{
+				"text": "for ",
+				"start": 59.73,
+				"end": 60.21,
+				"index": 74
+			},
+			{
+				"text": "me, ",
+				"start": 60.21,
+				"end": 60.61,
+				"index": 75
+			},
+			{
+				"text": "I ",
+				"start": 60.69,
+				"end": 62.77,
+				"index": 76
+			},
+			{
+				"text": "need ",
+				"start": 62.77,
+				"end": 63.03,
+				"index": 77
+			},
+			{
+				"text": "you ",
+				"start": 63.03,
+				"end": 63.23,
+				"index": 78
+			},
+			{
+				"text": "to ",
+				"start": 63.23,
+				"end": 63.39,
+				"index": 79
+			},
+			{
+				"text": "change ",
+				"start": 63.39,
+				"end": 63.81,
+				"index": 80
+			},
+			{
+				"text": "the game for me, I need you to change the game for me, I need you to change the game for me, I need you to change the game for me, I need you to change the game for me, I need you to change the game for me, I need you to change the game for me, I need you to change the game for me, I need you to change the game for me, I need you to change the game for me, I need you to change the game for me, I need you to change the game for me, I need you to change the game for me, I need you to change the game for me, I need you to change the game for me, I need you to change the game for me, I need you to change the game for me, I need you to change the game for me, I need you to change the game for me, ",
+				"start": 63.81,
+				"end": 63.97,
+				"index": 81
+			},
+			{
+				"text": "I need you to change ",
+				"start": 63.97,
+				"end": 64.11,
+				"index": 82
+			},
+			{
+				"text": "the ",
+				"start": 64.11,
+				"end": 64.17,
+				"index": 83
+			},
+			{
+				"text": "game ",
+				"start": 64.17,
+				"end": 64.51,
+				"index": 84
+			},
+			{
+				"text": "for ",
+				"start": 64.51,
+				"end": 64.95,
+				"index": 85
+			},
+			{
+				"text": "me, ",
+				"start": 64.95,
+				"end": 65.43,
+				"index": 86
+			},
+			{
+				"text": "I ",
+				"start": 65.51,
+				"end": 66.09,
+				"index": 87
+			},
+			{
+				"text": "need ",
+				"start": 66.09,
+				"end": 66.67,
+				"index": 88
+			},
+			{
+				"text": "you to ",
+				"start": 66.67,
+				"end": 66.95,
+				"index": 89
+			},
+			{
+				"text": "change the game for me, I ",
+				"start": 66.95,
+				"end": 66.99,
+				"index": 90
+			},
+			{
+				"text": "need ",
+				"start": 66.99,
+				"end": 67.19,
+				"index": 91
+			},
+			{
+				"text": "you to ",
+				"start": 67.19,
+				"end": 67.23,
+				"index": 92
+			},
+			{
+				"text": "change ",
+				"start": 67.23,
+				"end": 67.37,
+				"index": 93
+			},
+			{
+				"text": "the game for me",
+				"start": 67.37,
+				"end": 67.93,
+				"index": 94
+			}
+		],
+		"start": -1,
+		"end": 66.93
+	}
+]

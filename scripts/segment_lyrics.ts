@@ -59,7 +59,8 @@ const wordReplacements = {
 	bronnis: "Bronny's",
 	bonnie: 'Bronny',
 	glace: 'glaze',
-	bronya: 'Bron ya'
+	bronya: 'Bron ya',
+	raymo: 'Raymond'
 };
 
 const wordReplacementsRegex = {};

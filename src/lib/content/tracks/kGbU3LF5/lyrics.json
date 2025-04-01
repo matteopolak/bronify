@@ -1,0 +1,428 @@
+[
+	{
+		"words": [
+			{
+				"text": "His ",
+				"start": 0,
+				"end": 0.56,
+				"index": 0
+			},
+			{
+				"text": "name ",
+				"start": 0.56,
+				"end": 0.86,
+				"index": 1
+			},
+			{
+				"text": "is ",
+				"start": 0.86,
+				"end": 1.22,
+				"index": 2
+			},
+			{
+				"text": "LeBron",
+				"start": 1.22,
+				"end": 1.54,
+				"index": 3
+			}
+		],
+		"start": 3.44,
+		"end": 4.98
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.98,
+				"index": 4
+			},
+			{
+				"text": "have ",
+				"start": 0.98,
+				"end": 1.38,
+				"index": 5
+			},
+			{
+				"text": "to ",
+				"start": 1.38,
+				"end": 1.62,
+				"index": 6
+			},
+			{
+				"text": "glaze ",
+				"start": 1.62,
+				"end": 2.08,
+				"index": 7
+			},
+			{
+				"text": "about ",
+				"start": 2.08,
+				"end": 2.46,
+				"index": 8
+			},
+			{
+				"text": "him, ",
+				"start": 2.46,
+				"end": 2.88,
+				"index": 9
+			},
+			{
+				"text": "he's ",
+				"start": 2.96,
+				"end": 3.42,
+				"index": 10
+			},
+			{
+				"text": "number ",
+				"start": 3.42,
+				"end": 3.68,
+				"index": 11
+			},
+			{
+				"text": "one, ",
+				"start": 3.68,
+				"end": 4.28,
+				"index": 12
+			},
+			{
+				"text": "the ",
+				"start": 4.64,
+				"end": 5.38,
+				"index": 13
+			},
+			{
+				"text": "game's ",
+				"start": 5.38,
+				"end": 5.84,
+				"index": 14
+			},
+			{
+				"text": "on ",
+				"start": 5.84,
+				"end": 5.94,
+				"index": 15
+			},
+			{
+				"text": "in ",
+				"start": 5.94,
+				"end": 6.26,
+				"index": 16
+			},
+			{
+				"text": "half ",
+				"start": 6.26,
+				"end": 6.64,
+				"index": 17
+			},
+			{
+				"text": "an ",
+				"start": 6.64,
+				"end": 6.94,
+				"index": 18
+			},
+			{
+				"text": "hour",
+				"start": 6.94,
+				"end": 7.34,
+				"index": 19
+			}
+		],
+		"start": 5.48,
+		"end": 12.82
+	},
+	{
+		"words": [
+			{
+				"text": "Oh ",
+				"start": 0,
+				"end": 0.32,
+				"index": 20
+			},
+			{
+				"text": "how ",
+				"start": 0.32,
+				"end": 0.84,
+				"index": 21
+			},
+			{
+				"text": "he ",
+				"start": 0.84,
+				"end": 1.16,
+				"index": 22
+			},
+			{
+				"text": "rocks, ",
+				"start": 1.16,
+				"end": 1.66,
+				"index": 23
+			},
+			{
+				"text": "his ",
+				"start": 2.04,
+				"end": 2.78,
+				"index": 24
+			},
+			{
+				"text": "new ",
+				"start": 2.78,
+				"end": 2.96,
+				"index": 25
+			},
+			{
+				"text": "Nike ",
+				"start": 2.96,
+				"end": 3.34,
+				"index": 26
+			},
+			{
+				"text": "socks, ",
+				"start": 3.34,
+				"end": 3.72,
+				"index": 27
+			},
+			{
+				"text": "but ",
+				"start": 4.28,
+				"end": 4.9,
+				"index": 28
+			},
+			{
+				"text": "he ",
+				"start": 4.9,
+				"end": 5.22,
+				"index": 29
+			},
+			{
+				"text": "doesn't ",
+				"start": 5.22,
+				"end": 5.8,
+				"index": 30
+			},
+			{
+				"text": "know ",
+				"start": 5.8,
+				"end": 6.18,
+				"index": 31
+			},
+			{
+				"text": "who ",
+				"start": 6.18,
+				"end": 6.66,
+				"index": 32
+			},
+			{
+				"text": "I ",
+				"start": 6.66,
+				"end": 7.06,
+				"index": 33
+			},
+			{
+				"text": "am, ",
+				"start": 7.06,
+				"end": 7.86,
+				"index": 34
+			},
+			{
+				"text": "the ",
+				"start": 8.4,
+				"end": 9.62,
+				"index": 35
+			},
+			{
+				"text": "king ",
+				"start": 9.62,
+				"end": 9.88,
+				"index": 36
+			},
+			{
+				"text": "doesn't ",
+				"start": 9.88,
+				"end": 10.46,
+				"index": 37
+			},
+			{
+				"text": "give ",
+				"start": 10.46,
+				"end": 10.78,
+				"index": 38
+			},
+			{
+				"text": "a ",
+				"start": 10.78,
+				"end": 11.42,
+				"index": 39
+			},
+			{
+				"text": "damn ",
+				"start": 11.42,
+				"end": 12.08,
+				"index": 40
+			},
+			{
+				"text": "about ",
+				"start": 12.08,
+				"end": 12.7,
+				"index": 41
+			},
+			{
+				"text": "me",
+				"start": 12.7,
+				"end": 13.58,
+				"index": 42
+			}
+		],
+		"start": 12.82,
+		"end": 26.4
+	},
+	{
+		"words": [
+			{
+				"text": "Cuz ",
+				"start": 0,
+				"end": 0.58,
+				"index": 43
+			},
+			{
+				"text": "I'm ",
+				"start": 0.58,
+				"end": 1,
+				"index": 44
+			},
+			{
+				"text": "just ",
+				"start": 1,
+				"end": 1.2,
+				"index": 45
+			},
+			{
+				"text": "a ",
+				"start": 1.2,
+				"end": 1.46,
+				"index": 46
+			},
+			{
+				"text": "LeBron ",
+				"start": 1.46,
+				"end": 2.26,
+				"index": 47
+			},
+			{
+				"text": "glazer, ",
+				"start": 2.26,
+				"end": 3.46,
+				"index": 48
+			},
+			{
+				"text": "baby, ",
+				"start": 3.46,
+				"end": 4.46,
+				"index": 49
+			},
+			{
+				"text": "yeah, ",
+				"start": 4.58,
+				"end": 5.18,
+				"index": 50
+			},
+			{
+				"text": "I'm ",
+				"start": 5.3,
+				"end": 5.58,
+				"index": 51
+			},
+			{
+				"text": "such ",
+				"start": 5.58,
+				"end": 5.88,
+				"index": 52
+			},
+			{
+				"text": "a ",
+				"start": 5.88,
+				"end": 6.08,
+				"index": 53
+			},
+			{
+				"text": "LeBron ",
+				"start": 6.08,
+				"end": 6.88,
+				"index": 54
+			},
+			{
+				"text": "glazer, ",
+				"start": 6.88,
+				"end": 8.1,
+				"index": 55
+			},
+			{
+				"text": "baby",
+				"start": 8.1,
+				"end": 8.86,
+				"index": 56
+			}
+		],
+		"start": 26.4,
+		"end": 35.26
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.6,
+				"index": 57
+			},
+			{
+				"text": "want ",
+				"start": 0.6,
+				"end": 1.02,
+				"index": 58
+			},
+			{
+				"text": "to ",
+				"start": 1.02,
+				"end": 1.24,
+				"index": 59
+			},
+			{
+				"text": "make ",
+				"start": 1.24,
+				"end": 1.74,
+				"index": 60
+			},
+			{
+				"text": "your ",
+				"start": 1.74,
+				"end": 2.2,
+				"index": 61
+			},
+			{
+				"text": "Sunday, ",
+				"start": 2.2,
+				"end": 3.12,
+				"index": 62
+			},
+			{
+				"text": "baby, ",
+				"start": 3.32,
+				"end": 4.08,
+				"index": 63
+			},
+			{
+				"text": "with ",
+				"start": 4.08,
+				"end": 4.68,
+				"index": 64
+			},
+			{
+				"text": "me",
+				"start": 4.68,
+				"end": 5.36,
+				"index": 65
+			}
+		],
+		"start": 35.8,
+		"end": 41.16
+	}
+]
