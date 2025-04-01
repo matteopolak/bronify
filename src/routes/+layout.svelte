@@ -33,6 +33,7 @@
 	import type { Playlist } from '$lib/types';
 	import { page } from '$app/stores';
 	import { debounce } from '$lib/util';
+	import ControlsSmall from '$lib/components/controls-small.svelte';
 
 	let { children }: { children: Snippet } = $props();
 	let audioElement: HTMLAudioElement = $state()!;
@@ -160,8 +161,8 @@
 		}
 
 		const hue = Math.abs(hash) % 360;
-		const saturation = 70 + (Math.abs(hash) % 10);
-		const lightness = 45 + (Math.abs(hash) % 5);
+		const saturation = 50 + (Math.abs(hash) % 10); // Slightly lower saturation
+		const lightness = 30 + (Math.abs(hash) % 5); // Darker lightness range
 
 		return `hsl(${hue}, ${saturation}%, ${lightness}%)`;
 	}
@@ -271,93 +272,95 @@
 		</form>
 	</dialog>
 
-	<div class="navbar px-4 md:hidden">
-		<div class="navbar-start">
-			<a
-				href="/"
-				class="flex flex-row place-items-center gap-2 font-bold"
-				aria-label="Bronify Home"
-			>
-				<span class="text-red-500">
-					<Heart size="1.5em" fill="currentColor" />
-				</span>
-				bronify.love
-			</a>
-		</div>
-
-		<div class="navbar-end gap-2">
-			{#if !insideApp}
-				<a class="btn btn-md" href="/app" aria-label="Install app">
-					<ArrowBigDownDash size="1.2em" fill="currentColor" />
-					Install App
-				</a>
-			{/if}
-		</div>
-	</div>
-
-	<div class="md:navbar hidden px-4 md:px-12">
-		<div class="md:navbar-start hidden">
-			<a
-				href="/"
-				class="flex flex-row place-items-center gap-2 font-bold"
-				aria-label="Bronify Home"
-			>
-				<span class="text-red-500">
-					<Heart size="1.5em" fill="currentColor" />
-				</span>
-				bronify.love
-			</a>
-		</div>
-
-		<div class="navbar-center mx-auto w-full max-w-lg gap-2 md:mx-0 md:w-auto lg:w-full">
-			<label
-				for="sidebar"
-				class="bg-base-200 hover:bg-base-200/80 aspect-square rounded-full p-3 md:hidden"
-			>
-				<Menu size="1.5em" fill="currentColor" />
-			</label>
-
-			<a
-				href="/"
-				aria-label="Bronify Home"
-				class="bg-base-200 hover:bg-base-200/80 aspect-square rounded-full p-3"
-			>
-				<Home size="1.5em" fill="currentColor" />
-			</a>
-
-			<label class="input input-lg w-full border-none">
-				<svg class="h-[1.5em] opacity-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
-					><g
-						stroke-linejoin="round"
-						stroke-linecap="round"
-						stroke-width="2.5"
-						fill="none"
-						stroke="currentColor"
-						><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.3-4.3"></path></g
-					></svg
+	{#if $page.url.pathname !== '/immersive'}
+		<div class="navbar px-4 md:hidden">
+			<div class="navbar-start">
+				<a
+					href="/"
+					class="flex flex-row place-items-center gap-2 font-bold"
+					aria-label="Bronify Home"
 				>
-				<input
-					bind:this={searchInput}
-					bind:value={search}
-					type="search"
-					class="grow"
-					placeholder="Search artist, title, and lyrics"
-					autocomplete="off"
-				/>
-				<kbd class="kbd kbd-sm">⌘</kbd>
-				<kbd class="kbd kbd-sm">K</kbd>
-			</label>
+					<span class="text-red-500">
+						<Heart size="1.5em" fill="currentColor" />
+					</span>
+					bronify.love
+				</a>
+			</div>
+
+			<div class="navbar-end gap-2">
+				{#if !insideApp}
+					<a class="btn btn-md" href="/app" aria-label="Install app">
+						<ArrowBigDownDash size="1.2em" fill="currentColor" />
+						Install App
+					</a>
+				{/if}
+			</div>
 		</div>
 
-		<div class="md:navbar-end hidden gap-2">
-			{#if !insideApp}
-				<a class="btn btn-md" href="/app" aria-label="Install app">
-					<ArrowBigDownDash size="1.2em" fill="currentColor" />
-					Install App
+		<div class="md:navbar hidden px-4 md:px-12">
+			<div class="md:navbar-start hidden">
+				<a
+					href="/"
+					class="flex flex-row place-items-center gap-2 font-bold"
+					aria-label="Bronify Home"
+				>
+					<span class="text-red-500">
+						<Heart size="1.5em" fill="currentColor" />
+					</span>
+					bronify.love
 				</a>
-			{/if}
+			</div>
+
+			<div class="navbar-center mx-auto w-full max-w-lg gap-2 md:mx-0 md:w-auto lg:w-full">
+				<label
+					for="sidebar"
+					class="bg-base-200 hover:bg-base-200/80 aspect-square rounded-full p-3 md:hidden"
+				>
+					<Menu size="1.5em" fill="currentColor" />
+				</label>
+
+				<a
+					href="/"
+					aria-label="Bronify Home"
+					class="bg-base-200 hover:bg-base-200/80 aspect-square rounded-full p-3"
+				>
+					<Home size="1.5em" fill="currentColor" />
+				</a>
+
+				<label class="input input-lg w-full border-none">
+					<svg class="h-[1.5em] opacity-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+						><g
+							stroke-linejoin="round"
+							stroke-linecap="round"
+							stroke-width="2.5"
+							fill="none"
+							stroke="currentColor"
+							><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.3-4.3"></path></g
+						></svg
+					>
+					<input
+						bind:this={searchInput}
+						bind:value={search}
+						type="search"
+						class="grow"
+						placeholder="Search artist, title, and lyrics"
+						autocomplete="off"
+					/>
+					<kbd class="kbd kbd-sm">⌘</kbd>
+					<kbd class="kbd kbd-sm">K</kbd>
+				</label>
+			</div>
+
+			<div class="md:navbar-end hidden gap-2">
+				{#if !insideApp}
+					<a class="btn btn-md" href="/app" aria-label="Install app">
+						<ArrowBigDownDash size="1.2em" fill="currentColor" />
+						Install App
+					</a>
+				{/if}
+			</div>
 		</div>
-	</div>
+	{/if}
 
 	<Sidebar id="sidebar">
 		{#if player.lyrics && settings.lyrics === 'on'}
@@ -378,14 +381,23 @@
 		{/if}
 	</Sidebar>
 
-	<div class="bg-base-100 border-base-200">
+	<div class="bg-base-100 border-base-200 hidden sm:block">
 		<Controls maxVolume={0.5} />
 	</div>
+
+	{#if $page.url.pathname !== '/immersive'}
+		<div
+			class="fixed bottom-[4.5em] z-20 ml-2 w-[calc(100vw-1em)] rounded-lg p-2 sm:hidden"
+			style="background-color: {lyricsBackgroundColor}"
+		>
+			<ControlsSmall />
+		</div>
+	{/if}
 </div>
 
 <dialog id="create-modal" class="modal px-0" bind:this={createModal}>
 	<form
-		class="modal-box bg-base-200 flex w-[calc(100vw-1em)] !translate-y-[calc(50vh-10em)] flex-col gap-2 rounded-md p-1"
+		class="modal-box bg-base-200 flex w-[calc(100vw-1em)] max-w-full !translate-y-[calc(50vh-7.5em)] flex-col gap-2 rounded-lg p-1"
 		method="dialog"
 	>
 		<button
@@ -408,27 +420,33 @@
 	</form>
 </dialog>
 
-<div class="dock text-neutral-400 md:hidden">
-	<a href="/" class:active={$page.url.pathname === '/'}>
-		<Home />
-		<span class="dock-label">Home</span>
-	</a>
+{#if $page.url.pathname !== '/immersive'}
+	<div class="dock z-20 bg-transparent pb-3 text-neutral-400 md:hidden">
+		<a href="/" class:active={$page.url.pathname === '/'}>
+			<Home />
+			<span class="dock-label">Home</span>
+		</a>
 
-	<a href="/search" class:active={$page.url.pathname === '/search'}>
-		<Search />
-		<span class="dock-label">Search</span>
-	</a>
+		<a href="/search" class:active={$page.url.pathname === '/search'}>
+			<Search />
+			<span class="dock-label">Search</span>
+		</a>
 
-	<a href="/library" class:active={$page.url.pathname === '/library'}>
-		<Library />
-		<span class="dock-label">Your Library</span>
-	</a>
+		<a href="/library" class:active={$page.url.pathname === '/library'}>
+			<Library />
+			<span class="dock-label">Your Library</span>
+		</a>
 
-	<button onclick={() => createModal.showModal()}>
-		<Plus />
-		<span class="dock-label">Create</span>
-	</button>
-</div>
+		<button onclick={() => createModal.showModal()}>
+			<Plus />
+			<span class="dock-label">Create</span>
+		</button>
+	</div>
+
+	<div
+		class="from-base-100 pointer-events-none fixed bottom-0 left-0 z-10 h-60 w-full bg-linear-to-t to-transparent sm:hidden"
+	></div>
+{/if}
 
 <style>
 	@reference "../app.css";

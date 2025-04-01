@@ -27,17 +27,29 @@
 			loading="lazy"
 			src={url}
 			alt={track.title}
-			class="aspect-square h-auto w-auto rounded-lg shadow-lg brightness-50 sm:brightness-100"
+			class="aspect-square h-auto w-auto rounded-lg shadow-lg sm:brightness-100"
+			class:brightness-60={player.track.id === track.id}
 		/>
 
 		<!-- Play button -->
 		<div
-			class="sm:bg-primary absolute top-auto right-2 bottom-2 left-auto -translate-x-1/2 -translate-y-1/2 cursor-pointer rounded-full p-3.5 text-left text-white opacity-0 transition-all duration-100 ease-in-out group-hover:opacity-100 hover:right-[0.45rem] hover:bottom-[0.45rem] hover:p-[0.925rem] sm:translate-x-0 sm:translate-y-0 sm:text-black"
+			class="sm:bg-primary absolute top-auto right-2 bottom-2 left-auto hidden -translate-x-1/2 -translate-y-1/2 cursor-pointer rounded-full p-3.5 text-left text-white opacity-0 transition-all duration-100 ease-in-out group-hover:opacity-100 hover:right-[0.45rem] hover:bottom-[0.45rem] hover:p-[0.925rem] sm:block sm:translate-x-0 sm:translate-y-0 sm:text-black"
 		>
 			{#if playing}
 				<Pause fill="currentColor" size="1.2em" />
 			{:else}
 				<Play fill="currentColor" size="1.2em" />
+			{/if}
+		</div>
+
+		<div
+			class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 sm:hidden"
+			class:hidden={player.track.id !== track.id}
+		>
+			{#if playing}
+				<Pause fill="currentColor" size="2em" />
+			{:else}
+				<Play fill="currentColor" size="2em" />
 			{/if}
 		</div>
 	</div>
