@@ -379,7 +379,7 @@
 	<Sidebar id="sidebar">
 		{#if player.lyrics && settings.lyrics === 'on'}
 			<div
-				class="flex w-full overflow-y-auto rounded-lg py-8 {DYNAMIC_HEIGHT_CLASS} md:place-content-center"
+				class="flex w-full overflow-y-auto rounded-lg py-8 {DYNAMIC_HEIGHT_CLASS} sm:pb-0 md:place-content-center"
 				style="background-color: {lyricsBackgroundColor}"
 			>
 				<Lyrics
@@ -389,7 +389,7 @@
 				/>
 			</div>
 		{:else}
-			<div class="bg-base-200 overflow-y-auto rounded-lg {DYNAMIC_HEIGHT_CLASS}">
+			<div class="bg-base-200 overflow-y-auto rounded-lg {DYNAMIC_HEIGHT_CLASS} pb-32 sm:pb-0">
 				{@render children()}
 			</div>
 		{/if}
