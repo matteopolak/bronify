@@ -37,8 +37,8 @@
 	}
 </script>
 
-<div class="relative flex w-screen flex-col place-content-center gap-4 px-6 pb-14">
-	<div class="flex flex-row flex-wrap place-content-between gap-1">
+<div class="relative flex w-screen flex-col place-content-center gap-4 px-6 pb-20">
+	<div class="flex flex-row flex-wrap place-content-between gap-3">
 		<button
 			onmousedown={onSeekClick}
 			onmousemove={onSeekDrag}
