@@ -28,7 +28,7 @@
 </script>
 
 <div
-	class="flex h-screen w-full overflow-y-auto rounded-lg py-8 md:place-content-center"
+	class="flex h-screen w-full max-w-screen overflow-hidden overflow-y-auto rounded-lg py-8 md:place-content-center"
 	style="background-color: hsl({color})"
 >
 	{#if player.lyrics}

@@ -118,7 +118,7 @@
 <!-- Scrollable lyrics container -->
 <div
 	bind:this={lyricsContainer}
-	class="hide-scrollbar flex w-full max-w-2xl flex-col items-start space-y-4 overflow-y-visible px-6 text-4xl font-bold text-white/50 sm:px-4"
+	class="hide-scrollbar flex w-full max-w-2xl flex-col items-start space-y-4 overflow-y-visible px-6 text-3xl font-bold text-white/50 sm:px-4 sm:text-4xl"
 >
 	<!-- 50vh of padding on top and bottom -->
 	<div class="p-[25vh]"></div>
