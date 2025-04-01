@@ -6,7 +6,7 @@
 	let url = $derived(trackThumbnail(player.track.id));
 </script>
 
-<a href="/immersive" class="flex h-14 w-full cursor-pointer flex-row place-items-center gap-2">
+<a href="/immersive" class="flex h-11 w-full cursor-pointer flex-row place-items-center gap-2">
 	<img src={url} alt={player.track.title} sizes="16px" class="h-full rounded-md" />
 
 	<div class="flex flex-col text-left">
@@ -23,14 +23,14 @@
 			e.preventDefault();
 			player.toggle(player.track);
 		}}
-		class="mr-3 ml-auto cursor-pointer rounded-full text-left"
+		class="mr-2 ml-auto cursor-pointer rounded-full text-left"
 		tabindex={0}
 		onkeydown={() => {}}
 	>
 		{#if player.paused}
-			<Play fill="currentColor" size="2em" />
+			<Play fill="currentColor" size="1.5em" />
 		{:else}
-			<Pause fill="currentColor" size="2em" />
+			<Pause fill="currentColor" size="1.5em" />
 		{/if}
 	</div>
 

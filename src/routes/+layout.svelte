@@ -89,6 +89,20 @@
 	let lastTrackId = player.track.id;
 
 	onMount(() => {
+		// if width is < 640px, make lyrics = 'off'
+		const query = matchMedia('(max-width: 640px)');
+
+		if (query.matches) {
+			settings.lyrics = 'off';
+		}
+
+		query.addEventListener('change', (e) => {
+			console.log('e.matches', e.matches);
+			if (e.matches) {
+				settings.lyrics = 'off';
+			}
+		});
+
 		// use existing track
 		const searchParams = new URLSearchParams(window.location.search);
 
