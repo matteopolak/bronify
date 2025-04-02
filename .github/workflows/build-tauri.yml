@@ -120,7 +120,7 @@ jobs:
           # Remove version from file names -> _<version> and -<version> are the two patterns we need to remove.
           # Also move the files into the `files` folder (make it first)
           mkdir -p files
-          $files = ${{ steps.build.outputs.artifactPaths }} | ConvertFrom-Json
+          $files = '${{ steps.build.outputs.artifactPaths }}' | ConvertFrom-Json
           foreach ($file in $files) {
             # Get the file name without the path
             $filename = [System.IO.Path]::GetFileName($file)
