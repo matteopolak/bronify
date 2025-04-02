@@ -24,6 +24,10 @@ jobs:
 
     runs-on: ${{ matrix.platform }}
     steps:
+      - if: matrix.platform == 'windows-latest'
+        run: |
+          git config --global core.protectNTFS false
+
       - uses: actions/checkout@v4
 
       - name: install dependencies (ubuntu only)
@@ -78,7 +82,7 @@ jobs:
             # Get the file name without the path
             filename=$(basename "$file")
             # Remove the version from the file name
-            new_filename=$(echo "$filename" | sed -E 's/(_|-)v[0-9]+\.[0-9]+\.[0-9]+//')
+            new_filename=$(echo "$filename" | sed -E 's/(_|-)v?[0-9]+\.[0-9]+\.[0-9]+//')
 
             # if it ends in `.app`, zip it up first
             if [[ "$new_filename" == *.app ]]; then
@@ -111,7 +115,7 @@ jobs:
             # Get the file name without the path
             $filename = [System.IO.Path]::GetFileName($file)
             # Remove the version from the file name
-            $new_filename = $filename -replace '(_|-)v[0-9]+\.[0-9]+\.[0-9]+', ''
+            $new_filename = $filename -replace '(_|-)v?[0-9]+\.[0-9]+\.[0-9]+', ''
 
             # if it ends in `.app`, zip it up first
             if ($new_filename.EndsWith('.app')) {
@@ -144,7 +148,6 @@ jobs:
           fi
 
       - uses: ryand56/r2-upload-action@latest
-        if: matrix.platform == 'macos-latest' && matrix.args == '--target aarch64-apple-darwin'
         with:
           r2-account-id: ${{ secrets.R2_ACCOUNT_ID }}
           r2-access-key-id: ${{ secrets.R2_ACCESS_KEY_ID }}
