@@ -1,0 +1,380 @@
+[
+	{
+		"words": [
+			{
+				"text": "One ",
+				"start": 0,
+				"end": 0.4,
+				"index": 0
+			},
+			{
+				"text": "thing's ",
+				"start": 0.4,
+				"end": 0.72,
+				"index": 1
+			},
+			{
+				"text": "for ",
+				"start": 0.72,
+				"end": 0.8,
+				"index": 2
+			},
+			{
+				"text": "sure",
+				"start": 0.8,
+				"end": 1.18,
+				"index": 3
+			}
+		],
+		"start": 1.39,
+		"end": 2.67
+	},
+	{
+		"words": [
+			{
+				"text": "I'll ",
+				"start": 0,
+				"end": 1.98,
+				"index": 4
+			},
+			{
+				"text": "be ",
+				"start": 1.98,
+				"end": 2.08,
+				"index": 5
+			},
+			{
+				"text": "the ",
+				"start": 2.08,
+				"end": 2.46,
+				"index": 6
+			},
+			{
+				"text": "first ",
+				"start": 2.46,
+				"end": 3.06,
+				"index": 7
+			},
+			{
+				"text": "to ",
+				"start": 3.06,
+				"end": 4.14,
+				"index": 8
+			},
+			{
+				"text": "say ",
+				"start": 4.14,
+				"end": 4.5,
+				"index": 9
+			},
+			{
+				"text": "my ",
+				"start": 4.5,
+				"end": 5.04,
+				"index": 10
+			},
+			{
+				"text": "GOAT's ",
+				"start": 5.04,
+				"end": 5.86,
+				"index": 11
+			},
+			{
+				"text": "LeBron ",
+				"start": 5.86,
+				"end": 6.52,
+				"index": 12
+			},
+			{
+				"text": "I ",
+				"start": 6.52,
+				"end": 7,
+				"index": 13
+			},
+			{
+				"text": "know ",
+				"start": 12.86,
+				"end": 13,
+				"index": 14
+			},
+			{
+				"text": "it's ",
+				"start": 13,
+				"end": 13.16,
+				"index": 15
+			},
+			{
+				"text": "probably ",
+				"start": 13.16,
+				"end": 13.34,
+				"index": 16
+			},
+			{
+				"text": "too ",
+				"start": 13.34,
+				"end": 13.66,
+				"index": 17
+			},
+			{
+				"text": "much ",
+				"start": 13.66,
+				"end": 14.18,
+				"index": 18
+			},
+			{
+				"text": "glaze, ",
+				"start": 14.18,
+				"end": 14.68,
+				"index": 19
+			},
+			{
+				"text": "the ",
+				"start": 15,
+				"end": 15.08,
+				"index": 20
+			},
+			{
+				"text": "sun's ",
+				"start": 15.08,
+				"end": 15.64,
+				"index": 21
+			},
+			{
+				"text": "up ",
+				"start": 15.64,
+				"end": 15.8,
+				"index": 22
+			},
+			{
+				"text": "and ",
+				"start": 15.8,
+				"end": 16,
+				"index": 23
+			},
+			{
+				"text": "brown, ",
+				"start": 16,
+				"end": 16.28,
+				"index": 24
+			},
+			{
+				"text": "a ",
+				"start": 16.32,
+				"end": 16.42,
+				"index": 25
+			},
+			{
+				"text": "fight ",
+				"start": 16.42,
+				"end": 16.66,
+				"index": 26
+			},
+			{
+				"text": "to ",
+				"start": 16.66,
+				"end": 16.8,
+				"index": 27
+			},
+			{
+				"text": "show, ",
+				"start": 16.8,
+				"end": 17.16,
+				"index": 28
+			},
+			{
+				"text": "embrace",
+				"start": 17.16,
+				"end": 17.72,
+				"index": 29
+			}
+		],
+		"start": 3.09,
+		"end": 20.81
+	},
+	{
+		"words": [
+			{
+				"text": "Still ",
+				"start": 0,
+				"end": 0.66,
+				"index": 30
+			},
+			{
+				"text": "not ",
+				"start": 0.66,
+				"end": 0.96,
+				"index": 31
+			},
+			{
+				"text": "enough ",
+				"start": 0.96,
+				"end": 1.48,
+				"index": 32
+			},
+			{
+				"text": "for ",
+				"start": 1.48,
+				"end": 2.18,
+				"index": 33
+			},
+			{
+				"text": "my ",
+				"start": 2.18,
+				"end": 2.38,
+				"index": 34
+			},
+			{
+				"text": "GOAT, ",
+				"start": 2.38,
+				"end": 2.74,
+				"index": 35
+			},
+			{
+				"text": "he ",
+				"start": 3.16,
+				"end": 3.28,
+				"index": 36
+			},
+			{
+				"text": "is ",
+				"start": 7.41,
+				"end": 7.55,
+				"index": 37
+			},
+			{
+				"text": "his, ",
+				"start": 7.55,
+				"end": 7.89,
+				"index": 38
+			},
+			{
+				"text": "that ",
+				"start": 9.95,
+				"end": 10.17,
+				"index": 39
+			},
+			{
+				"text": "he ",
+				"start": 10.17,
+				"end": 10.45,
+				"index": 40
+			},
+			{
+				"text": "deserves ",
+				"start": 10.45,
+				"end": 10.77,
+				"index": 41
+			},
+			{
+				"text": "from ",
+				"start": 10.77,
+				"end": 11.13,
+				"index": 42
+			},
+			{
+				"text": "his ",
+				"start": 11.13,
+				"end": 11.37,
+				"index": 43
+			},
+			{
+				"text": "fame",
+				"start": 11.37,
+				"end": 11.73,
+				"index": 44
+			}
+		],
+		"start": 20.81,
+		"end": 32.54
+	},
+	{
+		"words": [
+			{
+				"text": "Cause",
+				"start": 0,
+				"end": 0.84,
+				"index": 45
+			}
+		],
+		"start": 32.54,
+		"end": 33.38
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.24,
+				"index": 46
+			},
+			{
+				"text": "would ",
+				"start": 0.24,
+				"end": 0.44,
+				"index": 47
+			},
+			{
+				"text": "be ",
+				"start": 0.44,
+				"end": 0.68,
+				"index": 48
+			},
+			{
+				"text": "at ",
+				"start": 0.68,
+				"end": 0.84,
+				"index": 49
+			},
+			{
+				"text": "the ",
+				"start": 0.84,
+				"end": 0.96,
+				"index": 50
+			},
+			{
+				"text": "crib ",
+				"start": 0.96,
+				"end": 1.32,
+				"index": 51
+			},
+			{
+				"text": "though, ",
+				"start": 1.32,
+				"end": 1.66,
+				"index": 52
+			},
+			{
+				"text": "just ",
+				"start": 1.94,
+				"end": 2.42,
+				"index": 53
+			},
+			{
+				"text": "cheering ",
+				"start": 2.42,
+				"end": 2.76,
+				"index": 54
+			},
+			{
+				"text": "on ",
+				"start": 2.76,
+				"end": 3.08,
+				"index": 55
+			},
+			{
+				"text": "my ",
+				"start": 7.01,
+				"end": 7.19,
+				"index": 56
+			},
+			{
+				"text": "king",
+				"start": 7.19,
+				"end": 7.55,
+				"index": 57
+			}
+		],
+		"start": 41,
+		"end": 48.55
+	}
+]

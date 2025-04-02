@@ -1,0 +1,458 @@
+[
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.24,
+				"index": 0
+			},
+			{
+				"text": "see ",
+				"start": 0.24,
+				"end": 0.4,
+				"index": 1
+			},
+			{
+				"text": "him ",
+				"start": 0.4,
+				"end": 0.56,
+				"index": 2
+			},
+			{
+				"text": "from ",
+				"start": 0.56,
+				"end": 0.78,
+				"index": 3
+			},
+			{
+				"text": "across ",
+				"start": 0.78,
+				"end": 1.08,
+				"index": 4
+			},
+			{
+				"text": "the ",
+				"start": 1.08,
+				"end": 1.54,
+				"index": 5
+			},
+			{
+				"text": "court.",
+				"start": 1.54,
+				"end": 1.86,
+				"index": 6
+			}
+		],
+		"start": 0.37,
+		"end": 2.23
+	},
+	{
+		"words": [
+			{
+				"text": "He's ",
+				"start": 0,
+				"end": 0.64,
+				"index": 7
+			},
+			{
+				"text": "gonna ",
+				"start": 0.64,
+				"end": 0.88,
+				"index": 8
+			},
+			{
+				"text": "get ",
+				"start": 0.88,
+				"end": 1.2,
+				"index": 9
+			},
+			{
+				"text": "a ",
+				"start": 1.2,
+				"end": 1.34,
+				"index": 10
+			},
+			{
+				"text": "fifth ",
+				"start": 1.34,
+				"end": 1.54,
+				"index": 11
+			},
+			{
+				"text": "ring.",
+				"start": 1.54,
+				"end": 2.26,
+				"index": 12
+			}
+		],
+		"start": 2.65,
+		"end": 4.91
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.48,
+				"index": 13
+			},
+			{
+				"text": "think ",
+				"start": 0.48,
+				"end": 0.76,
+				"index": 14
+			},
+			{
+				"text": "he'll ",
+				"start": 0.76,
+				"end": 0.94,
+				"index": 15
+			},
+			{
+				"text": "beat ",
+				"start": 0.94,
+				"end": 1.06,
+				"index": 16
+			},
+			{
+				"text": "the ",
+				"start": 1.06,
+				"end": 1.2,
+				"index": 17
+			},
+			{
+				"text": "buzzer ",
+				"start": 1.2,
+				"end": 1.88,
+				"index": 18
+			},
+			{
+				"text": "now.",
+				"start": 1.88,
+				"end": 2.06,
+				"index": 19
+			}
+		],
+		"start": 5.41,
+		"end": 7.47
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.52,
+				"index": 20
+			},
+			{
+				"text": "wanna ",
+				"start": 0.52,
+				"end": 0.8,
+				"index": 21
+			},
+			{
+				"text": "keep ",
+				"start": 0.8,
+				"end": 1.12,
+				"index": 22
+			},
+			{
+				"text": "glazing ",
+				"start": 1.12,
+				"end": 1.88,
+				"index": 23
+			},
+			{
+				"text": "you.",
+				"start": 1.88,
+				"end": 2.1,
+				"index": 24
+			}
+		],
+		"start": 7.97,
+		"end": 10.07
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.56,
+				"index": 25
+			},
+			{
+				"text": "swear ",
+				"start": 0.56,
+				"end": 0.8,
+				"index": 26
+			},
+			{
+				"text": "that ",
+				"start": 0.8,
+				"end": 0.98,
+				"index": 27
+			},
+			{
+				"text": "he's ",
+				"start": 0.98,
+				"end": 1.18,
+				"index": 28
+			},
+			{
+				"text": "about ",
+				"start": 1.18,
+				"end": 1.52,
+				"index": 29
+			},
+			{
+				"text": "to ",
+				"start": 1.52,
+				"end": 1.88,
+				"index": 30
+			},
+			{
+				"text": "score.",
+				"start": 1.88,
+				"end": 2.28,
+				"index": 31
+			}
+		],
+		"start": 10.57,
+		"end": 12.85
+	},
+	{
+		"words": [
+			{
+				"text": "He's ",
+				"start": 0,
+				"end": 0.44,
+				"index": 32
+			},
+			{
+				"text": "playing ",
+				"start": 0.44,
+				"end": 0.7,
+				"index": 33
+			},
+			{
+				"text": "with ",
+				"start": 0.7,
+				"end": 0.92,
+				"index": 34
+			},
+			{
+				"text": "his ",
+				"start": 0.92,
+				"end": 1.1,
+				"index": 35
+			},
+			{
+				"text": "son, ",
+				"start": 1.1,
+				"end": 1.38,
+				"index": 36
+			},
+			{
+				"text": "Bronny.",
+				"start": 1.56,
+				"end": 1.86,
+				"index": 37
+			}
+		],
+		"start": 13.39,
+		"end": 15.25
+	},
+	{
+		"words": [
+			{
+				"text": "They'll ",
+				"start": 0,
+				"end": 0.34,
+				"index": 38
+			},
+			{
+				"text": "never ",
+				"start": 0.34,
+				"end": 0.54,
+				"index": 39
+			},
+			{
+				"text": "lose ",
+				"start": 0.54,
+				"end": 0.9,
+				"index": 40
+			},
+			{
+				"text": "now.",
+				"start": 0.9,
+				"end": 1.44,
+				"index": 41
+			}
+		],
+		"start": 15.85,
+		"end": 17.29
+	},
+	{
+		"words": [
+			{
+				"text": "Oh, ",
+				"start": 0,
+				"end": 0.64,
+				"index": 42
+			},
+			{
+				"text": "lose ",
+				"start": 0.64,
+				"end": 0.96,
+				"index": 43
+			},
+			{
+				"text": "now",
+				"start": 0.96,
+				"end": 1.54,
+				"index": 44
+			}
+		],
+		"start": 18.33,
+		"end": 19.87
+	},
+	{
+		"words": [
+			{
+				"text": "You ",
+				"start": 0,
+				"end": 0.64,
+				"index": 45
+			},
+			{
+				"text": "need ",
+				"start": 0.64,
+				"end": 0.9,
+				"index": 46
+			},
+			{
+				"text": "to",
+				"start": 0.9,
+				"end": 1,
+				"index": 47
+			},
+			{
+				"text": "-",
+				"start": 1,
+				"end": 1.06,
+				"index": 48
+			}
+		],
+		"start": 21.17,
+		"end": 22.23
+	},
+	{
+		"words": [
+			{
+				"text": "He's ",
+				"start": 0,
+				"end": 0.44,
+				"index": 49
+			},
+			{
+				"text": "been ",
+				"start": 0.44,
+				"end": 0.54,
+				"index": 50
+			},
+			{
+				"text": "a ",
+				"start": 0.54,
+				"end": 0.72,
+				"index": 51
+			},
+			{
+				"text": "gopher ",
+				"start": 0.72,
+				"end": 1.42,
+				"index": 52
+			},
+			{
+				"text": "for ",
+				"start": 1.42,
+				"end": 1.48,
+				"index": 53
+			},
+			{
+				"text": "years.",
+				"start": 1.48,
+				"end": 2.04,
+				"index": 54
+			}
+		],
+		"start": 26.58,
+		"end": 28.62
+	},
+	{
+		"words": [
+			{
+				"text": "He's ",
+				"start": 0,
+				"end": 0.42,
+				"index": 55
+			},
+			{
+				"text": "still ",
+				"start": 0.42,
+				"end": 0.44,
+				"index": 56
+			},
+			{
+				"text": "fierce.",
+				"start": 0.44,
+				"end": 0.92,
+				"index": 57
+			}
+		],
+		"start": 30.12,
+		"end": 31.04
+	},
+	{
+		"words": [
+			{
+				"text": "You ",
+				"start": 0,
+				"end": 0.64,
+				"index": 58
+			},
+			{
+				"text": "need ",
+				"start": 0.64,
+				"end": 0.88,
+				"index": 59
+			},
+			{
+				"text": "to ",
+				"start": 0.88,
+				"end": 1.04,
+				"index": 60
+			},
+			{
+				"text": "glaze ",
+				"start": 1.04,
+				"end": 1.28,
+				"index": 61
+			},
+			{
+				"text": "him ",
+				"start": 1.28,
+				"end": 1.62,
+				"index": 62
+			},
+			{
+				"text": "more",
+				"start": 1.62,
+				"end": 1.94,
+				"index": 63
+			}
+		],
+		"start": 31.7,
+		"end": 33.64
+	}
+]

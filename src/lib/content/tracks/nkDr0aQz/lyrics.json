@@ -1,0 +1,416 @@
+[
+	{
+		"words": [
+			{
+				"text": "LeBron, ",
+				"start": 0,
+				"end": 0.58,
+				"index": 0
+			},
+			{
+				"text": "this ",
+				"start": 0.68,
+				"end": 1.52,
+				"index": 1
+			},
+			{
+				"text": "one's ",
+				"start": 1.52,
+				"end": 1.74,
+				"index": 2
+			},
+			{
+				"text": "for ",
+				"start": 1.74,
+				"end": 1.84,
+				"index": 3
+			},
+			{
+				"text": "you, ",
+				"start": 1.84,
+				"end": 2.1,
+				"index": 4
+			},
+			{
+				"text": "yeah, ",
+				"start": 2.18,
+				"end": 3.88,
+				"index": 5
+			},
+			{
+				"text": "he ",
+				"start": 4.22,
+				"end": 4.36,
+				"index": 6
+			},
+			{
+				"text": "gets ",
+				"start": 4.36,
+				"end": 4.56,
+				"index": 7
+			},
+			{
+				"text": "to ",
+				"start": 4.56,
+				"end": 4.68,
+				"index": 8
+			},
+			{
+				"text": "play ",
+				"start": 4.68,
+				"end": 4.9,
+				"index": 9
+			},
+			{
+				"text": "with ",
+				"start": 4.9,
+				"end": 5.04,
+				"index": 10
+			},
+			{
+				"text": "his ",
+				"start": 5.04,
+				"end": 5.34,
+				"index": 11
+			},
+			{
+				"text": "son ",
+				"start": 5.34,
+				"end": 5.66,
+				"index": 12
+			},
+			{
+				"text": "in ",
+				"start": 5.66,
+				"end": 6,
+				"index": 13
+			},
+			{
+				"text": "his ",
+				"start": 6,
+				"end": 6.24,
+				"index": 14
+			},
+			{
+				"text": "prime, ",
+				"start": 6.24,
+				"end": 6.68,
+				"index": 15
+			},
+			{
+				"text": "my ",
+				"start": 6.86,
+				"end": 7.18,
+				"index": 16
+			},
+			{
+				"text": "king ",
+				"start": 7.18,
+				"end": 7.44,
+				"index": 17
+			},
+			{
+				"text": "is ",
+				"start": 7.44,
+				"end": 7.96,
+				"index": 18
+			},
+			{
+				"text": "6 ",
+				"start": 7.96,
+				"end": 8.3,
+				"index": 19
+			},
+			{
+				"text": "foot ",
+				"start": 8.3,
+				"end": 8.68,
+				"index": 20
+			},
+			{
+				"text": "9, ",
+				"start": 8.68,
+				"end": 8.94,
+				"index": 21
+			},
+			{
+				"text": "40 ",
+				"start": 9.4,
+				"end": 10.1,
+				"index": 22
+			},
+			{
+				"text": "years ",
+				"start": 10.1,
+				"end": 10.44,
+				"index": 23
+			},
+			{
+				"text": "old ",
+				"start": 10.44,
+				"end": 10.72,
+				"index": 24
+			},
+			{
+				"text": "but ",
+				"start": 10.72,
+				"end": 10.92,
+				"index": 25
+			},
+			{
+				"text": "he ",
+				"start": 10.92,
+				"end": 11.1,
+				"index": 26
+			},
+			{
+				"text": "won't ",
+				"start": 11.1,
+				"end": 11.64,
+				"index": 27
+			},
+			{
+				"text": "fall ",
+				"start": 11.64,
+				"end": 11.82,
+				"index": 28
+			},
+			{
+				"text": "behind, ",
+				"start": 11.82,
+				"end": 12.38,
+				"index": 29
+			},
+			{
+				"text": "he's ",
+				"start": 12.78,
+				"end": 13.14,
+				"index": 30
+			},
+			{
+				"text": "a, ",
+				"start": 13.14,
+				"end": 13.22,
+				"index": 31
+			},
+			{
+				"text": "yeah, ",
+				"start": 15.14,
+				"end": 15.82,
+				"index": 32
+			},
+			{
+				"text": "I ",
+				"start": 15.86,
+				"end": 16,
+				"index": 33
+			},
+			{
+				"text": "think ",
+				"start": 16,
+				"end": 16.14,
+				"index": 34
+			},
+			{
+				"text": "about ",
+				"start": 16.14,
+				"end": 16.44,
+				"index": 35
+			},
+			{
+				"text": "LeBron ",
+				"start": 16.44,
+				"end": 16.92,
+				"index": 36
+			},
+			{
+				"text": "just ",
+				"start": 16.92,
+				"end": 17.3,
+				"index": 37
+			},
+			{
+				"text": "way ",
+				"start": 17.3,
+				"end": 17.64,
+				"index": 38
+			},
+			{
+				"text": "too ",
+				"start": 17.64,
+				"end": 17.92,
+				"index": 39
+			},
+			{
+				"text": "much, ",
+				"start": 17.92,
+				"end": 18.46,
+				"index": 40
+			},
+			{
+				"text": "and ",
+				"start": 18.58,
+				"end": 18.9,
+				"index": 41
+			},
+			{
+				"text": "that's ",
+				"start": 18.9,
+				"end": 19.22,
+				"index": 42
+			},
+			{
+				"text": "the ",
+				"start": 21.11,
+				"end": 21.33,
+				"index": 43
+			},
+			{
+				"text": "shot ",
+				"start": 21.33,
+				"end": 21.67,
+				"index": 44
+			},
+			{
+				"text": "clock's ",
+				"start": 21.67,
+				"end": 22.23,
+				"index": 45
+			},
+			{
+				"text": "done ",
+				"start": 22.23,
+				"end": 22.39,
+				"index": 46
+			},
+			{
+				"text": "nothing ",
+				"start": 22.39,
+				"end": 22.91,
+				"index": 47
+			},
+			{
+				"text": "on ",
+				"start": 22.91,
+				"end": 23.19,
+				"index": 48
+			},
+			{
+				"text": "the ",
+				"start": 23.19,
+				"end": 23.25,
+				"index": 49
+			},
+			{
+				"text": "go, ",
+				"start": 23.25,
+				"end": 23.47,
+				"index": 50
+			},
+			{
+				"text": "he'll ",
+				"start": 23.53,
+				"end": 23.75,
+				"index": 51
+			},
+			{
+				"text": "clutch, ",
+				"start": 23.75,
+				"end": 24.19,
+				"index": 52
+			},
+			{
+				"text": "just ",
+				"start": 24.35,
+				"end": 24.73,
+				"index": 53
+			},
+			{
+				"text": "look ",
+				"start": 24.73,
+				"end": 24.97,
+				"index": 54
+			},
+			{
+				"text": "into ",
+				"start": 24.97,
+				"end": 25.51,
+				"index": 55
+			},
+			{
+				"text": "his ",
+				"start": 25.51,
+				"end": 26.19,
+				"index": 56
+			},
+			{
+				"text": "eyes, ",
+				"start": 26.19,
+				"end": 26.51,
+				"index": 57
+			},
+			{
+				"text": "and ",
+				"start": 26.65,
+				"end": 27.07,
+				"index": 58
+			},
+			{
+				"text": "his ",
+				"start": 27.07,
+				"end": 27.81,
+				"index": 59
+			},
+			{
+				"text": "crown ",
+				"start": 31.91,
+				"end": 32.23,
+				"index": 60
+			},
+			{
+				"text": "on ",
+				"start": 32.23,
+				"end": 32.49,
+				"index": 61
+			},
+			{
+				"text": "his ",
+				"start": 32.49,
+				"end": 32.73,
+				"index": 62
+			},
+			{
+				"text": "head, ",
+				"start": 32.73,
+				"end": 33.01,
+				"index": 63
+			},
+			{
+				"text": "so ",
+				"start": 33.15,
+				"end": 33.51,
+				"index": 64
+			},
+			{
+				"text": "he's ",
+				"start": 36.48,
+				"end": 37.02,
+				"index": 65
+			},
+			{
+				"text": "taking ",
+				"start": 37.02,
+				"end": 37.42,
+				"index": 66
+			},
+			{
+				"text": "another",
+				"start": 37.42,
+				"end": 37.96,
+				"index": 67
+			}
+		],
+		"start": 1.94,
+		"end": 39.9
+	}
+]

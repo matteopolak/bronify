@@ -1,0 +1,584 @@
+[
+	{
+		"words": [
+			{
+				"text": "9, ",
+				"start": 1,
+				"end": 1.16,
+				"index": 0
+			},
+			{
+				"text": "4, ",
+				"start": 1.16,
+				"end": 1.32,
+				"index": 1
+			},
+			{
+				"text": "6, ",
+				"start": 1.32,
+				"end": 1.48,
+				"index": 2
+			},
+			{
+				"text": "ha ",
+				"start": 1.62,
+				"end": 2.4,
+				"index": 3
+			},
+			{
+				"text": "ha ",
+				"start": 3.97,
+				"end": 4.35,
+				"index": 4
+			},
+			{
+				"text": "ha, ",
+				"start": 4.35,
+				"end": 4.49,
+				"index": 5
+			},
+			{
+				"text": "what ",
+				"start": 4.53,
+				"end": 5.43,
+				"index": 6
+			},
+			{
+				"text": "the ",
+				"start": 5.43,
+				"end": 5.69,
+				"index": 7
+			},
+			{
+				"text": "fuck",
+				"start": 5.69,
+				"end": 6.17,
+				"index": 8
+			}
+		],
+		"start": -1,
+		"end": 5.27
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron, ",
+				"start": 0,
+				"end": 0.94,
+				"index": 9
+			},
+			{
+				"text": "yeah, ",
+				"start": 1.12,
+				"end": 2.74,
+				"index": 10
+			},
+			{
+				"text": "he ",
+				"start": 2.86,
+				"end": 3.24,
+				"index": 11
+			},
+			{
+				"text": "likes ",
+				"start": 3.24,
+				"end": 3.54,
+				"index": 12
+			},
+			{
+				"text": "to ",
+				"start": 3.54,
+				"end": 3.66,
+				"index": 13
+			},
+			{
+				"text": "dribble ",
+				"start": 3.66,
+				"end": 3.94,
+				"index": 14
+			},
+			{
+				"text": "balls, ",
+				"start": 3.94,
+				"end": 4.18,
+				"index": 15
+			},
+			{
+				"text": "yeah, ",
+				"start": 4.4,
+				"end": 4.56,
+				"index": 16
+			},
+			{
+				"text": "his ",
+				"start": 4.58,
+				"end": 4.72,
+				"index": 17
+			},
+			{
+				"text": "name ",
+				"start": 4.72,
+				"end": 4.9,
+				"index": 18
+			},
+			{
+				"text": "is ",
+				"start": 4.9,
+				"end": 5.04,
+				"index": 19
+			},
+			{
+				"text": "Bron, ",
+				"start": 5.04,
+				"end": 5.24,
+				"index": 20
+			},
+			{
+				"text": "and ",
+				"start": 5.4,
+				"end": 5.74,
+				"index": 21
+			},
+			{
+				"text": "he's ",
+				"start": 5.74,
+				"end": 6.16,
+				"index": 22
+			},
+			{
+				"text": "the ",
+				"start": 6.16,
+				"end": 6.2,
+				"index": 23
+			},
+			{
+				"text": "best ",
+				"start": 6.2,
+				"end": 6.4,
+				"index": 24
+			},
+			{
+				"text": "in ",
+				"start": 6.4,
+				"end": 6.64,
+				"index": 25
+			},
+			{
+				"text": "the ",
+				"start": 6.64,
+				"end": 6.78,
+				"index": 26
+			},
+			{
+				"text": "league, ",
+				"start": 6.78,
+				"end": 7.06,
+				"index": 27
+			},
+			{
+				"text": "no ",
+				"start": 7.16,
+				"end": 7.28,
+				"index": 28
+			},
+			{
+				"text": "one ",
+				"start": 7.28,
+				"end": 7.54,
+				"index": 29
+			},
+			{
+				"text": "else ",
+				"start": 7.54,
+				"end": 7.72,
+				"index": 30
+			},
+			{
+				"text": "like ",
+				"start": 7.72,
+				"end": 7.86,
+				"index": 31
+			},
+			{
+				"text": "Bron, ",
+				"start": 7.86,
+				"end": 8.04,
+				"index": 32
+			},
+			{
+				"text": "and ",
+				"start": 8.22,
+				"end": 8.58,
+				"index": 33
+			},
+			{
+				"text": "he ",
+				"start": 8.58,
+				"end": 8.94,
+				"index": 34
+			},
+			{
+				"text": "put ",
+				"start": 8.94,
+				"end": 9.1,
+				"index": 35
+			},
+			{
+				"text": "up ",
+				"start": 9.1,
+				"end": 9.28,
+				"index": 36
+			},
+			{
+				"text": "3 ",
+				"start": 9.28,
+				"end": 9.42,
+				"index": 37
+			},
+			{
+				"text": "so ",
+				"start": 9.42,
+				"end": 9.58,
+				"index": 38
+			},
+			{
+				"text": "many ",
+				"start": 9.58,
+				"end": 9.84,
+				"index": 39
+			},
+			{
+				"text": "times ",
+				"start": 9.84,
+				"end": 10.18,
+				"index": 40
+			},
+			{
+				"text": "cause ",
+				"start": 10.18,
+				"end": 10.32,
+				"index": 41
+			},
+			{
+				"text": "his ",
+				"start": 10.32,
+				"end": 10.48,
+				"index": 42
+			},
+			{
+				"text": "name ",
+				"start": 10.48,
+				"end": 10.6,
+				"index": 43
+			},
+			{
+				"text": "Bron, ",
+				"start": 10.6,
+				"end": 10.84,
+				"index": 44
+			},
+			{
+				"text": "and ",
+				"start": 11.06,
+				"end": 11.32,
+				"index": 45
+			},
+			{
+				"text": "he's ",
+				"start": 11.32,
+				"end": 12.1,
+				"index": 46
+			},
+			{
+				"text": "better ",
+				"start": 12.1,
+				"end": 12.36,
+				"index": 47
+			},
+			{
+				"text": "than ",
+				"start": 12.36,
+				"end": 12.68,
+				"index": 48
+			},
+			{
+				"text": "Michael ",
+				"start": 12.68,
+				"end": 13.06,
+				"index": 49
+			},
+			{
+				"text": "Jordan, ",
+				"start": 13.06,
+				"end": 13.5,
+				"index": 50
+			},
+			{
+				"text": "so ",
+				"start": 13.84,
+				"end": 14.48,
+				"index": 51
+			},
+			{
+				"text": "I'ma ",
+				"start": 14.48,
+				"end": 14.8,
+				"index": 52
+			},
+			{
+				"text": "sing ",
+				"start": 14.8,
+				"end": 15.06,
+				"index": 53
+			},
+			{
+				"text": "about ",
+				"start": 15.06,
+				"end": 15.3,
+				"index": 54
+			},
+			{
+				"text": "the ",
+				"start": 15.3,
+				"end": 15.52,
+				"index": 55
+			},
+			{
+				"text": "king ",
+				"start": 15.52,
+				"end": 15.74,
+				"index": 56
+			},
+			{
+				"text": "and ",
+				"start": 15.74,
+				"end": 15.92,
+				"index": 57
+			},
+			{
+				"text": "his ",
+				"start": 15.92,
+				"end": 16.08,
+				"index": 58
+			},
+			{
+				"text": "name ",
+				"start": 16.08,
+				"end": 16.26,
+				"index": 59
+			},
+			{
+				"text": "Bron, ",
+				"start": 16.26,
+				"end": 16.48,
+				"index": 60
+			},
+			{
+				"text": "so ",
+				"start": 16.68,
+				"end": 17.26,
+				"index": 61
+			},
+			{
+				"text": "I'ma ",
+				"start": 17.26,
+				"end": 17.62,
+				"index": 62
+			},
+			{
+				"text": "sing ",
+				"start": 17.62,
+				"end": 17.86,
+				"index": 63
+			},
+			{
+				"text": "about ",
+				"start": 17.86,
+				"end": 18.14,
+				"index": 64
+			},
+			{
+				"text": "the ",
+				"start": 18.14,
+				"end": 18.32,
+				"index": 65
+			},
+			{
+				"text": "king ",
+				"start": 18.32,
+				"end": 18.56,
+				"index": 66
+			},
+			{
+				"text": "and ",
+				"start": 18.56,
+				"end": 18.74,
+				"index": 67
+			},
+			{
+				"text": "his ",
+				"start": 18.74,
+				"end": 18.9,
+				"index": 68
+			},
+			{
+				"text": "name ",
+				"start": 18.9,
+				"end": 19.04,
+				"index": 69
+			},
+			{
+				"text": "Bron",
+				"start": 19.04,
+				"end": 19.28,
+				"index": 70
+			}
+		],
+		"start": 8.76,
+		"end": 28.14
+	},
+	{
+		"words": [
+			{
+				"text": "I'ma ",
+				"start": 0,
+				"end": 0.64,
+				"index": 71
+			},
+			{
+				"text": "sing ",
+				"start": 0.64,
+				"end": 0.94,
+				"index": 72
+			},
+			{
+				"text": "about ",
+				"start": 0.94,
+				"end": 1.22,
+				"index": 73
+			},
+			{
+				"text": "the ",
+				"start": 1.22,
+				"end": 1.44,
+				"index": 74
+			},
+			{
+				"text": "king ",
+				"start": 1.44,
+				"end": 1.66,
+				"index": 75
+			},
+			{
+				"text": "and ",
+				"start": 1.66,
+				"end": 1.82,
+				"index": 76
+			},
+			{
+				"text": "his ",
+				"start": 1.82,
+				"end": 2.02,
+				"index": 77
+			},
+			{
+				"text": "name ",
+				"start": 2.02,
+				"end": 2.16,
+				"index": 78
+			},
+			{
+				"text": "Bron, ",
+				"start": 2.16,
+				"end": 2.5,
+				"index": 79
+			},
+			{
+				"text": "I'ma ",
+				"start": 2.76,
+				"end": 3.44,
+				"index": 80
+			},
+			{
+				"text": "sing ",
+				"start": 3.44,
+				"end": 3.72,
+				"index": 81
+			},
+			{
+				"text": "about ",
+				"start": 3.72,
+				"end": 4.04,
+				"index": 82
+			},
+			{
+				"text": "the ",
+				"start": 4.04,
+				"end": 4.24,
+				"index": 83
+			},
+			{
+				"text": "king ",
+				"start": 4.24,
+				"end": 4.46,
+				"index": 84
+			},
+			{
+				"text": "and ",
+				"start": 4.46,
+				"end": 4.62,
+				"index": 85
+			},
+			{
+				"text": "his ",
+				"start": 4.62,
+				"end": 4.8,
+				"index": 86
+			},
+			{
+				"text": "name ",
+				"start": 4.8,
+				"end": 4.94,
+				"index": 87
+			},
+			{
+				"text": "Bronny, ",
+				"start": 4.94,
+				"end": 5.4,
+				"index": 88
+			},
+			{
+				"text": "Bronny, ",
+				"start": 5.4,
+				"end": 5.72,
+				"index": 89
+			},
+			{
+				"text": "Bron",
+				"start": 5.72,
+				"end": 5.78,
+				"index": 90
+			}
+		],
+		"start": 28.56,
+		"end": 34.44
+	},
+	{
+		"words": [
+			{
+				"text": "Bron, ",
+				"start": 0,
+				"end": 0.08,
+				"index": 91
+			},
+			{
+				"text": "I'ma sing about the king and his name Bron, I'ma sing about the king and his name Bron, I'ma sing about the king and his name Bron, I'ma sing about the king and his name Bron, I'ma sing about the king and his name Bron, I'ma sing about the king and his name Bron, I'ma sing about the king and his name Bron, I'ma sing about the king and his name Bron, I'ma sing about the king and his name Bron, I'ma sing about the king and his name Bron, I'ma sing about the king and his name Bron, I'ma sing about the king and his name Bron, I'ma sing about the king and his name Bron, I'ma sing about the king and his name Bron, I'ma sing about the king and his name Bron, I'ma sing about the king and his name Bron, I'ma sing about the king and his name Bron, I'ma sing about the king and his name Bron, I'ma",
+				"start": 0.08,
+				"end": 35.14,
+				"index": 92
+			}
+		],
+		"start": 35.06,
+		"end": 35.14
+	}
+]
