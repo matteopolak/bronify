@@ -116,6 +116,10 @@ for (const track of trackData) {
 	trackIndexMap.set(track.index, track);
 }
 
+export function getArtistDisplayName(artist: Pick<Artist, 'display_name' | 'username'>) {
+	return artist.display_name ?? artist.username;
+}
+
 export function getArtist(id: string): Artist {
 	return artistMap.get(id)!;
 }

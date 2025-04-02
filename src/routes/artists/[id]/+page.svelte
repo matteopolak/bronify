@@ -2,7 +2,7 @@
 	import { afterNavigate } from '$app/navigation';
 	import { page } from '$app/stores';
 	import Collection from '$lib/components/collection.svelte';
-	import { artistThumbnail, getArtist, trackData } from '$lib/get';
+	import { artistThumbnail, getArtist, getArtistDisplayName, trackData } from '$lib/get';
 	import { player } from '$lib/player.svelte';
 
 	let artist = $derived(getArtist($page.params.id));
@@ -23,7 +23,7 @@
 <Collection
 	content={{
 		id: artist.id,
-		title: artist.display_name ?? artist.id,
+		title: getArtistDisplayName(artist),
 		subtitle: 'Artist',
 		cover: artistThumbnail(artist.id),
 		tracks,

@@ -2,31 +2,28 @@
 	import albumData from '$lib/content/albums.json';
 	import artistData from '$lib/content/artists.json';
 
-	import type { Artist } from '$lib/types';
 	import { Library, Plus } from '@lucide/svelte';
-	import { albumThumbnail, artistThumbnail } from '$lib/get';
+	import { albumThumbnail, artistThumbnail, getArtist, getArtistDisplayName } from '$lib/get';
 	import Fuse from 'fuse.js';
 	import { createPlaylist, encodePlaylist, generateArtBlob, playlists } from '$lib/playlist.svelte';
 	import CollectionCover from '$lib/components/collection-cover.svelte';
 	import { goto } from '$app/navigation';
 
 	const artistIndex = new Fuse(artistData, {
-		keys: ['id', 'tiktok', 'soundcloud', 'display_name'],
+		keys: ['username', 'tiktok', 'soundcloud', 'display_name'],
 		threshold: 0.4
 	});
 
 	const betterAlbumData = albumData.map((album) => ({
 		...album,
-		artist: (artistData.find((artist) => artist.id === album.artist) as
-			| Pick<Artist, 'id' | 'display_name'>
-			| undefined) ?? {
-			id: album.artist,
+		artist: getArtist(album.artist) ?? {
+			username: album.artist,
 			display_name: album.artist
 		}
 	}));
 
 	const albumIndex = new Fuse(betterAlbumData, {
-		keys: ['title', 'artist.id', 'artist.display_name'],
+		keys: ['title', 'artist.username', 'artist.display_name'],
 		threshold: 0.4
 	});
 
@@ -97,7 +94,7 @@
 			content={{
 				id: album.id,
 				title: album.title,
-				subtitle: album.artist.display_name ?? album.artist.id,
+				subtitle: getArtistDisplayName(album.artist),
 				cover: albumThumbnail(album.id),
 				type: 'album'
 			}}
@@ -108,7 +105,7 @@
 		<CollectionCover
 			content={{
 				id: artist.id,
-				title: artist.display_name ?? artist.id,
+				title: getArtistDisplayName(artist),
 				subtitle: 'Artist',
 				cover: artistThumbnail(artist.id),
 				type: 'artist'

@@ -2,7 +2,7 @@
 	import { shortcut, type ShortcutEventDetail } from '@svelte-put/shortcut';
 	import Device from 'svelte-device-info';
 
-	import { getArtist, trackThumbnail } from '$lib/get';
+	import { getArtist, getArtistDisplayName, trackThumbnail } from '$lib/get';
 	import { formatSeconds } from '$lib/util';
 	import { player, settings } from '$lib/player.svelte';
 	import {
@@ -27,6 +27,7 @@
 	} = $props();
 
 	let url = $derived(trackThumbnail(player.track.id));
+	let artist = $derived(getArtist(player.track.artist));
 
 	function onVolumeClick(event: MouseEvent) {
 		const progress = event.target as HTMLProgressElement;
@@ -160,8 +161,8 @@
 		<div>
 			<h3 class="text-sm font-semibold">{player.track.title}</h3>
 			<span class="text-sm text-slate-300">
-				<a href="/artists/{player.track.artist}" class="hover:underline">
-					{getArtist(player.track.artist).display_name ?? player.track.artist}
+				<a href="/artists/{getArtistDisplayName(artist)}" class="hover:underline">
+					{getArtistDisplayName(artist)}
 				</a>
 			</span>
 		</div>

@@ -7,9 +7,10 @@
 		categoryThumbnail,
 		albumData,
 		artistData,
-		searchLyrics
+		searchLyrics,
+		getArtist
 	} from '$lib/get';
-	import type { Artist, Collection } from '$lib/types';
+	import type { Collection } from '$lib/types';
 	import Scrollable from '$lib/components/scrollable.svelte';
 	import VerticalCover from '$lib/components/vertical-cover.svelte';
 	import VerticalAlbum from '$lib/components/vertical-album.svelte';
@@ -46,10 +47,8 @@
 
 	const betterAlbumData = albumData.map((album) => ({
 		...album,
-		artistFull: (artistData.find((artist) => artist.id === album.artist) as
-			| Pick<Artist, 'id' | 'display_name'>
-			| undefined) ?? {
-			id: album.artist,
+		artistFull: getArtist(album.artist) ?? {
+			username: album.artist,
 			display_name: album.artist
 		}
 	}));
@@ -60,7 +59,7 @@
 	});
 
 	const artistIndex = new Fuse(artistData, {
-		keys: ['id', 'tiktok', 'soundcloud', 'spotify', 'display_name'],
+		keys: ['username', 'tiktok', 'soundcloud', 'spotify', 'display_name'],
 		threshold: 0.4
 	});
 

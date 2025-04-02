@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { artistThumbnail } from '$lib/get';
+	import { artistThumbnail, getArtistDisplayName } from '$lib/get';
 	import type { Artist } from '$lib/types';
 
 	let { artist }: { artist: Artist } = $props();
@@ -9,7 +9,7 @@
 
 <a
 	class="group card hover:bg-base-300/50 flex h-auto w-44 flex-shrink-0 cursor-pointer flex-col gap-2 p-3 text-left transition-all duration-100"
-	href="/artists/{artist.id}"
+	href="/artists/{getArtistDisplayName(artist)}"
 >
 	<img
 		src={cover}
@@ -19,7 +19,7 @@
 	/>
 
 	<div class="flex flex-col">
-		<h2 class="text-base">{artist.display_name ?? artist.id}</h2>
+		<h2 class="text-base">{getArtistDisplayName(artist)}</h2>
 		<p class="text-sm text-neutral-300">Artist</p>
 	</div>
 </a>

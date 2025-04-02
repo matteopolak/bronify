@@ -117,16 +117,23 @@ async function main() {
 			tags: []
 		});
 
-		if (!artists.some((artist) => artist.id === username)) {
+		if (!artists.some((artist) => artist.username === username)) {
 			const url = await rl.question(
 				`What is the avatar url for https://tiktok.com/@${encodeURIComponent(tiktok)} `
 			);
 			const avatar = await downloadImage(url, 512, 512);
 
-			fs.writeFileSync(`src/lib/content/artists/${username}.webp`, avatar);
+			const hash = crypto.createHash('sha256');
+
+			hash.update(avatar);
+
+			const id = hash.digest('base64url').slice(0, 8);
+
+			fs.writeFileSync(`src/lib/content/artists/${id}.webp`, avatar);
 
 			artists.push({
-				id: username,
+				id,
+				username,
 				tiktok
 			});
 		}

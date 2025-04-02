@@ -13,7 +13,7 @@
 	import { goto } from '$app/navigation';
 
 	const artistIndex = new Fuse(artistData, {
-		keys: ['id', 'tiktok', 'soundcloud', 'display_name'],
+		keys: ['username', 'tiktok', 'soundcloud', 'display_name'],
 		threshold: 0.4
 	});
 

@@ -1,7 +1,7 @@
 <script lang="ts">
 	import ControlsImmersive from '$lib/components/controls-immersive.svelte';
 	import Lyrics from '$lib/components/lyrics.svelte';
-	import { getArtist, trackData } from '$lib/get';
+	import { getArtist, getArtistDisplayName, trackData } from '$lib/get';
 	import { player } from '$lib/player.svelte';
 
 	function pastelColorFromString(str: string) {
@@ -51,7 +51,7 @@
 	<span class="pt-2 text-sm text-slate-300">
 		{player.track.title}
 		&bull;
-		{getArtist(player.track.artist).display_name ?? player.track.artist}
+		{getArtistDisplayName(getArtist(player.track.artist))}
 	</span>
 </div>
 

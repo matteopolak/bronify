@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { goto } from '$app/navigation';
-	import { trackThumbnail, getArtist } from '$lib/get';
+	import { trackThumbnail, getArtist, getArtistDisplayName } from '$lib/get';
 	import { player } from '$lib/player.svelte';
 	import { addToPlaylist, playlists, removeFromPlaylist } from '$lib/playlist.svelte';
 	import type { Playlist, Track } from '$lib/types';
@@ -65,8 +65,12 @@
 		<div class="flex flex-col">
 			<h3 class="text-md line-clamp-1 font-semibold">{track.title}</h3>
 			<span class="text-sm text-slate-300">
-				<a href="/artists/{artist.id}" class="hover:underline" bind:this={anchor}>
-					{artist.display_name ?? artist.id}
+				<a
+					href="/artists/{getArtistDisplayName(artist)}"
+					class="hover:underline"
+					bind:this={anchor}
+				>
+					{getArtistDisplayName(artist)}
 				</a>
 			</span>
 		</div>
