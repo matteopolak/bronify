@@ -3,7 +3,7 @@ name: Build iOS App
 on:
   push:
     tags:
-      - 'ios-v*'
+      - 'v*'
 
 permissions:
   contents: write

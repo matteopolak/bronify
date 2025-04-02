@@ -3,7 +3,7 @@ name: Build Tauri App
 on:
   push:
     tags:
-      - 'app-v*'
+      - 'v*'
 
 jobs:
   publish-tauri:
@@ -71,6 +71,16 @@ jobs:
           args: ${{ matrix.args }}
           includeUpdaterJson: false
 
+      - name: Rename Mac zip
+        if: matrix.platform == 'macos-latest' && matrix.args == '--target aarch64-apple-darwin'
+        run: |
+          mv src-tauri/target/aarch64-apple-darwin/release/bundle/macos/Bronify.app src-tauri/target/aarch64-apple-darwin/release/bundle/macos/Bronify_aarch64.app
+
+      - name: Rename Mac zip
+        if: matrix.platform == 'macos-latest' && matrix.args == '--target x86_64-apple-darwin'
+        run: |
+          mv src-tauri/target/x86_64-apple-darwin/release/bundle/macos/Bronify.app src-tauri/target/x86_64-apple-darwin/release/bundle/macos/Bronify_x86_64.app
+
       - name: Remove version from file names (non-Windows)
         if: matrix.platform != 'windows-latest'
         id: files_unix
@@ -133,7 +143,6 @@ jobs:
           Get-ChildItem files | ForEach-Object { Write-Output "files/$($_.Name)" } >> $GITHUB_OUTPUT
           Write-Output 'EOF' >> $GITHUB_OUTPUT
 
-
       - name: Unify outputs
         id: files
         run: |
@@ -146,16 +155,6 @@ jobs:
             echo "${{ steps.files_unix.outputs.FILES }}" >> $GITHUB_OUTPUT
             echo "EOF" >> $GITHUB_OUTPUT
           fi
-
-      - name: Rename Mac zip
-        if: matrix.platform == 'macos-latest' && matrix.args == '--target aarch64-apple-darwin'
-        run: |
-          mv files/Bronify.app.zip files/Bronify_aarch64.app.zip
-
-      - name: Rename Mac zip
-        if: matrix.platform == 'macos-latest' && matrix.args == '--target x86_64-apple-darwin'
-        run: |
-          mv files/Bronify.app.zip files/Bronify_x86_64.app.zip
 
       - uses: ryand56/r2-upload-action@latest
         with:
