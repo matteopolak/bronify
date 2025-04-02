@@ -82,15 +82,13 @@ jobs:
             # if it ends in `.app`, zip it up first
             if [[ "$new_filename" == *.app ]]; then
               # zip it up
-              zip -r "${new_filename}.zip" "$file"
+              zip -r "files/${new_filename}.zip" "$file"
               # remove the original file
               rm -rf "$file"
-              # rename the new file
-              new_filename="${new_filename}.zip"
+            else
+              # move the file to the `files` folder
+              mv "$file" "files/$new_filename"
             fi
-
-            # Move the file to the files folder
-            mv "$file" "files/$new_filename"
           done
           # one per line, print out each file in the `files` folder
           echo 'FILES<<EOF' >> $GITHUB_OUTPUT
