@@ -2,7 +2,7 @@
 	import { formatSeconds } from '$lib/util';
 	import { player, settings } from '$lib/player.svelte';
 	import { Pause, Play, Repeat, Repeat1, Shuffle, SkipBack, SkipForward } from '@lucide/svelte';
-	import { untrack } from 'svelte';
+	import ProgressBar from './progress-bar.svelte';
 
 	function normalizeIndex(index: number, length: number) {
 		return ((index % length) + length) % length;
@@ -25,65 +25,14 @@
 	}
 
 	let currentSeconds = $state(player.currentSeconds);
-
-	$effect(() => {
-		if (!dragging) currentSeconds = player.currentSeconds;
-	});
-
-	let dragging = $state(false);
-	let input: HTMLInputElement;
-	let paused = $state(false);
 </script>
 
 <div class="relative flex w-screen flex-col place-content-center gap-4 px-6 pb-20">
 	<div class="flex flex-row flex-wrap place-content-between gap-3">
-		<div class="relative flex w-full shrink-0 cursor-pointer" aria-label="Seek">
-			<input
-				type="range"
-				min={0}
-				max={player.duration}
-				step={0.1}
-				bind:value={currentSeconds}
-				bind:this={input}
-				oninput={() => {
-					player.seek(currentSeconds);
-				}}
-				onmousedown={() => {
-					paused = player.paused;
-					player.pause();
-					dragging = true;
-				}}
-				onmouseup={() => {
-					player.seek(currentSeconds);
-					dragging = false;
-					if (!paused) player.play();
-				}}
-				ontouchstart={() => {
-					paused = player.paused;
-					player.pause();
-					dragging = true;
-				}}
-				ontouchcancel={() => {
-					player.seek(currentSeconds);
-					dragging = false;
-					if (!paused) player.play();
-				}}
-				ontouchend={() => {
-					player.seek(currentSeconds);
-					dragging = false;
-					if (!paused) player.play();
-				}}
-				class="h-1 w-full appearance-none rounded-lg border-none"
-			/>
-
-			<div
-				class="pointer-events-none absolute top-0 left-0 h-1 w-full rounded-lg bg-white"
-				style="width: {(currentSeconds / player.duration) * 100}%"
-			></div>
-		</div>
+		<ProgressBar bind:currentSeconds class="shrink-0" />
 
 		<span class="text-xs text-neutral-300">
-			{formatSeconds(player.currentSeconds)}
+			{formatSeconds(currentSeconds)}
 		</span>
 		<span class="ml-auto text-xs text-neutral-300">
 			{formatSeconds(player.duration)}
@@ -145,42 +94,3 @@
 		</button>
 	</div>
 </div>
-
-<style>
-	input[type='range'] {
-		background-color: #9a905d;
-	}
-
-	input[type='range']::-moz-range-track {
-		width: 100%;
-		height: 4px;
-		background-color: #9a905d;
-		border-radius: 9999px;
-	}
-
-	input[type='range']::-moz-range-thumb {
-		width: 12px;
-		height: 12px;
-		background: white;
-		border: transparent;
-		border-radius: 50%;
-		cursor: pointer;
-	}
-
-	input[type='range']::-webkit-slider-thumb {
-		-webkit-appearance: none;
-		height: 12px;
-		width: 12px;
-		border-radius: 50%;
-		background: #ffffff;
-		cursor: pointer;
-	}
-
-	input[type='range']::-moz-range-thumb {
-		height: 12px;
-		width: 12px;
-		border-radius: 50%;
-		background: #ffffff;
-		cursor: pointer;
-	}
-</style>

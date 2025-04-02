@@ -435,7 +435,7 @@
 </dialog>
 
 {#if $page.url.pathname !== '/immersive'}
-	<div class="dock z-20 bg-transparent pb-3 text-neutral-400 md:hidden">
+	<div class="dock z-20 bg-transparent pb-3 text-neutral-400 sm:hidden">
 		<a href="/" class:active={$page.url.pathname === '/'}>
 			<Home />
 			<span class="dock-label">Home</span>

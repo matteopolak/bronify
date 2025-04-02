@@ -18,6 +18,7 @@
 		Volume2,
 		VolumeX
 	} from '@lucide/svelte';
+	import ProgressBar from './progress-bar.svelte';
 
 	let {
 		maxVolume = 0.5
@@ -26,19 +27,6 @@
 	} = $props();
 
 	let url = $derived(trackThumbnail(player.track.id));
-
-	function onSeekClick(event: MouseEvent) {
-		const progress = event.target as HTMLProgressElement;
-		const value = event.offsetX / progress.offsetWidth;
-
-		player.seek(player.duration * value);
-	}
-
-	function onSeekDrag(event: MouseEvent) {
-		if (event.buttons !== 1) return;
-
-		onSeekClick(event);
-	}
 
 	function onVolumeClick(event: MouseEvent) {
 		const progress = event.target as HTMLProgressElement;
@@ -123,6 +111,8 @@
 				break;
 		}
 	}
+
+	let currentSeconds = $state(player.currentSeconds);
 </script>
 
 <svelte:window
@@ -265,22 +255,13 @@
 		</div>
 
 		<div class="hidden flex-row place-items-center gap-2 lg:flex lg:w-full">
-			<span class="text-xs text-slate-300">
+			<span class="w-6 shrink-0 text-xs text-neutral-400">
 				{formatSeconds(player.currentSeconds)}
 			</span>
-			<button
-				onmousedown={onSeekClick}
-				onmousemove={onSeekDrag}
-				class="flex w-full cursor-pointer"
-				aria-label="Seek"
-			>
-				<progress
-					class="progress h-1.5 w-full"
-					value={player.duration === 0 ? 0 : player.currentSeconds / player.duration}
-					max={1}
-				></progress>
-			</button>
-			<span class="text-xs text-slate-300">
+
+			<ProgressBar bind:currentSeconds />
+
+			<span class="w-6 shrink-0 text-xs text-neutral-400">
 				{formatSeconds(player.duration)}
 			</span>
 		</div>
@@ -302,37 +283,4 @@
 	</div>
 </div>
 
-<button
-	onmousedown={onSeekClick}
-	onmousemove={onSeekDrag}
-	class="flex w-full cursor-pointer"
-	aria-label="Seek"
->
-	<progress
-		class="progress square-progress h-2 w-full !rounded-none lg:hidden"
-		value={player.duration === 0 ? 0 : player.currentSeconds / player.duration}
-		max={1}
-	></progress>
-</button>
-
-<style>
-	.square-progress::-webkit-progress-bar {
-		border-bottom-left-radius: 0;
-		border-top-left-radius: 0;
-	}
-
-	.square-progress::-webkit-progress-value {
-		border-bottom-left-radius: 0;
-		border-top-left-radius: 0;
-	}
-
-	.square-progress::-moz-progress-bar {
-		border-bottom-left-radius: 0;
-		border-top-left-radius: 0;
-	}
-
-	.square-progress::-moz-progress-value {
-		border-bottom-left-radius: 0;
-		border-top-left-radius: 0;
-	}
-</style>
+<ProgressBar bind:currentSeconds class="lg:hidden" square />
