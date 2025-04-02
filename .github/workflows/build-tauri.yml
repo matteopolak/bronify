@@ -54,8 +54,7 @@ jobs:
           workspaces: './src-tauri -> target'
 
       - name: install frontend dependencies
-        # If you don't have `beforeBuildCommand` configured you may want to build your frontend here too.
-        run: pnpm install # change this to npm or pnpm depending on which one you use.
+        run: pnpm install
 
       - uses: tauri-apps/tauri-action@v0
         id: build
@@ -68,6 +67,44 @@ jobs:
           args: ${{ matrix.args }}
           includeUpdaterJson: false
 
-      # print out json path
-      - name: Print artifact paths
-        run: echo '${{ steps.build.outputs.artifactPaths }}'
+      - name: Remove version from file names
+        id: files
+        run: |
+          # Remove version from file names -> _<version> and -<version> are the two patterns we need to remove.
+          # Also move the files into the `files` folder (make it first)
+          mkdir -p files
+          for file in $(echo '${{ steps.build.outputs.artifactPaths }}' | jq -r '.[]'); do
+            # Get the file name without the path
+            filename=$(basename "$file")
+            # Remove the version from the file name
+            new_filename=$(echo "$filename" | sed -E 's/(_|-)v[0-9]+\.[0-9]+\.[0-9]+//')
+
+            # if it ends in `.app`, zip it up first
+            if [[ "$new_filename" == *.app ]]; then
+              # zip it up
+              zip -r "${new_filename}.zip" "$file"
+              # remove the original file
+              rm -rf "$file"
+              # rename the new file
+              new_filename="${new_filename}.zip"
+            fi
+
+            # Move the file to the files folder
+            mv "$file" "files/$new_filename"
+          done
+          # one per line, print out each file in the `files` folder
+          echo 'FILES<<EOF' >> $GITHUB_OUTPUT
+          for file in $(ls files); do
+            echo "files/$file" >> $GITHUB_OUTPUT
+          done
+          echo 'EOF' >> $GITHUB_OUTPUT
+
+      - uses: ryand56/r2-upload-action@latest
+        if: matrix.platform == 'macos-latest' && matrix.args == '--target aarch64-apple-darwin'
+        with:
+          r2-account-id: ${{ secrets.R2_ACCOUNT_ID }}
+          r2-access-key-id: ${{ secrets.R2_ACCESS_KEY_ID }}
+          r2-secret-access-key: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          r2-bucket: ${{ secrets.R2_BUCKET }}
+          source-dir: ${{ steps.files.outputs.FILES }}
+          destination-dir: ./
