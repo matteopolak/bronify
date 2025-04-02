@@ -8,7 +8,8 @@
 		albumData,
 		artistData,
 		searchLyrics,
-		getArtist
+		getArtist,
+		trackIndex
 	} from '$lib/get';
 	import type { Collection } from '$lib/types';
 	import Scrollable from '$lib/components/scrollable.svelte';
@@ -18,11 +19,6 @@
 
 	import { fade } from 'svelte/transition';
 	import VerticalArtist from '$lib/components/vertical-artist.svelte';
-
-	const trackIndex = new Fuse(trackData, {
-		keys: ['title', 'artist', 'tags', 'username'],
-		threshold: 0.4
-	});
 
 	const trackCountByCategory = new Map<string, number>();
 

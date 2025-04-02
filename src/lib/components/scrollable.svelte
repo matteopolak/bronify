@@ -1,11 +1,11 @@
 <script lang="ts">
 	import { ArrowLeft, ArrowRight } from '@lucide/svelte';
-	import { onDestroy, onMount, type Snippet } from 'svelte';
+	import { type Snippet } from 'svelte';
 
 	let {
 		children,
 		childrenCount,
-		class: klass
+		class: klass = ''
 	}: { children: Snippet; childrenCount: number; class?: string } = $props();
 
 	let container: HTMLDivElement = $state()!;

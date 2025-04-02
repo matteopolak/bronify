@@ -1,18 +1,11 @@
 <script lang="ts">
-	import Fuse from 'fuse.js';
-
 	import Cover from '$lib/components/cover.svelte';
 	import { player } from '$lib/player.svelte';
-	import { searchLyrics, trackData } from '$lib/get';
+	import { searchLyrics, trackData, trackIndex } from '$lib/get';
 	import Scrollable from '$lib/components/scrollable.svelte';
 	import VerticalCover from '$lib/components/vertical-cover.svelte';
 	import { debounce } from '$lib/util';
 	import { fade } from 'svelte/transition';
-
-	const trackIndex = new Fuse(trackData, {
-		keys: ['title', 'artist', 'tags', 'username'],
-		threshold: 0.4
-	});
 
 	let search = $state('');
 	let rawSearch = $state('');
@@ -63,7 +56,7 @@
 	<div class="p-3">
 		<h1 class="p-2 text-2xl font-bold text-neutral-100">Matching lyrics</h1>
 
-		<Scrollable class="gap-0">
+		<Scrollable class="gap-0" childrenCount={tracksLyrics.length}>
 			{#each tracksLyrics as track (track.id)}
 				<div transition:fade={{ duration: 300 }}>
 					<VerticalCover

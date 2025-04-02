@@ -7,6 +7,7 @@ import categoryData from '$lib/content/tags.json';
 
 // word -> TrackIndex[]
 import lyricsIndex from '$lib/content/lyrics_index.json';
+import Fuse from 'fuse.js';
 
 export function searchLyrics(text: string) {
 	// lowercase, split by spaces, remove non-[a-z] characters
@@ -182,5 +183,15 @@ export function trackAudio(id: string): string {
 	if (!value) console.error(`Track audio not found for ${id}`);
 	return value?.default ?? '';
 }
+
+const betterTrackData = trackData.map((track) => ({
+	...track,
+	artistFull: getArtist(track.artist)
+}));
+
+export const trackIndex = new Fuse(betterTrackData, {
+	keys: ['title', 'artistFull.username', 'artistFull.display_name', 'tags', 'username'],
+	threshold: 0.4
+});
 
 export { trackData, artistData, albumData, categoryData };
