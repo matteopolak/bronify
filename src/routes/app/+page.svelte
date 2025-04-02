@@ -22,8 +22,8 @@
 		windows: ['Bronify_x64_en-US.msi', 'Bronify_x64-setup.exe'],
 		linux: ['bronify.x86_64.rpm', 'bronify_amd64.AppImage', 'bronify_amd64.deb'],
 		macos: [],
-		macos_arm: ['Bronify_aarch64.dmg', 'Bronify_aarch64.app.tar.gz'],
-		macos_intel: ['Bronify_x64.dmg', 'Bronify_x64.app.tar.gz']
+		macos_arm: ['Bronify_aarch64.dmg', 'Bronify_aarch64.app.zip'],
+		macos_intel: ['Bronify_x64.dmg', 'Bronify_x64.app.zip']
 	};
 
 	FILES_BY_PLATFORM.macos = [...FILES_BY_PLATFORM.macos_arm, ...FILES_BY_PLATFORM.macos_intel];
