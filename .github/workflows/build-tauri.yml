@@ -147,6 +147,16 @@ jobs:
             echo "EOF" >> $GITHUB_OUTPUT
           fi
 
+      - name: Rename Mac zip
+        if: matrix.platform == 'macos-latest' && matrix.args == '--target aarch64-apple-darwin'
+        run: |
+          mv files/Bronify.app.zip files/Bronify_aarch64.app.zip
+
+      - name: Rename Mac zip
+        if: matrix.platform == 'macos-latest' && matrix.args == '--target x86_64-apple-darwin'
+        run: |
+          mv files/Bronify.app.zip files/Bronify_x86_64.app.zip
+
       - uses: ryand56/r2-upload-action@latest
         with:
           r2-account-id: ${{ secrets.R2_ACCOUNT_ID }}
