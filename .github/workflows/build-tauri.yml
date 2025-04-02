@@ -67,7 +67,8 @@ jobs:
           args: ${{ matrix.args }}
           includeUpdaterJson: false
 
-      - name: Remove version from file names
+      - name: Remove version from file names (non-Windows)
+        if: matrix.platform != 'windows-latest'
         id: files
         run: |
           # Remove version from file names -> _<version> and -<version> are the two patterns we need to remove.
@@ -96,6 +97,37 @@ jobs:
             echo "files/$file" >> $GITHUB_OUTPUT
           done
           echo 'EOF' >> $GITHUB_OUTPUT
+
+      - name: Remove version from file names (Windows)
+        if: matrix.platform == 'windows-latest'
+        id: files
+        shell: pwsh
+        run: |
+          # Remove version from file names -> _<version> and -<version> are the two patterns we need to remove.
+          # Also move the files into the `files` folder (make it first)
+          mkdir -p files
+          $files = ${{ steps.build.outputs.artifactPaths }} | ConvertFrom-Json
+          foreach ($file in $files) {
+            # Get the file name without the path
+            $filename = [System.IO.Path]::GetFileName($file)
+            # Remove the version from the file name
+            $new_filename = $filename -replace '(_|-)v[0-9]+\.[0-9]+\.[0-9]+', ''
+
+            # if it ends in `.app`, zip it up first
+            if ($new_filename.EndsWith('.app')) {
+              # zip it up
+              Compress-Archive -Path $file -DestinationPath "files/$new_filename.zip"
+              # remove the original file
+              Remove-Item $file
+            } else {
+              # move the file to the `files` folder
+              Move-Item $file "files/$new_filename"
+            }
+          }
+          # one per line, print out each file in the `files` folder
+          Write-Output 'FILES<<EOF' >> $GITHUB_OUTPUT
+          Get-ChildItem files | ForEach-Object { Write-Output "files/$($_.Name)" } >> $GITHUB_OUTPUT
+          Write-Output 'EOF' >> $GITHUB_OUTPUT
 
       - uses: ryand56/r2-upload-action@latest
         if: matrix.platform == 'macos-latest' && matrix.args == '--target aarch64-apple-darwin'
