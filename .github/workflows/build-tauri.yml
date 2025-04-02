@@ -69,7 +69,7 @@ jobs:
 
       - name: Remove version from file names (non-Windows)
         if: matrix.platform != 'windows-latest'
-        id: files
+        id: files_unix
         run: |
           # Remove version from file names -> _<version> and -<version> are the two patterns we need to remove.
           # Also move the files into the `files` folder (make it first)
@@ -100,7 +100,7 @@ jobs:
 
       - name: Remove version from file names (Windows)
         if: matrix.platform == 'windows-latest'
-        id: files
+        id: files_win
         shell: pwsh
         run: |
           # Remove version from file names -> _<version> and -<version> are the two patterns we need to remove.
@@ -128,6 +128,20 @@ jobs:
           Write-Output 'FILES<<EOF' >> $GITHUB_OUTPUT
           Get-ChildItem files | ForEach-Object { Write-Output "files/$($_.Name)" } >> $GITHUB_OUTPUT
           Write-Output 'EOF' >> $GITHUB_OUTPUT
+
+
+      - name: Unify outputs
+        id: files
+        run: |
+          if [[ "${{ matrix.platform }}" == "windows-latest" ]]; then
+            echo "FILES<<EOF" >> $GITHUB_OUTPUT
+            echo "${{ steps.files_win.outputs.FILES }}" >> $GITHUB_OUTPUT
+            echo "EOF" >> $GITHUB_OUTPUT
+          else
+            echo "FILES<<EOF" >> $GITHUB_OUTPUT
+            echo "${{ steps.files_unix.outputs.FILES }}" >> $GITHUB_OUTPUT
+            echo "EOF" >> $GITHUB_OUTPUT
+          fi
 
       - uses: ryand56/r2-upload-action@latest
         if: matrix.platform == 'macos-latest' && matrix.args == '--target aarch64-apple-darwin'
