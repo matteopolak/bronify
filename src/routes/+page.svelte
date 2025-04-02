@@ -54,7 +54,7 @@
 	}));
 
 	const albumIndex = new Fuse(betterAlbumData, {
-		keys: ['title', 'artistFull.id', 'artistFull.display_name'],
+		keys: ['title', 'artistFull.username', 'artistFull.display_name'],
 		threshold: 0.4
 	});
 

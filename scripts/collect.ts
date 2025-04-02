@@ -109,15 +109,9 @@ async function main() {
 			continue;
 		}
 
-		out.push({
-			id,
-			artist: username,
-			title: title,
-			durationSeconds: song.duration,
-			tags: []
-		});
+		let artistId = artists.find((artist) => artist.username === username)?.id;
 
-		if (!artists.some((artist) => artist.username === username)) {
+		if (!id) {
 			const url = await rl.question(
 				`What is the avatar url for https://tiktok.com/@${encodeURIComponent(tiktok)} `
 			);
@@ -136,7 +130,17 @@ async function main() {
 				username,
 				tiktok
 			});
+
+			artistId = id;
 		}
+
+		out.push({
+			id,
+			artist: artistId,
+			title: title,
+			durationSeconds: song.duration,
+			tags: []
+		});
 
 		// download audio and put it in "src/lib/content/tracks/{id}/audio.mp3"
 		const audioPath = `src/lib/content/tracks/${id}/audio.mp3`;

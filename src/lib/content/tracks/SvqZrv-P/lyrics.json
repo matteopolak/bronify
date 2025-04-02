@@ -1,0 +1,482 @@
+[
+	{
+		"words": [
+			{
+				"text": "you ",
+				"start": 6.84,
+				"end": 7.22,
+				"index": 0
+			},
+			{
+				"text": "run ",
+				"start": 7.22,
+				"end": 7.46,
+				"index": 1
+			},
+			{
+				"text": "the ",
+				"start": 7.46,
+				"end": 7.64,
+				"index": 2
+			},
+			{
+				"text": "court, ",
+				"start": 7.64,
+				"end": 7.98,
+				"index": 3
+			},
+			{
+				"text": "and ",
+				"start": 8.32,
+				"end": 9,
+				"index": 4
+			},
+			{
+				"text": "that's ",
+				"start": 9,
+				"end": 9.3,
+				"index": 5
+			},
+			{
+				"text": "for ",
+				"start": 9.3,
+				"end": 9.4,
+				"index": 6
+			},
+			{
+				"text": "sure ",
+				"start": 9.4,
+				"end": 9.76,
+				"index": 7
+			},
+			{
+				"text": "you're ",
+				"start": 9.76,
+				"end": 10.76,
+				"index": 8
+			},
+			{
+				"text": "turnin' ",
+				"start": 10.76,
+				"end": 11.24,
+				"index": 9
+			},
+			{
+				"text": "heads ",
+				"start": 11.24,
+				"end": 11.46,
+				"index": 10
+			},
+			{
+				"text": "when ",
+				"start": 11.46,
+				"end": 11.88,
+				"index": 11
+			},
+			{
+				"text": "you ",
+				"start": 11.88,
+				"end": 12.04,
+				"index": 12
+			},
+			{
+				"text": "slam ",
+				"start": 12.04,
+				"end": 12.36,
+				"index": 13
+			},
+			{
+				"text": "the ",
+				"start": 12.36,
+				"end": 12.74,
+				"index": 14
+			},
+			{
+				"text": "backboard ",
+				"start": 12.74,
+				"end": 13.32,
+				"index": 15
+			},
+			{
+				"text": "don't ",
+				"start": 13.32,
+				"end": 14.28,
+				"index": 16
+			},
+			{
+				"text": "need ",
+				"start": 14.28,
+				"end": 14.48,
+				"index": 17
+			},
+			{
+				"text": "Luka, ",
+				"start": 14.48,
+				"end": 14.78,
+				"index": 18
+			},
+			{
+				"text": "but ",
+				"start": 15.16,
+				"end": 16,
+				"index": 19
+			},
+			{
+				"text": "he ",
+				"start": 16,
+				"end": 16.12,
+				"index": 20
+			},
+			{
+				"text": "needs ",
+				"start": 16.12,
+				"end": 16.5,
+				"index": 21
+			},
+			{
+				"text": "ya ",
+				"start": 16.5,
+				"end": 16.7,
+				"index": 22
+			},
+			{
+				"text": "playin' ",
+				"start": 16.7,
+				"end": 18.04,
+				"index": 23
+			},
+			{
+				"text": "the ",
+				"start": 18.04,
+				"end": 18.12,
+				"index": 24
+			},
+			{
+				"text": "way ",
+				"start": 18.12,
+				"end": 18.52,
+				"index": 25
+			},
+			{
+				"text": "you ",
+				"start": 18.52,
+				"end": 18.84,
+				"index": 26
+			},
+			{
+				"text": "do's ",
+				"start": 18.84,
+				"end": 19.1,
+				"index": 27
+			},
+			{
+				"text": "more ",
+				"start": 19.1,
+				"end": 19.36,
+				"index": 28
+			},
+			{
+				"text": "than ",
+				"start": 19.36,
+				"end": 19.72,
+				"index": 29
+			},
+			{
+				"text": "enough ",
+				"start": 19.72,
+				"end": 20.12,
+				"index": 30
+			},
+			{
+				"text": "nobody ",
+				"start": 20.12,
+				"end": 21.86,
+				"index": 31
+			},
+			{
+				"text": "else ",
+				"start": 21.86,
+				"end": 22.96,
+				"index": 32
+			},
+			{
+				"text": "in ",
+				"start": 22.96,
+				"end": 23.28,
+				"index": 33
+			},
+			{
+				"text": "the ",
+				"start": 23.28,
+				"end": 23.36,
+				"index": 34
+			},
+			{
+				"text": "world ",
+				"start": 23.36,
+				"end": 23.8,
+				"index": 35
+			},
+			{
+				"text": "can ",
+				"start": 23.8,
+				"end": 24.06,
+				"index": 36
+			},
+			{
+				"text": "beat ",
+				"start": 24.06,
+				"end": 24.38,
+				"index": 37
+			},
+			{
+				"text": "ya ",
+				"start": 24.38,
+				"end": 24.7,
+				"index": 38
+			},
+			{
+				"text": "nobody ",
+				"start": 24.7,
+				"end": 25.56,
+				"index": 39
+			},
+			{
+				"text": "else ",
+				"start": 25.56,
+				"end": 26.36,
+				"index": 40
+			},
+			{
+				"text": "like ",
+				"start": 26.36,
+				"end": 26.86,
+				"index": 41
+			},
+			{
+				"text": "ya ",
+				"start": 26.86,
+				"end": 27.2,
+				"index": 42
+			},
+			{
+				"text": "LeBron ",
+				"start": 27.2,
+				"end": 28.48,
+				"index": 43
+			},
+			{
+				"text": "you ",
+				"start": 28.48,
+				"end": 28.66,
+				"index": 44
+			},
+			{
+				"text": "light ",
+				"start": 28.66,
+				"end": 28.92,
+				"index": 45
+			},
+			{
+				"text": "up ",
+				"start": 28.92,
+				"end": 29.28,
+				"index": 46
+			},
+			{
+				"text": "the ",
+				"start": 29.28,
+				"end": 29.5,
+				"index": 47
+			},
+			{
+				"text": "court ",
+				"start": 29.5,
+				"end": 29.82,
+				"index": 48
+			},
+			{
+				"text": "every ",
+				"start": 29.82,
+				"end": 30.26,
+				"index": 49
+			},
+			{
+				"text": "time ",
+				"start": 30.26,
+				"end": 30.66,
+				"index": 50
+			},
+			{
+				"text": "you ",
+				"start": 30.66,
+				"end": 31.08,
+				"index": 51
+			},
+			{
+				"text": "dunk ",
+				"start": 31.08,
+				"end": 31.36,
+				"index": 52
+			},
+			{
+				"text": "the ",
+				"start": 31.36,
+				"end": 31.64,
+				"index": 53
+			},
+			{
+				"text": "way ",
+				"start": 31.64,
+				"end": 31.96,
+				"index": 54
+			},
+			{
+				"text": "that ",
+				"start": 31.96,
+				"end": 32.16,
+				"index": 55
+			},
+			{
+				"text": "you ",
+				"start": 32.16,
+				"end": 32.3,
+				"index": 56
+			},
+			{
+				"text": "pull ",
+				"start": 32.3,
+				"end": 32.74,
+				"index": 57
+			},
+			{
+				"text": "the ",
+				"start": 32.74,
+				"end": 32.96,
+				"index": 58
+			},
+			{
+				"text": "three ",
+				"start": 32.96,
+				"end": 33.24,
+				"index": 59
+			},
+			{
+				"text": "makes ",
+				"start": 33.24,
+				"end": 33.64,
+				"index": 60
+			},
+			{
+				"text": "me ",
+				"start": 33.64,
+				"end": 33.84,
+				"index": 61
+			},
+			{
+				"text": "wanna ",
+				"start": 33.84,
+				"end": 34.26,
+				"index": 62
+			},
+			{
+				"text": "jump ",
+				"start": 34.26,
+				"end": 34.84,
+				"index": 63
+			},
+			{
+				"text": "and ",
+				"start": 34.84,
+				"end": 35.16,
+				"index": 64
+			},
+			{
+				"text": "throw ",
+				"start": 35.16,
+				"end": 35.4,
+				"index": 65
+			},
+			{
+				"text": "my ",
+				"start": 35.4,
+				"end": 35.62,
+				"index": 66
+			},
+			{
+				"text": "hands ",
+				"start": 35.62,
+				"end": 35.98,
+				"index": 67
+			},
+			{
+				"text": "in ",
+				"start": 35.98,
+				"end": 36.28,
+				"index": 68
+			},
+			{
+				"text": "the ",
+				"start": 36.28,
+				"end": 36.48,
+				"index": 69
+			},
+			{
+				"text": "air ",
+				"start": 36.48,
+				"end": 36.84,
+				"index": 70
+			},
+			{
+				"text": "for ",
+				"start": 36.84,
+				"end": 37.06,
+				"index": 71
+			},
+			{
+				"text": "the ",
+				"start": 37.06,
+				"end": 37.34,
+				"index": 72
+			},
+			{
+				"text": "chosen ",
+				"start": 37.34,
+				"end": 37.8,
+				"index": 73
+			},
+			{
+				"text": "one ",
+				"start": 37.8,
+				"end": 38.36,
+				"index": 74
+			},
+			{
+				"text": "you're ",
+				"start": 38.36,
+				"end": 38.76,
+				"index": 75
+			},
+			{
+				"text": "LeBron, ",
+				"start": 38.76,
+				"end": 39.64,
+				"index": 76
+			},
+			{
+				"text": "party ",
+				"start": 39.64,
+				"end": 40.14,
+				"index": 77
+			},
+			{
+				"text": "champion",
+				"start": 41.64,
+				"end": 42.06,
+				"index": 78
+			}
+		],
+		"start": -1,
+		"end": 41.06
+	}
+]

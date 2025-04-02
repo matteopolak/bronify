@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { albumThumbnail, getArtist } from '$lib/get';
+	import { albumThumbnail, getArtist, getArtistDisplayName } from '$lib/get';
 	import type { Album } from '$lib/types';
 
 	let { album }: { album: Album } = $props();
@@ -21,6 +21,8 @@
 
 	<div class="flex flex-col">
 		<h2 class="text-base">{album.title}</h2>
-		<p class="text-sm text-neutral-300">{artist?.display_name ?? album.artist}</p>
+		<p class="text-sm text-neutral-300">
+			{getArtistDisplayName(artist ?? { username: album.artist })}
+		</p>
 	</div>
 </a>
