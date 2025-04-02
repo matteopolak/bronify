@@ -746,43 +746,31 @@
 	{
 		"words": [
 			{
-				"text": "Since",
+				"text": "Since ",
 				"start": 0,
 				"end": 0.38,
 				"index": 112
-			}
-		],
-		"start": 52.26,
-		"end": 52.64
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Bush ",
-				"start": 0,
-				"end": 0.4,
+				"start": 0.38,
+				"end": 0.78,
 				"index": 113
 			},
 			{
-				"text": "invaded",
-				"start": 0.4,
-				"end": 0.86,
+				"text": "invaded ",
+				"start": 0.78,
+				"end": 1.24,
 				"index": 114
-			}
-		],
-		"start": 52.64,
-		"end": 53.5
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Iraq",
-				"start": 0,
-				"end": 0.98,
+				"start": 1.24,
+				"end": 2.22,
 				"index": 115
 			}
 		],
-		"start": 53.5,
+		"start": 52.26,
 		"end": 54.48
 	},
 	{

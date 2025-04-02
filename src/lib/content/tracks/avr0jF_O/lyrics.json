@@ -1,0 +1,674 @@
+[
+	{
+		"words": [
+			{
+				"text": "One ",
+				"start": 0,
+				"end": 0.12,
+				"index": 0
+			},
+			{
+				"text": "new ",
+				"start": 0.12,
+				"end": 0.38,
+				"index": 1
+			},
+			{
+				"text": "trend ",
+				"start": 0.38,
+				"end": 0.64,
+				"index": 2
+			},
+			{
+				"text": "going ",
+				"start": 0.64,
+				"end": 0.82,
+				"index": 3
+			},
+			{
+				"text": "on, ",
+				"start": 0.82,
+				"end": 1.18,
+				"index": 4
+			},
+			{
+				"text": "all ",
+				"start": 1.24,
+				"end": 1.62,
+				"index": 5
+			},
+			{
+				"text": "those ",
+				"start": 1.62,
+				"end": 1.8,
+				"index": 6
+			},
+			{
+				"text": "LeBron ",
+				"start": 1.8,
+				"end": 2.14,
+				"index": 7
+			},
+			{
+				"text": "songs. ",
+				"start": 2.14,
+				"end": 2.42,
+				"index": 8
+			},
+			{
+				"text": "I'm ",
+				"start": 2.72,
+				"end": 2.88,
+				"index": 9
+			},
+			{
+				"text": "just ",
+				"start": 2.88,
+				"end": 2.98,
+				"index": 10
+			},
+			{
+				"text": "curious ",
+				"start": 2.98,
+				"end": 3.3,
+				"index": 11
+			},
+			{
+				"text": "if ",
+				"start": 3.3,
+				"end": 3.5,
+				"index": 12
+			},
+			{
+				"text": "you've ",
+				"start": 3.5,
+				"end": 3.74,
+				"index": 13
+			},
+			{
+				"text": "seen ",
+				"start": 3.74,
+				"end": 3.92,
+				"index": 14
+			},
+			{
+				"text": "them",
+				"start": 3.92,
+				"end": 4.14,
+				"index": 15
+			}
+		],
+		"start": 0,
+		"end": 4.14
+	},
+	{
+		"words": [
+			{
+				"text": "Yeah, ",
+				"start": 0,
+				"end": 0.36,
+				"index": 16
+			},
+			{
+				"text": "I ",
+				"start": 0.4,
+				"end": 0.5,
+				"index": 17
+			},
+			{
+				"text": "mean, ",
+				"start": 0.5,
+				"end": 0.72,
+				"index": 18
+			},
+			{
+				"text": "it's ",
+				"start": 0.8,
+				"end": 0.9,
+				"index": 19
+			},
+			{
+				"text": "almost ",
+				"start": 0.9,
+				"end": 1.14,
+				"index": 20
+			},
+			{
+				"text": "impossible",
+				"start": 1.14,
+				"end": 1.68,
+				"index": 21
+			}
+		],
+		"start": 4.44,
+		"end": 6.12
+	},
+	{
+		"words": [
+			{
+				"text": "But ",
+				"start": 0,
+				"end": 0.22,
+				"index": 22
+			},
+			{
+				"text": "my ",
+				"start": 0.22,
+				"end": 1.36,
+				"index": 23
+			},
+			{
+				"text": "youngest ",
+				"start": 1.36,
+				"end": 2.44,
+				"index": 24
+			},
+			{
+				"text": "son, ",
+				"start": 2.44,
+				"end": 2.62,
+				"index": 25
+			},
+			{
+				"text": "Bryce, ",
+				"start": 2.66,
+				"end": 2.88,
+				"index": 26
+			},
+			{
+				"text": "actually ",
+				"start": 3.04,
+				"end": 3.34,
+				"index": 27
+			},
+			{
+				"text": "showed ",
+				"start": 3.34,
+				"end": 3.6,
+				"index": 28
+			},
+			{
+				"text": "me ",
+				"start": 3.6,
+				"end": 3.74,
+				"index": 29
+			},
+			{
+				"text": "one ",
+				"start": 3.74,
+				"end": 3.92,
+				"index": 30
+			},
+			{
+				"text": "I ",
+				"start": 3.96,
+				"end": 4.06,
+				"index": 31
+			},
+			{
+				"text": "think ",
+				"start": 4.06,
+				"end": 4.22,
+				"index": 32
+			},
+			{
+				"text": "it ",
+				"start": 4.22,
+				"end": 4.28,
+				"index": 33
+			},
+			{
+				"text": "was ",
+				"start": 4.28,
+				"end": 4.4,
+				"index": 34
+			},
+			{
+				"text": "yesterday",
+				"start": 4.4,
+				"end": 4.72,
+				"index": 35
+			}
+		],
+		"start": 6.2,
+		"end": 10.92
+	},
+	{
+		"words": [
+			{
+				"text": "Yeah, ",
+				"start": 0,
+				"end": 0.36,
+				"index": 36
+			},
+			{
+				"text": "it ",
+				"start": 0.36,
+				"end": 0.42,
+				"index": 37
+			},
+			{
+				"text": "was ",
+				"start": 0.42,
+				"end": 0.48,
+				"index": 38
+			},
+			{
+				"text": "yesterday",
+				"start": 0.48,
+				"end": 0.8,
+				"index": 39
+			}
+		],
+		"start": 11.36,
+		"end": 12.16
+	},
+	{
+		"words": [
+			{
+				"text": "And ",
+				"start": 0,
+				"end": 0.36,
+				"index": 40
+			},
+			{
+				"text": "we ",
+				"start": 0.36,
+				"end": 0.82,
+				"index": 41
+			},
+			{
+				"text": "got ",
+				"start": 0.82,
+				"end": 0.98,
+				"index": 42
+			},
+			{
+				"text": "a ",
+				"start": 0.98,
+				"end": 1.08,
+				"index": 43
+			},
+			{
+				"text": "good ",
+				"start": 1.08,
+				"end": 1.2,
+				"index": 44
+			},
+			{
+				"text": "laugh ",
+				"start": 1.2,
+				"end": 1.46,
+				"index": 45
+			},
+			{
+				"text": "out ",
+				"start": 1.46,
+				"end": 1.64,
+				"index": 46
+			},
+			{
+				"text": "of ",
+				"start": 1.64,
+				"end": 1.78,
+				"index": 47
+			},
+			{
+				"text": "it",
+				"start": 1.78,
+				"end": 1.94,
+				"index": 48
+			}
+		],
+		"start": 12.74,
+		"end": 14.68
+	},
+	{
+		"words": [
+			{
+				"text": "But ",
+				"start": 0,
+				"end": 0.12,
+				"index": 49
+			},
+			{
+				"text": "there's ",
+				"start": 0.12,
+				"end": 0.44,
+				"index": 50
+			},
+			{
+				"text": "quite ",
+				"start": 0.44,
+				"end": 0.9,
+				"index": 51
+			},
+			{
+				"text": "a ",
+				"start": 0.9,
+				"end": 1.14,
+				"index": 52
+			},
+			{
+				"text": "few ",
+				"start": 1.14,
+				"end": 1.28,
+				"index": 53
+			},
+			{
+				"text": "out ",
+				"start": 1.28,
+				"end": 1.44,
+				"index": 54
+			},
+			{
+				"text": "there, ",
+				"start": 1.44,
+				"end": 1.68,
+				"index": 55
+			},
+			{
+				"text": "you ",
+				"start": 1.78,
+				"end": 2.06,
+				"index": 56
+			},
+			{
+				"text": "know, ",
+				"start": 2.06,
+				"end": 2.22,
+				"index": 57
+			},
+			{
+				"text": "for ",
+				"start": 2.24,
+				"end": 2.32,
+				"index": 58
+			},
+			{
+				"text": "sure",
+				"start": 2.32,
+				"end": 2.54,
+				"index": 59
+			}
+		],
+		"start": 14.72,
+		"end": 17.26
+	},
+	{
+		"words": [
+			{
+				"text": "Was ",
+				"start": 0,
+				"end": 0.16,
+				"index": 60
+			},
+			{
+				"text": "it ",
+				"start": 0.16,
+				"end": 0.26,
+				"index": 61
+			},
+			{
+				"text": "the ",
+				"start": 0.26,
+				"end": 0.36,
+				"index": 62
+			},
+			{
+				"text": "choir?",
+				"start": 0.36,
+				"end": 0.58,
+				"index": 63
+			}
+		],
+		"start": 17.56,
+		"end": 18.14
+	},
+	{
+		"words": [
+			{
+				"text": "No, ",
+				"start": 0,
+				"end": 0.36,
+				"index": 64
+			},
+			{
+				"text": "it ",
+				"start": 0.4,
+				"end": 0.48,
+				"index": 65
+			},
+			{
+				"text": "wasn't ",
+				"start": 0.48,
+				"end": 0.78,
+				"index": 66
+			},
+			{
+				"text": "the ",
+				"start": 0.78,
+				"end": 0.84,
+				"index": 67
+			},
+			{
+				"text": "Baylor ",
+				"start": 0.84,
+				"end": 1.14,
+				"index": 68
+			},
+			{
+				"text": "Choir. ",
+				"start": 1.14,
+				"end": 1.4,
+				"index": 69
+			},
+			{
+				"text": "I ",
+				"start": 1.48,
+				"end": 1.56,
+				"index": 70
+			},
+			{
+				"text": "seen ",
+				"start": 1.56,
+				"end": 1.74,
+				"index": 71
+			},
+			{
+				"text": "that ",
+				"start": 1.74,
+				"end": 1.92,
+				"index": 72
+			},
+			{
+				"text": "one",
+				"start": 1.92,
+				"end": 2.12,
+				"index": 73
+			}
+		],
+		"start": 18.76,
+		"end": 20.88
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.36,
+				"index": 74
+			},
+			{
+				"text": "saw ",
+				"start": 0.36,
+				"end": 0.78,
+				"index": 75
+			},
+			{
+				"text": "that ",
+				"start": 0.78,
+				"end": 0.96,
+				"index": 76
+			},
+			{
+				"text": "one ",
+				"start": 0.96,
+				"end": 1.14,
+				"index": 77
+			},
+			{
+				"text": "I ",
+				"start": 1.2,
+				"end": 1.52,
+				"index": 78
+			},
+			{
+				"text": "don't ",
+				"start": 1.52,
+				"end": 2.82,
+				"index": 79
+			},
+			{
+				"text": "know ",
+				"start": 2.82,
+				"end": 2.88,
+				"index": 80
+			},
+			{
+				"text": "which ",
+				"start": 2.88,
+				"end": 3.06,
+				"index": 81
+			},
+			{
+				"text": "one ",
+				"start": 3.06,
+				"end": 3.22,
+				"index": 82
+			},
+			{
+				"text": "in ",
+				"start": 3.22,
+				"end": 3.4,
+				"index": 83
+			},
+			{
+				"text": "particular ",
+				"start": 3.4,
+				"end": 3.96,
+				"index": 84
+			},
+			{
+				"text": "it ",
+				"start": 3.96,
+				"end": 4.22,
+				"index": 85
+			},
+			{
+				"text": "was, ",
+				"start": 4.22,
+				"end": 4.5,
+				"index": 86
+			},
+			{
+				"text": "but ",
+				"start": 4.64,
+				"end": 5.88,
+				"index": 87
+			},
+			{
+				"text": "my ",
+				"start": 5.88,
+				"end": 6.38,
+				"index": 88
+			},
+			{
+				"text": "son ",
+				"start": 6.38,
+				"end": 6.8,
+				"index": 89
+			},
+			{
+				"text": "and ",
+				"start": 6.8,
+				"end": 7.02,
+				"index": 90
+			},
+			{
+				"text": "they ",
+				"start": 7.02,
+				"end": 7.14,
+				"index": 91
+			},
+			{
+				"text": "all ",
+				"start": 7.14,
+				"end": 7.28,
+				"index": 92
+			},
+			{
+				"text": "on ",
+				"start": 7.28,
+				"end": 7.48,
+				"index": 93
+			},
+			{
+				"text": "TikTok ",
+				"start": 7.48,
+				"end": 7.94,
+				"index": 94
+			},
+			{
+				"text": "I'm ",
+				"start": 7.94,
+				"end": 8.36,
+				"index": 95
+			},
+			{
+				"text": "not ",
+				"start": 8.36,
+				"end": 8.48,
+				"index": 96
+			},
+			{
+				"text": "on ",
+				"start": 8.48,
+				"end": 8.94,
+				"index": 97
+			},
+			{
+				"text": "TikTok, ",
+				"start": 8.94,
+				"end": 9.22,
+				"index": 98
+			},
+			{
+				"text": "so ",
+				"start": 9.4,
+				"end": 9.46,
+				"index": 99
+			},
+			{
+				"text": "they ",
+				"start": 9.46,
+				"end": 9.64,
+				"index": 100
+			},
+			{
+				"text": "showed ",
+				"start": 9.64,
+				"end": 10.7,
+				"index": 101
+			},
+			{
+				"text": "me",
+				"start": 10.7,
+				"end": 11.04,
+				"index": 102
+			}
+		],
+		"start": 21.34,
+		"end": 32.38
+	}
+]

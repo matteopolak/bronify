@@ -698,25 +698,19 @@
 				"index": 108
 			},
 			{
-				"text": "the",
+				"text": "the ",
 				"start": 1.12,
 				"end": 1.28,
 				"index": 109
-			}
-		],
-		"start": 30.86,
-		"end": 32.14
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Cali",
-				"start": 0,
-				"end": 0.66,
+				"start": 1.28,
+				"end": 1.94,
 				"index": 110
 			}
 		],
-		"start": 32.14,
+		"start": 30.86,
 		"end": 32.8
 	},
 	{
