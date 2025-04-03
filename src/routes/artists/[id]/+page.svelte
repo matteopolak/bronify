@@ -2,10 +2,12 @@
 	import { afterNavigate } from '$app/navigation';
 	import { page } from '$app/stores';
 	import Collection from '$lib/components/collection.svelte';
-	import { artistThumbnail, getArtist, getArtistDisplayName, trackData } from '$lib/get';
+	import { artistData, artistThumbnail, getArtistDisplayName, trackData } from '$lib/get';
 	import { player } from '$lib/player.svelte';
 
-	let artist = $derived(getArtist($page.params.id));
+	let artist = $derived(
+		artistData.find((s) => s.username === $page.params.id || s.display_name === $page.params.id)!
+	);
 	let tracks = $derived(trackData.filter((s) => s.artist === artist.id));
 
 	$effect(() => {
