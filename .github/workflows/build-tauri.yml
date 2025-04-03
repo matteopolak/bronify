@@ -145,10 +145,21 @@ jobs:
           Write-Output 'EOF' >> $GITHUB_OUTPUT
 
       - uses: ryand56/r2-upload-action@latest
+        if: matrix.platform != 'windows-latest'
         with:
           r2-account-id: ${{ secrets.R2_ACCOUNT_ID }}
           r2-access-key-id: ${{ secrets.R2_ACCESS_KEY_ID }}
           r2-secret-access-key: ${{ secrets.R2_SECRET_ACCESS_KEY }}
           r2-bucket: ${{ secrets.R2_BUCKET }}
-          source-dir: ${{ steps.files_unix.outputs.FILES || steps.files_win.outputs.FILES }}
+          source-dir: ${{ steps.files_unix.outputs.FILES }}
+          destination-dir: ./
+
+      - uses: ryand56/r2-upload-action@latest
+        if: matrix.platform == 'windows-latest'
+        with:
+          r2-account-id: ${{ secrets.R2_ACCOUNT_ID }}
+          r2-access-key-id: ${{ secrets.R2_ACCESS_KEY_ID }}
+          r2-secret-access-key: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          r2-bucket: ${{ secrets.R2_BUCKET }}
+          source-dir: ${{ steps.files_win.outputs.FILES }}
           destination-dir: ./
