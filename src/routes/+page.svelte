@@ -19,6 +19,7 @@
 
 	import { fade } from 'svelte/transition';
 	import VerticalArtist from '$lib/components/vertical-artist.svelte';
+	import Footer from '$lib/components/footer.svelte';
 
 	const trackCountByCategory = new Map<string, number>();
 
@@ -257,3 +258,5 @@
 		{/if}
 	</div>
 </div>
+
+<Footer />

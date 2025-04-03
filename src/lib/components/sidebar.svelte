@@ -118,7 +118,7 @@
 			{#each artists as artist (artist.id)}
 				<CollectionCover
 					content={{
-						id: artist.id,
+						id: getArtistDisplayName(artist),
 						title: getArtistDisplayName(artist),
 						subtitle: 'Artist',
 						cover: artistThumbnail(artist.id),

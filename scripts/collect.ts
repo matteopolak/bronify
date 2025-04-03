@@ -90,9 +90,29 @@ async function main() {
 			'--audio-quality',
 			'0',
 			'--output',
-			'./temp.mp3',
+			'./temp1.mp3',
 			link
 		]);
+
+		execFileSync(
+			'uv',
+			[
+				'run',
+				'ffmpeg-normalize',
+				'./temp1.mp3',
+				'-o',
+				`./temp.mp3`,
+				'-c:a',
+				'libmp3lame',
+				'-b:a',
+				'192k'
+			],
+			{
+				cwd: 'scripts'
+			}
+		);
+
+		fs.unlinkSync('./temp1.mp3');
 
 		// read
 		const audio = fs.readFileSync('./temp.mp3');

@@ -10,20 +10,6 @@ for (const track of tracks) {
 	// old id
 	const id = track.id;
 
-	console.log(
-		[
-			'run',
-			'ffmpeg-normalize',
-			`../src/lib/content/tracks/${id}/audio.mp3`,
-			'-o',
-			`../src/lib/content/tracks/${id}/audio-normalized.mp3`,
-			'-c:a',
-			'libmp3lame',
-			'-b:a',
-			'192k'
-		].join(' ')
-	);
-
 	// normalize audio
 	execFileSync(
 		'uv',
@@ -34,7 +20,7 @@ for (const track of tracks) {
 			'-o',
 			`../src/lib/content/tracks/${id}/audio-normalized.mp3`,
 			'-c:a',
-			'aac',
+			'libmp3lame',
 			'-b:a',
 			'192k'
 		],
@@ -68,7 +54,7 @@ for (const track of tracks) {
 const albums = JSON.parse(fs.readFileSync('src/lib/content/albums.json', 'utf-8'));
 
 for (const album of albums) {
-	album.tracks = album.tracks.map((track: string) => {
+	album.trackIds = album.trackIds.map((track: string) => {
 		return oldToNewId[track] ?? track;
 	});
 }
