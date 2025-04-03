@@ -3,6 +3,7 @@ import fs from 'node:fs';
 import crypto from 'node:crypto';
 import path from 'node:path';
 import { execFileSync } from 'node:child_process';
+import ffmpeg from 'fluent-ffmpeg';
 
 import sharp from 'sharp';
 import axios from 'axios';
@@ -30,8 +31,7 @@ async function main() {
 	const links = fs
 		.readFileSync('links.txt', 'utf-8')
 		.split('\n')
-		.map((line) => line.trim())
-		.filter((line) => line.length > 0);
+		.map((line) => line.trim());
 
 	const rl = readline.createInterface({
 		input: process.stdin,
@@ -44,10 +44,34 @@ async function main() {
 
 	const seenVideos = new Set();
 
-	for (const link of links) {
+	for (let i = 0; i < links.length; i++) {
+		try {
+			fs.rmdirSync('temp', { recursive: true });
+		} catch (e) {
+			/* ignore */
+		}
+
+		fs.mkdirSync('temp', { recursive: true });
+
+		let link = links[i];
+		const isPart = link.startsWith('part ');
+
+		if (isPart) {
+			link = link.slice(5).trim();
+		}
+
+		if (!link) {
+			continue;
+		}
+
 		if (link === '//') {
 			console.log('found breaker, ending');
 			break;
+		}
+
+		if (link.startsWith('//')) {
+			console.log('found comment, skipping');
+			continue;
 		}
 
 		const info = runYtdlpSync(['-j', link]);
@@ -77,31 +101,68 @@ async function main() {
 			continue;
 		}
 
+		// if starts with `part `, process all audio and merge it together
+		if (isPart) {
+			const paths = [] as string[];
+
+			for (let j = i; j < links.length; j++) {
+				let partLink = links[j];
+				console.log('checking ', partLink);
+
+				if (partLink.startsWith('part ')) {
+					partLink = partLink.slice(5).trim();
+				}
+
+				if (!partLink) {
+					continue;
+				}
+
+				runYtdlpSync([
+					'--extract-audio',
+					'--audio-format',
+					'mp3',
+					'--audio-quality',
+					'0',
+					'--output',
+					`./temp/temp_${j}.mp3`,
+					partLink
+				]);
+
+				paths.push(`./temp/temp_${j}.mp3`);
+
+				i = j;
+			}
+
+			console.log(`Merging ${paths} audio files`);
+
+			mergeMp3Sync(paths, `./temp/temp1.mp3`);
+		} else {
+			runYtdlpSync([
+				'--extract-audio',
+				'--audio-format',
+				'mp3',
+				'--audio-quality',
+				'0',
+				'--output',
+				'./temp/temp1.mp3',
+				link
+			]);
+		}
+
 		try {
-			fs.unlinkSync('./temp.mp3');
+			fs.unlinkSync('temp/temp.mp3');
 		} catch (e) {
 			/* ignore */
 		}
-
-		runYtdlpSync([
-			'--extract-audio',
-			'--audio-format',
-			'mp3',
-			'--audio-quality',
-			'0',
-			'--output',
-			'./temp1.mp3',
-			link
-		]);
 
 		execFileSync(
 			'uv',
 			[
 				'run',
 				'ffmpeg-normalize',
-				'./temp1.mp3',
+				'../temp/temp1.mp3',
 				'-o',
-				`./temp.mp3`,
+				`../temp/temp.mp3`,
 				'-c:a',
 				'libmp3lame',
 				'-b:a',
@@ -112,10 +173,8 @@ async function main() {
 			}
 		);
 
-		fs.unlinkSync('./temp1.mp3');
-
 		// read
-		const audio = fs.readFileSync('./temp.mp3');
+		const audio = fs.readFileSync('temp/temp.mp3');
 
 		// generate hash audio
 		const hash = crypto.createHash('sha256');
@@ -131,7 +190,7 @@ async function main() {
 
 		let artistId = artists.find((artist) => artist.username === username)?.id;
 
-		if (!id) {
+		if (!artistId) {
 			const url = await rl.question(
 				`What is the avatar url for https://tiktok.com/@${encodeURIComponent(tiktok)} `
 			);
@@ -169,7 +228,7 @@ async function main() {
 			fs.mkdirSync(audioDir, { recursive: true });
 		}
 		if (!fs.existsSync(audioPath)) {
-			fs.copyFileSync('./temp.mp3', audioPath);
+			fs.copyFileSync('temp/temp.mp3', audioPath);
 		} else {
 			console.log(`Audio already downloaded for ${id}`);
 		}
@@ -190,7 +249,7 @@ async function main() {
 	fs.writeFileSync(path.join(root, 'tracks.json'), JSON.stringify(out, null, '\t'));
 	fs.writeFileSync(path.join(root, 'artists.json'), JSON.stringify(artists, null, '\t'));
 	try {
-		fs.unlinkSync('./temp.mp3');
+		//fs.unlinkSync('./temp.mp3');
 	} catch (e) {
 		/* ignore */
 	}
@@ -206,6 +265,18 @@ function runYtdlpSync(options: string[]) {
 	});
 
 	return result.toString();
+}
+
+function mergeMp3Sync(paths: string[], output: string) {
+	const result = execFileSync('ffmpeg', [
+		'-i',
+		`concat:${paths.join('|')}`,
+		'-acodec',
+		'copy',
+		output
+	]);
+
+	return result;
 }
 
 main();

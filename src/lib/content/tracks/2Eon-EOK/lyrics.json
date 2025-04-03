@@ -1,0 +1,284 @@
+[
+	{
+		"words": [
+			{
+				"text": "aight ",
+				"start": 1,
+				"end": 1.34,
+				"index": 0
+			},
+			{
+				"text": "can ",
+				"start": 1.34,
+				"end": 1.72,
+				"index": 1
+			},
+			{
+				"text": "i ",
+				"start": 1.72,
+				"end": 2,
+				"index": 2
+			},
+			{
+				"text": "tell ",
+				"start": 2,
+				"end": 2.16,
+				"index": 3
+			},
+			{
+				"text": "you ",
+				"start": 2.16,
+				"end": 2.28,
+				"index": 4
+			},
+			{
+				"text": "a ",
+				"start": 2.28,
+				"end": 2.36,
+				"index": 5
+			},
+			{
+				"text": "little ",
+				"start": 2.36,
+				"end": 2.54,
+				"index": 6
+			},
+			{
+				"text": "bruh? ",
+				"start": 2.54,
+				"end": 2.78,
+				"index": 7
+			},
+			{
+				"text": "sweet ",
+				"start": 4.04,
+				"end": 4.56,
+				"index": 8
+			},
+			{
+				"text": "bruh ",
+				"start": 4.56,
+				"end": 5.08,
+				"index": 9
+			},
+			{
+				"text": "yes, ",
+				"start": 5.08,
+				"end": 5.78,
+				"index": 10
+			},
+			{
+				"text": "he's ",
+				"start": 7.44,
+				"end": 8.02,
+				"index": 11
+			},
+			{
+				"text": "the ",
+				"start": 8.02,
+				"end": 8.14,
+				"index": 12
+			},
+			{
+				"text": "GOAT ",
+				"start": 8.14,
+				"end": 8.68,
+				"index": 13
+			},
+			{
+				"text": "the ",
+				"start": 8.68,
+				"end": 9.5,
+				"index": 14
+			},
+			{
+				"text": "only ",
+				"start": 9.5,
+				"end": 10.06,
+				"index": 15
+			},
+			{
+				"text": "one ",
+				"start": 10.06,
+				"end": 10.56,
+				"index": 16
+			},
+			{
+				"text": "i ",
+				"start": 10.56,
+				"end": 10.98,
+				"index": 17
+			},
+			{
+				"text": "know ",
+				"start": 10.98,
+				"end": 11.22,
+				"index": 18
+			},
+			{
+				"text": "like ",
+				"start": 11.22,
+				"end": 11.72,
+				"index": 19
+			},
+			{
+				"text": "it's ",
+				"start": 27.6,
+				"end": 27.84,
+				"index": 20
+			},
+			{
+				"text": "finna ",
+				"start": 27.84,
+				"end": 28.12,
+				"index": 21
+			},
+			{
+				"text": "waste ",
+				"start": 28.12,
+				"end": 28.42,
+				"index": 22
+			},
+			{
+				"text": "watchin' ",
+				"start": 31.1,
+				"end": 31.72,
+				"index": 23
+			},
+			{
+				"text": "bruh ",
+				"start": 31.72,
+				"end": 31.88,
+				"index": 24
+			},
+			{
+				"text": "dance ",
+				"start": 31.88,
+				"end": 32.04,
+				"index": 25
+			},
+			{
+				"text": "with ",
+				"start": 32.04,
+				"end": 32.22,
+				"index": 26
+			},
+			{
+				"text": "my ",
+				"start": 32.22,
+				"end": 32.36,
+				"index": 27
+			},
+			{
+				"text": "friends, ",
+				"start": 32.36,
+				"end": 32.76,
+				"index": 28
+			},
+			{
+				"text": "do ",
+				"start": 32.88,
+				"end": 32.96,
+				"index": 29
+			},
+			{
+				"text": "that ",
+				"start": 32.96,
+				"end": 33.16,
+				"index": 30
+			},
+			{
+				"text": "all ",
+				"start": 33.16,
+				"end": 33.52,
+				"index": 31
+			},
+			{
+				"text": "the ",
+				"start": 33.52,
+				"end": 33.66,
+				"index": 32
+			},
+			{
+				"text": "time, ",
+				"start": 33.66,
+				"end": 34.36,
+				"index": 33
+			},
+			{
+				"text": "for ",
+				"start": 34.64,
+				"end": 34.88,
+				"index": 34
+			},
+			{
+				"text": "the ",
+				"start": 34.88,
+				"end": 35.1,
+				"index": 35
+			},
+			{
+				"text": "time ",
+				"start": 35.1,
+				"end": 35.4,
+				"index": 36
+			},
+			{
+				"text": "she's ",
+				"start": 35.4,
+				"end": 36.16,
+				"index": 37
+			},
+			{
+				"text": "way ",
+				"start": 41.67,
+				"end": 41.79,
+				"index": 38
+			},
+			{
+				"text": "too ",
+				"start": 41.79,
+				"end": 41.95,
+				"index": 39
+			},
+			{
+				"text": "amazing ",
+				"start": 41.95,
+				"end": 42.47,
+				"index": 40
+			},
+			{
+				"text": "yes ",
+				"start": 42.99,
+				"end": 43.25,
+				"index": 41
+			},
+			{
+				"text": "i'm ",
+				"start": 49.2,
+				"end": 49.46,
+				"index": 42
+			},
+			{
+				"text": "talkin' ",
+				"start": 49.46,
+				"end": 49.66,
+				"index": 43
+			},
+			{
+				"text": "bout",
+				"start": 49.7,
+				"end": 49.86,
+				"index": 44
+			},
+			{
+				"text": "-",
+				"start": 49.86,
+				"end": 49.94,
+				"index": 45
+			}
+		],
+		"start": -1,
+		"end": 48.94
+	}
+]
