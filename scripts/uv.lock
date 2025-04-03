@@ -83,6 +83,7 @@ name = "bronify"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
+    { name = "ffmpeg-normalize" },
     { name = "librosa" },
     { name = "pandas" },
     { name = "tensorflow" },
@@ -91,6 +92,7 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
+    { name = "ffmpeg-normalize", specifier = ">=1.31.2" },
     { name = "librosa", specifier = ">=0.11.0" },
     { name = "pandas", specifier = ">=2.2.3" },
     { name = "tensorflow", specifier = ">=2.19.0" },
@@ -225,12 +227,57 @@ wheels = [
 ]
 
 [[package]]
+name = "colorama"
+version = "0.4.6"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/d8/53/6f443c9a4a8358a93a6792e2acffb9d9d5cb0a5cfd8802644b7b1c9a02e4/colorama-0.4.6.tar.gz", hash = "sha256:08695f5cb7ed6e0531a20572697297273c47b8cae5a63ffc6d6ed5c201be6e44", size = 27697 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/d1/d6/3965ed04c63042e047cb6a3e6ed1a63a35087b6a609aa3a15ed8ac56c221/colorama-0.4.6-py2.py3-none-any.whl", hash = "sha256:4f1d9991f5acc0ca119f9d443620b77f9d6b33703e51011c16baf57afb285fc6", size = 25335 },
+]
+
+[[package]]
+name = "colorlog"
+version = "6.9.0"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "colorama", marker = "sys_platform == 'win32'" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/d3/7a/359f4d5df2353f26172b3cc39ea32daa39af8de522205f512f458923e677/colorlog-6.9.0.tar.gz", hash = "sha256:bfba54a1b93b94f54e1f4fe48395725a3d92fd2a4af702f6bd70946bdc0c6ac2", size = 16624 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/e3/51/9b208e85196941db2f0654ad0357ca6388ab3ed67efdbfc799f35d1f83aa/colorlog-6.9.0-py3-none-any.whl", hash = "sha256:5906e71acd67cb07a71e779c47c4bcb45fb8c2993eebe9e5adcd6a6f1b283eff", size = 11424 },
+]
+
+[[package]]
 name = "decorator"
 version = "5.2.1"
 source = { registry = "https://pypi.org/simple" }
 sdist = { url = "https://files.pythonhosted.org/packages/43/fa/6d96a0978d19e17b68d634497769987b16c8f4cd0a7a05048bec693caa6b/decorator-5.2.1.tar.gz", hash = "sha256:65f266143752f734b0a7cc83c46f4618af75b8c5911b00ccb61d0ac9b6da0360", size = 56711 }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/4e/8c/f3147f5c4b73e7550fe5f9352eaa956ae838d5c51eb58e7a25b9f3e2643b/decorator-5.2.1-py3-none-any.whl", hash = "sha256:d316bb415a2d9e2d2b3abcc4084c6502fc09240e292cd76a76afc106a1c8e04a", size = 9190 },
+]
+
+[[package]]
+name = "ffmpeg-normalize"
+version = "1.31.2"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "colorama", marker = "platform_system == 'Windows'" },
+    { name = "colorlog" },
+    { name = "ffmpeg-progress-yield" },
+    { name = "tqdm" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/38/0c/4fc5bb7412003fab69ea98d5eeb762ab2f7c7e61350f91f16916e79d239d/ffmpeg_normalize-1.31.2.tar.gz", hash = "sha256:44fd580c1a0966ef5d196bacb33f78e90719d4a6057e618c161d9cccc5da0925", size = 1992199 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/6d/95/da5abb3feb73a5459a7b9cebf6499f51372b88c9df772e67d20e7b3e592a/ffmpeg_normalize-1.31.2-py2.py3-none-any.whl", hash = "sha256:764df305d6ebecd3b49155e5bd8b183db61e29c836830b165c6b3154f2211e49", size = 42906 },
+]
+
+[[package]]
+name = "ffmpeg-progress-yield"
+version = "0.12.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/07/77/b986b1e354d79f471c4440e249a399465a0a74bd07ed3e0b609a21a509ab/ffmpeg_progress_yield-0.12.0.tar.gz", hash = "sha256:8d531fcaf8b87f3ff00cb84a71e0dd4c6e67038f2678268b85b8d4175968bc27", size = 50437 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/b4/d5/848a86811868068d85e5fa38dae11e83ac96c04b041c6ea2abd759d24f85/ffmpeg_progress_yield-0.12.0-py2.py3-none-any.whl", hash = "sha256:24ba6b1c7a678baf423c4984ea9df498a142ed552ac5fed9ea62c8e7b2c02c7f", size = 12080 },
 ]
 
 [[package]]
@@ -1299,6 +1346,18 @@ source = { registry = "https://pypi.org/simple" }
 sdist = { url = "https://files.pythonhosted.org/packages/b7/4d/08c89e34946fce2aec4fbb45c9016efd5f4d7f24af8e5d93296e935631d8/threadpoolctl-3.6.0.tar.gz", hash = "sha256:8ab8b4aa3491d812b623328249fab5302a68d2d71745c8a4c719a2fcaba9f44e", size = 21274 }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/32/d5/f9a850d79b0851d1d4ef6456097579a9005b31fea68726a4ae5f2d82ddd9/threadpoolctl-3.6.0-py3-none-any.whl", hash = "sha256:43a0b8fd5a2928500110039e43a5eed8480b918967083ea48dc3ab9f13c4a7fb", size = 18638 },
+]
+
+[[package]]
+name = "tqdm"
+version = "4.67.1"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "colorama", marker = "platform_system == 'Windows'" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/a8/4b/29b4ef32e036bb34e4ab51796dd745cdba7ed47ad142a9f4a1eb8e0c744d/tqdm-4.67.1.tar.gz", hash = "sha256:f8aef9c52c08c13a65f30ea34f4e5aac3fd1a34959879d7e59e63027286627f2", size = 169737 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/d0/30/dc54f88dd4a2b5dc8a0279bdd7270e735851848b762aeb1c1184ed1f6b14/tqdm-4.67.1-py3-none-any.whl", hash = "sha256:26445eca388f82e72884e0d580d5464cd801a3ea01e63e5601bdff9ba6a48de2", size = 78540 },
 ]
 
 [[package]]
