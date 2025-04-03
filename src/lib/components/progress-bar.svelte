@@ -80,6 +80,15 @@
 		background: transparent;
 	}
 
+	input[type='range']::-webkit-slider-runnable-track {
+		@apply h-1 w-full rounded-full bg-neutral-700;
+	}
+
+	input[type='range']::-webkit-slider-thumb {
+		@apply h-2 w-2 cursor-pointer appearance-none rounded-full border-transparent bg-white;
+		margin-top: -2px; /* offset the thumb a bit higher */
+	}
+
 	input[type='range']::-moz-range-track {
 		@apply h-1 w-full rounded-full bg-neutral-700;
 	}
