@@ -144,24 +144,11 @@ jobs:
           Get-ChildItem files | ForEach-Object { Write-Output "files/$($_.Name)" } >> $GITHUB_OUTPUT
           Write-Output 'EOF' >> $GITHUB_OUTPUT
 
-      - name: Unify outputs
-        id: files
-        run: |
-          if [[ "${{ matrix.platform }}" == "windows-latest" ]]; then
-            echo "FILES<<EOF" >> $GITHUB_OUTPUT
-            echo "${{ steps.files_win.outputs.FILES }}" >> $GITHUB_OUTPUT
-            echo "EOF" >> $GITHUB_OUTPUT
-          else
-            echo "FILES<<EOF" >> $GITHUB_OUTPUT
-            echo "${{ steps.files_unix.outputs.FILES }}" >> $GITHUB_OUTPUT
-            echo "EOF" >> $GITHUB_OUTPUT
-          fi
-
       - uses: ryand56/r2-upload-action@latest
         with:
           r2-account-id: ${{ secrets.R2_ACCOUNT_ID }}
           r2-access-key-id: ${{ secrets.R2_ACCESS_KEY_ID }}
           r2-secret-access-key: ${{ secrets.R2_SECRET_ACCESS_KEY }}
           r2-bucket: ${{ secrets.R2_BUCKET }}
-          source-dir: ${{ steps.files.outputs.FILES }}
+          source-dir: ${{ steps.files_unix.outputs.FILES || steps.files_win.outputs.FILES }}
           destination-dir: ./
