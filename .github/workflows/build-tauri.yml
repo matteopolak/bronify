@@ -93,17 +93,16 @@ jobs:
             else
               # move the file to the `files` folder
               mv "$file" "files/$new_filename"
-            fi
           done
 
           if [[ "${{ matrix.platform }}" == "macos-latest" && "${{ matrix.args }}" == "--target aarch64-apple-darwin" ]]; then
             # for macos, we need to move the files into the `files` folder
-            mv files/Bronify.app files/Bronify_aarch64.app
+            mv files/Bronify.app.zip files/Bronify_aarch64.app.zip
           fi
 
           if [[ "${{ matrix.platform }}" == "macos-latest" && "${{ matrix.args }}" == "--target x86_64-apple-darwin" ]]; then
             # for macos, we need to move the files into the `files` folder
-            mv files/Bronify.app files/Bronify_x86_64.app
+            mv files/Bronify.app.zip files/Bronify_x86_64.app.zip
           fi
 
           # one per line, print out each file in the `files` folder
