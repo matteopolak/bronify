@@ -1,0 +1,332 @@
+[
+	{
+		"words": [
+			{
+				"text": "Yeah, ",
+				"start": 0,
+				"end": 0.52,
+				"index": 0
+			},
+			{
+				"text": "yeah, ",
+				"start": 0.52,
+				"end": 0.62,
+				"index": 1
+			},
+			{
+				"text": "yeah, ",
+				"start": 0.62,
+				"end": 0.96,
+				"index": 2
+			},
+			{
+				"text": "yeah",
+				"start": 0.96,
+				"end": 4.04,
+				"index": 3
+			}
+		],
+		"start": 3.41,
+		"end": 7.45
+	},
+	{
+		"words": [
+			{
+				"text": "That's the ",
+				"start": 0,
+				"end": 0.52,
+				"index": 4
+			},
+			{
+				"text": "way ",
+				"start": 0.52,
+				"end": 0.8,
+				"index": 5
+			},
+			{
+				"text": "how ",
+				"start": 0.8,
+				"end": 1.06,
+				"index": 6
+			},
+			{
+				"text": "LeBron ",
+				"start": 1.06,
+				"end": 1.48,
+				"index": 7
+			},
+			{
+				"text": "moves, ",
+				"start": 1.48,
+				"end": 2.1,
+				"index": 8
+			},
+			{
+				"text": "he's a ",
+				"start": 2.1,
+				"end": 2.56,
+				"index": 9
+			},
+			{
+				"text": "gold ",
+				"start": 2.56,
+				"end": 2.9,
+				"index": 10
+			},
+			{
+				"text": "and ",
+				"start": 2.9,
+				"end": 3.16,
+				"index": 11
+			},
+			{
+				"text": "there's ",
+				"start": 3.16,
+				"end": 3.36,
+				"index": 12
+			},
+			{
+				"text": "no ",
+				"start": 3.36,
+				"end": 3.4,
+				"index": 13
+			},
+			{
+				"text": "debate ",
+				"start": 3.4,
+				"end": 3.7,
+				"index": 14
+			},
+			{
+				"text": "I ",
+				"start": 3.7,
+				"end": 4.42,
+				"index": 15
+			},
+			{
+				"text": "can ",
+				"start": 4.42,
+				"end": 4.58,
+				"index": 16
+			},
+			{
+				"text": "tell ",
+				"start": 4.58,
+				"end": 4.9,
+				"index": 17
+			},
+			{
+				"text": "that ",
+				"start": 4.9,
+				"end": 5.16,
+				"index": 18
+			},
+			{
+				"text": "you ",
+				"start": 5.16,
+				"end": 5.28,
+				"index": 19
+			},
+			{
+				"text": "hate ",
+				"start": 5.28,
+				"end": 5.64,
+				"index": 20
+			},
+			{
+				"text": "him ",
+				"start": 5.64,
+				"end": 5.9,
+				"index": 21
+			},
+			{
+				"text": "just ",
+				"start": 5.9,
+				"end": 6.46,
+				"index": 22
+			},
+			{
+				"text": "because ",
+				"start": 6.46,
+				"end": 6.78,
+				"index": 23
+			},
+			{
+				"text": "he's ",
+				"start": 6.78,
+				"end": 7.12,
+				"index": 24
+			},
+			{
+				"text": "on ",
+				"start": 7.12,
+				"end": 7.2,
+				"index": 25
+			},
+			{
+				"text": "the ",
+				"start": 7.2,
+				"end": 7.36,
+				"index": 26
+			},
+			{
+				"text": "black ",
+				"start": 7.36,
+				"end": 7.6,
+				"index": 27
+			},
+			{
+				"text": "and ",
+				"start": 7.6,
+				"end": 7.74,
+				"index": 28
+			},
+			{
+				"text": "yellow",
+				"start": 7.74,
+				"end": 7.96,
+				"index": 29
+			}
+		],
+		"start": 8.89,
+		"end": 16.85
+	},
+	{
+		"words": [
+			{
+				"text": "It's ",
+				"start": 0,
+				"end": 0.5,
+				"index": 30
+			},
+			{
+				"text": "the ",
+				"start": 0.5,
+				"end": 0.54,
+				"index": 31
+			},
+			{
+				"text": "same ",
+				"start": 0.54,
+				"end": 0.86,
+				"index": 32
+			},
+			{
+				"text": "thing ",
+				"start": 0.86,
+				"end": 1.18,
+				"index": 33
+			},
+			{
+				"text": "every ",
+				"start": 1.18,
+				"end": 1.56,
+				"index": 34
+			},
+			{
+				"text": "year",
+				"start": 1.56,
+				"end": 1.86,
+				"index": 35
+			}
+		],
+		"start": 17.05,
+		"end": 18.91
+	},
+	{
+		"words": [
+			{
+				"text": "We ",
+				"start": 0,
+				"end": 0.52,
+				"index": 36
+			},
+			{
+				"text": "know ",
+				"start": 0.52,
+				"end": 0.72,
+				"index": 37
+			},
+			{
+				"text": "he ",
+				"start": 0.72,
+				"end": 0.9,
+				"index": 38
+			},
+			{
+				"text": "should ",
+				"start": 0.9,
+				"end": 1.04,
+				"index": 39
+			},
+			{
+				"text": "be ",
+				"start": 1.04,
+				"end": 1.16,
+				"index": 40
+			},
+			{
+				"text": "in ",
+				"start": 1.16,
+				"end": 1.34,
+				"index": 41
+			},
+			{
+				"text": "finals, ",
+				"start": 1.34,
+				"end": 1.82,
+				"index": 42
+			},
+			{
+				"text": "we ",
+				"start": 2.24,
+				"end": 2.56,
+				"index": 43
+			},
+			{
+				"text": "know ",
+				"start": 2.56,
+				"end": 2.78,
+				"index": 44
+			},
+			{
+				"text": "he ",
+				"start": 2.78,
+				"end": 2.96,
+				"index": 45
+			},
+			{
+				"text": "should ",
+				"start": 2.96,
+				"end": 3.1,
+				"index": 46
+			},
+			{
+				"text": "get ",
+				"start": 3.1,
+				"end": 3.32,
+				"index": 47
+			},
+			{
+				"text": "a ",
+				"start": 3.32,
+				"end": 3.46,
+				"index": 48
+			},
+			{
+				"text": "new ",
+				"start": 3.46,
+				"end": 3.6,
+				"index": 49
+			},
+			{
+				"text": "ring",
+				"start": 3.6,
+				"end": 3.94,
+				"index": 50
+			}
+		],
+		"start": 20.99,
+		"end": 24.93
+	}
+]

@@ -44,7 +44,7 @@
 				"index": 6
 			},
 			{
-				"text": "world.",
+				"text": "world",
 				"start": 3.62,
 				"end": 4.08,
 				"index": 7
@@ -92,7 +92,7 @@
 				"index": 12
 			},
 			{
-				"text": "statement.",
+				"text": "statement",
 				"start": 1.68,
 				"end": 2.38,
 				"index": 13
@@ -110,7 +110,7 @@
 				"index": 14
 			},
 			{
-				"text": "James.",
+				"text": "James",
 				"start": 0.6,
 				"end": 1.1,
 				"index": 15
@@ -146,7 +146,7 @@
 				"index": 19
 			},
 			{
-				"text": "heart.",
+				"text": "heart",
 				"start": 2.04,
 				"end": 2.56,
 				"index": 20
@@ -200,7 +200,7 @@
 				"index": 27
 			},
 			{
-				"text": "him.",
+				"text": "him",
 				"start": 2.24,
 				"end": 2.74,
 				"index": 28
@@ -272,7 +272,7 @@
 				"index": 37
 			},
 			{
-				"text": "man.",
+				"text": "man",
 				"start": 2.32,
 				"end": 2.54,
 				"index": 38
@@ -380,7 +380,7 @@
 				"index": 54
 			},
 			{
-				"text": "rough.",
+				"text": "rough",
 				"start": 3.44,
 				"end": 3.76,
 				"index": 55
@@ -494,7 +494,7 @@
 				"index": 71
 			},
 			{
-				"text": "crazy.",
+				"text": "crazy",
 				"start": 2.76,
 				"end": 3.12,
 				"index": 72
@@ -524,7 +524,7 @@
 				"index": 75
 			},
 			{
-				"text": "man.",
+				"text": "man",
 				"start": 0.82,
 				"end": 0.98,
 				"index": 76
@@ -644,7 +644,7 @@
 				"index": 93
 			},
 			{
-				"text": "GOAT.",
+				"text": "GOAT",
 				"start": 2.24,
 				"end": 2.58,
 				"index": 94
@@ -662,7 +662,7 @@
 				"index": 95
 			},
 			{
-				"text": "James.",
+				"text": "James",
 				"start": 0.44,
 				"end": 0.68,
 				"index": 96
@@ -680,7 +680,7 @@
 				"index": 97
 			},
 			{
-				"text": "GOAT.",
+				"text": "GOAT",
 				"start": 0.22,
 				"end": 0.56,
 				"index": 98
@@ -698,7 +698,7 @@
 				"index": 99
 			},
 			{
-				"text": "James.",
+				"text": "James",
 				"start": 0.44,
 				"end": 0.68,
 				"index": 100
@@ -716,7 +716,7 @@
 				"index": 101
 			},
 			{
-				"text": "GOAT.",
+				"text": "GOAT",
 				"start": 0.14,
 				"end": 0.62,
 				"index": 102
@@ -806,7 +806,7 @@
 				"index": 114
 			},
 			{
-				"text": "GOAT.",
+				"text": "GOAT",
 				"start": 2.1,
 				"end": 2.48,
 				"index": 115
@@ -824,7 +824,7 @@
 				"index": 116
 			},
 			{
-				"text": "James.",
+				"text": "James",
 				"start": 0.44,
 				"end": 0.9,
 				"index": 117
@@ -842,7 +842,7 @@
 				"index": 118
 			},
 			{
-				"text": "GOAT.",
+				"text": "GOAT",
 				"start": 0.16,
 				"end": 0.6,
 				"index": 119
@@ -860,7 +860,7 @@
 				"index": 120
 			},
 			{
-				"text": "James.",
+				"text": "James",
 				"start": 0.44,
 				"end": 0.86,
 				"index": 121
@@ -878,7 +878,7 @@
 				"index": 122
 			},
 			{
-				"text": "GOAT.",
+				"text": "GOAT",
 				"start": 0.16,
 				"end": 0.62,
 				"index": 123
@@ -968,7 +968,7 @@
 				"index": 135
 			},
 			{
-				"text": "GOAT.",
+				"text": "GOAT",
 				"start": 2.3,
 				"end": 2.86,
 				"index": 136
@@ -980,7 +980,7 @@
 	{
 		"words": [
 			{
-				"text": "GOAT.",
+				"text": "GOAT",
 				"start": 0,
 				"end": 0.44,
 				"index": 137
