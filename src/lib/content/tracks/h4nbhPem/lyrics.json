@@ -158,31 +158,25 @@
 	{
 		"words": [
 			{
-				"text": "LeBron",
+				"text": "LeBron ",
 				"start": 0,
 				"end": 1,
 				"index": 24
-			}
-		],
-		"start": 22.45,
-		"end": 23.45
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Washington, ",
-				"start": 0,
-				"end": 0.62,
+				"start": 1,
+				"end": 1.62,
 				"index": 25
 			},
 			{
 				"text": "JR",
-				"start": 1,
-				"end": 2.96,
+				"start": 2,
+				"end": 3.96,
 				"index": 26
 			}
 		],
-		"start": 23.45,
+		"start": 22.45,
 		"end": 26.41
 	},
 	{
@@ -302,103 +296,97 @@
 				"index": 42
 			},
 			{
-				"text": "to",
+				"text": "to ",
 				"start": 0.9,
 				"end": 1.2,
 				"index": 43
-			}
-		],
-		"start": 35.89,
-		"end": 37.09
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "China, ",
-				"start": 0,
-				"end": 0.98,
+				"start": 1.2,
+				"end": 2.18,
 				"index": 44
 			},
 			{
 				"text": "you ",
-				"start": 1.34,
-				"end": 2.12,
+				"start": 2.54,
+				"end": 3.32,
 				"index": 45
 			},
 			{
 				"text": "will ",
-				"start": 2.12,
-				"end": 2.6,
+				"start": 3.32,
+				"end": 3.8,
 				"index": 46
 			},
 			{
 				"text": "enjoy ",
-				"start": 2.6,
-				"end": 3.42,
+				"start": 3.8,
+				"end": 4.62,
 				"index": 47
 			},
 			{
 				"text": "it ",
-				"start": 3.42,
-				"end": 4.4,
+				"start": 4.62,
+				"end": 5.6,
 				"index": 48
 			},
 			{
 				"text": "there, ",
-				"start": 4.4,
-				"end": 4.78,
+				"start": 5.6,
+				"end": 5.98,
 				"index": 49
 			},
 			{
 				"text": "cause ",
-				"start": 5.38,
-				"end": 5.64,
+				"start": 6.58,
+				"end": 6.84,
 				"index": 50
 			},
 			{
 				"text": "LeBron ",
-				"start": 5.64,
-				"end": 6.08,
+				"start": 6.84,
+				"end": 7.28,
 				"index": 51
 			},
 			{
 				"text": "was ",
-				"start": 6.08,
-				"end": 6.48,
+				"start": 7.28,
+				"end": 7.68,
 				"index": 52
 			},
 			{
 				"text": "wild, ",
-				"start": 6.48,
-				"end": 6.78,
+				"start": 7.68,
+				"end": 7.98,
 				"index": 53
 			},
 			{
 				"text": "old, ",
-				"start": 6.8,
-				"end": 6.98,
+				"start": 8,
+				"end": 8.18,
 				"index": 54
 			},
 			{
 				"text": "brown, ",
-				"start": 7.1,
-				"end": 7.46,
+				"start": 8.3,
+				"end": 8.66,
 				"index": 55
 			},
 			{
 				"text": "now ",
-				"start": 7.94,
-				"end": 8.92,
+				"start": 9.14,
+				"end": 10.12,
 				"index": 56
 			},
 			{
 				"text": "the",
-				"start": 8.92,
-				"end": 9.42,
+				"start": 10.12,
+				"end": 10.62,
 				"index": 57
 			}
 		],
-		"start": 37.09,
+		"start": 35.89,
 		"end": 46.51
 	},
 	{

@@ -1,0 +1,506 @@
+[
+	{
+		"words": [
+			{
+				"text": "it's ",
+				"start": 1.27,
+				"end": 1.81,
+				"index": 0
+			},
+			{
+				"text": "LeBron, ",
+				"start": 1.81,
+				"end": 2.27,
+				"index": 1
+			},
+			{
+				"text": "let's ",
+				"start": 2.45,
+				"end": 2.97,
+				"index": 2
+			},
+			{
+				"text": "not ",
+				"start": 2.97,
+				"end": 3.13,
+				"index": 3
+			},
+			{
+				"text": "talk ",
+				"start": 3.13,
+				"end": 3.43,
+				"index": 4
+			},
+			{
+				"text": "too ",
+				"start": 3.43,
+				"end": 3.67,
+				"index": 5
+			},
+			{
+				"text": "much ",
+				"start": 3.67,
+				"end": 4.13,
+				"index": 6
+			},
+			{
+				"text": "grab ",
+				"start": 4.13,
+				"end": 4.59,
+				"index": 7
+			},
+			{
+				"text": "on ",
+				"start": 4.59,
+				"end": 4.77,
+				"index": 8
+			},
+			{
+				"text": "the ",
+				"start": 4.77,
+				"end": 4.91,
+				"index": 9
+			},
+			{
+				"text": "M ",
+				"start": 4.91,
+				"end": 5.17,
+				"index": 10
+			},
+			{
+				"text": "and ",
+				"start": 5.17,
+				"end": 5.41,
+				"index": 11
+			},
+			{
+				"text": "put ",
+				"start": 5.41,
+				"end": 5.71,
+				"index": 12
+			},
+			{
+				"text": "that ",
+				"start": 5.71,
+				"end": 6.01,
+				"index": 13
+			},
+			{
+				"text": "ball ",
+				"start": 6.01,
+				"end": 6.23,
+				"index": 14
+			},
+			{
+				"text": "in ",
+				"start": 6.23,
+				"end": 6.59,
+				"index": 15
+			},
+			{
+				"text": "it ",
+				"start": 6.59,
+				"end": 6.97,
+				"index": 16
+			},
+			{
+				"text": "come ",
+				"start": 6.97,
+				"end": 7.41,
+				"index": 17
+			},
+			{
+				"text": "on ",
+				"start": 7.41,
+				"end": 7.57,
+				"index": 18
+			},
+			{
+				"text": "now, ",
+				"start": 7.57,
+				"end": 7.79,
+				"index": 19
+			},
+			{
+				"text": "follow ",
+				"start": 7.79,
+				"end": 7.99,
+				"index": 20
+			},
+			{
+				"text": "Bronny ",
+				"start": 7.99,
+				"end": 8.53,
+				"index": 21
+			},
+			{
+				"text": "come ",
+				"start": 8.53,
+				"end": 9.07,
+				"index": 22
+			},
+			{
+				"text": "on ",
+				"start": 9.07,
+				"end": 9.25,
+				"index": 23
+			},
+			{
+				"text": "now, ",
+				"start": 9.25,
+				"end": 9.45,
+				"index": 24
+			},
+			{
+				"text": "follow ",
+				"start": 9.49,
+				"end": 9.73,
+				"index": 25
+			},
+			{
+				"text": "Bronny ",
+				"start": 9.73,
+				"end": 10.49,
+				"index": 26
+			},
+			{
+				"text": "I'm ",
+				"start": 10.49,
+				"end": 12.19,
+				"index": 27
+			},
+			{
+				"text": "in ",
+				"start": 12.19,
+				"end": 12.29,
+				"index": 28
+			},
+			{
+				"text": "love ",
+				"start": 12.29,
+				"end": 12.61,
+				"index": 29
+			},
+			{
+				"text": "with ",
+				"start": 12.61,
+				"end": 12.79,
+				"index": 30
+			},
+			{
+				"text": "the ",
+				"start": 12.79,
+				"end": 12.87,
+				"index": 31
+			},
+			{
+				"text": "way ",
+				"start": 12.87,
+				"end": 13.11,
+				"index": 32
+			},
+			{
+				"text": "you ",
+				"start": 13.11,
+				"end": 13.39,
+				"index": 33
+			},
+			{
+				"text": "shoot ",
+				"start": 13.39,
+				"end": 13.67,
+				"index": 34
+			},
+			{
+				"text": "always ",
+				"start": 13.67,
+				"end": 14.29,
+				"index": 35
+			},
+			{
+				"text": "keep ",
+				"start": 14.29,
+				"end": 14.47,
+				"index": 36
+			},
+			{
+				"text": "it ",
+				"start": 14.47,
+				"end": 14.65,
+				"index": 37
+			},
+			{
+				"text": "real ",
+				"start": 14.65,
+				"end": 14.83,
+				"index": 38
+			},
+			{
+				"text": "like ",
+				"start": 14.83,
+				"end": 15.03,
+				"index": 39
+			},
+			{
+				"text": "the ",
+				"start": 15.03,
+				"end": 15.17,
+				"index": 40
+			},
+			{
+				"text": "legends ",
+				"start": 15.17,
+				"end": 15.55,
+				"index": 41
+			},
+			{
+				"text": "do ",
+				"start": 15.55,
+				"end": 15.93,
+				"index": 42
+			},
+			{
+				"text": "way ",
+				"start": 15.93,
+				"end": 16.83,
+				"index": 43
+			},
+			{
+				"text": "better ",
+				"start": 16.83,
+				"end": 17.09,
+				"index": 44
+			},
+			{
+				"text": "than ",
+				"start": 17.09,
+				"end": 17.37,
+				"index": 45
+			},
+			{
+				"text": "Michael",
+				"start": 17.37,
+				"end": 17.81,
+				"index": 46
+			}
+		],
+		"start": -1,
+		"end": 16.81
+	},
+	{
+		"words": [
+			{
+				"text": "Tone ",
+				"start": 0,
+				"end": 0.6,
+				"index": 47
+			},
+			{
+				"text": "I'm ",
+				"start": 0.6,
+				"end": 1.32,
+				"index": 48
+			},
+			{
+				"text": "in ",
+				"start": 1.32,
+				"end": 1.36,
+				"index": 49
+			},
+			{
+				"text": "love ",
+				"start": 1.36,
+				"end": 1.6,
+				"index": 50
+			},
+			{
+				"text": "with ",
+				"start": 1.6,
+				"end": 1.82,
+				"index": 51
+			},
+			{
+				"text": "you ",
+				"start": 1.82,
+				"end": 1.92,
+				"index": 52
+			},
+			{
+				"text": "Bronny ",
+				"start": 1.92,
+				"end": 2.58,
+				"index": 53
+			},
+			{
+				"text": "you're ",
+				"start": 2.58,
+				"end": 3.64,
+				"index": 54
+			},
+			{
+				"text": "older ",
+				"start": 3.64,
+				"end": 3.86,
+				"index": 55
+			},
+			{
+				"text": "when ",
+				"start": 3.86,
+				"end": 4.06,
+				"index": 56
+			},
+			{
+				"text": "you ",
+				"start": 4.06,
+				"end": 4.18,
+				"index": 57
+			},
+			{
+				"text": "walk ",
+				"start": 4.18,
+				"end": 4.48,
+				"index": 58
+			},
+			{
+				"text": "in ",
+				"start": 4.48,
+				"end": 4.64,
+				"index": 59
+			},
+			{
+				"text": "and ",
+				"start": 4.64,
+				"end": 4.84,
+				"index": 60
+			},
+			{
+				"text": "now ",
+				"start": 4.84,
+				"end": 5.78,
+				"index": 61
+			},
+			{
+				"text": "I ",
+				"start": 5.78,
+				"end": 6.08,
+				"index": 62
+			},
+			{
+				"text": "wanna ",
+				"start": 6.08,
+				"end": 6.38,
+				"index": 63
+			},
+			{
+				"text": "be ",
+				"start": 6.38,
+				"end": 6.58,
+				"index": 64
+			},
+			{
+				"text": "like ",
+				"start": 6.58,
+				"end": 6.96,
+				"index": 65
+			},
+			{
+				"text": "you ",
+				"start": 6.96,
+				"end": 7.22,
+				"index": 66
+			},
+			{
+				"text": "everyday ",
+				"start": 7.22,
+				"end": 7.6,
+				"index": 67
+			},
+			{
+				"text": "discovering ",
+				"start": 7.6,
+				"end": 8.02,
+				"index": 68
+			},
+			{
+				"text": "something ",
+				"start": 8.02,
+				"end": 8.62,
+				"index": 69
+			},
+			{
+				"text": "brand ",
+				"start": 8.62,
+				"end": 9.26,
+				"index": 70
+			},
+			{
+				"text": "new ",
+				"start": 9.26,
+				"end": 9.56,
+				"index": 71
+			},
+			{
+				"text": "I'm ",
+				"start": 9.56,
+				"end": 10.36,
+				"index": 72
+			},
+			{
+				"text": "in ",
+				"start": 10.36,
+				"end": 10.44,
+				"index": 73
+			},
+			{
+				"text": "love ",
+				"start": 10.44,
+				"end": 10.72,
+				"index": 74
+			},
+			{
+				"text": "with ",
+				"start": 10.72,
+				"end": 10.88,
+				"index": 75
+			},
+			{
+				"text": "you ",
+				"start": 10.88,
+				"end": 10.98,
+				"index": 76
+			},
+			{
+				"text": "Bronny",
+				"start": 10.98,
+				"end": 11.62,
+				"index": 77
+			}
+		],
+		"start": 16.81,
+		"end": 28.43
+	},
+	{
+		"words": [
+			{
+				"text": "OOAH",
+				"start": 0,
+				"end": 0.32,
+				"index": 78
+			}
+		],
+		"start": 28.43,
+		"end": 28.75
+	},
+	{
+		"words": [
+			{
+				"text": "OOAH",
+				"start": 0,
+				"end": 0.5,
+				"index": 79
+			}
+		],
+		"start": 28.75,
+		"end": 29.25
+	}
+]

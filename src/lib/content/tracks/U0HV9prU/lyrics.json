@@ -1,0 +1,278 @@
+[
+	{
+		"words": [
+			{
+				"text": "LeBron",
+				"start": 0,
+				"end": 0.62,
+				"index": 0
+			}
+		],
+		"start": 0,
+		"end": 0.62
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron",
+				"start": 0,
+				"end": 1.1,
+				"index": 1
+			}
+		],
+		"start": 1.18,
+		"end": 2.28
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron, ",
+				"start": 0,
+				"end": 1.18,
+				"index": 2
+			},
+			{
+				"text": "I've ",
+				"start": 1.3,
+				"end": 2.06,
+				"index": 3
+			},
+			{
+				"text": "always ",
+				"start": 6.38,
+				"end": 6.68,
+				"index": 4
+			},
+			{
+				"text": "had ",
+				"start": 6.68,
+				"end": 6.98,
+				"index": 5
+			},
+			{
+				"text": "a ",
+				"start": 6.98,
+				"end": 7.22,
+				"index": 6
+			},
+			{
+				"text": "lot, ",
+				"start": 7.22,
+				"end": 7.6,
+				"index": 7
+			},
+			{
+				"text": "he's ",
+				"start": 12.8,
+				"end": 13.26,
+				"index": 8
+			},
+			{
+				"text": "the ",
+				"start": 13.26,
+				"end": 13.34,
+				"index": 9
+			},
+			{
+				"text": "face ",
+				"start": 13.34,
+				"end": 13.66,
+				"index": 10
+			},
+			{
+				"text": "of ",
+				"start": 13.66,
+				"end": 13.82,
+				"index": 11
+			},
+			{
+				"text": "the ",
+				"start": 13.82,
+				"end": 14,
+				"index": 12
+			},
+			{
+				"text": "game, ",
+				"start": 14,
+				"end": 14.34,
+				"index": 13
+			},
+			{
+				"text": "he's ",
+				"start": 14.54,
+				"end": 14.74,
+				"index": 14
+			},
+			{
+				"text": "been ",
+				"start": 14.74,
+				"end": 14.88,
+				"index": 15
+			},
+			{
+				"text": "shinin' ",
+				"start": 14.88,
+				"end": 15.48,
+				"index": 16
+			},
+			{
+				"text": "on, ",
+				"start": 15.48,
+				"end": 15.94,
+				"index": 17
+			},
+			{
+				"text": "with ",
+				"start": 19.22,
+				"end": 19.7,
+				"index": 18
+			},
+			{
+				"text": "every ",
+				"start": 19.7,
+				"end": 20,
+				"index": 19
+			},
+			{
+				"text": "movie, ",
+				"start": 20,
+				"end": 20.42,
+				"index": 20
+			},
+			{
+				"text": "watch ",
+				"start": 26.28,
+				"end": 26.6,
+				"index": 21
+			},
+			{
+				"text": "him ",
+				"start": 26.6,
+				"end": 26.8,
+				"index": 22
+			},
+			{
+				"text": "take ",
+				"start": 26.8,
+				"end": 26.98,
+				"index": 23
+			},
+			{
+				"text": "a ",
+				"start": 26.98,
+				"end": 27.2,
+				"index": 24
+			},
+			{
+				"text": "crank, ",
+				"start": 27.2,
+				"end": 27.58,
+				"index": 25
+			},
+			{
+				"text": "he's the ",
+				"start": 33.52,
+				"end": 33.94,
+				"index": 26
+			},
+			{
+				"text": "king, ",
+				"start": 33.94,
+				"end": 34.28,
+				"index": 27
+			},
+			{
+				"text": "no ",
+				"start": 34.4,
+				"end": 34.66,
+				"index": 28
+			},
+			{
+				"text": "doubt, ",
+				"start": 34.66,
+				"end": 35.1,
+				"index": 29
+			},
+			{
+				"text": "when ",
+				"start": 35.34,
+				"end": 35.54,
+				"index": 30
+			},
+			{
+				"text": "he ",
+				"start": 35.54,
+				"end": 35.72,
+				"index": 31
+			},
+			{
+				"text": "steps ",
+				"start": 35.72,
+				"end": 35.94,
+				"index": 32
+			},
+			{
+				"text": "on ",
+				"start": 35.94,
+				"end": 36.34,
+				"index": 33
+			},
+			{
+				"text": "the ",
+				"start": 36.34,
+				"end": 36.52,
+				"index": 34
+			},
+			{
+				"text": "court, ",
+				"start": 36.52,
+				"end": 36.78,
+				"index": 35
+			},
+			{
+				"text": "it's a ",
+				"start": 37.02,
+				"end": 37.34,
+				"index": 36
+			},
+			{
+				"text": "sold",
+				"start": 37.34,
+				"end": 37.78,
+				"index": 37
+			},
+			{
+				"text": "-out ",
+				"start": 37.78,
+				"end": 38.04,
+				"index": 38
+			},
+			{
+				"text": "crowd, ",
+				"start": 38.04,
+				"end": 38.44,
+				"index": 39
+			},
+			{
+				"text": "yeah ",
+				"start": 38.68,
+				"end": 38.86,
+				"index": 40
+			},
+			{
+				"text": "you ",
+				"start": 38.86,
+				"end": 39.08,
+				"index": 41
+			},
+			{
+				"text": "know",
+				"start": 39.08,
+				"end": 39.32,
+				"index": 42
+			}
+		],
+		"start": 6.16,
+		"end": 45.48
+	}
+]

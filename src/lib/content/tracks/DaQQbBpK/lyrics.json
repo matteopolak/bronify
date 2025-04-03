@@ -1,0 +1,224 @@
+[
+	{
+		"words": [
+			{
+				"text": "what ",
+				"start": 1.4,
+				"end": 1.96,
+				"index": 0
+			},
+			{
+				"text": "will ",
+				"start": 1.96,
+				"end": 2.3,
+				"index": 1
+			},
+			{
+				"text": "i ",
+				"start": 2.3,
+				"end": 2.52,
+				"index": 2
+			},
+			{
+				"text": "do ",
+				"start": 2.52,
+				"end": 2.98,
+				"index": 3
+			},
+			{
+				"text": "when ",
+				"start": 2.98,
+				"end": 3.26,
+				"index": 4
+			},
+			{
+				"text": "twenty",
+				"start": 3.26,
+				"end": 3.66,
+				"index": 5
+			},
+			{
+				"text": "-three ",
+				"start": 3.66,
+				"end": 4.06,
+				"index": 6
+			},
+			{
+				"text": "ain't ",
+				"start": 4.06,
+				"end": 4.44,
+				"index": 7
+			},
+			{
+				"text": "around ",
+				"start": 4.44,
+				"end": 4.7,
+				"index": 8
+			},
+			{
+				"text": "catchin' ",
+				"start": 4.7,
+				"end": 6.24,
+				"index": 9
+			},
+			{
+				"text": "those ",
+				"start": 6.24,
+				"end": 6.44,
+				"index": 10
+			},
+			{
+				"text": "lobs ",
+				"start": 6.44,
+				"end": 7.36,
+				"index": 11
+			},
+			{
+				"text": "and ",
+				"start": 7.36,
+				"end": 7.56,
+				"index": 12
+			},
+			{
+				"text": "throwin' ",
+				"start": 7.56,
+				"end": 8.2,
+				"index": 13
+			},
+			{
+				"text": "em ",
+				"start": 8.2,
+				"end": 8.32,
+				"index": 14
+			},
+			{
+				"text": "down ",
+				"start": 8.32,
+				"end": 8.74,
+				"index": 15
+			},
+			{
+				"text": "he's ",
+				"start": 8.74,
+				"end": 9.48,
+				"index": 16
+			},
+			{
+				"text": "got ",
+				"start": 9.48,
+				"end": 9.6,
+				"index": 17
+			},
+			{
+				"text": "my ",
+				"start": 9.6,
+				"end": 9.96,
+				"index": 18
+			},
+			{
+				"text": "head ",
+				"start": 9.96,
+				"end": 10.7,
+				"index": 19
+			},
+			{
+				"text": "spinnin' ",
+				"start": 10.7,
+				"end": 12.02,
+				"index": 20
+			},
+			{
+				"text": "no ",
+				"start": 12.04,
+				"end": 12.5,
+				"index": 21
+			},
+			{
+				"text": "kiddin' ",
+				"start": 12.5,
+				"end": 13.94,
+				"index": 22
+			},
+			{
+				"text": "dumb ",
+				"start": 13.94,
+				"end": 14.5,
+				"index": 23
+			},
+			{
+				"text": "what's ",
+				"start": 16.55,
+				"end": 17.45,
+				"index": 24
+			},
+			{
+				"text": "goin' ",
+				"start": 17.45,
+				"end": 17.67,
+				"index": 25
+			},
+			{
+				"text": "on ",
+				"start": 17.67,
+				"end": 18.27,
+				"index": 26
+			},
+			{
+				"text": "with ",
+				"start": 18.27,
+				"end": 18.51,
+				"index": 27
+			},
+			{
+				"text": "your ",
+				"start": 18.51,
+				"end": 18.75,
+				"index": 28
+			},
+			{
+				"text": "beautiful ",
+				"start": 18.75,
+				"end": 19.39,
+				"index": 29
+			},
+			{
+				"text": "jeans ",
+				"start": 19.39,
+				"end": 20.05,
+				"index": 30
+			},
+			{
+				"text": "will ",
+				"start": 20.05,
+				"end": 21.15,
+				"index": 31
+			},
+			{
+				"text": "we ",
+				"start": 21.15,
+				"end": 21.35,
+				"index": 32
+			},
+			{
+				"text": "ever ",
+				"start": 21.35,
+				"end": 21.71,
+				"index": 33
+			},
+			{
+				"text": "see ",
+				"start": 21.71,
+				"end": 22.11,
+				"index": 34
+			},
+			{
+				"text": "swishes",
+				"start": 22.11,
+				"end": 22.83,
+				"index": 35
+			}
+		],
+		"start": -1,
+		"end": 21.83
+	}
+]

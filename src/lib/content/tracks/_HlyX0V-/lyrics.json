@@ -254,25 +254,19 @@
 	{
 		"words": [
 			{
-				"text": "Duncan",
+				"text": "Duncan ",
 				"start": 0,
 				"end": 0.98,
 				"index": 38
-			}
-		],
-		"start": 25.66,
-		"end": 26.64
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Johnson",
-				"start": 0,
-				"end": 0.52,
+				"start": 0.98,
+				"end": 1.5,
 				"index": 39
 			}
 		],
-		"start": 26.64,
+		"start": 25.66,
 		"end": 27.16
 	},
 	{

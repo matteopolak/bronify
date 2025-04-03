@@ -1,0 +1,458 @@
+[
+	{
+		"words": [
+			{
+				"text": "LeBron, ",
+				"start": 0,
+				"end": 0.58,
+				"index": 0
+			},
+			{
+				"text": "LeBron ",
+				"start": 0.62,
+				"end": 1.16,
+				"index": 1
+			},
+			{
+				"text": "shoot ",
+				"start": 1.16,
+				"end": 1.34,
+				"index": 2
+			},
+			{
+				"text": "cash, ",
+				"start": 1.34,
+				"end": 1.76,
+				"index": 3
+			},
+			{
+				"text": "everybody ",
+				"start": 1.86,
+				"end": 2.36,
+				"index": 4
+			},
+			{
+				"text": "knowin' ",
+				"start": 2.36,
+				"end": 2.96,
+				"index": 5
+			},
+			{
+				"text": "23 ",
+				"start": 2.96,
+				"end": 3.28,
+				"index": 6
+			},
+			{
+				"text": "on ",
+				"start": 3.28,
+				"end": 3.68,
+				"index": 7
+			},
+			{
+				"text": "his ",
+				"start": 3.68,
+				"end": 3.84,
+				"index": 8
+			},
+			{
+				"text": "bag, ",
+				"start": 3.84,
+				"end": 4.14,
+				"index": 9
+			},
+			{
+				"text": "yeah, ",
+				"start": 4.42,
+				"end": 4.66,
+				"index": 10
+			},
+			{
+				"text": "50k ",
+				"start": 4.7,
+				"end": 5.42,
+				"index": 11
+			},
+			{
+				"text": "points ",
+				"start": 5.42,
+				"end": 5.82,
+				"index": 12
+			},
+			{
+				"text": "on ",
+				"start": 5.82,
+				"end": 6,
+				"index": 13
+			},
+			{
+				"text": "the ",
+				"start": 6,
+				"end": 6.14,
+				"index": 14
+			},
+			{
+				"text": "ass, ",
+				"start": 6.14,
+				"end": 6.48,
+				"index": 15
+			},
+			{
+				"text": "he ",
+				"start": 6.76,
+				"end": 6.86,
+				"index": 16
+			},
+			{
+				"text": "could ",
+				"start": 6.86,
+				"end": 7,
+				"index": 17
+			},
+			{
+				"text": "be ",
+				"start": 7,
+				"end": 7.16,
+				"index": 18
+			},
+			{
+				"text": "a ",
+				"start": 7.16,
+				"end": 7.26,
+				"index": 19
+			},
+			{
+				"text": "coach ",
+				"start": 7.26,
+				"end": 7.6,
+				"index": 20
+			},
+			{
+				"text": "to ",
+				"start": 7.6,
+				"end": 7.78,
+				"index": 21
+			},
+			{
+				"text": "their ",
+				"start": 7.78,
+				"end": 7.92,
+				"index": 22
+			},
+			{
+				"text": "best ",
+				"start": 7.92,
+				"end": 8.3,
+				"index": 23
+			},
+			{
+				"text": "class, ",
+				"start": 8.3,
+				"end": 8.82,
+				"index": 24
+			},
+			{
+				"text": "yeah, ",
+				"start": 9.1,
+				"end": 9.24,
+				"index": 25
+			},
+			{
+				"text": "and ",
+				"start": 9.34,
+				"end": 9.68,
+				"index": 26
+			},
+			{
+				"text": "my ",
+				"start": 9.68,
+				"end": 9.9,
+				"index": 27
+			},
+			{
+				"text": "life ",
+				"start": 9.9,
+				"end": 10.26,
+				"index": 28
+			},
+			{
+				"text": "changed ",
+				"start": 10.26,
+				"end": 10.46,
+				"index": 29
+			},
+			{
+				"text": "so ",
+				"start": 10.46,
+				"end": 10.78,
+				"index": 30
+			},
+			{
+				"text": "fast, ",
+				"start": 10.78,
+				"end": 11.12,
+				"index": 31
+			},
+			{
+				"text": "for ",
+				"start": 11.5,
+				"end": 11.6,
+				"index": 32
+			},
+			{
+				"text": "his ",
+				"start": 11.6,
+				"end": 11.76,
+				"index": 33
+			},
+			{
+				"text": "side ",
+				"start": 11.76,
+				"end": 11.96,
+				"index": 34
+			},
+			{
+				"text": "tickets ",
+				"start": 11.96,
+				"end": 12.2,
+				"index": 35
+			},
+			{
+				"text": "to ",
+				"start": 12.2,
+				"end": 12.46,
+				"index": 36
+			},
+			{
+				"text": "the ",
+				"start": 12.46,
+				"end": 12.58,
+				"index": 37
+			},
+			{
+				"text": "game, ",
+				"start": 12.58,
+				"end": 12.8,
+				"index": 38
+			},
+			{
+				"text": "no ",
+				"start": 12.86,
+				"end": 13.08,
+				"index": 39
+			},
+			{
+				"text": "cow, ",
+				"start": 13.08,
+				"end": 13.42,
+				"index": 40
+			},
+			{
+				"text": "yeah, ",
+				"start": 13.64,
+				"end": 13.98,
+				"index": 41
+			},
+			{
+				"text": "LeBron ",
+				"start": 14.08,
+				"end": 14.68,
+				"index": 42
+			},
+			{
+				"text": "be ",
+				"start": 14.68,
+				"end": 14.84,
+				"index": 43
+			},
+			{
+				"text": "a ",
+				"start": 14.84,
+				"end": 14.98,
+				"index": 44
+			},
+			{
+				"text": "player, ",
+				"start": 14.98,
+				"end": 15.26,
+				"index": 45
+			},
+			{
+				"text": "not ",
+				"start": 15.3,
+				"end": 15.44,
+				"index": 46
+			},
+			{
+				"text": "a ",
+				"start": 15.44,
+				"end": 15.56,
+				"index": 47
+			},
+			{
+				"text": "pressure, ",
+				"start": 15.56,
+				"end": 15.78,
+				"index": 48
+			},
+			{
+				"text": "now ",
+				"start": 16.14,
+				"end": 16.38,
+				"index": 49
+			},
+			{
+				"text": "they're here ",
+				"start": 16.38,
+				"end": 16.56,
+				"index": 50
+			},
+			{
+				"text": "to ",
+				"start": 16.56,
+				"end": 16.72,
+				"index": 51
+			},
+			{
+				"text": "go, ",
+				"start": 16.72,
+				"end": 16.94,
+				"index": 52
+			},
+			{
+				"text": "so ",
+				"start": 17.02,
+				"end": 17.12,
+				"index": 53
+			},
+			{
+				"text": "much ",
+				"start": 17.12,
+				"end": 17.36,
+				"index": 54
+			},
+			{
+				"text": "R",
+				"start": 17.36,
+				"end": 17.52,
+				"index": 55
+			},
+			{
+				"text": "&D, ",
+				"start": 17.52,
+				"end": 17.92,
+				"index": 56
+			},
+			{
+				"text": "best ",
+				"start": 17.94,
+				"end": 18.18,
+				"index": 57
+			},
+			{
+				"text": "style, ",
+				"start": 18.18,
+				"end": 18.52,
+				"index": 58
+			},
+			{
+				"text": "LeBron, know ",
+				"start": 18.66,
+				"end": 19.28,
+				"index": 59
+			},
+			{
+				"text": "my ",
+				"start": 19.28,
+				"end": 19.52,
+				"index": 60
+			},
+			{
+				"text": "bitch ",
+				"start": 19.52,
+				"end": 19.86,
+				"index": 61
+			},
+			{
+				"text": "so ",
+				"start": 19.86,
+				"end": 20.1,
+				"index": 62
+			},
+			{
+				"text": "bad, ",
+				"start": 20.1,
+				"end": 20.48,
+				"index": 63
+			},
+			{
+				"text": "you ",
+				"start": 20.74,
+				"end": 20.88,
+				"index": 64
+			},
+			{
+				"text": "spend ",
+				"start": 20.88,
+				"end": 21.02,
+				"index": 65
+			},
+			{
+				"text": "your ",
+				"start": 21.02,
+				"end": 21.3,
+				"index": 66
+			},
+			{
+				"text": "cash ",
+				"start": 21.3,
+				"end": 21.68,
+				"index": 67
+			},
+			{
+				"text": "on ",
+				"start": 21.68,
+				"end": 21.92,
+				"index": 68
+			},
+			{
+				"text": "a ",
+				"start": 21.92,
+				"end": 21.98,
+				"index": 69
+			},
+			{
+				"text": "bitch ",
+				"start": 21.98,
+				"end": 22.2,
+				"index": 70
+			},
+			{
+				"text": "you ",
+				"start": 22.2,
+				"end": 22.32,
+				"index": 71
+			},
+			{
+				"text": "never ",
+				"start": 22.32,
+				"end": 22.5,
+				"index": 72
+			},
+			{
+				"text": "had, ",
+				"start": 22.5,
+				"end": 22.84,
+				"index": 73
+			},
+			{
+				"text": "yeah",
+				"start": 23,
+				"end": 23.34,
+				"index": 74
+			}
+		],
+		"start": 2.48,
+		"end": 25.82
+	}
+]

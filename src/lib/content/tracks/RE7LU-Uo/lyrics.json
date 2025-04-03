@@ -1,0 +1,92 @@
+[
+	{
+		"words": [
+			{
+				"text": "wanna ",
+				"start": 1,
+				"end": 1.26,
+				"index": 0
+			},
+			{
+				"text": "feel ",
+				"start": 1.26,
+				"end": 1.74,
+				"index": 1
+			},
+			{
+				"text": "you ",
+				"start": 1.74,
+				"end": 2.1,
+				"index": 2
+			},
+			{
+				"text": "close ",
+				"start": 2.1,
+				"end": 2.7,
+				"index": 3
+			},
+			{
+				"text": "lo",
+				"start": 2.7,
+				"end": 3.52,
+				"index": 4
+			},
+			{
+				"text": "-o",
+				"start": 3.52,
+				"end": 3.8,
+				"index": 5
+			},
+			{
+				"text": "-o",
+				"start": 3.8,
+				"end": 4.34,
+				"index": 6
+			},
+			{
+				"text": "-ve",
+				"start": 4.34,
+				"end": 4.46,
+				"index": 7
+			},
+			{
+				"text": "-e",
+				"start": 8.4,
+				"end": 8.82,
+				"index": 8
+			},
+			{
+				"text": "-e",
+				"start": 8.82,
+				"end": 9.06,
+				"index": 9
+			},
+			{
+				"text": "-e",
+				"start": 9.06,
+				"end": 9.08,
+				"index": 10
+			},
+			{
+				"text": "-e-e",
+				"start": 9.08,
+				"end": 9.16,
+				"index": 11
+			},
+			{
+				"text": "-e-e-e-e",
+				"start": 9.16,
+				"end": 9.2,
+				"index": 12
+			},
+			{
+				"text": "-e",
+				"start": 9.2,
+				"end": 9.22,
+				"index": 13
+			}
+		],
+		"start": -1,
+		"end": 8.22
+	}
+]

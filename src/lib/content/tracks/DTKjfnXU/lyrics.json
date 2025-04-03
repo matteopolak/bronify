@@ -158,79 +158,73 @@
 				"index": 22
 			},
 			{
-				"text": "like",
+				"text": "like ",
 				"start": 0.7,
 				"end": 1,
 				"index": 23
-			}
-		],
-		"start": 8.38,
-		"end": 9.38
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Arizona, ",
-				"start": 0,
-				"end": 0.54,
+				"start": 1,
+				"end": 1.54,
 				"index": 24
 			},
 			{
 				"text": "my ",
-				"start": 0.76,
-				"end": 1.14,
+				"start": 1.76,
+				"end": 2.14,
 				"index": 25
 			},
 			{
 				"text": "ass ",
-				"start": 1.14,
-				"end": 1.66,
+				"start": 2.14,
+				"end": 2.66,
 				"index": 26
 			},
 			{
 				"text": "don't ",
-				"start": 1.66,
-				"end": 2.1,
+				"start": 2.66,
+				"end": 3.1,
 				"index": 27
 			},
 			{
 				"text": "shed ",
-				"start": 2.1,
-				"end": 2.3,
+				"start": 3.1,
+				"end": 3.3,
 				"index": 28
 			},
 			{
 				"text": "tears, ",
-				"start": 2.3,
-				"end": 2.8,
+				"start": 3.3,
+				"end": 3.8,
 				"index": 29
 			},
 			{
 				"text": "but ",
-				"start": 2.94,
-				"end": 3.08,
+				"start": 3.94,
+				"end": 4.08,
 				"index": 30
 			},
 			{
 				"text": "boy ",
-				"start": 3.08,
-				"end": 3.32,
+				"start": 4.08,
+				"end": 4.32,
 				"index": 31
 			},
 			{
 				"text": "they ",
-				"start": 3.32,
-				"end": 3.5,
+				"start": 4.32,
+				"end": 4.5,
 				"index": 32
 			},
 			{
 				"text": "poor",
-				"start": 3.5,
-				"end": 3.7,
+				"start": 4.5,
+				"end": 4.7,
 				"index": 33
 			}
 		],
-		"start": 9.38,
+		"start": 8.38,
 		"end": 13.08
 	},
 	{

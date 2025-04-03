@@ -1,0 +1,722 @@
+[
+	{
+		"words": [
+			{
+				"text": "Bron, ",
+				"start": 0,
+				"end": 0.56,
+				"index": 0
+			},
+			{
+				"text": "you ",
+				"start": 0.86,
+				"end": 1.52,
+				"index": 1
+			},
+			{
+				"text": "always ",
+				"start": 1.52,
+				"end": 1.9,
+				"index": 2
+			},
+			{
+				"text": "find ",
+				"start": 1.9,
+				"end": 2.28,
+				"index": 3
+			},
+			{
+				"text": "a ",
+				"start": 2.28,
+				"end": 2.46,
+				"index": 4
+			},
+			{
+				"text": "way ",
+				"start": 2.46,
+				"end": 2.6,
+				"index": 5
+			},
+			{
+				"text": "to ",
+				"start": 2.6,
+				"end": 2.74,
+				"index": 6
+			},
+			{
+				"text": "get ",
+				"start": 2.74,
+				"end": 2.96,
+				"index": 7
+			},
+			{
+				"text": "through ",
+				"start": 2.96,
+				"end": 3.4,
+				"index": 8
+			},
+			{
+				"text": "it's ",
+				"start": 3.4,
+				"end": 4.68,
+				"index": 9
+			},
+			{
+				"text": "like ",
+				"start": 4.68,
+				"end": 4.86,
+				"index": 10
+			},
+			{
+				"text": "there's ",
+				"start": 4.86,
+				"end": 5.08,
+				"index": 11
+			},
+			{
+				"text": "no ",
+				"start": 5.08,
+				"end": 5.24,
+				"index": 12
+			},
+			{
+				"text": "one ",
+				"start": 5.24,
+				"end": 5.42,
+				"index": 13
+			},
+			{
+				"text": "playing ",
+				"start": 5.42,
+				"end": 5.74,
+				"index": 14
+			},
+			{
+				"text": "defense ",
+				"start": 5.74,
+				"end": 6.16,
+				"index": 15
+			},
+			{
+				"text": "at ",
+				"start": 6.16,
+				"end": 6.5,
+				"index": 16
+			},
+			{
+				"text": "all ",
+				"start": 6.5,
+				"end": 6.92,
+				"index": 17
+			},
+			{
+				"text": "for ",
+				"start": 6.92,
+				"end": 9.08,
+				"index": 18
+			},
+			{
+				"text": "so ",
+				"start": 9.08,
+				"end": 9.44,
+				"index": 19
+			},
+			{
+				"text": "long ",
+				"start": 9.44,
+				"end": 10.28,
+				"index": 20
+			},
+			{
+				"text": "now ",
+				"start": 10.28,
+				"end": 12.56,
+				"index": 21
+			},
+			{
+				"text": "now ",
+				"start": 12.56,
+				"end": 13.86,
+				"index": 22
+			},
+			{
+				"text": "all ",
+				"start": 13.86,
+				"end": 14.06,
+				"index": 23
+			},
+			{
+				"text": "I ",
+				"start": 14.06,
+				"end": 14.3,
+				"index": 24
+			},
+			{
+				"text": "wanna ",
+				"start": 14.3,
+				"end": 14.62,
+				"index": 25
+			},
+			{
+				"text": "do ",
+				"start": 14.62,
+				"end": 14.86,
+				"index": 26
+			},
+			{
+				"text": "is ",
+				"start": 14.86,
+				"end": 15.08,
+				"index": 27
+			},
+			{
+				"text": "glaze ",
+				"start": 15.08,
+				"end": 15.34,
+				"index": 28
+			},
+			{
+				"text": "you ",
+				"start": 15.34,
+				"end": 15.68,
+				"index": 29
+			},
+			{
+				"text": "but ",
+				"start": 15.68,
+				"end": 17.14,
+				"index": 30
+			},
+			{
+				"text": "Savannah's ",
+				"start": 17.14,
+				"end": 17.74,
+				"index": 31
+			},
+			{
+				"text": "playing ",
+				"start": 17.74,
+				"end": 17.96,
+				"index": 32
+			},
+			{
+				"text": "defense ",
+				"start": 17.96,
+				"end": 18.44,
+				"index": 33
+			},
+			{
+				"text": "non",
+				"start": 18.44,
+				"end": 18.8,
+				"index": 34
+			},
+			{
+				"text": "-stop ",
+				"start": 18.8,
+				"end": 19.14,
+				"index": 35
+			},
+			{
+				"text": "non",
+				"start": 19.14,
+				"end": 21.84,
+				"index": 36
+			},
+			{
+				"text": "-stop ",
+				"start": 21.84,
+				"end": 22.64,
+				"index": 37
+			},
+			{
+				"text": "and ",
+				"start": 22.64,
+				"end": 24.58,
+				"index": 38
+			},
+			{
+				"text": "I've ",
+				"start": 24.58,
+				"end": 25.32,
+				"index": 39
+			},
+			{
+				"text": "seen ",
+				"start": 25.32,
+				"end": 25.56,
+				"index": 40
+			},
+			{
+				"text": "all ",
+				"start": 25.56,
+				"end": 25.9,
+				"index": 41
+			},
+			{
+				"text": "the ",
+				"start": 25.9,
+				"end": 26.2,
+				"index": 42
+			},
+			{
+				"text": "songs ",
+				"start": 26.2,
+				"end": 26.9,
+				"index": 43
+			},
+			{
+				"text": "Bronny, ",
+				"start": 26.9,
+				"end": 28.64,
+				"index": 44
+			},
+			{
+				"text": "they're ",
+				"start": 28.64,
+				"end": 29.04,
+				"index": 45
+			},
+			{
+				"text": "all ",
+				"start": 29.04,
+				"end": 29.4,
+				"index": 46
+			},
+			{
+				"text": "wrong ",
+				"start": 29.4,
+				"end": 29.92,
+				"index": 47
+			},
+			{
+				"text": "it ",
+				"start": 29.92,
+				"end": 31.24,
+				"index": 48
+			},
+			{
+				"text": "doesn't ",
+				"start": 31.24,
+				"end": 31.58,
+				"index": 49
+			},
+			{
+				"text": "even ",
+				"start": 31.58,
+				"end": 31.86,
+				"index": 50
+			},
+			{
+				"text": "matter ",
+				"start": 31.86,
+				"end": 32.22,
+				"index": 51
+			},
+			{
+				"text": "what ",
+				"start": 32.22,
+				"end": 32.52,
+				"index": 52
+			},
+			{
+				"text": "they ",
+				"start": 32.52,
+				"end": 32.72,
+				"index": 53
+			},
+			{
+				"text": "say ",
+				"start": 32.72,
+				"end": 33.14,
+				"index": 54
+			},
+			{
+				"text": "my ",
+				"start": 33.14,
+				"end": 34.26,
+				"index": 55
+			},
+			{
+				"text": "feelings ",
+				"start": 34.26,
+				"end": 34.58,
+				"index": 56
+			},
+			{
+				"text": "for ",
+				"start": 34.58,
+				"end": 34.76,
+				"index": 57
+			},
+			{
+				"text": "you ",
+				"start": 34.76,
+				"end": 35,
+				"index": 58
+			},
+			{
+				"text": "Bron ",
+				"start": 35,
+				"end": 35.24,
+				"index": 59
+			},
+			{
+				"text": "won't ",
+				"start": 35.24,
+				"end": 35.48,
+				"index": 60
+			},
+			{
+				"text": "go ",
+				"start": 35.48,
+				"end": 35.58,
+				"index": 61
+			},
+			{
+				"text": "away ",
+				"start": 35.58,
+				"end": 36.08,
+				"index": 62
+			},
+			{
+				"text": "love ",
+				"start": 36.08,
+				"end": 38.28,
+				"index": 63
+			},
+			{
+				"text": "Bron ",
+				"start": 38.28,
+				"end": 38.68,
+				"index": 64
+			},
+			{
+				"text": "do ",
+				"start": 38.68,
+				"end": 38.88,
+				"index": 65
+			},
+			{
+				"text": "you ",
+				"start": 38.88,
+				"end": 39.08,
+				"index": 66
+			},
+			{
+				"text": "love ",
+				"start": 39.08,
+				"end": 39.7,
+				"index": 67
+			},
+			{
+				"text": "me ",
+				"start": 39.7,
+				"end": 40.02,
+				"index": 68
+			},
+			{
+				"text": "too? ",
+				"start": 40.02,
+				"end": 40.48,
+				"index": 69
+			},
+			{
+				"text": "cuz ",
+				"start": 40.7,
+				"end": 41.12,
+				"index": 70
+			},
+			{
+				"text": "I ",
+				"start": 41.12,
+				"end": 41.42,
+				"index": 71
+			},
+			{
+				"text": "can ",
+				"start": 41.42,
+				"end": 41.7,
+				"index": 72
+			},
+			{
+				"text": "feel ",
+				"start": 41.7,
+				"end": 42,
+				"index": 73
+			},
+			{
+				"text": "my ",
+				"start": 42,
+				"end": 42.32,
+				"index": 74
+			},
+			{
+				"text": "heart ",
+				"start": 42.32,
+				"end": 42.86,
+				"index": 75
+			},
+			{
+				"text": "again ",
+				"start": 42.86,
+				"end": 43.5,
+				"index": 76
+			},
+			{
+				"text": "you're ",
+				"start": 43.5,
+				"end": 44.54,
+				"index": 77
+			},
+			{
+				"text": "so ",
+				"start": 44.54,
+				"end": 44.74,
+				"index": 78
+			},
+			{
+				"text": "tempting ",
+				"start": 44.74,
+				"end": 45.32,
+				"index": 79
+			},
+			{
+				"text": "but ",
+				"start": 45.32,
+				"end": 46.02,
+				"index": 80
+			},
+			{
+				"text": "I'm ",
+				"start": 46.02,
+				"end": 46.44,
+				"index": 81
+			},
+			{
+				"text": "scared ",
+				"start": 46.44,
+				"end": 46.74,
+				"index": 82
+			},
+			{
+				"text": "Bron's ",
+				"start": 46.74,
+				"end": 47.66,
+				"index": 83
+			},
+			{
+				"text": "stance ",
+				"start": 47.66,
+				"end": 48.02,
+				"index": 84
+			},
+			{
+				"text": "gotta ",
+				"start": 48.02,
+				"end": 48.66,
+				"index": 85
+			},
+			{
+				"text": "defend ",
+				"start": 48.66,
+				"end": 49.54,
+				"index": 86
+			},
+			{
+				"text": "but ",
+				"start": 49.54,
+				"end": 50.42,
+				"index": 87
+			},
+			{
+				"text": "they ",
+				"start": 50.42,
+				"end": 50.66,
+				"index": 88
+			},
+			{
+				"text": "don't ",
+				"start": 50.66,
+				"end": 51.02,
+				"index": 89
+			},
+			{
+				"text": "love ",
+				"start": 51.02,
+				"end": 51.3,
+				"index": 90
+			},
+			{
+				"text": "you ",
+				"start": 51.3,
+				"end": 51.62,
+				"index": 91
+			},
+			{
+				"text": "like ",
+				"start": 51.62,
+				"end": 52.08,
+				"index": 92
+			},
+			{
+				"text": "I ",
+				"start": 52.08,
+				"end": 52.34,
+				"index": 93
+			},
+			{
+				"text": "do ",
+				"start": 52.34,
+				"end": 52.8,
+				"index": 94
+			},
+			{
+				"text": "I ",
+				"start": 52.8,
+				"end": 53.52,
+				"index": 95
+			},
+			{
+				"text": "can't ",
+				"start": 53.52,
+				"end": 53.86,
+				"index": 96
+			},
+			{
+				"text": "see ",
+				"start": 53.86,
+				"end": 54.06,
+				"index": 97
+			},
+			{
+				"text": "you ",
+				"start": 54.06,
+				"end": 54.3,
+				"index": 98
+			},
+			{
+				"text": "get ",
+				"start": 54.3,
+				"end": 54.76,
+				"index": 99
+			},
+			{
+				"text": "hurt ",
+				"start": 54.76,
+				"end": 55.1,
+				"index": 100
+			},
+			{
+				"text": "again ",
+				"start": 55.1,
+				"end": 55.82,
+				"index": 101
+			},
+			{
+				"text": "I ",
+				"start": 55.82,
+				"end": 56.56,
+				"index": 102
+			},
+			{
+				"text": "wanna ",
+				"start": 56.56,
+				"end": 56.9,
+				"index": 103
+			},
+			{
+				"text": "love ",
+				"start": 56.9,
+				"end": 57.44,
+				"index": 104
+			},
+			{
+				"text": "Bron ",
+				"start": 57.44,
+				"end": 57.82,
+				"index": 105
+			},
+			{
+				"text": "but ",
+				"start": 57.82,
+				"end": 58.34,
+				"index": 106
+			},
+			{
+				"text": "I'm ",
+				"start": 58.34,
+				"end": 58.68,
+				"index": 107
+			},
+			{
+				"text": "scared ",
+				"start": 58.68,
+				"end": 59.02,
+				"index": 108
+			},
+			{
+				"text": "so ",
+				"start": 59.02,
+				"end": 59.74,
+				"index": 109
+			},
+			{
+				"text": "I ",
+				"start": 59.74,
+				"end": 60.1,
+				"index": 110
+			},
+			{
+				"text": "gotta ",
+				"start": 60.1,
+				"end": 60.92,
+				"index": 111
+			},
+			{
+				"text": "defend ",
+				"start": 60.92,
+				"end": 61.88,
+				"index": 112
+			},
+			{
+				"text": "I ",
+				"start": 61.88,
+				"end": 63.7,
+				"index": 113
+			},
+			{
+				"text": "gotta ",
+				"start": 63.7,
+				"end": 64.56,
+				"index": 114
+			},
+			{
+				"text": "defend ",
+				"start": 64.56,
+				"end": 64.92,
+				"index": 115
+			},
+			{
+				"text": "I ",
+				"start": 64.92,
+				"end": 67.22,
+				"index": 116
+			},
+			{
+				"text": "gotta ",
+				"start": 67.22,
+				"end": 67.62,
+				"index": 117
+			},
+			{
+				"text": "defend",
+				"start": 67.62,
+				"end": 67.96,
+				"index": 118
+			}
+		],
+		"start": 1.07,
+		"end": 69.03
+	}
+]

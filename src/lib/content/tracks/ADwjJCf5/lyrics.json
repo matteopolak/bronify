@@ -242,85 +242,79 @@
 				"index": 36
 			},
 			{
-				"text": "think",
+				"text": "think ",
 				"start": 0.58,
 				"end": 0.96,
 				"index": 37
-			}
-		],
-		"start": 19.66,
-		"end": 20.62
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Utah, ",
-				"start": 0,
-				"end": 0.32,
+				"start": 0.96,
+				"end": 1.28,
 				"index": 38
 			},
 			{
 				"text": "Cleveland ",
-				"start": 0.56,
-				"end": 0.98,
+				"start": 1.52,
+				"end": 1.94,
 				"index": 39
 			},
 			{
 				"text": "are ",
-				"start": 0.98,
-				"end": 1.32,
+				"start": 1.94,
+				"end": 2.28,
 				"index": 40
 			},
 			{
 				"text": "less ",
-				"start": 1.32,
-				"end": 1.7,
+				"start": 2.28,
+				"end": 2.66,
 				"index": 41
 			},
 			{
 				"text": "than, ",
-				"start": 1.7,
-				"end": 2.18,
+				"start": 2.66,
+				"end": 3.14,
 				"index": 42
 			},
 			{
 				"text": "you're ",
-				"start": 2.64,
-				"end": 4.06,
+				"start": 3.6,
+				"end": 5.02,
 				"index": 43
 			},
 			{
 				"text": "just ",
-				"start": 4.06,
-				"end": 4.36,
+				"start": 5.02,
+				"end": 5.32,
 				"index": 44
 			},
 			{
 				"text": "a ",
-				"start": 4.36,
-				"end": 4.52,
+				"start": 5.32,
+				"end": 5.48,
 				"index": 45
 			},
 			{
 				"text": "caring, ",
-				"start": 4.52,
-				"end": 5.3,
+				"start": 5.48,
+				"end": 6.26,
 				"index": 46
 			},
 			{
 				"text": "compassionate ",
-				"start": 5.34,
-				"end": 6.38,
+				"start": 6.3,
+				"end": 7.34,
 				"index": 47
 			},
 			{
 				"text": "guy",
-				"start": 6.38,
-				"end": 7.04,
+				"start": 7.34,
+				"end": 8,
 				"index": 48
 			}
 		],
-		"start": 20.62,
+		"start": 19.66,
 		"end": 27.66
 	},
 	{

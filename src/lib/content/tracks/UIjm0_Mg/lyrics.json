@@ -1,0 +1,260 @@
+[
+	{
+		"words": [
+			{
+				"text": "and ",
+				"start": 5.78,
+				"end": 6.24,
+				"index": 0
+			},
+			{
+				"text": "when ",
+				"start": 6.24,
+				"end": 6.38,
+				"index": 1
+			},
+			{
+				"text": "I ",
+				"start": 6.38,
+				"end": 6.5,
+				"index": 2
+			},
+			{
+				"text": "walk ",
+				"start": 6.5,
+				"end": 6.76,
+				"index": 3
+			},
+			{
+				"text": "in, ",
+				"start": 6.76,
+				"end": 7.08,
+				"index": 4
+			},
+			{
+				"text": "all ",
+				"start": 7.12,
+				"end": 7.3,
+				"index": 5
+			},
+			{
+				"text": "I ",
+				"start": 7.3,
+				"end": 7.54,
+				"index": 6
+			},
+			{
+				"text": "want ",
+				"start": 7.54,
+				"end": 7.94,
+				"index": 7
+			},
+			{
+				"text": "is ",
+				"start": 7.94,
+				"end": 8.18,
+				"index": 8
+			},
+			{
+				"text": "to ",
+				"start": 8.18,
+				"end": 8.24,
+				"index": 9
+			},
+			{
+				"text": "dance ",
+				"start": 8.24,
+				"end": 8.74,
+				"index": 10
+			},
+			{
+				"text": "you ",
+				"start": 8.74,
+				"end": 9.42,
+				"index": 11
+			},
+			{
+				"text": "know, ",
+				"start": 9.42,
+				"end": 9.74,
+				"index": 12
+			},
+			{
+				"text": "LeBron's ",
+				"start": 9.84,
+				"end": 10.78,
+				"index": 13
+			},
+			{
+				"text": "home, ",
+				"start": 10.78,
+				"end": 11.24,
+				"index": 14
+			},
+			{
+				"text": "home ",
+				"start": 11.54,
+				"end": 12.54,
+				"index": 15
+			},
+			{
+				"text": "for ",
+				"start": 12.54,
+				"end": 12.94,
+				"index": 16
+			},
+			{
+				"text": "man ",
+				"start": 12.94,
+				"end": 13.26,
+				"index": 17
+			},
+			{
+				"text": "for ",
+				"start": 13.26,
+				"end": 14.54,
+				"index": 18
+			},
+			{
+				"text": "the ",
+				"start": 16.14,
+				"end": 16.58,
+				"index": 19
+			},
+			{
+				"text": "Lakers ",
+				"start": 16.58,
+				"end": 17.12,
+				"index": 20
+			},
+			{
+				"text": "to ",
+				"start": 17.12,
+				"end": 17.38,
+				"index": 21
+			},
+			{
+				"text": "win ",
+				"start": 17.38,
+				"end": 17.8,
+				"index": 22
+			},
+			{
+				"text": "you ",
+				"start": 17.8,
+				"end": 18.48,
+				"index": 23
+			},
+			{
+				"text": "know, ",
+				"start": 18.48,
+				"end": 18.64,
+				"index": 24
+			},
+			{
+				"text": "my ",
+				"start": 18.64,
+				"end": 18.84,
+				"index": 25
+			},
+			{
+				"text": "king ",
+				"start": 18.84,
+				"end": 19.22,
+				"index": 26
+			},
+			{
+				"text": "is ",
+				"start": 19.22,
+				"end": 19.82,
+				"index": 27
+			},
+			{
+				"text": "home, ",
+				"start": 19.82,
+				"end": 20.22,
+				"index": 28
+			},
+			{
+				"text": "best ",
+				"start": 20.42,
+				"end": 20.62,
+				"index": 29
+			},
+			{
+				"text": "in ",
+				"start": 20.62,
+				"end": 20.9,
+				"index": 30
+			},
+			{
+				"text": "the ",
+				"start": 20.9,
+				"end": 21.14,
+				"index": 31
+			},
+			{
+				"text": "NBA ",
+				"start": 21.14,
+				"end": 22.06,
+				"index": 32
+			},
+			{
+				"text": "so ",
+				"start": 22.06,
+				"end": 24.42,
+				"index": 33
+			},
+			{
+				"text": "you ",
+				"start": 24.42,
+				"end": 24.54,
+				"index": 34
+			},
+			{
+				"text": "ain't ",
+				"start": 24.54,
+				"end": 24.8,
+				"index": 35
+			},
+			{
+				"text": "gotta ",
+				"start": 24.8,
+				"end": 24.96,
+				"index": 36
+			},
+			{
+				"text": "take ",
+				"start": 24.96,
+				"end": 25.4,
+				"index": 37
+			},
+			{
+				"text": "my ",
+				"start": 25.4,
+				"end": 25.7,
+				"index": 38
+			},
+			{
+				"text": "Bronny ",
+				"start": 25.7,
+				"end": 26.44,
+				"index": 39
+			},
+			{
+				"text": "away ",
+				"start": 26.44,
+				"end": 26.66,
+				"index": 40
+			},
+			{
+				"text": "way",
+				"start": 26.66,
+				"end": 26.96,
+				"index": 41
+			}
+		],
+		"start": -1,
+		"end": 25.96
+	}
+]

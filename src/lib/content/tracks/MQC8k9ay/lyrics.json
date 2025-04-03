@@ -1,0 +1,146 @@
+[
+	{
+		"words": [
+			{
+				"text": "keep ",
+				"start": 1,
+				"end": 1.08,
+				"index": 0
+			},
+			{
+				"text": "blowin' ",
+				"start": 1.08,
+				"end": 1.66,
+				"index": 1
+			},
+			{
+				"text": "my ",
+				"start": 1.7,
+				"end": 1.84,
+				"index": 2
+			},
+			{
+				"text": "mind, ",
+				"start": 1.84,
+				"end": 2.56,
+				"index": 3
+			},
+			{
+				"text": "cuz ",
+				"start": 3.32,
+				"end": 3.96,
+				"index": 4
+			},
+			{
+				"text": "I'll ",
+				"start": 3.96,
+				"end": 4.54,
+				"index": 5
+			},
+			{
+				"text": "wipe ",
+				"start": 4.54,
+				"end": 4.96,
+				"index": 6
+			},
+			{
+				"text": "you ",
+				"start": 10.94,
+				"end": 11.24,
+				"index": 7
+			},
+			{
+				"text": "off ",
+				"start": 11.24,
+				"end": 11.44,
+				"index": 8
+			},
+			{
+				"text": "when ",
+				"start": 11.44,
+				"end": 11.7,
+				"index": 9
+			},
+			{
+				"text": "you're ",
+				"start": 13.18,
+				"end": 13.38,
+				"index": 10
+			},
+			{
+				"text": "sweatin' ",
+				"start": 13.38,
+				"end": 13.9,
+				"index": 11
+			},
+			{
+				"text": "if ",
+				"start": 13.92,
+				"end": 14.68,
+				"index": 12
+			},
+			{
+				"text": "you ",
+				"start": 14.68,
+				"end": 15.06,
+				"index": 13
+			},
+			{
+				"text": "need ",
+				"start": 15.06,
+				"end": 15.7,
+				"index": 14
+			},
+			{
+				"text": "a ",
+				"start": 15.7,
+				"end": 16.2,
+				"index": 15
+			},
+			{
+				"text": "screen, ",
+				"start": 16.2,
+				"end": 16.7,
+				"index": 16
+			},
+			{
+				"text": "I'm ",
+				"start": 16.96,
+				"end": 17.2,
+				"index": 17
+			},
+			{
+				"text": "settin' ",
+				"start": 17.2,
+				"end": 17.72,
+				"index": 18
+			},
+			{
+				"text": "cuz ",
+				"start": 17.74,
+				"end": 18.26,
+				"index": 19
+			},
+			{
+				"text": "I ",
+				"start": 18.26,
+				"end": 18.58,
+				"index": 20
+			},
+			{
+				"text": "love ",
+				"start": 18.58,
+				"end": 18.84,
+				"index": 21
+			},
+			{
+				"text": "love",
+				"start": 18.84,
+				"end": 19,
+				"index": 22
+			}
+		],
+		"start": -1,
+		"end": 18
+	}
+]

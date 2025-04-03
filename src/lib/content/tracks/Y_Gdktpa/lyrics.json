@@ -1,0 +1,488 @@
+[
+	{
+		"words": [
+			{
+				"text": "yeah, ",
+				"start": 1.34,
+				"end": 1.82,
+				"index": 0
+			},
+			{
+				"text": "you're ",
+				"start": 1.82,
+				"end": 1.96,
+				"index": 1
+			},
+			{
+				"text": "lookin' ",
+				"start": 1.96,
+				"end": 2.18,
+				"index": 2
+			},
+			{
+				"text": "at ",
+				"start": 2.24,
+				"end": 2.4,
+				"index": 3
+			},
+			{
+				"text": "the ",
+				"start": 2.4,
+				"end": 2.52,
+				"index": 4
+			},
+			{
+				"text": "truth, ",
+				"start": 2.52,
+				"end": 2.76,
+				"index": 5
+			},
+			{
+				"text": "twenty ",
+				"start": 2.86,
+				"end": 3.06,
+				"index": 6
+			},
+			{
+				"text": "years ",
+				"start": 3.06,
+				"end": 3.36,
+				"index": 7
+			},
+			{
+				"text": "don't ",
+				"start": 3.36,
+				"end": 3.56,
+				"index": 8
+			},
+			{
+				"text": "lie, ",
+				"start": 3.56,
+				"end": 3.76,
+				"index": 9
+			},
+			{
+				"text": "no ",
+				"start": 4,
+				"end": 4.24,
+				"index": 10
+			},
+			{
+				"text": "he's the ",
+				"start": 4.24,
+				"end": 4.98,
+				"index": 11
+			},
+			{
+				"text": "one, ",
+				"start": 4.98,
+				"end": 5.2,
+				"index": 12
+			},
+			{
+				"text": "yeah, ",
+				"start": 5.34,
+				"end": 5.56,
+				"index": 13
+			},
+			{
+				"text": "he's ",
+				"start": 5.66,
+				"end": 6.14,
+				"index": 14
+			},
+			{
+				"text": "the ",
+				"start": 6.14,
+				"end": 6.24,
+				"index": 15
+			},
+			{
+				"text": "one ",
+				"start": 6.24,
+				"end": 6.44,
+				"index": 16
+			},
+			{
+				"text": "early ",
+				"start": 6.44,
+				"end": 6.78,
+				"index": 17
+			},
+			{
+				"text": "mornin' ",
+				"start": 6.78,
+				"end": 7.22,
+				"index": 18
+			},
+			{
+				"text": "in ",
+				"start": 7.26,
+				"end": 7.38,
+				"index": 19
+			},
+			{
+				"text": "the ",
+				"start": 7.38,
+				"end": 7.5,
+				"index": 20
+			},
+			{
+				"text": "dawn, ",
+				"start": 7.5,
+				"end": 7.74,
+				"index": 21
+			},
+			{
+				"text": "puttin' ",
+				"start": 7.8,
+				"end": 8.16,
+				"index": 22
+			},
+			{
+				"text": "out ",
+				"start": 8.16,
+				"end": 8.28,
+				"index": 23
+			},
+			{
+				"text": "them ",
+				"start": 8.28,
+				"end": 8.42,
+				"index": 24
+			},
+			{
+				"text": "shots, ",
+				"start": 8.42,
+				"end": 8.58,
+				"index": 25
+			},
+			{
+				"text": "now ",
+				"start": 9.06,
+				"end": 9.26,
+				"index": 26
+			},
+			{
+				"text": "he's the ",
+				"start": 9.26,
+				"end": 9.94,
+				"index": 27
+			},
+			{
+				"text": "one, ",
+				"start": 9.94,
+				"end": 10.16,
+				"index": 28
+			},
+			{
+				"text": "yeah, ",
+				"start": 10.24,
+				"end": 10.52,
+				"index": 29
+			},
+			{
+				"text": "he's ",
+				"start": 10.6,
+				"end": 11.1,
+				"index": 30
+			},
+			{
+				"text": "the ",
+				"start": 11.1,
+				"end": 11.16,
+				"index": 31
+			},
+			{
+				"text": "one, ",
+				"start": 11.16,
+				"end": 11.46,
+				"index": 32
+			},
+			{
+				"text": "yeah ",
+				"start": 11.46,
+				"end": 11.8,
+				"index": 33
+			},
+			{
+				"text": "and ",
+				"start": 11.8,
+				"end": 12.3,
+				"index": 34
+			},
+			{
+				"text": "he ",
+				"start": 12.3,
+				"end": 12.42,
+				"index": 35
+			},
+			{
+				"text": "wouldn't ",
+				"start": 12.42,
+				"end": 12.8,
+				"index": 36
+			},
+			{
+				"text": "have ",
+				"start": 12.8,
+				"end": 12.94,
+				"index": 37
+			},
+			{
+				"text": "it ",
+				"start": 12.94,
+				"end": 13.1,
+				"index": 38
+			},
+			{
+				"text": "any ",
+				"start": 13.1,
+				"end": 13.26,
+				"index": 39
+			},
+			{
+				"text": "other ",
+				"start": 13.26,
+				"end": 13.58,
+				"index": 40
+			},
+			{
+				"text": "way, ",
+				"start": 13.58,
+				"end": 13.86,
+				"index": 41
+			},
+			{
+				"text": "world ",
+				"start": 13.92,
+				"end": 14.24,
+				"index": 42
+			},
+			{
+				"text": "don't ",
+				"start": 14.24,
+				"end": 14.64,
+				"index": 43
+			},
+			{
+				"text": "let ",
+				"start": 14.64,
+				"end": 14.74,
+				"index": 44
+			},
+			{
+				"text": "that ",
+				"start": 14.74,
+				"end": 14.92,
+				"index": 45
+			},
+			{
+				"text": "age ",
+				"start": 14.92,
+				"end": 15.16,
+				"index": 46
+			},
+			{
+				"text": "fool ",
+				"start": 15.16,
+				"end": 15.38,
+				"index": 47
+			},
+			{
+				"text": "you, ",
+				"start": 15.38,
+				"end": 15.48,
+				"index": 48
+			},
+			{
+				"text": "still ",
+				"start": 15.52,
+				"end": 15.64,
+				"index": 49
+			},
+			{
+				"text": "the ",
+				"start": 15.64,
+				"end": 15.82,
+				"index": 50
+			},
+			{
+				"text": "best ",
+				"start": 15.82,
+				"end": 16.1,
+				"index": 51
+			},
+			{
+				"text": "player ",
+				"start": 16.1,
+				"end": 16.44,
+				"index": 52
+			},
+			{
+				"text": "and ",
+				"start": 16.44,
+				"end": 17.1,
+				"index": 53
+			},
+			{
+				"text": "we ",
+				"start": 17.1,
+				"end": 17.22,
+				"index": 54
+			},
+			{
+				"text": "know ",
+				"start": 17.22,
+				"end": 17.36,
+				"index": 55
+			},
+			{
+				"text": "one ",
+				"start": 17.36,
+				"end": 17.54,
+				"index": 56
+			},
+			{
+				"text": "day ",
+				"start": 17.54,
+				"end": 17.7,
+				"index": 57
+			},
+			{
+				"text": "he'll ",
+				"start": 17.7,
+				"end": 17.9,
+				"index": 58
+			},
+			{
+				"text": "run ",
+				"start": 17.9,
+				"end": 18.02,
+				"index": 59
+			},
+			{
+				"text": "outta ",
+				"start": 18.02,
+				"end": 18.22,
+				"index": 60
+			},
+			{
+				"text": "time ",
+				"start": 18.22,
+				"end": 18.58,
+				"index": 61
+			},
+			{
+				"text": "but ",
+				"start": 18.58,
+				"end": 19.46,
+				"index": 62
+			},
+			{
+				"text": "he's ",
+				"start": 19.46,
+				"end": 19.72,
+				"index": 63
+			},
+			{
+				"text": "the ",
+				"start": 19.72,
+				"end": 19.8,
+				"index": 64
+			},
+			{
+				"text": "one, ",
+				"start": 19.8,
+				"end": 20.04,
+				"index": 65
+			},
+			{
+				"text": "yeah ",
+				"start": 20.12,
+				"end": 20.38,
+				"index": 66
+			},
+			{
+				"text": "uh ",
+				"start": 26.02,
+				"end": 26.4,
+				"index": 67
+			},
+			{
+				"text": "uh ",
+				"start": 26.4,
+				"end": 26.76,
+				"index": 68
+			},
+			{
+				"text": "uh ",
+				"start": 26.76,
+				"end": 27.06,
+				"index": 69
+			},
+			{
+				"text": "uh ",
+				"start": 27.06,
+				"end": 27.22,
+				"index": 70
+			},
+			{
+				"text": "he's the ",
+				"start": 27.22,
+				"end": 27.82,
+				"index": 71
+			},
+			{
+				"text": "one, ",
+				"start": 27.82,
+				"end": 28.06,
+				"index": 72
+			},
+			{
+				"text": "uh ",
+				"start": 28.18,
+				"end": 28.42,
+				"index": 73
+			},
+			{
+				"text": "uh ",
+				"start": 28.42,
+				"end": 28.9,
+				"index": 74
+			},
+			{
+				"text": "uh ",
+				"start": 28.9,
+				"end": 29.26,
+				"index": 75
+			},
+			{
+				"text": "uh ",
+				"start": 29.26,
+				"end": 29.4,
+				"index": 76
+			},
+			{
+				"text": "he's the ",
+				"start": 29.4,
+				"end": 29.98,
+				"index": 77
+			},
+			{
+				"text": "chosen ",
+				"start": 29.98,
+				"end": 30.24,
+				"index": 78
+			},
+			{
+				"text": "one",
+				"start": 30.24,
+				"end": 30.58,
+				"index": 79
+			}
+		],
+		"start": -1,
+		"end": 29.58
+	}
+]

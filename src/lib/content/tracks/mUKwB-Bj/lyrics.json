@@ -1,0 +1,740 @@
+[
+	{
+		"words": [
+			{
+				"text": "is ",
+				"start": 1.14,
+				"end": 1.54,
+				"index": 0
+			},
+			{
+				"text": "it ",
+				"start": 1.54,
+				"end": 1.74,
+				"index": 1
+			},
+			{
+				"text": "true? ",
+				"start": 1.74,
+				"end": 2.1,
+				"index": 2
+			},
+			{
+				"text": "you ",
+				"start": 2.92,
+				"end": 3.48,
+				"index": 3
+			},
+			{
+				"text": "got ",
+				"start": 3.48,
+				"end": 3.7,
+				"index": 4
+			},
+			{
+				"text": "the ",
+				"start": 3.7,
+				"end": 3.8,
+				"index": 5
+			},
+			{
+				"text": "most ",
+				"start": 3.8,
+				"end": 4.06,
+				"index": 6
+			},
+			{
+				"text": "minutes ",
+				"start": 4.06,
+				"end": 4.32,
+				"index": 7
+			},
+			{
+				"text": "all ",
+				"start": 4.32,
+				"end": 4.58,
+				"index": 8
+			},
+			{
+				"text": "time ",
+				"start": 4.58,
+				"end": 4.96,
+				"index": 9
+			},
+			{
+				"text": "you're ",
+				"start": 4.96,
+				"end": 6.18,
+				"index": 10
+			},
+			{
+				"text": "a ",
+				"start": 6.18,
+				"end": 6.22,
+				"index": 11
+			},
+			{
+				"text": "really ",
+				"start": 6.22,
+				"end": 6.38,
+				"index": 12
+			},
+			{
+				"text": "different ",
+				"start": 6.38,
+				"end": 6.6,
+				"index": 13
+			},
+			{
+				"text": "LeBron ",
+				"start": 6.6,
+				"end": 7.12,
+				"index": 14
+			},
+			{
+				"text": "but ",
+				"start": 7.12,
+				"end": 8.4,
+				"index": 15
+			},
+			{
+				"text": "all ",
+				"start": 8.4,
+				"end": 8.52,
+				"index": 16
+			},
+			{
+				"text": "these ",
+				"start": 8.52,
+				"end": 8.66,
+				"index": 17
+			},
+			{
+				"text": "shoulda ",
+				"start": 8.66,
+				"end": 8.96,
+				"index": 18
+			},
+			{
+				"text": "coulda ",
+				"start": 8.96,
+				"end": 9.22,
+				"index": 19
+			},
+			{
+				"text": "wouldas ",
+				"start": 9.22,
+				"end": 9.68,
+				"index": 20
+			},
+			{
+				"text": "brought ",
+				"start": 9.68,
+				"end": 10.62,
+				"index": 21
+			},
+			{
+				"text": "you ",
+				"start": 10.62,
+				"end": 10.76,
+				"index": 22
+			},
+			{
+				"text": "the ",
+				"start": 10.76,
+				"end": 10.88,
+				"index": 23
+			},
+			{
+				"text": "greatest ",
+				"start": 10.88,
+				"end": 11.16,
+				"index": 24
+			},
+			{
+				"text": "all ",
+				"start": 11.16,
+				"end": 11.4,
+				"index": 25
+			},
+			{
+				"text": "time ",
+				"start": 11.4,
+				"end": 11.78,
+				"index": 26
+			},
+			{
+				"text": "ain't ",
+				"start": 11.78,
+				"end": 12.98,
+				"index": 27
+			},
+			{
+				"text": "no ",
+				"start": 12.98,
+				"end": 13.06,
+				"index": 28
+			},
+			{
+				"text": "debate ",
+				"start": 13.06,
+				"end": 13.28,
+				"index": 29
+			},
+			{
+				"text": "about ",
+				"start": 13.28,
+				"end": 13.58,
+				"index": 30
+			},
+			{
+				"text": "the ",
+				"start": 13.58,
+				"end": 13.72,
+				"index": 31
+			},
+			{
+				"text": "nineties ",
+				"start": 13.72,
+				"end": 14.24,
+				"index": 32
+			},
+			{
+				"text": "cuz ",
+				"start": 14.24,
+				"end": 15.2,
+				"index": 33
+			},
+			{
+				"text": "we ",
+				"start": 15.2,
+				"end": 15.32,
+				"index": 34
+			},
+			{
+				"text": "don't ",
+				"start": 15.32,
+				"end": 15.56,
+				"index": 35
+			},
+			{
+				"text": "care ",
+				"start": 15.56,
+				"end": 15.7,
+				"index": 36
+			},
+			{
+				"text": "at ",
+				"start": 15.7,
+				"end": 16.02,
+				"index": 37
+			},
+			{
+				"text": "all ",
+				"start": 16.02,
+				"end": 16.68,
+				"index": 38
+			},
+			{
+				"text": "but ",
+				"start": 16.68,
+				"end": 17.4,
+				"index": 39
+			},
+			{
+				"text": "we ",
+				"start": 17.4,
+				"end": 17.6,
+				"index": 40
+			},
+			{
+				"text": "don't ",
+				"start": 17.6,
+				"end": 17.76,
+				"index": 41
+			},
+			{
+				"text": "care ",
+				"start": 17.76,
+				"end": 17.98,
+				"index": 42
+			},
+			{
+				"text": "at ",
+				"start": 17.98,
+				"end": 18.48,
+				"index": 43
+			},
+			{
+				"text": "all ",
+				"start": 18.48,
+				"end": 19,
+				"index": 44
+			},
+			{
+				"text": "cuz ",
+				"start": 19,
+				"end": 20.12,
+				"index": 45
+			},
+			{
+				"text": "LeBron's ",
+				"start": 20.12,
+				"end": 22.24,
+				"index": 46
+			},
+			{
+				"text": "played ",
+				"start": 22.24,
+				"end": 22.46,
+				"index": 47
+			},
+			{
+				"text": "his ",
+				"start": 22.46,
+				"end": 22.6,
+				"index": 48
+			},
+			{
+				"text": "whole ",
+				"start": 22.6,
+				"end": 22.8,
+				"index": 49
+			},
+			{
+				"text": "life ",
+				"start": 22.8,
+				"end": 23.36,
+				"index": 50
+			},
+			{
+				"text": "and ",
+				"start": 23.36,
+				"end": 23.66,
+				"index": 51
+			},
+			{
+				"text": "he ",
+				"start": 23.66,
+				"end": 24.56,
+				"index": 52
+			},
+			{
+				"text": "earned ",
+				"start": 24.56,
+				"end": 24.86,
+				"index": 53
+			},
+			{
+				"text": "it ",
+				"start": 24.86,
+				"end": 25.14,
+				"index": 54
+			},
+			{
+				"text": "all ",
+				"start": 25.14,
+				"end": 25.62,
+				"index": 55
+			},
+			{
+				"text": "cuz ",
+				"start": 25.62,
+				"end": 26.66,
+				"index": 56
+			},
+			{
+				"text": "he ",
+				"start": 26.66,
+				"end": 26.86,
+				"index": 57
+			},
+			{
+				"text": "earned ",
+				"start": 26.86,
+				"end": 27.14,
+				"index": 58
+			},
+			{
+				"text": "it ",
+				"start": 27.14,
+				"end": 27.32,
+				"index": 59
+			},
+			{
+				"text": "when ",
+				"start": 27.32,
+				"end": 27.52,
+				"index": 60
+			},
+			{
+				"text": "he ",
+				"start": 27.52,
+				"end": 27.68,
+				"index": 61
+			},
+			{
+				"text": "went ",
+				"start": 27.68,
+				"end": 27.9,
+				"index": 62
+			},
+			{
+				"text": "back ",
+				"start": 27.9,
+				"end": 28.18,
+				"index": 63
+			},
+			{
+				"text": "to ",
+				"start": 28.18,
+				"end": 28.42,
+				"index": 64
+			},
+			{
+				"text": "his ",
+				"start": 28.42,
+				"end": 28.74,
+				"index": 65
+			},
+			{
+				"text": "city ",
+				"start": 28.74,
+				"end": 29.24,
+				"index": 66
+			},
+			{
+				"text": "not ",
+				"start": 29.24,
+				"end": 30.22,
+				"index": 67
+			},
+			{
+				"text": "long ",
+				"start": 31.95,
+				"end": 32.23,
+				"index": 68
+			},
+			{
+				"text": "since ",
+				"start": 32.23,
+				"end": 32.41,
+				"index": 69
+			},
+			{
+				"text": "day ",
+				"start": 32.41,
+				"end": 32.57,
+				"index": 70
+			},
+			{
+				"text": "one ",
+				"start": 32.57,
+				"end": 32.73,
+				"index": 71
+			},
+			{
+				"text": "was ",
+				"start": 32.73,
+				"end": 33.09,
+				"index": 72
+			},
+			{
+				"text": "too ",
+				"start": 33.09,
+				"end": 33.27,
+				"index": 73
+			},
+			{
+				"text": "long ",
+				"start": 33.27,
+				"end": 33.61,
+				"index": 74
+			},
+			{
+				"text": "he ",
+				"start": 33.61,
+				"end": 34.19,
+				"index": 75
+			},
+			{
+				"text": "came ",
+				"start": 34.19,
+				"end": 34.41,
+				"index": 76
+			},
+			{
+				"text": "back ",
+				"start": 34.41,
+				"end": 34.63,
+				"index": 77
+			},
+			{
+				"text": "with ",
+				"start": 34.63,
+				"end": 34.79,
+				"index": 78
+			},
+			{
+				"text": "love ",
+				"start": 34.79,
+				"end": 35.07,
+				"index": 79
+			},
+			{
+				"text": "from ",
+				"start": 35.07,
+				"end": 35.39,
+				"index": 80
+			},
+			{
+				"text": "3",
+				"start": 35.39,
+				"end": 35.59,
+				"index": 81
+			},
+			{
+				"text": "-1 ",
+				"start": 35.59,
+				"end": 35.81,
+				"index": 82
+			},
+			{
+				"text": "LeBron ",
+				"start": 35.81,
+				"end": 36.09,
+				"index": 83
+			},
+			{
+				"text": "I'm ",
+				"start": 36.09,
+				"end": 36.37,
+				"index": 84
+			},
+			{
+				"text": "just ",
+				"start": 36.37,
+				"end": 36.49,
+				"index": 85
+			},
+			{
+				"text": "tryna ",
+				"start": 36.49,
+				"end": 36.73,
+				"index": 86
+			},
+			{
+				"text": "say ",
+				"start": 36.73,
+				"end": 37.05,
+				"index": 87
+			},
+			{
+				"text": "that ",
+				"start": 37.05,
+				"end": 37.23,
+				"index": 88
+			},
+			{
+				"text": "you ",
+				"start": 37.23,
+				"end": 37.51,
+				"index": 89
+			},
+			{
+				"text": "are ",
+				"start": 37.51,
+				"end": 37.81,
+				"index": 90
+			},
+			{
+				"text": "really ",
+				"start": 37.81,
+				"end": 38.27,
+				"index": 91
+			},
+			{
+				"text": "yeah",
+				"start": 38.27,
+				"end": 39.35,
+				"index": 92
+			}
+		],
+		"start": -1,
+		"end": 38.35
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.14,
+				"index": 93
+			},
+			{
+				"text": "don't ",
+				"start": 0.14,
+				"end": 0.3,
+				"index": 94
+			},
+			{
+				"text": "believe ",
+				"start": 0.3,
+				"end": 0.52,
+				"index": 95
+			},
+			{
+				"text": "what ",
+				"start": 0.52,
+				"end": 0.68,
+				"index": 96
+			},
+			{
+				"text": "they ",
+				"start": 0.68,
+				"end": 0.78,
+				"index": 97
+			},
+			{
+				"text": "say ",
+				"start": 0.78,
+				"end": 1.06,
+				"index": 98
+			},
+			{
+				"text": "cuz ",
+				"start": 1.06,
+				"end": 1.38,
+				"index": 99
+			},
+			{
+				"text": "this ",
+				"start": 1.38,
+				"end": 1.54,
+				"index": 100
+			},
+			{
+				"text": "ain't ",
+				"start": 1.54,
+				"end": 1.9,
+				"index": 101
+			},
+			{
+				"text": "nothin' ",
+				"start": 1.9,
+				"end": 2.04,
+				"index": 102
+			},
+			{
+				"text": "new ",
+				"start": 2.2,
+				"end": 2.26,
+				"index": 103
+			},
+			{
+				"text": "to ",
+				"start": 2.26,
+				"end": 2.42,
+				"index": 104
+			},
+			{
+				"text": "ya ",
+				"start": 2.42,
+				"end": 2.68,
+				"index": 105
+			},
+			{
+				"text": "LeBron ",
+				"start": 2.68,
+				"end": 3.1,
+				"index": 106
+			},
+			{
+				"text": "makes ",
+				"start": 3.1,
+				"end": 3.28,
+				"index": 107
+			},
+			{
+				"text": "every ",
+				"start": 3.28,
+				"end": 3.6,
+				"index": 108
+			},
+			{
+				"text": "day ",
+				"start": 3.6,
+				"end": 3.98,
+				"index": 109
+			},
+			{
+				"text": "touchin' ",
+				"start": 3.98,
+				"end": 5,
+				"index": 110
+			},
+			{
+				"text": "he ",
+				"start": 5.02,
+				"end": 5.4,
+				"index": 111
+			},
+			{
+				"text": "already ",
+				"start": 5.4,
+				"end": 5.88,
+				"index": 112
+			},
+			{
+				"text": "loves ",
+				"start": 5.88,
+				"end": 6.36,
+				"index": 113
+			},
+			{
+				"text": "this ",
+				"start": 6.36,
+				"end": 6.58,
+				"index": 114
+			},
+			{
+				"text": "city ",
+				"start": 6.58,
+				"end": 6.94,
+				"index": 115
+			},
+			{
+				"text": "oh ",
+				"start": 6.94,
+				"end": 7.76,
+				"index": 116
+			},
+			{
+				"text": "oh ",
+				"start": 7.76,
+				"end": 8.3,
+				"index": 117
+			},
+			{
+				"text": "oh ",
+				"start": 8.3,
+				"end": 8.42,
+				"index": 118
+			},
+			{
+				"text": "oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh ",
+				"start": 8.42,
+				"end": 8.56,
+				"index": 119
+			},
+			{
+				"text": "oh oh oh oh oh",
+				"start": 8.56,
+				"end": 8.58,
+				"index": 120
+			}
+		],
+		"start": 40.78,
+		"end": 49.36
+	}
+]

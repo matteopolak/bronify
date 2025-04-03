@@ -1,0 +1,302 @@
+[
+	{
+		"words": [
+			{
+				"text": "so ",
+				"start": 2.74,
+				"end": 3.32,
+				"index": 0
+			},
+			{
+				"text": "I ",
+				"start": 3.32,
+				"end": 3.48,
+				"index": 1
+			},
+			{
+				"text": "put ",
+				"start": 3.48,
+				"end": 3.7,
+				"index": 2
+			},
+			{
+				"text": "my ",
+				"start": 3.7,
+				"end": 4.06,
+				"index": 3
+			},
+			{
+				"text": "faith ",
+				"start": 4.06,
+				"end": 4.74,
+				"index": 4
+			},
+			{
+				"text": "all ",
+				"start": 4.74,
+				"end": 5.24,
+				"index": 5
+			},
+			{
+				"text": "into ",
+				"start": 5.24,
+				"end": 5.56,
+				"index": 6
+			},
+			{
+				"text": "LeBron ",
+				"start": 5.56,
+				"end": 6.54,
+				"index": 7
+			},
+			{
+				"text": "he's ",
+				"start": 6.54,
+				"end": 7.62,
+				"index": 8
+			},
+			{
+				"text": "givin' ",
+				"start": 7.62,
+				"end": 8.08,
+				"index": 9
+			},
+			{
+				"text": "me ",
+				"start": 8.08,
+				"end": 8.18,
+				"index": 10
+			},
+			{
+				"text": "such ",
+				"start": 8.18,
+				"end": 8.68,
+				"index": 11
+			},
+			{
+				"text": "sweet ",
+				"start": 8.68,
+				"end": 9.14,
+				"index": 12
+			},
+			{
+				"text": "buckets ",
+				"start": 9.14,
+				"end": 9.94,
+				"index": 13
+			},
+			{
+				"text": "we ",
+				"start": 9.94,
+				"end": 10.82,
+				"index": 14
+			},
+			{
+				"text": "know ",
+				"start": 10.82,
+				"end": 11.06,
+				"index": 15
+			},
+			{
+				"text": "he's ",
+				"start": 11.06,
+				"end": 11.46,
+				"index": 16
+			},
+			{
+				"text": "the ",
+				"start": 11.46,
+				"end": 11.6,
+				"index": 17
+			},
+			{
+				"text": "GOAT, ",
+				"start": 11.6,
+				"end": 12.44,
+				"index": 18
+			},
+			{
+				"text": "that's ",
+				"start": 12.44,
+				"end": 12.74,
+				"index": 19
+			},
+			{
+				"text": "why",
+				"start": 12.74,
+				"end": 12.86,
+				"index": 20
+			}
+		],
+		"start": -1,
+		"end": 11.86
+	},
+	{
+		"words": [
+			{
+				"text": "BRODS ",
+				"start": 0,
+				"end": 0.52,
+				"index": 21
+			},
+			{
+				"text": "still ",
+				"start": 0.52,
+				"end": 0.72,
+				"index": 22
+			},
+			{
+				"text": "know ",
+				"start": 0.72,
+				"end": 1.06,
+				"index": 23
+			},
+			{
+				"text": "he's ",
+				"start": 1.06,
+				"end": 2.26,
+				"index": 24
+			},
+			{
+				"text": "givin' ",
+				"start": 2.26,
+				"end": 2.7,
+				"index": 25
+			},
+			{
+				"text": "us ",
+				"start": 2.7,
+				"end": 2.94,
+				"index": 26
+			},
+			{
+				"text": "such ",
+				"start": 2.94,
+				"end": 3.36,
+				"index": 27
+			},
+			{
+				"text": "sweet ",
+				"start": 3.36,
+				"end": 3.78,
+				"index": 28
+			},
+			{
+				"text": "buckets ",
+				"start": 3.78,
+				"end": 4.64,
+				"index": 29
+			},
+			{
+				"text": "is ",
+				"start": 4.64,
+				"end": 5.48,
+				"index": 30
+			},
+			{
+				"text": "that ",
+				"start": 5.48,
+				"end": 5.62,
+				"index": 31
+			},
+			{
+				"text": "not ",
+				"start": 5.62,
+				"end": 5.9,
+				"index": 32
+			},
+			{
+				"text": "enough? ",
+				"start": 5.9,
+				"end": 6.6,
+				"index": 33
+			},
+			{
+				"text": "is ",
+				"start": 7.08,
+				"end": 7.32,
+				"index": 34
+			},
+			{
+				"text": "that ",
+				"start": 7.32,
+				"end": 7.52,
+				"index": 35
+			},
+			{
+				"text": "not ",
+				"start": 7.52,
+				"end": 7.86,
+				"index": 36
+			},
+			{
+				"text": "enough? ",
+				"start": 7.86,
+				"end": 8.4,
+				"index": 37
+			},
+			{
+				"text": "he's ",
+				"start": 9.04,
+				"end": 9.72,
+				"index": 38
+			},
+			{
+				"text": "givin' ",
+				"start": 9.72,
+				"end": 10.2,
+				"index": 39
+			},
+			{
+				"text": "us ",
+				"start": 10.2,
+				"end": 10.4,
+				"index": 40
+			},
+			{
+				"text": "such ",
+				"start": 10.4,
+				"end": 11.02,
+				"index": 41
+			},
+			{
+				"text": "sweet ",
+				"start": 12.34,
+				"end": 12.9,
+				"index": 42
+			},
+			{
+				"text": "buckets ",
+				"start": 12.9,
+				"end": 14.04,
+				"index": 43
+			},
+			{
+				"text": "sweet",
+				"start": 14.04,
+				"end": 15.04,
+				"index": 44
+			},
+			{
+				"text": "-",
+				"start": 15.04,
+				"end": 15.16,
+				"index": 45
+			}
+		],
+		"start": 11.86,
+		"end": 27.02
+	},
+	{
+		"words": [
+			{
+				"text": "BOOOOM",
+				"start": 0,
+				"end": 0.2,
+				"index": 46
+			}
+		],
+		"start": 27.02,
+		"end": 27.22
+	}
+]

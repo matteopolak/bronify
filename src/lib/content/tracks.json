@@ -1,5 +1,20 @@
 [
 	{
+		"id": "_79qBTEr",
+		"artist": "sBmQzZgO",
+		"title": "Bronsiduals",
+		"durationSeconds": 82,
+		"tags": [
+			"soul",
+			"blues",
+			"pop",
+			"tender",
+			"funk"
+		],
+		"index": 239,
+		"createdAt": 1743717733627
+	},
+	{
 		"id": "_HlyX0V-",
 		"artist": "wtLkiXHy",
 		"title": "Luka & Bron",
@@ -23,6 +38,19 @@
 		],
 		"index": 78,
 		"createdAt": 1743105314346
+	},
+	{
+		"id": "-GzcxkjV",
+		"artist": "nRGgvnc2",
+		"title": "LeBron Medication",
+		"durationSeconds": 58,
+		"tags": [
+			"country",
+			"tender",
+			"happy"
+		],
+		"index": 240,
+		"createdAt": 1743717733627
 	},
 	{
 		"id": "-LfNcibj",
@@ -142,6 +170,20 @@
 		"createdAt": 1743042559879
 	},
 	{
+		"id": "1_kLt9Mm",
+		"artist": "K0LZD-q4",
+		"title": "LeWake Up Call",
+		"durationSeconds": 41,
+		"tags": [
+			"rock",
+			"reggae",
+			"country",
+			"ska"
+		],
+		"index": 241,
+		"createdAt": 1743717733627
+	},
+	{
 		"title": "LeBron LeBron LeBron James",
 		"artist": "VuDquPRD",
 		"tags": [
@@ -234,6 +276,21 @@
 		"createdAt": 1743125937248
 	},
 	{
+		"id": "3_Sl93Lm",
+		"artist": "f7x78AAY",
+		"title": "My LeType",
+		"durationSeconds": 52,
+		"tags": [
+			"hip_hop",
+			"rap",
+			"pop",
+			"funk",
+			"blues"
+		],
+		"index": 242,
+		"createdAt": 1743717733627
+	},
+	{
 		"id": "384wGS5p",
 		"artist": "RYFVA3EJ",
 		"title": "LeRide",
@@ -247,6 +304,21 @@
 		],
 		"index": 217,
 		"createdAt": 1743561443043
+	},
+	{
+		"id": "3lw39d-t",
+		"artist": "HxKt3995",
+		"title": "Bronder Your Spell",
+		"durationSeconds": 39,
+		"tags": [
+			"electronic",
+			"pop",
+			"techno",
+			"disco",
+			"funk"
+		],
+		"index": 243,
+		"createdAt": 1743717733627
 	},
 	{
 		"id": "3unpaGzc",
@@ -350,6 +422,21 @@
 		"createdAt": 1743133211953
 	},
 	{
+		"id": "5PMaE3gS",
+		"artist": "f7x78AAY",
+		"title": "LeTikTok",
+		"durationSeconds": 35,
+		"tags": [
+			"pop",
+			"hip_hop",
+			"blues",
+			"rap",
+			"soundtrack"
+		],
+		"index": 244,
+		"createdAt": 1743717733627
+	},
+	{
 		"id": "5t8x1kQj",
 		"artist": "9Dltjzsy",
 		"title": "Hey There LePookie",
@@ -432,6 +519,18 @@
 		"createdAt": 1743105338295
 	},
 	{
+		"id": "8_lOUWi_",
+		"artist": "KOMK5jMT",
+		"title": "They Not Like Bron",
+		"durationSeconds": 59,
+		"tags": [
+			"rap",
+			"hip_hop"
+		],
+		"index": 245,
+		"createdAt": 1743717733627
+	},
+	{
 		"id": "84H5Kg2D",
 		"artist": "8LIfJKYc",
 		"title": "Glazin' Bron",
@@ -444,6 +543,22 @@
 		],
 		"index": 145,
 		"createdAt": 1743289416356
+	},
+	{
+		"id": "8Fn2S-qh",
+		"artist": "f87avvgz",
+		"title": "LeLow Down",
+		"durationSeconds": 62,
+		"tags": [
+			"hip_hop",
+			"blues",
+			"reggae",
+			"rap",
+			"funk",
+			"pop"
+		],
+		"index": 246,
+		"createdAt": 1743717733627
 	},
 	{
 		"id": "8lLkaRzH",
@@ -460,6 +575,15 @@
 		],
 		"index": 59,
 		"createdAt": 1743105249503
+	},
+	{
+		"id": "8r7-ueJQ",
+		"artist": "aSk8W0FO",
+		"title": "Bron You My Everything",
+		"durationSeconds": 56,
+		"tags": [],
+		"index": 247,
+		"createdAt": 1743717733627
 	},
 	{
 		"id": "8SU_-eCA",
@@ -515,6 +639,22 @@
 		],
 		"index": 27,
 		"createdAt": 1743130237332
+	},
+	{
+		"id": "9nGaIhqz",
+		"artist": "ruf7LPlz",
+		"title": "Bron Song",
+		"durationSeconds": 59,
+		"tags": [
+			"hip_hop",
+			"rap",
+			"blues",
+			"reggae",
+			"funk",
+			"pop"
+		],
+		"index": 248,
+		"createdAt": 1743717733627
 	},
 	{
 		"id": "9NhCrdP8",
@@ -891,7 +1031,20 @@
 		"createdAt": 1743546051959
 	},
 	{
-		"title": "I Write Brons Not Brongedies",
+		"id": "Ci30MIjz",
+		"artist": "i2P4YycH",
+		"title": "Hey Bron",
+		"durationSeconds": 61,
+		"tags": [
+			"rap",
+			"hip_hop",
+			"pop"
+		],
+		"index": 249,
+		"createdAt": 1743717733627
+	},
+	{
+		"title": "Panic! at LeDisco",
 		"artist": "zIxev3C1",
 		"tags": [
 			"rock",
@@ -918,6 +1071,58 @@
 		],
 		"index": 164,
 		"createdAt": 1743380820401
+	},
+	{
+		"id": "CW6epIEG",
+		"artist": "sLVzZsIi",
+		"title": "Wait for Bron",
+		"durationSeconds": 61,
+		"tags": [
+			"blues",
+			"funk",
+			"hip_hop",
+			"pop",
+			"rap"
+		],
+		"index": 250,
+		"createdAt": 1743717733627
+	},
+	{
+		"id": "CZPLAHPo",
+		"artist": "f7x78AAY",
+		"title": "The LeTake",
+		"durationSeconds": 31,
+		"tags": [
+			"rap",
+			"hip_hop",
+			"blues"
+		],
+		"index": 251,
+		"createdAt": 1743717733627
+	},
+	{
+		"id": "DaQQbBpK",
+		"artist": "Q9rkVp4U",
+		"title": "LeAll of Me",
+		"durationSeconds": 59,
+		"tags": [
+			"tender",
+			"lullaby"
+		],
+		"index": 252,
+		"createdAt": 1743717733627
+	},
+	{
+		"id": "DDKqO-yP",
+		"artist": "8xkYO0PC",
+		"title": "Sweet Buckets",
+		"durationSeconds": 46,
+		"tags": [
+			"electronic",
+			"techno"
+		],
+		"index": 253,
+		"createdAt": 1743717733627
 	},
 	{
 		"id": "DhRLPulT",
@@ -975,6 +1180,21 @@
 		],
 		"index": 153,
 		"createdAt": 1743350900691
+	},
+	{
+		"id": "dtihYYJd",
+		"artist": "HqjJi6zF",
+		"title": "LePlay",
+		"durationSeconds": 53,
+		"tags": [
+			"blues",
+			"reggae",
+			"hip_hop",
+			"pop",
+			"rap"
+		],
+		"index": 254,
+		"createdAt": 1743717733627
 	},
 	{
 		"id": "DTKjfnXU",
@@ -1132,6 +1352,18 @@
 		],
 		"index": 154,
 		"createdAt": 1743374700741
+	},
+	{
+		"id": "fAm6GRBn",
+		"artist": "eNeTtm1e",
+		"title": "Ain't No Sunshine Without Bron",
+		"durationSeconds": 58,
+		"tags": [
+			"soul",
+			"country"
+		],
+		"index": 255,
+		"createdAt": 1743717733627
 	},
 	{
 		"id": "FGzwP-eJ",
@@ -1316,6 +1548,22 @@
 		],
 		"index": 56,
 		"createdAt": 1743129775928
+	},
+	{
+		"id": "GoKDM5Tg",
+		"artist": "f7x78AAY",
+		"title": "LeEverytime We Touch",
+		"durationSeconds": 30,
+		"tags": [
+			"techno",
+			"electronic",
+			"pop",
+			"soundtrack",
+			"disco",
+			"house"
+		],
+		"index": 256,
+		"createdAt": 1743717733627
 	},
 	{
 		"id": "GTC11Wcl",
@@ -1567,6 +1815,22 @@
 		"createdAt": 1743288696479
 	},
 	{
+		"id": "j1bdM--K",
+		"artist": "Jz73xFw2",
+		"title": "Feel Le-way",
+		"durationSeconds": 70,
+		"tags": [
+			"blues",
+			"hip_hop",
+			"electronic",
+			"pop",
+			"funk",
+			"rap"
+		],
+		"index": 257,
+		"createdAt": 1743717733627
+	},
+	{
 		"title": "LeBron Hour",
 		"artist": "zIxev3C1",
 		"tags": [
@@ -1579,6 +1843,34 @@
 		"id": "J3gJqua9",
 		"index": 14,
 		"createdAt": 1743042559884
+	},
+	{
+		"id": "J60cjJYb",
+		"artist": "Jz73xFw2",
+		"title": "Wait for Bron",
+		"durationSeconds": 60,
+		"tags": [
+			"blues",
+			"hip_hop",
+			"funk",
+			"rap",
+			"pop"
+		],
+		"index": 258,
+		"createdAt": 1743717733627
+	},
+	{
+		"id": "JAJnJSbj",
+		"artist": "Jz73xFw2",
+		"title": "Come and See Bron",
+		"durationSeconds": 76,
+		"tags": [
+			"hip_hop",
+			"electronic",
+			"blues"
+		],
+		"index": 259,
+		"createdAt": 1743717733627
 	},
 	{
 		"id": "jFGL7CYn",
@@ -1638,6 +1930,21 @@
 		"createdAt": 1743042559811
 	},
 	{
+		"id": "KAAdn6Jc",
+		"artist": "HqjJi6zF",
+		"title": "A Bron Song",
+		"durationSeconds": 41,
+		"tags": [
+			"soul",
+			"blues",
+			"country",
+			"happy",
+			"pop"
+		],
+		"index": 260,
+		"createdAt": 1743717733627
+	},
+	{
 		"id": "kakBuAt8",
 		"artist": "dSiIfp-D",
 		"title": "Le Le Le LeBron",
@@ -1649,6 +1956,18 @@
 		],
 		"index": 99,
 		"createdAt": 1743126599476
+	},
+	{
+		"id": "kBWokJSq",
+		"artist": "f7x78AAY",
+		"title": "LeWork",
+		"durationSeconds": 65,
+		"tags": [
+			"hip_hop",
+			"rap"
+		],
+		"index": 261,
+		"createdAt": 1743717733627
 	},
 	{
 		"id": "Khb9M8Oj",
@@ -1864,6 +2183,34 @@
 		"createdAt": 1743105648031
 	},
 	{
+		"id": "LtXRnvay",
+		"artist": "sLVzZsIi",
+		"title": "BronTiller",
+		"durationSeconds": 65,
+		"tags": [
+			"blues",
+			"hip_hop",
+			"tender",
+			"pop",
+			"soundtrack"
+		],
+		"index": 262,
+		"createdAt": 1743717733627
+	},
+	{
+		"id": "m0az41kK",
+		"artist": "f7x78AAY",
+		"title": "LeBaby",
+		"durationSeconds": 31,
+		"tags": [
+			"hip_hop",
+			"rap",
+			"pop"
+		],
+		"index": 263,
+		"createdAt": 1743717733627
+	},
+	{
 		"id": "M2T02DnU",
 		"artist": "XA310-yZ",
 		"title": "LeBaby",
@@ -1998,6 +2345,17 @@
 		"createdAt": 1743105088493
 	},
 	{
+		"id": "MQC8k9ay",
+		"artist": "f7x78AAY",
+		"title": "LeAll of Me",
+		"durationSeconds": 35,
+		"tags": [
+			"lullaby"
+		],
+		"index": 264,
+		"createdAt": 1743717733627
+	},
+	{
 		"id": "mqiV0MNv",
 		"artist": "ESnMmsiX",
 		"title": "Bronfriend",
@@ -2011,6 +2369,22 @@
 		],
 		"index": 33,
 		"createdAt": 1743090639540
+	},
+	{
+		"id": "mUKwB-Bj",
+		"artist": "Jz73xFw2",
+		"title": "Bron to His City",
+		"durationSeconds": 49,
+		"tags": [
+			"blues",
+			"tender",
+			"lullaby",
+			"sad",
+			"soul",
+			"hip_hop"
+		],
+		"index": 265,
+		"createdAt": 1743717733627
 	},
 	{
 		"id": "mxAdCwgL",
@@ -2136,6 +2510,33 @@
 		"createdAt": 1743090282849
 	},
 	{
+		"id": "nwr3MkUH",
+		"artist": "mW2jTAXr",
+		"title": "I Gotta Defend",
+		"durationSeconds": 75,
+		"tags": [
+			"lullaby",
+			"tender"
+		],
+		"index": 266,
+		"createdAt": 1743717733627
+	},
+	{
+		"id": "o2aqBCqT",
+		"artist": "ottAVTOv",
+		"title": "LeShape of You",
+		"durationSeconds": 47,
+		"tags": [
+			"reggae",
+			"soul",
+			"happy",
+			"blues",
+			"funk"
+		],
+		"index": 267,
+		"createdAt": 1743717733627
+	},
+	{
 		"id": "oInKTzxT",
 		"artist": "UcpV60fT",
 		"title": "When I Was Your Bron",
@@ -2174,6 +2575,21 @@
 		],
 		"index": 168,
 		"createdAt": 1743399492363
+	},
+	{
+		"id": "oYHhGCy4",
+		"artist": "f7x78AAY",
+		"title": "The LeBiggest G",
+		"durationSeconds": 26,
+		"tags": [
+			"rap",
+			"hip_hop",
+			"pop",
+			"soundtrack",
+			"funk"
+		],
+		"index": 268,
+		"createdAt": 1743717733627
 	},
 	{
 		"id": "p2NH_vsn",
@@ -2305,6 +2721,20 @@
 		"createdAt": 1743444840055
 	},
 	{
+		"id": "QaGu5zJQ",
+		"artist": "f7x78AAY",
+		"title": "LeFirst Day Out",
+		"durationSeconds": 36,
+		"tags": [
+			"rap",
+			"hip_hop",
+			"soundtrack",
+			"pop"
+		],
+		"index": 269,
+		"createdAt": 1743717733627
+	},
+	{
 		"title": "The LeBron That I Used To Know",
 		"artist": "zIxev3C1",
 		"tags": [],
@@ -2313,6 +2743,22 @@
 		"id": "qC1QNmDe",
 		"index": 38,
 		"createdAt": 1743042559894
+	},
+	{
+		"id": "qdkkRbyu",
+		"artist": "h-i-5vVy",
+		"title": "LeDilemma",
+		"durationSeconds": 50,
+		"tags": [
+			"blues",
+			"soul",
+			"tender",
+			"hip_hop",
+			"lullaby",
+			"pop"
+		],
+		"index": 270,
+		"createdAt": 1743717733627
 	},
 	{
 		"id": "QmGxily_",
@@ -2382,6 +2828,19 @@
 		"createdAt": 1743105919165
 	},
 	{
+		"id": "RE7LU-Uo",
+		"artist": "HqjJi6zF",
+		"title": "LeLovely",
+		"durationSeconds": 27,
+		"tags": [
+			"lullaby",
+			"tender",
+			"sad"
+		],
+		"index": 271,
+		"createdAt": 1743717733627
+	},
+	{
 		"id": "RIhH60Ap",
 		"artist": "HxKt3995",
 		"title": "King LeBron",
@@ -2408,6 +2867,20 @@
 		],
 		"index": 48,
 		"createdAt": 1743129731903
+	},
+	{
+		"id": "rrhssr72",
+		"artist": "f7x78AAY",
+		"title": "LeNot Like Bron",
+		"durationSeconds": 40,
+		"tags": [
+			"hip_hop",
+			"rap",
+			"pop",
+			"soundtrack"
+		],
+		"index": 272,
+		"createdAt": 1743717733627
 	},
 	{
 		"id": "Rsn4Xs1N",
@@ -2440,6 +2913,22 @@
 		],
 		"index": 151,
 		"createdAt": 1743347560871
+	},
+	{
+		"id": "S1aJuFPj",
+		"artist": "nuKspsi2",
+		"title": "LeTecca",
+		"durationSeconds": 26,
+		"tags": [
+			"rap",
+			"hip_hop",
+			"funk",
+			"blues",
+			"pop",
+			"reggae"
+		],
+		"index": 273,
+		"createdAt": 1743717733627
 	},
 	{
 		"id": "s2OiQnp8",
@@ -2624,6 +3113,21 @@
 		"createdAt": 1743105863524
 	},
 	{
+		"id": "tgI02oMk",
+		"artist": "pd9NvNCn",
+		"title": "Bron Addiction",
+		"durationSeconds": 61,
+		"tags": [
+			"hip_hop",
+			"rap",
+			"blues",
+			"reggae",
+			"soundtrack"
+		],
+		"index": 274,
+		"createdAt": 1743717733627
+	},
+	{
 		"id": "TGm1DuEs",
 		"artist": "Rc7Pnxnf",
 		"title": "Hold on, we got LeBron",
@@ -2700,6 +3204,22 @@
 		"createdAt": 1743042559969
 	},
 	{
+		"id": "U0HV9prU",
+		"artist": "aWreB_RV",
+		"title": "Locked Out the Finals",
+		"durationSeconds": 80,
+		"tags": [
+			"country",
+			"soul",
+			"reggae",
+			"blues",
+			"rock",
+			"happy"
+		],
+		"index": 275,
+		"createdAt": 1743717733627
+	},
+	{
 		"id": "U7KzD0U1",
 		"artist": "TRp1PQcK",
 		"title": "I'm sorry LeBron, please don't go",
@@ -2738,6 +3258,20 @@
 		],
 		"index": 222,
 		"createdAt": 1743636435071
+	},
+	{
+		"id": "UIjm0_Mg",
+		"artist": "01S6fgoV",
+		"title": "LeBronny is Home",
+		"durationSeconds": 27,
+		"tags": [
+			"pop",
+			"blues",
+			"hip_hop",
+			"soul"
+		],
+		"index": 276,
+		"createdAt": 1743717733627
 	},
 	{
 		"id": "UJpGZtwp",
@@ -2885,6 +3419,17 @@
 		"createdAt": 1743561443043
 	},
 	{
+		"id": "vpK_F2eI",
+		"artist": "f7x78AAY",
+		"title": "LeForget You",
+		"durationSeconds": 33,
+		"tags": [
+			"country"
+		],
+		"index": 277,
+		"createdAt": 1743717733627
+	},
+	{
 		"id": "VrAdterF",
 		"artist": "UcpV60fT",
 		"title": "Bron-ken Clocks",
@@ -2913,6 +3458,20 @@
 		],
 		"index": 166,
 		"createdAt": 1743399492363
+	},
+	{
+		"id": "vZwO3hOZ",
+		"artist": "bgB4ATK_",
+		"title": "Please Please Please LeBron",
+		"durationSeconds": 58,
+		"tags": [
+			"soul",
+			"happy",
+			"blues",
+			"tender"
+		],
+		"index": 278,
+		"createdAt": 1743717733627
 	},
 	{
 		"id": "wAFTrt45",
@@ -3043,6 +3602,22 @@
 		"createdAt": 1743126070709
 	},
 	{
+		"id": "xEHftABV",
+		"artist": "UcpV60fT",
+		"title": "The Color LeBron",
+		"durationSeconds": 45,
+		"tags": [
+			"soul",
+			"blues",
+			"reggae",
+			"funk",
+			"happy",
+			"pop"
+		],
+		"index": 279,
+		"createdAt": 1743717733627
+	},
+	{
 		"id": "xfXUU3z4",
 		"artist": "y1wFdrpa",
 		"title": "Bron Story",
@@ -3113,6 +3688,51 @@
 		],
 		"index": 77,
 		"createdAt": 1743212951083
+	},
+	{
+		"id": "Y_Gdktpa",
+		"artist": "Jz73xFw2",
+		"title": "LeChosen One",
+		"durationSeconds": 30,
+		"tags": [
+			"happy",
+			"blues",
+			"soundtrack",
+			"tender",
+			"pop"
+		],
+		"index": 280,
+		"createdAt": 1743717733627
+	},
+	{
+		"id": "y5j3KoZo",
+		"artist": "f7x78AAY",
+		"title": "LeMunch",
+		"durationSeconds": 42,
+		"tags": [
+			"hip_hop",
+			"rap",
+			"soundtrack",
+			"blues"
+		],
+		"index": 281,
+		"createdAt": 1743717733627
+	},
+	{
+		"id": "y6svBzwS",
+		"artist": "f7x78AAY",
+		"title": "LeRock My World",
+		"durationSeconds": 57,
+		"tags": [
+			"soul",
+			"blues",
+			"funk",
+			"pop",
+			"reggae",
+			"happy"
+		],
+		"index": 282,
+		"createdAt": 1743717733627
 	},
 	{
 		"id": "yaAnJTDi",

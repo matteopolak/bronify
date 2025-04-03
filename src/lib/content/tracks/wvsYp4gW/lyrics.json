@@ -86,25 +86,19 @@
 				"index": 12
 			},
 			{
-				"text": "against",
+				"text": "against ",
 				"start": 2.4,
 				"end": 2.7,
 				"index": 13
-			}
-		],
-		"start": 6.53,
-		"end": 9.23
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Chicago",
-				"start": 0,
-				"end": 0.44,
+				"start": 2.7,
+				"end": 3.14,
 				"index": 14
 			}
 		],
-		"start": 9.23,
+		"start": 6.53,
 		"end": 9.67
 	},
 	{

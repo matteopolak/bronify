@@ -244,10 +244,11 @@ async function main() {
 		} else {
 			console.log(`Thumbnail already downloaded for ${id}`);
 		}
+
+		fs.writeFileSync(path.join(root, 'tracks.json'), JSON.stringify(out, null, '\t'));
+		fs.writeFileSync(path.join(root, 'artists.json'), JSON.stringify(artists, null, '\t'));
 	}
 
-	fs.writeFileSync(path.join(root, 'tracks.json'), JSON.stringify(out, null, '\t'));
-	fs.writeFileSync(path.join(root, 'artists.json'), JSON.stringify(artists, null, '\t'));
 	try {
 		//fs.unlinkSync('./temp.mp3');
 	} catch (e) {
