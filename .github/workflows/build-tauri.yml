@@ -93,6 +93,7 @@ jobs:
             else
               # move the file to the `files` folder
               mv "$file" "files/$new_filename"
+            fi
           done
 
           if [[ "${{ matrix.platform }}" == "macos-latest" && "${{ matrix.args }}" == "--target aarch64-apple-darwin" ]]; then
