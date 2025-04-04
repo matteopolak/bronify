@@ -11,10 +11,16 @@ const root = 'src/lib/content/tracks';
 async function main() {
 	const output = `${root}/${id}/thumbnail.webp`;
 
-	const data = await axios.get(path, {
-		responseType: 'arraybuffer'
-	});
-	const thumbnailRaw = Buffer.from(data.data);
+	let thumbnailRaw: Buffer;
+
+	if (!path.startsWith('http')) {
+		thumbnailRaw = fs.readFileSync(path);
+	} else {
+		const data = await axios.get(path, {
+			responseType: 'arraybuffer'
+		});
+		thumbnailRaw = Buffer.from(data.data);
+	}
 
 	const thumbnail = await sharp(thumbnailRaw).resize(512, 512, { fit: 'cover' }).webp().toBuffer();
 
