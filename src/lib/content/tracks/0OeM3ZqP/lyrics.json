@@ -338,49 +338,43 @@
 				"index": 52
 			},
 			{
-				"text": "Bronny, ",
+				"text": "Bronny",
 				"start": 4.98,
-				"end": 5.42,
+				"end": 5.32,
 				"index": 53
-			},
-			{
-				"text": "he ",
-				"start": 5.52,
-				"end": 5.78,
-				"index": 54
-			},
-			{
-				"text": "and",
-				"start": 5.78,
-				"end": 6.04,
-				"index": 55
 			}
 		],
 		"start": 38.3,
-		"end": 44.34
+		"end": 43.62
 	},
 	{
 		"words": [
 			{
-				"text": "VA ",
+				"text": "The ",
 				"start": 0,
-				"end": 0.34,
-				"index": 56
+				"end": 0.26,
+				"index": 54
+			},
+			{
+				"text": "NBA ",
+				"start": 0.26,
+				"end": 0.86,
+				"index": 55
 			},
 			{
 				"text": "can't ",
-				"start": 0.34,
-				"end": 0.78,
-				"index": 57
+				"start": 0.86,
+				"end": 1.3,
+				"index": 56
 			},
 			{
 				"text": "compete",
-				"start": 0.78,
-				"end": 1.1,
-				"index": 58
+				"start": 1.3,
+				"end": 1.62,
+				"index": 57
 			}
 		],
-		"start": 44.34,
+		"start": 43.82,
 		"end": 45.44
 	},
 	{
@@ -389,61 +383,61 @@
 				"text": "There's ",
 				"start": 0,
 				"end": 0.74,
-				"index": 59
+				"index": 58
 			},
 			{
 				"text": "no ",
 				"start": 0.74,
 				"end": 0.86,
-				"index": 60
+				"index": 59
 			},
 			{
 				"text": "better ",
 				"start": 0.86,
 				"end": 1.42,
-				"index": 61
+				"index": 60
 			},
 			{
 				"text": "team ",
 				"start": 1.42,
 				"end": 1.82,
-				"index": 62
+				"index": 61
 			},
 			{
 				"text": "inside ",
 				"start": 1.82,
 				"end": 2.16,
-				"index": 63
+				"index": 62
 			},
 			{
 				"text": "the ",
 				"start": 2.16,
 				"end": 2.42,
-				"index": 64
+				"index": 63
 			},
 			{
 				"text": "whole ",
 				"start": 2.42,
 				"end": 2.64,
-				"index": 65
+				"index": 64
 			},
 			{
 				"text": "wide ",
 				"start": 2.64,
 				"end": 2.98,
-				"index": 66
+				"index": 65
 			},
 			{
 				"text": "world ",
 				"start": 2.98,
 				"end": 3.44,
-				"index": 67
+				"index": 66
 			},
 			{
 				"text": "tonight",
 				"start": 3.44,
 				"end": 4.16,
-				"index": 68
+				"index": 67
 			}
 		],
 		"start": 45.44,
@@ -455,31 +449,31 @@
 				"text": "Lakers ",
 				"start": 0,
 				"end": 0.68,
-				"index": 69
+				"index": 68
 			},
 			{
 				"text": "gonna ",
 				"start": 0.68,
 				"end": 1.02,
-				"index": 70
+				"index": 69
 			},
 			{
 				"text": "win ",
 				"start": 1.02,
 				"end": 1.46,
-				"index": 71
+				"index": 70
 			},
 			{
 				"text": "in ",
 				"start": 1.46,
 				"end": 1.78,
-				"index": 72
+				"index": 71
 			},
 			{
 				"text": "five",
 				"start": 1.78,
 				"end": 2.08,
-				"index": 73
+				"index": 72
 			}
 		],
 		"start": 51.12,
@@ -491,43 +485,43 @@
 				"text": "For ",
 				"start": 0,
 				"end": 1.9,
-				"index": 74
+				"index": 73
 			},
 			{
 				"text": "the ",
 				"start": 1.9,
 				"end": 2.18,
-				"index": 75
+				"index": 74
 			},
 			{
 				"text": "game ",
 				"start": 2.18,
 				"end": 2.4,
-				"index": 76
+				"index": 75
 			},
 			{
 				"text": "I'll ",
 				"start": 2.52,
 				"end": 2.68,
-				"index": 77
+				"index": 76
 			},
 			{
 				"text": "make ",
 				"start": 2.68,
 				"end": 2.86,
-				"index": 78
+				"index": 77
 			},
 			{
 				"text": "the ",
 				"start": 2.86,
 				"end": 3.24,
-				"index": 79
+				"index": 78
 			},
 			{
 				"text": "drive",
 				"start": 3.24,
 				"end": 3.84,
-				"index": 80
+				"index": 79
 			}
 		],
 		"start": 53.2,
@@ -539,37 +533,37 @@
 				"text": "He'll ",
 				"start": 0,
 				"end": 0.76,
-				"index": 81
+				"index": 80
 			},
 			{
 				"text": "keep ",
 				"start": 0.76,
 				"end": 0.86,
-				"index": 82
+				"index": 81
 			},
 			{
 				"text": "playin' ",
 				"start": 0.86,
 				"end": 1.42,
-				"index": 83
+				"index": 82
 			},
 			{
 				"text": "when ",
 				"start": 1.42,
 				"end": 1.52,
-				"index": 84
+				"index": 83
 			},
 			{
 				"text": "he's ",
 				"start": 1.52,
 				"end": 1.88,
-				"index": 85
+				"index": 84
 			},
 			{
 				"text": "59",
 				"start": 1.88,
 				"end": 2.46,
-				"index": 86
+				"index": 85
 			}
 		],
 		"start": 57.6,
@@ -581,43 +575,43 @@
 				"text": "He's ",
 				"start": 0,
 				"end": 0.74,
-				"index": 87
+				"index": 86
 			},
 			{
 				"text": "on ",
 				"start": 2.02,
 				"end": 2.14,
-				"index": 88
+				"index": 87
 			},
 			{
 				"text": "the ",
 				"start": 2.14,
 				"end": 2.32,
-				"index": 89
+				"index": 88
 			},
 			{
 				"text": "court ",
 				"start": 2.32,
 				"end": 2.66,
-				"index": 90
+				"index": 89
 			},
 			{
 				"text": "at ",
 				"start": 2.66,
 				"end": 2.86,
-				"index": 91
+				"index": 90
 			},
 			{
 				"text": "the ",
 				"start": 2.86,
 				"end": 3.02,
-				"index": 92
+				"index": 91
 			},
 			{
 				"text": "midnight",
 				"start": 3.02,
 				"end": 3.66,
-				"index": 93
+				"index": 92
 			}
 		],
 		"start": 60.06,
@@ -629,85 +623,85 @@
 				"text": "Come ",
 				"start": 0,
 				"end": 1.08,
-				"index": 94
+				"index": 93
 			},
 			{
 				"text": "and ",
 				"start": 1.08,
 				"end": 1.34,
-				"index": 95
+				"index": 94
 			},
 			{
 				"text": "blaze ",
 				"start": 1.34,
 				"end": 1.74,
-				"index": 96
+				"index": 95
 			},
 			{
 				"text": "LeBron ",
 				"start": 1.74,
 				"end": 2.08,
-				"index": 97
+				"index": 96
 			},
 			{
 				"text": "with ",
 				"start": 2.08,
 				"end": 2.5,
-				"index": 98
+				"index": 97
 			},
 			{
 				"text": "me ",
 				"start": 2.5,
 				"end": 2.74,
-				"index": 99
+				"index": 98
 			},
 			{
 				"text": "I ",
 				"start": 2.74,
 				"end": 3.08,
-				"index": 100
+				"index": 99
 			},
 			{
 				"text": "got ",
 				"start": 3.08,
 				"end": 3.3,
-				"index": 101
+				"index": 100
 			},
 			{
 				"text": "a ",
 				"start": 3.3,
 				"end": 3.58,
-				"index": 102
+				"index": 101
 			},
 			{
 				"text": "studio ",
 				"start": 3.58,
 				"end": 3.94,
-				"index": 103
+				"index": 102
 			},
 			{
 				"text": "and ",
 				"start": 3.94,
 				"end": 4.78,
-				"index": 104
+				"index": 103
 			},
 			{
 				"text": "a ",
 				"start": 4.78,
 				"end": 4.94,
-				"index": 105
+				"index": 104
 			},
 			{
 				"text": "LeBron ",
 				"start": 4.94,
 				"end": 5.72,
-				"index": 106
+				"index": 105
 			},
 			{
 				"text": "jersey",
 				"start": 5.72,
 				"end": 6.1,
-				"index": 107
+				"index": 106
 			}
 		],
 		"start": 63.72,
