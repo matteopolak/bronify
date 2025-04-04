@@ -46,9 +46,11 @@
 			{player.track.title}
 		</h1>
 
-		<h2 class="text-xl text-slate-300">
-			{getArtistDisplayName(getArtist(player.track.artist))}
-		</h2>
+		<a href="/artists/{getArtistDisplayName(getArtist(player.track.artist))}">
+			<h2 class="text-xl text-slate-300">
+				{getArtistDisplayName(getArtist(player.track.artist))}
+			</h2>
+		</a>
 
 		<div
 			class="pointer-events-none absolute -bottom-8 left-0 -z-10 h-8 w-full bg-red-400 sm:hidden"

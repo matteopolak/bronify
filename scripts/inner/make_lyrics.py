@@ -67,11 +67,12 @@ if need_demucs:
     ])
 
 PROMPT = """\
-You're LeBron, you're the GOAT
-Ain't nobody better
-Run the game, best to play, that fifth ring is  yours
-Cause you keep on shakin' the ground every time that you down
-Purple skies and yellow clouds, rainin' sunshine from above
+Music lyrics.
+Bronny, LeBronny, goat, LBJ, LeBron, LeSunshine
+Gatorade, Lakers, Mavs, Luka Don, Dallas, Miami, Cavs, Heat, NBA
+Stephen Curry, Steph, Golden State, Warriors, light up the court
+Bronify, pump fake, light up, LAX, NBA, MVP, win in five, 6 foot 9,
+glaze, LeBron goat, Jumbotron
 """
 
 model = WhisperModel(
