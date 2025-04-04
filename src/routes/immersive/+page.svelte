@@ -33,9 +33,9 @@
 	class="flex h-dvh w-full max-w-screen flex-col gap-4 overflow-hidden px-8 pb-6"
 	style="background-color: hsl({color})"
 >
-	<button class="absolute top-3 left-3 cursor-pointer" onclick={() => window.history.back()}>
+	<a class="absolute top-3 left-3 cursor-pointer" href="/" aria-label="Home">
 		<ChevronDown />
-	</button>
+	</a>
 
 	<span class="pt-3 pb-6 text-center text-sm font-bold"> Now Playing </span>
 
