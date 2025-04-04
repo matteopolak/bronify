@@ -45,11 +45,11 @@
 				settings.shuffle = settings.shuffle === 'off' ? 'on' : 'off';
 			}}
 			class="cursor-pointer text-left transition-all duration-100 ease-in-out"
-			class:text-neutral-400={settings.shuffle === 'off'}
+			class:text-neutral-300={settings.shuffle === 'off'}
 			class:hover:text-white={settings.shuffle === 'off'}
 			class:text-white={settings.shuffle !== 'off'}
 		>
-			<Shuffle size="2.2em" />
+			<Shuffle size="1.8em" />
 		</button>
 
 		<button
@@ -82,14 +82,14 @@
 				settings.loop = settings.loop === 'none' ? 'all' : settings.loop === 'all' ? 'one' : 'none';
 			}}
 			class="cursor-pointer text-left transition-all duration-100 ease-in-out"
-			class:text-neutral-400={settings.loop === 'none'}
+			class:text-neutral-300={settings.loop === 'none'}
 			class:hover:text-white={settings.loop === 'none'}
 			class:text-white={settings.loop !== 'none'}
 		>
 			{#if settings.loop === 'one'}
-				<Repeat1 size="2.2em" />
+				<Repeat1 size="1.8em" />
 			{:else}
-				<Repeat size="2.2em" />
+				<Repeat size="1.8em" />
 			{/if}
 		</button>
 	</div>

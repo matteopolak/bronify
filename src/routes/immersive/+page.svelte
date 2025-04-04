@@ -41,8 +41,8 @@
 
 	<img src={url} class="z-20 w-full rounded-lg" />
 
-	<div class="relative z-10 overflow-visible">
-		<h1 class="text-3xl font-bold">
+	<div class="relative z-10 overflow-visible pb-2">
+		<h1 class="text-3xl font-bold text-white">
 			{player.track.title}
 		</h1>
 
@@ -51,7 +51,7 @@
 		</h2>
 
 		<div
-			class="pointer-events-none absolute -bottom-6 left-0 -z-10 h-8 w-full bg-red-400 sm:hidden"
+			class="pointer-events-none absolute -bottom-8 left-0 -z-10 h-8 w-full bg-red-400 sm:hidden"
 			style="background: linear-gradient(180deg, hsl({color}) 0%, rgba(0, 0, 0, 0) 100%);"
 		></div>
 	</div>
@@ -66,9 +66,9 @@
 		{/if}
 	</div>
 
-	<div class="relative z-10">
+	<div class="relative z-10 pt-2">
 		<div
-			class="pointer-events-none absolute -top-8 left-0 -z-10 h-8 w-full bg-red-400 sm:hidden"
+			class="pointer-events-none absolute -top-8 left-0 -z-10 h-8 w-full sm:hidden"
 			style="background: linear-gradient(0deg, hsl({color}) 0%, rgba(0, 0, 0, 0) 100%);"
 		></div>
 
