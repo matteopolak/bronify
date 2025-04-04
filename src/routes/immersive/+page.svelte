@@ -30,7 +30,7 @@
 </script>
 
 <div
-	class="flex h-dvh w-full max-w-screen flex-col gap-4 overflow-hidden px-10 pb-8"
+	class="flex h-dvh w-full max-w-screen flex-col gap-4 overflow-hidden px-8 pb-6"
 	style="background-color: hsl({color})"
 >
 	<button class="absolute top-3 left-3 cursor-pointer" onclick={() => window.history.back()}>
@@ -39,7 +39,7 @@
 
 	<span class="pt-3 pb-6 text-center text-sm font-bold"> Now Playing </span>
 
-	<img src={url} class="z-20 w-full rounded-lg" />
+	<img src={url} class="z-20 w-full rounded-lg" alt="Album Art" />
 
 	<div class="relative z-10 overflow-visible pb-2">
 		<h1 class="text-3xl font-bold text-white">

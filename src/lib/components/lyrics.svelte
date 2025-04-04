@@ -120,7 +120,7 @@
 <!-- Scrollable lyrics container -->
 <div
 	bind:this={lyricsContainer}
-	class="hide-scrollbar flex w-full max-w-2xl flex-col items-start space-y-2 overflow-y-visible text-xl font-bold text-white/50 sm:space-y-4 sm:px-4 sm:text-4xl {klass}"
+	class="hide-scrollbar flex w-full max-w-2xl flex-col items-start space-y-2 overflow-y-visible text-2xl font-bold text-white/50 sm:space-y-4 sm:px-4 sm:text-4xl {klass}"
 >
 	<!-- 50vh of padding on top and bottom -->
 	<div class="p-[25vh]"></div>
@@ -129,7 +129,7 @@
 		<span class="line">
 			{#each lyric.words as word (word.start)}
 				<button
-					class:text-white={word.index <= activeIndex}
+					class:active={word.index <= activeIndex}
 					class="word"
 					bind:this={lyricElements[word.index]}
 					onclick={() => onLyricClick(word.start - OFFSET + lyric.start)}
@@ -156,11 +156,15 @@
 		scrollbar-width: none;
 	}
 
+	.active {
+		@apply text-white/90;
+	}
+
 	.word {
-		@apply inline-block cursor-pointer text-left leading-4 whitespace-pre-wrap transition-all duration-300 ease-in-out hover:text-white sm:leading-9;
+		@apply inline-block cursor-pointer text-left whitespace-pre-wrap transition-all duration-300 ease-in-out hover:text-white/90 sm:leading-9;
 	}
 
 	.line {
-		@apply text-left;
+		@apply text-left leading-6 sm:leading-normal;
 	}
 </style>
