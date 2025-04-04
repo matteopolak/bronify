@@ -85,8 +85,7 @@
 	}
 
 	input[type='range']::-webkit-slider-thumb {
-		@apply h-3 w-3 cursor-pointer appearance-none rounded-full border-transparent bg-white;
-		margin-top: -2px; /* offset the thumb a bit higher */
+		@apply -mt-1 h-3 w-3 cursor-pointer appearance-none rounded-full border-transparent bg-white;
 	}
 
 	input[type='range']::-moz-range-track {
@@ -95,14 +94,6 @@
 
 	input[type='range']::-moz-range-thumb {
 		@apply h-3 w-3 cursor-pointer rounded-full border-transparent bg-white;
-	}
-
-	input[type='range']::-webkit-slider-thumb {
-		@apply h-2 w-2 cursor-pointer appearance-none rounded-full bg-white;
-	}
-
-	input[type='range']::-moz-range-thumb {
-		@apply h-3 w-3 cursor-pointer rounded-full bg-white;
 	}
 
 	/* When using `.square`, the sides of the progress should not be rounded (but the actual bar on the inside should still be) */
