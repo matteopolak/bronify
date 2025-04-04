@@ -27,7 +27,7 @@
 	let currentSeconds = $state(player.currentSeconds);
 </script>
 
-<div class="relative flex w-screen flex-col place-content-center gap-4 px-6 pb-20">
+<div class="relative flex flex-col place-content-center gap-4">
 	<div class="flex flex-row flex-wrap place-content-between gap-3">
 		<ProgressBar bind:currentSeconds class="shrink-0" />
 

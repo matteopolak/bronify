@@ -72,7 +72,7 @@
 	@reference "../../app.css";
 
 	input[type='range'] {
-		@apply cursor-pointer bg-neutral-700;
+		@apply cursor-pointer bg-slate-300/50;
 
 		padding: 8px 0; /* increases hitbox */
 		margin: -6px 0; /* negates visual effect */
@@ -81,20 +81,20 @@
 	}
 
 	input[type='range']::-webkit-slider-runnable-track {
-		@apply h-1 w-full rounded-full bg-neutral-700;
+		@apply h-1 w-full rounded-full bg-slate-300/50;
 	}
 
 	input[type='range']::-webkit-slider-thumb {
-		@apply h-2 w-2 cursor-pointer appearance-none rounded-full border-transparent bg-white;
+		@apply h-3 w-3 cursor-pointer appearance-none rounded-full border-transparent bg-white;
 		margin-top: -2px; /* offset the thumb a bit higher */
 	}
 
 	input[type='range']::-moz-range-track {
-		@apply h-1 w-full rounded-full bg-neutral-700;
+		@apply h-1 w-full rounded-full bg-slate-300/50;
 	}
 
 	input[type='range']::-moz-range-thumb {
-		@apply h-2 w-2 cursor-pointer rounded-full border-transparent bg-white;
+		@apply h-3 w-3 cursor-pointer rounded-full border-transparent bg-white;
 	}
 
 	input[type='range']::-webkit-slider-thumb {
@@ -102,7 +102,7 @@
 	}
 
 	input[type='range']::-moz-range-thumb {
-		@apply h-2 w-2 cursor-pointer rounded-full bg-white;
+		@apply h-3 w-3 cursor-pointer rounded-full bg-white;
 	}
 
 	/* When using `.square`, the sides of the progress should not be rounded (but the actual bar on the inside should still be) */

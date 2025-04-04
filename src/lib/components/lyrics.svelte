@@ -6,11 +6,13 @@
 	let {
 		lyrics,
 		currentTime,
-		onLyricClick
+		onLyricClick,
+		class: klass = ''
 	}: {
 		lyrics: Lyrics;
 		currentTime: number;
 		onLyricClick: (start: number) => void;
+		class?: string;
 	} = $props();
 
 	let activeIndex = $state(-1);
@@ -118,7 +120,7 @@
 <!-- Scrollable lyrics container -->
 <div
 	bind:this={lyricsContainer}
-	class="hide-scrollbar flex w-full max-w-2xl flex-col items-start space-y-4 overflow-y-visible px-6 text-3xl font-bold text-white/50 sm:px-4 sm:text-4xl"
+	class="hide-scrollbar flex w-full max-w-2xl flex-col items-start space-y-2 overflow-y-visible text-xl font-bold text-white/50 sm:space-y-4 sm:px-4 sm:text-4xl {klass}"
 >
 	<!-- 50vh of padding on top and bottom -->
 	<div class="p-[25vh]"></div>
@@ -155,7 +157,7 @@
 	}
 
 	.word {
-		@apply inline-block cursor-pointer text-left leading-9 whitespace-pre-wrap transition-all duration-300 ease-in-out hover:text-white;
+		@apply inline-block cursor-pointer text-left leading-4 whitespace-pre-wrap transition-all duration-300 ease-in-out hover:text-white sm:leading-9;
 	}
 
 	.line {

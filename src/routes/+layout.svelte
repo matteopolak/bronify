@@ -230,7 +230,7 @@
 	onMount(() => {
 		if (window.matchMedia('(display-mode: standalone)').matches) {
 			insideApp = true;
-		} else if (window.isTauri?.()) {
+		} else if (window.isTauri?.() || '__TAURI__' in window) {
 			insideApp = true;
 		} else if (Capacitor.isNativePlatform()) {
 			insideApp = true;
@@ -389,7 +389,11 @@
 				/>
 			</div>
 		{:else}
-			<div class="bg-base-200 overflow-y-auto rounded-lg {DYNAMIC_HEIGHT_CLASS} pb-32 sm:pb-0">
+			<div
+				class="bg-base-200 overflow-y-auto {DYNAMIC_HEIGHT_CLASS} sm:pb-0"
+				class:rounded-lg={$page.url.pathname !== '/immersive'}
+				class:pb-32={$page.url.pathname !== '/immersive'}
+			>
 				{@render children()}
 			</div>
 		{/if}

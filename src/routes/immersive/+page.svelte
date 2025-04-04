@@ -1,8 +1,9 @@
 <script lang="ts">
 	import ControlsImmersive from '$lib/components/controls-immersive.svelte';
 	import Lyrics from '$lib/components/lyrics.svelte';
-	import { getArtist, getArtistDisplayName, trackData } from '$lib/get';
+	import { getArtist, getArtistDisplayName, trackData, trackThumbnail } from '$lib/get';
 	import { player } from '$lib/player.svelte';
+	import { ChevronDown } from '@lucide/svelte';
 
 	function pastelColorFromString(str: string) {
 		let hash = 0;
@@ -19,6 +20,7 @@
 	}
 
 	let color = $derived(pastelColorFromString(player.track.id));
+	let url = $derived(trackThumbnail(player.track.id));
 
 	$effect(() => {
 		if (player.queue.length === 0) {
@@ -28,38 +30,48 @@
 </script>
 
 <div
-	class="flex h-screen w-full max-w-screen overflow-hidden overflow-y-auto rounded-lg py-8 md:place-content-center"
+	class="flex h-dvh w-full max-w-screen flex-col gap-4 overflow-hidden px-10 pb-8"
 	style="background-color: hsl({color})"
 >
-	{#if player.lyrics}
-		<Lyrics
-			lyrics={player.lyrics}
-			currentTime={player.currentSeconds}
-			onLyricClick={(start) => player.seek(start)}
-		/>
-	{/if}
-</div>
+	<button class="absolute top-3 left-3 cursor-pointer" onclick={() => window.history.back()}>
+		<ChevronDown />
+	</button>
 
-<div
-	class="pointer-events-none fixed top-0 z-30 flex w-screen flex-row place-content-center place-items-center"
->
-	<div
-		class="pointer-events-none fixed -top-2 left-0 -z-10 h-32 w-full sm:hidden"
-		style="background: linear-gradient(180deg, hsl({color}) 20%, rgba(0, 0, 0, 0) 100%);"
-	></div>
+	<span class="pt-3 pb-6 text-center text-sm font-bold"> Now Playing </span>
 
-	<span class="pt-2 text-sm text-slate-300">
-		{player.track.title}
-		&bull;
-		{getArtistDisplayName(getArtist(player.track.artist))}
-	</span>
-</div>
+	<img src={url} class="z-20 w-full rounded-lg" />
 
-<div class="fixed bottom-0 z-30 pt-8">
-	<div
-		class="pointer-events-none fixed bottom-0 left-0 -z-10 h-96 w-full sm:hidden"
-		style="background: linear-gradient(0deg, hsl({color}) 50%, rgba(0, 0, 0, 0) 100%);"
-	></div>
+	<div class="relative z-10 overflow-visible">
+		<h1 class="text-3xl font-bold">
+			{player.track.title}
+		</h1>
 
-	<ControlsImmersive />
+		<h2 class="text-xl text-slate-300">
+			{getArtistDisplayName(getArtist(player.track.artist))}
+		</h2>
+
+		<div
+			class="pointer-events-none absolute -bottom-6 left-0 -z-10 h-8 w-full bg-red-400 sm:hidden"
+			style="background: linear-gradient(180deg, hsl({color}) 0%, rgba(0, 0, 0, 0) 100%);"
+		></div>
+	</div>
+
+	<div class="overflow-y-auto">
+		{#if player.lyrics}
+			<Lyrics
+				lyrics={player.lyrics}
+				currentTime={player.currentSeconds}
+				onLyricClick={(start) => player.seek(start)}
+			/>
+		{/if}
+	</div>
+
+	<div class="relative z-10">
+		<div
+			class="pointer-events-none absolute -top-8 left-0 -z-10 h-8 w-full bg-red-400 sm:hidden"
+			style="background: linear-gradient(0deg, hsl({color}) 0%, rgba(0, 0, 0, 0) 100%);"
+		></div>
+
+		<ControlsImmersive />
+	</div>
 </div>
