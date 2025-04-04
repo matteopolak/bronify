@@ -72,11 +72,11 @@
 	@reference "../../app.css";
 
 	input[type='range'] {
-		@apply cursor-pointer bg-slate-300/50;
+		@apply cursor-pointer;
 
-		padding: 8px 0; /* increases hitbox */
-		margin: -6px 0; /* negates visual effect */
-		height: 8px; /* track height */
+		padding: 8px 0;
+		margin: -6px 0;
+		height: 8px;
 		background: transparent;
 	}
 
@@ -90,7 +90,7 @@
 
 	input[type='range']::-moz-range-track {
 		@apply h-1 w-full rounded-full bg-slate-300/50;
-	}
+	} /* track height */
 
 	input[type='range']::-moz-range-thumb {
 		@apply h-3 w-3 cursor-pointer rounded-full border-transparent bg-white;
