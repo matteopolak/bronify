@@ -1,7 +1,8 @@
 <script lang="ts">
+	import Artists from '$lib/components/artists.svelte';
 	import ControlsImmersive from '$lib/components/controls-immersive.svelte';
 	import Lyrics from '$lib/components/lyrics.svelte';
-	import { getArtist, getArtistDisplayName, trackData, trackThumbnail } from '$lib/get';
+	import { trackData, trackThumbnail } from '$lib/get';
 	import { player } from '$lib/player.svelte';
 	import { ChevronDown } from '@lucide/svelte';
 
@@ -41,24 +42,20 @@
 
 	<img src={url} class="z-20 w-full rounded-lg" alt="Album Art" />
 
-	<div class="relative z-10 overflow-visible pb-2">
+	<div class="relative z-10 overflow-visible pb-0">
 		<h1 class="text-3xl font-bold text-white">
 			{player.track.title}
 		</h1>
 
-		<a href="/artists/{getArtistDisplayName(getArtist(player.track.artist))}">
-			<h2 class="text-xl text-slate-300">
-				{getArtistDisplayName(getArtist(player.track.artist))}
-			</h2>
-		</a>
+		<Artists artistIds={player.track.artists} />
 
 		<div
-			class="pointer-events-none absolute -bottom-8 left-0 -z-10 h-8 w-full bg-red-400 sm:hidden"
-			style="background: linear-gradient(180deg, hsl({color}) 0%, rgba(0, 0, 0, 0) 100%);"
+			class="pointer-events-none absolute -bottom-7 left-0 -z-10 h-8 w-full bg-red-400 sm:hidden"
+			style="background: linear-gradient(180deg, hsl({color}) 80%, rgba(0, 0, 0, 0) 100%);"
 		></div>
 	</div>
 
-	<div class="overflow-y-auto">
+	<div class="overflow-x-hidden overflow-y-auto">
 		{#if player.lyrics}
 			<Lyrics
 				lyrics={player.lyrics}
@@ -68,10 +65,10 @@
 		{/if}
 	</div>
 
-	<div class="relative z-10 pt-2">
+	<div class="relative z-10">
 		<div
 			class="pointer-events-none absolute -top-8 left-0 -z-10 h-8 w-full sm:hidden"
-			style="background: linear-gradient(0deg, hsl({color}) 0%, rgba(0, 0, 0, 0) 100%);"
+			style="background: linear-gradient(0deg, hsl({color}) 80%, rgba(0, 0, 0, 0) 100%);"
 		></div>
 
 		<ControlsImmersive />

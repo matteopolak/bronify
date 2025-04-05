@@ -2,7 +2,7 @@
 	import { shortcut, type ShortcutEventDetail } from '@svelte-put/shortcut';
 	import Device from 'svelte-device-info';
 
-	import { getArtist, getArtistDisplayName, trackThumbnail } from '$lib/get';
+	import { trackThumbnail } from '$lib/get';
 	import { formatSeconds } from '$lib/util';
 	import { player, settings } from '$lib/player.svelte';
 	import {
