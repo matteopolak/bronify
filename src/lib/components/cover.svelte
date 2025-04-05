@@ -1,22 +1,22 @@
 <script lang="ts">
-	import { trackThumbnail, getArtist, getArtistDisplayName } from '$lib/get';
+	import { trackThumbnail } from '$lib/get';
 	import { player } from '$lib/player.svelte';
 	import type { Track } from '$lib/types';
 	import { Pause, Play } from '@lucide/svelte';
+	import Artists from './artists.svelte';
 
 	let { track, onClick }: { track: Track; onClick: () => void } = $props();
 
 	let url = $derived(trackThumbnail(track.id));
-	let artist = $derived(getArtist(track.artist));
 	let playing = $derived(player.track.id === track.id && !player.paused);
 
-	let anchor: HTMLAnchorElement = $state()!;
+	let anchors: HTMLAnchorElement[] = $state([]);
 </script>
 
 <button
 	class="group card hover:bg-base-300/50 flex h-28 w-auto cursor-pointer flex-row gap-2 p-2 text-left transition-all duration-100 sm:h-auto sm:flex-col"
 	onclick={(e) => {
-		if (e.target !== anchor) {
+		if (!anchors.includes(e.target as HTMLAnchorElement)) {
 			onClick();
 		}
 	}}
@@ -45,14 +45,9 @@
 	<div class="flex shrink flex-col gap-1">
 		<div class="flex flex-col">
 			<h3 class="text-md line-clamp-2 font-semibold">{track.title}</h3>
+
 			<span class="text-sm text-slate-300">
-				<a
-					href="/artists/{getArtistDisplayName(artist)}"
-					class="hover:underline"
-					bind:this={anchor}
-				>
-					{getArtistDisplayName(artist)}
-				</a>
+				<Artists bind:anchors artistIds={track.artists} />
 			</span>
 		</div>
 	</div>

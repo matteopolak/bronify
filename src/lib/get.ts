@@ -186,11 +186,11 @@ export function trackAudio(id: string): string {
 
 const betterTrackData = trackData.map((track) => ({
 	...track,
-	artistFull: getArtist(track.artist)
+	artistsFull: track.artists.map(getArtist)
 }));
 
 export const trackIndex = new Fuse(betterTrackData, {
-	keys: ['title', 'artistFull.username', 'artistFull.display_name', 'tags', 'username'],
+	keys: ['title', 'artistsFull[].username', 'artistFulls[].display_name', 'tags'],
 	threshold: 0.4
 });
 

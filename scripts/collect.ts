@@ -215,7 +215,7 @@ async function main() {
 
 		out.push({
 			id,
-			artist: artistId,
+			artists: [artistId],
 			title: title,
 			durationSeconds: song.duration,
 			tags: []

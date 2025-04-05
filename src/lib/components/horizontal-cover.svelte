@@ -6,6 +6,7 @@
 	import type { Playlist, Track } from '$lib/types';
 	import { formatSeconds } from '$lib/util';
 	import { Pause, Play, Plus, Trash } from '@lucide/svelte';
+	import Artists from './artists.svelte';
 
 	let {
 		track,
@@ -15,16 +16,15 @@
 	}: { track: Track; number: number; onClick: () => void; playlist?: Playlist } = $props();
 
 	let url = $derived(trackThumbnail(track.id));
-	let artist = $derived(getArtist(track.artist));
 	let active = $derived(player.track.id === track.id);
 
-	let anchor: HTMLAnchorElement = $state()!;
+	let anchors: HTMLAnchorElement[] = $state([]);
 </script>
 
 <button
 	class="group card flex h-16 w-full cursor-pointer flex-row gap-2 rounded-md p-2 pr-4 text-left transition-all duration-100"
 	onclick={(e) => {
-		if (e.target !== anchor) {
+		if (!anchors.includes(e.target as HTMLAnchorElement)) {
 			onClick();
 		}
 	}}
@@ -65,13 +65,7 @@
 		<div class="flex flex-col">
 			<h3 class="text-md line-clamp-1 font-semibold">{track.title}</h3>
 			<span class="text-sm text-slate-300">
-				<a
-					href="/artists/{getArtistDisplayName(artist)}"
-					class="hover:underline"
-					bind:this={anchor}
-				>
-					{getArtistDisplayName(artist)}
-				</a>
+				<Artists bind:anchors artistIds={track.artists} />
 			</span>
 		</div>
 	</div>

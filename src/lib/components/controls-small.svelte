@@ -1,10 +1,10 @@
 <script lang="ts">
-	import { getArtist, getArtistDisplayName, trackThumbnail } from '$lib/get';
+	import { trackThumbnail } from '$lib/get';
 	import { player } from '$lib/player.svelte';
 	import { Pause, Play } from '@lucide/svelte';
+	import Artists from './artists.svelte';
 
 	let url = $derived(trackThumbnail(player.track.id));
-	let artist = $derived(getArtist(player.track.artist));
 </script>
 
 <a href="/immersive" class="flex h-9 w-full cursor-pointer flex-row place-items-center gap-2">
@@ -13,7 +13,7 @@
 	<div class="flex flex-col text-left">
 		<h3 class="text-xs font-semibold">{player.track.title}</h3>
 		<span class="text-xs text-slate-300">
-			{getArtistDisplayName(artist)}
+			<Artists artistIds={player.track.artists} />
 		</span>
 	</div>
 

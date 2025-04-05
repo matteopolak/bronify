@@ -19,6 +19,7 @@
 		VolumeX
 	} from '@lucide/svelte';
 	import ProgressBar from './progress-bar.svelte';
+	import Artists from './artists.svelte';
 
 	let {
 		maxVolume = 0.5
@@ -27,7 +28,6 @@
 	} = $props();
 
 	let url = $derived(trackThumbnail(player.track.id));
-	let artist = $derived(getArtist(player.track.artist));
 
 	function onVolumeClick(event: MouseEvent) {
 		const progress = event.target as HTMLProgressElement;
@@ -161,9 +161,7 @@
 		<div>
 			<h3 class="text-sm font-semibold">{player.track.title}</h3>
 			<span class="text-sm text-slate-300">
-				<a href="/artists/{getArtistDisplayName(artist)}" class="hover:underline">
-					{getArtistDisplayName(artist)}
-				</a>
+				<Artists artistIds={player.track.artists} />
 			</span>
 		</div>
 

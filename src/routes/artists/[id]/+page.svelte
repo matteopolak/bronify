@@ -8,7 +8,7 @@
 	let artist = $derived(
 		artistData.find((s) => s.username === $page.params.id || s.display_name === $page.params.id)!
 	);
-	let tracks = $derived(trackData.filter((s) => s.artist === artist.id));
+	let tracks = $derived(trackData.filter((s) => s.artists.includes(artist.id)));
 
 	$effect(() => {
 		player.queue = tracks;
