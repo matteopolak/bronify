@@ -169,11 +169,11 @@
 			</div>
 		{/if}
 
-		{#if tracks.length}
+		{#if tracks.length && global.search}
 			<div class="p-3">
 				<h1 class="p-2 text-2xl font-semibold text-neutral-100">All tracks</h1>
 
-				<Scrollable class="gap-0" childrenCount={tracks.length}>
+				<Scrollable class="gap-0" childrenCount={newReleases.length}>
 					{#each tracks as track (track.id)}
 						<div transition:fade={{ duration: ANIMATION_TIME }}>
 							<VerticalCover
@@ -254,6 +254,26 @@
 						</div>
 					{/each}
 				</Scrollable>
+			</div>
+		{/if}
+
+		{#if tracks.length && !global.search}
+			<div class="p-3">
+				<h1 class="p-2 text-2xl font-semibold text-neutral-100">All tracks</h1>
+
+				<div class="flex flex-row flex-wrap gap-0">
+					{#each tracks as track (track.id)}
+						<div transition:fade={{ duration: ANIMATION_TIME }}>
+							<VerticalCover
+								{track}
+								onClick={() => {
+									player.queue = tracks;
+									player.toggle(track);
+								}}
+							/>
+						</div>
+					{/each}
+				</div>
 			</div>
 		{/if}
 	</div>
