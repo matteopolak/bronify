@@ -398,103 +398,109 @@
 				"index": 56
 			},
 			{
-				"text": "dis ",
+				"text": "dis",
 				"start": 2.26,
 				"end": 2.56,
 				"index": 57
-			},
+			}
+		],
+		"start": 47.58,
+		"end": 50.14
+	},
+	{
+		"words": [
 			{
 				"text": "Don't ",
-				"start": 2.56,
-				"end": 3.38,
+				"start": 0,
+				"end": 0.82,
 				"index": 58
 			},
 			{
 				"text": "even ",
-				"start": 3.38,
-				"end": 3.5,
+				"start": 0.82,
+				"end": 0.94,
 				"index": 59
 			},
 			{
 				"text": "wanna ",
-				"start": 3.5,
-				"end": 3.84,
+				"start": 0.94,
+				"end": 1.28,
 				"index": 60
 			},
 			{
 				"text": "hear ",
-				"start": 3.84,
-				"end": 4.1,
+				"start": 1.28,
+				"end": 1.54,
 				"index": 61
 			},
 			{
 				"text": "all ",
-				"start": 4.1,
-				"end": 4.24,
+				"start": 1.54,
+				"end": 1.68,
 				"index": 62
 			},
 			{
 				"text": "your ",
-				"start": 4.24,
-				"end": 4.4,
+				"start": 1.68,
+				"end": 1.84,
 				"index": 63
 			},
 			{
 				"text": "excuses ",
-				"start": 4.4,
-				"end": 4.74,
+				"start": 1.84,
+				"end": 2.18,
 				"index": 64
 			},
 			{
 				"text": "I ",
-				"start": 4.74,
-				"end": 5.76,
+				"start": 2.18,
+				"end": 3.2,
 				"index": 65
 			},
 			{
 				"text": "recognize ",
-				"start": 5.76,
-				"end": 6.16,
+				"start": 3.2,
+				"end": 3.6,
 				"index": 66
 			},
 			{
 				"text": "as ",
-				"start": 6.16,
-				"end": 6.44,
+				"start": 3.6,
+				"end": 3.88,
 				"index": 67
 			},
 			{
 				"text": "far ",
-				"start": 6.44,
-				"end": 6.6,
+				"start": 3.88,
+				"end": 4.04,
 				"index": 68
 			},
 			{
 				"text": "as ",
-				"start": 6.6,
-				"end": 6.76,
+				"start": 4.04,
+				"end": 4.2,
 				"index": 69
 			},
 			{
 				"text": "excellence ",
-				"start": 6.76,
-				"end": 7.1,
+				"start": 4.2,
+				"end": 4.54,
 				"index": 70
 			},
 			{
 				"text": "and ",
-				"start": 7.1,
-				"end": 7.34,
+				"start": 4.54,
+				"end": 4.78,
 				"index": 71
 			},
 			{
 				"text": "glory",
-				"start": 7.34,
-				"end": 7.56,
+				"start": 4.78,
+				"end": 5,
 				"index": 72
 			}
 		],
-		"start": 47.58,
+		"start": 50.14,
 		"end": 55.14
 	},
 	{

@@ -254,163 +254,169 @@
 				"index": 39
 			},
 			{
-				"text": "good ",
+				"text": "good",
 				"start": 4.98,
 				"end": 5.4,
 				"index": 40
-			},
+			}
+		],
+		"start": 8.9,
+		"end": 14.3
+	},
+	{
+		"words": [
 			{
 				"text": "Don't ",
-				"start": 5.4,
-				"end": 5.86,
+				"start": 0,
+				"end": 0.46,
 				"index": 41
 			},
 			{
 				"text": "get ",
-				"start": 5.86,
-				"end": 5.94,
+				"start": 0.46,
+				"end": 0.54,
 				"index": 42
 			},
 			{
 				"text": "on ",
-				"start": 5.94,
-				"end": 6.16,
+				"start": 0.54,
+				"end": 0.76,
 				"index": 43
 			},
 			{
 				"text": "just ",
-				"start": 6.16,
-				"end": 6.32,
+				"start": 0.76,
+				"end": 0.92,
 				"index": 44
 			},
 			{
 				"text": "anybody ",
-				"start": 6.32,
-				"end": 6.72,
+				"start": 0.92,
+				"end": 1.32,
 				"index": 45
 			},
 			{
 				"text": "you ",
-				"start": 6.72,
-				"end": 7.22,
+				"start": 1.32,
+				"end": 1.82,
 				"index": 46
 			},
 			{
 				"text": "win ",
-				"start": 7.22,
-				"end": 7.46,
+				"start": 1.82,
+				"end": 2.06,
 				"index": 47
 			},
 			{
 				"text": "all ",
-				"start": 7.46,
-				"end": 7.64,
+				"start": 2.06,
+				"end": 2.24,
 				"index": 48
 			},
 			{
 				"text": "the ",
-				"start": 7.64,
-				"end": 7.8,
+				"start": 2.24,
+				"end": 2.4,
 				"index": 49
 			},
 			{
 				"text": "big ",
-				"start": 7.8,
-				"end": 8.02,
+				"start": 2.4,
+				"end": 2.62,
 				"index": 50
 			},
 			{
 				"text": "games ",
-				"start": 8.02,
-				"end": 8.54,
+				"start": 2.62,
+				"end": 3.14,
 				"index": 51
 			},
 			{
 				"text": "other ",
-				"start": 8.54,
-				"end": 8.82,
+				"start": 3.14,
+				"end": 3.42,
 				"index": 52
 			},
 			{
 				"text": "players ",
-				"start": 8.82,
-				"end": 9.2,
+				"start": 3.42,
+				"end": 3.8,
 				"index": 53
 			},
 			{
 				"text": "never ",
-				"start": 9.2,
-				"end": 9.52,
+				"start": 3.8,
+				"end": 4.12,
 				"index": 54
 			},
 			{
 				"text": "want ",
-				"start": 9.52,
-				"end": 9.92,
+				"start": 4.12,
+				"end": 4.52,
 				"index": 55
 			},
 			{
 				"text": "it ",
-				"start": 9.92,
-				"end": 10.1,
+				"start": 4.52,
+				"end": 4.7,
 				"index": 56
 			},
 			{
 				"text": "I ",
-				"start": 10.1,
-				"end": 10.22,
+				"start": 4.7,
+				"end": 4.82,
 				"index": 57
 			},
 			{
 				"text": "swear ",
-				"start": 10.22,
-				"end": 10.38,
+				"start": 4.82,
+				"end": 4.98,
 				"index": 58
 			},
 			{
 				"text": "I ",
-				"start": 10.38,
-				"end": 10.58,
+				"start": 4.98,
+				"end": 5.18,
 				"index": 59
 			},
 			{
 				"text": "can ",
-				"start": 10.58,
-				"end": 10.7,
+				"start": 5.18,
+				"end": 5.3,
 				"index": 60
 			},
 			{
 				"text": "watch ",
-				"start": 10.7,
-				"end": 10.98,
+				"start": 5.3,
+				"end": 5.58,
 				"index": 61
 			},
 			{
 				"text": "you ",
-				"start": 10.98,
-				"end": 11.18,
+				"start": 5.58,
+				"end": 5.78,
 				"index": 62
 			},
 			{
 				"text": "say ",
-				"start": 11.18,
-				"end": 11.34,
+				"start": 5.78,
+				"end": 5.94,
 				"index": 63
 			},
 			{
 				"text": "you're ",
-				"start": 11.34,
-				"end": 11.66,
+				"start": 5.94,
+				"end": 6.26,
 				"index": 64
 			},
 			{
 				"text": "ready",
-				"start": 11.66,
-				"end": 11.76,
+				"start": 6.26,
+				"end": 6.36,
 				"index": 65
 			}
 		],
-		"start": 8.9,
+		"start": 14.3,
 		"end": 20.66
 	},
 	{

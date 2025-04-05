@@ -362,43 +362,49 @@
 				"index": 54
 			},
 			{
-				"text": "Don ",
+				"text": "Don",
 				"start": 6.1,
 				"end": 6.64,
 				"index": 55
-			},
+			}
+		],
+		"start": 30.61,
+		"end": 37.25
+	},
+	{
+		"words": [
 			{
 				"text": "Don't ",
-				"start": 6.64,
-				"end": 7.36,
+				"start": 0,
+				"end": 0.72,
 				"index": 56
 			},
 			{
 				"text": "start ",
-				"start": 9.57,
-				"end": 9.63,
+				"start": 2.93,
+				"end": 2.99,
 				"index": 57
 			},
 			{
 				"text": "blazing ",
-				"start": 9.63,
-				"end": 10.11,
+				"start": 2.99,
+				"end": 3.47,
 				"index": 58
 			},
 			{
 				"text": "my ",
-				"start": 10.11,
-				"end": 10.39,
+				"start": 3.47,
+				"end": 3.75,
 				"index": 59
 			},
 			{
 				"text": "King",
-				"start": 10.39,
-				"end": 10.67,
+				"start": 3.75,
+				"end": 4.03,
 				"index": 60
 			}
 		],
-		"start": 30.61,
+		"start": 37.25,
 		"end": 41.28
 	}
 ]

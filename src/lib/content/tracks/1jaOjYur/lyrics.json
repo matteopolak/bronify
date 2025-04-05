@@ -662,49 +662,55 @@
 				"index": 99
 			},
 			{
-				"text": "shawties ",
+				"text": "shawties",
 				"start": 6.62,
 				"end": 7.06,
 				"index": 100
-			},
+			}
+		],
+		"start": 35.46,
+		"end": 42.52
+	},
+	{
+		"words": [
 			{
 				"text": "Don't ",
-				"start": 7.2,
-				"end": 7.56,
+				"start": 0,
+				"end": 0.36,
 				"index": 101
 			},
 			{
 				"text": "put ",
-				"start": 7.56,
-				"end": 7.68,
+				"start": 0.36,
+				"end": 0.48,
 				"index": 102
 			},
 			{
 				"text": "your ",
-				"start": 7.68,
-				"end": 7.96,
+				"start": 0.48,
+				"end": 0.76,
 				"index": 103
 			},
 			{
 				"text": "hand ",
-				"start": 7.96,
-				"end": 8.3,
+				"start": 0.76,
+				"end": 1.1,
 				"index": 104
 			},
 			{
 				"text": "in ",
-				"start": 8.3,
-				"end": 8.52,
+				"start": 1.1,
+				"end": 1.32,
 				"index": 105
 			},
 			{
 				"text": "face",
-				"start": 8.52,
-				"end": 8.76,
+				"start": 1.32,
+				"end": 1.56,
 				"index": 106
 			}
 		],
-		"start": 35.46,
+		"start": 42.66,
 		"end": 44.22
 	},
 	{

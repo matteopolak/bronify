@@ -644,49 +644,55 @@
 				"index": 93
 			},
 			{
-				"text": "play ",
+				"text": "play",
 				"start": 1.7,
 				"end": 1.9,
 				"index": 94
-			},
+			}
+		],
+		"start": 46.08,
+		"end": 47.98
+	},
+	{
+		"words": [
 			{
 				"text": "Don't ",
-				"start": 1.9,
-				"end": 4.02,
+				"start": 0,
+				"end": 2.12,
 				"index": 95
 			},
 			{
 				"text": "turn ",
-				"start": 4.02,
-				"end": 4.16,
+				"start": 2.12,
+				"end": 2.26,
 				"index": 96
 			},
 			{
 				"text": "around ",
-				"start": 4.16,
-				"end": 4.34,
+				"start": 2.26,
+				"end": 2.44,
 				"index": 97
 			},
 			{
 				"text": "Bron ",
-				"start": 4.58,
-				"end": 4.72,
+				"start": 2.68,
+				"end": 2.82,
 				"index": 98
 			},
 			{
 				"text": "probably ",
-				"start": 4.72,
-				"end": 5,
+				"start": 2.82,
+				"end": 3.1,
 				"index": 99
 			},
 			{
 				"text": "chasin'",
-				"start": 5,
-				"end": 5.66,
+				"start": 3.1,
+				"end": 3.76,
 				"index": 100
 			}
 		],
-		"start": 46.08,
+		"start": 47.98,
 		"end": 51.74
 	},
 	{

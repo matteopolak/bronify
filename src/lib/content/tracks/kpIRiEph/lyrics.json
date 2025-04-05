@@ -230,37 +230,43 @@
 				"index": 36
 			},
 			{
-				"text": "sporty ",
+				"text": "sporty",
 				"start": 11.48,
 				"end": 12.02,
 				"index": 37
-			},
+			}
+		],
+		"start": 11.6,
+		"end": 23.62
+	},
+	{
+		"words": [
 			{
 				"text": "Don't ",
-				"start": 12.02,
-				"end": 12.92,
+				"start": 0,
+				"end": 0.9,
 				"index": 38
 			},
 			{
 				"text": "you ",
-				"start": 12.92,
-				"end": 13.14,
+				"start": 0.9,
+				"end": 1.12,
 				"index": 39
 			},
 			{
 				"text": "wonder ",
-				"start": 13.14,
-				"end": 13.98,
+				"start": 1.12,
+				"end": 1.96,
 				"index": 40
 			},
 			{
 				"text": "why",
-				"start": 13.98,
-				"end": 14.6,
+				"start": 1.96,
+				"end": 2.58,
 				"index": 41
 			}
 		],
-		"start": 11.6,
+		"start": 23.62,
 		"end": 26.2
 	},
 	{

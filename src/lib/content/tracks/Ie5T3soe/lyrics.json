@@ -986,85 +986,91 @@
 				"index": 143
 			},
 			{
-				"text": "naughty ",
+				"text": "naughty",
 				"start": 1.02,
 				"end": 1.36,
 				"index": 144
-			},
+			}
+		],
+		"start": 76.79,
+		"end": 78.15
+	},
+	{
+		"words": [
 			{
 				"text": "Don't ",
-				"start": 1.36,
-				"end": 1.74,
+				"start": 0,
+				"end": 0.38,
 				"index": 145
 			},
 			{
 				"text": "know ",
-				"start": 1.74,
-				"end": 1.92,
+				"start": 0.38,
+				"end": 0.56,
 				"index": 146
 			},
 			{
 				"text": "he's ",
-				"start": 1.92,
-				"end": 2.2,
+				"start": 0.56,
+				"end": 0.84,
 				"index": 147
 			},
 			{
 				"text": "done ",
-				"start": 2.2,
-				"end": 2.44,
+				"start": 0.84,
+				"end": 1.08,
 				"index": 148
 			},
 			{
 				"text": "it ",
-				"start": 2.44,
-				"end": 2.88,
+				"start": 1.08,
+				"end": 1.52,
 				"index": 149
 			},
 			{
 				"text": "all ",
-				"start": 2.88,
-				"end": 3.08,
+				"start": 1.52,
+				"end": 1.72,
 				"index": 150
 			},
 			{
 				"text": "before ",
-				"start": 3.08,
-				"end": 3.48,
+				"start": 1.72,
+				"end": 2.12,
 				"index": 151
 			},
 			{
 				"text": "I've ",
-				"start": 3.48,
-				"end": 4.12,
+				"start": 2.12,
+				"end": 2.76,
 				"index": 152
 			},
 			{
 				"text": "been ",
-				"start": 4.12,
-				"end": 4.26,
+				"start": 2.76,
+				"end": 2.9,
 				"index": 153
 			},
 			{
 				"text": "thinkin' ",
-				"start": 4.26,
-				"end": 4.8,
+				"start": 2.9,
+				"end": 3.44,
 				"index": 154
 			},
 			{
 				"text": "bout ",
-				"start": 4.8,
-				"end": 4.98,
+				"start": 3.44,
+				"end": 3.62,
 				"index": 155
 			},
 			{
 				"text": "ya",
-				"start": 4.98,
-				"end": 5.18,
+				"start": 3.62,
+				"end": 3.82,
 				"index": 156
 			}
 		],
-		"start": 76.79,
+		"start": 78.15,
 		"end": 81.97
 	},
 	{

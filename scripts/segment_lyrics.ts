@@ -46,7 +46,8 @@ function mustStartLine(text: string) {
 
 	if (/^A\b/.test(text)) return true;
 
-	const canSkip = allowedToStay.has('+' + text.split(/[^A-Za-z]/)[0].toLowerCase());
+	const canSkip =
+		allowedToStay.has('+' + text.split(/[^A-Za-z]/)[0].toLowerCase()) && !text.startsWith("Don't");
 
 	return !canSkip;
 }

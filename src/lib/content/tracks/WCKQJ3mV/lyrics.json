@@ -104,61 +104,67 @@
 				"index": 15
 			},
 			{
-				"text": "court ",
+				"text": "court",
 				"start": 3.48,
 				"end": 3.84,
 				"index": 16
-			},
+			}
+		],
+		"start": 3.83,
+		"end": 7.67
+	},
+	{
+		"words": [
 			{
 				"text": "Don't ",
-				"start": 3.84,
-				"end": 5,
+				"start": 0,
+				"end": 1.16,
 				"index": 17
 			},
 			{
 				"text": "need ",
-				"start": 5,
-				"end": 5.22,
+				"start": 1.16,
+				"end": 1.38,
 				"index": 18
 			},
 			{
 				"text": "to ",
-				"start": 5.22,
-				"end": 5.42,
+				"start": 1.38,
+				"end": 1.58,
 				"index": 19
 			},
 			{
 				"text": "try, ",
-				"start": 5.42,
-				"end": 5.76,
+				"start": 1.58,
+				"end": 1.92,
 				"index": 20
 			},
 			{
 				"text": "cause ",
-				"start": 6.14,
-				"end": 6.88,
+				"start": 2.3,
+				"end": 3.04,
 				"index": 21
 			},
 			{
 				"text": "you're ",
-				"start": 6.88,
-				"end": 7.16,
+				"start": 3.04,
+				"end": 3.32,
 				"index": 22
 			},
 			{
 				"text": "that ",
-				"start": 7.16,
-				"end": 7.3,
+				"start": 3.32,
+				"end": 3.46,
 				"index": 23
 			},
 			{
 				"text": "guy",
-				"start": 7.3,
-				"end": 7.64,
+				"start": 3.46,
+				"end": 3.8,
 				"index": 24
 			}
 		],
-		"start": 3.83,
+		"start": 7.67,
 		"end": 11.47
 	},
 	{
