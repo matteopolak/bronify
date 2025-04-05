@@ -190,7 +190,7 @@ const betterTrackData = trackData.map((track) => ({
 }));
 
 export const trackIndex = new Fuse(betterTrackData, {
-	keys: ['title', 'artistsFull[].username', 'artistFulls[].display_name', 'tags'],
+	keys: ['title', 'artistsFull.username', 'artistsFull.display_name', 'tags'],
 	threshold: 0.4
 });
 
