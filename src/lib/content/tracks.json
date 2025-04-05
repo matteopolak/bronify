@@ -642,6 +642,23 @@
 		"colour": "#473340"
 	},
 	{
+		"id": "81OfXqxO",
+		"artists": [
+			"RYFVA3EJ"
+		],
+		"title": "Glaze It X Glaze It",
+		"durationSeconds": 39,
+		"tags": [
+			"soul",
+			"country",
+			"blues",
+			"tender"
+		],
+		"colour": "#181E25",
+		"index": 287,
+		"createdAt": 1743893254130
+	},
+	{
 		"id": "81wrxGJ7",
 		"artists": [
 			"Jz73xFw2"
@@ -652,7 +669,7 @@
 			"country",
 			"happy"
 		],
-		"colour": "#170D10",
+		"colour": "#B18544",
 		"index": 286,
 		"createdAt": 1743874077795
 	},
@@ -1352,6 +1369,26 @@
 			"sLVzZsIi"
 		],
 		"colour": "#1F0A0C"
+	},
+	{
+		"id": "cZ6uEV3H",
+		"artists": [
+			"Jz73xFw2"
+		],
+		"title": "50,000 Points",
+		"durationSeconds": 39,
+		"tags": [
+			"blues",
+			"soul",
+			"funk",
+			"happy",
+			"reggae",
+			"hip_hop",
+			"tender"
+		],
+		"colour": "#515047",
+		"index": 288,
+		"createdAt": 1743893254130
 	},
 	{
 		"id": "CZPLAHPo",

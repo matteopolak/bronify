@@ -7,10 +7,12 @@ const artists = JSON.parse(fs.readFileSync('src/lib/content/artists.json', 'utf-
 const tracksByArtist = new Map<string, string[]>();
 
 for (const track of tracks) {
-	if (!tracksByArtist.has(track.artist)) {
-		tracksByArtist.set(track.artist, []);
+	for (const artist of track.artists) {
+		if (!tracksByArtist.has(artist)) {
+			tracksByArtist.set(artist, []);
+		}
+		tracksByArtist.get(artist)?.push(track.id);
 	}
-	tracksByArtist.get(track.artist)?.push(track.id);
 }
 
 const hasLyrics = new Map<string, boolean>();
