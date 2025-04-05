@@ -1,17 +1,38 @@
 import crypto from 'node:crypto';
 import fs from 'node:fs';
+import ffmpeg from 'fluent-ffmpeg';
 
-const input = process.argv[2];
+let input = process.argv[2];
 
-const hash = crypto.createHash('sha256');
-const audio = fs.readFileSync(input);
+if (!input) {
+	console.error('Please provide an audio file path');
+	process.exit(1);
+}
 
-hash.update(audio);
+async function main() {
+	// if not mp3, convert to mp3
+	if (!input.endsWith('.mp3')) {
+		const output = input.replace(/\.[^/.]+$/, '.mp3');
 
-const id = hash.digest('base64url').slice(0, 8);
+		await new Promise((resolve, reject) => {
+			ffmpeg(input).toFormat('mp3').on('end', resolve).on('error', reject).save(output);
+		});
 
-console.log(`Hash: ${id}\n\n`);
+		input = output;
+	}
 
-fs.mkdirSync(`src/lib/content/tracks/${id}`, { recursive: true });
+	const hash = crypto.createHash('sha256');
+	const audio = fs.readFileSync(input);
 
-fs.writeFileSync(`src/lib/content/tracks/${id}/audio.mp3`, audio);
+	hash.update(audio);
+
+	const id = hash.digest('base64url').slice(0, 8);
+
+	console.log(`Hash: ${id}\n\n`);
+
+	fs.mkdirSync(`src/lib/content/tracks/${id}`, { recursive: true });
+
+	fs.writeFileSync(`src/lib/content/tracks/${id}/audio.mp3`, audio);
+}
+
+main();
