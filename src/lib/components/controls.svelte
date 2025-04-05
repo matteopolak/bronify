@@ -154,7 +154,7 @@
 	</button>
 {/snippet}
 
-<div class="navbar relative h-30 flex-wrap place-content-center md:h-20 md:flex-nowrap">
+<div class="navbar relative h-20 flex-wrap place-content-center md:flex-nowrap">
 	<div class="navbar-start h-16 grow basis-full gap-2 self-start md:basis-auto md:self-auto">
 		<img src={url} alt={player.track.title} sizes="16px" class="h-full rounded-lg" />
 

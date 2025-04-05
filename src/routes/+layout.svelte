@@ -90,14 +90,13 @@
 
 	onMount(() => {
 		// if width is < 640px, make lyrics = 'off'
-		const query = matchMedia('(max-width: 640px)');
+		const query = matchMedia('(max-width: 768px)');
 
 		if (query.matches) {
 			settings.lyrics = 'off';
 		}
 
 		query.addEventListener('change', (e) => {
-			console.log('e.matches', e.matches);
 			if (e.matches) {
 				settings.lyrics = 'off';
 			}
@@ -383,13 +382,13 @@
 		{/if}
 	</Sidebar>
 
-	<div class="bg-base-100 border-base-200 hidden sm:block">
+	<div class="bg-base-100 border-base-200 hidden md:block">
 		<Controls maxVolume={0.5} />
 	</div>
 
 	{#if $page.url.pathname !== '/immersive'}
 		<div
-			class="fixed bottom-[4.5em] z-20 ml-2 w-[calc(100vw-1em)] rounded-lg p-2 sm:hidden"
+			class="fixed bottom-[4.5em] z-20 ml-2 w-[calc(100vw-1em)] rounded-lg p-2 md:hidden"
 			style="background-color: {player.track.colour}"
 		>
 			<ControlsSmall />
@@ -423,7 +422,7 @@
 </dialog>
 
 {#if $page.url.pathname !== '/immersive'}
-	<div class="dock z-20 bg-transparent pb-3 text-neutral-400 sm:hidden">
+	<div class="dock z-20 bg-transparent pb-3 text-neutral-400 md:hidden">
 		<a href="/" class:active={$page.url.pathname === '/'}>
 			<Home />
 			<span class="dock-label">Home</span>
@@ -446,7 +445,7 @@
 	</div>
 
 	<div
-		class="from-base-100 pointer-events-none fixed bottom-0 left-0 z-10 h-60 w-full bg-linear-to-t to-transparent sm:hidden"
+		class="from-base-100 pointer-events-none fixed bottom-0 left-0 z-10 h-60 w-full bg-linear-to-t to-transparent md:hidden"
 	></div>
 {/if}
 

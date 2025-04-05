@@ -15,6 +15,10 @@
 	});
 </script>
 
+<svelte:head>
+	<title>{player.track.title} | Bronify</title>
+</svelte:head>
+
 <div
 	class="flex h-dvh w-full max-w-screen flex-col gap-4 overflow-hidden px-8 pb-6"
 	style="background-color: {player.track.colour};"
