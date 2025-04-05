@@ -93,7 +93,7 @@ export class Player {
 	async load(track: Track) {
 		const src = trackAudio(track.id);
 
-		console.info(`Loading track ${track.id} from ${src}`);
+		console.info(`Loading track ${track.id} from ${src}`, track);
 
 		this.audio.src = src;
 

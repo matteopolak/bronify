@@ -167,22 +167,6 @@
 		lastSearch = global.search;
 	});
 
-	function pastelColorFromString(str: string) {
-		let hash = 0;
-		for (let i = 0; i < str.length; i++) {
-			hash = str.charCodeAt(i) + ((hash << 5) - hash);
-			hash = hash & hash; // Convert to 32bit integer
-		}
-
-		const hue = Math.abs(hash) % 360;
-		const saturation = 50 + (Math.abs(hash) % 10); // Slightly lower saturation
-		const lightness = 30 + (Math.abs(hash) % 5); // Darker lightness range
-
-		return `hsl(${hue}, ${saturation}%, ${lightness}%)`;
-	}
-
-	let lyricsBackgroundColor = $derived(pastelColorFromString(player.track.id));
-
 	beforeNavigate(({ type, from, to }) => {
 		if (
 			type === 'leave' ||
@@ -380,7 +364,7 @@
 		{#if player.lyrics && settings.lyrics === 'on'}
 			<div
 				class="flex w-full overflow-y-auto rounded-lg py-8 {DYNAMIC_HEIGHT_CLASS} sm:pb-0 md:place-content-center"
-				style="background-color: {lyricsBackgroundColor}"
+				style="background-color: {player.track.colour}"
 			>
 				<Lyrics
 					lyrics={player.lyrics}
@@ -406,7 +390,7 @@
 	{#if $page.url.pathname !== '/immersive'}
 		<div
 			class="fixed bottom-[4.5em] z-20 ml-2 w-[calc(100vw-1em)] rounded-lg p-2 sm:hidden"
-			style="background-color: {lyricsBackgroundColor}"
+			style="background-color: {player.track.colour}"
 		>
 			<ControlsSmall />
 		</div>

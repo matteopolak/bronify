@@ -27,6 +27,16 @@ async function downloadImage(url: string, x: number, y: number) {
 	return result;
 }
 
+async function getAverageColor(buffer: Buffer) {
+	const { data } = await sharp(buffer)
+		.resize(1, 1) // Resize to 1x1 pixel to get average color
+		.raw()
+		.toBuffer({ resolveWithObject: true });
+
+	const [r, g, b] = data;
+	return `#${[r, g, b].map((x) => x.toString(16).padStart(2, '0')).join('')}`;
+}
+
 async function main() {
 	const links = fs
 		.readFileSync('links.txt', 'utf-8')
@@ -213,13 +223,15 @@ async function main() {
 			artistId = id;
 		}
 
-		out.push({
+		const obj = {
 			id,
 			artists: [artistId],
 			title: title,
 			durationSeconds: song.duration,
 			tags: []
-		});
+		};
+
+		out.push(obj);
 
 		// download audio and put it in "src/lib/content/tracks/{id}/audio.mp3"
 		const audioPath = `src/lib/content/tracks/${id}/audio.mp3`;
@@ -240,6 +252,8 @@ async function main() {
 		}
 		if (!fs.existsSync(thumbnailPath)) {
 			const thumbnail = await downloadImage(videoThumbnail, 512, 512);
+			const colour = await getAverageColor(thumbnail);
+			obj.colour = colour;
 			fs.writeFileSync(thumbnailPath, thumbnail);
 		} else {
 			console.log(`Thumbnail already downloaded for ${id}`);

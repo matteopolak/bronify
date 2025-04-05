@@ -7,8 +7,6 @@
 	}: { artistIds: string[]; anchors?: HTMLAnchorElement[] } = $props();
 
 	let artists = $derived(artistIds.map(getArtist));
-
-	$inspect(artists);
 </script>
 
 {#each artists as artist, i (artist.id)}

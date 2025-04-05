@@ -6,21 +6,6 @@
 	import { player } from '$lib/player.svelte';
 	import { ChevronDown } from '@lucide/svelte';
 
-	function pastelColorFromString(str: string) {
-		let hash = 0;
-		for (let i = 0; i < str.length; i++) {
-			hash = str.charCodeAt(i) + ((hash << 5) - hash);
-			hash = hash & hash; // Convert to 32bit integer
-		}
-
-		const hue = Math.abs(hash) % 360;
-		const saturation = 50 + (Math.abs(hash) % 10); // Slightly lower saturation
-		const lightness = 30 + (Math.abs(hash) % 5); // Darker lightness range
-
-		return `${hue} ${saturation}% ${lightness}%`;
-	}
-
-	let color = $derived(pastelColorFromString(player.track.id));
 	let url = $derived(trackThumbnail(player.track.id));
 
 	$effect(() => {
@@ -32,7 +17,7 @@
 
 <div
 	class="flex h-dvh w-full max-w-screen flex-col gap-4 overflow-hidden px-8 pb-6"
-	style="background-color: hsl({color})"
+	style="background-color: {player.track.colour};"
 >
 	<a class="absolute top-3 left-3 cursor-pointer" href="/" aria-label="Home">
 		<ChevronDown />
@@ -51,7 +36,7 @@
 
 		<div
 			class="pointer-events-none absolute -bottom-7 left-0 -z-10 h-8 w-full bg-red-400 sm:hidden"
-			style="background: linear-gradient(180deg, hsl({color}) 80%, rgba(0, 0, 0, 0) 100%);"
+			style="background: linear-gradient(180deg, {player.track.colour} 80%, rgba(0, 0, 0, 0) 100%);"
 		></div>
 	</div>
 
@@ -68,7 +53,7 @@
 	<div class="relative z-10">
 		<div
 			class="pointer-events-none absolute -top-8 left-0 -z-10 h-8 w-full sm:hidden"
-			style="background: linear-gradient(0deg, hsl({color}) 80%, rgba(0, 0, 0, 0) 100%);"
+			style="background: linear-gradient(0deg, {player.track.colour} 80%, rgba(0, 0, 0, 0) 100%);"
 		></div>
 
 		<ControlsImmersive />

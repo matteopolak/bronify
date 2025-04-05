@@ -5,6 +5,7 @@ export type Track = {
 	tags: string[];
 	album?: string;
 	index: number;
+	colour: `#${string}`;
 
 	durationSeconds: number;
 	createdAt: number;
