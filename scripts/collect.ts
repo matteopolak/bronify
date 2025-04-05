@@ -3,7 +3,7 @@ import fs from 'node:fs';
 import crypto from 'node:crypto';
 import path from 'node:path';
 import { execFileSync } from 'node:child_process';
-import ffmpeg from 'fluent-ffmpeg';
+import Color from 'color';
 
 import sharp from 'sharp';
 import axios from 'axios';
@@ -28,13 +28,20 @@ async function downloadImage(url: string, x: number, y: number) {
 }
 
 async function getAverageColor(buffer: Buffer) {
-	const { data } = await sharp(buffer)
-		.resize(1, 1) // Resize to 1x1 pixel to get average color
-		.raw()
-		.toBuffer({ resolveWithObject: true });
+	const { data } = await sharp(buffer).resize(1, 1).raw().toBuffer({ resolveWithObject: true });
 
 	const [r, g, b] = data;
-	return `#${[r, g, b].map((x) => x.toString(16).padStart(2, '0')).join('')}`;
+	let color = Color.rgb(r, g, b);
+
+	// Convert to HSL to check lightness
+	const lightness = color.hsl().lightness();
+
+	// If too light, darken it
+	if (lightness > 60) {
+		color = color.darken((lightness - 60) / 100); // tweak factor as needed
+	}
+
+	return color.hex();
 }
 
 async function main() {
