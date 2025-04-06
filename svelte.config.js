@@ -7,6 +7,9 @@ const useCloudflare = process.env.CF_PAGES === '1';
 const config = {
 	preprocess: vitePreprocess(),
 	kit: {
+		version: {
+			pollInterval: 30_000
+		},
 		adapter: useCloudflare
 			? cloudflare()
 			: adapter({

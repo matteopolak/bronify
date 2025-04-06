@@ -34,6 +34,7 @@
 	import { page } from '$app/stores';
 	import { debounce } from '$lib/util';
 	import ControlsSmall from '$lib/components/controls-small.svelte';
+	import { updated } from '$app/state';
 
 	let { children }: { children: Snippet } = $props();
 	let audioElement: HTMLAudioElement = $state()!;
@@ -220,6 +221,10 @@
 		} else {
 			insideApp = false;
 		}
+	});
+
+	$effect(() => {
+		document.documentElement.setAttribute('data-sveltekit-reload', updated ? 'on' : 'off');
 	});
 </script>
 
