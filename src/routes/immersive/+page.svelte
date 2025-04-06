@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { goto } from '$app/navigation';
 	import Artists from '$lib/components/artists.svelte';
 	import Karaoke from '$lib/components/buttons/karaoke.svelte';
 	import ControlsImmersive from '$lib/components/controls-immersive.svelte';
@@ -32,6 +33,14 @@
 			thumbnail.style.height = '0px';
 		}
 	});
+
+	function back() {
+		if (history.length > 2) {
+			history.back();
+		} else {
+			goto('/');
+		}
+	}
 </script>
 
 <svelte:head>
@@ -42,9 +51,9 @@
 	class="flex h-dvh w-full max-w-screen flex-col gap-4 overflow-hidden px-8 pb-6"
 	style="background-color: {player.track.colour};"
 >
-	<a class="absolute top-3 left-3 cursor-pointer" href="/" aria-label="Home">
+	<button class="absolute top-3 left-3 cursor-pointer" aria-label="Home" onclick={back}>
 		<ChevronDown />
-	</a>
+	</button>
 
 	<span class="pt-3 pb-6 text-center text-sm font-bold"> Now Playing </span>
 
