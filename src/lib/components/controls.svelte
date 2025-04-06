@@ -6,7 +6,6 @@
 	import { formatSeconds } from '$lib/util';
 	import { player, settings } from '$lib/player.svelte';
 	import {
-		AudioLines,
 		MicVocal,
 		Pause,
 		Play,
@@ -243,8 +242,6 @@
 					<Repeat size="1.3em" />
 				{/if}
 			</button>
-
-			<Karaoke />
 
 			<button
 				onclick={() => (settings.lyrics = settings.lyrics === 'off' ? 'on' : 'off')}
