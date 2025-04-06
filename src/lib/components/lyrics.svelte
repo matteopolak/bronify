@@ -16,7 +16,6 @@
 	} = $props();
 
 	let activeIndex = $state(-1);
-	let lyricsContainer: HTMLDivElement;
 	let lyricElements: HTMLElement[] = $state([]);
 
 	const OFFSET = 0.5;
@@ -97,7 +96,7 @@
 			return;
 		}
 		lastActiveIndex = activeIndex;
-		const activeElement = lyricElements[activeIndex];
+		const activeElement = lyricElements[activeIndex] ?? lyricElements[0];
 
 		activeElement?.scrollIntoView({
 			behavior: 'smooth',
@@ -119,7 +118,6 @@
 
 <!-- Scrollable lyrics container -->
 <div
-	bind:this={lyricsContainer}
 	class="hide-scrollbar flex w-full max-w-2xl flex-col items-start space-y-2 overflow-y-visible text-2xl font-bold text-white/50 sm:space-y-4 sm:px-4 sm:text-4xl {klass}"
 >
 	<!-- 50vh of padding on top and bottom -->
