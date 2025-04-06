@@ -1236,7 +1236,7 @@
 		"colour": "#120708"
 	},
 	{
-		"title": "Thinking Bout Lebron",
+		"title": "Thinking Bout LeBron",
 		"tags": [
 			"lullaby",
 			"tender",
@@ -1251,7 +1251,7 @@
 		"artists": [
 			"zIxev3C1"
 		],
-		"colour": "#A8968E"
+		"colour": "#607B7D"
 	},
 	{
 		"id": "CAxCoY01",
@@ -1318,7 +1318,7 @@
 		"colour": "#10161D"
 	},
 	{
-		"title": "Panic! at LeDisco",
+		"title": "I write Brons not Bronigies",
 		"tags": [
 			"rock",
 			"pop"
@@ -1939,22 +1939,6 @@
 		"colour": "#10202F"
 	},
 	{
-		"id": "gM_K2Qa0",
-		"title": "Bring Me Back To Bron",
-		"durationSeconds": 61,
-		"tags": [
-			"rock",
-			"pop",
-			"traditional"
-		],
-		"index": 56,
-		"createdAt": 1743129775928,
-		"artists": [
-			"zIxev3C1"
-		],
-		"colour": "#461212"
-	},
-	{
 		"id": "GoKDM5Tg",
 		"title": "LeEverytime We Touch",
 		"durationSeconds": 30,
@@ -2310,7 +2294,7 @@
 		"artists": [
 			"zIxev3C1"
 		],
-		"colour": "#837C78"
+		"colour": "#94672B"
 	},
 	{
 		"id": "J60cjJYb",
@@ -3070,6 +3054,24 @@
 			"oQedaKZL"
 		],
 		"colour": "#9C8682"
+	},
+	{
+		"id": "ngAMHgsN",
+		"artists": [
+			"zIxev3C1"
+		],
+		"title": "This Bron",
+		"durationSeconds": 64,
+		"tags": [
+			"country",
+			"pop",
+			"happy",
+			"soul",
+			"blues"
+		],
+		"colour": "#391010",
+		"index": 289,
+		"createdAt": 1743904313423
 	},
 	{
 		"id": "NLzF5LL-",

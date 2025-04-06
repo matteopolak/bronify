@@ -1,13 +1,26 @@
 <script lang="ts">
+	import Fuse from 'fuse.js';
+
 	import { afterNavigate } from '$app/navigation';
 	import { page } from '$app/stores';
 	import Collection from '$lib/components/collection.svelte';
-	import { albumCover, trackData, getAlbum, getArtist, getArtistDisplayName } from '$lib/get';
-	import { player } from '$lib/player.svelte';
+	import { albumCover, getAlbum, getArtist, getArtistDisplayName, getTrack } from '$lib/get';
+	import { player, global } from '$lib/player.svelte';
 
 	let album = $derived(getAlbum($page.params.id));
-	let tracks = $derived(trackData.filter((s) => album.trackIds.includes(s.id)));
+	let tracks = $derived(album.trackIds.map(getTrack));
 	let artist = $derived(getArtist(album.artist));
+
+	let trackIndex = $derived(
+		new Fuse(tracks, {
+			keys: ['title', 'tags'],
+			threshold: 0.4
+		})
+	);
+
+	let filter = $derived(
+		global.search ? trackIndex.search(global.search).map((r) => r.item) : tracks
+	);
 
 	$effect(() => {
 		player.queue = tracks;
@@ -27,7 +40,7 @@
 		title: album.title,
 		subtitle: getArtistDisplayName(artist ?? { username: album.artist }),
 		cover: albumCover(album.id),
-		tracks,
+		tracks: filter,
 		type: 'album'
 	}}
 />
