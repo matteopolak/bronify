@@ -200,37 +200,25 @@
 				"index": 29
 			},
 			{
-				"text": "praise",
+				"text": "praise ",
 				"start": 2.34,
 				"end": 2.61,
 				"index": 30
-			}
-		],
-		"start": 23.96,
-		"end": 26.57
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Lovron",
-				"start": 0,
-				"end": 1.7,
+				"text": "LeBron ",
+				"start": 2.98,
+				"end": 4.68,
 				"index": 31
-			}
-		],
-		"start": 26.94,
-		"end": 28.64
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Lovron",
-				"start": 0,
-				"end": 0.14,
+				"text": "LeBron",
+				"start": 4.71,
+				"end": 4.85,
 				"index": 32
 			}
 		],
-		"start": 28.67,
+		"start": 23.96,
 		"end": 28.81
 	},
 	{

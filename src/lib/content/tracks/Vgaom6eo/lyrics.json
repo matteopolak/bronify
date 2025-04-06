@@ -134,43 +134,37 @@
 	{
 		"words": [
 			{
-				"text": "Four",
+				"text": "Four ",
 				"start": 0,
 				"end": 0.64,
 				"index": 18
-			}
-		],
-		"start": 15.78,
-		"end": 16.42
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "MVPs, ",
-				"start": 0,
-				"end": 0.66,
+				"start": 0.66,
+				"end": 1.32,
 				"index": 19
 			},
 			{
 				"text": "four ",
-				"start": 0.72,
-				"end": 1.02,
+				"start": 1.38,
+				"end": 1.68,
 				"index": 20
 			},
 			{
 				"text": "fuckin' ",
-				"start": 1.04,
-				"end": 1.38,
+				"start": 1.7,
+				"end": 2.04,
 				"index": 21
 			},
 			{
 				"text": "rings",
-				"start": 1.48,
-				"end": 2.08,
+				"start": 2.14,
+				"end": 2.74,
 				"index": 22
 			}
 		],
-		"start": 16.44,
+		"start": 15.78,
 		"end": 18.52
 	},
 	{

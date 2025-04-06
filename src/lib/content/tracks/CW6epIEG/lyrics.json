@@ -74,103 +74,85 @@
 	{
 		"words": [
 			{
-				"text": "ATL",
+				"text": "ATL ",
 				"start": 0,
 				"end": 0.64,
 				"index": 10
-			}
-		],
-		"start": 18.49,
-		"end": 19.13
-	},
-	{
-		"words": [
-			{
-				"text": "Jacob",
-				"start": 0,
-				"end": 0.56,
-				"index": 11
-			}
-		],
-		"start": 19.17,
-		"end": 19.73
-	},
-	{
-		"words": [
-			{
-				"text": "ATL",
-				"start": 0,
-				"end": 0.18,
-				"index": 12
-			}
-		],
-		"start": 19.95,
-		"end": 20.13
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Jacob ",
-				"start": 0,
-				"end": 0.24,
+				"start": 0.68,
+				"end": 1.24,
+				"index": 11
+			},
+			{
+				"text": "ATL ",
+				"start": 1.46,
+				"end": 1.64,
+				"index": 12
+			},
+			{
+				"text": "Jacob ",
+				"start": 1.68,
+				"end": 1.92,
 				"index": 13
 			},
 			{
 				"text": "I'm ",
-				"start": 0.26,
-				"end": 0.32,
+				"start": 1.94,
+				"end": 2,
 				"index": 14
 			},
 			{
 				"text": "prayin' ",
-				"start": 0.34,
-				"end": 0.64,
+				"start": 2.02,
+				"end": 2.32,
 				"index": 15
 			},
 			{
 				"text": "for ",
-				"start": 0.66,
-				"end": 0.78,
+				"start": 2.34,
+				"end": 2.46,
 				"index": 16
 			},
 			{
 				"text": "LeBron, ",
-				"start": 0.8,
-				"end": 1.28,
+				"start": 2.48,
+				"end": 2.96,
 				"index": 17
 			},
 			{
 				"text": "you ",
-				"start": 1.32,
-				"end": 1.38,
+				"start": 3,
+				"end": 3.06,
 				"index": 18
 			},
 			{
 				"text": "know ",
-				"start": 1.4,
-				"end": 1.56,
+				"start": 3.08,
+				"end": 3.24,
 				"index": 19
 			},
 			{
 				"text": "I ",
-				"start": 1.6,
-				"end": 1.62,
+				"start": 3.28,
+				"end": 3.3,
 				"index": 20
 			},
 			{
 				"text": "got ",
-				"start": 1.66,
-				"end": 1.84,
+				"start": 3.34,
+				"end": 3.52,
 				"index": 21
 			},
 			{
 				"text": "you",
-				"start": 1.86,
-				"end": 1.92,
+				"start": 3.54,
+				"end": 3.6,
 				"index": 22
 			}
 		],
-		"start": 20.17,
+		"start": 18.49,
 		"end": 22.09
 	},
 	{

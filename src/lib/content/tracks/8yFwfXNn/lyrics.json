@@ -134,43 +134,37 @@
 	{
 		"words": [
 			{
-				"text": "Oh",
+				"text": "Oh ",
 				"start": 0,
 				"end": 0.14,
 				"index": 19
-			}
-		],
-		"start": 12.31,
-		"end": 12.45
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Indiana ",
-				"start": 0,
-				"end": 1,
+				"start": 0.26,
+				"end": 1.26,
 				"index": 20
 			},
 			{
 				"text": "came ",
-				"start": 1.06,
-				"end": 1.36,
+				"start": 1.32,
+				"end": 1.62,
 				"index": 21
 			},
 			{
 				"text": "to ",
-				"start": 1.4,
-				"end": 1.48,
+				"start": 1.66,
+				"end": 1.74,
 				"index": 22
 			},
 			{
 				"text": "play",
-				"start": 1.54,
-				"end": 2.06,
+				"start": 1.8,
+				"end": 2.32,
 				"index": 23
 			}
 		],
-		"start": 12.57,
+		"start": 12.31,
 		"end": 14.63
 	},
 	{
@@ -302,67 +296,61 @@
 				"index": 42
 			},
 			{
-				"text": "comes",
+				"text": "comes ",
 				"start": 0.52,
 				"end": 0.78,
 				"index": 43
-			}
-		],
-		"start": 23.12,
-		"end": 23.9
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Aaron ",
-				"start": 0,
-				"end": 0.56,
+				"start": 0.9,
+				"end": 1.46,
 				"index": 44
 			},
 			{
 				"text": "Bron, ",
-				"start": 0.6,
-				"end": 1.5,
+				"start": 1.5,
+				"end": 2.4,
 				"index": 45
 			},
 			{
 				"text": "tippin' ",
-				"start": 1.84,
-				"end": 2.26,
+				"start": 2.74,
+				"end": 3.16,
 				"index": 46
 			},
 			{
 				"text": "at ",
-				"start": 2.42,
-				"end": 2.54,
+				"start": 3.32,
+				"end": 3.44,
 				"index": 47
 			},
 			{
 				"text": "home ",
-				"start": 2.8,
-				"end": 3.04,
+				"start": 3.7,
+				"end": 3.94,
 				"index": 48
 			},
 			{
 				"text": "to ",
-				"start": 3.1,
-				"end": 3.34,
+				"start": 4,
+				"end": 4.24,
 				"index": 49
 			},
 			{
 				"text": "buzzer ",
-				"start": 3.48,
-				"end": 3.86,
+				"start": 4.38,
+				"end": 4.76,
 				"index": 50
 			},
 			{
 				"text": "me",
-				"start": 5.41,
-				"end": 5.45,
+				"start": 6.31,
+				"end": 6.35,
 				"index": 51
 			}
 		],
-		"start": 24.02,
+		"start": 23.12,
 		"end": 29.47
 	},
 	{

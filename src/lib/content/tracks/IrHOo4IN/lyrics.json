@@ -128,25 +128,19 @@
 				"index": 17
 			},
 			{
-				"text": "the",
+				"text": "the ",
 				"start": 3.87,
 				"end": 4.01,
 				"index": 18
-			}
-		],
-		"start": 14.85,
-		"end": 18.86
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Jumbotron",
-				"start": 0,
-				"end": 0.76,
+				"start": 4.02,
+				"end": 4.78,
 				"index": 19
 			}
 		],
-		"start": 18.87,
+		"start": 14.85,
 		"end": 19.63
 	},
 	{

@@ -63,7 +63,15 @@ const wordReplacements = {
 	bronya: 'Bron ya',
 	raymo: 'Raymond',
 	mj: 'MJ',
-	james: 'James'
+	james: 'James',
+	lpg: 'LBJ',
+	libron: 'LeBron',
+	libro: 'LeBron',
+	lovron: 'LeBron',
+	bronified: 'Bronify',
+	lepron: 'LeBron',
+	bronnie: 'Bronny',
+	lombron: 'LeBron'
 };
 
 const wordReplacementsRegex = {};

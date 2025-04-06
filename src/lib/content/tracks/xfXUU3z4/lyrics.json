@@ -644,25 +644,19 @@
 				"index": 93
 			},
 			{
-				"text": "that's",
+				"text": "that's ",
 				"start": 0.12,
 				"end": 0.36,
 				"index": 94
-			}
-		],
-		"start": 27.04,
-		"end": 27.4
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "LPJ",
-				"start": 0,
-				"end": 0.54,
+				"start": 0.38,
+				"end": 0.92,
 				"index": 95
 			}
 		],
-		"start": 27.42,
+		"start": 27.04,
 		"end": 27.96
 	},
 	{

@@ -752,91 +752,85 @@
 				"index": 116
 			},
 			{
-				"text": "fuck",
+				"text": "fuck ",
 				"start": 15.65,
 				"end": 15.93,
 				"index": 117
-			}
-		],
-		"start": 17.97,
-		"end": 33.9
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Dylan ",
-				"start": 0,
-				"end": 0.48,
+				"start": 15.99,
+				"end": 16.47,
 				"index": 118
 			},
 			{
 				"text": "and ",
-				"start": 0.5,
-				"end": 0.56,
+				"start": 16.49,
+				"end": 16.55,
 				"index": 119
 			},
 			{
 				"text": "Draymond ",
-				"start": 0.58,
-				"end": 1.12,
+				"start": 16.57,
+				"end": 17.11,
 				"index": 120
 			},
 			{
 				"text": "one ",
-				"start": 1.64,
-				"end": 1.8,
+				"start": 17.63,
+				"end": 17.79,
 				"index": 121
 			},
 			{
 				"text": "more ",
-				"start": 1.92,
-				"end": 2.04,
+				"start": 17.91,
+				"end": 18.03,
 				"index": 122
 			},
 			{
 				"text": "foul ",
-				"start": 2.06,
-				"end": 2.16,
+				"start": 18.05,
+				"end": 18.15,
 				"index": 123
 			},
 			{
 				"text": "and ",
-				"start": 2.38,
-				"end": 2.46,
+				"start": 18.37,
+				"end": 18.45,
 				"index": 124
 			},
 			{
 				"text": "y'all ",
-				"start": 2.51,
-				"end": 2.69,
+				"start": 18.5,
+				"end": 18.68,
 				"index": 125
 			},
 			{
 				"text": "niggas ",
-				"start": 2.71,
-				"end": 2.95,
+				"start": 18.7,
+				"end": 18.94,
 				"index": 126
 			},
 			{
 				"text": "gon' ",
-				"start": 2.97,
-				"end": 3.17,
+				"start": 18.96,
+				"end": 19.16,
 				"index": 127
 			},
 			{
 				"text": "be ",
-				"start": 3.19,
-				"end": 3.35,
+				"start": 19.18,
+				"end": 19.34,
 				"index": 128
 			},
 			{
 				"text": "gone",
-				"start": 3.37,
-				"end": 3.91,
+				"start": 19.36,
+				"end": 19.9,
 				"index": 129
 			}
 		],
-		"start": 33.96,
+		"start": 17.97,
 		"end": 37.87
 	},
 	{

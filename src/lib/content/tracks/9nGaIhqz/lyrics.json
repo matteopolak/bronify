@@ -518,61 +518,55 @@
 				"index": 75
 			},
 			{
-				"text": "truck",
+				"text": "truck ",
 				"start": 1.74,
 				"end": 2,
 				"index": 76
-			}
-		],
-		"start": 35.24,
-		"end": 37.24
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Faze ",
-				"start": 0,
-				"end": 0.28,
+				"start": 2.24,
+				"end": 2.52,
 				"index": 77
 			},
 			{
 				"text": "like ",
-				"start": 0.32,
-				"end": 0.48,
+				"start": 2.56,
+				"end": 2.72,
 				"index": 78
 			},
 			{
 				"text": "what, ",
-				"start": 0.52,
-				"end": 0.76,
+				"start": 2.76,
+				"end": 3,
 				"index": 79
 			},
 			{
 				"text": "what ",
-				"start": 0.96,
-				"end": 1.04,
+				"start": 3.2,
+				"end": 3.28,
 				"index": 80
 			},
 			{
 				"text": "is ",
-				"start": 1.02,
-				"end": 4.19,
+				"start": 3.26,
+				"end": 6.43,
 				"index": 81
 			},
 			{
 				"text": "my ",
-				"start": 5.86,
-				"end": 12.8,
+				"start": 8.1,
+				"end": 15.04,
 				"index": 82
 			},
 			{
 				"text": "goal",
-				"start": 12.85,
-				"end": 21.68,
+				"start": 15.09,
+				"end": 23.92,
 				"index": 83
 			}
 		],
-		"start": 37.48,
+		"start": 35.24,
 		"end": 59.16
 	}
 ]

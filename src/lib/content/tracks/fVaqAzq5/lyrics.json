@@ -524,55 +524,49 @@
 				"index": 85
 			},
 			{
-				"text": "GOAT",
+				"text": "GOAT ",
 				"start": 1.74,
 				"end": 1.94,
 				"index": 86
-			}
-		],
-		"start": 28.39,
-		"end": 30.33
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Bronnie ",
-				"start": 0,
-				"end": 0.3,
+				"text": "Bronny ",
+				"start": 2.07,
+				"end": 2.37,
 				"index": 87
 			},
 			{
 				"text": "went ",
-				"start": 0.32,
-				"end": 0.5,
+				"start": 2.39,
+				"end": 2.57,
 				"index": 88
 			},
 			{
 				"text": "against ",
-				"start": 0.52,
-				"end": 0.76,
+				"start": 2.59,
+				"end": 2.83,
 				"index": 89
 			},
 			{
 				"text": "Kevin ",
-				"start": 0.8,
-				"end": 1.08,
+				"start": 2.87,
+				"end": 3.15,
 				"index": 90
 			},
 			{
 				"text": "and ",
-				"start": 1.14,
-				"end": 1.2,
+				"start": 3.21,
+				"end": 3.27,
 				"index": 91
 			},
 			{
 				"text": "Steph",
-				"start": 1.24,
-				"end": 1.58,
+				"start": 3.31,
+				"end": 3.65,
 				"index": 92
 			}
 		],
-		"start": 30.46,
+		"start": 28.39,
 		"end": 32.04
 	},
 	{

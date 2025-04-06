@@ -176,73 +176,49 @@
 				"index": 27
 			},
 			{
-				"text": "ooh",
+				"text": "ooh ",
 				"start": 1.98,
 				"end": 2.04,
 				"index": 28
-			}
-		],
-		"start": 7.76,
-		"end": 9.8
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Brownie, ",
-				"start": 0,
-				"end": 0.36,
+				"text": "Bronny, ",
+				"start": 2.26,
+				"end": 2.62,
 				"index": 29
 			},
 			{
-				"text": "ballin'",
-				"start": 0.48,
-				"end": 0.7,
+				"text": "ballin' ",
+				"start": 2.74,
+				"end": 2.96,
 				"index": 30
-			}
-		],
-		"start": 10.02,
-		"end": 10.72
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Brownie",
-				"start": 0,
-				"end": 0.24,
+				"text": "Bronny ",
+				"start": 3.21,
+				"end": 3.45,
 				"index": 31
-			}
-		],
-		"start": 10.97,
-		"end": 11.21
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Brownie",
-				"start": 0,
-				"end": 0.22,
+				"text": "Bronny ",
+				"start": 3.61,
+				"end": 3.83,
 				"index": 32
-			}
-		],
-		"start": 11.37,
-		"end": 11.59
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Brownie, ",
-				"start": 0,
-				"end": 0.32,
+				"text": "Bronny, ",
+				"start": 4.05,
+				"end": 4.37,
 				"index": 33
 			},
 			{
 				"text": "ballin'",
-				"start": 0.42,
-				"end": 0.76,
+				"start": 4.47,
+				"end": 4.81,
 				"index": 34
 			}
 		],
-		"start": 11.81,
+		"start": 7.76,
 		"end": 12.57
 	},
 	{

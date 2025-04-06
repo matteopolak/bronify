@@ -278,73 +278,67 @@
 				"index": 44
 			},
 			{
-				"text": "Austin",
+				"text": "Austin ",
 				"start": 9.08,
 				"end": 9.58,
 				"index": 45
-			}
-		],
-		"start": 14.16,
-		"end": 23.74
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Reezy's ",
-				"start": 0,
-				"end": 0.36,
+				"start": 9.6,
+				"end": 9.96,
 				"index": 46
 			},
 			{
 				"text": "in ",
-				"start": 0.44,
-				"end": 0.52,
+				"start": 10.04,
+				"end": 10.12,
 				"index": 47
 			},
 			{
 				"text": "the ",
-				"start": 0.54,
-				"end": 0.64,
+				"start": 10.14,
+				"end": 10.24,
 				"index": 48
 			},
 			{
 				"text": "corner, ",
-				"start": 0.7,
-				"end": 1.04,
+				"start": 10.3,
+				"end": 10.64,
 				"index": 49
 			},
 			{
 				"text": "he ",
-				"start": 1.06,
-				"end": 1.2,
+				"start": 10.66,
+				"end": 10.8,
 				"index": 50
 			},
 			{
 				"text": "gon' ",
-				"start": 1.22,
-				"end": 1.42,
+				"start": 10.82,
+				"end": 11.02,
 				"index": 51
 			},
 			{
 				"text": "shoot ",
-				"start": 1.44,
-				"end": 1.74,
+				"start": 11.04,
+				"end": 11.34,
 				"index": 52
 			},
 			{
 				"text": "it ",
-				"start": 1.76,
-				"end": 1.86,
+				"start": 11.36,
+				"end": 11.46,
 				"index": 53
 			},
 			{
 				"text": "up",
-				"start": 2.08,
-				"end": 2.18,
+				"start": 11.68,
+				"end": 11.78,
 				"index": 54
 			}
 		],
-		"start": 23.76,
+		"start": 14.16,
 		"end": 25.94
 	},
 	{

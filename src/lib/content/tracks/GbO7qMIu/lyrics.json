@@ -662,25 +662,19 @@
 				"index": 106
 			},
 			{
-				"text": "in",
+				"text": "in ",
 				"start": 47.71,
 				"end": 47.83,
 				"index": 107
-			}
-		],
-		"start": 112.62,
-		"end": 160.45
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Lepron",
-				"start": 0,
-				"end": 3.71,
+				"text": "LeBron",
+				"start": 47.9,
+				"end": 51.61,
 				"index": 108
 			}
 		],
-		"start": 160.52,
+		"start": 112.62,
 		"end": 164.23
 	}
 ]

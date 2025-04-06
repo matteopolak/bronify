@@ -3620,25 +3620,19 @@
 				"index": 536
 			},
 			{
-				"text": "from",
+				"text": "from ",
 				"start": 1.48,
 				"end": 1.6,
 				"index": 537
-			}
-		],
-		"start": 171.28,
-		"end": 172.88
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "RoC",
-				"start": 0,
-				"end": 0.3,
+				"start": 1.63,
+				"end": 1.93,
 				"index": 538
 			}
 		],
-		"start": 172.91,
+		"start": 171.28,
 		"end": 173.21
 	},
 	{

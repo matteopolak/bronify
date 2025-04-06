@@ -356,25 +356,19 @@
 				"index": 53
 			},
 			{
-				"text": "you",
+				"text": "you ",
 				"start": 1.44,
 				"end": 1.6,
 				"index": 54
-			}
-		],
-		"start": 18.11,
-		"end": 19.71
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Bronified",
-				"start": 0,
-				"end": 0.68,
+				"text": "Bronify",
+				"start": 1.66,
+				"end": 2.34,
 				"index": 55
 			}
 		],
-		"start": 19.77,
+		"start": 18.11,
 		"end": 20.45
 	},
 	{

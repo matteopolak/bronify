@@ -1376,31 +1376,25 @@
 	{
 		"words": [
 			{
-				"text": "Tony",
+				"text": "Tony ",
 				"start": 0,
 				"end": 1.3,
 				"index": 209
-			}
-		],
-		"start": 104.81,
-		"end": 106.11
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Patrick's ",
-				"start": 0,
-				"end": 0.38,
+				"start": 1.32,
+				"end": 1.7,
 				"index": 210
 			},
 			{
 				"text": "blowin'",
-				"start": 0.44,
-				"end": 1.06,
+				"start": 1.76,
+				"end": 2.38,
 				"index": 211
 			}
 		],
-		"start": 106.13,
+		"start": 104.81,
 		"end": 107.19
 	}
 ]

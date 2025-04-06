@@ -26,73 +26,67 @@
 				"index": 3
 			},
 			{
-				"text": "Bron's",
+				"text": "Bron's ",
 				"start": 1.8,
 				"end": 2.79,
 				"index": 4
-			}
-		],
-		"start": 9.92,
-		"end": 12.71
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Eddie ",
-				"start": 0,
-				"end": 0.2,
+				"start": 2.81,
+				"end": 3.01,
 				"index": 5
 			},
 			{
 				"text": "Roman ",
-				"start": 0.3,
-				"end": 0.72,
+				"start": 3.11,
+				"end": 3.53,
 				"index": 6
 			},
 			{
 				"text": "numeral ",
-				"start": 0.78,
-				"end": 1.14,
+				"start": 3.59,
+				"end": 3.95,
 				"index": 7
 			},
 			{
 				"text": "23 ",
-				"start": 1.16,
-				"end": 1.54,
+				"start": 3.97,
+				"end": 4.35,
 				"index": 8
 			},
 			{
 				"text": "and ",
-				"start": 1.94,
-				"end": 2.02,
+				"start": 4.75,
+				"end": 4.83,
 				"index": 9
 			},
 			{
 				"text": "my ",
-				"start": 2.06,
-				"end": 2.2,
+				"start": 4.87,
+				"end": 5.01,
 				"index": 10
 			},
 			{
 				"text": "king ",
-				"start": 2.24,
-				"end": 2.48,
+				"start": 5.05,
+				"end": 5.29,
 				"index": 11
 			},
 			{
 				"text": "is ",
-				"start": 2.56,
-				"end": 2.66,
+				"start": 5.37,
+				"end": 5.47,
 				"index": 12
 			},
 			{
 				"text": "Lebron",
-				"start": 2.76,
-				"end": 3.27,
+				"start": 5.57,
+				"end": 6.08,
 				"index": 13
 			}
 		],
-		"start": 12.73,
+		"start": 9.92,
 		"end": 16
 	},
 	{

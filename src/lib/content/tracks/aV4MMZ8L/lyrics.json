@@ -1226,67 +1226,61 @@
 	{
 		"words": [
 			{
-				"text": "Jordache",
+				"text": "Jordache ",
 				"start": 0,
 				"end": 0.6,
 				"index": 195
-			}
-		],
-		"start": 67.36,
-		"end": 67.96
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Pyke ",
-				"start": 0,
-				"end": 0.24,
+				"start": 0.74,
+				"end": 0.98,
 				"index": 196
 			},
 			{
 				"text": "down, ",
-				"start": 0.28,
-				"end": 0.54,
+				"start": 1.02,
+				"end": 1.28,
 				"index": 197
 			},
 			{
 				"text": "let ",
-				"start": 0.62,
-				"end": 0.74,
+				"start": 1.36,
+				"end": 1.48,
 				"index": 198
 			},
 			{
 				"text": "me ",
-				"start": 0.78,
-				"end": 0.88,
+				"start": 1.52,
+				"end": 1.62,
 				"index": 199
 			},
 			{
 				"text": "get ",
-				"start": 0.94,
-				"end": 1.08,
+				"start": 1.68,
+				"end": 1.82,
 				"index": 200
 			},
 			{
 				"text": "my ",
-				"start": 1.12,
-				"end": 1.24,
+				"start": 1.86,
+				"end": 1.98,
 				"index": 201
 			},
 			{
 				"text": "big ",
-				"start": 1.28,
-				"end": 1.5,
+				"start": 2.02,
+				"end": 2.24,
 				"index": 202
 			},
 			{
 				"text": "three",
-				"start": 1.52,
-				"end": 1.78,
+				"start": 2.26,
+				"end": 2.52,
 				"index": 203
 			}
 		],
-		"start": 68.1,
+		"start": 67.36,
 		"end": 69.88
 	},
 	{

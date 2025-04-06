@@ -512,61 +512,55 @@
 	{
 		"words": [
 			{
-				"text": "Stim",
+				"text": "Stim ",
 				"start": 0,
 				"end": 0.12,
 				"index": 74
-			}
-		],
-		"start": 37.36,
-		"end": 37.48
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Jane ",
-				"start": 0,
-				"end": 0.34,
+				"start": 0.24,
+				"end": 0.58,
 				"index": 75
 			},
 			{
 				"text": "have ",
-				"start": 0.4,
-				"end": 0.54,
+				"start": 0.64,
+				"end": 0.78,
 				"index": 76
 			},
 			{
 				"text": "had ",
-				"start": 0.62,
-				"end": 0.84,
+				"start": 0.86,
+				"end": 1.08,
 				"index": 77
 			},
 			{
 				"text": "this ",
-				"start": 0.9,
-				"end": 1.1,
+				"start": 1.14,
+				"end": 1.34,
 				"index": 78
 			},
 			{
 				"text": "kind ",
-				"start": 1.14,
-				"end": 1.46,
+				"start": 1.38,
+				"end": 1.7,
 				"index": 79
 			},
 			{
 				"text": "of ",
-				"start": 1.52,
-				"end": 1.58,
+				"start": 1.76,
+				"end": 1.82,
 				"index": 80
 			},
 			{
 				"text": "glaze",
-				"start": 1.62,
-				"end": 1.94,
+				"start": 1.86,
+				"end": 2.18,
 				"index": 81
 			}
 		],
-		"start": 37.6,
+		"start": 37.36,
 		"end": 39.54
 	},
 	{
@@ -710,61 +704,55 @@
 	{
 		"words": [
 			{
-				"text": "Stim",
+				"text": "Stim ",
 				"start": 0,
 				"end": 0.1,
 				"index": 103
-			}
-		],
-		"start": 47.76,
-		"end": 47.86
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Jane ",
-				"start": 0,
-				"end": 0.34,
+				"start": 0.22,
+				"end": 0.56,
 				"index": 104
 			},
 			{
 				"text": "have ",
-				"start": 0.42,
-				"end": 0.54,
+				"start": 0.64,
+				"end": 0.76,
 				"index": 105
 			},
 			{
 				"text": "had ",
-				"start": 0.62,
-				"end": 0.86,
+				"start": 0.84,
+				"end": 1.08,
 				"index": 106
 			},
 			{
 				"text": "this ",
-				"start": 0.9,
-				"end": 1.1,
+				"start": 1.12,
+				"end": 1.32,
 				"index": 107
 			},
 			{
 				"text": "kind ",
-				"start": 1.16,
-				"end": 1.48,
+				"start": 1.38,
+				"end": 1.7,
 				"index": 108
 			},
 			{
 				"text": "of ",
-				"start": 1.54,
-				"end": 1.6,
+				"start": 1.76,
+				"end": 1.82,
 				"index": 109
 			},
 			{
 				"text": "glaze",
-				"start": 1.62,
-				"end": 1.96,
+				"start": 1.84,
+				"end": 2.18,
 				"index": 110
 			}
 		],
-		"start": 47.98,
+		"start": 47.76,
 		"end": 49.94
 	},
 	{

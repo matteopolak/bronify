@@ -1250,31 +1250,25 @@
 				"index": 192
 			},
 			{
-				"text": "week",
+				"text": "week ",
 				"start": 0.56,
 				"end": 0.7,
 				"index": 193
-			}
-		],
-		"start": 47.27,
-		"end": 47.97
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Cudi",
-				"start": 0,
-				"end": 0.26,
+				"start": 0.82,
+				"end": 1.08,
 				"index": 194
 			}
 		],
-		"start": 48.09,
+		"start": 47.27,
 		"end": 48.35
 	},
 	{
 		"words": [
 			{
-				"text": "Bronnie ",
+				"text": "Bronny ",
 				"start": 0,
 				"end": 0.26,
 				"index": 195
@@ -1340,25 +1334,19 @@
 				"index": 204
 			},
 			{
-				"text": "screen",
+				"text": "screen ",
 				"start": 0.94,
 				"end": 1.2,
 				"index": 205
-			}
-		],
-		"start": 52.06,
-		"end": 53.26
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Cudi",
-				"start": 0,
-				"end": 0.42,
+				"start": 1.32,
+				"end": 1.74,
 				"index": 206
 			}
 		],
-		"start": 53.38,
+		"start": 52.06,
 		"end": 53.8
 	},
 	{

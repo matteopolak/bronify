@@ -92,37 +92,25 @@
 				"index": 11
 			},
 			{
-				"text": "than",
+				"text": "than ",
 				"start": 0.62,
 				"end": 0.74,
 				"index": 12
-			}
-		],
-		"start": 16.79,
-		"end": 17.53
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Damian",
-				"start": 0,
-				"end": 0.48,
+				"text": "Damian ",
+				"start": 0.78,
+				"end": 1.26,
 				"index": 13
-			}
-		],
-		"start": 17.57,
-		"end": 18.05
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Warner",
-				"start": 0,
-				"end": 0.24,
+				"start": 1.48,
+				"end": 1.72,
 				"index": 14
 			}
 		],
-		"start": 18.27,
+		"start": 16.79,
 		"end": 18.51
 	},
 	{
@@ -278,37 +266,25 @@
 				"index": 37
 			},
 			{
-				"text": "than",
+				"text": "than ",
 				"start": 0.58,
 				"end": 0.72,
 				"index": 38
-			}
-		],
-		"start": 24.68,
-		"end": 25.4
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Damian",
-				"start": 0,
-				"end": 0.46,
+				"text": "Damian ",
+				"start": 0.76,
+				"end": 1.22,
 				"index": 39
-			}
-		],
-		"start": 25.44,
-		"end": 25.9
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Warner",
-				"start": 0,
-				"end": 0.48,
+				"start": 1.24,
+				"end": 1.72,
 				"index": 40
 			}
 		],
-		"start": 25.92,
+		"start": 24.68,
 		"end": 26.4
 	},
 	{
