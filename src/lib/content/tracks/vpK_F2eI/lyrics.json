@@ -2,457 +2,427 @@
 	{
 		"words": [
 			{
-				"text": "see, ",
-				"start": 2.07,
-				"end": 2.57,
+				"text": "see ",
+				"start": 2.35,
+				"end": 2.75,
 				"index": 0
 			},
 			{
 				"text": "I've ",
-				"start": 2.65,
-				"end": 2.89,
+				"start": 2.87,
+				"end": 3.05,
 				"index": 1
 			},
 			{
 				"text": "been ",
-				"start": 2.89,
-				"end": 3.05,
+				"start": 3.07,
+				"end": 3.17,
 				"index": 2
 			},
 			{
-				"text": "sittin' ",
-				"start": 3.05,
-				"end": 3.49,
+				"text": "sitting ",
+				"start": 3.21,
+				"end": 3.69,
 				"index": 3
 			},
 			{
 				"text": "up ",
-				"start": 3.49,
-				"end": 3.75,
+				"start": 3.79,
+				"end": 3.89,
 				"index": 4
 			},
 			{
 				"text": "in ",
-				"start": 3.75,
-				"end": 3.97,
+				"start": 4.01,
+				"end": 4.07,
 				"index": 5
 			},
 			{
 				"text": "class ",
-				"start": 3.97,
-				"end": 4.27,
+				"start": 4.11,
+				"end": 4.57,
 				"index": 6
 			},
 			{
-				"text": "thinkin' ",
-				"start": 4.27,
-				"end": 4.95,
+				"text": "thinking ",
+				"start": 4.61,
+				"end": 5.03,
 				"index": 7
 			},
 			{
 				"text": "bout ",
-				"start": 4.95,
-				"end": 5.13,
+				"start": 5.09,
+				"end": 5.29,
 				"index": 8
 			},
 			{
 				"text": "tonight ",
-				"start": 5.13,
-				"end": 5.61,
+				"start": 5.31,
+				"end": 6.29,
 				"index": 9
 			},
 			{
 				"text": "oh ",
-				"start": 5.61,
-				"end": 6.31,
+				"start": 6.39,
+				"end": 6.49,
 				"index": 10
 			},
 			{
 				"text": "my ",
-				"start": 6.31,
-				"end": 6.55,
+				"start": 6.53,
+				"end": 6.71,
 				"index": 11
 			},
 			{
-				"text": "gosh, ",
-				"start": 6.55,
-				"end": 6.97,
+				"text": "gosh ",
+				"start": 6.75,
+				"end": 7.05,
 				"index": 12
 			},
 			{
 				"text": "I'll ",
-				"start": 7.09,
-				"end": 7.27,
+				"start": 7.11,
+				"end": 7.37,
 				"index": 13
 			},
 			{
 				"text": "see ",
-				"start": 7.27,
-				"end": 7.41,
+				"start": 7.41,
+				"end": 7.69,
 				"index": 14
 			},
 			{
-				"text": "LeBron ",
-				"start": 7.41,
-				"end": 8.17,
+				"text": "Lebron ",
+				"start": 7.85,
+				"end": 9.08,
 				"index": 15
 			},
 			{
 				"text": "7pm ",
-				"start": 8.17,
-				"end": 10.83,
+				"start": 9.1,
+				"end": 10.74,
 				"index": 16
 			},
 			{
 				"text": "is ",
-				"start": 10.83,
-				"end": 11.29,
+				"start": 11.36,
+				"end": 11.46,
 				"index": 17
 			},
 			{
 				"text": "the ",
-				"start": 11.29,
-				"end": 11.45,
+				"start": 11.48,
+				"end": 11.66,
 				"index": 18
 			},
 			{
-				"text": "game, ",
-				"start": 11.45,
-				"end": 11.79,
+				"text": "game ",
+				"start": 11.68,
+				"end": 11.94,
 				"index": 19
 			},
 			{
 				"text": "I ",
-				"start": 11.87,
-				"end": 12.01,
+				"start": 12.06,
+				"end": 12.14,
 				"index": 20
 			},
 			{
 				"text": "gotta ",
-				"start": 12.01,
-				"end": 12.25,
+				"start": 12.18,
+				"end": 12.62,
 				"index": 21
 			},
 			{
 				"text": "get ",
-				"start": 12.25,
-				"end": 12.63,
+				"start": 12.64,
+				"end": 12.82,
 				"index": 22
 			},
 			{
 				"text": "to ",
-				"start": 12.63,
-				"end": 12.85,
+				"start": 12.84,
+				"end": 13.32,
 				"index": 23
 			},
 			{
 				"text": "LA ",
-				"start": 12.85,
-				"end": 13.31,
+				"start": 13.34,
+				"end": 14.04,
 				"index": 24
 			},
 			{
 				"text": "so ",
-				"start": 13.31,
-				"end": 14.01,
+				"start": 14.14,
+				"end": 14.26,
 				"index": 25
 			},
 			{
 				"text": "I ",
-				"start": 14.01,
-				"end": 14.29,
+				"start": 14.44,
+				"end": 14.54,
 				"index": 26
 			},
 			{
 				"text": "can ",
-				"start": 14.29,
-				"end": 14.75,
+				"start": 14.76,
+				"end": 14.92,
 				"index": 27
 			},
 			{
 				"text": "see ",
-				"start": 14.75,
-				"end": 14.97,
+				"start": 14.96,
+				"end": 15.24,
 				"index": 28
 			},
 			{
-				"text": "LeBron ",
-				"start": 14.97,
-				"end": 15.61,
+				"text": "Lebron ",
+				"start": 15.32,
+				"end": 15.93,
 				"index": 29
 			},
 			{
 				"text": "can't ",
-				"start": 15.61,
-				"end": 16.07,
+				"start": 16.05,
+				"end": 16.19,
 				"index": 30
 			},
 			{
 				"text": "wait ",
-				"start": 16.07,
-				"end": 16.21,
+				"start": 16.21,
+				"end": 16.41,
 				"index": 31
 			},
 			{
 				"text": "to ",
-				"start": 16.21,
-				"end": 16.63,
+				"start": 16.63,
+				"end": 16.79,
 				"index": 32
 			},
 			{
 				"text": "see ",
-				"start": 16.63,
-				"end": 16.91,
+				"start": 16.85,
+				"end": 17.11,
 				"index": 33
 			},
 			{
-				"text": "LeBron ",
-				"start": 16.91,
-				"end": 17.41,
+				"text": "Lebron ",
+				"start": 17.21,
+				"end": 17.79,
 				"index": 34
 			},
 			{
-				"text": "see, ",
-				"start": 17.41,
-				"end": 17.81,
+				"text": "see ",
+				"start": 17.81,
+				"end": 18.09,
 				"index": 35
 			},
 			{
 				"text": "it ",
-				"start": 17.93,
-				"end": 18.17,
+				"start": 18.15,
+				"end": 18.23,
 				"index": 36
 			},
 			{
 				"text": "could ",
-				"start": 18.17,
-				"end": 18.37,
+				"start": 18.27,
+				"end": 18.75,
 				"index": 37
 			},
 			{
 				"text": "be ",
-				"start": 18.37,
-				"end": 18.83,
+				"start": 18.79,
+				"end": 18.99,
 				"index": 38
 			},
 			{
-				"text": "mid",
-				"start": 18.83,
-				"end": 19.19,
+				"text": "mid-range ",
+				"start": 19.01,
+				"end": 19.89,
 				"index": 39
 			},
 			{
-				"text": "-range ",
-				"start": 19.19,
-				"end": 19.57,
+				"text": "don't ",
+				"start": 19.99,
+				"end": 20.15,
 				"index": 40
 			},
 			{
-				"text": "don't ",
-				"start": 19.57,
-				"end": 19.99,
+				"text": "tell ",
+				"start": 20.17,
+				"end": 20.43,
 				"index": 41
 			},
 			{
-				"text": "tell ",
-				"start": 19.99,
-				"end": 20.21,
+				"text": "him ",
+				"start": 20.51,
+				"end": 20.63,
 				"index": 42
 			},
 			{
-				"text": "him ",
-				"start": 20.21,
-				"end": 20.49,
+				"text": "with ",
+				"start": 20.65,
+				"end": 20.83,
 				"index": 43
 			},
 			{
-				"text": "with ",
-				"start": 20.49,
-				"end": 20.67,
+				"text": "King ",
+				"start": 20.87,
+				"end": 21.31,
 				"index": 44
 			},
 			{
-				"text": "King ",
-				"start": 20.67,
-				"end": 20.93,
+				"text": "James ",
+				"start": 21.37,
+				"end": 21.81,
 				"index": 45
 			},
 			{
-				"text": "James ",
-				"start": 20.93,
-				"end": 21.45,
+				"text": "he ",
+				"start": 22.65,
+				"end": 22.73,
 				"index": 46
 			},
 			{
-				"text": "he ",
-				"start": 21.45,
-				"end": 22.21,
+				"text": "might ",
+				"start": 22.78,
+				"end": 22.94,
 				"index": 47
 			},
 			{
-				"text": "might ",
-				"start": 22.21,
-				"end": 22.77,
+				"text": "stroke ",
+				"start": 22.96,
+				"end": 23.18,
 				"index": 48
 			},
 			{
-				"text": "stroke ",
-				"start": 22.77,
-				"end": 23.03,
+				"text": "from ",
+				"start": 23.2,
+				"end": 23.42,
 				"index": 49
 			},
 			{
-				"text": "from ",
-				"start": 23.03,
-				"end": 23.23,
+				"text": "three ",
+				"start": 23.46,
+				"end": 23.7,
 				"index": 50
 			},
 			{
-				"text": "three ",
-				"start": 23.23,
-				"end": 23.53,
+				"text": "he ",
+				"start": 24.08,
+				"end": 24.16,
 				"index": 51
 			},
 			{
-				"text": "he ",
-				"start": 23.53,
-				"end": 23.93,
+				"text": "might ",
+				"start": 24.2,
+				"end": 24.36,
 				"index": 52
 			},
 			{
-				"text": "might ",
-				"start": 23.93,
-				"end": 24.21,
+				"text": "stroke ",
+				"start": 24.4,
+				"end": 24.68,
 				"index": 53
 			},
 			{
-				"text": "stroke ",
-				"start": 24.21,
-				"end": 24.41,
+				"text": "from ",
+				"start": 24.7,
+				"end": 24.82,
 				"index": 54
 			},
 			{
-				"text": "from ",
-				"start": 24.41,
-				"end": 24.65,
+				"text": "three ",
+				"start": 24.86,
+				"end": 25.08,
 				"index": 55
 			},
 			{
-				"text": "three ",
-				"start": 24.65,
-				"end": 24.89,
+				"text": "and ",
+				"start": 25.22,
+				"end": 25.38,
 				"index": 56
 			},
 			{
-				"text": "and ",
-				"start": 24.89,
-				"end": 25.15,
+				"text": "although ",
+				"start": 25.64,
+				"end": 26.28,
 				"index": 57
 			},
 			{
-				"text": "although ",
-				"start": 25.15,
-				"end": 25.57,
+				"text": "he's ",
+				"start": 26.34,
+				"end": 26.48,
 				"index": 58
 			},
 			{
-				"text": "he's ",
-				"start": 25.57,
-				"end": 26.37,
+				"text": "still ",
+				"start": 26.5,
+				"end": 26.76,
 				"index": 59
 			},
 			{
-				"text": "still ",
-				"start": 26.37,
-				"end": 26.57,
+				"text": "aging ",
+				"start": 26.86,
+				"end": 27.26,
 				"index": 60
 			},
 			{
-				"text": "agin' ",
-				"start": 26.57,
-				"end": 27.03,
+				"text": "he's ",
+				"start": 27.28,
+				"end": 27.44,
 				"index": 61
 			},
 			{
-				"text": "he's ",
-				"start": 27.05,
-				"end": 27.31,
+				"text": "still ",
+				"start": 27.46,
+				"end": 27.7,
 				"index": 62
 			},
 			{
-				"text": "still ",
-				"start": 27.31,
-				"end": 27.53,
+				"text": "hoping ",
+				"start": 27.78,
+				"end": 28.16,
 				"index": 63
 			},
 			{
-				"text": "hoopin' ",
-				"start": 27.53,
-				"end": 28.01,
+				"text": "the ",
+				"start": 28.22,
+				"end": 28.36,
 				"index": 64
 			},
 			{
-				"text": "the ",
-				"start": 28.01,
-				"end": 28.15,
+				"text": "same ",
+				"start": 28.42,
+				"end": 29.12,
 				"index": 65
 			},
 			{
-				"text": "same ",
-				"start": 28.15,
-				"end": 28.55,
+				"text": "I ",
+				"start": 29.28,
+				"end": 29.36,
 				"index": 66
 			},
 			{
-				"text": "I ",
-				"start": 28.55,
-				"end": 29.13,
+				"text": "love ",
+				"start": 29.4,
+				"end": 29.72,
 				"index": 67
 			},
 			{
-				"text": "love ",
-				"start": 29.13,
-				"end": 29.45,
+				"text": "King ",
+				"start": 30.04,
+				"end": 30.45,
 				"index": 68
 			},
 			{
-				"text": "King ",
-				"start": 29.45,
-				"end": 30.05,
-				"index": 69
-			},
-			{
-				"text": "James ",
-				"start": 30.05,
-				"end": 30.69,
-				"index": 70
-			},
-			{
-				"text": "I ",
-				"start": 30.69,
-				"end": 31.01,
-				"index": 71
-			},
-			{
-				"text": "love ",
-				"start": 31.01,
-				"end": 33.17,
-				"index": 72
-			},
-			{
-				"text": "King ",
-				"start": 33.17,
-				"end": 33.87,
-				"index": 73
-			},
-			{
 				"text": "James",
-				"start": 33.87,
-				"end": 33.89,
-				"index": 74
+				"start": 30.55,
+				"end": 32.07,
+				"index": 69
 			}
 		],
 		"start": -1,
-		"end": 32.89
+		"end": 31.07
 	}
 ]

@@ -2,1075 +2,643 @@
 	{
 		"words": [
 			{
-				"text": "NO ",
+				"text": "No, ",
 				"start": 0,
-				"end": 1.16,
+				"end": 1.26,
 				"index": 0
 			},
 			{
 				"text": "I ",
-				"start": 1.16,
-				"end": 1.62,
+				"start": 1.6,
+				"end": 1.68,
 				"index": 1
 			},
 			{
-				"text": "DON'T",
-				"start": 1.62,
-				"end": 2.14,
+				"text": "don't ",
+				"start": 1.74,
+				"end": 2.12,
 				"index": 2
-			}
-		],
-		"start": 2.06,
-		"end": 4.2
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "EVEN",
-				"start": 0,
-				"end": 0.82,
+				"text": "even ",
+				"start": 2.42,
+				"end": 2.75,
 				"index": 3
-			}
-		],
-		"start": 4.2,
-		"end": 5.02
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "KNOW",
-				"start": 0,
-				"end": 0.32,
+				"text": "know ",
+				"start": 2.81,
+				"end": 3.23,
 				"index": 4
-			}
-		],
-		"start": 5.02,
-		"end": 5.34
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "THE",
-				"start": 0,
-				"end": 0.24,
+				"text": "the ",
+				"start": 3.27,
+				"end": 3.57,
 				"index": 5
-			}
-		],
-		"start": 5.34,
-		"end": 5.58
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "PLAY",
-				"start": 0,
-				"end": 0.52,
+				"text": "play",
+				"start": 3.61,
+				"end": 4.27,
 				"index": 6
 			}
 		],
-		"start": 5.58,
-		"end": 6.1
+		"start": 2.34,
+		"end": 6.61
 	},
 	{
 		"words": [
 			{
-				"text": "IT",
+				"text": "It ",
 				"start": 0,
-				"end": 0.98,
+				"end": 0.14,
 				"index": 7
-			}
-		],
-		"start": 6.1,
-		"end": 7.08
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "DOESN'T",
-				"start": 0,
-				"end": 1.18,
+				"text": "doesn't ",
+				"start": 0.52,
+				"end": 1.12,
 				"index": 8
-			}
-		],
-		"start": 7.08,
-		"end": 8.26
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "MATTER",
-				"start": 0,
-				"end": 0.64,
+				"text": "matter",
+				"start": 1.2,
+				"end": 2.14,
 				"index": 9
 			}
 		],
-		"start": 8.26,
-		"end": 8.9
+		"start": 7.27,
+		"end": 9.41
 	},
 	{
 		"words": [
 			{
-				"text": "WATCHING ",
+				"text": "Watchinging ",
 				"start": 0,
-				"end": 1.76,
+				"end": 0.84,
 				"index": 10
 			},
 			{
-				"text": "LEBRON",
-				"start": 1.76,
-				"end": 2.52,
+				"text": "the ",
+				"start": 0.86,
+				"end": 1.16,
 				"index": 11
-			}
-		],
-		"start": 8.9,
-		"end": 11.42
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "RUN",
-				"start": 0,
-				"end": 0.36,
+				"text": "Bron ",
+				"start": 1.22,
+				"end": 1.68,
 				"index": 12
-			}
-		],
-		"start": 11.42,
-		"end": 11.78
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "TOWARDS",
-				"start": 0,
-				"end": 0.38,
+				"text": "retorts ",
+				"start": 1.7,
+				"end": 2.34,
 				"index": 13
-			}
-		],
-		"start": 11.78,
-		"end": 12.16
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "THE",
-				"start": 0,
-				"end": 0.22,
+				"text": "the ",
+				"start": 2.38,
+				"end": 2.56,
 				"index": 14
-			}
-		],
-		"start": 12.16,
-		"end": 12.38
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "PAIN",
-				"start": 0,
-				"end": 0.72,
+				"text": "paint",
+				"start": 2.77,
+				"end": 3.37,
 				"index": 15
 			}
 		],
-		"start": 12.38,
-		"end": 13.1
+		"start": 9.96,
+		"end": 13.33
 	},
 	{
 		"words": [
 			{
-				"text": "WITH",
+				"text": "With",
 				"start": 0,
-				"end": 0.68,
+				"end": 0.5,
 				"index": 16
 			}
 		],
-		"start": 13.1,
-		"end": 13.78
+		"start": 13.63,
+		"end": 14.13
 	},
 	{
 		"words": [
 			{
-				"text": "AGGRESS",
+				"text": "Akron's ",
 				"start": 0,
-				"end": 1.3,
+				"end": 0.4,
 				"index": 17
-			}
-		],
-		"start": 13.78,
-		"end": 15.08
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "WEAKER",
-				"start": 0,
-				"end": 0.68,
+				"text": "swagger",
+				"start": 0.42,
+				"end": 1.28,
 				"index": 18
 			}
 		],
-		"start": 15.08,
-		"end": 15.76
+		"start": 14.83,
+		"end": 16.11
 	},
 	{
 		"words": [
 			{
-				"text": "IT'S",
-				"start": 0,
-				"end": 1.14,
-				"index": 19
-			}
-		],
-		"start": 15.76,
-		"end": 16.9
-	},
-	{
-		"words": [
-			{
-				"text": "NOT",
-				"start": 0,
-				"end": 0.24,
-				"index": 20
-			}
-		],
-		"start": 16.9,
-		"end": 17.14
-	},
-	{
-		"words": [
-			{
-				"text": "WHAT",
-				"start": 0,
-				"end": 0.6,
-				"index": 21
-			}
-		],
-		"start": 17.14,
-		"end": 17.74
-	},
-	{
-		"words": [
-			{
-				"text": "OIL",
+				"text": "It's ",
 				"start": 0,
 				"end": 0.88,
+				"index": 19
+			},
+			{
+				"text": "not ",
+				"start": 0.96,
+				"end": 1.3,
+				"index": 20
+			},
+			{
+				"text": "what ",
+				"start": 1.38,
+				"end": 1.72,
+				"index": 21
+			},
+			{
+				"text": "all ",
+				"start": 2.42,
+				"end": 2.81,
 				"index": 22
-			}
-		],
-		"start": 17.74,
-		"end": 18.62
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "HANDS",
-				"start": 0,
-				"end": 0.4,
+				"text": "hands ",
+				"start": 2.83,
+				"end": 3.01,
 				"index": 23
-			}
-		],
-		"start": 18.62,
-		"end": 19.02
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "DO",
-				"start": 0,
-				"end": 0.3,
+				"text": "do ",
+				"start": 3.57,
+				"end": 3.85,
 				"index": 24
-			}
-		],
-		"start": 19.02,
-		"end": 19.32
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "STUFF",
-				"start": 0,
-				"end": 1.4,
+				"text": "and ",
+				"start": 3.83,
+				"end": 4.63,
 				"index": 25
-			}
-		],
-		"start": 19.32,
-		"end": 20.72
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "BEEN",
-				"start": 0,
-				"end": 0.78,
+				"text": "stuff",
+				"start": 5.31,
+				"end": 5.63,
 				"index": 26
 			}
 		],
-		"start": 20.72,
-		"end": 21.5
+		"start": 16.15,
+		"end": 21.78
 	},
 	{
 		"words": [
 			{
-				"text": "ENJOYED",
+				"text": "Been ",
 				"start": 0,
-				"end": 0.76,
+				"end": 0.08,
 				"index": 27
-			}
-		],
-		"start": 21.5,
-		"end": 22.26
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "IN",
-				"start": 0,
-				"end": 0.24,
+				"text": "enjoyed ",
+				"start": 0.3,
+				"end": 0.86,
 				"index": 28
-			}
-		],
-		"start": 22.26,
-		"end": 22.5
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "THESE",
-				"start": 0,
-				"end": 0.22,
+				"text": "in ",
+				"start": 0.88,
+				"end": 0.92,
 				"index": 29
-			}
-		],
-		"start": 22.5,
-		"end": 22.72
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "DAYS",
-				"start": 0,
-				"end": 0.44,
+				"text": "these ",
+				"start": 0.96,
+				"end": 1.24,
 				"index": 30
-			}
-		],
-		"start": 22.72,
-		"end": 23.16
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "MY",
-				"start": 0,
-				"end": 0.3,
+				"text": "days",
+				"start": 1.26,
+				"end": 1.76,
 				"index": 31
 			}
 		],
-		"start": 23.16,
-		"end": 23.46
+		"start": 21.8,
+		"end": 23.56
 	},
 	{
 		"words": [
 			{
-				"text": "MIND",
+				"text": "My ",
 				"start": 0,
-				"end": 0.58,
+				"end": 0.14,
 				"index": 32
-			}
-		],
-		"start": 23.46,
-		"end": 24.04
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "GETS",
-				"start": 0,
-				"end": 0.6,
+				"text": "mind ",
+				"start": 0.2,
+				"end": 0.84,
 				"index": 33
-			}
-		],
-		"start": 24.04,
-		"end": 24.64
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "SO",
-				"start": 0,
-				"end": 0.36,
+				"text": "gets ",
+				"start": 0.86,
+				"end": 1.12,
 				"index": 34
-			}
-		],
-		"start": 24.64,
-		"end": 25
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "AMAZED",
-				"start": 0,
-				"end": 1.54,
+				"text": "so ",
+				"start": 1.38,
+				"end": 2.08,
 				"index": 35
-			}
-		],
-		"start": 25,
-		"end": 26.54
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "IT'S",
-				"start": 0,
-				"end": 0.94,
+				"text": "amazed",
+				"start": 2.1,
+				"end": 3.06,
 				"index": 36
 			}
 		],
-		"start": 26.54,
-		"end": 27.48
+		"start": 23.58,
+		"end": 26.64
 	},
 	{
 		"words": [
 			{
-				"text": "HARD",
+				"text": "It's ",
 				"start": 0,
-				"end": 0.76,
+				"end": 0.16,
 				"index": 37
-			}
-		],
-		"start": 27.48,
-		"end": 28.24
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "TO",
-				"start": 0,
-				"end": 0.18,
+				"text": "hard ",
+				"start": 0.76,
+				"end": 1,
 				"index": 38
-			}
-		],
-		"start": 28.24,
-		"end": 28.42
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "LOOK",
-				"start": 0,
-				"end": 0.44,
+				"text": "to ",
+				"start": 1.04,
+				"end": 1.24,
 				"index": 39
-			}
-		],
-		"start": 28.42,
-		"end": 28.86
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "AWAY ",
-				"start": 0,
-				"end": 0.84,
+				"text": "look ",
+				"start": 1.26,
+				"end": 1.62,
 				"index": 40
 			},
 			{
-				"text": "I",
-				"start": 0.84,
-				"end": 1.34,
+				"text": "away ",
+				"start": 1.9,
+				"end": 2.66,
 				"index": 41
-			}
-		],
-		"start": 28.86,
-		"end": 30.2
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "KISSED A",
-				"start": 0,
-				"end": 0.68,
+				"text": "I ",
+				"start": 2.94,
+				"end": 3.04,
 				"index": 42
-			}
-		],
-		"start": 30.2,
-		"end": 30.88
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "BROAD",
-				"start": 0,
-				"end": 0.44,
+				"text": "kissed ",
+				"start": 3.06,
+				"end": 3.54,
 				"index": 43
-			}
-		],
-		"start": 30.88,
-		"end": 31.32
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "AND ",
-				"start": 0,
-				"end": 0.28,
+				"text": "a ",
+				"start": 3.66,
+				"end": 3.72,
 				"index": 44
 			},
 			{
-				"text": "I",
-				"start": 0.28,
-				"end": 0.48,
+				"text": "Bron ",
+				"start": 3.74,
+				"end": 4.22,
 				"index": 45
-			}
-		],
-		"start": 31.32,
-		"end": 31.8
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "LIKED",
-				"start": 0,
-				"end": 0.62,
+				"text": "and ",
+				"start": 4.28,
+				"end": 4.38,
 				"index": 46
-			}
-		],
-		"start": 31.8,
-		"end": 32.42
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "IT ",
-				"start": 0,
-				"end": 0.16,
+				"text": "I ",
+				"start": 4.54,
+				"end": 4.62,
 				"index": 47
 			},
 			{
-				"text": "I",
-				"start": 0.16,
-				"end": 0.7,
+				"text": "liked ",
+				"start": 4.64,
+				"end": 5.82,
 				"index": 48
-			}
-		],
-		"start": 32.42,
-		"end": 33.12
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "COULD",
-				"start": 0,
-				"end": 0.2,
+				"text": "it",
+				"start": 5.85,
+				"end": 6.05,
 				"index": 49
 			}
 		],
-		"start": 33.12,
-		"end": 33.32
+		"start": 27.39,
+		"end": 33.44
 	},
 	{
 		"words": [
 			{
-				"text": "TASTE",
+				"text": "The ",
 				"start": 0,
-				"end": 0.46,
+				"end": 0.36,
 				"index": 50
-			}
-		],
-		"start": 33.32,
-		"end": 33.78
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "THE ",
-				"start": 0,
-				"end": 0.22,
+				"text": "taste ",
+				"start": 0.42,
+				"end": 0.84,
 				"index": 51
 			},
 			{
-				"text": "GOOGLE",
-				"start": 0.22,
-				"end": 0.8,
+				"text": "of ",
+				"start": 1.1,
+				"end": 1.2,
 				"index": 52
-			}
-		],
-		"start": 33.78,
-		"end": 34.58
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "GATE",
-				"start": 0,
-				"end": 0.42,
+				"text": "it ",
+				"start": 1.22,
+				"end": 1.26,
 				"index": 53
-			}
-		],
-		"start": 34.58,
-		"end": 35
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "AWAY ",
-				"start": 0,
-				"end": 0.58,
+				"text": "gave ",
+				"start": 1.28,
+				"end": 1.72,
 				"index": 54
 			},
 			{
-				"text": "I",
-				"start": 0.58,
-				"end": 0.8,
+				"text": "it ",
+				"start": 1.74,
+				"end": 1.78,
 				"index": 55
-			}
-		],
-		"start": 35,
-		"end": 35.8
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "KISSED",
-				"start": 0,
-				"end": 1.84,
+				"text": "away ",
+				"start": 1.8,
+				"end": 2.32,
 				"index": 56
-			}
-		],
-		"start": 35.8,
-		"end": 37.64
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "A",
-				"start": 0,
-				"end": 0.04,
+				"text": "to ",
+				"start": 2.68,
+				"end": 3.2,
 				"index": 57
-			}
-		],
-		"start": 37.64,
-		"end": 37.68
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "BROAD",
-				"start": 0,
-				"end": 0.46,
+				"text": "me ",
+				"start": 3.22,
+				"end": 3.58,
 				"index": 58
-			}
-		],
-		"start": 37.68,
-		"end": 38.14
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "TO",
-				"start": 0,
-				"end": 0.26,
+				"text": "I ",
+				"start": 3.6,
+				"end": 3.72,
 				"index": 59
-			}
-		],
-		"start": 38.14,
-		"end": 38.4
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "TRY",
-				"start": 0,
-				"end": 0.64,
+				"text": "kissed ",
+				"start": 3.74,
+				"end": 4.2,
 				"index": 60
-			}
-		],
-		"start": 38.4,
-		"end": 39.04
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "IT ",
-				"start": 0,
-				"end": 0.32,
+				"text": "a ",
+				"start": 4.36,
+				"end": 4.44,
 				"index": 61
 			},
 			{
-				"text": "I",
-				"start": 0.32,
-				"end": 1,
+				"text": "Bron ",
+				"start": 4.46,
+				"end": 5.01,
 				"index": 62
-			}
-		],
-		"start": 39.04,
-		"end": 40.04
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "HOPE",
-				"start": 0,
-				"end": 0.5,
+				"text": "to ",
+				"start": 5.06,
+				"end": 5.23,
 				"index": 63
-			}
-		],
-		"start": 40.04,
-		"end": 40.54
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "SOMEBODY ",
-				"start": 0,
-				"end": 0.76,
+				"text": "try ",
+				"start": 5.27,
+				"end": 5.85,
 				"index": 64
 			},
 			{
-				"text": "DON'T",
-				"start": 0.76,
-				"end": 1.48,
+				"text": "it ",
+				"start": 5.87,
+				"end": 6.57,
 				"index": 65
-			}
-		],
-		"start": 40.54,
-		"end": 42.02
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "MIND",
-				"start": 0,
-				"end": 0.36,
+				"text": "I ",
+				"start": 6.87,
+				"end": 6.89,
 				"index": 66
-			}
-		],
-		"start": 42.02,
-		"end": 42.38
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "IT",
-				"start": 0,
-				"end": 0.1,
+				"text": "hope ",
+				"start": 6.91,
+				"end": 7.09,
 				"index": 67
-			}
-		],
-		"start": 42.38,
-		"end": 42.48
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "THEY",
-				"start": 0,
-				"end": 1.06,
+				"text": "to ",
+				"start": 7.11,
+				"end": 7.57,
 				"index": 68
-			}
-		],
-		"start": 42.48,
-		"end": 43.54
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "THOUGHT",
-				"start": 0,
-				"end": 0.58,
+				"text": "win ",
+				"start": 7.87,
+				"end": 8.23,
 				"index": 69
-			}
-		],
-		"start": 43.54,
-		"end": 44.12
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "SO",
-				"start": 0,
-				"end": 0.22,
+				"text": "another ",
+				"start": 8.25,
+				"end": 9.05,
 				"index": 70
-			}
-		],
-		"start": 44.12,
-		"end": 44.34
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "LONG",
-				"start": 0,
-				"end": 0.5,
+				"text": "one",
+				"start": 9.11,
+				"end": 10.13,
 				"index": 71
 			}
 		],
-		"start": 44.34,
-		"end": 44.84
+		"start": 33.45,
+		"end": 43.58
 	},
 	{
 		"words": [
 			{
-				"text": "THEY",
+				"text": "It ",
 				"start": 0,
-				"end": 0.44,
+				"end": 0.12,
 				"index": 72
-			}
-		],
-		"start": 44.84,
-		"end": 45.28
-	},
-	{
-		"words": [
-			{
-				"text": "THOUGHT",
-				"start": 0,
-				"end": 0.54,
-				"index": 73
-			}
-		],
-		"start": 45.28,
-		"end": 45.82
-	},
-	{
-		"words": [
-			{
-				"text": "SO",
-				"start": 0,
-				"end": 0.16,
-				"index": 74
-			}
-		],
-		"start": 45.82,
-		"end": 45.98
-	},
-	{
-		"words": [
-			{
-				"text": "RIGHT ",
-				"start": 0,
-				"end": 0.5,
-				"index": 75
 			},
 			{
-				"text": "I",
-				"start": 0.5,
-				"end": 1.04,
-				"index": 76
-			}
-		],
-		"start": 45.98,
-		"end": 47.02
-	},
-	{
-		"words": [
-			{
-				"text": "NEED",
-				"start": 0,
-				"end": 0.42,
-				"index": 77
-			}
-		],
-		"start": 47.02,
-		"end": 47.44
-	},
-	{
-		"words": [
-			{
-				"text": "MY",
-				"start": 0,
-				"end": 0.26,
-				"index": 78
-			}
-		],
-		"start": 47.44,
-		"end": 47.7
-	},
-	{
-		"words": [
-			{
-				"text": "HAND",
-				"start": 0,
-				"end": 0.64,
-				"index": 79
-			}
-		],
-		"start": 47.7,
-		"end": 48.34
-	},
-	{
-		"words": [
-			{
-				"text": "NOT",
-				"start": 0,
-				"end": 0.22,
-				"index": 80
-			}
-		],
-		"start": 48.34,
-		"end": 48.56
-	},
-	{
-		"words": [
-			{
-				"text": "TO",
-				"start": 0,
+				"text": "felt ",
+				"start": 0.26,
 				"end": 0.44,
-				"index": 81
+				"index": 73
+			},
+			{
+				"text": "so ",
+				"start": 0.54,
+				"end": 1.16,
+				"index": 74
+			},
+			{
+				"text": "wrong",
+				"start": 1.18,
+				"end": 1.44,
+				"index": 75
 			}
 		],
-		"start": 48.56,
-		"end": 49
+		"start": 43.8,
+		"end": 45.24
 	},
 	{
 		"words": [
 			{
-				"text": "BLIND ",
+				"text": "It ",
 				"start": 0,
-				"end": 0.8,
+				"end": 0.3,
+				"index": 76
+			},
+			{
+				"text": "felt ",
+				"start": 0.32,
+				"end": 0.4,
+				"index": 77
+			},
+			{
+				"text": "so ",
+				"start": 0.52,
+				"end": 1.38,
+				"index": 78
+			},
+			{
+				"text": "right ",
+				"start": 2.12,
+				"end": 2.46,
+				"index": 79
+			},
+			{
+				"text": "Bron ",
+				"start": 2.48,
+				"end": 2.56,
+				"index": 80
+			},
+			{
+				"text": "needs ",
+				"start": 2.58,
+				"end": 2.68,
+				"index": 81
+			},
+			{
+				"text": "my ",
+				"start": 2.7,
+				"end": 2.74,
 				"index": 82
 			},
 			{
-				"text": "I",
-				"start": 0.8,
-				"end": 1.26,
+				"text": "hand ",
+				"start": 2.76,
+				"end": 3,
 				"index": 83
-			}
-		],
-		"start": 49,
-		"end": 50.26
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "KISSED A",
-				"start": 0,
-				"end": 0.86,
+				"text": "in ",
+				"start": 3.02,
+				"end": 3.06,
 				"index": 84
-			}
-		],
-		"start": 50.26,
-		"end": 51.12
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "BROAD",
-				"start": 0,
-				"end": 0.54,
+				"text": "order ",
+				"start": 3.28,
+				"end": 3.82,
 				"index": 85
-			}
-		],
-		"start": 51.12,
-		"end": 51.66
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "AND ",
-				"start": 0,
-				"end": 0.18,
+				"text": "to",
+				"start": 3.86,
+				"end": 3.92,
 				"index": 86
-			},
+			}
+		],
+		"start": 45.5,
+		"end": 49.42
+	},
+	{
+		"words": [
 			{
-				"text": "I",
-				"start": 0.18,
-				"end": 0.36,
+				"text": "I ",
+				"start": 0,
+				"end": 0.4,
 				"index": 87
-			}
-		],
-		"start": 51.66,
-		"end": 52.02
-	},
-	{
-		"words": [
-			{
-				"text": "LIKED",
-				"start": 0,
-				"end": 0.5,
-				"index": 88
-			}
-		],
-		"start": 52.02,
-		"end": 52.52
-	},
-	{
-		"words": [
-			{
-				"text": "IT ",
-				"start": 0,
-				"end": 0.16,
-				"index": 89
 			},
 			{
-				"text": "I",
-				"start": 0.16,
-				"end": 0.2,
+				"text": "like ",
+				"start": 0.42,
+				"end": 0.79,
+				"index": 88
+			},
+			{
+				"text": "this",
+				"start": 0.85,
+				"end": 2.55,
+				"index": 89
+			}
+		],
+		"start": 51.82,
+		"end": 54.37
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.14,
 				"index": 90
-			}
-		],
-		"start": 52.52,
-		"end": 52.72
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "KISSED",
-				"start": 0,
-				"end": 0.08,
+				"text": "like ",
+				"start": 0.2,
+				"end": 0.51,
 				"index": 91
-			}
-		],
-		"start": 52.72,
-		"end": 52.8
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "A",
-				"start": 0,
-				"end": 0.08,
+				"text": "this",
+				"start": 0.55,
+				"end": 1.38,
 				"index": 92
 			}
 		],
-		"start": 52.8,
-		"end": 52.88
-	},
-	{
-		"words": [
-			{
-				"text": "BROAD",
-				"start": 0,
-				"end": 0.34,
-				"index": 93
-			}
-		],
-		"start": 52.88,
-		"end": 53.22
-	},
-	{
-		"words": [
-			{
-				"text": "AND ",
-				"start": 0,
-				"end": 0.1,
-				"index": 94
-			},
-			{
-				"text": "I",
-				"start": 0.1,
-				"end": 0.12,
-				"index": 95
-			}
-		],
-		"start": 53.22,
-		"end": 53.34
-	},
-	{
-		"words": [
-			{
-				"text": "LIKED IT",
-				"start": 0,
-				"end": 53.36,
-				"index": 96
-			}
-		],
-		"start": 53.34,
-		"end": 106.7
+		"start": 55.46,
+		"end": 56.84
 	}
 ]

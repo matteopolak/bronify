@@ -4,395 +4,401 @@
 			{
 				"text": "Cause ",
 				"start": 0,
-				"end": 0.4,
+				"end": 0.32,
 				"index": 0
 			},
 			{
 				"text": "you ",
-				"start": 0.4,
-				"end": 0.6,
+				"start": 0.34,
+				"end": 0.46,
 				"index": 1
 			},
 			{
 				"text": "are ",
-				"start": 0.6,
-				"end": 0.82,
+				"start": 0.54,
+				"end": 0.62,
 				"index": 2
 			},
 			{
 				"text": "leading ",
-				"start": 0.82,
-				"end": 1.12,
+				"start": 0.64,
+				"end": 0.92,
 				"index": 3
 			},
 			{
 				"text": "the ",
-				"start": 1.12,
-				"end": 1.28,
+				"start": 0.94,
+				"end": 1.08,
 				"index": 4
 			},
 			{
 				"text": "league ",
-				"start": 1.28,
-				"end": 1.52,
+				"start": 1.1,
+				"end": 1.4,
 				"index": 5
 			},
 			{
 				"text": "with ",
-				"start": 1.52,
-				"end": 1.64,
+				"start": 1.44,
+				"end": 1.66,
 				"index": 6
 			},
 			{
-				"text": "50",
-				"start": 1.64,
-				"end": 1.88,
+				"text": "50,000 ",
+				"start": 1.68,
+				"end": 1.98,
 				"index": 7
 			},
 			{
-				"text": ",000 ",
-				"start": 1.88,
-				"end": 2.2,
+				"text": "points",
+				"start": 2.02,
+				"end": 2.16,
 				"index": 8
-			},
-			{
-				"text": "points, ",
-				"start": 2.2,
-				"end": 2.42,
-				"index": 9
-			},
-			{
-				"text": "you're ",
-				"start": 2.48,
-				"end": 2.58,
-				"index": 10
-			},
-			{
-				"text": "so ",
-				"start": 2.58,
-				"end": 2.66,
-				"index": 11
-			},
-			{
-				"text": "good, ",
-				"start": 2.66,
-				"end": 2.84,
-				"index": 12
-			},
-			{
-				"text": "you're ",
-				"start": 2.88,
-				"end": 3.04,
-				"index": 13
-			},
-			{
-				"text": "my ",
-				"start": 3.04,
-				"end": 3.1,
-				"index": 14
-			},
-			{
-				"text": "king, ",
-				"start": 3.1,
-				"end": 3.28,
-				"index": 15
-			},
-			{
-				"text": "you're ",
-				"start": 3.34,
-				"end": 3.52,
-				"index": 16
-			},
-			{
-				"text": "the ",
-				"start": 3.52,
-				"end": 3.56,
-				"index": 17
-			},
-			{
-				"text": "best ",
-				"start": 3.56,
-				"end": 3.78,
-				"index": 18
-			},
-			{
-				"text": "of ",
-				"start": 3.78,
-				"end": 3.92,
-				"index": 19
-			},
-			{
-				"text": "the ",
-				"start": 3.92,
-				"end": 4.02,
-				"index": 20
-			},
-			{
-				"text": "bunch, ",
-				"start": 4.02,
-				"end": 4.22,
-				"index": 21
-			},
-			{
-				"text": "couldn't ",
-				"start": 4.28,
-				"end": 4.56,
-				"index": 22
-			},
-			{
-				"text": "even ",
-				"start": 4.56,
-				"end": 4.7,
-				"index": 23
-			},
-			{
-				"text": "beat ",
-				"start": 4.7,
-				"end": 4.94,
-				"index": 24
-			},
-			{
-				"text": "you ",
-				"start": 4.94,
-				"end": 5.1,
-				"index": 25
-			},
-			{
-				"text": "if ",
-				"start": 5.1,
-				"end": 5.28,
-				"index": 26
-			},
-			{
-				"text": "you ",
-				"start": 5.28,
-				"end": 5.38,
-				"index": 27
-			},
-			{
-				"text": "had ",
-				"start": 5.38,
-				"end": 5.58,
-				"index": 28
-			},
-			{
-				"text": "your ",
-				"start": 5.58,
-				"end": 5.7,
-				"index": 29
-			},
-			{
-				"text": "eyes ",
-				"start": 5.7,
-				"end": 5.86,
-				"index": 30
-			},
-			{
-				"text": "closed",
-				"start": 5.86,
-				"end": 6.2,
-				"index": 31
 			}
 		],
-		"start": 0.5,
-		"end": 6.7
+		"start": 0.84,
+		"end": 3
 	},
 	{
 		"words": [
 			{
 				"text": "You're ",
 				"start": 0,
-				"end": 0.46,
-				"index": 32
+				"end": 0.12,
+				"index": 9
 			},
 			{
-				"text": "LeBron ",
-				"start": 0.46,
-				"end": 0.9,
-				"index": 33
+				"text": "so ",
+				"start": 0.14,
+				"end": 0.26,
+				"index": 10
 			},
 			{
-				"text": "James",
-				"start": 0.9,
-				"end": 1.34,
-				"index": 34
-			}
-		],
-		"start": 7.26,
-		"end": 8.6
-	},
-	{
-		"words": [
-			{
-				"text": "I ",
-				"start": 0,
-				"end": 0.74,
-				"index": 35
-			},
-			{
-				"text": "keep ",
-				"start": 0.74,
-				"end": 1.02,
-				"index": 36
-			},
-			{
-				"text": "on ",
-				"start": 1.02,
-				"end": 1.26,
-				"index": 37
-			},
-			{
-				"text": "glazing ",
-				"start": 1.26,
-				"end": 1.74,
-				"index": 38
-			},
-			{
-				"text": "you ",
-				"start": 1.74,
-				"end": 1.92,
-				"index": 39
-			},
-			{
-				"text": "cause ",
-				"start": 1.92,
-				"end": 2.18,
-				"index": 40
+				"text": "good, ",
+				"start": 0.3,
+				"end": 0.44,
+				"index": 11
 			},
 			{
 				"text": "you're ",
-				"start": 2.18,
-				"end": 2.4,
-				"index": 41
+				"start": 0.46,
+				"end": 0.66,
+				"index": 12
 			},
 			{
 				"text": "my ",
-				"start": 2.4,
-				"end": 2.58,
-				"index": 42
+				"start": 0.68,
+				"end": 0.72,
+				"index": 13
 			},
 			{
-				"text": "king",
-				"start": 2.58,
-				"end": 3,
-				"index": 43
+				"text": "king, ",
+				"start": 0.78,
+				"end": 0.88,
+				"index": 14
+			},
+			{
+				"text": "you're ",
+				"start": 0.9,
+				"end": 1.04,
+				"index": 15
+			},
+			{
+				"text": "the ",
+				"start": 1.1,
+				"end": 1.16,
+				"index": 16
+			},
+			{
+				"text": "best ",
+				"start": 1.18,
+				"end": 1.36,
+				"index": 17
+			},
+			{
+				"text": "of ",
+				"start": 1.42,
+				"end": 1.48,
+				"index": 18
+			},
+			{
+				"text": "the ",
+				"start": 1.5,
+				"end": 1.6,
+				"index": 19
+			},
+			{
+				"text": "bunch",
+				"start": 1.64,
+				"end": 1.8,
+				"index": 20
 			}
 		],
-		"start": 9.16,
-		"end": 12.16
+		"start": 3.02,
+		"end": 4.82
+	},
+	{
+		"words": [
+			{
+				"text": "Couldn't ",
+				"start": 0,
+				"end": 0.24,
+				"index": 21
+			},
+			{
+				"text": "even ",
+				"start": 0.32,
+				"end": 0.5,
+				"index": 22
+			},
+			{
+				"text": "beat ",
+				"start": 0.54,
+				"end": 0.68,
+				"index": 23
+			},
+			{
+				"text": "you ",
+				"start": 0.72,
+				"end": 0.82,
+				"index": 24
+			},
+			{
+				"text": "if ",
+				"start": 0.94,
+				"end": 1,
+				"index": 25
+			},
+			{
+				"text": "you ",
+				"start": 1.02,
+				"end": 1.16,
+				"index": 26
+			},
+			{
+				"text": "had ",
+				"start": 1.18,
+				"end": 1.32,
+				"index": 27
+			},
+			{
+				"text": "your ",
+				"start": 1.42,
+				"end": 1.5,
+				"index": 28
+			},
+			{
+				"text": "eyes ",
+				"start": 1.52,
+				"end": 1.62,
+				"index": 29
+			},
+			{
+				"text": "closed",
+				"start": 2.64,
+				"end": 2.76,
+				"index": 30
+			}
+		],
+		"start": 4.87,
+		"end": 7.63
+	},
+	{
+		"words": [
+			{
+				"text": "You're ",
+				"start": 0,
+				"end": 0.12,
+				"index": 31
+			},
+			{
+				"text": "LeBron ",
+				"start": 0.2,
+				"end": 1.26,
+				"index": 32
+			},
+			{
+				"text": "James",
+				"start": 1.28,
+				"end": 1.5,
+				"index": 33
+			}
+		],
+		"start": 7.73,
+		"end": 9.23
 	},
 	{
 		"words": [
 			{
 				"text": "I ",
 				"start": 0,
-				"end": 0.78,
-				"index": 44
+				"end": 0.02,
+				"index": 34
 			},
 			{
-				"text": "wanna ",
-				"start": 0.78,
-				"end": 1.14,
-				"index": 45
+				"text": "keep ",
+				"start": 0.04,
+				"end": 0.28,
+				"index": 35
 			},
 			{
-				"text": "watch ",
-				"start": 1.14,
-				"end": 1.58,
-				"index": 46
+				"text": "on ",
+				"start": 0.3,
+				"end": 0.4,
+				"index": 36
+			},
+			{
+				"text": "glazing ",
+				"start": 0.44,
+				"end": 0.9,
+				"index": 37
 			},
 			{
 				"text": "you ",
-				"start": 1.58,
-				"end": 1.8,
-				"index": 47
+				"start": 0.92,
+				"end": 1.02,
+				"index": 38
+			},
+			{
+				"text": "cause ",
+				"start": 1.2,
+				"end": 1.32,
+				"index": 39
+			},
+			{
+				"text": "you're ",
+				"start": 1.34,
+				"end": 1.54,
+				"index": 40
+			},
+			{
+				"text": "my ",
+				"start": 1.6,
+				"end": 2.5,
+				"index": 41
+			},
+			{
+				"text": "king",
+				"start": 2.52,
+				"end": 2.7,
+				"index": 42
+			}
+		],
+		"start": 10.15,
+		"end": 12.85
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.14,
+				"index": 43
+			},
+			{
+				"text": "wanna ",
+				"start": 0.28,
+				"end": 0.52,
+				"index": 44
+			},
+			{
+				"text": "watch ",
+				"start": 0.56,
+				"end": 0.84,
+				"index": 45
+			},
+			{
+				"text": "you ",
+				"start": 0.88,
+				"end": 1.06,
+				"index": 46
 			},
 			{
 				"text": "win ",
-				"start": 1.8,
-				"end": 2.02,
-				"index": 48
+				"start": 1.08,
+				"end": 1.3,
+				"index": 47
 			},
 			{
 				"text": "another ",
-				"start": 2.02,
-				"end": 2.56,
-				"index": 49
+				"start": 1.36,
+				"end": 2.14,
+				"index": 48
 			},
 			{
 				"text": "ring",
-				"start": 2.56,
-				"end": 3.24,
-				"index": 50
+				"start": 2.18,
+				"end": 3.1,
+				"index": 49
 			}
 		],
-		"start": 12.74,
-		"end": 15.98
+		"start": 13.66,
+		"end": 16.76
 	},
 	{
 		"words": [
 			{
 				"text": "Together, ",
 				"start": 0,
-				"end": 0.23,
-				"index": 51
+				"end": 0.54,
+				"index": 50
 			},
 			{
 				"text": "you ",
-				"start": 0.63,
-				"end": 1.03,
-				"index": 52
+				"start": 0.88,
+				"end": 1.12,
+				"index": 51
 			},
 			{
 				"text": "and ",
-				"start": 1.03,
-				"end": 1.45,
-				"index": 53
+				"start": 1.36,
+				"end": 1.44,
+				"index": 52
 			},
 			{
 				"text": "Bronny's ",
-				"start": 1.45,
-				"end": 1.97,
-				"index": 54
+				"start": 1.48,
+				"end": 1.92,
+				"index": 53
 			},
 			{
 				"text": "better ",
-				"start": 1.97,
-				"end": 2.17,
-				"index": 55
+				"start": 1.96,
+				"end": 2.36,
+				"index": 54
 			},
 			{
 				"text": "than ",
-				"start": 2.17,
-				"end": 2.85,
-				"index": 56
+				"start": 2.7,
+				"end": 2.8,
+				"index": 55
 			},
 			{
 				"text": "any ",
-				"start": 2.85,
-				"end": 3.27,
-				"index": 57
+				"start": 3.08,
+				"end": 3.32,
+				"index": 56
 			},
 			{
 				"text": "other ",
-				"start": 3.27,
-				"end": 3.69,
-				"index": 58
+				"start": 3.52,
+				"end": 3.77,
+				"index": 57
 			},
 			{
 				"text": "NBA ",
-				"start": 3.69,
-				"end": 4.19,
-				"index": 59
+				"start": 3.97,
+				"end": 4.45,
+				"index": 58
 			},
 			{
 				"text": "team",
-				"start": 4.19,
-				"end": 4.69,
-				"index": 60
+				"start": 4.47,
+				"end": 5.51,
+				"index": 59
 			}
 		],
-		"start": 16.65,
-		"end": 21.34
+		"start": 16.8,
+		"end": 22.31
 	}
 ]

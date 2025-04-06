@@ -65,7 +65,7 @@ export class Player {
 
 	init(audio: HTMLAudioElement) {
 		this.audio = audio;
-		this.volume = 0.2;
+		this.volume = 0.5;
 
 		audio.ondurationchange = () => {
 			this.duration = audio.duration;

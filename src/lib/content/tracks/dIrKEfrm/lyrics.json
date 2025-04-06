@@ -4,203 +4,377 @@
 			{
 				"text": "Let's ",
 				"start": 0,
-				"end": 0.4,
+				"end": 3.18,
 				"index": 0
 			},
 			{
 				"text": "go!",
-				"start": 0.4,
-				"end": 0.48,
+				"start": 3.38,
+				"end": 21.37,
 				"index": 1
 			}
 		],
-		"start": 0.69,
-		"end": 1.17
+		"start": 1.03,
+		"end": 22.4
 	},
 	{
 		"words": [
 			{
-				"text": "Let's ",
+				"text": "They ",
 				"start": 0,
-				"end": 0.64,
+				"end": 0.44,
 				"index": 2
 			},
 			{
-				"text": "go!",
-				"start": 0.64,
-				"end": 1.28,
+				"text": "better ",
+				"start": 0.46,
+				"end": 0.96,
 				"index": 3
-			}
-		],
-		"start": 33.09,
-		"end": 34.37
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Let's ",
-				"start": 0,
-				"end": 0.28,
+				"text": "magic ",
+				"start": 1,
+				"end": 1.4,
 				"index": 4
 			},
 			{
-				"text": "go!",
-				"start": 0.28,
-				"end": 0.52,
+				"text": "Johnson ",
+				"start": 1.42,
+				"end": 1.82,
 				"index": 5
-			}
-		],
-		"start": 38.53,
-		"end": 39.05
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Let's go!",
-				"start": 0,
-				"end": 0.28,
+				"text": "got ",
+				"start": 1.86,
+				"end": 2.06,
 				"index": 6
-			}
-		],
-		"start": 39.29,
-		"end": 39.57
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Let's ",
-				"start": 0,
-				"end": 0.02,
+				"text": "nothing ",
+				"start": 2.11,
+				"end": 2.49,
 				"index": 7
 			},
 			{
-				"text": "go!",
-				"start": 0.02,
-				"end": 0.98,
+				"text": "on ",
+				"start": 2.61,
+				"end": 2.73,
 				"index": 8
-			}
-		],
-		"start": 39.57,
-		"end": 40.55
-	},
-	{
-		"words": [
-			{
-				"text": "Let's ",
-				"start": 0,
-				"end": 0.14,
-				"index": 9
 			},
 			{
-				"text": "go!",
-				"start": 0.14,
-				"end": 0.82,
-				"index": 10
+				"text": "you",
+				"start": 2.75,
+				"end": 2.87,
+				"index": 9
 			}
 		],
-		"start": 40.63,
-		"end": 41.45
+		"start": 22.37,
+		"end": 25.24
 	},
 	{
 		"words": [
 			{
-				"text": "Let's ",
+				"text": "You're ",
 				"start": 0,
-				"end": 0.28,
+				"end": 0.12,
+				"index": 10
+			},
+			{
+				"text": "the ",
+				"start": 0.14,
+				"end": 0.22,
 				"index": 11
 			},
 			{
-				"text": "go!",
-				"start": 0.28,
-				"end": 0.44,
+				"text": "best",
+				"start": 0.26,
+				"end": 0.52,
 				"index": 12
 			}
 		],
-		"start": 41.85,
-		"end": 42.29
+		"start": 25.26,
+		"end": 25.78
 	},
 	{
 		"words": [
 			{
-				"text": "Let's go!",
+				"text": "Just ",
 				"start": 0,
 				"end": 0.08,
 				"index": 13
-			}
-		],
-		"start": 42.43,
-		"end": 42.51
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Let's go!",
-				"start": 0,
-				"end": 0.02,
+				"text": "keep ",
+				"start": 0.1,
+				"end": 0.54,
 				"index": 14
-			}
-		],
-		"start": 42.51,
-		"end": 42.53
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Let's go!",
-				"start": 0,
-				"end": 0.06,
+				"text": "it ",
+				"start": 0.56,
+				"end": 0.6,
 				"index": 15
-			}
-		],
-		"start": 42.53,
-		"end": 42.59
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Let's go!",
-				"start": 0,
-				"end": 0.02,
+				"text": "real",
+				"start": 0.64,
+				"end": 1.04,
 				"index": 16
 			}
 		],
-		"start": 42.59,
-		"end": 42.61
+		"start": 25.8,
+		"end": 26.84
 	},
 	{
 		"words": [
 			{
-				"text": "Let's ",
+				"text": "It's ",
 				"start": 0,
-				"end": 0.28,
+				"end": 0.08,
 				"index": 17
 			},
 			{
-				"text": "go!",
-				"start": 0.28,
-				"end": 0.4,
+				"text": "still ",
+				"start": 0.1,
+				"end": 0.26,
 				"index": 18
+			},
+			{
+				"text": "the ",
+				"start": 0.28,
+				"end": 0.36,
+				"index": 19
+			},
+			{
+				"text": "Brian ",
+				"start": 0.38,
+				"end": 0.64,
+				"index": 20
+			},
+			{
+				"text": "James ",
+				"start": 0.8,
+				"end": 1.12,
+				"index": 21
+			},
+			{
+				"text": "best ",
+				"start": 1.22,
+				"end": 1.42,
+				"index": 22
+			},
+			{
+				"text": "ever ",
+				"start": 1.44,
+				"end": 1.66,
+				"index": 23
+			},
+			{
+				"text": "play ",
+				"start": 1.68,
+				"end": 2.49,
+				"index": 24
+			},
+			{
+				"text": "50k ",
+				"start": 2.51,
+				"end": 3.15,
+				"index": 25
+			},
+			{
+				"text": "boys ",
+				"start": 3.17,
+				"end": 3.27,
+				"index": 26
+			},
+			{
+				"text": "hope ",
+				"start": 3.37,
+				"end": 3.47,
+				"index": 27
+			},
+			{
+				"text": "you ",
+				"start": 3.49,
+				"end": 3.55,
+				"index": 28
+			},
+			{
+				"text": "stay ",
+				"start": 3.59,
+				"end": 3.75,
+				"index": 29
+			},
+			{
+				"text": "the ",
+				"start": 3.77,
+				"end": 3.83,
+				"index": 30
+			},
+			{
+				"text": "same",
+				"start": 3.85,
+				"end": 4.37,
+				"index": 31
 			}
 		],
-		"start": 43.57,
-		"end": 43.97
+		"start": 27.02,
+		"end": 31.39
 	},
 	{
 		"words": [
 			{
-				"text": "Let's ",
+				"text": "My ",
 				"start": 0,
-				"end": 0.1,
-				"index": 19
+				"end": 0.2,
+				"index": 32
 			},
 			{
-				"text": "go!",
-				"start": 0.1,
-				"end": 0.28,
-				"index": 20
+				"text": "king ",
+				"start": 0.22,
+				"end": 0.44,
+				"index": 33
+			},
+			{
+				"text": "he ",
+				"start": 0.46,
+				"end": 0.54,
+				"index": 34
+			},
+			{
+				"text": "reigns",
+				"start": 0.58,
+				"end": 1.04,
+				"index": 35
 			}
 		],
-		"start": 44.41,
-		"end": 44.69
+		"start": 31.41,
+		"end": 32.45
+	},
+	{
+		"words": [
+			{
+				"text": "Shoot ",
+				"start": 0,
+				"end": 0.2,
+				"index": 36
+			},
+			{
+				"text": "a ",
+				"start": 0.22,
+				"end": 0.24,
+				"index": 37
+			},
+			{
+				"text": "ball, ",
+				"start": 0.28,
+				"end": 0.58,
+				"index": 38
+			},
+			{
+				"text": "don't ",
+				"start": 0.68,
+				"end": 0.82,
+				"index": 39
+			},
+			{
+				"text": "need ",
+				"start": 0.84,
+				"end": 0.92,
+				"index": 40
+			},
+			{
+				"text": "to ",
+				"start": 0.94,
+				"end": 1.04,
+				"index": 41
+			},
+			{
+				"text": "pass ",
+				"start": 1.06,
+				"end": 1.84,
+				"index": 42
+			},
+			{
+				"text": "it",
+				"start": 1.86,
+				"end": 2.02,
+				"index": 43
+			}
+		],
+		"start": 32.48,
+		"end": 34.5
+	},
+	{
+		"words": [
+			{
+				"text": "Four ",
+				"start": 0,
+				"end": 0.28,
+				"index": 44
+			},
+			{
+				"text": "rings ",
+				"start": 0.3,
+				"end": 0.52,
+				"index": 45
+			},
+			{
+				"text": "fantastic",
+				"start": 0.58,
+				"end": 1.42,
+				"index": 46
+			}
+		],
+		"start": 34.88,
+		"end": 36.3
+	},
+	{
+		"words": [
+			{
+				"text": "Four ",
+				"start": 0,
+				"end": 0.32,
+				"index": 47
+			},
+			{
+				"text": "rings ",
+				"start": 0.34,
+				"end": 0.52,
+				"index": 48
+			},
+			{
+				"text": "fantastic",
+				"start": 0.56,
+				"end": 1.44,
+				"index": 49
+			}
+		],
+		"start": 39.17,
+		"end": 40.61
+	},
+	{
+		"words": [
+			{
+				"text": "Four ",
+				"start": 0,
+				"end": 0.9,
+				"index": 50
+			},
+			{
+				"text": "rings ",
+				"start": 1.38,
+				"end": 1.58,
+				"index": 51
+			},
+			{
+				"text": "fantastic",
+				"start": 1.64,
+				"end": 3.07,
+				"index": 52
+			}
+		],
+		"start": 42.38,
+		"end": 45.45
 	}
 ]

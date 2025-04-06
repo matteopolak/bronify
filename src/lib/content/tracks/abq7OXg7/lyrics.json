@@ -2,127 +2,79 @@
 	{
 		"words": [
 			{
-				"text": "Don't ",
+				"text": "Whoa, ",
 				"start": 0,
-				"end": 0.1,
+				"end": 4.01,
 				"index": 0
 			},
 			{
-				"text": "forget ",
-				"start": 0.1,
-				"end": 0.22,
+				"text": "whoa, ",
+				"start": 4.51,
+				"end": 5.59,
 				"index": 1
 			},
 			{
-				"text": "to ",
-				"start": 0.22,
-				"end": 0.56,
+				"text": "whoa, ",
+				"start": 7.53,
+				"end": 7.75,
 				"index": 2
 			},
 			{
-				"text": "move ",
-				"start": 0.56,
-				"end": 0.88,
+				"text": "whoa, ",
+				"start": 7.89,
+				"end": 8.91,
 				"index": 3
 			},
 			{
-				"text": "on, ",
-				"start": 0.88,
-				"end": 1.38,
+				"text": "whoa, ",
+				"start": 10.15,
+				"end": 10.84,
 				"index": 4
 			},
 			{
-				"text": "fresh, ",
-				"start": 1.52,
-				"end": 1.88,
+				"text": "whoa, ",
+				"start": 10.98,
+				"end": 11.92,
 				"index": 5
 			},
 			{
-				"text": "fierce, ",
-				"start": 2.06,
-				"end": 2.44,
+				"text": "whoa, ",
+				"start": 11.98,
+				"end": 13.26,
 				"index": 6
 			},
 			{
-				"text": "three ",
-				"start": 2.5,
-				"end": 2.9,
+				"text": "whoa, ",
+				"start": 15.02,
+				"end": 21.03,
 				"index": 7
 			},
 			{
-				"text": "toes ",
-				"start": 2.9,
-				"end": 3.52,
+				"text": "whoa ",
+				"start": 23.6,
+				"end": 23.7,
 				"index": 8
 			},
 			{
-				"text": "on ",
-				"start": 3.52,
-				"end": 3.84,
+				"text": "the",
+				"start": 23.91,
+				"end": 24.9,
 				"index": 9
-			},
-			{
-				"text": "the ",
-				"start": 3.84,
-				"end": 4,
-				"index": 10
-			},
-			{
-				"text": "line ",
-				"start": 4,
-				"end": 4.36,
-				"index": 11
-			},
-			{
-				"text": "Lakers, ",
-				"start": 4.52,
-				"end": 5.72,
-				"index": 12
-			},
-			{
-				"text": "breakfast, ",
-				"start": 5.72,
-				"end": 6.36,
-				"index": 13
-			},
-			{
-				"text": "and ",
-				"start": 6.58,
-				"end": 6.92,
-				"index": 14
-			},
-			{
-				"text": "now ",
-				"start": 6.92,
-				"end": 7.34,
-				"index": 15
-			},
-			{
-				"text": "put ",
-				"start": 7.34,
-				"end": 7.5,
-				"index": 16
-			},
-			{
-				"text": "your ",
-				"start": 7.5,
-				"end": 7.76,
-				"index": 17
-			},
-			{
-				"text": "hands ",
-				"start": 7.76,
-				"end": 8.18,
-				"index": 18
-			},
-			{
-				"text": "on",
-				"start": 8.18,
-				"end": 8.7,
-				"index": 19
 			}
 		],
-		"start": 4.42,
-		"end": 13.12
+		"start": 0.03,
+		"end": 24.93
+	},
+	{
+		"words": [
+			{
+				"text": "NBA",
+				"start": 0,
+				"end": 4.42,
+				"index": 10
+			}
+		],
+		"start": 27.12,
+		"end": 31.54
 	}
 ]

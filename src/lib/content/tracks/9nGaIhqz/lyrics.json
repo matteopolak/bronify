@@ -2,1207 +2,577 @@
 	{
 		"words": [
 			{
-				"text": "it's ",
-				"start": 2.86,
-				"end": 3.26,
+				"text": "the",
+				"start": 1.03,
+				"end": 2.15,
 				"index": 0
-			},
-			{
-				"text": "my ",
-				"start": 3.26,
-				"end": 3.44,
-				"index": 1
-			},
-			{
-				"text": "GOAT ",
-				"start": 3.44,
-				"end": 4.22,
-				"index": 2
-			},
-			{
-				"text": "LeBron ",
-				"start": 4.22,
-				"end": 4.74,
-				"index": 3
-			},
-			{
-				"text": "I ",
-				"start": 4.74,
-				"end": 4.76,
-				"index": 4
-			},
-			{
-				"text": "love ",
-				"start": 4.76,
-				"end": 5,
-				"index": 5
-			},
-			{
-				"text": "him ",
-				"start": 5,
-				"end": 5.1,
-				"index": 6
-			},
-			{
-				"text": "when ",
-				"start": 5.1,
-				"end": 5.22,
-				"index": 7
-			},
-			{
-				"text": "he ",
-				"start": 5.22,
-				"end": 5.36,
-				"index": 8
-			},
-			{
-				"text": "dunkin' ",
-				"start": 5.36,
-				"end": 5.56,
-				"index": 9
-			},
-			{
-				"text": "GOAT ",
-				"start": 5.56,
-				"end": 5.78,
-				"index": 10
-			},
-			{
-				"text": "ta-da ",
-				"start": 5.78,
-				"end": 6.02,
-				"index": 11
-			},
-			{
-				"text": "ta",
-				"start": 6.02,
-				"end": 6.3,
-				"index": 12
-			},
-			{
-				"text": "-da ",
-				"start": 6.3,
-				"end": 6.5,
-				"index": 13
-			},
-			{
-				"text": "I ",
-				"start": 6.5,
-				"end": 6.56,
-				"index": 14
-			},
-			{
-				"text": "love ",
-				"start": 6.56,
-				"end": 6.92,
-				"index": 15
-			},
-			{
-				"text": "him ",
-				"start": 6.92,
-				"end": 7.06,
-				"index": 16
-			},
-			{
-				"text": "when ",
-				"start": 7.06,
-				"end": 7.2,
-				"index": 17
-			},
-			{
-				"text": "he ",
-				"start": 7.2,
-				"end": 7.3,
-				"index": 18
-			},
-			{
-				"text": "shootin' ",
-				"start": 7.3,
-				"end": 7.52,
-				"index": 19
-			},
-			{
-				"text": "GOAT ",
-				"start": 7.58,
-				"end": 7.78,
-				"index": 20
-			},
-			{
-				"text": "ta",
-				"start": 7.78,
-				"end": 8,
-				"index": 21
-			},
-			{
-				"text": "-da ",
-				"start": 8,
-				"end": 8.08,
-				"index": 22
-			},
-			{
-				"text": "ta",
-				"start": 8.08,
-				"end": 8.22,
-				"index": 23
-			},
-			{
-				"text": "-da ",
-				"start": 8.22,
-				"end": 8.36,
-				"index": 24
-			},
-			{
-				"text": "we ",
-				"start": 8.36,
-				"end": 8.76,
-				"index": 25
-			},
-			{
-				"text": "know ",
-				"start": 8.76,
-				"end": 9.18,
-				"index": 26
-			},
-			{
-				"text": "he ",
-				"start": 9.18,
-				"end": 9.32,
-				"index": 27
-			},
-			{
-				"text": "the ",
-				"start": 9.32,
-				"end": 9.44,
-				"index": 28
-			},
-			{
-				"text": "GOAT ",
-				"start": 9.44,
-				"end": 9.92,
-				"index": 29
-			},
-			{
-				"text": "LeBron ",
-				"start": 9.92,
-				"end": 11.04,
-				"index": 30
-			},
-			{
-				"text": "ba",
-				"start": 11.04,
-				"end": 11.24,
-				"index": 31
-			},
-			{
-				"text": "-ba",
-				"start": 11.24,
-				"end": 11.42,
-				"index": 32
-			},
-			{
-				"text": "-ba",
-				"start": 11.42,
-				"end": 11.56,
-				"index": 33
-			},
-			{
-				"text": "-bron ",
-				"start": 11.56,
-				"end": 11.88,
-				"index": 34
-			},
-			{
-				"text": "I ",
-				"start": 11.88,
-				"end": 12.42,
-				"index": 35
-			},
-			{
-				"text": "love ",
-				"start": 12.42,
-				"end": 12.9,
-				"index": 36
-			},
-			{
-				"text": "him ",
-				"start": 12.9,
-				"end": 12.94,
-				"index": 37
-			},
-			{
-				"text": "when ",
-				"start": 12.94,
-				"end": 13.12,
-				"index": 38
-			},
-			{
-				"text": "he ",
-				"start": 13.12,
-				"end": 13.2,
-				"index": 39
-			},
-			{
-				"text": "dunkin' ",
-				"start": 13.2,
-				"end": 13.34,
-				"index": 40
-			},
-			{
-				"text": "GOAT ",
-				"start": 13.34,
-				"end": 13.72,
-				"index": 41
-			},
-			{
-				"text": "ta",
-				"start": 13.72,
-				"end": 13.94,
-				"index": 42
-			},
-			{
-				"text": "-da ",
-				"start": 13.94,
-				"end": 14.06,
-				"index": 43
-			},
-			{
-				"text": "ta",
-				"start": 14.06,
-				"end": 14.34,
-				"index": 44
-			},
-			{
-				"text": "-da ",
-				"start": 14.34,
-				"end": 14.42,
-				"index": 45
-			},
-			{
-				"text": "I ",
-				"start": 14.42,
-				"end": 14.7,
-				"index": 46
-			},
-			{
-				"text": "love ",
-				"start": 14.7,
-				"end": 14.86,
-				"index": 47
-			},
-			{
-				"text": "him ",
-				"start": 14.86,
-				"end": 14.88,
-				"index": 48
-			},
-			{
-				"text": "when ",
-				"start": 14.88,
-				"end": 15.04,
-				"index": 49
-			},
-			{
-				"text": "he ",
-				"start": 15.04,
-				"end": 15.12,
-				"index": 50
-			},
-			{
-				"text": "shootin' ",
-				"start": 15.12,
-				"end": 15.4,
-				"index": 51
-			},
-			{
-				"text": "GOAT ",
-				"start": 15.44,
-				"end": 15.7,
-				"index": 52
-			},
-			{
-				"text": "ta",
-				"start": 15.7,
-				"end": 15.9,
-				"index": 53
-			},
-			{
-				"text": "-da ",
-				"start": 15.9,
-				"end": 16.04,
-				"index": 54
-			},
-			{
-				"text": "ta",
-				"start": 16.04,
-				"end": 16.26,
-				"index": 55
-			},
-			{
-				"text": "-da ",
-				"start": 16.26,
-				"end": 16.42,
-				"index": 56
-			},
-			{
-				"text": "we ",
-				"start": 16.42,
-				"end": 16.74,
-				"index": 57
-			},
-			{
-				"text": "know ",
-				"start": 16.74,
-				"end": 17.04,
-				"index": 58
-			},
-			{
-				"text": "he ",
-				"start": 17.04,
-				"end": 17.22,
-				"index": 59
-			},
-			{
-				"text": "the ",
-				"start": 17.22,
-				"end": 17.34,
-				"index": 60
-			},
-			{
-				"text": "GOAT ",
-				"start": 17.34,
-				"end": 17.82,
-				"index": 61
-			},
-			{
-				"text": "LeBron ",
-				"start": 17.82,
-				"end": 18.9,
-				"index": 62
-			},
-			{
-				"text": "ba",
-				"start": 18.9,
-				"end": 19.1,
-				"index": 63
-			},
-			{
-				"text": "-ba",
-				"start": 19.1,
-				"end": 19.2,
-				"index": 64
-			},
-			{
-				"text": "-ba",
-				"start": 19.2,
-				"end": 19.4,
-				"index": 65
-			},
-			{
-				"text": "-bron ",
-				"start": 19.4,
-				"end": 20.06,
-				"index": 66
-			},
-			{
-				"text": "ooh ",
-				"start": 20.06,
-				"end": 20.62,
-				"index": 67
-			},
-			{
-				"text": "that ",
-				"start": 20.62,
-				"end": 21,
-				"index": 68
-			},
-			{
-				"text": "pass ",
-				"start": 21,
-				"end": 21.26,
-				"index": 69
-			},
-			{
-				"text": "so ",
-				"start": 21.26,
-				"end": 21.48,
-				"index": 70
-			},
-			{
-				"text": "glamorous ",
-				"start": 21.48,
-				"end": 21.94,
-				"index": 71
-			},
-			{
-				"text": "and ",
-				"start": 21.94,
-				"end": 22.48,
-				"index": 72
-			},
-			{
-				"text": "I ",
-				"start": 22.48,
-				"end": 22.56,
-				"index": 73
-			},
-			{
-				"text": "know ",
-				"start": 22.56,
-				"end": 22.74,
-				"index": 74
-			},
-			{
-				"text": "another ",
-				"start": 22.74,
-				"end": 22.96,
-				"index": 75
-			},
-			{
-				"text": "player ",
-				"start": 22.96,
-				"end": 23.24,
-				"index": 76
-			},
-			{
-				"text": "couldn't ",
-				"start": 23.24,
-				"end": 23.56,
-				"index": 77
-			},
-			{
-				"text": "handle ",
-				"start": 23.56,
-				"end": 23.84,
-				"index": 78
-			},
-			{
-				"text": "it ",
-				"start": 23.84,
-				"end": 24.12,
-				"index": 79
-			},
-			{
-				"text": "where ",
-				"start": 24.12,
-				"end": 24.44,
-				"index": 80
-			},
-			{
-				"text": "you ",
-				"start": 24.44,
-				"end": 24.54,
-				"index": 81
-			},
-			{
-				"text": "dunkin' ",
-				"start": 24.54,
-				"end": 24.82,
-				"index": 82
-			},
-			{
-				"text": "that ",
-				"start": 24.82,
-				"end": 24.92,
-				"index": 83
-			},
-			{
-				"text": "ball ",
-				"start": 24.92,
-				"end": 25.2,
-				"index": 84
-			},
-			{
-				"text": "like ",
-				"start": 25.2,
-				"end": 25.48,
-				"index": 85
-			},
-			{
-				"text": "what ",
-				"start": 25.48,
-				"end": 25.74,
-				"index": 86
-			},
-			{
-				"text": "the ",
-				"start": 25.74,
-				"end": 25.88,
-				"index": 87
-			},
-			{
-				"text": "ish ",
-				"start": 25.88,
-				"end": 26.22,
-				"index": 88
-			},
-			{
-				"text": "with ",
-				"start": 26.22,
-				"end": 26.46,
-				"index": 89
-			},
-			{
-				"text": "a ",
-				"start": 26.46,
-				"end": 26.54,
-				"index": 90
-			},
-			{
-				"text": "look ",
-				"start": 26.54,
-				"end": 26.76,
-				"index": 91
-			},
-			{
-				"text": "in ",
-				"start": 26.76,
-				"end": 26.9,
-				"index": 92
-			},
-			{
-				"text": "your ",
-				"start": 26.9,
-				"end": 27.02,
-				"index": 93
-			},
-			{
-				"text": "eye ",
-				"start": 27.02,
-				"end": 27.22,
-				"index": 94
-			},
-			{
-				"text": "so ",
-				"start": 27.22,
-				"end": 27.38,
-				"index": 95
-			},
-			{
-				"text": "devilish ",
-				"start": 27.38,
-				"end": 28.08,
-				"index": 96
-			},
-			{
-				"text": "he ",
-				"start": 28.08,
-				"end": 28.7,
-				"index": 97
-			},
-			{
-				"text": "might ",
-				"start": 28.7,
-				"end": 28.9,
-				"index": 98
-			},
-			{
-				"text": "hit ",
-				"start": 28.9,
-				"end": 29.12,
-				"index": 99
-			},
-			{
-				"text": "that ",
-				"start": 29.12,
-				"end": 29.38,
-				"index": 100
-			},
-			{
-				"text": "stop ",
-				"start": 29.38,
-				"end": 29.64,
-				"index": 101
-			},
-			{
-				"text": "and ",
-				"start": 29.64,
-				"end": 29.86,
-				"index": 102
-			},
-			{
-				"text": "pop ",
-				"start": 29.86,
-				"end": 30.02,
-				"index": 103
-			},
-			{
-				"text": "and ",
-				"start": 30.02,
-				"end": 30.38,
-				"index": 104
-			},
-			{
-				"text": "he ",
-				"start": 30.38,
-				"end": 30.42,
-				"index": 105
-			},
-			{
-				"text": "cruise ",
-				"start": 30.42,
-				"end": 30.66,
-				"index": 106
-			},
-			{
-				"text": "for ",
-				"start": 30.66,
-				"end": 30.84,
-				"index": 107
-			},
-			{
-				"text": "a ",
-				"start": 30.84,
-				"end": 30.94,
-				"index": 108
-			},
-			{
-				"text": "court ",
-				"start": 30.94,
-				"end": 31.14,
-				"index": 109
-			},
-			{
-				"text": "for ",
-				"start": 31.14,
-				"end": 31.36,
-				"index": 110
-			},
-			{
-				"text": "that ",
-				"start": 31.36,
-				"end": 31.44,
-				"index": 111
-			},
-			{
-				"text": "chase ",
-				"start": 31.44,
-				"end": 31.6,
-				"index": 112
-			},
-			{
-				"text": "down ",
-				"start": 31.6,
-				"end": 31.74,
-				"index": 113
-			},
-			{
-				"text": "plot ",
-				"start": 31.74,
-				"end": 32,
-				"index": 114
-			},
-			{
-				"text": "not ",
-				"start": 32,
-				"end": 32.34,
-				"index": 115
-			},
-			{
-				"text": "just ",
-				"start": 32.34,
-				"end": 32.62,
-				"index": 116
-			},
-			{
-				"text": "D",
-				"start": 32.62,
-				"end": 32.9,
-				"index": 117
-			},
-			{
-				"text": "-Wade ",
-				"start": 32.9,
-				"end": 33.16,
-				"index": 118
-			},
-			{
-				"text": "not ",
-				"start": 33.16,
-				"end": 33.32,
-				"index": 119
-			},
-			{
-				"text": "just ",
-				"start": 33.32,
-				"end": 33.56,
-				"index": 120
-			},
-			{
-				"text": "AD ",
-				"start": 33.56,
-				"end": 33.78,
-				"index": 121
-			},
-			{
-				"text": "now ",
-				"start": 33.78,
-				"end": 34.28,
-				"index": 122
-			},
-			{
-				"text": "he ",
-				"start": 34.28,
-				"end": 34.54,
-				"index": 123
-			},
-			{
-				"text": "on ",
-				"start": 34.54,
-				"end": 34.68,
-				"index": 124
-			},
-			{
-				"text": "the ",
-				"start": 34.68,
-				"end": 34.78,
-				"index": 125
-			},
-			{
-				"text": "scene ",
-				"start": 34.78,
-				"end": 34.96,
-				"index": 126
-			},
-			{
-				"text": "with ",
-				"start": 34.96,
-				"end": 35.22,
-				"index": 127
-			},
-			{
-				"text": "Luka ",
-				"start": 35.22,
-				"end": 35.64,
-				"index": 128
-			},
-			{
-				"text": "he ",
-				"start": 35.64,
-				"end": 36.06,
-				"index": 129
-			},
-			{
-				"text": "got ",
-				"start": 36.06,
-				"end": 36.3,
-				"index": 130
-			},
-			{
-				"text": "dunks ",
-				"start": 36.3,
-				"end": 36.64,
-				"index": 131
-			},
-			{
-				"text": "like ",
-				"start": 36.64,
-				"end": 36.76,
-				"index": 132
-			},
-			{
-				"text": "a ",
-				"start": 36.76,
-				"end": 36.88,
-				"index": 133
-			},
-			{
-				"text": "truck ",
-				"start": 36.88,
-				"end": 37.08,
-				"index": 134
-			},
-			{
-				"text": "truck ",
-				"start": 37.08,
-				"end": 37.58,
-				"index": 135
-			},
-			{
-				"text": "truck ",
-				"start": 37.58,
-				"end": 38,
-				"index": 136
-			},
-			{
-				"text": "phase ",
-				"start": 38,
-				"end": 38.52,
-				"index": 137
-			},
-			{
-				"text": "like ",
-				"start": 38.52,
-				"end": 38.76,
-				"index": 138
-			},
-			{
-				"text": "what ",
-				"start": 38.76,
-				"end": 39.04,
-				"index": 139
-			},
-			{
-				"text": "what ",
-				"start": 39.04,
-				"end": 39.58,
-				"index": 140
-			},
-			{
-				"text": "what ",
-				"start": 39.58,
-				"end": 40.02,
-				"index": 141
-			},
-			{
-				"text": "go ",
-				"start": 40.02,
-				"end": 40.44,
-				"index": 142
-			},
-			{
-				"text": "ahead ",
-				"start": 40.44,
-				"end": 40.7,
-				"index": 143
-			},
-			{
-				"text": "and ",
-				"start": 40.7,
-				"end": 40.86,
-				"index": 144
-			},
-			{
-				"text": "cut ",
-				"start": 40.86,
-				"end": 40.98,
-				"index": 145
-			},
-			{
-				"text": "cut ",
-				"start": 40.98,
-				"end": 41.56,
-				"index": 146
-			},
-			{
-				"text": "cut ",
-				"start": 41.56,
-				"end": 41.98,
-				"index": 147
-			},
-			{
-				"text": "cuz ",
-				"start": 41.98,
-				"end": 42.56,
-				"index": 148
-			},
-			{
-				"text": "he'll ",
-				"start": 42.56,
-				"end": 42.74,
-				"index": 149
-			},
-			{
-				"text": "pass ",
-				"start": 42.74,
-				"end": 42.98,
-				"index": 150
-			},
-			{
-				"text": "it ",
-				"start": 42.98,
-				"end": 43.12,
-				"index": 151
-			},
-			{
-				"text": "again ",
-				"start": 43.12,
-				"end": 43.34,
-				"index": 152
-			},
-			{
-				"text": "he ",
-				"start": 43.34,
-				"end": 43.92,
-				"index": 153
-			},
-			{
-				"text": "got ",
-				"start": 43.92,
-				"end": 44.22,
-				"index": 154
-			},
-			{
-				"text": "dunks ",
-				"start": 44.22,
-				"end": 44.56,
-				"index": 155
-			},
-			{
-				"text": "like ",
-				"start": 44.56,
-				"end": 44.64,
-				"index": 156
-			},
-			{
-				"text": "a ",
-				"start": 44.64,
-				"end": 44.74,
-				"index": 157
-			},
-			{
-				"text": "truck ",
-				"start": 44.74,
-				"end": 45,
-				"index": 158
-			},
-			{
-				"text": "truck ",
-				"start": 45,
-				"end": 45.46,
-				"index": 159
-			},
-			{
-				"text": "truck ",
-				"start": 45.46,
-				"end": 45.86,
-				"index": 160
-			},
-			{
-				"text": "phase ",
-				"start": 45.86,
-				"end": 46.48,
-				"index": 161
-			},
-			{
-				"text": "like ",
-				"start": 46.48,
-				"end": 46.66,
-				"index": 162
-			},
-			{
-				"text": "what ",
-				"start": 46.66,
-				"end": 46.98,
-				"index": 163
-			},
-			{
-				"text": "what ",
-				"start": 46.98,
-				"end": 47.48,
-				"index": 164
-			},
-			{
-				"text": "what ",
-				"start": 47.48,
-				"end": 47.92,
-				"index": 165
-			},
-			{
-				"text": "all ",
-				"start": 47.92,
-				"end": 48.3,
-				"index": 166
-			},
-			{
-				"text": "night ",
-				"start": 48.3,
-				"end": 48.66,
-				"index": 167
-			},
-			{
-				"text": "long ",
-				"start": 48.66,
-				"end": 49.04,
-				"index": 168
-			},
-			{
-				"text": "it's ",
-				"start": 49.04,
-				"end": 50.66,
-				"index": 169
-			},
-			{
-				"text": "my ",
-				"start": 50.66,
-				"end": 50.76,
-				"index": 170
-			},
-			{
-				"text": "GOAT ",
-				"start": 50.76,
-				"end": 51.58,
-				"index": 171
-			},
-			{
-				"text": "LeBron ",
-				"start": 51.58,
-				"end": 52.18,
-				"index": 172
-			},
-			{
-				"text": "I love ",
-				"start": 52.18,
-				"end": 52.38,
-				"index": 173
-			},
-			{
-				"text": "him ",
-				"start": 52.38,
-				"end": 52.52,
-				"index": 174
-			},
-			{
-				"text": "when ",
-				"start": 52.52,
-				"end": 52.66,
-				"index": 175
-			},
-			{
-				"text": "he ",
-				"start": 52.66,
-				"end": 52.84,
-				"index": 176
-			},
-			{
-				"text": "dunkin'",
-				"start": 52.84,
-				"end": 53.06,
-				"index": 177
 			}
 		],
 		"start": -1,
-		"end": 52.06
+		"end": 1.15
 	},
 	{
 		"words": [
 			{
-				"text": "GOAT ",
+				"text": "NBA ",
 				"start": 0,
+				"end": 14.83,
+				"index": 1
+			},
+			{
+				"text": "Bron ",
+				"start": 14.81,
+				"end": 15.27,
+				"index": 2
+			},
+			{
+				"text": "Bron ",
+				"start": 15.31,
+				"end": 15.75,
+				"index": 3
+			},
+			{
+				"text": "Bron ",
+				"start": 15.77,
+				"end": 15.99,
+				"index": 4
+			},
+			{
+				"text": "Bron ",
+				"start": 16.01,
+				"end": 16.25,
+				"index": 5
+			},
+			{
+				"text": "Bron",
+				"start": 16.27,
+				"end": 16.81,
+				"index": 6
+			}
+		],
+		"start": 2.44,
+		"end": 19.25
+	},
+	{
+		"words": [
+			{
+				"text": "Oh ",
+				"start": 0,
+				"end": 0.18,
+				"index": 7
+			},
+			{
+				"text": "that ",
+				"start": 0.22,
 				"end": 0.36,
-				"index": 178
+				"index": 8
 			},
 			{
-				"text": "ta",
-				"start": 0.36,
-				"end": 0.52,
-				"index": 179
+				"text": "pass ",
+				"start": 0.44,
+				"end": 0.68,
+				"index": 9
 			},
 			{
-				"text": "-da ",
-				"start": 0.52,
-				"end": 0.78,
-				"index": 180
+				"text": "so ",
+				"start": 0.74,
+				"end": 0.9,
+				"index": 10
 			},
 			{
-				"text": "ta",
-				"start": 0.78,
-				"end": 0.84,
-				"index": 181
+				"text": "glamorous",
+				"start": 0.92,
+				"end": 1.52,
+				"index": 11
+			}
+		],
+		"start": 19.77,
+		"end": 21.29
+	},
+	{
+		"words": [
+			{
+				"text": "And ",
+				"start": 0,
+				"end": 0.08,
+				"index": 12
 			},
 			{
-				"text": "-da ",
-				"start": 0.84,
-				"end": 0.98,
-				"index": 182
-			},
-			{
-				"text": "we ",
-				"start": 0.98,
-				"end": 1.46,
-				"index": 183
+				"text": "I ",
+				"start": 0.14,
+				"end": 0.18,
+				"index": 13
 			},
 			{
 				"text": "know ",
-				"start": 1.46,
-				"end": 1.78,
-				"index": 184
+				"start": 0.22,
+				"end": 0.36,
+				"index": 14
 			},
 			{
-				"text": "he ",
-				"start": 1.78,
-				"end": 1.98,
-				"index": 185
+				"text": "another ",
+				"start": 0.38,
+				"end": 0.66,
+				"index": 15
+			},
+			{
+				"text": "player ",
+				"start": 0.7,
+				"end": 0.94,
+				"index": 16
+			},
+			{
+				"text": "couldn't ",
+				"start": 0.96,
+				"end": 1.16,
+				"index": 17
+			},
+			{
+				"text": "handle ",
+				"start": 1.2,
+				"end": 1.58,
+				"index": 18
+			},
+			{
+				"text": "it",
+				"start": 1.68,
+				"end": 1.74,
+				"index": 19
+			}
+		],
+		"start": 21.47,
+		"end": 23.21
+	},
+	{
+		"words": [
+			{
+				"text": "Where ",
+				"start": 0,
+				"end": 0.12,
+				"index": 20
+			},
+			{
+				"text": "you ",
+				"start": 0.14,
+				"end": 0.24,
+				"index": 21
+			},
+			{
+				"text": "dunking ",
+				"start": 0.26,
+				"end": 0.52,
+				"index": 22
+			},
+			{
+				"text": "that ",
+				"start": 0.54,
+				"end": 0.7,
+				"index": 23
+			},
+			{
+				"text": "ball ",
+				"start": 0.76,
+				"end": 1.02,
+				"index": 24
+			},
+			{
+				"text": "like ",
+				"start": 1.04,
+				"end": 1.22,
+				"index": 25
+			},
+			{
+				"text": "what ",
+				"start": 1.28,
+				"end": 1.5,
+				"index": 26
 			},
 			{
 				"text": "the ",
-				"start": 1.98,
-				"end": 2.12,
-				"index": 186
+				"start": 1.52,
+				"end": 1.6,
+				"index": 27
 			},
 			{
-				"text": "GOAT ",
-				"start": 2.12,
-				"end": 2.84,
-				"index": 187
-			},
-			{
-				"text": "LeBron ",
-				"start": 2.84,
-				"end": 3.72,
-				"index": 188
-			},
-			{
-				"text": "ba",
-				"start": 3.72,
-				"end": 4.02,
-				"index": 189
-			},
-			{
-				"text": "-ba",
-				"start": 4.02,
-				"end": 4.32,
-				"index": 190
-			},
-			{
-				"text": "-bron ",
-				"start": 4.32,
-				"end": 4.9,
-				"index": 191
-			},
-			{
-				"text": "I love him when he dunkin' GOAT ta-da ta-da I love him when he dunkin' GOAT ta-da ta-da I love him ",
-				"start": 4.9,
-				"end": 58.75,
-				"index": 192
-			},
-			{
-				"text": "when ",
-				"start": 4.98,
-				"end": 5.08,
-				"index": 193
-			},
-			{
-				"text": "he dunkin' ",
-				"start": 5.08,
-				"end": 5.18,
-				"index": 194
-			},
-			{
-				"text": "GOAT ta",
-				"start": 5.18,
-				"end": 5.2,
-				"index": 195
-			},
-			{
-				"text": "-da ta-da I ",
-				"start": 5.2,
-				"end": 5.22,
-				"index": 196
-			},
-			{
-				"text": "love him when he dunkin' ",
-				"start": 5.22,
-				"end": 5.3,
-				"index": 197
-			},
-			{
-				"text": "GOAT ta-da ta-da I love him when he dunkin' GOAT ta-da ta-da I love him when he dunkin' GOAT ta-da ta-da I love him when he dunkin' GOAT ta-da ta-da I love him when he dunkin' GOAT ta-da ta-da I love him when he dunkin' GOAT ta-da ta-da I love him when he dunkin' GOAT ta-da ta-da I love him when he dunkin' GOAT ta-da ta-da I love him when he dunkin' GOAT ta-da ta-da I love him when he dunkin' GOAT ta-da ta-da I love him when he dunkin' GOAT ta-da",
-				"start": 5.3,
-				"end": 59.09,
-				"index": 198
+				"text": "ish",
+				"start": 1.76,
+				"end": 1.88,
+				"index": 28
 			}
 		],
-		"start": 53.77,
-		"end": 112.86
+		"start": 23.4,
+		"end": 25.28
+	},
+	{
+		"words": [
+			{
+				"text": "With ",
+				"start": 0,
+				"end": 0.1,
+				"index": 29
+			},
+			{
+				"text": "a ",
+				"start": 0.16,
+				"end": 0.2,
+				"index": 30
+			},
+			{
+				"text": "look ",
+				"start": 0.24,
+				"end": 0.48,
+				"index": 31
+			},
+			{
+				"text": "in ",
+				"start": 0.5,
+				"end": 0.58,
+				"index": 32
+			},
+			{
+				"text": "your ",
+				"start": 0.6,
+				"end": 0.7,
+				"index": 33
+			},
+			{
+				"text": "eye ",
+				"start": 0.8,
+				"end": 0.92,
+				"index": 34
+			},
+			{
+				"text": "so ",
+				"start": 0.96,
+				"end": 1.12,
+				"index": 35
+			},
+			{
+				"text": "devilish",
+				"start": 1.2,
+				"end": 1.82,
+				"index": 36
+			}
+		],
+		"start": 25.44,
+		"end": 27.26
+	},
+	{
+		"words": [
+			{
+				"text": "He ",
+				"start": 0,
+				"end": 0.08,
+				"index": 37
+			},
+			{
+				"text": "might ",
+				"start": 0.12,
+				"end": 0.28,
+				"index": 38
+			},
+			{
+				"text": "hit ",
+				"start": 0.34,
+				"end": 0.5,
+				"index": 39
+			},
+			{
+				"text": "that ",
+				"start": 0.58,
+				"end": 0.74,
+				"index": 40
+			},
+			{
+				"text": "stop ",
+				"start": 0.8,
+				"end": 1.08,
+				"index": 41
+			},
+			{
+				"text": "and ",
+				"start": 1.1,
+				"end": 1.18,
+				"index": 42
+			},
+			{
+				"text": "pop",
+				"start": 1.2,
+				"end": 1.44,
+				"index": 43
+			}
+		],
+		"start": 27.76,
+		"end": 29.2
+	},
+	{
+		"words": [
+			{
+				"text": "And ",
+				"start": 0,
+				"end": 0.06,
+				"index": 44
+			},
+			{
+				"text": "he ",
+				"start": 0.1,
+				"end": 0.16,
+				"index": 45
+			},
+			{
+				"text": "cruised ",
+				"start": 0.2,
+				"end": 0.42,
+				"index": 46
+			},
+			{
+				"text": "for ",
+				"start": 0.44,
+				"end": 0.66,
+				"index": 47
+			},
+			{
+				"text": "a ",
+				"start": 0.68,
+				"end": 0.7,
+				"index": 48
+			},
+			{
+				"text": "court ",
+				"start": 0.72,
+				"end": 0.94,
+				"index": 49
+			},
+			{
+				"text": "for ",
+				"start": 0.96,
+				"end": 1.04,
+				"index": 50
+			},
+			{
+				"text": "that ",
+				"start": 1.06,
+				"end": 1.16,
+				"index": 51
+			},
+			{
+				"text": "chase ",
+				"start": 1.2,
+				"end": 1.36,
+				"index": 52
+			},
+			{
+				"text": "down ",
+				"start": 1.44,
+				"end": 1.56,
+				"index": 53
+			},
+			{
+				"text": "plot",
+				"start": 1.6,
+				"end": 1.8,
+				"index": 54
+			}
+		],
+		"start": 29.39,
+		"end": 31.19
+	},
+	{
+		"words": [
+			{
+				"text": "Not ",
+				"start": 0,
+				"end": 0.16,
+				"index": 55
+			},
+			{
+				"text": "just ",
+				"start": 0.2,
+				"end": 0.42,
+				"index": 56
+			},
+			{
+				"text": "D ",
+				"start": 0.44,
+				"end": 0.66,
+				"index": 57
+			},
+			{
+				"text": "Wade, ",
+				"start": 0.7,
+				"end": 1,
+				"index": 58
+			},
+			{
+				"text": "not ",
+				"start": 1.02,
+				"end": 1.14,
+				"index": 59
+			},
+			{
+				"text": "just ",
+				"start": 1.16,
+				"end": 1.3,
+				"index": 60
+			},
+			{
+				"text": "AD",
+				"start": 1.4,
+				"end": 1.72,
+				"index": 61
+			}
+		],
+		"start": 31.37,
+		"end": 33.09
+	},
+	{
+		"words": [
+			{
+				"text": "Now ",
+				"start": 0,
+				"end": 0.16,
+				"index": 62
+			},
+			{
+				"text": "he ",
+				"start": 0.24,
+				"end": 0.46,
+				"index": 63
+			},
+			{
+				"text": "on ",
+				"start": 0.48,
+				"end": 0.52,
+				"index": 64
+			},
+			{
+				"text": "the ",
+				"start": 0.54,
+				"end": 0.6,
+				"index": 65
+			},
+			{
+				"text": "scene ",
+				"start": 0.62,
+				"end": 0.86,
+				"index": 66
+			},
+			{
+				"text": "with ",
+				"start": 0.88,
+				"end": 1.1,
+				"index": 67
+			},
+			{
+				"text": "Luka",
+				"start": 1.14,
+				"end": 1.66,
+				"index": 68
+			}
+		],
+		"start": 33.32,
+		"end": 34.98
+	},
+	{
+		"words": [
+			{
+				"text": "He ",
+				"start": 0,
+				"end": 0.04,
+				"index": 69
+			},
+			{
+				"text": "got ",
+				"start": 0.06,
+				"end": 0.24,
+				"index": 70
+			},
+			{
+				"text": "dunks ",
+				"start": 0.28,
+				"end": 0.52,
+				"index": 71
+			},
+			{
+				"text": "like ",
+				"start": 0.56,
+				"end": 0.66,
+				"index": 72
+			},
+			{
+				"text": "a ",
+				"start": 0.7,
+				"end": 0.72,
+				"index": 73
+			},
+			{
+				"text": "truck, ",
+				"start": 0.76,
+				"end": 1,
+				"index": 74
+			},
+			{
+				"text": "truck, ",
+				"start": 1.26,
+				"end": 1.52,
+				"index": 75
+			},
+			{
+				"text": "truck",
+				"start": 1.74,
+				"end": 2,
+				"index": 76
+			}
+		],
+		"start": 35.24,
+		"end": 37.24
+	},
+	{
+		"words": [
+			{
+				"text": "Faze ",
+				"start": 0,
+				"end": 0.28,
+				"index": 77
+			},
+			{
+				"text": "like ",
+				"start": 0.32,
+				"end": 0.48,
+				"index": 78
+			},
+			{
+				"text": "what, ",
+				"start": 0.52,
+				"end": 0.76,
+				"index": 79
+			},
+			{
+				"text": "what ",
+				"start": 0.96,
+				"end": 1.04,
+				"index": 80
+			},
+			{
+				"text": "is ",
+				"start": 1.02,
+				"end": 4.19,
+				"index": 81
+			},
+			{
+				"text": "my ",
+				"start": 5.86,
+				"end": 12.8,
+				"index": 82
+			},
+			{
+				"text": "goal",
+				"start": 12.85,
+				"end": 21.68,
+				"index": 83
+			}
+		],
+		"start": 37.48,
+		"end": 59.16
 	}
 ]

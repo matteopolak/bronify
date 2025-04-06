@@ -2,1177 +2,1171 @@
 	{
 		"words": [
 			{
-				"text": "Ayy, ",
+				"text": "Bronny ",
 				"start": 0,
-				"end": 0.72,
+				"end": 4.25,
 				"index": 0
 			},
 			{
-				"text": "ayy, ",
-				"start": 0.98,
-				"end": 1.68,
+				"text": "tell ",
+				"start": 4.29,
+				"end": 4.49,
 				"index": 1
 			},
 			{
-				"text": "ayy, ",
-				"start": 1.68,
-				"end": 2.06,
+				"text": "me ",
+				"start": 4.51,
+				"end": 4.61,
 				"index": 2
 			},
 			{
-				"text": "ayy, ayy, ",
-				"start": 2.06,
-				"end": 2.68,
+				"text": "where ",
+				"start": 4.65,
+				"end": 4.81,
 				"index": 3
 			},
 			{
-				"text": "ayy ",
-				"start": 2.68,
-				"end": 3.2,
+				"text": "we ",
+				"start": 4.83,
+				"end": 4.93,
 				"index": 4
 			},
 			{
-				"text": "Bronny ",
-				"start": 3.2,
-				"end": 3.94,
+				"text": "on, ",
+				"start": 5.03,
+				"end": 5.21,
 				"index": 5
 			},
 			{
-				"text": "tell ",
-				"start": 3.94,
-				"end": 4.12,
+				"text": "I'm ",
+				"start": 5.27,
+				"end": 5.33,
 				"index": 6
 			},
 			{
-				"text": "me ",
-				"start": 4.12,
-				"end": 4.28,
+				"text": "on ",
+				"start": 5.37,
+				"end": 5.45,
 				"index": 7
 			},
 			{
-				"text": "what ",
-				"start": 4.28,
-				"end": 4.44,
+				"text": "the ",
+				"start": 5.47,
+				"end": 5.55,
 				"index": 8
 			},
 			{
-				"text": "we ",
-				"start": 4.44,
-				"end": 4.6,
+				"text": "same ",
+				"start": 5.59,
+				"end": 5.93,
 				"index": 9
 			},
 			{
-				"text": "on, ",
-				"start": 4.6,
-				"end": 4.82,
-				"index": 10
-			},
-			{
-				"text": "I'm ",
-				"start": 4.9,
-				"end": 5.08,
-				"index": 11
-			},
-			{
-				"text": "on ",
-				"start": 5.08,
-				"end": 5.12,
-				"index": 12
-			},
-			{
-				"text": "the ",
-				"start": 5.12,
-				"end": 5.24,
-				"index": 13
-			},
-			{
-				"text": "same ",
-				"start": 5.24,
-				"end": 5.44,
-				"index": 14
-			},
-			{
 				"text": "shit",
-				"start": 5.44,
-				"end": 5.84,
-				"index": 15
+				"start": 5.95,
+				"end": 6.25,
+				"index": 10
 			}
 		],
-		"start": 0.24,
-		"end": 6.08
+		"start": 0.03,
+		"end": 6.28
 	},
 	{
 		"words": [
 			{
-				"text": "The ",
+				"text": "They ",
 				"start": 0,
-				"end": 0.42,
-				"index": 16
+				"end": 0.12,
+				"index": 11
 			},
 			{
 				"text": "play ",
-				"start": 0.42,
-				"end": 0.64,
-				"index": 17
+				"start": 0.18,
+				"end": 0.28,
+				"index": 12
 			},
 			{
 				"text": "you ",
-				"start": 0.64,
-				"end": 0.76,
-				"index": 18
+				"start": 0.3,
+				"end": 0.42,
+				"index": 13
 			},
 			{
-				"text": "drew ",
-				"start": 0.76,
-				"end": 0.9,
-				"index": 19
+				"text": "drews ",
+				"start": 0.44,
+				"end": 0.62,
+				"index": 14
 			},
 			{
 				"text": "for ",
-				"start": 0.9,
-				"end": 1.02,
-				"index": 20
+				"start": 0.64,
+				"end": 0.76,
+				"index": 15
 			},
 			{
-				"text": "cuz ",
-				"start": 1.02,
-				"end": 1.24,
-				"index": 21
+				"text": "cuts ",
+				"start": 0.78,
+				"end": 0.96,
+				"index": 16
 			},
 			{
 				"text": "so ",
-				"start": 1.24,
-				"end": 1.42,
-				"index": 22
+				"start": 0.98,
+				"end": 1.14,
+				"index": 17
 			},
 			{
 				"text": "nice, ",
-				"start": 1.42,
-				"end": 1.68,
-				"index": 23
+				"start": 1.2,
+				"end": 1.42,
+				"index": 18
 			},
 			{
 				"text": "I ",
-				"start": 1.82,
-				"end": 1.9,
-				"index": 24
+				"start": 1.52,
+				"end": 1.6,
+				"index": 19
 			},
 			{
 				"text": "can't ",
-				"start": 1.9,
-				"end": 2.2,
-				"index": 25
+				"start": 1.62,
+				"end": 1.82,
+				"index": 20
 			},
 			{
 				"text": "hate ",
-				"start": 2.2,
-				"end": 2.38,
-				"index": 26
+				"start": 1.88,
+				"end": 2.22,
+				"index": 21
 			},
 			{
 				"text": "it ",
-				"start": 2.38,
-				"end": 2.58,
-				"index": 27
+				"start": 2.5,
+				"end": 2.64,
+				"index": 22
 			},
 			{
 				"text": "I ",
-				"start": 2.58,
-				"end": 3,
-				"index": 28
+				"start": 2.7,
+				"end": 2.8,
+				"index": 23
 			},
 			{
 				"text": "feel ",
-				"start": 3,
-				"end": 3.3,
-				"index": 29
+				"start": 2.82,
+				"end": 2.96,
+				"index": 24
 			},
 			{
 				"text": "the ",
-				"start": 3.3,
-				"end": 3.38,
-				"index": 30
+				"start": 2.98,
+				"end": 3.08,
+				"index": 25
 			},
 			{
 				"text": "safest ",
-				"start": 3.38,
-				"end": 3.72,
-				"index": 31
+				"start": 3.13,
+				"end": 3.48,
+				"index": 26
 			},
 			{
 				"text": "when ",
-				"start": 3.72,
-				"end": 3.94,
-				"index": 32
+				"start": 3.5,
+				"end": 3.63,
+				"index": 27
 			},
 			{
-				"text": "LeBron ",
-				"start": 3.94,
-				"end": 4.26,
-				"index": 33
+				"text": "LeBron's ",
+				"start": 3.67,
+				"end": 4.05,
+				"index": 28
 			},
 			{
-				"text": "sub ",
-				"start": 4.26,
-				"end": 4.5,
-				"index": 34
+				"text": "up ",
+				"start": 4.13,
+				"end": 4.19,
+				"index": 29
 			},
 			{
 				"text": "in ",
-				"start": 4.5,
-				"end": 4.68,
-				"index": 35
+				"start": 4.29,
+				"end": 4.33,
+				"index": 30
 			},
 			{
 				"text": "the ",
-				"start": 4.68,
-				"end": 4.76,
-				"index": 36
+				"start": 4.37,
+				"end": 4.45,
+				"index": 31
 			},
 			{
 				"text": "game ",
-				"start": 4.76,
-				"end": 5,
-				"index": 37
+				"start": 4.49,
+				"end": 4.67,
+				"index": 32
 			},
 			{
 				"text": "again",
-				"start": 5,
-				"end": 5.22,
-				"index": 38
+				"start": 4.73,
+				"end": 4.99,
+				"index": 33
 			}
 		],
-		"start": 6.08,
-		"end": 11.3
+		"start": 6.52,
+		"end": 11.51
 	},
 	{
 		"words": [
 			{
 				"text": "Why ",
 				"start": 0,
-				"end": 0.38,
+				"end": 0.06,
+				"index": 34
+			},
+			{
+				"text": "you ",
+				"start": 0.08,
+				"end": 0.16,
+				"index": 35
+			},
+			{
+				"text": "wanna ",
+				"start": 0.22,
+				"end": 0.44,
+				"index": 36
+			},
+			{
+				"text": "see ",
+				"start": 0.48,
+				"end": 0.62,
+				"index": 37
+			},
+			{
+				"text": "the ",
+				"start": 0.66,
+				"end": 0.78,
+				"index": 38
+			},
+			{
+				"text": "replay, ",
+				"start": 0.84,
+				"end": 1.38,
 				"index": 39
 			},
 			{
 				"text": "you ",
-				"start": 0.38,
-				"end": 0.58,
+				"start": 1.4,
+				"end": 1.5,
 				"index": 40
 			},
 			{
-				"text": "wanna ",
-				"start": 0.58,
-				"end": 0.76,
+				"text": "know ",
+				"start": 1.52,
+				"end": 1.66,
 				"index": 41
 			},
 			{
-				"text": "see ",
-				"start": 0.76,
-				"end": 1.02,
+				"text": "he ",
+				"start": 1.7,
+				"end": 1.78,
 				"index": 42
 			},
 			{
-				"text": "the ",
-				"start": 1.02,
-				"end": 1.16,
+				"text": "made ",
+				"start": 1.84,
+				"end": 2,
 				"index": 43
 			},
 			{
-				"text": "replay, ",
-				"start": 1.16,
-				"end": 1.58,
-				"index": 44
-			},
-			{
-				"text": "you ",
-				"start": 1.82,
-				"end": 1.88,
-				"index": 45
-			},
-			{
-				"text": "know ",
-				"start": 1.88,
-				"end": 2.08,
-				"index": 46
-			},
-			{
-				"text": "he ",
-				"start": 2.08,
-				"end": 2.2,
-				"index": 47
-			},
-			{
-				"text": "made ",
-				"start": 2.2,
-				"end": 2.38,
-				"index": 48
-			},
-			{
 				"text": "it",
-				"start": 2.38,
-				"end": 2.52,
-				"index": 49
+				"start": 2.06,
+				"end": 2.1,
+				"index": 44
 			}
 		],
-		"start": 11.3,
-		"end": 13.82
+		"start": 11.83,
+		"end": 13.93
 	},
 	{
 		"words": [
 			{
 				"text": "The ",
 				"start": 0,
-				"end": 0.12,
-				"index": 50
+				"end": 0.06,
+				"index": 45
 			},
 			{
 				"text": "league ",
-				"start": 0.12,
-				"end": 0.22,
-				"index": 51
+				"start": 0.08,
+				"end": 0.2,
+				"index": 46
 			},
 			{
 				"text": "don't ",
 				"start": 0.22,
-				"end": 0.44,
-				"index": 52
+				"end": 0.36,
+				"index": 47
 			},
 			{
 				"text": "know ",
-				"start": 0.44,
+				"start": 0.38,
 				"end": 0.54,
-				"index": 53
+				"index": 48
 			},
 			{
 				"text": "that ",
-				"start": 0.54,
+				"start": 0.56,
 				"end": 0.68,
-				"index": 54
+				"index": 49
 			},
 			{
 				"text": "they ",
-				"start": 0.68,
+				"start": 0.7,
 				"end": 0.84,
-				"index": 55
+				"index": 50
 			},
 			{
 				"text": "contribute ",
-				"start": 0.84,
-				"end": 1.12,
-				"index": 56
+				"start": 0.88,
+				"end": 1.36,
+				"index": 51
 			},
 			{
 				"text": "to ",
-				"start": 1.12,
-				"end": 1.48,
-				"index": 57
+				"start": 1.4,
+				"end": 1.5,
+				"index": 52
 			},
 			{
 				"text": "his ",
-				"start": 1.48,
-				"end": 1.68,
-				"index": 58
+				"start": 1.54,
+				"end": 1.64,
+				"index": 53
 			},
 			{
 				"text": "greatness, ",
-				"start": 1.68,
-				"end": 1.96,
-				"index": 59
+				"start": 1.7,
+				"end": 2.04,
+				"index": 54
 			},
 			{
 				"text": "say ",
-				"start": 2.04,
-				"end": 2.2,
-				"index": 60
+				"start": 2.06,
+				"end": 2.22,
+				"index": 55
 			},
 			{
 				"text": "he ",
-				"start": 2.2,
-				"end": 2.34,
-				"index": 61
+				"start": 2.24,
+				"end": 2.32,
+				"index": 56
 			},
 			{
 				"text": "pay ",
 				"start": 2.34,
-				"end": 2.56,
-				"index": 62
+				"end": 2.58,
+				"index": 57
 			},
 			{
 				"text": "me",
-				"start": 2.56,
-				"end": 2.72,
-				"index": 63
+				"start": 2.6,
+				"end": 2.64,
+				"index": 58
 			}
 		],
-		"start": 13.82,
-		"end": 16.54
+		"start": 13.95,
+		"end": 16.59
 	},
 	{
 		"words": [
 			{
 				"text": "Say ",
 				"start": 0,
-				"end": 0.62,
-				"index": 64
+				"end": 0.18,
+				"index": 59
 			},
 			{
 				"text": "he ",
-				"start": 0.62,
-				"end": 0.82,
-				"index": 65
+				"start": 0.22,
+				"end": 0.3,
+				"index": 60
 			},
 			{
 				"text": "don't ",
-				"start": 0.82,
-				"end": 1.02,
-				"index": 66
+				"start": 0.34,
+				"end": 0.48,
+				"index": 61
 			},
 			{
 				"text": "hang ",
-				"start": 1.02,
-				"end": 1.2,
-				"index": 67
+				"start": 0.52,
+				"end": 0.7,
+				"index": 62
 			},
 			{
 				"text": "around ",
-				"start": 1.2,
-				"end": 1.4,
-				"index": 68
+				"start": 0.76,
+				"end": 1.06,
+				"index": 63
 			},
 			{
 				"text": "Kyrie, ",
-				"start": 1.4,
-				"end": 1.88,
-				"index": 69
+				"start": 1.12,
+				"end": 1.52,
+				"index": 64
 			},
 			{
 				"text": "only ",
-				"start": 2.04,
-				"end": 2.18,
-				"index": 70
+				"start": 1.54,
+				"end": 1.76,
+				"index": 65
 			},
 			{
 				"text": "Stefan",
-				"start": 2.18,
-				"end": 2.6,
-				"index": 71
+				"start": 1.8,
+				"end": 2.46,
+				"index": 66
 			}
 		],
-		"start": 16.54,
-		"end": 19.14
+		"start": 17.18,
+		"end": 19.64
 	},
 	{
 		"words": [
 			{
 				"text": "Think ",
 				"start": 0,
-				"end": 0.7,
-				"index": 72
+				"end": 0.38,
+				"index": 67
 			},
 			{
 				"text": "you ",
-				"start": 0.7,
-				"end": 0.9,
-				"index": 73
+				"start": 0.4,
+				"end": 0.5,
+				"index": 68
 			},
 			{
 				"text": "gon' ",
-				"start": 0.9,
-				"end": 1.06,
-				"index": 74
+				"start": 0.52,
+				"end": 0.66,
+				"index": 69
 			},
 			{
 				"text": "score ",
-				"start": 1.08,
-				"end": 1.18,
-				"index": 75
+				"start": 0.68,
+				"end": 0.9,
+				"index": 70
 			},
 			{
 				"text": "on ",
-				"start": 1.18,
-				"end": 1.42,
-				"index": 76
+				"start": 0.96,
+				"end": 1.02,
+				"index": 71
 			},
 			{
 				"text": "Bron ",
-				"start": 1.42,
-				"end": 1.56,
-				"index": 77
+				"start": 1.06,
+				"end": 1.24,
+				"index": 72
 			},
 			{
 				"text": "that ",
-				"start": 1.56,
-				"end": 1.72,
-				"index": 78
+				"start": 1.26,
+				"end": 1.38,
+				"index": 73
 			},
 			{
 				"text": "easy, ",
-				"start": 1.72,
-				"end": 2,
-				"index": 79
+				"start": 1.44,
+				"end": 1.68,
+				"index": 74
 			},
 			{
 				"text": "what ",
-				"start": 2.1,
-				"end": 2.2,
-				"index": 80
+				"start": 1.7,
+				"end": 1.84,
+				"index": 75
 			},
 			{
 				"text": "you ",
-				"start": 2.2,
-				"end": 2.36,
-				"index": 81
+				"start": 1.86,
+				"end": 2,
+				"index": 76
 			},
 			{
 				"text": "laced ",
-				"start": 2.36,
-				"end": 2.66,
-				"index": 82
+				"start": 2.04,
+				"end": 2.28,
+				"index": 77
 			},
 			{
-				"text": "with",
-				"start": 2.66,
-				"end": 2.88,
-				"index": 83
+				"text": "with?",
+				"start": 2.34,
+				"end": 2.56,
+				"index": 78
 			}
 		],
-		"start": 19.14,
-		"end": 22.02
+		"start": 19.62,
+		"end": 22.18
 	},
 	{
 		"words": [
 			{
 				"text": "He ",
 				"start": 0,
-				"end": 0.36,
-				"index": 84
+				"end": 0.3,
+				"index": 79
 			},
 			{
 				"text": "made ",
 				"start": 0.36,
-				"end": 0.7,
-				"index": 85
+				"end": 0.48,
+				"index": 80
 			},
 			{
 				"text": "a ",
-				"start": 0.7,
-				"end": 0.78,
-				"index": 86
+				"start": 0.54,
+				"end": 0.58,
+				"index": 81
 			},
 			{
 				"text": "teammate, ",
-				"start": 0.78,
-				"end": 1.08,
-				"index": 87
+				"start": 0.62,
+				"end": 0.98,
+				"index": 82
 			},
 			{
-				"text": "ooh ",
-				"start": 1.22,
-				"end": 1.26,
-				"index": 88
+				"text": "ooh, ",
+				"start": 1,
+				"end": 1.14,
+				"index": 83
 			},
 			{
 				"text": "that's ",
-				"start": 1.26,
-				"end": 1.48,
-				"index": 89
+				"start": 1.16,
+				"end": 1.28,
+				"index": 84
 			},
 			{
 				"text": "greatness",
-				"start": 1.48,
-				"end": 1.82,
-				"index": 90
+				"start": 1.34,
+				"end": 1.8,
+				"index": 85
 			}
 		],
-		"start": 22.02,
-		"end": 23.84
+		"start": 22.31,
+		"end": 24.11
 	},
 	{
 		"words": [
 			{
 				"text": "Hold ",
 				"start": 0,
-				"end": 0.52,
-				"index": 91
+				"end": 0.18,
+				"index": 86
 			},
 			{
-				"text": "on ",
+				"text": "on, ",
+				"start": 0.24,
+				"end": 0.32,
+				"index": 87
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.34,
+				"end": 0.5,
+				"index": 88
+			},
+			{
+				"text": "he ",
 				"start": 0.52,
-				"end": 0.66,
-				"index": 92
-			},
-			{
-				"text": "Bronny, ",
-				"start": 0.66,
-				"end": 0.98,
-				"index": 93
+				"end": 0.6,
+				"index": 89
 			},
 			{
 				"text": "chase ",
-				"start": 0.98,
-				"end": 1.18,
-				"index": 94
+				"start": 0.64,
+				"end": 0.94,
+				"index": 90
 			},
 			{
-				"text": "him, ",
-				"start": 1.18,
-				"end": 1.56,
-				"index": 95
+				"text": "him",
+				"start": 0.96,
+				"end": 1.3,
+				"index": 91
+			}
+		],
+		"start": 24.29,
+		"end": 25.59
+	},
+	{
+		"words": [
+			{
+				"text": "Block ",
+				"start": 0,
+				"end": 0.22,
+				"index": 92
 			},
 			{
-				"text": "block ",
-				"start": 1.58,
-				"end": 1.84,
-				"index": 96
-			},
-			{
-				"text": "him ",
-				"start": 1.84,
-				"end": 2.02,
-				"index": 97
+				"text": "it ",
+				"start": 0.28,
+				"end": 0.34,
+				"index": 93
 			},
 			{
 				"text": "from ",
-				"start": 2.02,
-				"end": 2.16,
-				"index": 98
+				"start": 0.38,
+				"end": 0.5,
+				"index": 94
 			},
 			{
 				"text": "behind, ",
-				"start": 2.16,
-				"end": 2.42,
-				"index": 99
+				"start": 0.54,
+				"end": 0.86,
+				"index": 95
 			},
 			{
 				"text": "don't ",
-				"start": 2.56,
-				"end": 2.72,
-				"index": 100
+				"start": 0.88,
+				"end": 1,
+				"index": 96
 			},
 			{
 				"text": "try ",
-				"start": 2.72,
-				"end": 2.84,
-				"index": 101
+				"start": 1.02,
+				"end": 1.16,
+				"index": 97
 			},
 			{
 				"text": "that ",
-				"start": 2.84,
-				"end": 2.96,
-				"index": 102
+				"start": 1.18,
+				"end": 1.32,
+				"index": 98
 			},
 			{
 				"text": "shit ",
-				"start": 2.96,
-				"end": 3.16,
-				"index": 103
+				"start": 1.36,
+				"end": 1.56,
+				"index": 99
 			},
 			{
 				"text": "again",
-				"start": 3.16,
-				"end": 3.48,
-				"index": 104
+				"start": 1.6,
+				"end": 1.82,
+				"index": 100
 			}
 		],
-		"start": 23.84,
-		"end": 27.32
+		"start": 25.61,
+		"end": 27.43
 	},
 	{
 		"words": [
 			{
 				"text": "Shakin' ",
 				"start": 0,
-				"end": 0.36,
-				"index": 105
+				"end": 0.32,
+				"index": 101
 			},
 			{
 				"text": "the ",
 				"start": 0.36,
 				"end": 0.48,
+				"index": 102
+			},
+			{
+				"text": "league ",
+				"start": 0.54,
+				"end": 0.82,
+				"index": 103
+			},
+			{
+				"text": "up, ",
+				"start": 1.04,
+				"end": 1.1,
+				"index": 104
+			},
+			{
+				"text": "droppin'",
+				"start": 1.14,
+				"end": 1.48,
+				"index": 105
+			}
+		],
+		"start": 27.47,
+		"end": 28.95
+	},
+	{
+		"words": [
+			{
+				"text": "Pody ",
+				"start": 0,
+				"end": 0.3,
 				"index": 106
 			},
 			{
-				"text": "league, ",
-				"start": 0.48,
-				"end": 0.82,
+				"text": "when ",
+				"start": 0.32,
+				"end": 0.44,
 				"index": 107
 			},
 			{
-				"text": "good, ",
-				"start": 0.86,
-				"end": 1.1,
+				"text": "I'm ",
+				"start": 0.5,
+				"end": 0.58,
 				"index": 108
 			},
 			{
-				"text": "droppin' ",
-				"start": 1.12,
-				"end": 1.52,
+				"text": "sweatin'",
+				"start": 0.62,
+				"end": 0.98,
 				"index": 109
-			},
+			}
+		],
+		"start": 29,
+		"end": 29.98
+	},
+	{
+		"words": [
 			{
-				"text": "40 ",
-				"start": 1.52,
-				"end": 1.78,
+				"text": "It ",
+				"start": 0,
+				"end": 0.08,
 				"index": 110
 			},
 			{
-				"text": "when ",
-				"start": 1.78,
-				"end": 2,
+				"text": "ain't ",
+				"start": 0.12,
+				"end": 0.26,
 				"index": 111
 			},
 			{
-				"text": "I'm ",
-				"start": 2,
-				"end": 2.16,
+				"text": "never ",
+				"start": 0.3,
+				"end": 0.52,
 				"index": 112
 			},
 			{
-				"text": "sweatin', ",
-				"start": 2.16,
-				"end": 2.54,
+				"text": "sweet, ",
+				"start": 0.56,
+				"end": 0.8,
 				"index": 113
 			},
 			{
-				"text": "it ",
-				"start": 2.54,
-				"end": 2.7,
+				"text": "I ",
+				"start": 0.82,
+				"end": 0.92,
 				"index": 114
 			},
 			{
-				"text": "ain't ",
-				"start": 2.7,
-				"end": 2.96,
+				"text": "hate ",
+				"start": 0.98,
+				"end": 1.08,
 				"index": 115
 			},
 			{
-				"text": "never ",
-				"start": 2.96,
-				"end": 3.08,
+				"text": "I'm ",
+				"start": 1.12,
+				"end": 1.2,
 				"index": 116
 			},
 			{
-				"text": "sweet ",
-				"start": 3.08,
-				"end": 3.36,
+				"text": "readin' ",
+				"start": 1.24,
+				"end": 1.54,
 				"index": 117
 			},
 			{
-				"text": "I ",
-				"start": 3.36,
-				"end": 3.52,
+				"text": "comments ",
+				"start": 1.58,
+				"end": 1.9,
 				"index": 118
 			},
 			{
-				"text": "hate ",
-				"start": 3.52,
-				"end": 3.7,
+				"text": "about ",
+				"start": 1.98,
+				"end": 2.2,
 				"index": 119
 			},
 			{
-				"text": "I'm ",
-				"start": 3.7,
-				"end": 3.86,
+				"text": "Mike ",
+				"start": 2.24,
+				"end": 2.56,
 				"index": 120
 			},
 			{
-				"text": "readin' ",
-				"start": 3.86,
-				"end": 4.16,
-				"index": 121
-			},
-			{
-				"text": "comments ",
-				"start": 4.16,
-				"end": 4.44,
-				"index": 122
-			},
-			{
-				"text": "about ",
-				"start": 4.44,
-				"end": 4.74,
-				"index": 123
-			},
-			{
-				"text": "Mike ",
-				"start": 4.74,
-				"end": 5.04,
-				"index": 124
-			},
-			{
 				"text": "again",
-				"start": 5.04,
-				"end": 5.3,
-				"index": 125
+				"start": 2.99,
+				"end": 3.09,
+				"index": 121
 			}
 		],
-		"start": 27.32,
-		"end": 32.62
+		"start": 30.06,
+		"end": 33.15
 	},
 	{
 		"words": [
 			{
 				"text": "If ",
 				"start": 0,
-				"end": 0.5,
-				"index": 126
+				"end": 0.06,
+				"index": 122
 			},
 			{
 				"text": "he ",
-				"start": 0.5,
-				"end": 0.74,
-				"index": 127
+				"start": 0.14,
+				"end": 0.24,
+				"index": 123
 			},
 			{
 				"text": "ain't ",
-				"start": 0.74,
-				"end": 0.96,
-				"index": 128
+				"start": 0.28,
+				"end": 0.4,
+				"index": 124
 			},
 			{
 				"text": "got ",
-				"start": 0.96,
-				"end": 1.02,
-				"index": 129
+				"start": 0.44,
+				"end": 0.58,
+				"index": 125
 			},
 			{
 				"text": "no ",
-				"start": 1.02,
-				"end": 1.18,
-				"index": 130
+				"start": 0.6,
+				"end": 0.7,
+				"index": 126
 			},
 			{
-				"text": "50k, ",
-				"start": 1.18,
-				"end": 1.72,
-				"index": 131
+				"text": "50K, ",
+				"start": 0.72,
+				"end": 1.38,
+				"index": 127
 			},
 			{
 				"text": "nigga, ",
-				"start": 1.86,
-				"end": 2.08,
-				"index": 132
+				"start": 1.42,
+				"end": 1.72,
+				"index": 128
 			},
 			{
 				"text": "calm ",
-				"start": 2.18,
-				"end": 2.44,
-				"index": 133
+				"start": 1.74,
+				"end": 2.08,
+				"index": 129
 			},
 			{
 				"text": "down",
-				"start": 2.44,
-				"end": 2.82,
-				"index": 134
+				"start": 2.12,
+				"end": 2.4,
+				"index": 130
 			}
 		],
-		"start": 32.62,
-		"end": 35.44
+		"start": 33.22,
+		"end": 35.62
 	},
 	{
 		"words": [
 			{
 				"text": "A ",
 				"start": 0,
-				"end": 0.4,
-				"index": 135
+				"end": 0.1,
+				"index": 131
 			},
 			{
 				"text": "known ",
-				"start": 0.4,
-				"end": 0.66,
-				"index": 136
+				"start": 0.14,
+				"end": 0.4,
+				"index": 132
 			},
 			{
-				"text": "GOAT, ",
-				"start": 0.66,
-				"end": 1.06,
-				"index": 137
+				"text": "vote, ",
+				"start": 0.42,
+				"end": 0.72,
+				"index": 133
 			},
 			{
 				"text": "you ",
-				"start": 1.06,
-				"end": 1.16,
-				"index": 138
+				"start": 0.74,
+				"end": 0.84,
+				"index": 134
 			},
 			{
 				"text": "could ",
-				"start": 1.16,
-				"end": 1.28,
-				"index": 139
+				"start": 0.86,
+				"end": 1.04,
+				"index": 135
 			},
 			{
 				"text": "feed ",
-				"start": 1.28,
-				"end": 1.6,
-				"index": 140
+				"start": 1.1,
+				"end": 1.24,
+				"index": 136
 			},
 			{
 				"text": "him ",
-				"start": 1.6,
-				"end": 1.72,
-				"index": 141
+				"start": 1.26,
+				"end": 1.34,
+				"index": 137
 			},
 			{
 				"text": "with ",
-				"start": 1.72,
-				"end": 1.86,
-				"index": 142
+				"start": 1.38,
+				"end": 1.5,
+				"index": 138
 			},
 			{
 				"text": "your ",
-				"start": 1.86,
-				"end": 1.96,
-				"index": 143
+				"start": 1.54,
+				"end": 1.7,
+				"index": 139
 			},
 			{
 				"text": "palms ",
-				"start": 1.96,
-				"end": 2.36,
-				"index": 144
+				"start": 1.74,
+				"end": 2.04,
+				"index": 140
 			},
 			{
 				"text": "out ",
-				"start": 2.36,
-				"end": 2.6,
-				"index": 145
+				"start": 2.14,
+				"end": 2.26,
+				"index": 141
 			},
 			{
 				"text": "I ",
-				"start": 2.6,
-				"end": 2.72,
-				"index": 146
+				"start": 2.3,
+				"end": 2.38,
+				"index": 142
 			},
 			{
 				"text": "left ",
-				"start": 2.72,
-				"end": 2.96,
-				"index": 147
+				"start": 2.42,
+				"end": 2.62,
+				"index": 143
 			},
 			{
 				"text": "class, ",
-				"start": 2.96,
-				"end": 3.22,
-				"index": 148
+				"start": 2.66,
+				"end": 2.96,
+				"index": 144
 			},
 			{
 				"text": "I'm ",
-				"start": 3.34,
-				"end": 3.48,
-				"index": 149
+				"start": 3.02,
+				"end": 3.27,
+				"index": 145
 			},
 			{
 				"text": "all ",
-				"start": 3.48,
-				"end": 3.58,
-				"index": 150
+				"start": 3.28,
+				"end": 3.37,
+				"index": 146
 			},
 			{
 				"text": "up ",
-				"start": 3.58,
-				"end": 3.74,
-				"index": 151
+				"start": 3.38,
+				"end": 3.42,
+				"index": 147
 			},
 			{
 				"text": "in ",
-				"start": 3.74,
-				"end": 3.88,
-				"index": 152
+				"start": 3.45,
+				"end": 3.52,
+				"index": 148
 			},
 			{
 				"text": "the ",
-				"start": 3.88,
-				"end": 3.98,
-				"index": 153
+				"start": 3.55,
+				"end": 3.67,
+				"index": 149
 			},
 			{
 				"text": "bathroom ",
-				"start": 3.98,
-				"end": 4.36,
-				"index": 154
+				"start": 3.77,
+				"end": 4.05,
+				"index": 150
 			},
 			{
 				"text": "watchin' ",
-				"start": 4.36,
-				"end": 4.74,
-				"index": 155
+				"start": 4.07,
+				"end": 4.37,
+				"index": 151
 			},
 			{
 				"text": "Bron ",
-				"start": 4.74,
-				"end": 4.9,
-				"index": 156
+				"start": 4.41,
+				"end": 4.73,
+				"index": 152
 			},
 			{
 				"text": "now",
-				"start": 4.9,
-				"end": 5.22,
-				"index": 157
+				"start": 4.77,
+				"end": 5.25,
+				"index": 153
 			}
 		],
-		"start": 35.44,
-		"end": 40.66
+		"start": 35.91,
+		"end": 41.16
 	},
 	{
 		"words": [
 			{
 				"text": "A ",
 				"start": 0,
-				"end": 0.5,
-				"index": 158
+				"end": 0.1,
+				"index": 154
 			},
 			{
 				"text": "rim ",
-				"start": 0.5,
-				"end": 0.74,
-				"index": 159
+				"start": 0.16,
+				"end": 0.4,
+				"index": 155
 			},
 			{
 				"text": "shaker, ",
-				"start": 0.74,
-				"end": 1.16,
-				"index": 160
+				"start": 0.42,
+				"end": 0.78,
+				"index": 156
 			},
 			{
 				"text": "he ",
-				"start": 1.24,
-				"end": 1.3,
-				"index": 161
+				"start": 0.8,
+				"end": 0.9,
+				"index": 157
 			},
 			{
 				"text": "gon' ",
-				"start": 1.3,
-				"end": 1.5,
-				"index": 162
+				"start": 0.94,
+				"end": 1.08,
+				"index": 158
 			},
 			{
 				"text": "break ",
-				"start": 1.6,
-				"end": 1.7,
-				"index": 163
+				"start": 1.12,
+				"end": 1.3,
+				"index": 159
 			},
 			{
 				"text": "it, ",
-				"start": 1.7,
-				"end": 1.88,
-				"index": 164
+				"start": 1.36,
+				"end": 1.44,
+				"index": 160
 			},
 			{
 				"text": "get ",
-				"start": 1.92,
-				"end": 2.02,
-				"index": 165
+				"start": 1.46,
+				"end": 1.58,
+				"index": 161
 			},
 			{
 				"text": "a ",
-				"start": 2.02,
-				"end": 2.14,
-				"index": 166
+				"start": 1.64,
+				"end": 1.7,
+				"index": 162
 			},
 			{
 				"text": "bandage ",
-				"start": 2.14,
-				"end": 2.5,
-				"index": 167
+				"start": 1.72,
+				"end": 2.04,
+				"index": 163
 			},
 			{
 				"text": "for ",
-				"start": 2.5,
-				"end": 2.64,
-				"index": 168
+				"start": 2.1,
+				"end": 2.38,
+				"index": 164
 			},
 			{
 				"text": "him",
-				"start": 2.64,
-				"end": 2.84,
-				"index": 169
+				"start": 2.6,
+				"end": 2.66,
+				"index": 165
 			}
 		],
-		"start": 40.66,
-		"end": 43.5
+		"start": 41.21,
+		"end": 43.87
 	},
 	{
 		"words": [
 			{
-				"text": "Ayy, ",
+				"text": "Ay, ",
 				"start": 0,
-				"end": 0.36,
-				"index": 170
+				"end": 0.06,
+				"index": 166
 			},
 			{
 				"text": "Luka ",
-				"start": 0.36,
-				"end": 0.58,
-				"index": 171
+				"start": 0.12,
+				"end": 0.4,
+				"index": 167
 			},
 			{
 				"text": "pass ",
-				"start": 0.58,
-				"end": 0.86,
-				"index": 172
+				"start": 0.44,
+				"end": 0.68,
+				"index": 168
 			},
 			{
 				"text": "the ",
-				"start": 0.86,
+				"start": 0.7,
+				"end": 0.8,
+				"index": 169
+			},
+			{
+				"text": "bag, ",
+				"start": 0.84,
 				"end": 1.08,
-				"index": 173
+				"index": 170
 			},
 			{
-				"text": "bag ",
-				"start": 1.08,
-				"end": 1.28,
-				"index": 174
-			},
-			{
-				"text": "though ",
-				"start": 1.28,
-				"end": 1.48,
-				"index": 175
+				"text": "though, ",
+				"start": 1.1,
+				"end": 1.3,
+				"index": 171
 			},
 			{
 				"text": "so ",
-				"start": 1.48,
-				"end": 1.66,
-				"index": 176
+				"start": 1.32,
+				"end": 1.42,
+				"index": 172
 			},
 			{
 				"text": "he ",
-				"start": 1.66,
-				"end": 1.8,
-				"index": 177
+				"start": 1.46,
+				"end": 1.54,
+				"index": 173
 			},
 			{
 				"text": "can ",
-				"start": 1.8,
-				"end": 1.94,
-				"index": 178
+				"start": 1.58,
+				"end": 1.68,
+				"index": 174
 			},
 			{
 				"text": "slam ",
-				"start": 1.94,
-				"end": 2.24,
-				"index": 179
+				"start": 1.74,
+				"end": 2,
+				"index": 175
 			},
 			{
 				"text": "it ",
-				"start": 2.24,
-				"end": 2.38,
-				"index": 180
+				"start": 2.04,
+				"end": 2.08,
+				"index": 176
 			},
 			{
 				"text": "on ",
-				"start": 2.38,
-				"end": 2.48,
-				"index": 181
+				"start": 2.18,
+				"end": 2.22,
+				"index": 177
 			},
 			{
 				"text": "him",
-				"start": 2.48,
-				"end": 2.66,
-				"index": 182
+				"start": 2.28,
+				"end": 2.54,
+				"index": 178
 			}
 		],
-		"start": 43.5,
-		"end": 46.16
+		"start": 43.9,
+		"end": 46.44
 	}
 ]

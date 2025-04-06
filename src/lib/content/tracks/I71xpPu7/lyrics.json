@@ -2,931 +2,1111 @@
 	{
 		"words": [
 			{
-				"text": "and ",
-				"start": 9.56,
-				"end": 9.96,
+				"text": "My ",
+				"start": 0,
+				"end": 1.17,
 				"index": 0
 			},
 			{
-				"text": "everybody ",
-				"start": 16.04,
-				"end": 16.34,
+				"text": "king ",
+				"start": 1.63,
+				"end": 3.26,
 				"index": 1
 			},
 			{
-				"text": "singin' ",
-				"start": 16.34,
-				"end": 16.9,
+				"text": "my ",
+				"start": 5.47,
+				"end": 5.91,
 				"index": 2
 			},
 			{
-				"text": "bout ",
-				"start": 16.9,
-				"end": 16.98,
+				"text": "king",
+				"start": 5.94,
+				"end": 7.24,
 				"index": 3
-			},
-			{
-				"text": "LeBron ",
-				"start": 16.98,
-				"end": 17.32,
-				"index": 4
-			},
-			{
-				"text": "but ",
-				"start": 17.32,
-				"end": 17.48,
-				"index": 5
-			},
-			{
-				"text": "I'm ",
-				"start": 17.48,
-				"end": 17.6,
-				"index": 6
-			},
-			{
-				"text": "gon' ",
-				"start": 17.6,
-				"end": 17.68,
-				"index": 7
-			},
-			{
-				"text": "spit ",
-				"start": 17.76,
-				"end": 17.86,
-				"index": 8
-			},
-			{
-				"text": "some ",
-				"start": 17.86,
-				"end": 18.18,
-				"index": 9
-			},
-			{
-				"text": "put ",
-				"start": 18.18,
-				"end": 18.44,
-				"index": 10
-			},
-			{
-				"text": "LeBron ",
-				"start": 18.44,
-				"end": 18.82,
-				"index": 11
-			},
-			{
-				"text": "in ",
-				"start": 18.82,
-				"end": 18.98,
-				"index": 12
-			},
-			{
-				"text": "your ",
-				"start": 18.98,
-				"end": 19.1,
-				"index": 13
-			},
-			{
-				"text": "parlay ",
-				"start": 19.1,
-				"end": 19.56,
-				"index": 14
-			},
-			{
-				"text": "and ",
-				"start": 19.56,
-				"end": 19.74,
-				"index": 15
-			},
-			{
-				"text": "you ",
-				"start": 19.74,
-				"end": 19.86,
-				"index": 16
-			},
-			{
-				"text": "gon' ",
-				"start": 19.86,
-				"end": 19.98,
-				"index": 17
-			},
-			{
-				"text": "hit ",
-				"start": 20.08,
-				"end": 20.18,
-				"index": 18
-			},
-			{
-				"text": "some ",
-				"start": 20.18,
-				"end": 20.42,
-				"index": 19
-			},
-			{
-				"text": "King ",
-				"start": 20.42,
-				"end": 20.72,
-				"index": 20
-			},
-			{
-				"text": "James ",
-				"start": 20.72,
-				"end": 21.08,
-				"index": 21
-			},
-			{
-				"text": "dominate ",
-				"start": 21.08,
-				"end": 21.42,
-				"index": 22
-			},
-			{
-				"text": "the ",
-				"start": 21.42,
-				"end": 21.7,
-				"index": 23
-			},
-			{
-				"text": "game ",
-				"start": 21.7,
-				"end": 21.92,
-				"index": 24
-			},
-			{
-				"text": "since ",
-				"start": 21.92,
-				"end": 22.1,
-				"index": 25
-			},
-			{
-				"text": "like ",
-				"start": 22.1,
-				"end": 22.28,
-				"index": 26
-			},
-			{
-				"text": "03 ",
-				"start": 22.28,
-				"end": 22.58,
-				"index": 27
-			},
-			{
-				"text": "that ",
-				"start": 22.58,
-				"end": 22.88,
-				"index": 28
-			},
-			{
-				"text": "nigga ",
-				"start": 22.88,
-				"end": 23.08,
-				"index": 29
-			},
-			{
-				"text": "Bron ",
-				"start": 23.08,
-				"end": 23.28,
-				"index": 30
-			},
-			{
-				"text": "probably ",
-				"start": 23.28,
-				"end": 23.5,
-				"index": 31
-			},
-			{
-				"text": "hit ",
-				"start": 23.5,
-				"end": 23.82,
-				"index": 32
-			},
-			{
-				"text": "more ",
-				"start": 23.82,
-				"end": 23.96,
-				"index": 33
-			},
-			{
-				"text": "shots ",
-				"start": 23.96,
-				"end": 24.22,
-				"index": 34
-			},
-			{
-				"text": "than ",
-				"start": 24.22,
-				"end": 24.44,
-				"index": 35
-			},
-			{
-				"text": "the ",
-				"start": 24.44,
-				"end": 24.54,
-				"index": 36
-			},
-			{
-				"text": "police ",
-				"start": 24.54,
-				"end": 24.82,
-				"index": 37
-			},
-			{
-				"text": "man ",
-				"start": 24.82,
-				"end": 25.04,
-				"index": 38
-			},
-			{
-				"text": "I'm ",
-				"start": 25.04,
-				"end": 25.18,
-				"index": 39
-			},
-			{
-				"text": "sick ",
-				"start": 25.18,
-				"end": 25.36,
-				"index": 40
-			},
-			{
-				"text": "of ",
-				"start": 25.36,
-				"end": 25.46,
-				"index": 41
-			},
-			{
-				"text": "all ",
-				"start": 25.46,
-				"end": 25.6,
-				"index": 42
-			},
-			{
-				"text": "these ",
-				"start": 25.6,
-				"end": 25.74,
-				"index": 43
-			},
-			{
-				"text": "niggas ",
-				"start": 25.74,
-				"end": 26.02,
-				"index": 44
-			},
-			{
-				"text": "sayin' ",
-				"start": 26.02,
-				"end": 26.22,
-				"index": 45
-			},
-			{
-				"text": "Jordan ",
-				"start": 26.3,
-				"end": 26.58,
-				"index": 46
-			},
-			{
-				"text": "is ",
-				"start": 26.58,
-				"end": 26.74,
-				"index": 47
-			},
-			{
-				"text": "the ",
-				"start": 26.74,
-				"end": 26.84,
-				"index": 48
-			},
-			{
-				"text": "GOAT ",
-				"start": 26.84,
-				"end": 27.16,
-				"index": 49
-			},
-			{
-				"text": "old ",
-				"start": 27.16,
-				"end": 27.42,
-				"index": 50
-			},
-			{
-				"text": "niggas ",
-				"start": 27.42,
-				"end": 27.74,
-				"index": 51
-			},
-			{
-				"text": "suckin' ",
-				"start": 27.74,
-				"end": 28,
-				"index": 52
-			},
-			{
-				"text": "Jordan ",
-				"start": 28.04,
-				"end": 28.28,
-				"index": 53
-			},
-			{
-				"text": "they ",
-				"start": 28.28,
-				"end": 28.46,
-				"index": 54
-			},
-			{
-				"text": "got ",
-				"start": 28.46,
-				"end": 28.56,
-				"index": 55
-			},
-			{
-				"text": "Jordan ",
-				"start": 28.56,
-				"end": 28.88,
-				"index": 56
-			},
-			{
-				"text": "in ",
-				"start": 28.88,
-				"end": 29.02,
-				"index": 57
-			},
-			{
-				"text": "they ",
-				"start": 29.02,
-				"end": 29.1,
-				"index": 58
-			},
-			{
-				"text": "throat ",
-				"start": 29.1,
-				"end": 29.36,
-				"index": 59
-			},
-			{
-				"text": "longevity ",
-				"start": 29.36,
-				"end": 29.84,
-				"index": 60
-			},
-			{
-				"text": "or ",
-				"start": 29.84,
-				"end": 30.26,
-				"index": 61
-			},
-			{
-				"text": "not ",
-				"start": 30.26,
-				"end": 30.48,
-				"index": 62
-			},
-			{
-				"text": "Bron ",
-				"start": 30.48,
-				"end": 30.74,
-				"index": 63
-			},
-			{
-				"text": "wins ",
-				"start": 30.74,
-				"end": 31.08,
-				"index": 64
-			},
-			{
-				"text": "in ",
-				"start": 31.08,
-				"end": 31.36,
-				"index": 65
-			},
-			{
-				"text": "the ",
-				"start": 31.36,
-				"end": 31.4,
-				"index": 66
-			},
-			{
-				"text": "story ",
-				"start": 31.4,
-				"end": 31.68,
-				"index": 67
-			},
-			{
-				"text": "25",
-				"start": 31.68,
-				"end": 32.06,
-				"index": 68
-			},
-			{
-				"text": "-89 ",
-				"start": 32.06,
-				"end": 32.58,
-				"index": 69
-			},
-			{
-				"text": "and ",
-				"start": 32.58,
-				"end": 32.92,
-				"index": 70
-			},
-			{
-				"text": "the ",
-				"start": 32.92,
-				"end": 33.04,
-				"index": 71
-			},
-			{
-				"text": "nigga ",
-				"start": 33.04,
-				"end": 33.24,
-				"index": 72
-			},
-			{
-				"text": "just ",
-				"start": 33.24,
-				"end": 33.42,
-				"index": 73
-			},
-			{
-				"text": "turned ",
-				"start": 33.42,
-				"end": 33.68,
-				"index": 74
-			},
-			{
-				"text": "40 ",
-				"start": 33.68,
-				"end": 33.96,
-				"index": 75
-			},
-			{
-				"text": "man ",
-				"start": 33.96,
-				"end": 34.14,
-				"index": 76
-			},
-			{
-				"text": "the ",
-				"start": 34.14,
-				"end": 34.32,
-				"index": 77
-			},
-			{
-				"text": "way ",
-				"start": 34.32,
-				"end": 34.48,
-				"index": 78
-			},
-			{
-				"text": "that ",
-				"start": 34.48,
-				"end": 34.64,
-				"index": 79
-			},
-			{
-				"text": "he ",
-				"start": 34.64,
-				"end": 34.76,
-				"index": 80
-			},
-			{
-				"text": "dunk ",
-				"start": 34.76,
-				"end": 35.06,
-				"index": 81
-			},
-			{
-				"text": "get ",
-				"start": 35.06,
-				"end": 35.22,
-				"index": 82
-			},
-			{
-				"text": "me ",
-				"start": 35.22,
-				"end": 35.38,
-				"index": 83
-			},
-			{
-				"text": "crunk ",
-				"start": 35.38,
-				"end": 35.66,
-				"index": 84
-			},
-			{
-				"text": "I ",
-				"start": 35.66,
-				"end": 35.82,
-				"index": 85
-			},
-			{
-				"text": "can't ",
-				"start": 35.82,
-				"end": 36.04,
-				"index": 86
-			},
-			{
-				"text": "cap ",
-				"start": 36.04,
-				"end": 36.26,
-				"index": 87
-			},
-			{
-				"text": "nigga ",
-				"start": 36.26,
-				"end": 36.44,
-				"index": 88
-			},
-			{
-				"text": "every ",
-				"start": 36.44,
-				"end": 36.82,
-				"index": 89
-			},
-			{
-				"text": "time ",
-				"start": 36.82,
-				"end": 37.04,
-				"index": 90
-			},
-			{
-				"text": "he ",
-				"start": 37.04,
-				"end": 37.18,
-				"index": 91
-			},
-			{
-				"text": "dunk ",
-				"start": 37.18,
-				"end": 37.34,
-				"index": 92
-			},
-			{
-				"text": "I ",
-				"start": 37.34,
-				"end": 37.44,
-				"index": 93
-			},
-			{
-				"text": "start ",
-				"start": 37.44,
-				"end": 37.62,
-				"index": 94
-			},
-			{
-				"text": "jumpin' ",
-				"start": 37.62,
-				"end": 38.08,
-				"index": 95
-			},
-			{
-				"text": "hear ",
-				"start": 38.08,
-				"end": 38.16,
-				"index": 96
-			},
-			{
-				"text": "the ",
-				"start": 38.16,
-				"end": 38.26,
-				"index": 97
-			},
-			{
-				"text": "clap ",
-				"start": 38.26,
-				"end": 38.46,
-				"index": 98
-			},
-			{
-				"text": "nigga ",
-				"start": 38.46,
-				"end": 38.72,
-				"index": 99
-			},
-			{
-				"text": "you ",
-				"start": 38.72,
-				"end": 39.04,
-				"index": 100
-			},
-			{
-				"text": "can ",
-				"start": 39.04,
-				"end": 39.14,
-				"index": 101
-			},
-			{
-				"text": "hear ",
-				"start": 39.14,
-				"end": 39.36,
-				"index": 102
-			},
-			{
-				"text": "the ",
-				"start": 39.36,
-				"end": 39.46,
-				"index": 103
-			},
-			{
-				"text": "passion ",
-				"start": 39.46,
-				"end": 39.72,
-				"index": 104
-			},
-			{
-				"text": "in ",
-				"start": 39.72,
-				"end": 39.92,
-				"index": 105
-			},
-			{
-				"text": "my ",
-				"start": 39.92,
-				"end": 39.98,
-				"index": 106
-			},
-			{
-				"text": "voice ",
-				"start": 39.98,
-				"end": 40.26,
-				"index": 107
-			},
-			{
-				"text": "when ",
-				"start": 40.26,
-				"end": 40.44,
-				"index": 108
-			},
-			{
-				"text": "I ",
-				"start": 40.44,
-				"end": 40.54,
-				"index": 109
-			},
-			{
-				"text": "rap ",
-				"start": 40.54,
-				"end": 40.8,
-				"index": 110
-			},
-			{
-				"text": "nigga ",
-				"start": 40.8,
-				"end": 41,
-				"index": 111
-			},
-			{
-				"text": "he ",
-				"start": 41,
-				"end": 41.32,
-				"index": 112
-			},
-			{
-				"text": "the ",
-				"start": 41.32,
-				"end": 41.44,
-				"index": 113
-			},
-			{
-				"text": "fuckin' ",
-				"start": 41.44,
-				"end": 41.62,
-				"index": 114
-			},
-			{
-				"text": "GOAT ",
-				"start": 41.76,
-				"end": 41.96,
-				"index": 115
-			},
-			{
-				"text": "he ",
-				"start": 41.96,
-				"end": 42.2,
-				"index": 116
-			},
-			{
-				"text": "the ",
-				"start": 42.2,
-				"end": 42.3,
-				"index": 117
-			},
-			{
-				"text": "number ",
-				"start": 42.3,
-				"end": 42.52,
-				"index": 118
-			},
-			{
-				"text": "one ",
-				"start": 42.52,
-				"end": 42.78,
-				"index": 119
-			},
-			{
-				"text": "black ",
-				"start": 42.78,
-				"end": 43.06,
-				"index": 120
-			},
-			{
-				"text": "nigga",
-				"start": 43.06,
-				"end": 43.34,
-				"index": 121
 			}
 		],
-		"start": -1,
-		"end": 42.34
+		"start": 0.03,
+		"end": 7.27
 	},
 	{
 		"words": [
 			{
-				"text": "I ",
+				"text": "My ",
 				"start": 0,
-				"end": 0.36,
-				"index": 122
+				"end": 0.44,
+				"index": 4
 			},
 			{
-				"text": "love ",
-				"start": 0.36,
-				"end": 0.58,
-				"index": 123
+				"text": "king, ",
+				"start": 0.5,
+				"end": 1.5,
+				"index": 5
 			},
 			{
-				"text": "the ",
-				"start": 0.58,
-				"end": 0.68,
-				"index": 124
+				"text": "my ",
+				"start": 1.52,
+				"end": 1.64,
+				"index": 6
 			},
 			{
-				"text": "way ",
-				"start": 0.68,
-				"end": 0.82,
-				"index": 125
+				"text": "king, ",
+				"start": 1.7,
+				"end": 2.26,
+				"index": 7
+			},
+			{
+				"text": "my ",
+				"start": 2.68,
+				"end": 2.78,
+				"index": 8
+			},
+			{
+				"text": "king",
+				"start": 2.86,
+				"end": 4.1,
+				"index": 9
+			}
+		],
+		"start": 10.02,
+		"end": 14.12
+	},
+	{
+		"words": [
+			{
+				"text": "Man, ",
+				"start": 0,
+				"end": 1.04,
+				"index": 10
+			},
+			{
+				"text": "everybody ",
+				"start": 1.08,
+				"end": 1.52,
+				"index": 11
+			},
+			{
+				"text": "singing ",
+				"start": 1.54,
+				"end": 1.8,
+				"index": 12
+			},
+			{
+				"text": "bout ",
+				"start": 1.82,
+				"end": 1.96,
+				"index": 13
+			},
+			{
+				"text": "LeBron, ",
+				"start": 1.98,
+				"end": 2.3,
+				"index": 14
+			},
+			{
+				"text": "but ",
+				"start": 2.32,
+				"end": 2.4,
+				"index": 15
+			},
+			{
+				"text": "I'm ",
+				"start": 2.42,
+				"end": 2.5,
+				"index": 16
+			},
+			{
+				"text": "gon' ",
+				"start": 2.52,
+				"end": 2.66,
+				"index": 17
+			},
+			{
+				"text": "spit ",
+				"start": 2.68,
+				"end": 2.92,
+				"index": 18
+			},
+			{
+				"text": "some",
+				"start": 2.94,
+				"end": 3.22,
+				"index": 19
+			}
+		],
+		"start": 14.17,
+		"end": 17.39
+	},
+	{
+		"words": [
+			{
+				"text": "Put ",
+				"start": 0,
+				"end": 0.2,
+				"index": 20
 			},
 			{
 				"text": "LeBron ",
-				"start": 0.82,
-				"end": 1.14,
-				"index": 126
+				"start": 0.22,
+				"end": 0.56,
+				"index": 21
 			},
 			{
-				"text": "just ",
-				"start": 1.14,
-				"end": 1.28,
-				"index": 127
+				"text": "in ",
+				"start": 0.6,
+				"end": 0.66,
+				"index": 22
 			},
 			{
-				"text": "get ",
-				"start": 1.28,
-				"end": 1.44,
-				"index": 128
+				"text": "your ",
+				"start": 0.68,
+				"end": 0.84,
+				"index": 23
 			},
 			{
-				"text": "that ",
-				"start": 1.44,
-				"end": 1.54,
-				"index": 129
-			},
-			{
-				"text": "ball ",
-				"start": 1.54,
-				"end": 1.7,
-				"index": 130
+				"text": "parlay ",
+				"start": 0.86,
+				"end": 1.3,
+				"index": 24
 			},
 			{
 				"text": "and ",
-				"start": 1.7,
-				"end": 1.88,
-				"index": 131
+				"start": 1.34,
+				"end": 1.4,
+				"index": 25
 			},
 			{
-				"text": "he ",
-				"start": 1.88,
-				"end": 1.96,
-				"index": 132
+				"text": "you ",
+				"start": 1.42,
+				"end": 1.52,
+				"index": 26
 			},
 			{
-				"text": "attack ",
+				"text": "gon' ",
+				"start": 1.56,
+				"end": 1.72,
+				"index": 27
+			},
+			{
+				"text": "hit ",
+				"start": 1.76,
+				"end": 1.92,
+				"index": 28
+			},
+			{
+				"text": "some ",
 				"start": 1.96,
-				"end": 2.18,
-				"index": 133
+				"end": 2.24,
+				"index": 29
 			},
 			{
-				"text": "niggas ",
-				"start": 2.18,
-				"end": 2.6,
-				"index": 134
+				"text": "King ",
+				"start": 2.28,
+				"end": 2.56,
+				"index": 30
 			},
 			{
-				"text": "and ",
-				"start": 2.6,
-				"end": 2.82,
-				"index": 135
+				"text": "James ",
+				"start": 2.58,
+				"end": 2.84,
+				"index": 31
 			},
 			{
-				"text": "he ",
-				"start": 2.82,
-				"end": 3.04,
-				"index": 136
+				"text": "dominate ",
+				"start": 2.88,
+				"end": 3.24,
+				"index": 32
 			},
 			{
-				"text": "a ",
-				"start": 3.04,
-				"end": 3.2,
-				"index": 137
+				"text": "the ",
+				"start": 3.26,
+				"end": 3.38,
+				"index": 33
 			},
 			{
-				"text": "billionaire ",
-				"start": 3.2,
-				"end": 3.54,
-				"index": 138
+				"text": "game ",
+				"start": 3.42,
+				"end": 3.64,
+				"index": 34
 			},
 			{
-				"text": "he ",
-				"start": 3.54,
-				"end": 3.78,
-				"index": 139
+				"text": "since ",
+				"start": 3.7,
+				"end": 3.82,
+				"index": 35
 			},
 			{
-				"text": "stackin' ",
-				"start": 3.78,
-				"end": 4.18,
-				"index": 140
+				"text": "like ",
+				"start": 3.84,
+				"end": 3.98,
+				"index": 36
 			},
 			{
-				"text": "up ",
-				"start": 4.18,
-				"end": 4.24,
-				"index": 141
-			},
+				"text": "03",
+				"start": 4,
+				"end": 4.21,
+				"index": 37
+			}
+		],
+		"start": 17.43,
+		"end": 21.64
+	},
+	{
+		"words": [
 			{
-				"text": "them ",
-				"start": 4.24,
-				"end": 4.4,
-				"index": 142
-			},
-			{
-				"text": "racks ",
-				"start": 4.4,
-				"end": 4.62,
-				"index": 143
+				"text": "That ",
+				"start": 0,
+				"end": 0.3,
+				"index": 38
 			},
 			{
 				"text": "nigga ",
-				"start": 4.62,
-				"end": 4.88,
-				"index": 144
+				"start": 0.36,
+				"end": 0.58,
+				"index": 39
 			},
 			{
-				"text": "accolades ",
-				"start": 4.88,
-				"end": 5.4,
-				"index": 145
+				"text": "Bron ",
+				"start": 0.6,
+				"end": 0.86,
+				"index": 40
 			},
 			{
-				"text": "on ",
-				"start": 5.4,
-				"end": 5.52,
-				"index": 146
+				"text": "probably ",
+				"start": 0.88,
+				"end": 1.14,
+				"index": 41
 			},
 			{
-				"text": "accolades ",
-				"start": 5.52,
-				"end": 6,
-				"index": 147
+				"text": "hit ",
+				"start": 1.16,
+				"end": 1.26,
+				"index": 42
+			},
+			{
+				"text": "more ",
+				"start": 1.3,
+				"end": 1.44,
+				"index": 43
+			},
+			{
+				"text": "shots ",
+				"start": 1.46,
+				"end": 1.74,
+				"index": 44
+			},
+			{
+				"text": "than ",
+				"start": 1.76,
+				"end": 1.88,
+				"index": 45
+			},
+			{
+				"text": "the ",
+				"start": 1.9,
+				"end": 2,
+				"index": 46
+			},
+			{
+				"text": "police",
+				"start": 2.02,
+				"end": 2.34,
+				"index": 47
+			}
+		],
+		"start": 21.67,
+		"end": 24.01
+	},
+	{
+		"words": [
+			{
+				"text": "Man, ",
+				"start": 0,
+				"end": 0.08,
+				"index": 48
+			},
+			{
+				"text": "I'm ",
+				"start": 0.12,
+				"end": 0.22,
+				"index": 49
+			},
+			{
+				"text": "sick ",
+				"start": 0.24,
+				"end": 0.44,
+				"index": 50
+			},
+			{
+				"text": "of ",
+				"start": 0.52,
+				"end": 0.58,
+				"index": 51
+			},
+			{
+				"text": "all ",
+				"start": 0.6,
+				"end": 0.66,
+				"index": 52
+			},
+			{
+				"text": "these ",
+				"start": 0.68,
+				"end": 0.82,
+				"index": 53
+			},
+			{
+				"text": "niggas ",
+				"start": 0.86,
+				"end": 1.08,
+				"index": 54
+			},
+			{
+				"text": "saying ",
+				"start": 1.1,
+				"end": 1.36,
+				"index": 55
+			},
+			{
+				"text": "Jordan ",
+				"start": 1.4,
+				"end": 1.68,
+				"index": 56
+			},
+			{
+				"text": "is ",
+				"start": 1.72,
+				"end": 1.8,
+				"index": 57
+			},
+			{
+				"text": "the ",
+				"start": 1.82,
+				"end": 1.9,
+				"index": 58
+			},
+			{
+				"text": "GOAT",
+				"start": 1.94,
+				"end": 2.18,
+				"index": 59
+			}
+		],
+		"start": 24.06,
+		"end": 26.24
+	},
+	{
+		"words": [
+			{
+				"text": "Old ",
+				"start": 0,
+				"end": 0.16,
+				"index": 60
+			},
+			{
+				"text": "niggas ",
+				"start": 0.22,
+				"end": 0.44,
+				"index": 61
+			},
+			{
+				"text": "suckin' ",
+				"start": 0.46,
+				"end": 0.72,
+				"index": 62
+			},
+			{
+				"text": "Jordan, ",
+				"start": 0.76,
+				"end": 1.04,
+				"index": 63
 			},
 			{
 				"text": "they ",
-				"start": 6,
-				"end": 6.12,
-				"index": 148
+				"start": 1.06,
+				"end": 1.16,
+				"index": 64
 			},
 			{
-				"text": "never ",
-				"start": 6.12,
-				"end": 6.36,
-				"index": 149
+				"text": "got ",
+				"start": 1.18,
+				"end": 1.3,
+				"index": 65
 			},
 			{
-				"text": "gettin' ",
-				"start": 6.36,
-				"end": 6.58,
-				"index": 150
+				"text": "Jordan ",
+				"start": 1.36,
+				"end": 1.62,
+				"index": 66
 			},
 			{
-				"text": "passed ",
-				"start": 6.66,
-				"end": 6.88,
-				"index": 151
+				"text": "in ",
+				"start": 1.64,
+				"end": 1.7,
+				"index": 67
+			},
+			{
+				"text": "they ",
+				"start": 1.72,
+				"end": 1.88,
+				"index": 68
+			},
+			{
+				"text": "throat",
+				"start": 1.9,
+				"end": 2.14,
+				"index": 69
+			}
+		],
+		"start": 26.4,
+		"end": 28.54
+	},
+	{
+		"words": [
+			{
+				"text": "Longevity ",
+				"start": 0,
+				"end": 0.6,
+				"index": 70
+			},
+			{
+				"text": "or ",
+				"start": 0.7,
+				"end": 0.76,
+				"index": 71
+			},
+			{
+				"text": "not, ",
+				"start": 0.88,
+				"end": 1.12,
+				"index": 72
+			},
+			{
+				"text": "Bron ",
+				"start": 1.14,
+				"end": 1.42,
+				"index": 73
+			},
+			{
+				"text": "wins ",
+				"start": 1.44,
+				"end": 1.7,
+				"index": 74
+			},
+			{
+				"text": "in ",
+				"start": 1.78,
+				"end": 1.84,
+				"index": 75
+			},
+			{
+				"text": "the ",
+				"start": 1.86,
+				"end": 1.94,
+				"index": 76
+			},
+			{
+				"text": "story ",
+				"start": 1.96,
+				"end": 2.24,
+				"index": 77
+			},
+			{
+				"text": "25-89 ",
+				"start": 2.26,
+				"end": 2.82,
+				"index": 78
+			},
+			{
+				"text": "and ",
+				"start": 2.9,
+				"end": 3.1,
+				"index": 79
+			},
+			{
+				"text": "the ",
+				"start": 3.46,
+				"end": 3.56,
+				"index": 80
+			},
+			{
+				"text": "nigga ",
+				"start": 3.6,
+				"end": 3.8,
+				"index": 81
+			},
+			{
+				"text": "just ",
+				"start": 3.84,
+				"end": 3.96,
+				"index": 82
+			},
+			{
+				"text": "turned ",
+				"start": 3.98,
+				"end": 4.24,
+				"index": 83
+			},
+			{
+				"text": "40",
+				"start": 4.27,
+				"end": 4.52,
+				"index": 84
+			}
+		],
+		"start": 28.6,
+		"end": 33.12
+	},
+	{
+		"words": [
+			{
+				"text": "Man, ",
+				"start": 0,
+				"end": 0.12,
+				"index": 85
+			},
+			{
+				"text": "the ",
+				"start": 0.14,
+				"end": 0.24,
+				"index": 86
+			},
+			{
+				"text": "way ",
+				"start": 0.28,
+				"end": 0.5,
+				"index": 87
+			},
+			{
+				"text": "that ",
+				"start": 0.52,
+				"end": 0.64,
+				"index": 88
+			},
+			{
+				"text": "he ",
+				"start": 0.66,
+				"end": 0.7,
+				"index": 89
+			},
+			{
+				"text": "dance",
+				"start": 0.72,
+				"end": 0.82,
+				"index": 90
+			}
+		],
+		"start": 33.17,
+		"end": 33.99
+	},
+	{
+		"words": [
+			{
+				"text": "Don't ",
+				"start": 0,
+				"end": 0.24,
+				"index": 91
+			},
+			{
+				"text": "give ",
+				"start": 0.26,
+				"end": 0.38,
+				"index": 92
+			},
+			{
+				"text": "me ",
+				"start": 0.4,
+				"end": 0.48,
+				"index": 93
+			},
+			{
+				"text": "crunk, ",
+				"start": 0.54,
+				"end": 0.82,
+				"index": 94
+			},
+			{
+				"text": "I ",
+				"start": 0.86,
+				"end": 0.9,
+				"index": 95
+			},
+			{
+				"text": "can't ",
+				"start": 0.94,
+				"end": 1.12,
+				"index": 96
+			},
+			{
+				"text": "cap, ",
+				"start": 1.18,
+				"end": 1.46,
+				"index": 97
 			},
 			{
 				"text": "nigga",
-				"start": 6.88,
-				"end": 7.18,
-				"index": 152
+				"start": 1.48,
+				"end": 1.64,
+				"index": 98
 			}
 		],
-		"start": 44.34,
-		"end": 51.52
+		"start": 33.97,
+		"end": 35.61
+	},
+	{
+		"words": [
+			{
+				"text": "Every ",
+				"start": 0,
+				"end": 0.32,
+				"index": 99
+			},
+			{
+				"text": "time ",
+				"start": 0.34,
+				"end": 0.46,
+				"index": 100
+			},
+			{
+				"text": "he ",
+				"start": 0.48,
+				"end": 0.58,
+				"index": 101
+			},
+			{
+				"text": "dunk, ",
+				"start": 0.6,
+				"end": 0.78,
+				"index": 102
+			},
+			{
+				"text": "I ",
+				"start": 0.8,
+				"end": 0.86,
+				"index": 103
+			},
+			{
+				"text": "start ",
+				"start": 0.88,
+				"end": 1.04,
+				"index": 104
+			},
+			{
+				"text": "jumping, ",
+				"start": 1.22,
+				"end": 1.46,
+				"index": 105
+			},
+			{
+				"text": "hear ",
+				"start": 1.48,
+				"end": 1.58,
+				"index": 106
+			},
+			{
+				"text": "the ",
+				"start": 1.6,
+				"end": 1.68,
+				"index": 107
+			},
+			{
+				"text": "clap, ",
+				"start": 1.7,
+				"end": 1.96,
+				"index": 108
+			},
+			{
+				"text": "nigga",
+				"start": 1.98,
+				"end": 2.18,
+				"index": 109
+			}
+		],
+		"start": 35.69,
+		"end": 37.87
+	},
+	{
+		"words": [
+			{
+				"text": "You ",
+				"start": 0,
+				"end": 0.14,
+				"index": 110
+			},
+			{
+				"text": "can ",
+				"start": 0.16,
+				"end": 0.26,
+				"index": 111
+			},
+			{
+				"text": "hear ",
+				"start": 0.32,
+				"end": 0.4,
+				"index": 112
+			},
+			{
+				"text": "the ",
+				"start": 0.44,
+				"end": 0.52,
+				"index": 113
+			},
+			{
+				"text": "passion ",
+				"start": 0.56,
+				"end": 0.88,
+				"index": 114
+			},
+			{
+				"text": "in ",
+				"start": 0.9,
+				"end": 0.94,
+				"index": 115
+			},
+			{
+				"text": "my ",
+				"start": 0.96,
+				"end": 1.06,
+				"index": 116
+			},
+			{
+				"text": "voice ",
+				"start": 1.12,
+				"end": 1.36,
+				"index": 117
+			},
+			{
+				"text": "when ",
+				"start": 1.4,
+				"end": 1.48,
+				"index": 118
+			},
+			{
+				"text": "I ",
+				"start": 1.54,
+				"end": 1.64,
+				"index": 119
+			},
+			{
+				"text": "rap, ",
+				"start": 1.7,
+				"end": 1.94,
+				"index": 120
+			},
+			{
+				"text": "nigga",
+				"start": 1.96,
+				"end": 2.12,
+				"index": 121
+			}
+		],
+		"start": 38.03,
+		"end": 40.15
+	},
+	{
+		"words": [
+			{
+				"text": "He ",
+				"start": 0,
+				"end": 0.12,
+				"index": 122
+			},
+			{
+				"text": "the ",
+				"start": 0.14,
+				"end": 0.22,
+				"index": 123
+			},
+			{
+				"text": "fucking ",
+				"start": 0.26,
+				"end": 0.52,
+				"index": 124
+			},
+			{
+				"text": "GOAT, ",
+				"start": 0.54,
+				"end": 0.74,
+				"index": 125
+			},
+			{
+				"text": "he ",
+				"start": 0.88,
+				"end": 0.98,
+				"index": 126
+			},
+			{
+				"text": "the ",
+				"start": 1,
+				"end": 1.12,
+				"index": 127
+			},
+			{
+				"text": "number ",
+				"start": 1.16,
+				"end": 1.38,
+				"index": 128
+			},
+			{
+				"text": "one ",
+				"start": 1.5,
+				"end": 1.56,
+				"index": 129
+			},
+			{
+				"text": "black, ",
+				"start": 1.6,
+				"end": 1.96,
+				"index": 130
+			},
+			{
+				"text": "nigga ",
+				"start": 1.98,
+				"end": 2.16,
+				"index": 131
+			},
+			{
+				"text": "42,000 ",
+				"start": 2.28,
+				"end": 2.81,
+				"index": 132
+			},
+			{
+				"text": "fucking ",
+				"start": 2.84,
+				"end": 3.39,
+				"index": 133
+			},
+			{
+				"text": "points ",
+				"start": 3.41,
+				"end": 3.61,
+				"index": 134
+			},
+			{
+				"text": "to ",
+				"start": 3.63,
+				"end": 3.71,
+				"index": 135
+			},
+			{
+				"text": "be ",
+				"start": 3.75,
+				"end": 3.85,
+				"index": 136
+			},
+			{
+				"text": "exact, ",
+				"start": 3.89,
+				"end": 4.23,
+				"index": 137
+			},
+			{
+				"text": "nigga ",
+				"start": 4.27,
+				"end": 4.37,
+				"index": 138
+			},
+			{
+				"text": "I ",
+				"start": 4.43,
+				"end": 4.53,
+				"index": 139
+			},
+			{
+				"text": "love ",
+				"start": 4.59,
+				"end": 4.73,
+				"index": 140
+			},
+			{
+				"text": "the ",
+				"start": 4.75,
+				"end": 4.83,
+				"index": 141
+			},
+			{
+				"text": "way ",
+				"start": 4.87,
+				"end": 4.99,
+				"index": 142
+			},
+			{
+				"text": "LeBron ",
+				"start": 5.03,
+				"end": 5.29,
+				"index": 143
+			},
+			{
+				"text": "just ",
+				"start": 5.31,
+				"end": 5.43,
+				"index": 144
+			},
+			{
+				"text": "get ",
+				"start": 5.45,
+				"end": 5.55,
+				"index": 145
+			},
+			{
+				"text": "that ",
+				"start": 5.57,
+				"end": 5.67,
+				"index": 146
+			},
+			{
+				"text": "ball ",
+				"start": 5.71,
+				"end": 5.89,
+				"index": 147
+			},
+			{
+				"text": "and ",
+				"start": 5.93,
+				"end": 5.99,
+				"index": 148
+			},
+			{
+				"text": "he ",
+				"start": 6.01,
+				"end": 6.09,
+				"index": 149
+			},
+			{
+				"text": "attack, ",
+				"start": 6.15,
+				"end": 6.51,
+				"index": 150
+			},
+			{
+				"text": "niggas",
+				"start": 6.59,
+				"end": 6.75,
+				"index": 151
+			}
+		],
+		"start": 40.32,
+		"end": 47.07
+	},
+	{
+		"words": [
+			{
+				"text": "And ",
+				"start": 0,
+				"end": 0.3,
+				"index": 152
+			},
+			{
+				"text": "he ",
+				"start": 0.32,
+				"end": 0.42,
+				"index": 153
+			},
+			{
+				"text": "a ",
+				"start": 0.48,
+				"end": 0.56,
+				"index": 154
+			},
+			{
+				"text": "billionaire, ",
+				"start": 0.58,
+				"end": 1.04,
+				"index": 155
+			},
+			{
+				"text": "he ",
+				"start": 1.06,
+				"end": 1.14,
+				"index": 156
+			},
+			{
+				"text": "stacking ",
+				"start": 1.16,
+				"end": 1.46,
+				"index": 157
+			},
+			{
+				"text": "up ",
+				"start": 1.5,
+				"end": 1.58,
+				"index": 158
+			},
+			{
+				"text": "them ",
+				"start": 1.6,
+				"end": 1.72,
+				"index": 159
+			},
+			{
+				"text": "racks, ",
+				"start": 1.84,
+				"end": 2.04,
+				"index": 160
+			},
+			{
+				"text": "nigga",
+				"start": 2.06,
+				"end": 2.3,
+				"index": 161
+			}
+		],
+		"start": 47.13,
+		"end": 49.43
+	},
+	{
+		"words": [
+			{
+				"text": "Accolades ",
+				"start": 0,
+				"end": 0.28,
+				"index": 162
+			},
+			{
+				"text": "on ",
+				"start": 0.34,
+				"end": 0.44,
+				"index": 163
+			},
+			{
+				"text": "accolades, ",
+				"start": 0.5,
+				"end": 0.88,
+				"index": 164
+			},
+			{
+				"text": "they ",
+				"start": 0.9,
+				"end": 1.04,
+				"index": 165
+			},
+			{
+				"text": "never ",
+				"start": 1.06,
+				"end": 1.3,
+				"index": 166
+			},
+			{
+				"text": "getting ",
+				"start": 1.34,
+				"end": 1.54,
+				"index": 167
+			},
+			{
+				"text": "passed, ",
+				"start": 1.58,
+				"end": 2.14,
+				"index": 168
+			},
+			{
+				"text": "nigga",
+				"start": 2.38,
+				"end": 2.48,
+				"index": 169
+			}
+		],
+		"start": 49.58,
+		"end": 52.06
 	}
 ]

@@ -2,25 +2,361 @@
 	{
 		"words": [
 			{
-				"text": "LeBron ",
+				"text": "Bron, ",
 				"start": 0,
-				"end": 0.36,
+				"end": 0.34,
 				"index": 0
 			},
 			{
-				"text": "LeBron ",
-				"start": 0.46,
-				"end": 0.46,
+				"text": "I ",
+				"start": 0.36,
+				"end": 0.44,
 				"index": 1
 			},
 			{
-				"text": "LeBron",
-				"start": 0.56,
-				"end": 0.88,
+				"text": "need ",
+				"start": 0.46,
+				"end": 0.8,
 				"index": 2
+			},
+			{
+				"text": "you ",
+				"start": 0.82,
+				"end": 0.94,
+				"index": 3
+			},
+			{
+				"text": "in ",
+				"start": 1.04,
+				"end": 1.14,
+				"index": 4
+			},
+			{
+				"text": "my ",
+				"start": 1.16,
+				"end": 1.4,
+				"index": 5
+			},
+			{
+				"text": "life, ",
+				"start": 2.12,
+				"end": 2.42,
+				"index": 6
+			},
+			{
+				"text": "in ",
+				"start": 2.44,
+				"end": 2.57,
+				"index": 7
+			},
+			{
+				"text": "my ",
+				"start": 2.58,
+				"end": 2.81,
+				"index": 8
+			},
+			{
+				"text": "life",
+				"start": 2.83,
+				"end": 3.77,
+				"index": 9
 			}
 		],
-		"start": 42.58,
-		"end": 43.46
+		"start": 3.07,
+		"end": 6.84
+	},
+	{
+		"words": [
+			{
+				"text": "Please, ",
+				"start": 0,
+				"end": 0.14,
+				"index": 10
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.16,
+				"end": 0.36,
+				"index": 11
+			},
+			{
+				"text": "don't ",
+				"start": 0.4,
+				"end": 0.58,
+				"index": 12
+			},
+			{
+				"text": "go ",
+				"start": 0.64,
+				"end": 0.78,
+				"index": 13
+			},
+			{
+				"text": "switchin' ",
+				"start": 0.8,
+				"end": 1.2,
+				"index": 14
+			},
+			{
+				"text": "sides, ",
+				"start": 1.24,
+				"end": 2.16,
+				"index": 15
+			},
+			{
+				"text": "switchin' ",
+				"start": 2.18,
+				"end": 2.61,
+				"index": 16
+			},
+			{
+				"text": "sides ",
+				"start": 2.64,
+				"end": 3.67,
+				"index": 17
+			},
+			{
+				"text": "Bron, ",
+				"start": 3.69,
+				"end": 3.81,
+				"index": 18
+			},
+			{
+				"text": "I ",
+				"start": 3.91,
+				"end": 4.01,
+				"index": 19
+			},
+			{
+				"text": "got ",
+				"start": 4.11,
+				"end": 4.23,
+				"index": 20
+			},
+			{
+				"text": "Lakers ",
+				"start": 4.27,
+				"end": 4.73,
+				"index": 21
+			},
+			{
+				"text": "in ",
+				"start": 4.81,
+				"end": 4.89,
+				"index": 22
+			},
+			{
+				"text": "five, ",
+				"start": 4.95,
+				"end": 5.93,
+				"index": 23
+			},
+			{
+				"text": "Lakers ",
+				"start": 5.95,
+				"end": 6.13,
+				"index": 24
+			},
+			{
+				"text": "in ",
+				"start": 6.21,
+				"end": 6.29,
+				"index": 25
+			},
+			{
+				"text": "five",
+				"start": 6.33,
+				"end": 7.17,
+				"index": 26
+			}
+		],
+		"start": 6.86,
+		"end": 14.03
+	},
+	{
+		"words": [
+			{
+				"text": "Please, ",
+				"start": 0,
+				"end": 0.26,
+				"index": 27
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.28,
+				"end": 0.5,
+				"index": 28
+			},
+			{
+				"text": "don't ",
+				"start": 0.52,
+				"end": 0.74,
+				"index": 29
+			},
+			{
+				"text": "go ",
+				"start": 0.76,
+				"end": 0.92,
+				"index": 30
+			},
+			{
+				"text": "switchin' ",
+				"start": 0.94,
+				"end": 1.36,
+				"index": 31
+			},
+			{
+				"text": "sides, ",
+				"start": 2.12,
+				"end": 2.28,
+				"index": 32
+			},
+			{
+				"text": "switchin' ",
+				"start": 2.3,
+				"end": 2.74,
+				"index": 33
+			},
+			{
+				"text": "sides",
+				"start": 2.79,
+				"end": 3.69,
+				"index": 34
+			}
+		],
+		"start": 14.07,
+		"end": 17.76
+	},
+	{
+		"words": [
+			{
+				"text": "Yeah, ",
+				"start": 0,
+				"end": 0.22,
+				"index": 35
+			},
+			{
+				"text": "yeah, ",
+				"start": 0.24,
+				"end": 0.34,
+				"index": 36
+			},
+			{
+				"text": "yeah",
+				"start": 0.36,
+				"end": 0.44,
+				"index": 37
+			}
+		],
+		"start": 18.32,
+		"end": 18.76
+	},
+	{
+		"words": [
+			{
+				"text": "Please, ",
+				"start": 0,
+				"end": 0.26,
+				"index": 38
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.28,
+				"end": 0.38,
+				"index": 39
+			},
+			{
+				"text": "don't ",
+				"start": 0.4,
+				"end": 1.32,
+				"index": 40
+			},
+			{
+				"text": "go ",
+				"start": 1.34,
+				"end": 1.38,
+				"index": 41
+			},
+			{
+				"text": "bro",
+				"start": 1.4,
+				"end": 1.46,
+				"index": 42
+			}
+		],
+		"start": 21.52,
+		"end": 22.98
+	},
+	{
+		"words": [
+			{
+				"text": "Please ",
+				"start": 0,
+				"end": 1.7,
+				"index": 43
+			},
+			{
+				"text": "don't ",
+				"start": 1.92,
+				"end": 4.67,
+				"index": 44
+			},
+			{
+				"text": "tell ",
+				"start": 5.15,
+				"end": 5.85,
+				"index": 45
+			},
+			{
+				"text": "about ",
+				"start": 5.95,
+				"end": 8.55,
+				"index": 46
+			},
+			{
+				"text": "away",
+				"start": 9.07,
+				"end": 11.56,
+				"index": 47
+			}
+		],
+		"start": 23.59,
+		"end": 35.15
+	},
+	{
+		"words": [
+			{
+				"text": "Please ",
+				"start": 0,
+				"end": 3.12,
+				"index": 48
+			},
+			{
+				"text": "don't ",
+				"start": 3.38,
+				"end": 4.45,
+				"index": 49
+			},
+			{
+				"text": "tell ",
+				"start": 4.47,
+				"end": 5.07,
+				"index": 50
+			},
+			{
+				"text": "about ",
+				"start": 6.65,
+				"end": 8.89,
+				"index": 51
+			},
+			{
+				"text": "away",
+				"start": 9.07,
+				"end": 12.32,
+				"index": 52
+			}
+		],
+		"start": 35.63,
+		"end": 47.95
 	}
 ]

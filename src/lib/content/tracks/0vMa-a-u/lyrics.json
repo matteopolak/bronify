@@ -4,49 +4,49 @@
 			{
 				"text": "Did ",
 				"start": 0,
-				"end": 0.46,
+				"end": 3.86,
 				"index": 0
 			},
 			{
 				"text": "you ",
-				"start": 0.46,
-				"end": 0.6,
+				"start": 3.88,
+				"end": 4,
 				"index": 1
 			},
 			{
 				"text": "know ",
-				"start": 0.6,
-				"end": 0.78,
+				"start": 4.04,
+				"end": 4.18,
 				"index": 2
 			},
 			{
 				"text": "that",
-				"start": 0.78,
-				"end": 1,
+				"start": 4.22,
+				"end": 4.35,
 				"index": 3
 			}
 		],
-		"start": 3.25,
-		"end": 4.25
+		"start": 0.03,
+		"end": 4.38
 	},
 	{
 		"words": [
 			{
 				"text": "Clayson ",
 				"start": 0,
-				"end": 0.38,
+				"end": 0.4,
 				"index": 4
 			},
 			{
-				"text": "LeBron ",
-				"start": 0.38,
-				"end": 0.78,
+				"text": "Lebron ",
+				"start": 0.42,
+				"end": 0.8,
 				"index": 5
 			},
 			{
 				"text": "is ",
-				"start": 0.78,
-				"end": 1,
+				"start": 0.86,
+				"end": 0.96,
 				"index": 6
 			},
 			{
@@ -57,55 +57,55 @@
 			},
 			{
 				"text": "than ",
-				"start": 1.2,
-				"end": 1.4,
+				"start": 1.24,
+				"end": 1.56,
 				"index": 8
 			},
 			{
-				"text": "I'll ",
-				"start": 1.4,
-				"end": 1.7,
+				"text": "a ",
+				"start": 1.58,
+				"end": 1.66,
 				"index": 9
 			},
 			{
-				"text": "be",
-				"start": 1.7,
-				"end": 1.86,
+				"text": "hobby?",
+				"start": 1.68,
+				"end": 2.34,
 				"index": 10
 			}
 		],
-		"start": 4.25,
-		"end": 6.11
+		"start": 4.4,
+		"end": 6.74
 	},
 	{
 		"words": [
 			{
 				"text": "Did ",
 				"start": 0,
-				"end": 0.18,
+				"end": 0.1,
 				"index": 11
 			},
 			{
 				"text": "you ",
-				"start": 0.18,
-				"end": 0.78,
+				"start": 0.14,
+				"end": 0.3,
 				"index": 12
 			},
 			{
 				"text": "know ",
-				"start": 0.78,
-				"end": 0.98,
+				"start": 0.32,
+				"end": 0.5,
 				"index": 13
 			},
 			{
 				"text": "that",
-				"start": 0.98,
-				"end": 1.16,
+				"start": 0.54,
+				"end": 0.66,
 				"index": 14
 			}
 		],
-		"start": 6.11,
-		"end": 7.27
+		"start": 6.76,
+		"end": 7.42
 	},
 	{
 		"words": [
@@ -116,45 +116,45 @@
 				"index": 15
 			},
 			{
-				"text": "LeBron ",
-				"start": 0.38,
-				"end": 0.78,
+				"text": "Lebron ",
+				"start": 0.4,
+				"end": 0.8,
 				"index": 16
 			},
 			{
 				"text": "is ",
-				"start": 0.78,
-				"end": 0.98,
+				"start": 0.82,
+				"end": 0.92,
 				"index": 17
 			},
 			{
 				"text": "more ",
-				"start": 0.98,
+				"start": 0.94,
 				"end": 1.16,
 				"index": 18
 			},
 			{
 				"text": "than ",
-				"start": 1.16,
-				"end": 1.34,
+				"start": 1.18,
+				"end": 1.52,
 				"index": 19
 			},
 			{
-				"text": "I'll ",
-				"start": 1.34,
-				"end": 1.62,
+				"text": "a ",
+				"start": 1.54,
+				"end": 1.6,
 				"index": 20
 			},
 			{
-				"text": "be ",
+				"text": "hobby? ",
 				"start": 1.62,
-				"end": 1.88,
+				"end": 1.84,
 				"index": 21
 			},
 			{
-				"text": "LeBron ",
-				"start": 1.88,
-				"end": 2.48,
+				"text": "Lebron ",
+				"start": 2.08,
+				"end": 2.46,
 				"index": 22
 			},
 			{
@@ -165,330 +165,318 @@
 			},
 			{
 				"text": "than ",
-				"start": 2.66,
-				"end": 2.9,
+				"start": 2.68,
+				"end": 3.06,
 				"index": 24
 			},
 			{
-				"text": "I'll ",
-				"start": 2.9,
-				"end": 3.24,
+				"text": "a ",
+				"start": 3.08,
+				"end": 3.14,
 				"index": 25
 			},
 			{
-				"text": "be, ",
-				"start": 3.24,
-				"end": 3.42,
+				"text": "hobby, ",
+				"start": 3.16,
+				"end": 3.62,
 				"index": 26
 			},
 			{
-				"text": "more, ",
-				"start": 3.48,
-				"end": 3.92,
+				"text": "mo-more ",
+				"start": 3.64,
+				"end": 4.24,
 				"index": 27
-			},
-			{
-				"text": "more ",
-				"start": 3.92,
-				"end": 4.26,
-				"index": 28
 			},
 			{
 				"text": "than ",
 				"start": 4.26,
-				"end": 4.46,
+				"end": 4.44,
+				"index": 28
+			},
+			{
+				"text": "a ",
+				"start": 4.64,
+				"end": 4.79,
 				"index": 29
 			},
 			{
-				"text": "I'll ",
-				"start": 4.46,
-				"end": 4.82,
+				"text": "hobby",
+				"start": 4.81,
+				"end": 4.95,
 				"index": 30
-			},
-			{
-				"text": "be",
-				"start": 4.82,
-				"end": 5.04,
-				"index": 31
 			}
 		],
-		"start": 7.27,
-		"end": 12.31
+		"start": 7.44,
+		"end": 12.39
 	},
 	{
 		"words": [
 			{
 				"text": "Hey ",
 				"start": 0,
-				"end": 0.3,
-				"index": 32
+				"end": 0.06,
+				"index": 31
 			},
 			{
 				"text": "did ",
-				"start": 0.3,
-				"end": 0.52,
-				"index": 33
+				"start": 0.08,
+				"end": 0.26,
+				"index": 32
 			},
 			{
 				"text": "you ",
-				"start": 0.52,
-				"end": 0.7,
-				"index": 34
+				"start": 0.28,
+				"end": 0.46,
+				"index": 33
 			},
 			{
 				"text": "know, ",
-				"start": 0.7,
-				"end": 1.04,
-				"index": 35
+				"start": 0.48,
+				"end": 1.28,
+				"index": 34
 			},
 			{
 				"text": "they ",
-				"start": 1.12,
-				"end": 1.66,
-				"index": 36
+				"start": 1.3,
+				"end": 1.42,
+				"index": 35
 			},
 			{
 				"text": "kissin' ",
-				"start": 1.66,
-				"end": 2.14,
+				"start": 1.44,
+				"end": 1.84,
+				"index": 36
+			},
+			{
+				"text": "fine, ",
+				"start": 2.04,
+				"end": 2.6,
 				"index": 37
 			},
 			{
-				"text": "fire, ",
-				"start": 2.14,
-				"end": 2.26,
+				"text": "my ",
+				"start": 2.62,
+				"end": 2.8,
 				"index": 38
 			},
 			{
-				"text": "my ",
-				"start": 2.54,
-				"end": 3.04,
+				"text": "little ",
+				"start": 2.84,
+				"end": 3.12,
 				"index": 39
 			},
 			{
-				"text": "little ",
-				"start": 3.04,
-				"end": 3.34,
-				"index": 40
-			},
-			{
 				"text": "sunshine",
-				"start": 3.34,
-				"end": 3.78,
-				"index": 41
+				"start": 3.14,
+				"end": 3.68,
+				"index": 40
 			}
 		],
-		"start": 12.31,
-		"end": 16.09
+		"start": 12.74,
+		"end": 16.42
 	},
 	{
 		"words": [
 			{
 				"text": "If ",
 				"start": 0,
-				"end": 0.8,
-				"index": 42
+				"end": 0.08,
+				"index": 41
 			},
 			{
 				"text": "LBJ ",
-				"start": 0.8,
-				"end": 1.32,
-				"index": 43
+				"start": 0.26,
+				"end": 0.7,
+				"index": 42
 			},
 			{
 				"text": "our ",
-				"start": 1.32,
-				"end": 1.56,
-				"index": 44
+				"start": 0.76,
+				"end": 0.9,
+				"index": 43
 			},
 			{
 				"text": "president, ",
-				"start": 1.56,
-				"end": 2,
-				"index": 45
+				"start": 0.94,
+				"end": 1.48,
+				"index": 44
 			},
 			{
 				"text": "we ",
-				"start": 2.1,
-				"end": 2.3,
-				"index": 46
+				"start": 1.5,
+				"end": 1.68,
+				"index": 45
 			},
 			{
 				"text": "all ",
-				"start": 2.3,
-				"end": 2.58,
-				"index": 47
+				"start": 1.78,
+				"end": 1.96,
+				"index": 46
 			},
 			{
 				"text": "gon' ",
-				"start": 2.58,
-				"end": 2.74,
-				"index": 48
+				"start": 1.98,
+				"end": 2.06,
+				"index": 47
 			},
 			{
 				"text": "be ",
-				"start": 2.84,
-				"end": 2.86,
-				"index": 49
+				"start": 2.08,
+				"end": 2.22,
+				"index": 48
 			},
 			{
 				"text": "fine",
-				"start": 2.86,
-				"end": 3.18,
-				"index": 50
+				"start": 2.26,
+				"end": 2.98,
+				"index": 49
 			}
 		],
-		"start": 16.09,
-		"end": 19.27
+		"start": 16.91,
+		"end": 19.89
 	},
 	{
 		"words": [
 			{
-				"text": "Twenty",
+				"text": "Twenty-three ",
 				"start": 0,
-				"end": 0.68,
-				"index": 51
-			},
-			{
-				"text": "-three ",
-				"start": 0.68,
-				"end": 1.06,
-				"index": 52
+				"end": 0.58,
+				"index": 50
 			},
 			{
 				"text": "for ",
-				"start": 1.06,
-				"end": 1.24,
-				"index": 53
+				"start": 0.64,
+				"end": 0.76,
+				"index": 51
 			},
 			{
 				"text": "life, ",
-				"start": 1.24,
-				"end": 1.52,
-				"index": 54
+				"start": 0.92,
+				"end": 1.56,
+				"index": 52
 			},
 			{
 				"text": "he ",
-				"start": 1.78,
+				"start": 1.58,
+				"end": 1.72,
+				"index": 53
+			},
+			{
+				"text": "gon' ",
+				"start": 1.76,
+				"end": 1.96,
+				"index": 54
+			},
+			{
+				"text": "get ",
+				"start": 2,
 				"end": 2.16,
 				"index": 55
 			},
 			{
-				"text": "gon' ",
-				"start": 2.16,
-				"end": 2.38,
+				"text": "us ",
+				"start": 2.28,
+				"end": 2.36,
 				"index": 56
 			},
 			{
-				"text": "get ",
-				"start": 2.58,
-				"end": 2.6,
-				"index": 57
-			},
-			{
-				"text": "us ",
-				"start": 2.6,
-				"end": 2.86,
-				"index": 58
-			},
-			{
 				"text": "right",
-				"start": 2.86,
-				"end": 3.14,
-				"index": 59
+				"start": 2.38,
+				"end": 2.74,
+				"index": 57
 			}
 		],
-		"start": 19.27,
-		"end": 22.41
+		"start": 19.91,
+		"end": 22.65
 	},
 	{
 		"words": [
 			{
 				"text": "Our ",
 				"start": 0,
-				"end": 0.62,
-				"index": 60
+				"end": 0.12,
+				"index": 58
 			},
 			{
-				"text": "glory ",
-				"start": 0.62,
-				"end": 0.9,
-				"index": 61
-			},
-			{
-				"text": "is ",
-				"start": 0.9,
-				"end": 1.18,
-				"index": 62
+				"text": "glorious ",
+				"start": 0.16,
+				"end": 0.68,
+				"index": 59
 			},
 			{
 				"text": "king ",
+				"start": 0.76,
+				"end": 1.1,
+				"index": 60
+			},
+			{
+				"text": "until ",
 				"start": 1.18,
-				"end": 1.4,
+				"end": 1.5,
+				"index": 61
+			},
+			{
+				"text": "the ",
+				"start": 1.52,
+				"end": 1.9,
+				"index": 62
+			},
+			{
+				"text": "end ",
+				"start": 1.92,
+				"end": 2.22,
 				"index": 63
 			},
 			{
-				"text": "until ",
-				"start": 1.4,
-				"end": 1.84,
+				"text": "of ",
+				"start": 2.24,
+				"end": 2.44,
 				"index": 64
 			},
 			{
-				"text": "the ",
-				"start": 1.84,
-				"end": 2.12,
+				"text": "time",
+				"start": 2.46,
+				"end": 5.91,
 				"index": 65
-			},
+			}
+		],
+		"start": 23.04,
+		"end": 28.95
+	},
+	{
+		"words": [
 			{
-				"text": "end ",
-				"start": 2.12,
-				"end": 2.6,
+				"text": "Until ",
+				"start": 0,
+				"end": 0.48,
 				"index": 66
 			},
 			{
-				"text": "of ",
-				"start": 2.6,
-				"end": 2.84,
+				"text": "the ",
+				"start": 0.54,
+				"end": 0.66,
 				"index": 67
 			},
 			{
-				"text": "time, ",
-				"start": 2.84,
-				"end": 3.22,
+				"text": "end ",
+				"start": 0.96,
+				"end": 1.13,
 				"index": 68
 			},
 			{
-				"text": "until ",
-				"start": 3.52,
-				"end": 4.58,
+				"text": "of ",
+				"start": 1.19,
+				"end": 1.25,
 				"index": 69
 			},
 			{
-				"text": "the ",
-				"start": 7.97,
-				"end": 8.29,
-				"index": 70
-			},
-			{
-				"text": "end ",
-				"start": 8.29,
-				"end": 8.69,
-				"index": 71
-			},
-			{
-				"text": "of ",
-				"start": 8.69,
-				"end": 8.93,
-				"index": 72
-			},
-			{
 				"text": "time",
-				"start": 8.93,
-				"end": 9.19,
-				"index": 73
+				"start": 1.31,
+				"end": 7.92,
+				"index": 70
 			}
 		],
-		"start": 22.41,
-		"end": 31.6
+		"start": 30.17,
+		"end": 38.09
 	}
 ]

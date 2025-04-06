@@ -4,108 +4,588 @@
 			{
 				"text": "I ",
 				"start": 0,
-				"end": 0.42,
+				"end": 0.3,
 				"index": 0
 			},
 			{
 				"text": "still ",
-				"start": 0.42,
-				"end": 0.74,
+				"start": 0.32,
+				"end": 0.56,
 				"index": 1
 			},
 			{
 				"text": "see ",
-				"start": 0.74,
-				"end": 1.02,
+				"start": 0.62,
+				"end": 0.76,
 				"index": 2
 			},
 			{
 				"text": "your ",
-				"start": 1.02,
-				"end": 1.16,
+				"start": 0.82,
+				"end": 0.96,
 				"index": 3
 			},
 			{
 				"text": "jersey ",
-				"start": 1.16,
-				"end": 1.58,
+				"start": 0.98,
+				"end": 1.52,
 				"index": 4
 			},
 			{
 				"text": "in ",
-				"start": 1.58,
-				"end": 1.86,
+				"start": 1.54,
+				"end": 1.64,
 				"index": 5
 			},
 			{
 				"text": "my ",
-				"start": 1.86,
-				"end": 2.08,
+				"start": 1.68,
+				"end": 1.9,
 				"index": 6
 			},
 			{
-				"text": "room, ",
-				"start": 2.08,
-				"end": 2.5,
+				"text": "room",
+				"start": 1.96,
+				"end": 2.32,
 				"index": 7
-			},
+			}
+		],
+		"start": 0.39,
+		"end": 2.71
+	},
+	{
+		"words": [
 			{
-				"text": "can't ",
-				"start": 2.66,
-				"end": 3.16,
+				"text": "Can't ",
+				"start": 0,
+				"end": 0.28,
 				"index": 8
 			},
 			{
 				"text": "take ",
-				"start": 3.16,
-				"end": 3.36,
+				"start": 0.32,
+				"end": 0.54,
 				"index": 9
 			},
 			{
 				"text": "back ",
-				"start": 3.36,
-				"end": 3.66,
+				"start": 0.56,
+				"end": 0.76,
 				"index": 10
 			},
 			{
 				"text": "the ",
-				"start": 3.66,
-				"end": 3.82,
+				"start": 0.78,
+				"end": 0.9,
 				"index": 11
 			},
 			{
 				"text": "glaze ",
-				"start": 3.82,
-				"end": 4.1,
+				"start": 0.94,
+				"end": 1.22,
 				"index": 12
 			},
 			{
 				"text": "that ",
-				"start": 4.1,
-				"end": 4.28,
+				"start": 1.28,
+				"end": 1.4,
 				"index": 13
 			},
 			{
 				"text": "I ",
-				"start": 4.28,
-				"end": 4.42,
+				"start": 1.48,
+				"end": 1.58,
 				"index": 14
 			},
 			{
 				"text": "gave ",
-				"start": 4.42,
-				"end": 4.72,
+				"start": 1.62,
+				"end": 1.88,
 				"index": 15
 			},
 			{
 				"text": "you",
-				"start": 4.72,
-				"end": 5,
+				"start": 1.92,
+				"end": 2.22,
 				"index": 16
 			}
 		],
-		"start": 0.02,
-		"end": 5.02
+		"start": 3.03,
+		"end": 5.25
+	},
+	{
+		"words": [
+			{
+				"text": "It's ",
+				"start": 0,
+				"end": 0.08,
+				"index": 17
+			},
+			{
+				"text": "to ",
+				"start": 0.12,
+				"end": 0.26,
+				"index": 18
+			},
+			{
+				"text": "the ",
+				"start": 0.28,
+				"end": 0.4,
+				"index": 19
+			},
+			{
+				"text": "point ",
+				"start": 0.44,
+				"end": 0.68,
+				"index": 20
+			},
+			{
+				"text": "where ",
+				"start": 0.72,
+				"end": 1.06,
+				"index": 21
+			},
+			{
+				"text": "I ",
+				"start": 1.2,
+				"end": 1.26,
+				"index": 22
+			},
+			{
+				"text": "love ",
+				"start": 1.28,
+				"end": 1.4,
+				"index": 23
+			},
+			{
+				"text": "and ",
+				"start": 1.42,
+				"end": 1.56,
+				"index": 24
+			},
+			{
+				"text": "I ",
+				"start": 1.64,
+				"end": 1.72,
+				"index": 25
+			},
+			{
+				"text": "glaze ",
+				"start": 1.76,
+				"end": 2.04,
+				"index": 26
+			},
+			{
+				"text": "you",
+				"start": 2.06,
+				"end": 2.2,
+				"index": 27
+			}
+		],
+		"start": 5.51,
+		"end": 7.71
+	},
+	{
+		"words": [
+			{
+				"text": "And ",
+				"start": 0,
+				"end": 0.1,
+				"index": 28
+			},
+			{
+				"text": "I ",
+				"start": 0.18,
+				"end": 0.26,
+				"index": 29
+			},
+			{
+				"text": "cannot ",
+				"start": 0.3,
+				"end": 0.68,
+				"index": 30
+			},
+			{
+				"text": "change, ",
+				"start": 0.84,
+				"end": 1.04,
+				"index": 31
+			},
+			{
+				"text": "so ",
+				"start": 1.16,
+				"end": 1.3,
+				"index": 32
+			},
+			{
+				"text": "I ",
+				"start": 1.32,
+				"end": 1.34,
+				"index": 33
+			},
+			{
+				"text": "might ",
+				"start": 1.38,
+				"end": 1.54,
+				"index": 34
+			},
+			{
+				"text": "as ",
+				"start": 1.58,
+				"end": 1.68,
+				"index": 35
+			},
+			{
+				"text": "well ",
+				"start": 1.72,
+				"end": 1.94,
+				"index": 36
+			},
+			{
+				"text": "glaze ",
+				"start": 1.98,
+				"end": 2.34,
+				"index": 37
+			},
+			{
+				"text": "you, ",
+				"start": 2.38,
+				"end": 2.6,
+				"index": 38
+			},
+			{
+				"text": "oh",
+				"start": 2.88,
+				"end": 3,
+				"index": 39
+			}
+		],
+		"start": 7.86,
+		"end": 10.86
+	},
+	{
+		"words": [
+			{
+				"text": "He's ",
+				"start": 0,
+				"end": 0.14,
+				"index": 40
+			},
+			{
+				"text": "your ",
+				"start": 0.18,
+				"end": 0.42,
+				"index": 41
+			},
+			{
+				"text": "7-0",
+				"start": 0.46,
+				"end": 0.86,
+				"index": 42
+			}
+		],
+		"start": 11.2,
+		"end": 12.06
+	},
+	{
+		"words": [
+			{
+				"text": "Bron, ",
+				"start": 0,
+				"end": 0.22,
+				"index": 43
+			},
+			{
+				"text": "you ",
+				"start": 0.24,
+				"end": 0.34,
+				"index": 44
+			},
+			{
+				"text": "are ",
+				"start": 0.54,
+				"end": 0.7,
+				"index": 45
+			},
+			{
+				"text": "the ",
+				"start": 0.72,
+				"end": 0.82,
+				"index": 46
+			},
+			{
+				"text": "one",
+				"start": 1.02,
+				"end": 1.22,
+				"index": 47
+			}
+		],
+		"start": 12.64,
+		"end": 13.86
+	},
+	{
+		"words": [
+			{
+				"text": "Us ",
+				"start": 0,
+				"end": 0.06,
+				"index": 48
+			},
+			{
+				"text": "and ",
+				"start": 0.14,
+				"end": 0.22,
+				"index": 49
+			},
+			{
+				"text": "the ",
+				"start": 0.24,
+				"end": 0.34,
+				"index": 50
+			},
+			{
+				"text": "Spotify, ",
+				"start": 0.36,
+				"end": 1.14,
+				"index": 51
+			},
+			{
+				"text": "she'll ",
+				"start": 1.16,
+				"end": 1.34,
+				"index": 52
+			},
+			{
+				"text": "be ",
+				"start": 1.36,
+				"end": 1.5,
+				"index": 53
+			},
+			{
+				"text": "that ",
+				"start": 1.52,
+				"end": 1.64,
+				"index": 54
+			},
+			{
+				"text": "Bronify",
+				"start": 1.68,
+				"end": 2.54,
+				"index": 55
+			}
+		],
+		"start": 13.88,
+		"end": 16.42
+	},
+	{
+		"words": [
+			{
+				"text": "Got ",
+				"start": 0,
+				"end": 0.18,
+				"index": 56
+			},
+			{
+				"text": "four ",
+				"start": 0.24,
+				"end": 0.54,
+				"index": 57
+			},
+			{
+				"text": "rings, ",
+				"start": 0.58,
+				"end": 0.86,
+				"index": 58
+			},
+			{
+				"text": "come ",
+				"start": 0.9,
+				"end": 1.18,
+				"index": 59
+			},
+			{
+				"text": "bring ",
+				"start": 1.2,
+				"end": 1.38,
+				"index": 60
+			},
+			{
+				"text": "home ",
+				"start": 1.44,
+				"end": 1.64,
+				"index": 61
+			},
+			{
+				"text": "another ",
+				"start": 1.66,
+				"end": 2.2,
+				"index": 62
+			},
+			{
+				"text": "one ",
+				"start": 2.46,
+				"end": 2.52,
+				"index": 63
+			},
+			{
+				"text": "Bron ",
+				"start": 2.54,
+				"end": 2.76,
+				"index": 64
+			},
+			{
+				"text": "is ",
+				"start": 2.78,
+				"end": 2.88,
+				"index": 65
+			},
+			{
+				"text": "our ",
+				"start": 2.98,
+				"end": 3.1,
+				"index": 66
+			},
+			{
+				"text": "king, ",
+				"start": 3.12,
+				"end": 3.51,
+				"index": 67
+			},
+			{
+				"text": "not ",
+				"start": 3.53,
+				"end": 3.63,
+				"index": 68
+			},
+			{
+				"text": "no ",
+				"start": 3.66,
+				"end": 3.77,
+				"index": 69
+			},
+			{
+				"text": "other ",
+				"start": 3.98,
+				"end": 4.27,
+				"index": 70
+			},
+			{
+				"text": "guys ",
+				"start": 4.29,
+				"end": 4.77,
+				"index": 71
+			},
+			{
+				"text": "I ",
+				"start": 4.91,
+				"end": 4.99,
+				"index": 72
+			},
+			{
+				"text": "still ",
+				"start": 5.07,
+				"end": 5.31,
+				"index": 73
+			},
+			{
+				"text": "see ",
+				"start": 5.37,
+				"end": 5.51,
+				"index": 74
+			},
+			{
+				"text": "your ",
+				"start": 5.63,
+				"end": 5.71,
+				"index": 75
+			},
+			{
+				"text": "jersey ",
+				"start": 5.73,
+				"end": 6.21,
+				"index": 76
+			},
+			{
+				"text": "in ",
+				"start": 6.31,
+				"end": 6.39,
+				"index": 77
+			},
+			{
+				"text": "my ",
+				"start": 6.43,
+				"end": 6.65,
+				"index": 78
+			},
+			{
+				"text": "room",
+				"start": 6.71,
+				"end": 7.33,
+				"index": 79
+			}
+		],
+		"start": 16.45,
+		"end": 23.78
+	},
+	{
+		"words": [
+			{
+				"text": "Can't ",
+				"start": 0,
+				"end": 0.34,
+				"index": 80
+			},
+			{
+				"text": "say ",
+				"start": 0.36,
+				"end": 0.56,
+				"index": 81
+			},
+			{
+				"text": "back ",
+				"start": 0.6,
+				"end": 0.83,
+				"index": 82
+			},
+			{
+				"text": "the ",
+				"start": 0.87,
+				"end": 0.97,
+				"index": 83
+			},
+			{
+				"text": "grace ",
+				"start": 0.99,
+				"end": 1.29,
+				"index": 84
+			},
+			{
+				"text": "that ",
+				"start": 1.31,
+				"end": 1.47,
+				"index": 85
+			},
+			{
+				"text": "I ",
+				"start": 1.55,
+				"end": 1.63,
+				"index": 86
+			},
+			{
+				"text": "gave ",
+				"start": 1.67,
+				"end": 1.96,
+				"index": 87
+			},
+			{
+				"text": "you",
+				"start": 2,
+				"end": 2.22,
+				"index": 88
+			}
+		],
+		"start": 23.76,
+		"end": 25.98
 	},
 	{
 		"words": [
@@ -113,604 +593,142 @@
 				"text": "It's ",
 				"start": 0,
 				"end": 0.52,
-				"index": 17
-			},
-			{
-				"text": "to ",
-				"start": 0.52,
-				"end": 0.58,
-				"index": 18
-			},
-			{
-				"text": "the ",
-				"start": 0.58,
-				"end": 0.74,
-				"index": 19
-			},
-			{
-				"text": "point ",
-				"start": 0.74,
-				"end": 1.04,
-				"index": 20
-			},
-			{
-				"text": "where ",
-				"start": 1.04,
-				"end": 1.2,
-				"index": 21
-			},
-			{
-				"text": "I ",
-				"start": 1.2,
-				"end": 1.42,
-				"index": 22
-			},
-			{
-				"text": "love ",
-				"start": 1.42,
-				"end": 1.76,
-				"index": 23
-			},
-			{
-				"text": "it ",
-				"start": 1.76,
-				"end": 1.84,
-				"index": 24
-			},
-			{
-				"text": "I ",
-				"start": 1.94,
-				"end": 2.1,
-				"index": 25
-			},
-			{
-				"text": "glaze ",
-				"start": 2.1,
-				"end": 2.32,
-				"index": 26
-			},
-			{
-				"text": "you, ",
-				"start": 2.32,
-				"end": 2.6,
-				"index": 27
-			},
-			{
-				"text": "and ",
-				"start": 2.64,
-				"end": 2.8,
-				"index": 28
-			},
-			{
-				"text": "I ",
-				"start": 2.8,
-				"end": 3,
-				"index": 29
-			},
-			{
-				"text": "cannot ",
-				"start": 3,
-				"end": 3.28,
-				"index": 30
-			},
-			{
-				"text": "change, ",
-				"start": 3.28,
-				"end": 3.6,
-				"index": 31
-			},
-			{
-				"text": "so ",
-				"start": 3.78,
-				"end": 3.92,
-				"index": 32
-			},
-			{
-				"text": "I ",
-				"start": 3.92,
-				"end": 4,
-				"index": 33
-			},
-			{
-				"text": "might ",
-				"start": 4,
-				"end": 4.18,
-				"index": 34
-			},
-			{
-				"text": "as ",
-				"start": 4.18,
-				"end": 4.4,
-				"index": 35
-			},
-			{
-				"text": "well ",
-				"start": 4.4,
-				"end": 4.58,
-				"index": 36
-			},
-			{
-				"text": "glaze ",
-				"start": 4.58,
-				"end": 4.98,
-				"index": 37
-			},
-			{
-				"text": "you, ",
-				"start": 4.98,
-				"end": 5.32,
-				"index": 38
-			},
-			{
-				"text": "oh",
-				"start": 5.32,
-				"end": 5.6,
-				"index": 39
-			}
-		],
-		"start": 5.02,
-		"end": 10.62
-	},
-	{
-		"words": [
-			{
-				"text": "He's ",
-				"start": 0,
-				"end": 0.62,
-				"index": 40
-			},
-			{
-				"text": "your ",
-				"start": 0.62,
-				"end": 0.78,
-				"index": 41
-			},
-			{
-				"text": "7",
-				"start": 0.78,
-				"end": 1.22,
-				"index": 42
-			},
-			{
-				"text": "-0, ",
-				"start": 1.22,
-				"end": 1.56,
-				"index": 43
-			},
-			{
-				"text": "but ",
-				"start": 1.7,
-				"end": 1.96,
-				"index": 44
-			},
-			{
-				"text": "you ",
-				"start": 1.96,
-				"end": 2.2,
-				"index": 45
-			},
-			{
-				"text": "are ",
-				"start": 2.2,
-				"end": 2.4,
-				"index": 46
-			},
-			{
-				"text": "the ",
-				"start": 2.4,
-				"end": 2.72,
-				"index": 47
-			},
-			{
-				"text": "one, ",
-				"start": 2.72,
-				"end": 3.02,
-				"index": 48
-			},
-			{
-				"text": "that's ",
-				"start": 3.06,
-				"end": 3.24,
-				"index": 49
-			},
-			{
-				"text": "in ",
-				"start": 3.24,
-				"end": 3.3,
-				"index": 50
-			},
-			{
-				"text": "the ",
-				"start": 3.3,
-				"end": 3.46,
-				"index": 51
-			},
-			{
-				"text": "Spotify, ",
-				"start": 3.46,
-				"end": 3.94,
-				"index": 52
-			},
-			{
-				"text": "she'll ",
-				"start": 4.28,
-				"end": 4.48,
-				"index": 53
-			},
-			{
-				"text": "be ",
-				"start": 4.48,
-				"end": 4.58,
-				"index": 54
-			},
-			{
-				"text": "that ",
-				"start": 4.58,
-				"end": 4.78,
-				"index": 55
-			},
-			{
-				"text": "brownify",
-				"start": 4.78,
-				"end": 5.34,
-				"index": 56
-			}
-		],
-		"start": 10.62,
-		"end": 15.96
-	},
-	{
-		"words": [
-			{
-				"text": "Got ",
-				"start": 0,
-				"end": 0.4,
-				"index": 57
-			},
-			{
-				"text": "four ",
-				"start": 0.4,
-				"end": 0.78,
-				"index": 58
-			},
-			{
-				"text": "rings, ",
-				"start": 0.78,
-				"end": 1.16,
-				"index": 59
-			},
-			{
-				"text": "come ",
-				"start": 1.3,
-				"end": 1.42,
-				"index": 60
-			},
-			{
-				"text": "bring ",
-				"start": 1.42,
-				"end": 1.72,
-				"index": 61
-			},
-			{
-				"text": "home ",
-				"start": 1.72,
-				"end": 1.92,
-				"index": 62
-			},
-			{
-				"text": "another ",
-				"start": 1.92,
-				"end": 2.26,
-				"index": 63
-			},
-			{
-				"text": "one, ",
-				"start": 2.26,
-				"end": 2.8,
-				"index": 64
-			},
-			{
-				"text": "brown ",
-				"start": 2.88,
-				"end": 3.06,
-				"index": 65
-			},
-			{
-				"text": "is ",
-				"start": 3.06,
-				"end": 3.28,
-				"index": 66
-			},
-			{
-				"text": "our ",
-				"start": 3.28,
-				"end": 3.4,
-				"index": 67
-			},
-			{
-				"text": "king, ",
-				"start": 3.4,
-				"end": 3.72,
-				"index": 68
-			},
-			{
-				"text": "none ",
-				"start": 3.8,
-				"end": 3.96,
-				"index": 69
-			},
-			{
-				"text": "of ",
-				"start": 3.96,
-				"end": 4.12,
-				"index": 70
-			},
-			{
-				"text": "the ",
-				"start": 4.12,
-				"end": 4.3,
-				"index": 71
-			},
-			{
-				"text": "other ",
-				"start": 4.3,
-				"end": 4.64,
-				"index": 72
-			},
-			{
-				"text": "guys ",
-				"start": 4.64,
-				"end": 4.84,
-				"index": 73
-			},
-			{
-				"text": "I ",
-				"start": 4.84,
-				"end": 5.3,
-				"index": 74
-			},
-			{
-				"text": "still ",
-				"start": 5.3,
-				"end": 5.58,
-				"index": 75
-			},
-			{
-				"text": "see ",
-				"start": 5.58,
-				"end": 5.84,
-				"index": 76
-			},
-			{
-				"text": "your ",
-				"start": 5.84,
-				"end": 6.04,
-				"index": 77
-			},
-			{
-				"text": "jersey ",
-				"start": 6.04,
-				"end": 6.38,
-				"index": 78
-			},
-			{
-				"text": "in ",
-				"start": 6.38,
-				"end": 6.7,
-				"index": 79
-			},
-			{
-				"text": "my ",
-				"start": 6.7,
-				"end": 6.9,
-				"index": 80
-			},
-			{
-				"text": "room, ",
-				"start": 6.9,
-				"end": 7.3,
-				"index": 81
-			},
-			{
-				"text": "can't ",
-				"start": 7.54,
-				"end": 7.98,
-				"index": 82
-			},
-			{
-				"text": "take ",
-				"start": 7.98,
-				"end": 8.22,
-				"index": 83
-			},
-			{
-				"text": "back ",
-				"start": 8.22,
-				"end": 8.48,
-				"index": 84
-			},
-			{
-				"text": "the ",
-				"start": 8.48,
-				"end": 8.62,
-				"index": 85
-			},
-			{
-				"text": "glaze ",
-				"start": 8.62,
-				"end": 8.92,
-				"index": 86
-			},
-			{
-				"text": "that ",
-				"start": 8.92,
-				"end": 9.12,
-				"index": 87
-			},
-			{
-				"text": "I ",
-				"start": 9.12,
-				"end": 9.26,
-				"index": 88
-			},
-			{
-				"text": "gave ",
-				"start": 9.26,
-				"end": 9.54,
 				"index": 89
-			},
-			{
-				"text": "you",
-				"start": 9.54,
-				"end": 9.82,
-				"index": 90
-			}
-		],
-		"start": 15.96,
-		"end": 25.78
-	},
-	{
-		"words": [
-			{
-				"text": "It's ",
-				"start": 0,
-				"end": 0.54,
-				"index": 91
 			},
 			{
 				"text": "to ",
 				"start": 0.54,
-				"end": 0.62,
-				"index": 92
+				"end": 0.59,
+				"index": 90
 			},
 			{
 				"text": "the ",
-				"start": 0.62,
-				"end": 0.76,
-				"index": 93
+				"start": 0.61,
+				"end": 0.71,
+				"index": 91
 			},
 			{
 				"text": "point ",
-				"start": 0.76,
-				"end": 1.04,
-				"index": 94
+				"start": 0.75,
+				"end": 1.01,
+				"index": 92
 			},
 			{
 				"text": "where ",
-				"start": 1.04,
-				"end": 1.26,
-				"index": 95
+				"start": 1.03,
+				"end": 1.39,
+				"index": 93
 			},
 			{
 				"text": "I ",
-				"start": 1.26,
-				"end": 1.38,
-				"index": 96
+				"start": 1.53,
+				"end": 1.65,
+				"index": 94
 			},
 			{
 				"text": "love ",
-				"start": 1.38,
-				"end": 1.76,
-				"index": 97
-			},
-			{
-				"text": "it ",
-				"start": 1.76,
-				"end": 1.84,
-				"index": 98
-			},
-			{
-				"text": "I ",
-				"start": 1.94,
-				"end": 2.12,
-				"index": 99
-			},
-			{
-				"text": "glaze ",
-				"start": 2.12,
-				"end": 2.36,
-				"index": 100
-			},
-			{
-				"text": "you, ",
-				"start": 2.36,
-				"end": 2.62,
-				"index": 101
+				"start": 1.67,
+				"end": 1.77,
+				"index": 95
 			},
 			{
 				"text": "and ",
-				"start": 2.64,
-				"end": 2.82,
-				"index": 102
+				"start": 1.82,
+				"end": 1.88,
+				"index": 96
 			},
 			{
 				"text": "I ",
-				"start": 2.82,
-				"end": 3,
-				"index": 103
+				"start": 1.98,
+				"end": 2.06,
+				"index": 97
+			},
+			{
+				"text": "grace ",
+				"start": 2.08,
+				"end": 2.36,
+				"index": 98
+			},
+			{
+				"text": "you",
+				"start": 2.38,
+				"end": 2.58,
+				"index": 99
+			}
+		],
+		"start": 26,
+		"end": 28.58
+	},
+	{
+		"words": [
+			{
+				"text": "And ",
+				"start": 0,
+				"end": 0.08,
+				"index": 100
+			},
+			{
+				"text": "I ",
+				"start": 0.18,
+				"end": 0.26,
+				"index": 101
 			},
 			{
 				"text": "cannot ",
-				"start": 3,
-				"end": 3.3,
-				"index": 104
+				"start": 0.28,
+				"end": 0.67,
+				"index": 102
 			},
 			{
-				"text": "change, ",
-				"start": 3.3,
-				"end": 3.62,
-				"index": 105
+				"text": "change ",
+				"start": 0.71,
+				"end": 1.01,
+				"index": 103
 			},
 			{
 				"text": "so ",
-				"start": 3.78,
-				"end": 3.94,
-				"index": 106
+				"start": 1.03,
+				"end": 1.19,
+				"index": 104
 			},
 			{
 				"text": "I ",
-				"start": 3.94,
-				"end": 4.02,
-				"index": 107
+				"start": 1.25,
+				"end": 1.31,
+				"index": 105
 			},
 			{
 				"text": "might ",
-				"start": 4.02,
-				"end": 4.22,
-				"index": 108
+				"start": 1.35,
+				"end": 1.55,
+				"index": 106
 			},
 			{
 				"text": "as ",
-				"start": 4.22,
-				"end": 4.44,
-				"index": 109
+				"start": 1.61,
+				"end": 1.67,
+				"index": 107
 			},
 			{
 				"text": "well ",
-				"start": 4.44,
-				"end": 4.66,
+				"start": 1.71,
+				"end": 1.94,
+				"index": 108
+			},
+			{
+				"text": "grace ",
+				"start": 1.98,
+				"end": 2.36,
+				"index": 109
+			},
+			{
+				"text": "you",
+				"start": 2.4,
+				"end": 3.27,
 				"index": 110
-			},
-			{
-				"text": "glaze ",
-				"start": 4.66,
-				"end": 4.98,
-				"index": 111
-			},
-			{
-				"text": "you, ",
-				"start": 4.98,
-				"end": 5.34,
-				"index": 112
-			},
-			{
-				"text": "oh",
-				"start": 5.34,
-				"end": 5.54,
-				"index": 113
 			}
 		],
-		"start": 25.78,
-		"end": 31.32
+		"start": 28.68,
+		"end": 31.95
 	}
 ]

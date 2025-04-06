@@ -4,383 +4,269 @@
 			{
 				"text": "I ",
 				"start": 0,
-				"end": 0.82,
+				"end": 0.26,
 				"index": 0
 			},
 			{
 				"text": "would ",
-				"start": 0.82,
-				"end": 1.18,
+				"start": 0.3,
+				"end": 0.52,
 				"index": 1
 			},
 			{
 				"text": "give ",
-				"start": 1.18,
-				"end": 1.48,
+				"start": 0.56,
+				"end": 0.8,
 				"index": 2
 			},
 			{
 				"text": "up ",
-				"start": 1.48,
-				"end": 1.76,
+				"start": 0.92,
+				"end": 1.04,
 				"index": 3
 			},
 			{
 				"text": "my ",
-				"start": 1.76,
-				"end": 1.98,
+				"start": 1.1,
+				"end": 1.36,
 				"index": 4
 			},
 			{
 				"text": "whole ",
-				"start": 1.98,
-				"end": 2.34,
+				"start": 1.44,
+				"end": 1.78,
 				"index": 5
 			},
 			{
 				"text": "day",
-				"start": 2.34,
-				"end": 2.78,
+				"start": 1.85,
+				"end": 2.41,
 				"index": 6
 			}
 		],
-		"start": 1.78,
-		"end": 4.56
+		"start": 2.61,
+		"end": 5.02
 	},
 	{
 		"words": [
 			{
 				"text": "Just ",
 				"start": 0,
-				"end": 1.72,
+				"end": 0.34,
 				"index": 7
 			},
 			{
 				"text": "to ",
-				"start": 1.72,
-				"end": 2.64,
+				"start": 0.38,
+				"end": 0.5,
 				"index": 8
 			},
 			{
 				"text": "watch ",
-				"start": 2.64,
-				"end": 2.92,
+				"start": 0.58,
+				"end": 0.84,
 				"index": 9
 			},
 			{
-				"text": "my",
-				"start": 2.92,
-				"end": 3.16,
+				"text": "my ",
+				"start": 0.9,
+				"end": 1.06,
 				"index": 10
-			}
-		],
-		"start": 4.56,
-		"end": 7.72
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Gold ",
-				"start": 0,
-				"end": 0.3,
+				"text": "girl ",
+				"start": 1.12,
+				"end": 1.48,
 				"index": 11
 			},
 			{
 				"text": "Bron ",
-				"start": 0.3,
-				"end": 0.7,
+				"start": 1.54,
+				"end": 1.86,
 				"index": 12
 			},
 			{
 				"text": "play",
-				"start": 0.7,
-				"end": 1.16,
+				"start": 1.9,
+				"end": 2.37,
 				"index": 13
 			}
 		],
-		"start": 7.72,
-		"end": 8.88
+		"start": 6.82,
+		"end": 9.19
 	},
 	{
 		"words": [
 			{
 				"text": "Don't ",
 				"start": 0,
-				"end": 2.3,
+				"end": 0.24,
 				"index": 14
 			},
 			{
 				"text": "care ",
-				"start": 2.3,
-				"end": 2.6,
+				"start": 0.28,
+				"end": 0.5,
 				"index": 15
 			},
 			{
 				"text": "what ",
-				"start": 2.6,
-				"end": 2.8,
+				"start": 0.58,
+				"end": 0.76,
 				"index": 16
 			},
 			{
 				"text": "my ",
-				"start": 2.8,
-				"end": 3.06,
+				"start": 0.82,
+				"end": 1.04,
 				"index": 17
 			},
 			{
-				"text": "Jordans ",
-				"start": 3.06,
-				"end": 3.76,
+				"text": "Jordan ",
+				"start": 1.08,
+				"end": 1.8,
 				"index": 18
 			},
 			{
-				"text": "say ",
-				"start": 3.76,
-				"end": 4.22,
+				"text": "say",
+				"start": 1.86,
+				"end": 2.29,
 				"index": 19
-			},
-			{
-				"text": "I ",
-				"start": 4.22,
-				"end": 5.3,
-				"index": 20
-			},
-			{
-				"text": "just ",
-				"start": 6.55,
-				"end": 6.85,
-				"index": 21
-			},
-			{
-				"text": "go ",
-				"start": 6.85,
-				"end": 7.07,
-				"index": 22
-			},
-			{
-				"text": "LeBron's ",
-				"start": 7.07,
-				"end": 8.07,
-				"index": 23
-			},
-			{
-				"text": "way",
-				"start": 8.07,
-				"end": 8.27,
-				"index": 24
 			}
 		],
-		"start": 8.88,
-		"end": 17.15
+		"start": 11.12,
+		"end": 13.41
 	},
 	{
 		"words": [
 			{
-				"text": "All ",
-				"start": 0,
-				"end": 0.64,
-				"index": 25
-			},
-			{
-				"text": "I've ",
-				"start": 0.64,
-				"end": 1,
-				"index": 26
-			},
-			{
-				"text": "got ",
-				"start": 1,
-				"end": 1.28,
-				"index": 27
-			},
-			{
-				"text": "is ",
-				"start": 1.28,
-				"end": 1.9,
-				"index": 28
-			},
-			{
-				"text": "Lakers ",
-				"start": 1.9,
-				"end": 2.4,
-				"index": 29
-			},
-			{
-				"text": "in ",
-				"start": 2.4,
-				"end": 2.94,
-				"index": 30
-			},
-			{
-				"text": "five ",
-				"start": 2.94,
-				"end": 3.5,
-				"index": 31
-			},
-			{
 				"text": "I ",
-				"start": 3.5,
-				"end": 3.98,
-				"index": 32
+				"start": 0,
+				"end": 0.12,
+				"index": 20
 			},
 			{
-				"text": "ain't ",
-				"start": 3.98,
-				"end": 4.48,
-				"index": 33
+				"text": "just ",
+				"start": 0.16,
+				"end": 0.36,
+				"index": 21
 			},
 			{
-				"text": "got ",
-				"start": 4.48,
-				"end": 4.6,
-				"index": 34
+				"text": "go ",
+				"start": 0.42,
+				"end": 0.68,
+				"index": 22
 			},
 			{
-				"text": "no ",
-				"start": 4.6,
-				"end": 5.12,
-				"index": 35
+				"text": "LeBron's ",
+				"start": 0.7,
+				"end": 1.52,
+				"index": 23
 			},
 			{
-				"text": "time ",
-				"start": 5.12,
-				"end": 5.46,
-				"index": 36
-			},
-			{
-				"text": "to ",
-				"start": 5.46,
-				"end": 5.96,
-				"index": 37
-			},
-			{
-				"text": "not ",
-				"start": 5.96,
-				"end": 6.44,
-				"index": 38
-			},
-			{
-				"text": "be ",
-				"start": 6.44,
-				"end": 6.72,
-				"index": 39
-			},
-			{
-				"text": "lazy ",
-				"start": 6.72,
-				"end": 7.28,
-				"index": 40
-			},
-			{
-				"text": "and ",
-				"start": 7.28,
-				"end": 7.66,
-				"index": 41
-			},
-			{
-				"text": "run",
-				"start": 7.66,
-				"end": 7.94,
-				"index": 42
+				"text": "way",
+				"start": 1.56,
+				"end": 2.43,
+				"index": 24
 			}
 		],
-		"start": 17.15,
-		"end": 25.09
+		"start": 15.55,
+		"end": 17.98
 	},
 	{
 		"words": [
 			{
 				"text": "That's ",
 				"start": 0,
-				"end": 1.22,
-				"index": 43
+				"end": 1.28,
+				"index": 25
 			},
 			{
 				"text": "my ",
-				"start": 1.22,
-				"end": 1.36,
-				"index": 44
+				"start": 1.61,
+				"end": 1.65,
+				"index": 26
 			},
 			{
 				"text": "king, ",
-				"start": 1.36,
-				"end": 1.9,
-				"index": 45
+				"start": 1.67,
+				"end": 4.56,
+				"index": 27
 			},
 			{
 				"text": "that's ",
-				"start": 2.08,
-				"end": 2.34,
-				"index": 46
+				"start": 5.1,
+				"end": 6.93,
+				"index": 28
 			},
 			{
 				"text": "my ",
-				"start": 2.34,
-				"end": 2.48,
-				"index": 47
-			},
-			{
-				"text": "king",
-				"start": 2.48,
-				"end": 3,
-				"index": 48
-			}
-		],
-		"start": 25.09,
-		"end": 28.09
-	},
-	{
-		"words": [
-			{
-				"text": "My ",
-				"start": 0,
-				"end": 0.92,
-				"index": 49
-			},
-			{
-				"text": "glorious ",
-				"start": 0.92,
-				"end": 1.4,
-				"index": 50
+				"start": 8.59,
+				"end": 8.88,
+				"index": 29
 			},
 			{
 				"text": "king, ",
-				"start": 1.4,
-				"end": 1.96,
-				"index": 51
+				"start": 8.91,
+				"end": 9.98,
+				"index": 30
 			},
 			{
 				"text": "my ",
-				"start": 2.1,
-				"end": 2.44,
-				"index": 52
+				"start": 11.02,
+				"end": 11.2,
+				"index": 31
+			},
+			{
+				"text": "glorious ",
+				"start": 11.24,
+				"end": 11.97,
+				"index": 32
+			},
+			{
+				"text": "king, ",
+				"start": 12.05,
+				"end": 12.55,
+				"index": 33
+			},
+			{
+				"text": "my ",
+				"start": 12.63,
+				"end": 12.89,
+				"index": 34
+			},
+			{
+				"text": "king, ",
+				"start": 12.93,
+				"end": 13.37,
+				"index": 35
+			},
+			{
+				"text": "my ",
+				"start": 13.71,
+				"end": 13.97,
+				"index": 36
 			},
 			{
 				"text": "king",
-				"start": 2.44,
-				"end": 2.86,
-				"index": 53
+				"start": 14.02,
+				"end": 14.56,
+				"index": 37
 			}
 		],
-		"start": 28.09,
-		"end": 30.95
+		"start": 17.95,
+		"end": 32.51
 	},
 	{
 		"words": [
 			{
-				"text": "My ",
+				"text": "LeBron-y",
 				"start": 0,
-				"end": 0.64,
-				"index": 54
-			},
-			{
-				"text": "king",
-				"start": 0.64,
-				"end": 1.06,
-				"index": 55
+				"end": 1.65,
+				"index": 38
 			}
 		],
-		"start": 30.95,
-		"end": 32.01
+		"start": 33.45,
+		"end": 35.1
 	}
 ]

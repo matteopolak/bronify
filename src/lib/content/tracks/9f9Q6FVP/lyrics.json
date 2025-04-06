@@ -2,361 +2,493 @@
 	{
 		"words": [
 			{
-				"text": "LeBron, ",
+				"text": "The ",
 				"start": 0,
-				"end": 1.14,
+				"end": 0.64,
 				"index": 0
 			},
 			{
-				"text": "you'll ",
-				"start": 3.11,
-				"end": 4.03,
+				"text": "Bron, ",
+				"start": 0.68,
+				"end": 1.42,
 				"index": 1
 			},
 			{
-				"text": "always ",
-				"start": 4.03,
-				"end": 4.67,
+				"text": "you'll ",
+				"start": 3.35,
+				"end": 3.93,
 				"index": 2
 			},
 			{
-				"text": "be ",
-				"start": 4.67,
-				"end": 5.27,
+				"text": "always ",
+				"start": 4.11,
+				"end": 4.75,
 				"index": 3
 			},
 			{
-				"text": "the ",
-				"start": 5.27,
-				"end": 5.55,
+				"text": "be ",
+				"start": 4.83,
+				"end": 5.07,
 				"index": 4
 			},
 			{
-				"text": "GOAT",
-				"start": 5.55,
-				"end": 6.53,
+				"text": "the",
+				"start": 5.15,
+				"end": 5.57,
 				"index": 5
 			}
 		],
-		"start": 0.88,
-		"end": 7.41
+		"start": 1.28,
+		"end": 6.85
+	},
+	{
+		"words": [
+			{
+				"text": "GO",
+				"start": 0,
+				"end": 0.54,
+				"index": 6
+			}
+		],
+		"start": 6.95,
+		"end": 7.49
 	},
 	{
 		"words": [
 			{
 				"text": "How ",
 				"start": 0,
-				"end": 0.84,
-				"index": 6
-			},
-			{
-				"text": "could ",
-				"start": 0.84,
-				"end": 1.46,
+				"end": 0.46,
 				"index": 7
 			},
 			{
-				"text": "you?",
-				"start": 1.46,
-				"end": 1.94,
+				"text": "could ",
+				"start": 0.54,
+				"end": 1.44,
 				"index": 8
+			},
+			{
+				"text": "I ",
+				"start": 1.46,
+				"end": 1.48,
+				"index": 9
+			},
+			{
+				"text": "ever ",
+				"start": 3.71,
+				"end": 4.19,
+				"index": 10
+			},
+			{
+				"text": "live ",
+				"start": 4.23,
+				"end": 4.79,
+				"index": 11
+			},
+			{
+				"text": "without ",
+				"start": 4.83,
+				"end": 5.55,
+				"index": 12
+			},
+			{
+				"text": "you?",
+				"start": 5.65,
+				"end": 6.25,
+				"index": 13
 			}
 		],
-		"start": 7.75,
-		"end": 9.69
+		"start": 8.5,
+		"end": 14.75
 	},
 	{
 		"words": [
 			{
-				"text": "I'll ",
+				"text": "I ",
 				"start": 0,
-				"end": 0.84,
-				"index": 9
+				"end": 0.6,
+				"index": 14
+			},
+			{
+				"text": "would ",
+				"start": 0.62,
+				"end": 1.24,
+				"index": 15
+			},
+			{
+				"text": "rather ",
+				"start": 1.26,
+				"end": 2.28,
+				"index": 16
+			},
+			{
+				"text": "die ",
+				"start": 2.36,
+				"end": 2.91,
+				"index": 17
+			},
+			{
+				"text": "than ",
+				"start": 2.97,
+				"end": 3.23,
+				"index": 18
 			},
 			{
 				"text": "let ",
-				"start": 0.84,
-				"end": 1.18,
-				"index": 10
+				"start": 3.59,
+				"end": 3.83,
+				"index": 19
 			},
 			{
 				"text": "you ",
-				"start": 4.12,
-				"end": 4.5,
-				"index": 11
+				"start": 3.89,
+				"end": 4.09,
+				"index": 20
 			},
 			{
 				"text": "go",
-				"start": 4.5,
-				"end": 4.8,
-				"index": 12
+				"start": 4.19,
+				"end": 4.57,
+				"index": 21
 			}
 		],
-		"start": 15.04,
-		"end": 19.84
+		"start": 15.61,
+		"end": 20.18
 	},
 	{
 		"words": [
 			{
 				"text": "From ",
 				"start": 0,
-				"end": 0.74,
-				"index": 13
+				"end": 0.26,
+				"index": 22
 			},
 			{
 				"text": "the",
-				"start": 0.74,
-				"end": 1,
-				"index": 14
+				"start": 0.3,
+				"end": 0.56,
+				"index": 23
 			}
 		],
-		"start": 20.26,
-		"end": 21.26
+		"start": 20.96,
+		"end": 21.52
 	},
 	{
 		"words": [
 			{
 				"text": "Heat ",
 				"start": 0,
-				"end": 0.36,
-				"index": 15
-			},
-			{
-				"text": "to ",
-				"start": 0.36,
-				"end": 0.54,
-				"index": 16
-			},
-			{
-				"text": "the ",
-				"start": 0.54,
-				"end": 0.84,
-				"index": 17
-			},
-			{
-				"text": "Cavs ",
-				"start": 0.84,
-				"end": 1.4,
-				"index": 18
-			},
-			{
-				"text": "to ",
-				"start": 1.4,
-				"end": 1.5,
-				"index": 19
-			},
-			{
-				"text": "the ",
-				"start": 1.5,
-				"end": 1.78,
-				"index": 20
-			},
-			{
-				"text": "Lakers ",
-				"start": 1.78,
-				"end": 2.82,
-				"index": 21
-			},
-			{
-				"text": "I ",
-				"start": 2.98,
-				"end": 3.38,
-				"index": 22
-			},
-			{
-				"text": "will ",
-				"start": 3.38,
-				"end": 3.66,
-				"index": 23
-			},
-			{
-				"text": "always ",
-				"start": 3.66,
-				"end": 4.82,
+				"end": 0.24,
 				"index": 24
 			},
 			{
-				"text": "say ",
-				"start": 4.82,
-				"end": 5.8,
+				"text": "to ",
+				"start": 0.28,
+				"end": 0.56,
 				"index": 25
 			},
 			{
-				"text": "I ",
-				"start": 5.8,
-				"end": 6.94,
+				"text": "the ",
+				"start": 0.6,
+				"end": 0.8,
 				"index": 26
 			},
 			{
-				"text": "will ",
-				"start": 6.94,
-				"end": 7.16,
+				"text": "Cavs ",
+				"start": 0.86,
+				"end": 1.36,
 				"index": 27
 			},
 			{
-				"text": "never ",
-				"start": 7.16,
-				"end": 7.58,
+				"text": "to ",
+				"start": 1.38,
+				"end": 1.52,
 				"index": 28
 			},
 			{
-				"text": "fall ",
-				"start": 7.58,
-				"end": 8.4,
+				"text": "the ",
+				"start": 1.54,
+				"end": 1.74,
 				"index": 29
 			},
 			{
-				"text": "in ",
-				"start": 8.4,
-				"end": 9.02,
+				"text": "Lakers ",
+				"start": 1.82,
+				"end": 3.03,
 				"index": 30
 			},
 			{
-				"text": "love ",
-				"start": 9.02,
-				"end": 9.46,
+				"text": "I ",
+				"start": 3.25,
+				"end": 3.31,
 				"index": 31
 			},
 			{
-				"text": "again ",
-				"start": 9.46,
-				"end": 10.12,
+				"text": "will ",
+				"start": 3.35,
+				"end": 3.59,
 				"index": 32
 			},
 			{
-				"text": "until ",
-				"start": 10.12,
-				"end": 10.66,
+				"text": "always ",
+				"start": 4.21,
+				"end": 5.27,
 				"index": 33
 			},
 			{
-				"text": "I",
-				"start": 10.66,
-				"end": 11.2,
+				"text": "say",
+				"start": 5.39,
+				"end": 5.91,
 				"index": 34
 			}
 		],
-		"start": 21.26,
-		"end": 32.46
+		"start": 21.54,
+		"end": 27.45
 	},
 	{
 		"words": [
 			{
 				"text": "I ",
 				"start": 0,
-				"end": 0.38,
+				"end": 0.04,
 				"index": 35
 			},
 			{
-				"text": "said ",
-				"start": 0.38,
-				"end": 0.7,
+				"text": "will ",
+				"start": 0.1,
+				"end": 0.3,
 				"index": 36
 			},
 			{
-				"text": "I ",
-				"start": 0.7,
-				"end": 1.14,
+				"text": "never ",
+				"start": 0.4,
+				"end": 1.12,
 				"index": 37
 			},
 			{
-				"text": "will ",
-				"start": 1.14,
-				"end": 1.6,
+				"text": "fall ",
+				"start": 1.26,
+				"end": 1.88,
 				"index": 38
 			},
 			{
-				"text": "never, ",
-				"start": 1.6,
-				"end": 2.02,
+				"text": "in ",
+				"start": 2.06,
+				"end": 2.12,
 				"index": 39
 			},
 			{
-				"text": "it's ",
-				"start": 3.65,
-				"end": 4.41,
+				"text": "love ",
+				"start": 2.22,
+				"end": 2.79,
 				"index": 40
 			},
 			{
-				"text": "him ",
-				"start": 4.41,
-				"end": 4.59,
+				"text": "again ",
+				"start": 2.95,
+				"end": 3.41,
 				"index": 41
 			},
 			{
-				"text": "I ",
-				"start": 4.59,
-				"end": 5.13,
+				"text": "until ",
+				"start": 3.55,
+				"end": 3.97,
 				"index": 42
 			},
 			{
-				"text": "see ",
-				"start": 5.13,
-				"end": 5.47,
+				"text": "I've ",
+				"start": 4.25,
+				"end": 4.39,
 				"index": 43
 			},
 			{
-				"text": "again ",
-				"start": 5.47,
-				"end": 6.25,
+				"text": "found ",
+				"start": 4.87,
+				"end": 5.49,
 				"index": 44
 			},
 			{
-				"text": "I ",
-				"start": 6.49,
-				"end": 7.47,
+				"text": "LeBron",
+				"start": 5.61,
+				"end": 6.47,
 				"index": 45
-			},
+			}
+		],
+		"start": 28.31,
+		"end": 34.78
+	},
+	{
+		"words": [
 			{
-				"text": "was ",
-				"start": 7.47,
-				"end": 7.91,
+				"text": "I ",
+				"start": 0,
+				"end": 0.32,
 				"index": 46
 			},
 			{
-				"text": "lost ",
-				"start": 7.91,
-				"end": 8.27,
+				"text": "said ",
+				"start": 0.34,
+				"end": 0.7,
 				"index": 47
 			},
 			{
-				"text": "within ",
-				"start": 8.27,
-				"end": 8.89,
+				"text": "I ",
+				"start": 0.72,
+				"end": 1.2,
 				"index": 48
 			},
 			{
-				"text": "the ",
-				"start": 8.89,
-				"end": 9.61,
+				"text": "will ",
+				"start": 1.26,
+				"end": 1.5,
 				"index": 49
 			},
 			{
-				"text": "darkness ",
-				"start": 9.61,
-				"end": 10.33,
+				"text": "never ",
+				"start": 1.58,
+				"end": 2.3,
 				"index": 50
 			},
 			{
-				"text": "but ",
-				"start": 10.33,
-				"end": 10.85,
+				"text": "fall ",
+				"start": 2.44,
+				"end": 3.08,
 				"index": 51
 			},
 			{
-				"text": "then ",
-				"start": 10.85,
-				"end": 11.43,
+				"text": "unless ",
+				"start": 3.24,
+				"end": 3.89,
 				"index": 52
 			},
 			{
-				"text": "I",
-				"start": 11.43,
-				"end": 11.69,
+				"text": "it's ",
+				"start": 4.07,
+				"end": 4.19,
 				"index": 53
+			},
+			{
+				"text": "him",
+				"start": 4.25,
+				"end": 4.49,
+				"index": 54
 			}
 		],
-		"start": 34.91,
-		"end": 46.6
+		"start": 35.17,
+		"end": 39.66
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.08,
+				"index": 55
+			},
+			{
+				"text": "see ",
+				"start": 0.16,
+				"end": 0.76,
+				"index": 56
+			},
+			{
+				"text": "again ",
+				"start": 0.94,
+				"end": 1.74,
+				"index": 57
+			},
+			{
+				"text": "I ",
+				"start": 1.76,
+				"end": 2.55,
+				"index": 58
+			},
+			{
+				"text": "was ",
+				"start": 2.61,
+				"end": 2.79,
+				"index": 59
+			},
+			{
+				"text": "lost ",
+				"start": 2.89,
+				"end": 3.39,
+				"index": 60
+			},
+			{
+				"text": "within ",
+				"start": 3.47,
+				"end": 4.31,
+				"index": 61
+			},
+			{
+				"text": "the ",
+				"start": 4.39,
+				"end": 4.55,
+				"index": 62
+			},
+			{
+				"text": "darkness ",
+				"start": 4.63,
+				"end": 5.45,
+				"index": 63
+			},
+			{
+				"text": "but ",
+				"start": 5.53,
+				"end": 6.08,
+				"index": 64
+			},
+			{
+				"text": "then ",
+				"start": 6.14,
+				"end": 6.4,
+				"index": 65
+			},
+			{
+				"text": "I ",
+				"start": 6.66,
+				"end": 6.8,
+				"index": 66
+			},
+			{
+				"text": "fell ",
+				"start": 7.3,
+				"end": 7.98,
+				"index": 67
+			},
+			{
+				"text": "LeBron",
+				"start": 8,
+				"end": 8.62,
+				"index": 68
+			}
+		],
+		"start": 40.14,
+		"end": 48.76
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.22,
+				"index": 69
+			},
+			{
+				"text": "love ",
+				"start": 0.24,
+				"end": 0.94,
+				"index": 70
+			},
+			{
+				"text": "LeBron",
+				"start": 1.08,
+				"end": 2.45,
+				"index": 71
+			}
+		],
+		"start": 49.46,
+		"end": 51.91
 	}
 ]

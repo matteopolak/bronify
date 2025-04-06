@@ -2,182 +2,206 @@
 	{
 		"words": [
 			{
-				"text": "well ",
-				"start": 2.87,
-				"end": 3.43,
+				"text": "Well ",
+				"start": 0,
+				"end": 0.4,
 				"index": 0
 			},
 			{
 				"text": "I ",
-				"start": 3.43,
-				"end": 3.69,
+				"start": 0.6,
+				"end": 0.66,
 				"index": 1
 			},
 			{
 				"text": "don't ",
-				"start": 3.69,
-				"end": 4.31,
+				"start": 0.72,
+				"end": 1.02,
 				"index": 2
 			},
 			{
-				"text": "know, ",
-				"start": 4.31,
-				"end": 4.57,
+				"text": "know ",
+				"start": 1.12,
+				"end": 1.74,
 				"index": 3
 			},
 			{
 				"text": "why ",
-				"start": 5.09,
-				"end": 6.65,
+				"start": 3.31,
+				"end": 3.71,
 				"index": 4
 			},
 			{
 				"text": "JR",
-				"start": 6.65,
-				"end": 7.45,
+				"start": 3.75,
+				"end": 4.53,
 				"index": 5
 			}
 		],
-		"start": -1,
-		"end": 6.45
+		"start": 2.33,
+		"end": 6.86
 	},
 	{
 		"words": [
 			{
-				"text": "Smith, ",
+				"text": "Smith ",
 				"start": 0,
-				"end": 0.46,
+				"end": 0.74,
 				"index": 6
 			},
 			{
 				"text": "didn't ",
-				"start": 1.22,
-				"end": 2.84,
+				"start": 2.26,
+				"end": 2.6,
 				"index": 7
 			},
 			{
 				"text": "pass ",
-				"start": 2.84,
-				"end": 3.24,
+				"start": 2.67,
+				"end": 3.11,
 				"index": 8
 			},
 			{
 				"text": "that ",
-				"start": 3.24,
-				"end": 3.6,
+				"start": 3.15,
+				"end": 3.43,
 				"index": 9
 			},
 			{
-				"text": "ball, ",
-				"start": 3.6,
-				"end": 4.1,
+				"text": "ball",
+				"start": 3.53,
+				"end": 4.11,
 				"index": 10
-			},
-			{
-				"text": "but ",
-				"start": 5.26,
-				"end": 6.14,
-				"index": 11
-			},
-			{
-				"text": "he's ",
-				"start": 6.14,
-				"end": 6.46,
-				"index": 12
-			},
-			{
-				"text": "dumb ",
-				"start": 6.46,
-				"end": 6.72,
-				"index": 13
-			},
-			{
-				"text": "as ",
-				"start": 6.72,
-				"end": 7.12,
-				"index": 14
-			},
-			{
-				"text": "shit, ",
-				"start": 7.12,
-				"end": 7.56,
-				"index": 15
-			},
-			{
-				"text": "my ",
-				"start": 8.6,
-				"end": 9.54,
-				"index": 16
-			},
-			{
-				"text": "kingdom's ",
-				"start": 9.54,
-				"end": 10.62,
-				"index": 17
-			},
-			{
-				"text": "just ",
-				"start": 10.62,
-				"end": 10.66,
-				"index": 18
-			},
-			{
-				"text": "better, ",
-				"start": 10.66,
-				"end": 10.98,
-				"index": 19
-			},
-			{
-				"text": "than ",
-				"start": 11.6,
-				"end": 12.96,
-				"index": 20
-			},
-			{
-				"text": "the ",
-				"start": 12.96,
-				"end": 13.24,
-				"index": 21
-			},
-			{
-				"text": "2018 ",
-				"start": 13.24,
-				"end": 13.86,
-				"index": 22
-			},
-			{
-				"text": "Cavs",
-				"start": 13.86,
-				"end": 14.86,
-				"index": 23
 			}
 		],
-		"start": 6.45,
-		"end": 21.31
+		"start": 6.87,
+		"end": 10.98
 	},
 	{
 		"words": [
 			{
-				"text": "LeBron ",
+				"text": "But ",
 				"start": 0,
-				"end": 1,
+				"end": 0.24,
+				"index": 11
+			},
+			{
+				"text": "he's ",
+				"start": 0.28,
+				"end": 0.42,
+				"index": 12
+			},
+			{
+				"text": "dumb ",
+				"start": 0.46,
+				"end": 0.8,
+				"index": 13
+			},
+			{
+				"text": "as ",
+				"start": 0.84,
+				"end": 1.26,
+				"index": 14
+			},
+			{
+				"text": "shit, ",
+				"start": 1.28,
+				"end": 1.94,
+				"index": 15
+			},
+			{
+				"text": "my ",
+				"start": 3.45,
+				"end": 3.81,
+				"index": 16
+			},
+			{
+				"text": "king ",
+				"start": 3.85,
+				"end": 4.31,
+				"index": 17
+			},
+			{
+				"text": "deserves ",
+				"start": 4.33,
+				"end": 4.73,
+				"index": 18
+			},
+			{
+				"text": "better",
+				"start": 4.77,
+				"end": 5.41,
+				"index": 19
+			}
+		],
+		"start": 12.58,
+		"end": 17.99
+	},
+	{
+		"words": [
+			{
+				"text": "Than ",
+				"start": 0,
+				"end": 0.18,
+				"index": 20
+			},
+			{
+				"text": "the ",
+				"start": 0.2,
+				"end": 0.34,
+				"index": 21
+			},
+			{
+				"text": "2018",
+				"start": 0.36,
+				"end": 0.74,
+				"index": 22
+			}
+		],
+		"start": 19.52,
+		"end": 20.26
+	},
+	{
+		"words": [
+			{
+				"text": "Cavs",
+				"start": 0,
+				"end": 0.66,
+				"index": 23
+			}
+		],
+		"start": 20.74,
+		"end": 21.4
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron, ",
+				"start": 0,
+				"end": 0.84,
 				"index": 24
 			},
 			{
-				"text": "Washington, ",
-				"start": 1,
-				"end": 1.62,
+				"text": "Washington",
+				"start": 0.86,
+				"end": 2.14,
 				"index": 25
-			},
+			}
+		],
+		"start": 22.98,
+		"end": 25.12
+	},
+	{
+		"words": [
 			{
-				"text": "JR",
-				"start": 2,
-				"end": 3.96,
+				"text": "J.R",
+				"start": 0,
+				"end": 0.5,
 				"index": 26
 			}
 		],
-		"start": 22.45,
-		"end": 26.41
+		"start": 26.29,
+		"end": 26.79
 	},
 	{
 		"words": [
@@ -189,288 +213,258 @@
 			},
 			{
 				"text": "is ",
-				"start": 0.48,
-				"end": 1.04,
+				"start": 0.76,
+				"end": 0.92,
 				"index": 28
 			},
 			{
-				"text": "ass",
-				"start": 1.04,
-				"end": 1.5,
+				"text": "as ",
+				"start": 2.16,
+				"end": 2.44,
 				"index": 29
-			}
-		],
-		"start": 26.41,
-		"end": 27.91
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "LeBron ",
-				"start": 0,
-				"end": 0.98,
+				"start": 2.54,
+				"end": 3.13,
 				"index": 30
 			},
 			{
 				"text": "was ",
-				"start": 0.98,
-				"end": 1.3,
+				"start": 3.14,
+				"end": 3.24,
 				"index": 31
 			},
 			{
-				"text": "wild, ",
-				"start": 1.3,
-				"end": 1.6,
+				"text": "wide ",
+				"start": 3.45,
+				"end": 3.87,
 				"index": 32
 			},
 			{
-				"text": "old ",
-				"start": 1.7,
-				"end": 1.92,
+				"text": "open ",
+				"start": 4.45,
+				"end": 4.63,
 				"index": 33
 			},
 			{
-				"text": "brown, ",
-				"start": 1.92,
-				"end": 2.44,
+				"text": "over ",
+				"start": 5.87,
+				"end": 6.69,
 				"index": 34
 			},
 			{
-				"text": "over ",
-				"start": 2.76,
-				"end": 4.06,
+				"text": "the ",
+				"start": 6.71,
+				"end": 6.87,
 				"index": 35
 			},
 			{
-				"text": "the ",
-				"start": 4.06,
-				"end": 4.86,
+				"text": "three-point ",
+				"start": 6.91,
+				"end": 7.77,
 				"index": 36
 			},
 			{
-				"text": "3 ",
-				"start": 4.86,
-				"end": 5.14,
-				"index": 37
-			},
-			{
-				"text": "point ",
-				"start": 5.14,
-				"end": 5.56,
-				"index": 38
-			},
-			{
 				"text": "line",
-				"start": 5.56,
-				"end": 6.06,
+				"start": 7.81,
+				"end": 8.43,
+				"index": 37
+			}
+		],
+		"start": 26.81,
+		"end": 35.24
+	},
+	{
+		"words": [
+			{
+				"text": "J.R",
+				"start": 0,
+				"end": 0.4,
+				"index": 38
+			}
+		],
+		"start": 35.76,
+		"end": 36.16
+	},
+	{
+		"words": [
+			{
+				"text": "Smith, ",
+				"start": 0,
+				"end": 0.42,
 				"index": 39
-			}
-		],
-		"start": 28.63,
-		"end": 34.69
-	},
-	{
-		"words": [
-			{
-				"text": "JR",
-				"start": 0,
-				"end": 0.66,
-				"index": 40
-			}
-		],
-		"start": 35.23,
-		"end": 35.89
-	},
-	{
-		"words": [
-			{
-				"text": "Smith ",
-				"start": 0,
-				"end": 0.26,
-				"index": 41
 			},
 			{
 				"text": "welcome ",
-				"start": 0.26,
-				"end": 0.9,
-				"index": 42
+				"start": 0.48,
+				"end": 0.86,
+				"index": 40
 			},
 			{
 				"text": "to ",
 				"start": 0.9,
-				"end": 1.2,
+				"end": 1.68,
+				"index": 41
+			},
+			{
+				"text": "China",
+				"start": 1.72,
+				"end": 3.45,
+				"index": 42
+			}
+		],
+		"start": 36.19,
+		"end": 39.64
+	},
+	{
+		"words": [
+			{
+				"text": "You ",
+				"start": 0,
+				"end": 0.06,
 				"index": 43
 			},
 			{
-				"text": "China, ",
-				"start": 1.2,
-				"end": 2.18,
+				"text": "will ",
+				"start": 0.26,
+				"end": 0.6,
 				"index": 44
 			},
 			{
-				"text": "you ",
-				"start": 2.54,
-				"end": 3.32,
+				"text": "enjoy ",
+				"start": 0.62,
+				"end": 1.72,
 				"index": 45
 			},
 			{
-				"text": "will ",
-				"start": 3.32,
-				"end": 3.8,
+				"text": "it ",
+				"start": 1.92,
+				"end": 2.06,
 				"index": 46
 			},
 			{
-				"text": "enjoy ",
-				"start": 3.8,
-				"end": 4.62,
+				"text": "there ",
+				"start": 2.14,
+				"end": 3.02,
 				"index": 47
 			},
 			{
-				"text": "it ",
-				"start": 4.62,
-				"end": 5.6,
+				"text": "cause ",
+				"start": 3.04,
+				"end": 3.24,
 				"index": 48
 			},
 			{
-				"text": "there, ",
-				"start": 5.6,
-				"end": 5.98,
+				"text": "LeBron ",
+				"start": 3.35,
+				"end": 3.93,
 				"index": 49
 			},
 			{
-				"text": "cause ",
-				"start": 6.58,
-				"end": 6.84,
+				"text": "was ",
+				"start": 3.95,
+				"end": 4.05,
 				"index": 50
 			},
 			{
-				"text": "LeBron ",
-				"start": 6.84,
-				"end": 7.28,
+				"text": "wide ",
+				"start": 4.11,
+				"end": 4.71,
 				"index": 51
 			},
 			{
-				"text": "was ",
-				"start": 7.28,
-				"end": 7.68,
+				"text": "open",
+				"start": 5.25,
+				"end": 5.45,
 				"index": 52
-			},
+			}
+		],
+		"start": 39.65,
+		"end": 45.1
+	},
+	{
+		"words": [
 			{
-				"text": "wild, ",
-				"start": 7.68,
-				"end": 7.98,
+				"text": "Now ",
+				"start": 0,
+				"end": 0.4,
 				"index": 53
 			},
 			{
-				"text": "old, ",
-				"start": 8,
-				"end": 8.18,
-				"index": 54
-			},
-			{
-				"text": "brown, ",
-				"start": 8.3,
-				"end": 8.66,
-				"index": 55
-			},
-			{
-				"text": "now ",
-				"start": 9.14,
-				"end": 10.12,
-				"index": 56
-			},
-			{
 				"text": "the",
-				"start": 10.12,
-				"end": 10.62,
-				"index": 57
+				"start": 0.44,
+				"end": 0.78,
+				"index": 54
 			}
 		],
-		"start": 35.89,
-		"end": 46.51
+		"start": 46.08,
+		"end": 46.86
 	},
 	{
 		"words": [
 			{
 				"text": "Kings ",
 				"start": 0,
-				"end": 0.64,
-				"index": 58
+				"end": 0.44,
+				"index": 55
 			},
 			{
-				"text": "say ",
-				"start": 0.64,
-				"end": 1.02,
-				"index": 59
-			},
-			{
-				"text": "he's ",
-				"start": 1.02,
-				"end": 1.62,
-				"index": 60
-			},
-			{
-				"text": "loved, ",
-				"start": 4.05,
-				"end": 4.43,
-				"index": 61
-			},
-			{
-				"text": "he ",
-				"start": 4.93,
-				"end": 6.47,
-				"index": 62
-			},
-			{
-				"text": "deserves ",
-				"start": 6.47,
-				"end": 7.19,
-				"index": 63
-			},
-			{
-				"text": "everything",
-				"start": 7.19,
-				"end": 8.47,
-				"index": 64
+				"text": "in",
+				"start": 1.1,
+				"end": 1.28,
+				"index": 56
 			}
 		],
-		"start": 46.51,
-		"end": 54.98
+		"start": 46.92,
+		"end": 48.2
 	},
 	{
 		"words": [
 			{
-				"text": "LeBron ",
+				"text": "L.A ",
 				"start": 0,
-				"end": 0.82,
-				"index": 65
+				"end": 0.62,
+				"index": 57
 			},
 			{
-				"text": "was ",
-				"start": 0.82,
-				"end": 1.14,
-				"index": 66
+				"text": "are ",
+				"start": 1.04,
+				"end": 1.36,
+				"index": 58
 			},
 			{
-				"text": "wild, ",
-				"start": 1.14,
-				"end": 1.4,
-				"index": 67
+				"text": "going ",
+				"start": 1.38,
+				"end": 2.78,
+				"index": 59
 			},
 			{
-				"text": "old, ",
-				"start": 1.44,
-				"end": 1.74,
-				"index": 68
+				"text": "easy ",
+				"start": 3.21,
+				"end": 3.29,
+				"index": 60
 			},
 			{
-				"text": "brown",
-				"start": 1.82,
-				"end": 2.2,
-				"index": 69
+				"text": "he ",
+				"start": 4.08,
+				"end": 4.58,
+				"index": 61
+			},
+			{
+				"text": "deserves ",
+				"start": 4.62,
+				"end": 5.48,
+				"index": 62
+			},
+			{
+				"text": "everything",
+				"start": 6.2,
+				"end": 10.42,
+				"index": 63
 			}
 		],
-		"start": 56.1,
-		"end": 58.3
+		"start": 48.71,
+		"end": 59.13
 	}
 ]

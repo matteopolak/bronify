@@ -2,13 +2,547 @@
 	{
 		"words": [
 			{
-				"text": "boop",
-				"start": 2.81,
-				"end": 3.49,
+				"text": "The ",
+				"start": 0,
+				"end": 1.5,
 				"index": 0
+			},
+			{
+				"text": "time ",
+				"start": 4.18,
+				"end": 7.57,
+				"index": 1
+			},
+			{
+				"text": "is ",
+				"start": 7.75,
+				"end": 8.13,
+				"index": 2
+			},
+			{
+				"text": "almost ",
+				"start": 11.31,
+				"end": 16.82,
+				"index": 3
+			},
+			{
+				"text": "over",
+				"start": 17.14,
+				"end": 19.44,
+				"index": 4
 			}
 		],
-		"start": -1,
-		"end": 2.49
+		"start": 28.25,
+		"end": 47.69
+	},
+	{
+		"words": [
+			{
+				"text": "You ",
+				"start": 0,
+				"end": 0.76,
+				"index": 5
+			},
+			{
+				"text": "perfected ",
+				"start": 0.84,
+				"end": 1.64,
+				"index": 6
+			},
+			{
+				"text": "your ",
+				"start": 1.94,
+				"end": 2.1,
+				"index": 7
+			},
+			{
+				"text": "craft ",
+				"start": 2.18,
+				"end": 2.98,
+				"index": 8
+			},
+			{
+				"text": "as ",
+				"start": 3.85,
+				"end": 3.97,
+				"index": 9
+			},
+			{
+				"text": "a ",
+				"start": 4.09,
+				"end": 4.13,
+				"index": 10
+			},
+			{
+				"text": "ball",
+				"start": 4.23,
+				"end": 4.97,
+				"index": 11
+			}
+		],
+		"start": 48.85,
+		"end": 53.82
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 2.22,
+				"index": 12
+			},
+			{
+				"text": "know ",
+				"start": 2.24,
+				"end": 2.48,
+				"index": 13
+			},
+			{
+				"text": "you ",
+				"start": 2.55,
+				"end": 2.77,
+				"index": 14
+			},
+			{
+				"text": "got ",
+				"start": 2.81,
+				"end": 3.07,
+				"index": 15
+			},
+			{
+				"text": "a ",
+				"start": 3.17,
+				"end": 3.21,
+				"index": 16
+			},
+			{
+				"text": "lot ",
+				"start": 3.29,
+				"end": 3.71,
+				"index": 17
+			},
+			{
+				"text": "of ",
+				"start": 3.73,
+				"end": 3.79,
+				"index": 18
+			},
+			{
+				"text": "game ",
+				"start": 3.83,
+				"end": 4.47,
+				"index": 19
+			},
+			{
+				"text": "in ",
+				"start": 4.49,
+				"end": 4.63,
+				"index": 20
+			},
+			{
+				"text": "you",
+				"start": 4.65,
+				"end": 4.91,
+				"index": 21
+			}
+		],
+		"start": 56.04,
+		"end": 60.95
+	},
+	{
+		"words": [
+			{
+				"text": "I ",
+				"start": 0,
+				"end": 0.1,
+				"index": 22
+			},
+			{
+				"text": "know ",
+				"start": 0.16,
+				"end": 0.4,
+				"index": 23
+			},
+			{
+				"text": "you ",
+				"start": 0.46,
+				"end": 0.64,
+				"index": 24
+			},
+			{
+				"text": "got ",
+				"start": 0.68,
+				"end": 0.94,
+				"index": 25
+			},
+			{
+				"text": "a ",
+				"start": 1.02,
+				"end": 1.06,
+				"index": 26
+			},
+			{
+				"text": "lot ",
+				"start": 1.16,
+				"end": 1.54,
+				"index": 27
+			},
+			{
+				"text": "of ",
+				"start": 1.6,
+				"end": 1.68,
+				"index": 28
+			},
+			{
+				"text": "strength ",
+				"start": 1.72,
+				"end": 6.17,
+				"index": 29
+			},
+			{
+				"text": "in ",
+				"start": 6.29,
+				"end": 6.41,
+				"index": 30
+			},
+			{
+				"text": "you ",
+				"start": 6.83,
+				"end": 10.54,
+				"index": 31
+			},
+			{
+				"text": "I ",
+				"start": 10.52,
+				"end": 11.82,
+				"index": 32
+			},
+			{
+				"text": "don't ",
+				"start": 11.84,
+				"end": 11.94,
+				"index": 33
+			},
+			{
+				"text": "care ",
+				"start": 11.96,
+				"end": 12.04,
+				"index": 34
+			},
+			{
+				"text": "I ",
+				"start": 12.06,
+				"end": 12.08,
+				"index": 35
+			},
+			{
+				"text": "will ",
+				"start": 12.32,
+				"end": 12.5,
+				"index": 36
+			},
+			{
+				"text": "be ",
+				"start": 12.52,
+				"end": 12.62,
+				"index": 37
+			},
+			{
+				"text": "crying ",
+				"start": 12.66,
+				"end": 13.2,
+				"index": 38
+			},
+			{
+				"text": "when ",
+				"start": 13.35,
+				"end": 13.49,
+				"index": 39
+			},
+			{
+				"text": "you ",
+				"start": 13.61,
+				"end": 13.66,
+				"index": 40
+			},
+			{
+				"text": "say ",
+				"start": 13.7,
+				"end": 14.61,
+				"index": 41
+			},
+			{
+				"text": "you're ",
+				"start": 14.63,
+				"end": 14.83,
+				"index": 42
+			},
+			{
+				"text": "letting ",
+				"start": 14.87,
+				"end": 15.71,
+				"index": 43
+			},
+			{
+				"text": "go",
+				"start": 15.73,
+				"end": 15.89,
+				"index": 44
+			}
+		],
+		"start": 62.41,
+		"end": 78.3
+	},
+	{
+		"words": [
+			{
+				"text": "My ",
+				"start": 0,
+				"end": 0.1,
+				"index": 45
+			},
+			{
+				"text": "client's ",
+				"start": 0.14,
+				"end": 0.68,
+				"index": 46
+			},
+			{
+				"text": "king, ",
+				"start": 0.7,
+				"end": 1.34,
+				"index": 47
+			},
+			{
+				"text": "I ",
+				"start": 1.36,
+				"end": 1.44,
+				"index": 48
+			},
+			{
+				"text": "just ",
+				"start": 1.46,
+				"end": 1.72,
+				"index": 49
+			},
+			{
+				"text": "can't ",
+				"start": 1.74,
+				"end": 2.28,
+				"index": 50
+			},
+			{
+				"text": "stop ",
+				"start": 2.3,
+				"end": 2.78,
+				"index": 51
+			},
+			{
+				"text": "thinking",
+				"start": 2.8,
+				"end": 3.85,
+				"index": 52
+			}
+		],
+		"start": 78.64,
+		"end": 82.49
+	},
+	{
+		"words": [
+			{
+				"text": "Of ",
+				"start": 0,
+				"end": 0.26,
+				"index": 53
+			},
+			{
+				"text": "all ",
+				"start": 0.28,
+				"end": 0.44,
+				"index": 54
+			},
+			{
+				"text": "the ",
+				"start": 0.46,
+				"end": 0.58,
+				"index": 55
+			},
+			{
+				"text": "50,000 ",
+				"start": 0.64,
+				"end": 1.6,
+				"index": 56
+			},
+			{
+				"text": "points ",
+				"start": 1.66,
+				"end": 2.16,
+				"index": 57
+			},
+			{
+				"text": "you ",
+				"start": 2.32,
+				"end": 2.44,
+				"index": 58
+			},
+			{
+				"text": "put ",
+				"start": 2.46,
+				"end": 2.92,
+				"index": 59
+			},
+			{
+				"text": "in ",
+				"start": 2.94,
+				"end": 3.08,
+				"index": 60
+			},
+			{
+				"text": "the ",
+				"start": 3.11,
+				"end": 3.28,
+				"index": 61
+			},
+			{
+				"text": "net",
+				"start": 3.79,
+				"end": 3.85,
+				"index": 62
+			}
+		],
+		"start": 82.89,
+		"end": 86.74
+	},
+	{
+		"words": [
+			{
+				"text": "Of ",
+				"start": 0,
+				"end": 0.3,
+				"index": 63
+			},
+			{
+				"text": "all ",
+				"start": 0.32,
+				"end": 0.4,
+				"index": 64
+			},
+			{
+				"text": "the ",
+				"start": 0.42,
+				"end": 0.62,
+				"index": 65
+			},
+			{
+				"text": "rings, ",
+				"start": 0.82,
+				"end": 1.4,
+				"index": 66
+			},
+			{
+				"text": "MVP, ",
+				"start": 1.76,
+				"end": 1.84,
+				"index": 67
+			},
+			{
+				"text": "and ",
+				"start": 1.86,
+				"end": 2.02,
+				"index": 68
+			},
+			{
+				"text": "all-star ",
+				"start": 2.12,
+				"end": 2.56,
+				"index": 69
+			},
+			{
+				"text": "appearances",
+				"start": 2.64,
+				"end": 3.89,
+				"index": 70
+			}
+		],
+		"start": 87.13,
+		"end": 91.02
+	},
+	{
+		"words": [
+			{
+				"text": "Everything ",
+				"start": 0,
+				"end": 0.78,
+				"index": 71
+			},
+			{
+				"text": "to ",
+				"start": 0.82,
+				"end": 1.08,
+				"index": 72
+			},
+			{
+				"text": "this ",
+				"start": 1.14,
+				"end": 1.28,
+				"index": 73
+			},
+			{
+				"text": "game ",
+				"start": 1.5,
+				"end": 1.88,
+				"index": 74
+			},
+			{
+				"text": "that ",
+				"start": 1.9,
+				"end": 2.2,
+				"index": 75
+			},
+			{
+				"text": "you've ",
+				"start": 2.28,
+				"end": 2.42,
+				"index": 76
+			},
+			{
+				"text": "given ",
+				"start": 2.46,
+				"end": 3.16,
+				"index": 77
+			},
+			{
+				"text": "up",
+				"start": 4.29,
+				"end": 4.33,
+				"index": 78
+			}
+		],
+		"start": 91.64,
+		"end": 95.97
+	},
+	{
+		"words": [
+			{
+				"text": "Please ",
+				"start": 0,
+				"end": 1.87,
+				"index": 79
+			},
+			{
+				"text": "don't ",
+				"start": 1.93,
+				"end": 2.23,
+				"index": 80
+			},
+			{
+				"text": "go",
+				"start": 2.33,
+				"end": 6.64,
+				"index": 81
+			}
+		],
+		"start": 97.23,
+		"end": 103.87
 	}
 ]

@@ -2,49 +2,355 @@
 	{
 		"words": [
 			{
-				"text": "As ",
+				"text": "How ",
 				"start": 0,
-				"end": 0.26,
+				"end": 3.75,
 				"index": 0
 			},
 			{
-				"text": "before, ",
-				"start": 0.26,
-				"end": 0.98,
+				"text": "do ",
+				"start": 3.77,
+				"end": 3.81,
 				"index": 1
 			},
 			{
-				"text": "see, ",
-				"start": 2.81,
-				"end": 3.49,
+				"text": "you ",
+				"start": 3.83,
+				"end": 3.89,
 				"index": 2
 			},
 			{
-				"text": "it ",
-				"start": 3.75,
-				"end": 4.13,
+				"text": "legally ",
+				"start": 3.91,
+				"end": 4.05,
 				"index": 3
 			},
 			{
-				"text": "shows ",
-				"start": 13.6,
-				"end": 14,
+				"text": "believe ",
+				"start": 4.07,
+				"end": 4.22,
 				"index": 4
 			},
 			{
-				"text": "in ",
-				"start": 14,
-				"end": 14.22,
+				"text": "I'm ",
+				"start": 4.24,
+				"end": 4.38,
 				"index": 5
 			},
 			{
-				"text": "your",
-				"start": 14.22,
-				"end": 14.6,
+				"text": "more ",
+				"start": 4.48,
+				"end": 5.16,
 				"index": 6
+			},
+			{
+				"text": "than ",
+				"start": 5.7,
+				"end": 5.82,
+				"index": 7
+			},
+			{
+				"text": "has ",
+				"start": 5.9,
+				"end": 6.3,
+				"index": 8
+			},
+			{
+				"text": "before? ",
+				"start": 6.38,
+				"end": 10.2,
+				"index": 9
+			},
+			{
+				"text": "and ",
+				"start": 30.33,
+				"end": 31.17,
+				"index": 10
+			},
+			{
+				"text": "another ",
+				"start": 31.19,
+				"end": 32.97,
+				"index": 11
+			},
+			{
+				"text": "ring ",
+				"start": 32.99,
+				"end": 33.31,
+				"index": 12
+			},
+			{
+				"text": "that ",
+				"start": 33.43,
+				"end": 34.33,
+				"index": 13
+			},
+			{
+				"text": "goes ",
+				"start": 34.57,
+				"end": 36.53,
+				"index": 14
+			},
+			{
+				"text": "in ",
+				"start": 36.55,
+				"end": 36.77,
+				"index": 15
+			},
+			{
+				"text": "five ",
+				"start": 39.74,
+				"end": 40.04,
+				"index": 16
+			},
+			{
+				"text": "LeBron",
+				"start": 40.06,
+				"end": 40.18,
+				"index": 17
 			}
 		],
-		"start": 8.72,
-		"end": 23.32
+		"start": 2.93,
+		"end": 43.11
+	},
+	{
+		"words": [
+			{
+				"text": "James ",
+				"start": 0,
+				"end": 5.13,
+				"index": 18
+			},
+			{
+				"text": "with ",
+				"start": 5.15,
+				"end": 5.23,
+				"index": 19
+			},
+			{
+				"text": "a ",
+				"start": 5.25,
+				"end": 5.27,
+				"index": 20
+			},
+			{
+				"text": "ring ",
+				"start": 5.29,
+				"end": 5.37,
+				"index": 21
+			},
+			{
+				"text": "LeBron ",
+				"start": 5.39,
+				"end": 5.51,
+				"index": 22
+			},
+			{
+				"text": "doing ",
+				"start": 5.53,
+				"end": 5.63,
+				"index": 23
+			},
+			{
+				"text": "for ",
+				"start": 5.65,
+				"end": 5.71,
+				"index": 24
+			},
+			{
+				"text": "your ",
+				"start": 5.73,
+				"end": 5.81,
+				"index": 25
+			},
+			{
+				"text": "son ",
+				"start": 5.83,
+				"end": 5.89,
+				"index": 26
+			},
+			{
+				"text": "LeBron ",
+				"start": 5.91,
+				"end": 6.03,
+				"index": 27
+			},
+			{
+				"text": "James ",
+				"start": 6.05,
+				"end": 6.15,
+				"index": 28
+			},
+			{
+				"text": "take ",
+				"start": 6.17,
+				"end": 6.25,
+				"index": 29
+			},
+			{
+				"text": "the ",
+				"start": 6.27,
+				"end": 6.33,
+				"index": 30
+			},
+			{
+				"text": "Lakers ",
+				"start": 6.35,
+				"end": 6.47,
+				"index": 31
+			},
+			{
+				"text": "to ",
+				"start": 6.49,
+				"end": 6.53,
+				"index": 32
+			},
+			{
+				"text": "the ",
+				"start": 6.55,
+				"end": 6.61,
+				"index": 33
+			},
+			{
+				"text": "finals ",
+				"start": 6.63,
+				"end": 6.75,
+				"index": 34
+			},
+			{
+				"text": "LeBron ",
+				"start": 6.77,
+				"end": 6.89,
+				"index": 35
+			},
+			{
+				"text": "James ",
+				"start": 6.91,
+				"end": 7.01,
+				"index": 36
+			},
+			{
+				"text": "best ",
+				"start": 7.03,
+				"end": 7.11,
+				"index": 37
+			},
+			{
+				"text": "Olympic ",
+				"start": 7.13,
+				"end": 7.27,
+				"index": 38
+			},
+			{
+				"text": "player ",
+				"start": 7.29,
+				"end": 7.41,
+				"index": 39
+			},
+			{
+				"text": "LeBron ",
+				"start": 7.43,
+				"end": 7.55,
+				"index": 40
+			},
+			{
+				"text": "James ",
+				"start": 7.57,
+				"end": 7.67,
+				"index": 41
+			},
+			{
+				"text": "we ",
+				"start": 7.69,
+				"end": 7.73,
+				"index": 42
+			},
+			{
+				"text": "all ",
+				"start": 7.75,
+				"end": 7.81,
+				"index": 43
+			},
+			{
+				"text": "know ",
+				"start": 7.83,
+				"end": 7.91,
+				"index": 44
+			},
+			{
+				"text": "he's ",
+				"start": 7.93,
+				"end": 8.01,
+				"index": 45
+			},
+			{
+				"text": "fun ",
+				"start": 8.03,
+				"end": 8.09,
+				"index": 46
+			},
+			{
+				"text": "LeBron ",
+				"start": 8.11,
+				"end": 8.23,
+				"index": 47
+			},
+			{
+				"text": "James ",
+				"start": 8.25,
+				"end": 8.71,
+				"index": 48
+			},
+			{
+				"text": "say ",
+				"start": 8.73,
+				"end": 8.79,
+				"index": 49
+			},
+			{
+				"text": "it ",
+				"start": 8.81,
+				"end": 8.85,
+				"index": 50
+			},
+			{
+				"text": "loud ",
+				"start": 8.87,
+				"end": 8.95,
+				"index": 51
+			},
+			{
+				"text": "and ",
+				"start": 8.97,
+				"end": 9.03,
+				"index": 52
+			},
+			{
+				"text": "he'll ",
+				"start": 9.05,
+				"end": 9.15,
+				"index": 53
+			},
+			{
+				"text": "carry ",
+				"start": 9.17,
+				"end": 9.27,
+				"index": 54
+			},
+			{
+				"text": "his ",
+				"start": 9.29,
+				"end": 9.35,
+				"index": 55
+			},
+			{
+				"text": "team",
+				"start": 9.49,
+				"end": 9.57,
+				"index": 56
+			}
+		],
+		"start": 50.92,
+		"end": 60.49
 	}
 ]

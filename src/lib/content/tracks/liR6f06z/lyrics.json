@@ -2,37 +2,445 @@
 	{
 		"words": [
 			{
-				"text": "LeBron ",
-				"start": 0,
-				"end": 0.5,
+				"text": "let ",
+				"start": 2.79,
+				"end": 4.29,
 				"index": 0
 			},
 			{
-				"text": "LeBron",
-				"start": 0.6,
-				"end": 1.46,
+				"text": "me ",
+				"start": 6.17,
+				"end": 6.91,
 				"index": 1
+			},
+			{
+				"text": "give ",
+				"start": 8.99,
+				"end": 9.67,
+				"index": 2
+			},
+			{
+				"text": "it ",
+				"start": 9.81,
+				"end": 10.58,
+				"index": 3
+			},
+			{
+				"text": "to ",
+				"start": 12.42,
+				"end": 13.18,
+				"index": 4
+			},
+			{
+				"text": "you ",
+				"start": 14.9,
+				"end": 17.52,
+				"index": 5
+			},
+			{
+				"text": "straight ",
+				"start": 18.06,
+				"end": 20.31,
+				"index": 6
+			},
+			{
+				"text": "let ",
+				"start": 20.33,
+				"end": 21.21,
+				"index": 7
+			},
+			{
+				"text": "my ",
+				"start": 23.57,
+				"end": 23.75,
+				"index": 8
+			},
+			{
+				"text": "girl ",
+				"start": 23.83,
+				"end": 24.51,
+				"index": 9
+			},
+			{
+				"text": "got ",
+				"start": 24.65,
+				"end": 24.83,
+				"index": 10
+			},
+			{
+				"text": "50k",
+				"start": 24.93,
+				"end": 28.03,
+				"index": 11
 			}
 		],
-		"start": 1.46,
-		"end": 2.92
+		"start": -1,
+		"end": 27.03
 	},
 	{
 		"words": [
 			{
-				"text": "LeBron ",
+				"text": "When ",
 				"start": 0,
-				"end": 0.52,
-				"index": 2
+				"end": 0.3,
+				"index": 12
 			},
 			{
-				"text": "LeBron",
-				"start": 0.62,
-				"end": 18.64,
-				"index": 3
+				"text": "he ",
+				"start": 0.32,
+				"end": 0.48,
+				"index": 13
+			},
+			{
+				"text": "plays, ",
+				"start": 0.52,
+				"end": 0.92,
+				"index": 14
+			},
+			{
+				"text": "no ",
+				"start": 0.94,
+				"end": 1.12,
+				"index": 15
+			},
+			{
+				"text": "divine",
+				"start": 1.2,
+				"end": 3.33,
+				"index": 16
 			}
 		],
-		"start": 16.42,
-		"end": 35.06
+		"start": 28.3,
+		"end": 31.63
+	},
+	{
+		"words": [
+			{
+				"text": "Never ",
+				"start": 0,
+				"end": 0.24,
+				"index": 17
+			},
+			{
+				"text": "steps ",
+				"start": 0.26,
+				"end": 0.66,
+				"index": 18
+			},
+			{
+				"text": "out ",
+				"start": 0.78,
+				"end": 0.9,
+				"index": 19
+			},
+			{
+				"text": "of ",
+				"start": 0.96,
+				"end": 1.02,
+				"index": 20
+			},
+			{
+				"text": "bounds",
+				"start": 1.06,
+				"end": 1.7,
+				"index": 21
+			}
+		],
+		"start": 31.67,
+		"end": 33.37
+	},
+	{
+		"words": [
+			{
+				"text": "When ",
+				"start": 0,
+				"end": 0.2,
+				"index": 22
+			},
+			{
+				"text": "he ",
+				"start": 0.22,
+				"end": 0.38,
+				"index": 23
+			},
+			{
+				"text": "pull ",
+				"start": 0.4,
+				"end": 0.58,
+				"index": 24
+			},
+			{
+				"text": "drafts, ",
+				"start": 0.6,
+				"end": 0.82,
+				"index": 25
+			},
+			{
+				"text": "makes ",
+				"start": 0.84,
+				"end": 1.02,
+				"index": 26
+			},
+			{
+				"text": "the ",
+				"start": 1.04,
+				"end": 1.14,
+				"index": 27
+			},
+			{
+				"text": "main ",
+				"start": 1.2,
+				"end": 1.6,
+				"index": 28
+			},
+			{
+				"text": "leader ",
+				"start": 1.64,
+				"end": 2.04,
+				"index": 29
+			},
+			{
+				"text": "of ",
+				"start": 2.45,
+				"end": 2.85,
+				"index": 30
+			},
+			{
+				"text": "the ",
+				"start": 3.93,
+				"end": 3.99,
+				"index": 31
+			},
+			{
+				"text": "club",
+				"start": 4.15,
+				"end": 4.23,
+				"index": 32
+			}
+		],
+		"start": 34.63,
+		"end": 38.86
+	},
+	{
+		"words": [
+			{
+				"text": "So ",
+				"start": 0,
+				"end": 0.38,
+				"index": 33
+			},
+			{
+				"text": "I ",
+				"start": 0.52,
+				"end": 0.6,
+				"index": 34
+			},
+			{
+				"text": "might ",
+				"start": 0.86,
+				"end": 1.56,
+				"index": 35
+			},
+			{
+				"text": "be ",
+				"start": 1.66,
+				"end": 1.94,
+				"index": 36
+			},
+			{
+				"text": "glazing, ",
+				"start": 2.7,
+				"end": 3.68,
+				"index": 37
+			},
+			{
+				"text": "but ",
+				"start": 4.81,
+				"end": 4.87,
+				"index": 38
+			},
+			{
+				"text": "it's ",
+				"start": 4.99,
+				"end": 6.07,
+				"index": 39
+			},
+			{
+				"text": "not ",
+				"start": 6.41,
+				"end": 6.53,
+				"index": 40
+			},
+			{
+				"text": "even ",
+				"start": 6.75,
+				"end": 7.99,
+				"index": 41
+			},
+			{
+				"text": "glazing",
+				"start": 8.55,
+				"end": 9.19,
+				"index": 42
+			}
+		],
+		"start": 40.13,
+		"end": 49.32
+	},
+	{
+		"words": [
+			{
+				"text": "Jump ",
+				"start": 0,
+				"end": 0.08,
+				"index": 43
+			},
+			{
+				"text": "in ",
+				"start": 0.1,
+				"end": 0.22,
+				"index": 44
+			},
+			{
+				"text": "the ",
+				"start": 0.5,
+				"end": 0.74,
+				"index": 45
+			},
+			{
+				"text": "air, ",
+				"start": 0.92,
+				"end": 1.82,
+				"index": 46
+			},
+			{
+				"text": "he ",
+				"start": 2.28,
+				"end": 2.32,
+				"index": 47
+			},
+			{
+				"text": "don't ",
+				"start": 2.5,
+				"end": 3.48,
+				"index": 48
+			},
+			{
+				"text": "care, ",
+				"start": 4.16,
+				"end": 5.05,
+				"index": 49
+			},
+			{
+				"text": "don't ",
+				"start": 5.09,
+				"end": 5.19,
+				"index": 50
+			},
+			{
+				"text": "cut ",
+				"start": 5.35,
+				"end": 5.85,
+				"index": 51
+			},
+			{
+				"text": "your ",
+				"start": 6.15,
+				"end": 6.61,
+				"index": 52
+			},
+			{
+				"text": "facial",
+				"start": 6.73,
+				"end": 8.01,
+				"index": 53
+			}
+		],
+		"start": 49.36,
+		"end": 57.37
+	},
+	{
+		"words": [
+			{
+				"text": "When ",
+				"start": 0,
+				"end": 0.14,
+				"index": 54
+			},
+			{
+				"text": "he's ",
+				"start": 0.2,
+				"end": 0.28,
+				"index": 55
+			},
+			{
+				"text": "back, ",
+				"start": 0.38,
+				"end": 0.94,
+				"index": 56
+			},
+			{
+				"text": "he'll ",
+				"start": 1.42,
+				"end": 2.36,
+				"index": 57
+			},
+			{
+				"text": "cut ",
+				"start": 2.38,
+				"end": 2.58,
+				"index": 58
+			},
+			{
+				"text": "the ",
+				"start": 2.6,
+				"end": 3,
+				"index": 59
+			},
+			{
+				"text": "slack ",
+				"start": 3.14,
+				"end": 3.96,
+				"index": 60
+			},
+			{
+				"text": "and ",
+				"start": 3.98,
+				"end": 4.24,
+				"index": 61
+			},
+			{
+				"text": "make ",
+				"start": 4.37,
+				"end": 4.67,
+				"index": 62
+			},
+			{
+				"text": "it ",
+				"start": 4.77,
+				"end": 5.35,
+				"index": 63
+			},
+			{
+				"text": "to ",
+				"start": 5.51,
+				"end": 6.79,
+				"index": 64
+			},
+			{
+				"text": "the ",
+				"start": 6.81,
+				"end": 6.93,
+				"index": 65
+			},
+			{
+				"text": "final",
+				"start": 6.95,
+				"end": 8.19,
+				"index": 66
+			}
+		],
+		"start": 57.39,
+		"end": 65.58
 	}
 ]

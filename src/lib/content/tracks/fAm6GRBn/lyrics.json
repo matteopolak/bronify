@@ -2,589 +2,955 @@
 	{
 		"words": [
 			{
-				"text": "ain't ",
-				"start": 1,
-				"end": 1.14,
+				"text": "Ain't ",
+				"start": 0,
+				"end": 0.2,
 				"index": 0
 			},
 			{
 				"text": "no ",
-				"start": 1.14,
-				"end": 1.24,
+				"start": 0.22,
+				"end": 0.42,
 				"index": 1
 			},
 			{
 				"text": "sunshine ",
-				"start": 1.24,
-				"end": 1.9,
+				"start": 0.52,
+				"end": 1.4,
 				"index": 2
 			},
 			{
-				"text": "with ",
-				"start": 1.9,
-				"end": 2.54,
+				"text": "without ",
+				"start": 1.44,
+				"end": 1.8,
 				"index": 3
 			},
 			{
-				"text": "LeBron ",
-				"start": 2.54,
-				"end": 2.9,
+				"text": "Bron",
+				"start": 1.84,
+				"end": 2.93,
 				"index": 4
-			},
-			{
-				"text": "and ",
-				"start": 2.9,
-				"end": 4.32,
-				"index": 5
-			},
-			{
-				"text": "he's ",
-				"start": 4.32,
-				"end": 4.56,
-				"index": 6
-			},
-			{
-				"text": "always ",
-				"start": 4.56,
-				"end": 5.06,
-				"index": 7
-			},
-			{
-				"text": "the ",
-				"start": 12.87,
-				"end": 13.41,
-				"index": 8
-			},
-			{
-				"text": "off ",
-				"start": 13.41,
-				"end": 13.77,
-				"index": 9
-			},
-			{
-				"text": "season ",
-				"start": 13.77,
-				"end": 14.17,
-				"index": 10
-			},
-			{
-				"text": "is ",
-				"start": 14.17,
-				"end": 14.75,
-				"index": 11
-			},
-			{
-				"text": "awfully ",
-				"start": 14.75,
-				"end": 15.59,
-				"index": 12
-			},
-			{
-				"text": "cold ",
-				"start": 15.59,
-				"end": 16.45,
-				"index": 13
-			},
-			{
-				"text": "never ",
-				"start": 19.4,
-				"end": 19.98,
-				"index": 14
-			},
-			{
-				"text": "say ",
-				"start": 19.98,
-				"end": 20.5,
-				"index": 15
-			},
-			{
-				"text": "he's ",
-				"start": 20.5,
-				"end": 21.24,
-				"index": 16
-			},
-			{
-				"text": "getting ",
-				"start": 21.24,
-				"end": 21.6,
-				"index": 17
-			},
-			{
-				"text": "old ",
-				"start": 21.6,
-				"end": 22.72,
-				"index": 18
-			},
-			{
-				"text": "cuz ",
-				"start": 22.72,
-				"end": 23.56,
-				"index": 19
-			},
-			{
-				"text": "ain't ",
-				"start": 25.89,
-				"end": 26.27,
-				"index": 20
-			},
-			{
-				"text": "no ",
-				"start": 26.27,
-				"end": 26.41,
-				"index": 21
-			},
-			{
-				"text": "sunshine ",
-				"start": 26.41,
-				"end": 26.99,
-				"index": 22
-			},
-			{
-				"text": "with ",
-				"start": 26.99,
-				"end": 27.69,
-				"index": 23
-			},
-			{
-				"text": "LeBron ",
-				"start": 27.69,
-				"end": 28.33,
-				"index": 24
-			},
-			{
-				"text": "my ",
-				"start": 28.91,
-				"end": 29.49,
-				"index": 25
-			},
-			{
-				"text": "parlays ",
-				"start": 29.49,
-				"end": 30.39,
-				"index": 26
-			},
-			{
-				"text": "just ",
-				"start": 30.39,
-				"end": 30.75,
-				"index": 27
-			},
-			{
-				"text": "don't ",
-				"start": 30.75,
-				"end": 31.23,
-				"index": 28
-			},
-			{
-				"text": "pay ",
-				"start": 31.23,
-				"end": 31.51,
-				"index": 29
-			},
-			{
-				"text": "anytime ",
-				"start": 31.51,
-				"end": 32.57,
-				"index": 30
-			},
-			{
-				"text": "he ",
-				"start": 32.57,
-				"end": 33.79,
-				"index": 31
-			},
-			{
-				"text": "doesn't ",
-				"start": 33.79,
-				"end": 34.39,
-				"index": 32
-			},
-			{
-				"text": "play ",
-				"start": 34.39,
-				"end": 34.65,
-				"index": 33
-			},
-			{
-				"text": "well ",
-				"start": 39.82,
-				"end": 40.18,
-				"index": 34
-			},
-			{
-				"text": "he's ",
-				"start": 40.18,
-				"end": 40.54,
-				"index": 35
-			},
-			{
-				"text": "the ",
-				"start": 40.54,
-				"end": 40.68,
-				"index": 36
-			},
-			{
-				"text": "GOAT, ",
-				"start": 40.68,
-				"end": 41.24,
-				"index": 37
-			},
-			{
-				"text": "the ",
-				"start": 41.24,
-				"end": 41.36,
-				"index": 38
-			},
-			{
-				"text": "GOAT, ",
-				"start": 41.36,
-				"end": 41.74,
-				"index": 39
-			},
-			{
-				"text": "the ",
-				"start": 41.74,
-				"end": 41.88,
-				"index": 40
-			},
-			{
-				"text": "GOAT, ",
-				"start": 41.88,
-				"end": 42.3,
-				"index": 41
-			},
-			{
-				"text": "the ",
-				"start": 42.3,
-				"end": 42.48,
-				"index": 42
-			},
-			{
-				"text": "GOAT, ",
-				"start": 42.48,
-				"end": 42.82,
-				"index": 43
-			},
-			{
-				"text": "the ",
-				"start": 42.82,
-				"end": 43,
-				"index": 44
-			},
-			{
-				"text": "GOAT, ",
-				"start": 43,
-				"end": 43.46,
-				"index": 45
-			},
-			{
-				"text": "the ",
-				"start": 43.46,
-				"end": 43.62,
-				"index": 46
-			},
-			{
-				"text": "GOAT, ",
-				"start": 43.62,
-				"end": 44,
-				"index": 47
-			},
-			{
-				"text": "the ",
-				"start": 44,
-				"end": 44.26,
-				"index": 48
-			},
-			{
-				"text": "GOAT, ",
-				"start": 44.26,
-				"end": 44.56,
-				"index": 49
-			},
-			{
-				"text": "the ",
-				"start": 44.56,
-				"end": 44.76,
-				"index": 50
-			},
-			{
-				"text": "GOAT, ",
-				"start": 44.76,
-				"end": 45.14,
-				"index": 51
-			},
-			{
-				"text": "the ",
-				"start": 45.14,
-				"end": 45.3,
-				"index": 52
-			},
-			{
-				"text": "GOAT, ",
-				"start": 45.3,
-				"end": 46.24,
-				"index": 53
-			},
-			{
-				"text": "the ",
-				"start": 46.24,
-				"end": 46.44,
-				"index": 54
-			},
-			{
-				"text": "GOAT, ",
-				"start": 46.44,
-				"end": 46.8,
-				"index": 55
-			},
-			{
-				"text": "the ",
-				"start": 46.82,
-				"end": 47,
-				"index": 56
-			},
-			{
-				"text": "GOAT, ",
-				"start": 47,
-				"end": 47.36,
-				"index": 57
-			},
-			{
-				"text": "the ",
-				"start": 47.48,
-				"end": 47.52,
-				"index": 58
-			},
-			{
-				"text": "GOAT, ",
-				"start": 47.52,
-				"end": 47.94,
-				"index": 59
-			},
-			{
-				"text": "the ",
-				"start": 47.96,
-				"end": 48.04,
-				"index": 60
-			},
-			{
-				"text": "GOAT, ",
-				"start": 48.04,
-				"end": 48.44,
-				"index": 61
-			},
-			{
-				"text": "the ",
-				"start": 48.54,
-				"end": 48.64,
-				"index": 62
-			},
-			{
-				"text": "GOAT, ",
-				"start": 48.64,
-				"end": 49.04,
-				"index": 63
-			},
-			{
-				"text": "the ",
-				"start": 49.06,
-				"end": 49.22,
-				"index": 64
-			},
-			{
-				"text": "GOAT, the ",
-				"start": 49.22,
-				"end": 49.44,
-				"index": 65
-			},
-			{
-				"text": "GOAT, ",
-				"start": 49.44,
-				"end": 49.6,
-				"index": 66
-			},
-			{
-				"text": "the ",
-				"start": 49.6,
-				"end": 49.76,
-				"index": 67
-			},
-			{
-				"text": "GOAT, ",
-				"start": 49.76,
-				"end": 50.18,
-				"index": 68
-			},
-			{
-				"text": "the ",
-				"start": 50.18,
-				"end": 50.4,
-				"index": 69
-			},
-			{
-				"text": "GOAT, ",
-				"start": 50.4,
-				"end": 50.74,
-				"index": 70
-			},
-			{
-				"text": "the ",
-				"start": 50.74,
-				"end": 50.88,
-				"index": 71
-			},
-			{
-				"text": "GOAT, ",
-				"start": 50.88,
-				"end": 51.3,
-				"index": 72
-			},
-			{
-				"text": "the ",
-				"start": 51.3,
-				"end": 51.46,
-				"index": 73
-			},
-			{
-				"text": "GOAT, the ",
-				"start": 51.46,
-				"end": 51.52,
-				"index": 74
-			},
-			{
-				"text": "GOAT, the ",
-				"start": 51.52,
-				"end": 51.54,
-				"index": 75
-			},
-			{
-				"text": "GOAT, ",
-				"start": 51.54,
-				"end": 51.8,
-				"index": 76
-			},
-			{
-				"text": "the ",
-				"start": 51.8,
-				"end": 51.98,
-				"index": 77
-			},
-			{
-				"text": "GOAT, the ",
-				"start": 51.98,
-				"end": 52.12,
-				"index": 78
-			},
-			{
-				"text": "GOAT, the GOAT, the GOAT, ",
-				"start": 52.12,
-				"end": 51.3,
-				"index": 79
-			},
-			{
-				"text": "the GOAT, the GOAT, ",
-				"start": 52.42,
-				"end": 51.42,
-				"index": 80
-			},
-			{
-				"text": "the GOAT, the",
-				"start": 52.48,
-				"end": 51.96,
-				"index": 81
 			}
 		],
-		"start": -1,
-		"end": 51.12
+		"start": 0.03,
+		"end": 2.96
 	},
 	{
 		"words": [
 			{
-				"text": "GOAT, ",
+				"text": "And ",
 				"start": 0,
-				"end": 0,
+				"end": 0.1,
+				"index": 5
+			},
+			{
+				"text": "he's ",
+				"start": 0.16,
+				"end": 0.34,
+				"index": 6
+			},
+			{
+				"text": "always ",
+				"start": 0.7,
+				"end": 1.2,
+				"index": 7
+			},
+			{
+				"text": "gone ",
+				"start": 1.28,
+				"end": 1.64,
+				"index": 8
+			},
+			{
+				"text": "too ",
+				"start": 1.68,
+				"end": 1.86,
+				"index": 9
+			},
+			{
+				"text": "long",
+				"start": 2.08,
+				"end": 2.72,
+				"index": 10
+			}
+		],
+		"start": 3.32,
+		"end": 6.04
+	},
+	{
+		"words": [
+			{
+				"text": "Anytime ",
+				"start": 0,
+				"end": 1.04,
+				"index": 11
+			},
+			{
+				"text": "he ",
+				"start": 1.44,
+				"end": 1.58,
+				"index": 12
+			},
+			{
+				"text": "doesn't ",
+				"start": 1.66,
+				"end": 2.16,
+				"index": 13
+			},
+			{
+				"text": "play",
+				"start": 2.2,
+				"end": 2.77,
+				"index": 14
+			}
+		],
+		"start": 6.36,
+		"end": 9.13
+	},
+	{
+		"words": [
+			{
+				"text": "The ",
+				"start": 0,
+				"end": 0.1,
+				"index": 15
+			},
+			{
+				"text": "offseason ",
+				"start": 0.32,
+				"end": 1.08,
+				"index": 16
+			},
+			{
+				"text": "is ",
+				"start": 1.3,
+				"end": 1.42,
+				"index": 17
+			},
+			{
+				"text": "awfully ",
+				"start": 1.98,
+				"end": 2.68,
+				"index": 18
+			},
+			{
+				"text": "cold",
+				"start": 2.86,
+				"end": 3.81,
+				"index": 19
+			}
+		],
+		"start": 12.47,
+		"end": 16.28
+	},
+	{
+		"words": [
+			{
+				"text": "Never ",
+				"start": 0,
+				"end": 0.38,
+				"index": 20
+			},
+			{
+				"text": "say ",
+				"start": 0.54,
+				"end": 0.82,
+				"index": 21
+			},
+			{
+				"text": "he's ",
+				"start": 0.92,
+				"end": 1.42,
+				"index": 22
+			},
+			{
+				"text": "getting ",
+				"start": 1.5,
+				"end": 2.49,
+				"index": 23
+			},
+			{
+				"text": "old ",
+				"start": 2.53,
+				"end": 3.77,
+				"index": 24
+			},
+			{
+				"text": "cuz ",
+				"start": 5.92,
+				"end": 6.15,
+				"index": 25
+			},
+			{
+				"text": "there ",
+				"start": 6.17,
+				"end": 6.35,
+				"index": 26
+			},
+			{
+				"text": "ain't ",
+				"start": 6.47,
+				"end": 6.57,
+				"index": 27
+			},
+			{
+				"text": "no ",
+				"start": 6.65,
+				"end": 6.69,
+				"index": 28
+			},
+			{
+				"text": "sunshine ",
+				"start": 6.71,
+				"end": 7.59,
+				"index": 29
+			},
+			{
+				"text": "without ",
+				"start": 7.67,
+				"end": 8.01,
+				"index": 30
+			},
+			{
+				"text": "Bron ",
+				"start": 8.07,
+				"end": 9.04,
+				"index": 31
+			},
+			{
+				"text": "my ",
+				"start": 9.54,
+				"end": 9.72,
+				"index": 32
+			},
+			{
+				"text": "parlay ",
+				"start": 9.74,
+				"end": 10.64,
+				"index": 33
+			},
+			{
+				"text": "just ",
+				"start": 10.72,
+				"end": 11.06,
+				"index": 34
+			},
+			{
+				"text": "don't ",
+				"start": 11.12,
+				"end": 11.41,
+				"index": 35
+			},
+			{
+				"text": "pay ",
+				"start": 11.51,
+				"end": 11.99,
+				"index": 36
+			},
+			{
+				"text": "anytime ",
+				"start": 12.43,
+				"end": 13.59,
+				"index": 37
+			},
+			{
+				"text": "he ",
+				"start": 13.87,
+				"end": 14.02,
+				"index": 38
+			},
+			{
+				"text": "doesn't ",
+				"start": 14.08,
+				"end": 14.54,
+				"index": 39
+			},
+			{
+				"text": "play",
+				"start": 14.58,
+				"end": 15.68,
+				"index": 40
+			}
+		],
+		"start": 18.96,
+		"end": 34.64
+	},
+	{
+		"words": [
+			{
+				"text": "Well, ",
+				"start": 0,
+				"end": 0.36,
+				"index": 41
+			},
+			{
+				"text": "he's ",
+				"start": 0.38,
+				"end": 0.56,
+				"index": 42
+			},
+			{
+				"text": "the ",
+				"start": 0.62,
+				"end": 0.8,
+				"index": 43
+			},
+			{
+				"text": "GOAT, ",
+				"start": 0.84,
+				"end": 1.18,
+				"index": 44
+			},
+			{
+				"text": "the ",
+				"start": 1.2,
+				"end": 1.36,
+				"index": 45
+			},
+			{
+				"text": "GOAT, ",
+				"start": 1.4,
+				"end": 1.73,
+				"index": 46
+			},
+			{
+				"text": "the ",
+				"start": 1.75,
+				"end": 1.93,
+				"index": 47
+			},
+			{
+				"text": "GOAT, ",
+				"start": 1.95,
+				"end": 2.31,
+				"index": 48
+			},
+			{
+				"text": "the ",
+				"start": 2.33,
+				"end": 2.51,
+				"index": 49
+			},
+			{
+				"text": "GOAT, ",
+				"start": 2.53,
+				"end": 2.87,
+				"index": 50
+			},
+			{
+				"text": "the ",
+				"start": 2.89,
+				"end": 3.07,
+				"index": 51
+			},
+			{
+				"text": "GOAT, ",
+				"start": 3.11,
+				"end": 3.43,
+				"index": 52
+			},
+			{
+				"text": "the ",
+				"start": 3.45,
+				"end": 3.59,
+				"index": 53
+			},
+			{
+				"text": "GOAT, ",
+				"start": 3.63,
+				"end": 3.99,
+				"index": 54
+			},
+			{
+				"text": "the ",
+				"start": 4.01,
+				"end": 4.17,
+				"index": 55
+			},
+			{
+				"text": "GOAT, ",
+				"start": 4.21,
+				"end": 4.57,
+				"index": 56
+			},
+			{
+				"text": "the ",
+				"start": 4.59,
+				"end": 4.75,
+				"index": 57
+			},
+			{
+				"text": "GOAT, ",
+				"start": 4.79,
+				"end": 5.13,
+				"index": 58
+			},
+			{
+				"text": "the ",
+				"start": 5.15,
+				"end": 5.33,
+				"index": 59
+			},
+			{
+				"text": "GOAT, ",
+				"start": 5.35,
+				"end": 5.7,
+				"index": 60
+			},
+			{
+				"text": "the ",
+				"start": 5.72,
+				"end": 5.86,
+				"index": 61
+			},
+			{
+				"text": "GOAT, ",
+				"start": 5.9,
+				"end": 6.26,
+				"index": 62
+			},
+			{
+				"text": "the ",
+				"start": 6.28,
+				"end": 6.44,
+				"index": 63
+			},
+			{
+				"text": "GOAT, ",
+				"start": 6.48,
+				"end": 6.82,
+				"index": 64
+			},
+			{
+				"text": "the ",
+				"start": 6.84,
+				"end": 7.02,
+				"index": 65
+			},
+			{
+				"text": "GOAT, ",
+				"start": 7.04,
+				"end": 7.38,
+				"index": 66
+			},
+			{
+				"text": "the ",
+				"start": 7.4,
+				"end": 7.58,
+				"index": 67
+			},
+			{
+				"text": "GOAT, ",
+				"start": 7.6,
+				"end": 7.9,
+				"index": 68
+			},
+			{
+				"text": "the ",
+				"start": 7.92,
+				"end": 8.04,
+				"index": 69
+			},
+			{
+				"text": "GOAT, ",
+				"start": 8.08,
+				"end": 8.48,
+				"index": 70
+			},
+			{
+				"text": "the ",
+				"start": 8.5,
+				"end": 8.64,
+				"index": 71
+			},
+			{
+				"text": "GOAT, ",
+				"start": 8.68,
+				"end": 9.06,
+				"index": 72
+			},
+			{
+				"text": "the ",
+				"start": 9.08,
+				"end": 9.25,
+				"index": 73
+			},
+			{
+				"text": "GOAT, ",
+				"start": 9.27,
+				"end": 9.61,
+				"index": 74
+			},
+			{
+				"text": "the ",
+				"start": 9.65,
+				"end": 9.83,
+				"index": 75
+			},
+			{
+				"text": "GOAT, ",
+				"start": 9.87,
+				"end": 10.19,
+				"index": 76
+			},
+			{
+				"text": "the ",
+				"start": 10.21,
+				"end": 10.37,
+				"index": 77
+			},
+			{
+				"text": "GOAT, ",
+				"start": 10.41,
+				"end": 10.73,
+				"index": 78
+			},
+			{
+				"text": "the ",
+				"start": 10.77,
+				"end": 10.89,
+				"index": 79
+			},
+			{
+				"text": "GOAT, ",
+				"start": 10.93,
+				"end": 11.33,
+				"index": 80
+			},
+			{
+				"text": "the ",
+				"start": 11.35,
+				"end": 11.49,
+				"index": 81
+			},
+			{
+				"text": "GOAT, ",
+				"start": 11.53,
+				"end": 11.83,
 				"index": 82
 			},
 			{
 				"text": "the ",
-				"start": 0.02,
-				"end": 0.12,
+				"start": 11.85,
+				"end": 12.07,
 				"index": 83
 			},
 			{
 				"text": "GOAT, ",
-				"start": 0.12,
-				"end": 0.3,
+				"start": 12.11,
+				"end": 12.21,
 				"index": 84
 			},
 			{
 				"text": "the ",
-				"start": 0.38,
-				"end": 0.4,
+				"start": 12.23,
+				"end": 12.29,
 				"index": 85
 			},
 			{
-				"text": "GOAT, the ",
-				"start": 0.4,
-				"end": 0.54,
+				"text": "GOAT, ",
+				"start": 12.31,
+				"end": 12.41,
 				"index": 86
 			},
 			{
-				"text": "GOAT, the GOAT, ",
-				"start": 0.54,
-				"end": 52.62,
+				"text": "the ",
+				"start": 12.43,
+				"end": 12.51,
 				"index": 87
 			},
 			{
-				"text": "the GOAT, the ",
-				"start": 0.74,
-				"end": 52.74,
+				"text": "GOAT, ",
+				"start": 12.53,
+				"end": 12.63,
 				"index": 88
 			},
 			{
-				"text": "GOAT, the GOAT, the GOAT, the GOAT, the GOAT, the GOAT, the GOAT, the GOAT, the GOAT, the GOAT, the GOAT, the GOAT, the GOAT, the GOAT, the GOAT, the GOAT, ",
-				"start": 0.78,
-				"end": 52.84,
+				"text": "the ",
+				"start": 12.65,
+				"end": 12.71,
 				"index": 89
 			},
 			{
-				"text": "the ",
-				"start": 0.88,
-				"end": 1,
+				"text": "GOAT, ",
+				"start": 12.73,
+				"end": 12.88,
 				"index": 90
 			},
 			{
-				"text": "GOAT, ",
-				"start": 1,
-				"end": 2.3,
+				"text": "the ",
+				"start": 12.9,
+				"end": 12.95,
 				"index": 91
 			},
 			{
-				"text": "the GOAT, ",
-				"start": 2.54,
-				"end": 55.18,
+				"text": "GOAT, ",
+				"start": 12.98,
+				"end": 13.08,
 				"index": 92
 			},
 			{
-				"text": "the GOAT, ",
-				"start": 3.32,
-				"end": 56.84,
+				"text": "the ",
+				"start": 13.1,
+				"end": 13.16,
 				"index": 93
 			},
 			{
-				"text": "the ",
-				"start": 5.06,
-				"end": 5.1,
+				"text": "GOAT, ",
+				"start": 13.18,
+				"end": 13.28,
 				"index": 94
 			},
 			{
-				"text": "GOAT",
-				"start": 5.1,
-				"end": 6.66,
+				"text": "the ",
+				"start": 13.3,
+				"end": 13.36,
 				"index": 95
+			},
+			{
+				"text": "GOAT, ",
+				"start": 13.4,
+				"end": 13.5,
+				"index": 96
+			},
+			{
+				"text": "the ",
+				"start": 13.52,
+				"end": 13.58,
+				"index": 97
+			},
+			{
+				"text": "GOAT, ",
+				"start": 13.6,
+				"end": 13.7,
+				"index": 98
+			},
+			{
+				"text": "the ",
+				"start": 13.72,
+				"end": 13.8,
+				"index": 99
+			},
+			{
+				"text": "GOAT, ",
+				"start": 13.82,
+				"end": 13.92,
+				"index": 100
+			},
+			{
+				"text": "the ",
+				"start": 13.94,
+				"end": 14,
+				"index": 101
+			},
+			{
+				"text": "GOAT, ",
+				"start": 14.08,
+				"end": 14.18,
+				"index": 102
+			},
+			{
+				"text": "the ",
+				"start": 14.2,
+				"end": 14.26,
+				"index": 103
+			},
+			{
+				"text": "GOAT, ",
+				"start": 14.28,
+				"end": 14.42,
+				"index": 104
+			},
+			{
+				"text": "the ",
+				"start": 14.44,
+				"end": 14.5,
+				"index": 105
+			},
+			{
+				"text": "GOAT, ",
+				"start": 14.52,
+				"end": 14.62,
+				"index": 106
+			},
+			{
+				"text": "the ",
+				"start": 14.64,
+				"end": 14.7,
+				"index": 107
+			},
+			{
+				"text": "GOAT, ",
+				"start": 14.74,
+				"end": 14.84,
+				"index": 108
+			},
+			{
+				"text": "the ",
+				"start": 14.86,
+				"end": 14.92,
+				"index": 109
+			},
+			{
+				"text": "GOAT, ",
+				"start": 14.94,
+				"end": 15.04,
+				"index": 110
+			},
+			{
+				"text": "the ",
+				"start": 15.06,
+				"end": 15.12,
+				"index": 111
+			},
+			{
+				"text": "GOAT, ",
+				"start": 15.14,
+				"end": 15.24,
+				"index": 112
+			},
+			{
+				"text": "the ",
+				"start": 15.26,
+				"end": 15.32,
+				"index": 113
+			},
+			{
+				"text": "GOAT, ",
+				"start": 15.34,
+				"end": 15.44,
+				"index": 114
+			},
+			{
+				"text": "the ",
+				"start": 15.46,
+				"end": 15.52,
+				"index": 115
+			},
+			{
+				"text": "GOAT, ",
+				"start": 15.54,
+				"end": 15.64,
+				"index": 116
+			},
+			{
+				"text": "the ",
+				"start": 15.66,
+				"end": 15.72,
+				"index": 117
+			},
+			{
+				"text": "GOAT, ",
+				"start": 15.74,
+				"end": 15.84,
+				"index": 118
+			},
+			{
+				"text": "the ",
+				"start": 15.86,
+				"end": 15.92,
+				"index": 119
+			},
+			{
+				"text": "GOAT, ",
+				"start": 15.94,
+				"end": 16.04,
+				"index": 120
+			},
+			{
+				"text": "the ",
+				"start": 16.06,
+				"end": 16.12,
+				"index": 121
+			},
+			{
+				"text": "GOAT, ",
+				"start": 16.14,
+				"end": 16.24,
+				"index": 122
+			},
+			{
+				"text": "the ",
+				"start": 16.26,
+				"end": 16.32,
+				"index": 123
+			},
+			{
+				"text": "GOAT, ",
+				"start": 16.34,
+				"end": 16.44,
+				"index": 124
+			},
+			{
+				"text": "the ",
+				"start": 16.46,
+				"end": 16.52,
+				"index": 125
+			},
+			{
+				"text": "GOAT, ",
+				"start": 16.55,
+				"end": 16.67,
+				"index": 126
+			},
+			{
+				"text": "the ",
+				"start": 16.69,
+				"end": 16.75,
+				"index": 127
+			},
+			{
+				"text": "GOAT, ",
+				"start": 16.77,
+				"end": 16.87,
+				"index": 128
+			},
+			{
+				"text": "the ",
+				"start": 16.97,
+				"end": 17.03,
+				"index": 129
+			},
+			{
+				"text": "GOAT, ",
+				"start": 17.05,
+				"end": 17.15,
+				"index": 130
+			},
+			{
+				"text": "the ",
+				"start": 17.17,
+				"end": 17.23,
+				"index": 131
+			},
+			{
+				"text": "GOAT, ",
+				"start": 17.25,
+				"end": 17.45,
+				"index": 132
+			},
+			{
+				"text": "the ",
+				"start": 17.47,
+				"end": 17.53,
+				"index": 133
+			},
+			{
+				"text": "GOAT, ",
+				"start": 17.55,
+				"end": 17.65,
+				"index": 134
+			},
+			{
+				"text": "the ",
+				"start": 17.67,
+				"end": 17.73,
+				"index": 135
+			},
+			{
+				"text": "GOAT, ",
+				"start": 17.75,
+				"end": 17.85,
+				"index": 136
+			},
+			{
+				"text": "the ",
+				"start": 17.87,
+				"end": 17.93,
+				"index": 137
+			},
+			{
+				"text": "GOAT, ",
+				"start": 17.95,
+				"end": 18.07,
+				"index": 138
+			},
+			{
+				"text": "the ",
+				"start": 18.17,
+				"end": 18.39,
+				"index": 139
+			},
+			{
+				"text": "GOAT, ",
+				"start": 18.41,
+				"end": 18.51,
+				"index": 140
+			},
+			{
+				"text": "the ",
+				"start": 18.53,
+				"end": 18.59,
+				"index": 141
+			},
+			{
+				"text": "GOAT, ",
+				"start": 18.61,
+				"end": 18.71,
+				"index": 142
+			},
+			{
+				"text": "the ",
+				"start": 18.73,
+				"end": 18.79,
+				"index": 143
+			},
+			{
+				"text": "GOAT, ",
+				"start": 18.81,
+				"end": 18.91,
+				"index": 144
+			},
+			{
+				"text": "the ",
+				"start": 18.93,
+				"end": 18.99,
+				"index": 145
+			},
+			{
+				"text": "GOAT, ",
+				"start": 19.01,
+				"end": 19.11,
+				"index": 146
+			},
+			{
+				"text": "the ",
+				"start": 19.13,
+				"end": 19.19,
+				"index": 147
+			},
+			{
+				"text": "GOAT, ",
+				"start": 19.21,
+				"end": 19.31,
+				"index": 148
+			},
+			{
+				"text": "the ",
+				"start": 19.33,
+				"end": 19.39,
+				"index": 149
+			},
+			{
+				"text": "GOAT, ",
+				"start": 19.41,
+				"end": 19.51,
+				"index": 150
+			},
+			{
+				"text": "the ",
+				"start": 19.53,
+				"end": 19.59,
+				"index": 151
+			},
+			{
+				"text": "GOAT",
+				"start": 19.61,
+				"end": 19.61,
+				"index": 152
 			}
 		],
-		"start": 51.96,
-		"end": 108.8
+		"start": 39.08,
+		"end": 58.69
 	}
 ]

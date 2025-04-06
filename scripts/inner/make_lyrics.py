@@ -1,5 +1,5 @@
-from faster_whisper import WhisperModel
 import demucs.separate
+import subprocess
 
 import torch
 torch.backends.cuda.matmul.allow_tf32 = True
@@ -67,63 +67,27 @@ if need_demucs:
     ])
 
 PROMPT = """\
-Music lyrics.
-Bronny, LeBronny, goat, LBJ, LeBron, LeSunshine
-Gatorade, Lakers, Mavs, Luka Don, Dallas, Miami, Cavs, Heat, NBA
-Stephen Curry, Steph, Golden State, Warriors, light up the court
-Bronify, pump fake, light up, LAX, NBA, MVP, win in five, 6 foot 9,
-glaze, LeBron goat, Jumbotron
+LeBron and Luka Don, the NBA's finest
+Watching the NBA on Bronify
 """
 
-model = WhisperModel(
-    "large-v3",
-    device="cuda",
-    compute_type="float16",
-    #asr_options={
-    #    "initial_prompt": PROMPT,
-    #    "word_timestamps": True,
-    #},
-)
-
-def transcribe_audio(file_path):
-    print(f"Transcribing {file_path}")
-    segments, _ = model.transcribe(
-        file_path,
-        task="transcribe",
-        beam_size=10,
-        best_of=10,
-        temperature=[0.0],
-        condition_on_previous_text=True,
-        chunk_length=30,
-        word_timestamps=True,
-        without_timestamps=False,
-        initial_prompt=PROMPT,
-        language="en",
-        vad_filter=True,
-        vad_parameters={"threshold": 0.4},
-        suppress_blank=True,
-        no_speech_threshold=0.4,
-        hallucination_silence_threshold=0.2
-    )
-    print(f"Transcribed {file_path}")
+def transcribe_audio(result):
     out = []
     index = 0
 
     start = 0
     end = 0
 
-    print(segments)
-
     # convert the results into a list of list of dicts with the structure:
     # text: "text", start: start, end: end
-    for segment in segments:
+    for segment in result["segments"]:
         words = []
-        for word in segment.words:
-            word = {
-                "word": word.word,
-                "start": word.start,
-                "end": word.end
-            }
+        for word in segment["words"]:
+            #word = {
+            #    "word": word.word,
+            #    "start": word.start,
+            #    "end": word.end
+            #}
             # if the word starts with a space, remove it and add it to the previous word if it exists
             if word["word"].lstrip() != word["word"]:
                 if words:
@@ -174,10 +138,29 @@ def transcribe_audio(file_path):
             })
     return out
 
-# iterate over ids
+# mkdir transcripts
+if not os.path.exists("transcripts"):
+    os.makedirs("transcripts")
+
+# mkdir vocals
+if not os.path.exists("vocals"):
+    os.makedirs("vocals")
+
+# copy out ../separated/htdemucs/{id}/vocals.mp3 to vocals/{id}.mp3
 for id in ids:
     file_path = f"../separated/htdemucs/{id}/vocals.mp3"
-    result = transcribe_audio(file_path)
+    if os.path.isfile(file_path):
+        shutil.copy(file_path, f"vocals/{id}.mp3")
+    else:
+        print(f"File {file_path} does not exist")
+
+subprocess.run(["uv", "run", "whisperx", *map(lambda x: f"vocals/{x}.mp3", ids), "--model", "large-v3", "--device", "cuda", "--compute_type", "float16", "--language", "en", "--task", "transcribe", "--output_format", "json", "--output_dir", "transcripts", "--print_progress", "True", "--align_model", "WAV2VEC2_ASR_LARGE_LV60K_960H", "--initial_prompt", PROMPT])
+
+# iterate over ids
+for id in ids:
+    file_path = f"./transcripts/{id}.json"
+    content = open(file_path, "r")
+    result = transcribe_audio(json.load(content))
     # save the result to a json file
     with open(f"../../src/lib/content/tracks/{id}/lyrics.json", "w") as f:
         f.write(json.dumps(result, indent=4))

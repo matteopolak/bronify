@@ -22,12 +22,7 @@
 	import Artists from './artists.svelte';
 	import Karaoke from './buttons/karaoke.svelte';
 
-	let {
-		maxVolume = 0.5
-	}: {
-		maxVolume: number;
-	} = $props();
-
+	const maxVolume = 1;
 	let url = $derived(trackThumbnail(player.track.id));
 
 	function onVolumeClick(event: MouseEvent) {

@@ -2,727 +2,283 @@
 	{
 		"words": [
 			{
-				"text": "ALL",
+				"text": "All ",
 				"start": 0,
-				"end": 0.12,
+				"end": 0.42,
 				"index": 0
-			}
-		],
-		"start": 0,
-		"end": 0.12
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "OF",
-				"start": 0,
-				"end": 0.14,
+				"text": "of ",
+				"start": 0.44,
+				"end": 0.5,
 				"index": 1
-			}
-		],
-		"start": 0.12,
-		"end": 0.26
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "THE",
-				"start": 0,
-				"end": 0.12,
+				"text": "the ",
+				"start": 0.52,
+				"end": 0.92,
 				"index": 2
-			}
-		],
-		"start": 0.26,
-		"end": 0.38
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "GAMES",
-				"start": 0,
-				"end": 0.46,
+				"text": "jams",
+				"start": 1.46,
+				"end": 2.5,
 				"index": 3
 			}
 		],
-		"start": 0.38,
-		"end": 0.84
+		"start": 0.03,
+		"end": 2.53
 	},
 	{
 		"words": [
 			{
-				"text": "ALL",
+				"text": "All ",
 				"start": 0,
-				"end": 0.72,
+				"end": 1.66,
 				"index": 4
-			}
-		],
-		"start": 0.84,
-		"end": 1.56
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "OF",
-				"start": 0,
-				"end": 1.6,
+				"text": "of ",
+				"start": 1.9,
+				"end": 4.71,
 				"index": 5
-			}
-		],
-		"start": 1.56,
-		"end": 3.16
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "THE",
-				"start": 0,
-				"end": 0.14,
+				"text": "the ",
+				"start": 5.07,
+				"end": 6.35,
 				"index": 6
-			}
-		],
-		"start": 12.5,
-		"end": 12.64
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "GAMES",
-				"start": 0,
-				"end": 0.38,
+				"text": "jams ",
+				"start": 6.91,
+				"end": 8.01,
 				"index": 7
-			}
-		],
-		"start": 12.64,
-		"end": 13.02
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "IT'S",
-				"start": 0,
-				"end": 0.44,
+				"text": "are ",
+				"start": 8.93,
+				"end": 9.39,
 				"index": 8
-			}
-		],
-		"start": 15.14,
-		"end": 15.58
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "THE",
-				"start": 0,
-				"end": 0.14,
+				"text": "here ",
+				"start": 9.99,
+				"end": 11.11,
 				"index": 9
-			}
-		],
-		"start": 15.58,
-		"end": 15.72
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "FINALS",
-				"start": 0,
-				"end": 0.8,
+				"text": "baby",
+				"start": 11.15,
+				"end": 12.03,
 				"index": 10
 			}
 		],
-		"start": 15.72,
-		"end": 16.52
+		"start": 2.69,
+		"end": 14.72
 	},
 	{
 		"words": [
 			{
-				"text": "OF",
+				"text": "It's ",
 				"start": 0,
-				"end": 0.02,
+				"end": 0.16,
 				"index": 11
-			}
-		],
-		"start": 16.52,
-		"end": 16.54
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "THE",
-				"start": 0,
-				"end": 0.12,
+				"text": "the ",
+				"start": 0.2,
+				"end": 0.36,
 				"index": 12
-			}
-		],
-		"start": 16.54,
-		"end": 16.66
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "LATE",
-				"start": 0,
-				"end": 0.18,
+				"text": "finals, ",
+				"start": 0.4,
+				"end": 1.24,
 				"index": 13
-			}
-		],
-		"start": 16.66,
-		"end": 16.84
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "CASINO",
-				"start": 0,
-				"end": 0.64,
+				"text": "the ",
+				"start": 1.26,
+				"end": 1.52,
 				"index": 14
-			}
-		],
-		"start": 16.84,
-		"end": 17.48
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "WHEN",
-				"start": 0,
-				"end": 0.42,
+				"text": "Lakers ",
+				"start": 1.56,
+				"end": 1.74,
 				"index": 15
-			}
-		],
-		"start": 17.48,
-		"end": 17.9
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "ALL",
-				"start": 0,
-				"end": 0.56,
+				"text": "need ",
+				"start": 2.26,
+				"end": 2.34,
 				"index": 16
-			}
-		],
-		"start": 17.9,
-		"end": 18.46
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "OF",
-				"start": 0,
-				"end": 0.24,
+				"text": "a ",
+				"start": 2.36,
+				"end": 2.38,
 				"index": 17
-			}
-		],
-		"start": 18.46,
-		"end": 18.7
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "THE",
-				"start": 0,
-				"end": 0.18,
+				"text": "win",
+				"start": 2.4,
+				"end": 2.5,
 				"index": 18
 			}
 		],
-		"start": 18.7,
-		"end": 18.88
+		"start": 15.55,
+		"end": 18.05
 	},
 	{
 		"words": [
 			{
-				"text": "GAMES",
+				"text": "All ",
 				"start": 0,
-				"end": 0.54,
+				"end": 0.18,
 				"index": 19
-			}
-		],
-		"start": 18.88,
-		"end": 19.42
-	},
-	{
-		"words": [
-			{
-				"text": "ARE",
-				"start": 0,
-				"end": 0.04,
-				"index": 20
-			}
-		],
-		"start": 19.42,
-		"end": 19.46
-	},
-	{
-		"words": [
-			{
-				"text": "HERE",
-				"start": 0,
-				"end": 0.24,
-				"index": 21
-			}
-		],
-		"start": 19.46,
-		"end": 19.7
-	},
-	{
-		"words": [
-			{
-				"text": "BABY",
-				"start": 0,
-				"end": 0.84,
-				"index": 22
-			}
-		],
-		"start": 19.7,
-		"end": 20.54
-	},
-	{
-		"words": [
-			{
-				"text": "YOU",
-				"start": 0,
-				"end": 0.26,
-				"index": 23
-			}
-		],
-		"start": 21.04,
-		"end": 21.3
-	},
-	{
-		"words": [
-			{
-				"text": "KNOW",
-				"start": 0,
-				"end": 0.24,
-				"index": 24
-			}
-		],
-		"start": 21.3,
-		"end": 21.54
-	},
-	{
-		"words": [
-			{
-				"text": "WHAT ",
-				"start": 0,
-				"end": 0.26,
-				"index": 25
 			},
 			{
-				"text": "I",
+				"text": "of ",
+				"start": 0.2,
+				"end": 0.24,
+				"index": 20
+			},
+			{
+				"text": "the ",
 				"start": 0.26,
-				"end": 0.4,
-				"index": 26
+				"end": 0.42,
+				"index": 21
+			},
+			{
+				"text": "jams ",
+				"start": 0.44,
+				"end": 0.9,
+				"index": 22
+			},
+			{
+				"text": "are ",
+				"start": 0.92,
+				"end": 1.3,
+				"index": 23
+			},
+			{
+				"text": "here ",
+				"start": 1.32,
+				"end": 1.4,
+				"index": 24
+			},
+			{
+				"text": "baby",
+				"start": 1.44,
+				"end": 2.42,
+				"index": 25
 			}
 		],
-		"start": 21.54,
-		"end": 21.94
+		"start": 18.59,
+		"end": 21.01
 	},
 	{
 		"words": [
 			{
-				"text": "MEAN",
-				"start": 0,
-				"end": 0.36,
-				"index": 27
-			}
-		],
-		"start": 21.94,
-		"end": 22.3
-	},
-	{
-		"words": [
-			{
-				"text": "THE",
-				"start": 0,
-				"end": 0.2,
-				"index": 28
-			}
-		],
-		"start": 22.3,
-		"end": 22.5
-	},
-	{
-		"words": [
-			{
-				"text": "FAMILY",
-				"start": 0,
-				"end": 0.5,
-				"index": 29
-			}
-		],
-		"start": 22.5,
-		"end": 23
-	},
-	{
-		"words": [
-			{
-				"text": "LOOKING",
-				"start": 0,
-				"end": 0.82,
-				"index": 30
-			}
-		],
-		"start": 23,
-		"end": 23.82
-	},
-	{
-		"words": [
-			{
-				"text": "ON",
-				"start": 0,
-				"end": 0.26,
-				"index": 31
-			}
-		],
-		"start": 23.82,
-		"end": 24.08
-	},
-	{
-		"words": [
-			{
-				"text": "WATCHING",
-				"start": 0,
-				"end": 0.36,
-				"index": 32
-			}
-		],
-		"start": 24.08,
-		"end": 24.44
-	},
-	{
-		"words": [
-			{
-				"text": "WHEN",
-				"start": 0,
-				"end": 0.26,
-				"index": 33
-			}
-		],
-		"start": 24.44,
-		"end": 24.7
-	},
-	{
-		"words": [
-			{
-				"text": "ALL",
+				"text": "You ",
 				"start": 0,
 				"end": 0.14,
+				"index": 26
+			},
+			{
+				"text": "know ",
+				"start": 0.2,
+				"end": 0.56,
+				"index": 27
+			},
+			{
+				"text": "what ",
+				"start": 0.64,
+				"end": 0.74,
+				"index": 28
+			},
+			{
+				"text": "I ",
+				"start": 0.76,
+				"end": 0.78,
+				"index": 29
+			},
+			{
+				"text": "mean, ",
+				"start": 0.8,
+				"end": 1.16,
+				"index": 30
+			},
+			{
+				"text": "the ",
+				"start": 1.18,
+				"end": 1.28,
+				"index": 31
+			},
+			{
+				"text": "family ",
+				"start": 1.34,
+				"end": 2.04,
+				"index": 32
+			},
+			{
+				"text": "looking, ",
+				"start": 2.16,
+				"end": 3.04,
+				"index": 33
+			},
+			{
+				"text": "we're ",
+				"start": 3.06,
+				"end": 3.22,
 				"index": 34
-			}
-		],
-		"start": 24.7,
-		"end": 24.84
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "OF",
-				"start": 0,
-				"end": 0.22,
+				"text": "watching ",
+				"start": 3.32,
+				"end": 3.52,
 				"index": 35
-			}
-		],
-		"start": 24.84,
-		"end": 25.06
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "THE",
-				"start": 0,
-				"end": 0.1,
+				"text": "one ",
+				"start": 3.54,
+				"end": 3.74,
 				"index": 36
-			}
-		],
-		"start": 25.06,
-		"end": 25.16
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "GAMES",
-				"start": 0,
-				"end": 0.94,
+				"text": "of ",
+				"start": 3.76,
+				"end": 3.8,
 				"index": 37
-			}
-		],
-		"start": 25.16,
-		"end": 26.1
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "FAST",
-				"start": 0,
-				"end": 0.92,
+				"text": "the ",
+				"start": 3.82,
+				"end": 4,
 				"index": 38
-			}
-		],
-		"start": 26.1,
-		"end": 27.02
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "LOCKS",
-				"start": 0,
-				"end": 0.52,
+				"text": "games ",
+				"start": 4.03,
+				"end": 5.35,
 				"index": 39
-			}
-		],
-		"start": 28.3,
-		"end": 28.82
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "AND",
-				"start": 0,
-				"end": 0.2,
+				"text": "the ",
+				"start": 6.63,
+				"end": 7.45,
 				"index": 40
-			}
-		],
-		"start": 28.82,
-		"end": 29.02
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "THINKING",
-				"start": 0,
-				"end": 0.26,
+				"text": "NBA",
+				"start": 7.77,
+				"end": 16.1,
 				"index": 41
 			}
 		],
-		"start": 29.02,
-		"end": 29.28
-	},
-	{
-		"words": [
-			{
-				"text": "SHOCKS",
-				"start": 0,
-				"end": 0.54,
-				"index": 42
-			}
-		],
-		"start": 29.28,
-		"end": 29.82
-	},
-	{
-		"words": [
-			{
-				"text": "ALL",
-				"start": 0,
-				"end": 0.2,
-				"index": 43
-			}
-		],
-		"start": 29.82,
-		"end": 30.02
-	},
-	{
-		"words": [
-			{
-				"text": "OF",
-				"start": 0,
-				"end": 0.18,
-				"index": 44
-			}
-		],
-		"start": 30.02,
-		"end": 30.2
-	},
-	{
-		"words": [
-			{
-				"text": "THE",
-				"start": 0,
-				"end": 0.14,
-				"index": 45
-			}
-		],
-		"start": 30.2,
-		"end": 30.34
-	},
-	{
-		"words": [
-			{
-				"text": "GAMES",
-				"start": 0,
-				"end": 0.52,
-				"index": 46
-			}
-		],
-		"start": 30.34,
-		"end": 30.86
-	},
-	{
-		"words": [
-			{
-				"text": "ALL",
-				"start": 0,
-				"end": 0.26,
-				"index": 47
-			}
-		],
-		"start": 30.86,
-		"end": 31.12
-	},
-	{
-		"words": [
-			{
-				"text": "OF",
-				"start": 0,
-				"end": 0.18,
-				"index": 48
-			}
-		],
-		"start": 31.12,
-		"end": 31.3
-	},
-	{
-		"words": [
-			{
-				"text": "THE",
-				"start": 0,
-				"end": 0.08,
-				"index": 49
-			}
-		],
-		"start": 31.3,
-		"end": 31.38
-	},
-	{
-		"words": [
-			{
-				"text": "GAMES",
-				"start": 0,
-				"end": 0.92,
-				"index": 50
-			}
-		],
-		"start": 31.38,
-		"end": 32.3
-	},
-	{
-		"words": [
-			{
-				"text": "UNTIL",
-				"start": 0,
-				"end": 0.52,
-				"index": 51
-			}
-		],
-		"start": 33.76,
-		"end": 34.28
-	},
-	{
-		"words": [
-			{
-				"text": "THE",
-				"start": 0,
-				"end": 0.12,
-				"index": 52
-			}
-		],
-		"start": 34.28,
-		"end": 34.4
-	},
-	{
-		"words": [
-			{
-				"text": "MORNING",
-				"start": 0,
-				"end": 0.54,
-				"index": 53
-			}
-		],
-		"start": 34.4,
-		"end": 34.94
-	},
-	{
-		"words": [
-			{
-				"text": "AT",
-				"start": 0,
-				"end": 0.14,
-				"index": 54
-			}
-		],
-		"start": 34.94,
-		"end": 35.08
-	},
-	{
-		"words": [
-			{
-				"text": "THE",
-				"start": 0,
-				"end": 0.14,
-				"index": 55
-			}
-		],
-		"start": 35.08,
-		"end": 35.22
-	},
-	{
-		"words": [
-			{
-				"text": "FANTASY",
-				"start": 0,
-				"end": 0.48,
-				"index": 56
-			}
-		],
-		"start": 35.22,
-		"end": 35.7
-	},
-	{
-		"words": [
-			{
-				"text": "ALL",
-				"start": 0,
-				"end": 0.38,
-				"index": 57
-			}
-		],
-		"start": 35.7,
-		"end": 36.08
-	},
-	{
-		"words": [
-			{
-				"text": "OF",
-				"start": 0,
-				"end": 0.26,
-				"index": 58
-			}
-		],
-		"start": 36.08,
-		"end": 36.34
-	},
-	{
-		"words": [
-			{
-				"text": "THE",
-				"start": 0,
-				"end": 0.14,
-				"index": 59
-			}
-		],
-		"start": 36.34,
-		"end": 36.48
-	},
-	{
-		"words": [
-			{
-				"text": "GAMES",
-				"start": 0,
-				"end": 0.54,
-				"index": 60
-			}
-		],
-		"start": 36.48,
-		"end": 37.02
+		"start": 21.33,
+		"end": 37.43
 	}
 ]

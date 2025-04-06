@@ -2,187 +2,25 @@
 	{
 		"words": [
 			{
-				"text": "Lakers, ",
+				"text": "Bron ",
 				"start": 0,
-				"end": 0.64,
+				"end": 7.49,
 				"index": 0
 			},
 			{
-				"text": "put ",
-				"start": 0.64,
-				"end": 1.28,
+				"text": "look ",
+				"start": 7.95,
+				"end": 8.97,
 				"index": 1
 			},
 			{
-				"text": "your ",
-				"start": 1.28,
-				"end": 1.5,
+				"text": "out!",
+				"start": 9.09,
+				"end": 24.69,
 				"index": 2
-			},
-			{
-				"text": "four ",
-				"start": 1.5,
-				"end": 1.86,
-				"index": 3
-			},
-			{
-				"text": "rings ",
-				"start": 1.86,
-				"end": 2.46,
-				"index": 4
-			},
-			{
-				"text": "to ",
-				"start": 2.46,
-				"end": 2.82,
-				"index": 5
-			},
-			{
-				"text": "the ",
-				"start": 2.82,
-				"end": 2.92,
-				"index": 6
-			},
-			{
-				"text": "moon, ",
-				"start": 2.92,
-				"end": 3.64,
-				"index": 7
-			},
-			{
-				"text": "three ",
-				"start": 3.76,
-				"end": 4.18,
-				"index": 8
-			},
-			{
-				"text": "points ",
-				"start": 6.42,
-				"end": 6.8,
-				"index": 9
-			},
-			{
-				"text": "and ",
-				"start": 6.8,
-				"end": 7,
-				"index": 10
-			},
-			{
-				"text": "he ",
-				"start": 7,
-				"end": 7.18,
-				"index": 11
-			},
-			{
-				"text": "shootss, ",
-				"start": 7.18,
-				"end": 7.5,
-				"index": 12
-			},
-			{
-				"text": "23 ",
-				"start": 7.96,
-				"end": 9.54,
-				"index": 13
-			},
-			{
-				"text": "on ",
-				"start": 9.54,
-				"end": 10.08,
-				"index": 14
-			},
-			{
-				"text": "his ",
-				"start": 10.08,
-				"end": 10.32,
-				"index": 15
-			},
-			{
-				"text": "jersey ",
-				"start": 10.32,
-				"end": 10.64,
-				"index": 16
-			},
-			{
-				"text": "is ",
-				"start": 10.64,
-				"end": 10.86,
-				"index": 17
-			},
-			{
-				"text": "what ",
-				"start": 10.86,
-				"end": 11,
-				"index": 18
-			},
-			{
-				"text": "he ",
-				"start": 11,
-				"end": 11.3,
-				"index": 19
-			},
-			{
-				"text": "wears, ",
-				"start": 11.3,
-				"end": 11.64,
-				"index": 20
-			},
-			{
-				"text": "it's ",
-				"start": 14.2,
-				"end": 14.42,
-				"index": 21
-			},
-			{
-				"text": "so ",
-				"start": 14.42,
-				"end": 14.46,
-				"index": 22
-			},
-			{
-				"text": "good, ",
-				"start": 14.46,
-				"end": 14.76,
-				"index": 23
-			},
-			{
-				"text": "it's ",
-				"start": 14.82,
-				"end": 15.18,
-				"index": 24
-			},
-			{
-				"text": "so ",
-				"start": 15.18,
-				"end": 15.22,
-				"index": 25
-			},
-			{
-				"text": "fair, ",
-				"start": 15.22,
-				"end": 15.6,
-				"index": 26
-			},
-			{
-				"text": "Bron ",
-				"start": 15.92,
-				"end": 16.82,
-				"index": 27
-			},
-			{
-				"text": "look ",
-				"start": 16.82,
-				"end": 16.88,
-				"index": 28
-			},
-			{
-				"text": "out",
-				"start": 16.88,
-				"end": 17.1,
-				"index": 29
 			}
 		],
-		"start": 7.94,
-		"end": 25.04
+		"start": 1.96,
+		"end": 26.65
 	}
 ]

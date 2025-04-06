@@ -2,649 +2,871 @@
 	{
 		"words": [
 			{
-				"text": "LeBron ",
+				"text": "Bron ",
 				"start": 0,
-				"end": 0.12,
+				"end": 0.26,
 				"index": 0
 			},
 			{
 				"text": "is ",
-				"start": 0.12,
-				"end": 0.26,
+				"start": 0.28,
+				"end": 0.38,
 				"index": 1
 			},
 			{
 				"text": "in ",
-				"start": 0.26,
-				"end": 0.48,
+				"start": 0.52,
+				"end": 0.62,
 				"index": 2
 			},
 			{
 				"text": "whatever, ",
-				"start": 0.48,
-				"end": 0.9,
+				"start": 0.66,
+				"end": 1.84,
 				"index": 3
 			},
 			{
 				"text": "love ",
-				"start": 1.62,
-				"end": 2.5,
+				"start": 2.38,
+				"end": 2.7,
 				"index": 4
 			},
 			{
 				"text": "whenever ",
-				"start": 2.5,
-				"end": 2.88,
+				"start": 2.72,
+				"end": 3.1,
 				"index": 5
 			},
 			{
 				"text": "you ",
-				"start": 2.88,
-				"end": 3.18,
+				"start": 3.18,
+				"end": 3.24,
 				"index": 6
 			},
 			{
 				"text": "step ",
-				"start": 3.18,
-				"end": 3.4,
+				"start": 3.26,
+				"end": 4.03,
 				"index": 7
 			},
 			{
 				"text": "up ",
-				"start": 3.4,
-				"end": 3.96,
+				"start": 4.05,
+				"end": 4.25,
 				"index": 8
 			},
 			{
-				"text": "LeBron ",
-				"start": 4.14,
-				"end": 4.42,
+				"text": "Bron ",
+				"start": 4.41,
+				"end": 4.57,
 				"index": 9
 			},
 			{
 				"text": "is ",
-				"start": 4.42,
-				"end": 4.66,
+				"start": 4.69,
+				"end": 4.81,
 				"index": 10
 			},
 			{
 				"text": "crazy, ",
-				"start": 4.66,
-				"end": 5,
+				"start": 4.85,
+				"end": 5.29,
 				"index": 11
 			},
 			{
 				"text": "you ",
-				"start": 5.08,
-				"end": 5.36,
+				"start": 5.31,
+				"end": 5.47,
 				"index": 12
 			},
 			{
 				"text": "know ",
-				"start": 5.36,
-				"end": 5.5,
+				"start": 5.49,
+				"end": 5.81,
 				"index": 13
 			},
 			{
 				"text": "I'm ",
-				"start": 5.5,
-				"end": 5.72,
+				"start": 6.03,
+				"end": 6.15,
 				"index": 14
 			},
 			{
-				"text": "extra, ",
-				"start": 5.72,
-				"end": 6.32,
+				"text": "next ",
+				"start": 6.23,
+				"end": 6.55,
 				"index": 15
 			},
 			{
-				"text": "too ",
-				"start": 6.72,
-				"end": 7.12,
+				"text": "up, ",
+				"start": 6.57,
+				"end": 6.79,
 				"index": 16
 			},
 			{
-				"text": "good, ",
-				"start": 7.12,
-				"end": 7.5,
+				"text": "so ",
+				"start": 7.31,
+				"end": 7.35,
 				"index": 17
 			},
 			{
-				"text": "nobody ",
-				"start": 7.5,
-				"end": 7.86,
+				"text": "good ",
+				"start": 7.37,
+				"end": 7.69,
 				"index": 18
 			},
 			{
-				"text": "can ",
-				"start": 7.86,
-				"end": 8.18,
+				"text": "nobody ",
+				"start": 7.71,
+				"end": 8.07,
 				"index": 19
 			},
 			{
-				"text": "catch ",
-				"start": 8.18,
-				"end": 8.54,
+				"text": "can ",
+				"start": 8.11,
+				"end": 8.29,
 				"index": 20
 			},
 			{
-				"text": "up ",
-				"start": 8.54,
-				"end": 8.96,
+				"text": "catch ",
+				"start": 8.33,
+				"end": 8.89,
 				"index": 21
 			},
 			{
-				"text": "LeBron ",
-				"start": 9.06,
-				"end": 9.28,
+				"text": "up ",
+				"start": 9.15,
+				"end": 9.19,
 				"index": 22
 			},
 			{
-				"text": "is ",
-				"start": 9.28,
-				"end": 9.5,
+				"text": "Bron ",
+				"start": 9.21,
+				"end": 9.41,
 				"index": 23
 			},
 			{
-				"text": "so ",
-				"start": 9.5,
-				"end": 9.76,
+				"text": "is ",
+				"start": 9.47,
+				"end": 9.59,
 				"index": 24
 			},
 			{
-				"text": "great, ",
-				"start": 9.76,
-				"end": 9.9,
+				"text": "so ",
+				"start": 9.61,
+				"end": 9.85,
 				"index": 25
 			},
 			{
-				"text": "ain't ",
-				"start": 10.06,
-				"end": 10.26,
+				"text": "great ",
+				"start": 9.87,
+				"end": 10.17,
 				"index": 26
 			},
 			{
-				"text": "he ",
-				"start": 10.26,
-				"end": 10.28,
+				"text": "and ",
+				"start": 10.19,
+				"end": 10.25,
 				"index": 27
 			},
 			{
-				"text": "special",
-				"start": 10.28,
-				"end": 10.64,
+				"text": "he's ",
+				"start": 10.29,
+				"end": 10.39,
 				"index": 28
-			}
-		],
-		"start": 0,
-		"end": 10.64
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "LeBron ",
-				"start": 0,
-				"end": 0.76,
+				"text": "special, ",
+				"start": 10.47,
+				"end": 11.7,
 				"index": 29
 			},
 			{
-				"text": "is ",
-				"start": 0.76,
-				"end": 0.92,
+				"text": "Bron ",
+				"start": 11.72,
+				"end": 11.94,
 				"index": 30
 			},
 			{
-				"text": "on ",
-				"start": 0.92,
-				"end": 1.08,
+				"text": "is ",
+				"start": 11.96,
+				"end": 12.06,
 				"index": 31
 			},
 			{
-				"text": "a ",
-				"start": 1.08,
-				"end": 1.22,
+				"text": "on ",
+				"start": 12.14,
+				"end": 12.2,
 				"index": 32
 			},
 			{
-				"text": "whole ",
-				"start": 1.22,
-				"end": 1.44,
+				"text": "a ",
+				"start": 12.28,
+				"end": 12.34,
 				"index": 33
 			},
 			{
-				"text": "nother ",
-				"start": 1.44,
-				"end": 1.72,
+				"text": "whole ",
+				"start": 12.38,
+				"end": 12.64,
 				"index": 34
 			},
 			{
-				"text": "level, ",
-				"start": 1.72,
-				"end": 2.14,
+				"text": "nother ",
+				"start": 12.66,
+				"end": 12.9,
 				"index": 35
 			},
 			{
-				"text": "he's ",
-				"start": 2.22,
-				"end": 2.96,
+				"text": "level",
+				"start": 12.96,
+				"end": 13.28,
 				"index": 36
-			},
+			}
+		],
+		"start": 0.03,
+		"end": 13.31
+	},
+	{
+		"words": [
 			{
-				"text": "funny ",
-				"start": 2.96,
-				"end": 3.32,
+				"text": "He's ",
+				"start": 0,
+				"end": 0.22,
 				"index": 37
 			},
 			{
-				"text": "and ",
-				"start": 3.32,
-				"end": 3.6,
+				"text": "funny ",
+				"start": 0.28,
+				"end": 0.6,
 				"index": 38
 			},
 			{
-				"text": "you ",
-				"start": 3.6,
-				"end": 3.7,
+				"text": "and ",
+				"start": 0.66,
+				"end": 0.76,
 				"index": 39
 			},
 			{
-				"text": "think ",
-				"start": 3.7,
-				"end": 3.86,
+				"text": "he ",
+				"start": 0.78,
+				"end": 0.86,
 				"index": 40
 			},
 			{
-				"text": "he's ",
-				"start": 3.86,
-				"end": 4.16,
+				"text": "think ",
+				"start": 0.9,
+				"end": 1.12,
 				"index": 41
 			},
 			{
-				"text": "just ",
-				"start": 4.16,
-				"end": 4.3,
+				"text": "he's ",
+				"start": 1.14,
+				"end": 1.34,
 				"index": 42
 			},
 			{
-				"text": "better, ",
-				"start": 4.3,
-				"end": 4.58,
+				"text": "just ",
+				"start": 1.38,
+				"end": 1.48,
 				"index": 43
 			},
 			{
-				"text": "whenever ",
-				"start": 4.76,
-				"end": 5.14,
+				"text": "better, ",
+				"start": 1.52,
+				"end": 1.86,
 				"index": 44
 			},
 			{
-				"text": "he's ",
-				"start": 5.14,
-				"end": 5.64,
+				"text": "whenever ",
+				"start": 2.14,
+				"end": 2.56,
 				"index": 45
 			},
 			{
-				"text": "into ",
-				"start": 5.64,
-				"end": 5.74,
+				"text": "he's ",
+				"start": 2.62,
+				"end": 2.76,
 				"index": 46
 			},
 			{
-				"text": "you ",
-				"start": 5.74,
-				"end": 5.84,
+				"text": "injured ",
+				"start": 2.82,
+				"end": 3.12,
 				"index": 47
 			},
 			{
-				"text": "I ",
-				"start": 6,
-				"end": 6.12,
+				"text": "yeah ",
+				"start": 3.27,
+				"end": 3.35,
 				"index": 48
 			},
 			{
-				"text": "get ",
-				"start": 6.12,
-				"end": 6.32,
+				"text": "I ",
+				"start": 3.37,
+				"end": 3.39,
 				"index": 49
 			},
 			{
-				"text": "sentimental",
-				"start": 6.32,
-				"end": 6.72,
+				"text": "get ",
+				"start": 3.4,
+				"end": 3.63,
 				"index": 50
-			}
-		],
-		"start": 11.06,
-		"end": 17.78
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "LeBron ",
-				"start": 0,
-				"end": 0.88,
+				"text": "sentimental ",
+				"start": 3.67,
+				"end": 4.31,
 				"index": 51
 			},
 			{
-				"text": "is ",
-				"start": 0.88,
-				"end": 1.18,
+				"text": "Bron ",
+				"start": 4.63,
+				"end": 5.63,
 				"index": 52
 			},
 			{
-				"text": "crazy, ",
-				"start": 1.18,
-				"end": 1.5,
+				"text": "everyday ",
+				"start": 5.67,
+				"end": 6.23,
 				"index": 53
 			},
 			{
-				"text": "you ",
-				"start": 1.5,
-				"end": 1.86,
+				"text": "with ",
+				"start": 6.25,
+				"end": 6.39,
 				"index": 54
 			},
 			{
-				"text": "know ",
-				"start": 1.86,
-				"end": 1.98,
+				"text": "no ",
+				"start": 6.45,
+				"end": 6.55,
 				"index": 55
 			},
 			{
-				"text": "I'm ",
-				"start": 1.98,
-				"end": 2.18,
+				"text": "effort, ",
+				"start": 6.65,
+				"end": 6.97,
 				"index": 56
 			},
 			{
-				"text": "extra, ",
-				"start": 2.18,
-				"end": 2.44,
+				"text": "who ",
+				"start": 7.19,
+				"end": 7.33,
 				"index": 57
 			},
 			{
-				"text": "too ",
-				"start": 2.58,
-				"end": 2.84,
+				"text": "are ",
+				"start": 7.41,
+				"end": 7.55,
 				"index": 58
 			},
 			{
-				"text": "good, ",
-				"start": 2.84,
-				"end": 3.12,
+				"text": "the ",
+				"start": 7.61,
+				"end": 7.77,
 				"index": 59
 			},
 			{
-				"text": "nobody can ",
-				"start": 3.12,
-				"end": 3.4,
+				"text": "kids ",
+				"start": 7.87,
+				"end": 8.01,
 				"index": 60
 			},
 			{
-				"text": "catch ",
-				"start": 3.4,
-				"end": 3.66,
+				"text": "that's ",
+				"start": 8.03,
+				"end": 8.19,
 				"index": 61
 			},
 			{
-				"text": "up",
-				"start": 3.66,
-				"end": 3.7,
+				"text": "so ",
+				"start": 8.37,
+				"end": 8.61,
 				"index": 62
+			},
+			{
+				"text": "Bron-y ",
+				"start": 8.63,
+				"end": 8.93,
+				"index": 63
+			},
+			{
+				"text": "special",
+				"start": 8.97,
+				"end": 9.37,
+				"index": 64
 			}
 		],
-		"start": 18.28,
-		"end": 21.98
+		"start": 13.97,
+		"end": 23.34
 	},
 	{
 		"words": [
 			{
-				"text": "LeBron ",
+				"text": "Sayin' ",
 				"start": 0,
-				"end": 0.56,
-				"index": 63
-			},
-			{
-				"text": "is ",
-				"start": 0.56,
-				"end": 0.66,
-				"index": 64
-			},
-			{
-				"text": "on ",
-				"start": 0.66,
-				"end": 0.8,
+				"end": 0.46,
 				"index": 65
 			},
 			{
-				"text": "a ",
-				"start": 0.8,
-				"end": 1,
+				"text": "it's",
+				"start": 0.54,
+				"end": 0.62,
 				"index": 66
-			},
+			}
+		],
+		"start": 23.56,
+		"end": 24.18
+	},
+	{
+		"words": [
 			{
-				"text": "whole ",
-				"start": 1,
-				"end": 1.5,
+				"text": "Roscoe ",
+				"start": 0,
+				"end": 0.42,
 				"index": 67
 			},
 			{
-				"text": "nother ",
-				"start": 1.5,
-				"end": 1.9,
+				"text": "that ",
+				"start": 0.44,
+				"end": 0.68,
 				"index": 68
 			},
 			{
-				"text": "level, ",
-				"start": 1.9,
-				"end": 2.38,
+				"text": "holds ",
+				"start": 0.7,
+				"end": 1.12,
 				"index": 69
 			},
 			{
-				"text": "he's funny ",
-				"start": 2.46,
-				"end": 3.12,
+				"text": "you ",
+				"start": 1.14,
+				"end": 1.2,
 				"index": 70
 			},
 			{
-				"text": "and ",
-				"start": 3.12,
-				"end": 3.76,
+				"text": "together",
+				"start": 1.3,
+				"end": 1.76,
 				"index": 71
-			},
+			}
+		],
+		"start": 24.24,
+		"end": 26
+	},
+	{
+		"words": [
 			{
-				"text": "you ",
-				"start": 3.76,
-				"end": 3.92,
+				"text": "Lately, ",
+				"start": 0,
+				"end": 0.44,
 				"index": 72
 			},
 			{
-				"text": "think ",
-				"start": 3.92,
-				"end": 4.14,
+				"text": "Lebron ",
+				"start": 0.46,
+				"end": 0.98,
 				"index": 73
 			},
 			{
-				"text": "he's ",
-				"start": 4.14,
-				"end": 4.44,
+				"text": "even ",
+				"start": 1,
+				"end": 1.3,
 				"index": 74
 			},
 			{
-				"text": "just better ",
-				"start": 4.44,
-				"end": 4.86,
+				"text": "stay ",
+				"start": 1.34,
+				"end": 1.62,
 				"index": 75
 			},
 			{
-				"text": "LeBron ",
-				"start": 4.96,
-				"end": 5.52,
+				"text": "in ",
+				"start": 1.64,
+				"end": 1.74,
 				"index": 76
 			},
 			{
-				"text": "is ",
-				"start": 5.52,
-				"end": 5.74,
+				"text": "these ",
+				"start": 1.76,
+				"end": 1.9,
 				"index": 77
 			},
 			{
-				"text": "on ",
-				"start": 5.74,
-				"end": 5.96,
+				"text": "rings ",
+				"start": 2.2,
+				"end": 2.3,
 				"index": 78
 			},
 			{
-				"text": "a ",
-				"start": 5.96,
-				"end": 6.44,
+				"text": "Lebron, ",
+				"start": 2.54,
+				"end": 3.04,
 				"index": 79
 			},
 			{
-				"text": "whole ",
-				"start": 6.44,
-				"end": 6.52,
+				"text": "you ",
+				"start": 3.06,
+				"end": 3.14,
 				"index": 80
 			},
 			{
-				"text": "nother level, ",
-				"start": 6.52,
-				"end": 6.8,
+				"text": "know ",
+				"start": 3.21,
+				"end": 3.45,
 				"index": 81
 			},
 			{
-				"text": "he's funny ",
-				"start": 6.8,
-				"end": 7.66,
+				"text": "he's ",
+				"start": 3.47,
+				"end": 3.61,
 				"index": 82
 			},
 			{
-				"text": "and ",
-				"start": 7.66,
-				"end": 8.02,
+				"text": "that ",
+				"start": 3.93,
+				"end": 4.01,
 				"index": 83
 			},
 			{
-				"text": "you ",
-				"start": 8.02,
-				"end": 9.28,
+				"text": "guy",
+				"start": 4.03,
+				"end": 4.17,
 				"index": 84
-			},
+			}
+		],
+		"start": 25.99,
+		"end": 30.16
+	},
+	{
+		"words": [
 			{
-				"text": "think ",
-				"start": 9.28,
-				"end": 9.78,
+				"text": "Pull ",
+				"start": 0,
+				"end": 0.42,
 				"index": 85
 			},
 			{
-				"text": "he's ",
-				"start": 9.78,
-				"end": 11.32,
+				"text": "up ",
+				"start": 0.44,
+				"end": 0.48,
 				"index": 86
 			},
 			{
-				"text": "just ",
-				"start": 11.32,
-				"end": 11.44,
+				"text": "the ",
+				"start": 0.5,
+				"end": 0.56,
 				"index": 87
 			},
 			{
-				"text": "better, whenever he's into you, I get sentimental ",
-				"start": 11.44,
-				"end": 12.26,
+				"text": "sky, ",
+				"start": 0.58,
+				"end": 1.24,
 				"index": 88
 			},
 			{
-				"text": "LeBron ",
-				"start": 12.62,
-				"end": 13.08,
+				"text": "Bron ",
+				"start": 1.26,
+				"end": 1.54,
 				"index": 89
 			},
 			{
-				"text": "is ",
-				"start": 13.08,
-				"end": 13.26,
+				"text": "at ",
+				"start": 1.56,
+				"end": 1.66,
 				"index": 90
 			},
 			{
-				"text": "on ",
-				"start": 13.26,
-				"end": 13.68,
+				"text": "my ",
+				"start": 1.78,
+				"end": 1.92,
 				"index": 91
 			},
 			{
-				"text": "a ",
-				"start": 13.68,
-				"end": 16.04,
+				"text": "right",
+				"start": 2.1,
+				"end": 2.24,
 				"index": 92
-			},
+			}
+		],
+		"start": 30.41,
+		"end": 32.65
+	},
+	{
+		"words": [
 			{
-				"text": "whole ",
-				"start": 16.04,
-				"end": 16.18,
+				"text": "Left ",
+				"start": 0,
+				"end": 0.28,
 				"index": 93
 			},
 			{
-				"text": "nother ",
-				"start": 16.18,
-				"end": 16.38,
+				"text": "hand ",
+				"start": 0.3,
+				"end": 0.44,
 				"index": 94
 			},
 			{
-				"text": "level, ",
-				"start": 16.38,
-				"end": 16.42,
+				"text": "is ",
+				"start": 0.5,
+				"end": 0.56,
 				"index": 95
 			},
 			{
-				"text": "he's ",
-				"start": 16.56,
-				"end": 16.94,
+				"text": "staring, ",
+				"start": 0.58,
+				"end": 1.04,
 				"index": 96
 			},
 			{
-				"text": "funny ",
-				"start": 16.94,
-				"end": 17.56,
+				"text": "the ",
+				"start": 1.06,
+				"end": 1.24,
 				"index": 97
 			},
 			{
-				"text": "and ",
-				"start": 17.56,
-				"end": 17.92,
+				"text": "other ",
+				"start": 1.38,
+				"end": 1.7,
 				"index": 98
 			},
 			{
-				"text": "you ",
-				"start": 17.92,
-				"end": 18.56,
+				"text": "is ",
+				"start": 1.78,
+				"end": 1.86,
 				"index": 99
 			},
 			{
-				"text": "think ",
-				"start": 18.56,
-				"end": 18.58,
+				"text": "flipping ",
+				"start": 1.9,
+				"end": 2.34,
 				"index": 100
 			},
 			{
-				"text": "he's ",
-				"start": 18.58,
-				"end": 20.68,
+				"text": "round ",
+				"start": 2.36,
+				"end": 2.5,
 				"index": 101
 			},
 			{
-				"text": "just ",
-				"start": 20.68,
-				"end": 20.82,
+				"text": "sky ",
+				"start": 2.52,
+				"end": 2.86,
 				"index": 102
 			},
 			{
-				"text": "better",
-				"start": 20.82,
-				"end": 24.88,
+				"text": "Lebron, ",
+				"start": 3.23,
+				"end": 3.63,
 				"index": 103
+			},
+			{
+				"text": "you ",
+				"start": 3.65,
+				"end": 3.75,
+				"index": 104
+			},
+			{
+				"text": "know ",
+				"start": 3.81,
+				"end": 3.95,
+				"index": 105
+			},
+			{
+				"text": "that ",
+				"start": 3.97,
+				"end": 4.15,
+				"index": 106
+			},
+			{
+				"text": "you're ",
+				"start": 4.23,
+				"end": 4.35,
+				"index": 107
+			},
+			{
+				"text": "mine ",
+				"start": 4.57,
+				"end": 4.71,
+				"index": 108
+			},
+			{
+				"text": "Lebron ",
+				"start": 5.01,
+				"end": 5.63,
+				"index": 109
+			},
+			{
+				"text": "deserves ",
+				"start": 5.65,
+				"end": 6.27,
+				"index": 110
+			},
+			{
+				"text": "all ",
+				"start": 6.41,
+				"end": 6.87,
+				"index": 111
+			},
+			{
+				"text": "the ",
+				"start": 6.95,
+				"end": 7.01,
+				"index": 112
+			},
+			{
+				"text": "praise ",
+				"start": 7.03,
+				"end": 7.23,
+				"index": 113
+			},
+			{
+				"text": "he's ",
+				"start": 7.33,
+				"end": 7.51,
+				"index": 114
+			},
+			{
+				"text": "missing",
+				"start": 7.55,
+				"end": 8.05,
+				"index": 115
 			}
 		],
-		"start": 23.3,
-		"end": 48.18
+		"start": 32.92,
+		"end": 40.97
+	},
+	{
+		"words": [
+			{
+				"text": "When ",
+				"start": 0,
+				"end": 0.16,
+				"index": 116
+			},
+			{
+				"text": "they ",
+				"start": 0.18,
+				"end": 0.28,
+				"index": 117
+			},
+			{
+				"text": "see ",
+				"start": 0.3,
+				"end": 0.44,
+				"index": 118
+			},
+			{
+				"text": "Michael, ",
+				"start": 0.48,
+				"end": 0.82,
+				"index": 119
+			},
+			{
+				"text": "it's ",
+				"start": 0.84,
+				"end": 0.92,
+				"index": 120
+			},
+			{
+				"text": "better ",
+				"start": 0.96,
+				"end": 1.26,
+				"index": 121
+			},
+			{
+				"text": "they ",
+				"start": 1.28,
+				"end": 1.66,
+				"index": 122
+			},
+			{
+				"text": "be ",
+				"start": 1.68,
+				"end": 1.8,
+				"index": 123
+			},
+			{
+				"text": "shippin'",
+				"start": 1.92,
+				"end": 2.36,
+				"index": 124
+			}
+		],
+		"start": 41.07,
+		"end": 43.43
+	},
+	{
+		"words": [
+			{
+				"text": "Play ",
+				"start": 0,
+				"end": 0.32,
+				"index": 125
+			},
+			{
+				"text": "this ",
+				"start": 0.34,
+				"end": 0.52,
+				"index": 126
+			},
+			{
+				"text": "song, ",
+				"start": 0.58,
+				"end": 0.92,
+				"index": 127
+			},
+			{
+				"text": "fun ",
+				"start": 0.94,
+				"end": 1.12,
+				"index": 128
+			},
+			{
+				"text": "song, ",
+				"start": 1.34,
+				"end": 1.74,
+				"index": 129
+			},
+			{
+				"text": "just ",
+				"start": 1.76,
+				"end": 1.84,
+				"index": 130
+			},
+			{
+				"text": "listen",
+				"start": 1.9,
+				"end": 3.2,
+				"index": 131
+			}
+		],
+		"start": 43.57,
+		"end": 46.77
+	},
+	{
+		"words": [
+			{
+				"text": "Bron",
+				"start": 0,
+				"end": 2.96,
+				"index": 132
+			}
+		],
+		"start": 47.28,
+		"end": 50.24
+	},
+	{
+		"words": [
+			{
+				"text": "Bron",
+				"start": 0,
+				"end": 0.7,
+				"index": 133
+			}
+		],
+		"start": 54.13,
+		"end": 54.83
 	}
 ]

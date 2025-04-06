@@ -4,227 +4,245 @@
 			{
 				"text": "Lakers ",
 				"start": 0,
-				"end": 0.74,
+				"end": 0.54,
 				"index": 0
 			},
 			{
 				"text": "in ",
-				"start": 0.74,
-				"end": 1.02,
+				"start": 0.62,
+				"end": 0.74,
 				"index": 1
 			},
 			{
-				"text": "5, ",
-				"start": 1.02,
-				"end": 1.3,
+				"text": "five",
+				"start": 0.96,
+				"end": 1.14,
 				"index": 2
-			},
+			}
+		],
+		"start": 1.45,
+		"end": 2.59
+	},
+	{
+		"words": [
 			{
-				"text": "5, ",
-				"start": 1.56,
-				"end": 2.64,
+				"text": "Five, ",
+				"start": 0,
+				"end": 0.34,
 				"index": 3
 			},
 			{
-				"text": "5 ",
-				"start": 4.6,
-				"end": 6.14,
+				"text": "five ",
+				"start": 0.36,
+				"end": 1.9,
 				"index": 4
 			},
 			{
 				"text": "Lakers ",
-				"start": 6.14,
-				"end": 7.52,
+				"start": 1.92,
+				"end": 2.12,
 				"index": 5
 			},
 			{
 				"text": "in ",
-				"start": 7.52,
-				"end": 7.74,
+				"start": 2.14,
+				"end": 2.24,
 				"index": 6
 			},
 			{
-				"text": "5 ",
-				"start": 7.74,
-				"end": 8.2,
+				"text": "five ",
+				"start": 2.28,
+				"end": 2.68,
 				"index": 7
 			},
 			{
 				"text": "in ",
-				"start": 8.2,
-				"end": 8.42,
+				"start": 2.78,
+				"end": 2.86,
 				"index": 8
 			},
 			{
-				"text": "here ",
-				"start": 8.42,
-				"end": 8.66,
+				"text": "here, ",
+				"start": 3.07,
+				"end": 3.29,
 				"index": 9
 			},
 			{
-				"text": "baby ",
-				"start": 8.66,
-				"end": 9.28,
-				"index": 10
-			},
-			{
-				"text": "LeBron's ",
-				"start": 9.62,
-				"end": 10.96,
-				"index": 11
-			},
-			{
-				"text": "the ",
-				"start": 10.96,
-				"end": 11.06,
-				"index": 12
-			},
-			{
-				"text": "king, ",
-				"start": 11.06,
-				"end": 11.42,
-				"index": 13
-			},
-			{
-				"text": "he ",
-				"start": 11.62,
-				"end": 11.84,
-				"index": 14
-			},
-			{
-				"text": "rolls ",
-				"start": 11.84,
-				"end": 12.06,
-				"index": 15
-			},
-			{
-				"text": "Los ",
-				"start": 12.06,
-				"end": 12.2,
-				"index": 16
-			},
-			{
-				"text": "Angeles ",
-				"start": 12.2,
-				"end": 12.8,
-				"index": 17
-			},
-			{
-				"text": "Lakers ",
-				"start": 12.8,
-				"end": 14.26,
-				"index": 18
-			},
-			{
-				"text": "in ",
-				"start": 14.26,
-				"end": 14.48,
-				"index": 19
-			},
-			{
-				"text": "5 ",
-				"start": 14.48,
-				"end": 14.9,
-				"index": 20
-			},
-			{
-				"text": "in ",
-				"start": 14.9,
-				"end": 15.2,
-				"index": 21
-			},
-			{
-				"text": "here ",
-				"start": 15.2,
-				"end": 15.44,
-				"index": 22
-			},
-			{
 				"text": "baby",
-				"start": 15.44,
-				"end": 16.04,
-				"index": 23
+				"start": 3.33,
+				"end": 4.19,
+				"index": 10
 			}
 		],
-		"start": 1.01,
-		"end": 17.05
+		"start": 6.68,
+		"end": 10.87
 	},
 	{
 		"words": [
 			{
 				"text": "LeBron's ",
 				"start": 0,
-				"end": 0.72,
+				"end": 0.42,
+				"index": 11
+			},
+			{
+				"text": "the ",
+				"start": 0.44,
+				"end": 0.58,
+				"index": 12
+			},
+			{
+				"text": "king, ",
+				"start": 0.64,
+				"end": 1.3,
+				"index": 13
+			},
+			{
+				"text": "he ",
+				"start": 1.32,
+				"end": 1.36,
+				"index": 14
+			},
+			{
+				"text": "rules ",
+				"start": 1.38,
+				"end": 1.5,
+				"index": 15
+			},
+			{
+				"text": "Los ",
+				"start": 1.58,
+				"end": 1.7,
+				"index": 16
+			},
+			{
+				"text": "Angeles ",
+				"start": 1.92,
+				"end": 3.21,
+				"index": 17
+			},
+			{
+				"text": "Lakers ",
+				"start": 3.39,
+				"end": 3.79,
+				"index": 18
+			},
+			{
+				"text": "in ",
+				"start": 3.87,
+				"end": 4.01,
+				"index": 19
+			},
+			{
+				"text": "five ",
+				"start": 4.07,
+				"end": 4.61,
+				"index": 20
+			},
+			{
+				"text": "in ",
+				"start": 4.63,
+				"end": 4.77,
+				"index": 21
+			},
+			{
+				"text": "here, ",
+				"start": 4.79,
+				"end": 5.07,
+				"index": 22
+			},
+			{
+				"text": "baby",
+				"start": 5.09,
+				"end": 6.19,
+				"index": 23
+			}
+		],
+		"start": 11.68,
+		"end": 17.87
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron's ",
+				"start": 0,
+				"end": 0.38,
 				"index": 24
 			},
 			{
 				"text": "the ",
-				"start": 0.72,
-				"end": 0.8,
+				"start": 0.4,
+				"end": 0.54,
 				"index": 25
 			},
 			{
 				"text": "king, ",
-				"start": 0.8,
-				"end": 1.14,
+				"start": 0.84,
+				"end": 1.06,
 				"index": 26
 			},
 			{
 				"text": "he's ",
-				"start": 1.3,
-				"end": 1.6,
+				"start": 1.08,
+				"end": 1.24,
 				"index": 27
 			},
 			{
 				"text": "my ",
-				"start": 1.6,
-				"end": 1.7,
+				"start": 1.28,
+				"end": 1.64,
 				"index": 28
 			},
 			{
 				"text": "glorious ",
-				"start": 1.7,
-				"end": 2.38,
+				"start": 1.66,
+				"end": 3.14,
 				"index": 29
 			},
 			{
 				"text": "king ",
-				"start": 2.38,
-				"end": 2.94,
+				"start": 3.48,
+				"end": 3.57,
 				"index": 30
 			},
 			{
 				"text": "Lakers ",
-				"start": 2.94,
-				"end": 4.02,
+				"start": 3.61,
+				"end": 3.79,
 				"index": 31
 			},
 			{
 				"text": "in ",
-				"start": 4.02,
-				"end": 4.28,
+				"start": 3.93,
+				"end": 3.97,
 				"index": 32
 			},
 			{
-				"text": "5, ",
-				"start": 4.28,
-				"end": 4.74,
+				"text": "five",
+				"start": 3.99,
+				"end": 4.69,
 				"index": 33
-			},
+			}
+		],
+		"start": 18.51,
+		"end": 23.2
+	},
+	{
+		"words": [
 			{
-				"text": "5, ",
-				"start": 5.02,
-				"end": 6.08,
+				"text": "Five, ",
+				"start": 0,
+				"end": 1.7,
 				"index": 34
 			},
 			{
-				"text": "5",
-				"start": 7.88,
-				"end": 9.28,
+				"text": "five",
+				"start": 2.02,
+				"end": 2.1,
 				"index": 35
 			}
 		],
-		"start": 18.05,
-		"end": 27.33
+		"start": 27.02,
+		"end": 29.12
 	}
 ]

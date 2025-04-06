@@ -2,61 +2,97 @@
 	{
 		"words": [
 			{
-				"text": "Our ",
-				"start": 0,
-				"end": 0.48,
+				"text": "for ",
+				"start": 1.69,
+				"end": 2.25,
 				"index": 0
 			},
 			{
-				"text": "glorious ",
-				"start": 0.48,
-				"end": 1.14,
+				"text": "his ",
+				"start": 2.27,
+				"end": 2.63,
 				"index": 1
 			},
 			{
-				"text": "king ",
-				"start": 1.14,
-				"end": 1.84,
+				"text": "team",
+				"start": 2.99,
+				"end": 3.17,
 				"index": 2
-			},
-			{
-				"text": "is ",
-				"start": 1.84,
-				"end": 2.84,
-				"index": 3
-			},
-			{
-				"text": "LeBron ",
-				"start": 2.84,
-				"end": 5.32,
-				"index": 4
-			},
-			{
-				"text": "J",
-				"start": 5.32,
-				"end": 5.8,
-				"index": 5
 			}
 		],
-		"start": 0.02,
-		"end": 5.82
+		"start": -1,
+		"end": 2.17
 	},
 	{
 		"words": [
 			{
-				"text": "YEA",
+				"text": "He ",
+				"start": 0,
+				"end": 0.82,
+				"index": 3
+			},
+			{
+				"text": "is",
+				"start": 0.84,
+				"end": 1.9,
+				"index": 4
+			}
+		],
+		"start": 2.71,
+		"end": 4.61
+	},
+	{
+		"words": [
+			{
+				"text": "Yeah",
+				"start": 0,
+				"end": 7.45,
+				"index": 5
+			}
+		],
+		"start": 9.84,
+		"end": 17.29
+	},
+	{
+		"words": [
+			{
+				"text": "Yeah",
 				"start": 0,
 				"end": 0.24,
 				"index": 6
-			},
+			}
+		],
+		"start": 17.95,
+		"end": 18.19
+	},
+	{
+		"words": [
 			{
-				"text": "-",
-				"start": 0.24,
-				"end": 0.3,
+				"text": "Yeah",
+				"start": 0,
+				"end": 2.5,
 				"index": 7
 			}
 		],
-		"start": 5.82,
-		"end": 6.12
+		"start": 26.56,
+		"end": 29.06
+	},
+	{
+		"words": [
+			{
+				"text": "The ",
+				"start": 0,
+				"end": 4.14,
+				"index": 8
+			},
+			{
+				"text": "Bron",
+				"start": 4.24,
+				"end": 4.32,
+				"index": 9
+			}
+		],
+		"start": 32.53,
+		"end": 36.85
 	}
 ]

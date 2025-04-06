@@ -2,229 +2,217 @@
 	{
 		"words": [
 			{
-				"text": "LeBron",
+				"text": "LeBron, ",
 				"start": 0,
-				"end": 0.82,
+				"end": 3.8,
 				"index": 0
-			}
-		],
-		"start": 2.32,
-		"end": 3.14
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "I'm ",
-				"start": 0,
-				"end": 0.98,
+				"start": 3.82,
+				"end": 3.96,
 				"index": 1
 			},
 			{
 				"text": "so ",
-				"start": 2.39,
-				"end": 2.59,
+				"start": 4.06,
+				"end": 4.64,
 				"index": 2
 			},
 			{
 				"text": "in ",
-				"start": 2.59,
-				"end": 3.35,
+				"start": 4.99,
+				"end": 5.25,
 				"index": 3
 			},
 			{
 				"text": "love ",
-				"start": 3.35,
-				"end": 3.95,
+				"start": 5.71,
+				"end": 5.97,
 				"index": 4
 			},
 			{
 				"text": "with ",
-				"start": 3.95,
-				"end": 4.63,
+				"start": 6.01,
+				"end": 6.23,
 				"index": 5
 			},
 			{
 				"text": "you",
-				"start": 4.63,
-				"end": 4.97,
+				"start": 6.31,
+				"end": 6.61,
 				"index": 6
 			}
 		],
-		"start": 4.16,
-		"end": 9.13
+		"start": 2.68,
+		"end": 9.29
 	},
 	{
 		"words": [
 			{
 				"text": "And ",
 				"start": 0,
-				"end": 2.14,
+				"end": 2.44,
 				"index": 7
 			},
 			{
 				"text": "any ",
-				"start": 2.14,
-				"end": 2.62,
+				"start": 2.46,
+				"end": 2.74,
 				"index": 8
 			},
 			{
 				"text": "team ",
-				"start": 2.62,
-				"end": 3.14,
+				"start": 3.04,
+				"end": 3.18,
 				"index": 9
 			},
 			{
 				"text": "you ",
-				"start": 3.14,
-				"end": 3.48,
+				"start": 3.26,
+				"end": 3.36,
 				"index": 10
 			},
 			{
-				"text": "wanna ",
-				"start": 3.48,
-				"end": 3.86,
+				"text": "want ",
+				"start": 3.44,
+				"end": 4.23,
 				"index": 11
 			},
 			{
-				"text": "choose",
-				"start": 3.86,
-				"end": 4.7,
+				"text": "to ",
+				"start": 4.59,
+				"end": 4.81,
 				"index": 12
+			},
+			{
+				"text": "choose",
+				"start": 4.83,
+				"end": 4.95,
+				"index": 13
 			}
 		],
-		"start": 9.13,
-		"end": 13.83
+		"start": 9.33,
+		"end": 14.28
 	},
 	{
 		"words": [
 			{
 				"text": "Is ",
 				"start": 0,
-				"end": 2.32,
-				"index": 13
-			},
-			{
-				"text": "alright ",
-				"start": 2.32,
-				"end": 2.86,
+				"end": 0.26,
 				"index": 14
 			},
 			{
-				"text": "with ",
-				"start": 2.86,
-				"end": 3.38,
+				"text": "alright ",
+				"start": 0.28,
+				"end": 0.86,
 				"index": 15
 			},
 			{
-				"text": "me",
-				"start": 3.38,
-				"end": 4.08,
+				"text": "with ",
+				"start": 0.94,
+				"end": 3.6,
 				"index": 16
+			},
+			{
+				"text": "me",
+				"start": 3.62,
+				"end": 3.82,
+				"index": 17
 			}
 		],
-		"start": 13.83,
-		"end": 17.91
+		"start": 16.28,
+		"end": 20.1
 	},
 	{
 		"words": [
 			{
 				"text": "Cause ",
 				"start": 0,
-				"end": 0.98,
-				"index": 17
-			},
-			{
-				"text": "who'd ",
-				"start": 4.15,
-				"end": 5.17,
+				"end": 1.14,
 				"index": 18
 			},
 			{
-				"text": "do ",
-				"start": 5.17,
-				"end": 5.99,
+				"text": "you ",
+				"start": 1.16,
+				"end": 1.66,
 				"index": 19
 			},
 			{
-				"text": "it ",
-				"start": 5.99,
-				"end": 6.49,
+				"text": "do ",
+				"start": 1.82,
+				"end": 2.26,
 				"index": 20
 			},
 			{
-				"text": "like ",
-				"start": 6.49,
-				"end": 7.15,
+				"text": "it ",
+				"start": 2.52,
+				"end": 2.66,
 				"index": 21
 			},
 			{
-				"text": "my ",
-				"start": 7.15,
-				"end": 8.05,
+				"text": "like ",
+				"start": 2.76,
+				"end": 3.24,
 				"index": 22
 			},
 			{
-				"text": "LeBron",
-				"start": 8.05,
-				"end": 9.59,
+				"text": "my ",
+				"start": 3.9,
+				"end": 4.47,
 				"index": 23
-			}
-		],
-		"start": 17.91,
-		"end": 27.5
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Hit ",
-				"start": 0,
-				"end": 0.72,
+				"text": "love, ",
+				"start": 4.5,
+				"end": 7.89,
 				"index": 24
 			},
 			{
-				"text": "the ",
-				"start": 5.84,
-				"end": 6.28,
+				"text": "Bron ",
+				"start": 7.95,
+				"end": 8.03,
 				"index": 25
 			},
 			{
-				"text": "Rolly ",
-				"start": 6.28,
-				"end": 7,
+				"text": "hit ",
+				"start": 11.1,
+				"end": 11.64,
 				"index": 26
 			},
 			{
-				"text": "store ",
-				"start": 7,
-				"end": 7.38,
+				"text": "the ",
+				"start": 11.76,
+				"end": 12.12,
 				"index": 27
 			},
 			{
-				"text": "with ",
-				"start": 7.38,
-				"end": 8,
+				"text": "rollie ",
+				"start": 12.18,
+				"end": 12.65,
 				"index": 28
 			},
 			{
-				"text": "the ",
-				"start": 8,
-				"end": 8.22,
+				"text": "store ",
+				"start": 12.69,
+				"end": 13.41,
 				"index": 29
 			},
 			{
-				"text": "Rolly ",
-				"start": 8.22,
-				"end": 8.92,
+				"text": "the ",
+				"start": 13.67,
+				"end": 13.89,
 				"index": 30
 			},
 			{
-				"text": "on",
-				"start": 8.92,
-				"end": 9.58,
+				"text": "rollie",
+				"start": 13.99,
+				"end": 17.07,
 				"index": 31
 			}
 		],
-		"start": 27.5,
-		"end": 37.08
+		"start": 22.04,
+		"end": 39.11
 	}
 ]

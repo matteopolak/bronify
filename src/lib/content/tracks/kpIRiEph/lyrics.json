@@ -2,919 +2,919 @@
 	{
 		"words": [
 			{
-				"text": "LeBron ",
+				"text": "The ",
 				"start": 0,
-				"end": 0.76,
+				"end": 0.4,
 				"index": 0
 			},
 			{
-				"text": "Raymond, ",
-				"start": 0.9,
-				"end": 1.86,
+				"text": "Bron ",
+				"start": 0.56,
+				"end": 0.72,
 				"index": 1
 			},
 			{
-				"text": "James, ",
-				"start": 1.96,
-				"end": 2.58,
+				"text": "Raymond ",
+				"start": 0.78,
+				"end": 1.8,
 				"index": 2
 			},
 			{
-				"text": "every ",
-				"start": 2.58,
-				"end": 3.68,
+				"text": "James",
+				"start": 1.84,
+				"end": 2.83,
 				"index": 3
-			},
-			{
-				"text": "time ",
-				"start": 3.68,
-				"end": 4.3,
-				"index": 4
-			},
-			{
-				"text": "you ",
-				"start": 4.3,
-				"end": 4.64,
-				"index": 5
-			},
-			{
-				"text": "touch ",
-				"start": 4.64,
-				"end": 4.92,
-				"index": 6
-			},
-			{
-				"text": "the ",
-				"start": 4.92,
-				"end": 5.18,
-				"index": 7
-			},
-			{
-				"text": "ball ",
-				"start": 5.18,
-				"end": 5.54,
-				"index": 8
-			},
-			{
-				"text": "you ",
-				"start": 5.54,
-				"end": 5.84,
-				"index": 9
-			},
-			{
-				"text": "make ",
-				"start": 5.84,
-				"end": 6.32,
-				"index": 10
-			},
-			{
-				"text": "me ",
-				"start": 6.32,
-				"end": 6.62,
-				"index": 11
-			},
-			{
-				"text": "go ",
-				"start": 6.62,
-				"end": 6.84,
-				"index": 12
-			},
-			{
-				"text": "insane",
-				"start": 6.84,
-				"end": 7.36,
-				"index": 13
 			}
 		],
-		"start": 3.34,
-		"end": 10.7
+		"start": 3.71,
+		"end": 6.54
 	},
 	{
 		"words": [
 			{
-				"text": "Kind ",
+				"text": "Every ",
 				"start": 0,
-				"end": 0.44,
-				"index": 14
+				"end": 0.3,
+				"index": 4
 			},
 			{
-				"text": "of ",
-				"start": 0.44,
-				"end": 0.84,
+				"text": "time ",
+				"start": 0.38,
+				"end": 0.74,
+				"index": 5
+			},
+			{
+				"text": "you ",
+				"start": 0.8,
+				"end": 0.96,
+				"index": 6
+			},
+			{
+				"text": "touch ",
+				"start": 1.02,
+				"end": 1.38,
+				"index": 7
+			},
+			{
+				"text": "the ",
+				"start": 1.48,
+				"end": 1.6,
+				"index": 8
+			},
+			{
+				"text": "ball ",
+				"start": 1.66,
+				"end": 2.01,
+				"index": 9
+			},
+			{
+				"text": "you ",
+				"start": 2.04,
+				"end": 2.33,
+				"index": 10
+			},
+			{
+				"text": "make ",
+				"start": 2.45,
+				"end": 2.77,
+				"index": 11
+			},
+			{
+				"text": "me ",
+				"start": 2.81,
+				"end": 2.97,
+				"index": 12
+			},
+			{
+				"text": "go ",
+				"start": 3.01,
+				"end": 3.33,
+				"index": 13
+			},
+			{
+				"text": "insane",
+				"start": 3.43,
+				"end": 4.27,
+				"index": 14
+			}
+		],
+		"start": 7.14,
+		"end": 11.41
+	},
+	{
+		"words": [
+			{
+				"text": "God ",
+				"start": 0,
+				"end": 0.5,
 				"index": 15
 			},
 			{
-				"text": "crazy ",
-				"start": 0.84,
-				"end": 1.44,
+				"text": "look ",
+				"start": 0.52,
+				"end": 0.6,
 				"index": 16
 			},
 			{
-				"text": "how ",
-				"start": 1.44,
-				"end": 1.8,
+				"text": "crazy ",
+				"start": 0.64,
+				"end": 1.22,
 				"index": 17
 			},
 			{
-				"text": "you're ",
-				"start": 1.8,
-				"end": 2.18,
+				"text": "how ",
+				"start": 1.34,
+				"end": 1.68,
 				"index": 18
 			},
 			{
-				"text": "40, ",
-				"start": 2.18,
-				"end": 2.7,
+				"text": "you're ",
+				"start": 1.7,
+				"end": 1.88,
 				"index": 19
 			},
 			{
-				"text": "you're ",
-				"start": 2.98,
-				"end": 3.34,
+				"text": "40",
+				"start": 1.91,
+				"end": 2.67,
 				"index": 20
-			},
+			}
+		],
+		"start": 12.05,
+		"end": 14.72
+	},
+	{
+		"words": [
 			{
-				"text": "over ",
-				"start": 3.34,
-				"end": 3.94,
+				"text": "You're ",
+				"start": 0,
+				"end": 0.46,
 				"index": 21
 			},
 			{
-				"text": "here ",
-				"start": 3.94,
-				"end": 4.38,
+				"text": "over ",
+				"start": 0.74,
+				"end": 0.96,
 				"index": 22
 			},
 			{
-				"text": "baggin' ",
-				"start": 4.38,
-				"end": 5.58,
+				"text": "here ",
+				"start": 1,
+				"end": 1.76,
 				"index": 23
 			},
 			{
-				"text": "MJ ",
-				"start": 5.58,
-				"end": 6.16,
+				"text": "begging ",
+				"start": 1.94,
+				"end": 2.53,
 				"index": 24
 			},
 			{
-				"text": "shorty ",
-				"start": 6.16,
-				"end": 7.26,
+				"text": "MJ",
+				"start": 2.91,
+				"end": 3.45,
 				"index": 25
-			},
+			}
+		],
+		"start": 14.82,
+		"end": 18.27
+	},
+	{
+		"words": [
 			{
-				"text": "Space ",
-				"start": 7.26,
-				"end": 8.08,
+				"text": "Shorty ",
+				"start": 0,
+				"end": 1.18,
 				"index": 26
 			},
 			{
-				"text": "Jam ",
-				"start": 8.08,
-				"end": 8.48,
+				"text": "Space ",
+				"start": 1.16,
+				"end": 1.68,
 				"index": 27
 			},
 			{
-				"text": "2 ",
-				"start": 8.48,
-				"end": 8.72,
+				"text": "Jam ",
+				"start": 1.84,
+				"end": 2,
 				"index": 28
 			},
 			{
-				"text": "was ",
-				"start": 8.72,
-				"end": 9.22,
+				"text": "2 ",
+				"start": 2.02,
+				"end": 2.38,
 				"index": 29
 			},
 			{
-				"text": "better ",
-				"start": 9.22,
-				"end": 9.58,
+				"text": "was ",
+				"start": 2.42,
+				"end": 2.63,
 				"index": 30
 			},
 			{
-				"text": "than ",
-				"start": 9.58,
-				"end": 10.1,
+				"text": "better ",
+				"start": 2.68,
+				"end": 3.31,
 				"index": 31
 			},
 			{
-				"text": "1 ",
-				"start": 10.1,
-				"end": 10.46,
+				"text": "than ",
+				"start": 3.37,
+				"end": 3.61,
 				"index": 32
 			},
 			{
-				"text": "cuz ",
-				"start": 10.46,
-				"end": 10.74,
+				"text": "1 ",
+				"start": 3.63,
+				"end": 3.93,
 				"index": 33
 			},
 			{
-				"text": "she ",
-				"start": 10.74,
-				"end": 11,
+				"text": "cuz ",
+				"start": 3.99,
+				"end": 4.35,
 				"index": 34
 			},
 			{
-				"text": "was ",
-				"start": 11,
-				"end": 11.2,
+				"text": "she ",
+				"start": 4.37,
+				"end": 4.47,
 				"index": 35
 			},
 			{
-				"text": "super ",
-				"start": 11.2,
-				"end": 11.48,
+				"text": "was ",
+				"start": 4.49,
+				"end": 4.61,
 				"index": 36
 			},
 			{
-				"text": "sporty",
-				"start": 11.48,
-				"end": 12.02,
+				"text": "super ",
+				"start": 4.63,
+				"end": 5.15,
 				"index": 37
+			},
+			{
+				"text": "sporty",
+				"start": 5.21,
+				"end": 5.67,
+				"index": 38
 			}
 		],
-		"start": 11.6,
-		"end": 23.62
+		"start": 18.31,
+		"end": 23.98
 	},
 	{
 		"words": [
 			{
 				"text": "Don't ",
 				"start": 0,
-				"end": 0.9,
-				"index": 38
-			},
-			{
-				"text": "you ",
-				"start": 0.9,
-				"end": 1.12,
+				"end": 0.3,
 				"index": 39
 			},
 			{
-				"text": "wonder ",
-				"start": 1.12,
-				"end": 1.96,
+				"text": "you ",
+				"start": 0.38,
+				"end": 0.58,
 				"index": 40
 			},
 			{
-				"text": "why",
-				"start": 1.96,
-				"end": 2.58,
+				"text": "wonder ",
+				"start": 0.68,
+				"end": 1.68,
 				"index": 41
-			}
-		],
-		"start": 23.62,
-		"end": 26.2
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "LeBron ",
-				"start": 0,
-				"end": 1,
+				"text": "why ",
+				"start": 1.78,
+				"end": 2.96,
 				"index": 42
 			},
 			{
-				"text": "James ",
-				"start": 1,
-				"end": 1.32,
+				"text": "LeBron ",
+				"start": 3.2,
+				"end": 3.7,
 				"index": 43
 			},
 			{
-				"text": "broke ",
-				"start": 1.32,
-				"end": 1.64,
+				"text": "James ",
+				"start": 3.72,
+				"end": 4.04,
 				"index": 44
 			},
 			{
-				"text": "the ",
-				"start": 1.64,
-				"end": 1.82,
+				"text": "broke ",
+				"start": 4.06,
+				"end": 4.33,
 				"index": 45
 			},
 			{
-				"text": "record ",
-				"start": 1.82,
-				"end": 2.38,
+				"text": "the ",
+				"start": 4.35,
+				"end": 4.67,
 				"index": 46
 			},
 			{
-				"text": "and ",
-				"start": 2.38,
-				"end": 2.9,
+				"text": "record ",
+				"start": 4.73,
+				"end": 5.37,
 				"index": 47
 			},
 			{
-				"text": "is ",
-				"start": 2.9,
-				"end": 3.42,
+				"text": "and ",
+				"start": 5.57,
+				"end": 5.75,
 				"index": 48
 			},
 			{
-				"text": "that ",
-				"start": 3.42,
-				"end": 4.1,
+				"text": "is ",
+				"start": 6.25,
+				"end": 6.59,
 				"index": 49
 			},
 			{
-				"text": "guy",
-				"start": 4.1,
-				"end": 4.5,
+				"text": "that ",
+				"start": 6.63,
+				"end": 6.89,
 				"index": 50
+			},
+			{
+				"text": "guy",
+				"start": 6.93,
+				"end": 7.89,
+				"index": 51
 			}
 		],
-		"start": 26.9,
-		"end": 31.4
+		"start": 24.38,
+		"end": 32.27
 	},
 	{
 		"words": [
 			{
 				"text": "Always ",
 				"start": 0,
-				"end": 1.28,
-				"index": 51
-			},
-			{
-				"text": "on ",
-				"start": 1.28,
-				"end": 1.52,
+				"end": 0.2,
 				"index": 52
 			},
 			{
-				"text": "fire, ",
-				"start": 1.52,
-				"end": 2.08,
+				"text": "on ",
+				"start": 0.32,
+				"end": 0.42,
 				"index": 53
 			},
 			{
-				"text": "just ",
-				"start": 2.16,
-				"end": 2.52,
+				"text": "fire, ",
+				"start": 0.52,
+				"end": 1.02,
 				"index": 54
 			},
 			{
-				"text": "be ",
-				"start": 2.52,
-				"end": 2.82,
+				"text": "just ",
+				"start": 1.16,
+				"end": 1.46,
 				"index": 55
 			},
 			{
-				"text": "blazin' ",
-				"start": 2.82,
-				"end": 3.5,
+				"text": "be ",
+				"start": 1.48,
+				"end": 1.76,
 				"index": 56
 			},
 			{
-				"text": "and ",
-				"start": 3.56,
-				"end": 3.78,
+				"text": "blazin' ",
+				"start": 1.82,
+				"end": 2.36,
 				"index": 57
 			},
 			{
-				"text": "I ",
-				"start": 3.78,
-				"end": 4.04,
+				"text": "and ",
+				"start": 2.42,
+				"end": 2.5,
 				"index": 58
 			},
 			{
-				"text": "know ",
-				"start": 4.04,
-				"end": 4.52,
+				"text": "I ",
+				"start": 2.6,
+				"end": 2.66,
 				"index": 59
 			},
 			{
-				"text": "this, ",
-				"start": 4.52,
-				"end": 5.24,
+				"text": "know ",
+				"start": 3.16,
+				"end": 3.54,
 				"index": 60
 			},
 			{
-				"text": "it's ",
-				"start": 5.24,
-				"end": 6.06,
+				"text": "this ",
+				"start": 3.62,
+				"end": 4.52,
 				"index": 61
 			},
 			{
-				"text": "not ",
-				"start": 6.06,
-				"end": 6.22,
+				"text": "is ",
+				"start": 4.75,
+				"end": 4.87,
 				"index": 62
 			},
 			{
-				"text": "fuckin' ",
-				"start": 6.22,
-				"end": 6.84,
+				"text": "not ",
+				"start": 4.93,
+				"end": 5.17,
 				"index": 63
 			},
 			{
-				"text": "glazin'",
-				"start": 7.22,
-				"end": 7.82,
+				"text": "fuckin' ",
+				"start": 5.21,
+				"end": 6.09,
 				"index": 64
+			},
+			{
+				"text": "glazin'",
+				"start": 6.15,
+				"end": 6.85,
+				"index": 65
 			}
 		],
-		"start": 31.4,
-		"end": 39.22
+		"start": 32.71,
+		"end": 39.56
 	},
 	{
 		"words": [
 			{
 				"text": "You ",
 				"start": 0,
-				"end": 0.08,
-				"index": 65
-			},
-			{
-				"text": "askin' ",
-				"start": 0.08,
-				"end": 1.54,
+				"end": 0.26,
 				"index": 66
 			},
 			{
-				"text": "me ",
-				"start": 1.54,
-				"end": 1.68,
+				"text": "askin' ",
+				"start": 0.36,
+				"end": 0.66,
 				"index": 67
 			},
 			{
-				"text": "how ",
-				"start": 1.68,
-				"end": 1.94,
+				"text": "me ",
+				"start": 0.7,
+				"end": 0.9,
 				"index": 68
 			},
 			{
-				"text": "LeBron ",
-				"start": 1.94,
-				"end": 2.28,
+				"text": "how ",
+				"start": 0.98,
+				"end": 1.12,
 				"index": 69
 			},
 			{
-				"text": "is ",
-				"start": 2.28,
-				"end": 2.66,
+				"text": "LeBron ",
+				"start": 1.18,
+				"end": 1.66,
 				"index": 70
 			},
 			{
-				"text": "better ",
-				"start": 2.66,
-				"end": 2.98,
+				"text": "is ",
+				"start": 1.74,
+				"end": 1.84,
 				"index": 71
 			},
 			{
-				"text": "and ",
-				"start": 2.98,
-				"end": 3.54,
+				"text": "better ",
+				"start": 1.9,
+				"end": 2.54,
 				"index": 72
 			},
 			{
-				"text": "I'ma ",
-				"start": 3.54,
-				"end": 3.98,
+				"text": "and ",
+				"start": 2.66,
+				"end": 2.74,
 				"index": 73
 			},
 			{
-				"text": "show ",
-				"start": 3.98,
-				"end": 4.2,
+				"text": "I'ma ",
+				"start": 2.88,
+				"end": 3.18,
 				"index": 74
 			},
 			{
-				"text": "you ",
-				"start": 4.2,
-				"end": 4.54,
+				"text": "show ",
+				"start": 3.2,
+				"end": 3.52,
 				"index": 75
 			},
 			{
-				"text": "why",
-				"start": 4.54,
-				"end": 4.92,
+				"text": "you ",
+				"start": 3.58,
+				"end": 3.76,
 				"index": 76
-			}
-		],
-		"start": 39.38,
-		"end": 44.3
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "LeBron ",
-				"start": 0,
-				"end": 0.68,
+				"text": "why ",
+				"start": 3.86,
+				"end": 4.47,
 				"index": 77
 			},
 			{
-				"text": "had ",
-				"start": 0.68,
-				"end": 1.22,
+				"text": "LeBron ",
+				"start": 4.45,
+				"end": 5.83,
 				"index": 78
 			},
 			{
-				"text": "a ",
-				"start": 1.22,
-				"end": 1.52,
+				"text": "had ",
+				"start": 5.89,
+				"end": 6.29,
 				"index": 79
 			},
 			{
-				"text": "billion ",
-				"start": 1.52,
-				"end": 1.9,
+				"text": "a ",
+				"start": 6.31,
+				"end": 6.33,
 				"index": 80
 			},
 			{
-				"text": "minutes, ",
-				"start": 1.9,
-				"end": 2.82,
+				"text": "billion ",
+				"start": 6.35,
+				"end": 7.19,
 				"index": 81
 			},
 			{
-				"text": "in ",
-				"start": 2.88,
-				"end": 2.94,
+				"text": "minutes, ",
+				"start": 7.25,
+				"end": 7.61,
 				"index": 82
 			},
 			{
-				"text": "LeBron's ",
-				"start": 2.94,
-				"end": 3.54,
+				"text": "and ",
+				"start": 7.69,
+				"end": 7.79,
 				"index": 83
 			},
 			{
-				"text": "prime ",
-				"start": 3.54,
-				"end": 3.78,
+				"text": "LeBron's ",
+				"start": 7.87,
+				"end": 8.35,
 				"index": 84
 			},
 			{
-				"text": "he ",
-				"start": 3.78,
-				"end": 4.24,
+				"text": "pride, ",
+				"start": 8.39,
+				"end": 8.87,
 				"index": 85
 			},
 			{
-				"text": "was ",
-				"start": 4.24,
-				"end": 4.78,
+				"text": "he ",
+				"start": 8.89,
+				"end": 9.27,
 				"index": 86
 			},
 			{
-				"text": "a ",
-				"start": 4.78,
-				"end": 4.98,
+				"text": "was ",
+				"start": 9.33,
+				"end": 9.67,
 				"index": 87
 			},
 			{
-				"text": "villain",
-				"start": 4.98,
-				"end": 5.24,
+				"text": "a ",
+				"start": 9.73,
+				"end": 9.77,
 				"index": 88
+			},
+			{
+				"text": "villain",
+				"start": 9.81,
+				"end": 10.15,
+				"index": 89
 			}
 		],
-		"start": 45.06,
-		"end": 50.3
+		"start": 40.35,
+		"end": 50.5
 	},
 	{
 		"words": [
 			{
 				"text": "He ",
 				"start": 0,
-				"end": 0.24,
-				"index": 89
-			},
-			{
-				"text": "brought ",
-				"start": 0.24,
-				"end": 0.64,
+				"end": 0.2,
 				"index": 90
 			},
 			{
-				"text": "his ",
-				"start": 0.64,
-				"end": 1.1,
+				"text": "brought ",
+				"start": 0.26,
+				"end": 0.66,
 				"index": 91
 			},
 			{
-				"text": "own ",
-				"start": 1.1,
-				"end": 1.66,
+				"text": "his ",
+				"start": 0.8,
+				"end": 1.22,
 				"index": 92
 			},
 			{
-				"text": "kid ",
-				"start": 1.66,
-				"end": 2.08,
+				"text": "own ",
+				"start": 1.42,
+				"end": 1.64,
 				"index": 93
 			},
 			{
-				"text": "in ",
-				"start": 2.08,
-				"end": 2.4,
+				"text": "kid ",
+				"start": 1.7,
+				"end": 2.02,
 				"index": 94
 			},
 			{
-				"text": "the ",
-				"start": 2.4,
-				"end": 2.66,
+				"text": "to ",
+				"start": 2.06,
+				"end": 2.14,
 				"index": 95
 			},
 			{
-				"text": "NBA",
-				"start": 2.66,
-				"end": 3.1,
+				"text": "the ",
+				"start": 2.56,
+				"end": 3.57,
 				"index": 96
+			},
+			{
+				"text": "NBA",
+				"start": 3.59,
+				"end": 3.87,
+				"index": 97
 			}
 		],
-		"start": 50.3,
-		"end": 53.4
+		"start": 50.55,
+		"end": 54.42
 	},
 	{
 		"words": [
 			{
 				"text": "And ",
 				"start": 0,
-				"end": 0.68,
-				"index": 97
-			},
-			{
-				"text": "that ",
-				"start": 0.68,
-				"end": 1.02,
+				"end": 0.1,
 				"index": 98
 			},
 			{
-				"text": "lobbed ",
-				"start": 1.02,
-				"end": 1.8,
+				"text": "that ",
+				"start": 0.22,
+				"end": 0.6,
 				"index": 99
 			},
 			{
-				"text": "the ",
-				"start": 1.8,
-				"end": 1.88,
+				"text": "lobbed ",
+				"start": 0.7,
+				"end": 1.16,
 				"index": 100
 			},
 			{
-				"text": "way ",
-				"start": 1.88,
-				"end": 2.42,
+				"text": "the ",
+				"start": 1.2,
+				"end": 1.6,
 				"index": 101
 			},
 			{
-				"text": "through, ",
-				"start": 2.42,
-				"end": 2.92,
+				"text": "way ",
+				"start": 1.7,
+				"end": 2.06,
 				"index": 102
 			},
 			{
-				"text": "and ",
-				"start": 3.12,
-				"end": 3.28,
+				"text": "through, ",
+				"start": 2.12,
+				"end": 2.5,
 				"index": 103
 			},
 			{
-				"text": "LeBron ",
-				"start": 3.28,
-				"end": 3.7,
+				"text": "and ",
+				"start": 2.63,
+				"end": 2.73,
 				"index": 104
 			},
 			{
-				"text": "jumps ",
-				"start": 3.7,
-				"end": 4.22,
+				"text": "LeBron ",
+				"start": 2.77,
+				"end": 3.27,
 				"index": 105
 			},
 			{
-				"text": "all ",
-				"start": 4.22,
-				"end": 4.56,
+				"text": "jumps ",
+				"start": 3.33,
+				"end": 3.71,
 				"index": 106
 			},
 			{
-				"text": "the ",
-				"start": 4.56,
-				"end": 4.72,
+				"text": "all ",
+				"start": 3.97,
+				"end": 4.09,
 				"index": 107
 			},
 			{
-				"text": "way ",
-				"start": 4.72,
-				"end": 5,
+				"text": "the ",
+				"start": 4.11,
+				"end": 4.17,
 				"index": 108
 			},
 			{
-				"text": "to ",
-				"start": 5,
-				"end": 5.2,
+				"text": "way ",
+				"start": 4.19,
+				"end": 4.49,
 				"index": 109
 			},
 			{
-				"text": "the ",
-				"start": 5.2,
-				"end": 5.34,
+				"text": "to ",
+				"start": 4.57,
+				"end": 4.65,
 				"index": 110
 			},
 			{
-				"text": "moon",
-				"start": 5.34,
-				"end": 5.66,
+				"text": "the ",
+				"start": 4.67,
+				"end": 4.79,
 				"index": 111
+			},
+			{
+				"text": "moon",
+				"start": 4.83,
+				"end": 5.17,
+				"index": 112
 			}
 		],
-		"start": 55.14,
-		"end": 60.8
+		"start": 55.86,
+		"end": 61.03
 	},
 	{
 		"words": [
 			{
 				"text": "That's ",
 				"start": 0,
-				"end": 0.42,
-				"index": 112
-			},
-			{
-				"text": "why ",
-				"start": 0.42,
-				"end": 0.6,
+				"end": 0.26,
 				"index": 113
 			},
 			{
-				"text": "he's ",
-				"start": 0.6,
-				"end": 1.26,
+				"text": "why ",
+				"start": 0.34,
+				"end": 0.72,
 				"index": 114
 			},
 			{
-				"text": "the ",
-				"start": 1.26,
-				"end": 1.4,
+				"text": "he's ",
+				"start": 0.84,
+				"end": 1.18,
 				"index": 115
 			},
 			{
-				"text": "greatest ",
-				"start": 1.4,
-				"end": 2,
+				"text": "the ",
+				"start": 1.7,
+				"end": 1.76,
 				"index": 116
 			},
 			{
-				"text": "of ",
-				"start": 2,
-				"end": 2.66,
+				"text": "greatest ",
+				"start": 2.02,
+				"end": 2.22,
 				"index": 117
 			},
 			{
-				"text": "all ",
-				"start": 2.66,
-				"end": 2.96,
+				"text": "of ",
+				"start": 2.5,
+				"end": 2.8,
 				"index": 118
 			},
 			{
-				"text": "time",
-				"start": 2.96,
-				"end": 3.44,
+				"text": "all ",
+				"start": 2.82,
+				"end": 2.98,
 				"index": 119
-			}
-		],
-		"start": 60.8,
-		"end": 64.24
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Raymond",
-				"start": 0,
-				"end": 0.46,
+				"text": "time",
+				"start": 3.75,
+				"end": 5.39,
 				"index": 120
 			}
 		],
-		"start": 65.22,
-		"end": 65.68
+		"start": 61.07,
+		"end": 66.46
 	},
 	{
 		"words": [
 			{
-				"text": "James",
+				"text": "Lebron ",
 				"start": 0,
-				"end": 0.3,
+				"end": 0.6,
 				"index": 121
-			}
-		],
-		"start": 71.73,
-		"end": 72.03
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Raymond ",
-				"start": 0,
-				"end": 0.66,
+				"text": "Lebron, ",
+				"start": 0.62,
+				"end": 2.33,
 				"index": 122
 			},
 			{
-				"text": "Gale ",
-				"start": 0.76,
-				"end": 1.6,
+				"text": "Lebron, ",
+				"start": 2.47,
+				"end": 2.99,
 				"index": 123
 			},
 			{
-				"text": "James",
-				"start": 1.6,
-				"end": 1.9,
+				"text": "Raymond ",
+				"start": 3.01,
+				"end": 3.31,
 				"index": 124
-			}
-		],
-		"start": 72.69,
-		"end": 74.59
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "LeBron ",
-				"start": 0,
-				"end": 1.24,
+				"text": "James, ",
+				"start": 3.33,
+				"end": 4.05,
 				"index": 125
 			},
 			{
-				"text": "love",
-				"start": 1.24,
-				"end": 1.66,
+				"text": "Raymond ",
+				"start": 4.17,
+				"end": 5.27,
 				"index": 126
-			}
-		],
-		"start": 75.97,
-		"end": 77.63
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Number ",
-				"start": 0,
-				"end": 0.7,
+				"text": "Gale ",
+				"start": 5.33,
+				"end": 5.85,
 				"index": 127
 			},
 			{
-				"text": "23 ",
-				"start": 0.7,
-				"end": 1.48,
+				"text": "James",
+				"start": 5.87,
+				"end": 7.26,
 				"index": 128
-			},
-			{
-				"text": "and ",
-				"start": 1.48,
-				"end": 2,
-				"index": 129
-			},
-			{
-				"text": "since ",
-				"start": 2,
-				"end": 2.3,
-				"index": 130
-			},
-			{
-				"text": "his ",
-				"start": 2.3,
-				"end": 2.58,
-				"index": 131
-			},
-			{
-				"text": "name ",
-				"start": 2.58,
-				"end": 3.02,
-				"index": 132
-			},
-			{
-				"text": "is ",
-				"start": 3.02,
-				"end": 3.26,
-				"index": 133
-			},
-			{
-				"text": "LeBron",
-				"start": 3.26,
-				"end": 3.72,
-				"index": 134
 			}
 		],
-		"start": 78.91,
-		"end": 82.63
+		"start": 68.68,
+		"end": 75.94
 	},
 	{
 		"words": [
 			{
-				"text": "Raymond ",
+				"text": "Lebron ",
 				"start": 0,
-				"end": 0.44,
+				"end": 1.78,
+				"index": 129
+			},
+			{
+				"text": "Lebron, ",
+				"start": 1.8,
+				"end": 2.57,
+				"index": 130
+			},
+			{
+				"text": "number ",
+				"start": 2.91,
+				"end": 3.15,
+				"index": 131
+			},
+			{
+				"text": "23 ",
+				"start": 3.17,
+				"end": 3.83,
+				"index": 132
+			},
+			{
+				"text": "since ",
+				"start": 4.35,
+				"end": 4.99,
+				"index": 133
+			},
+			{
+				"text": "his ",
+				"start": 5.01,
+				"end": 5.07,
+				"index": 134
+			},
+			{
+				"text": "name ",
+				"start": 5.15,
+				"end": 5.43,
 				"index": 135
 			},
 			{
-				"text": "James",
-				"start": 0.44,
-				"end": 0.76,
+				"text": "is ",
+				"start": 5.49,
+				"end": 5.57,
 				"index": 136
+			},
+			{
+				"text": "Lebron ",
+				"start": 5.63,
+				"end": 6.48,
+				"index": 137
+			},
+			{
+				"text": "Raymond ",
+				"start": 6.59,
+				"end": 9.7,
+				"index": 138
+			},
+			{
+				"text": "James",
+				"start": 9.72,
+				"end": 9.82,
+				"index": 139
 			}
 		],
-		"start": 83.07,
-		"end": 83.83
+		"start": 76.7,
+		"end": 86.52
 	}
 ]

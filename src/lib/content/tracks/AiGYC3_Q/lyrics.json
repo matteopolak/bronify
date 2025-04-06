@@ -2,325 +2,397 @@
 	{
 		"words": [
 			{
-				"text": "Oh ",
+				"text": "Oh, ",
 				"start": 0,
-				"end": 0.36,
+				"end": 0.3,
 				"index": 0
 			},
 			{
 				"text": "Mr ",
-				"start": 0.46,
-				"end": 0.68,
+				"start": 0.32,
+				"end": 0.78,
 				"index": 1
 			},
 			{
-				"text": "LeBron, ",
-				"start": 1,
-				"end": 1.56,
+				"text": "Lebron, ",
+				"start": 0.8,
+				"end": 1.8,
 				"index": 2
 			},
 			{
 				"text": "wherever ",
-				"start": 2.06,
-				"end": 2.66,
+				"start": 2.18,
+				"end": 3.59,
 				"index": 3
 			},
 			{
 				"text": "you ",
-				"start": 2.66,
-				"end": 3.3,
+				"start": 3.61,
+				"end": 3.67,
 				"index": 4
 			},
 			{
 				"text": "are",
-				"start": 3.3,
-				"end": 3.74,
+				"start": 3.69,
+				"end": 3.89,
 				"index": 5
 			}
 		],
-		"start": 1.14,
-		"end": 4.88
+		"start": 1.43,
+		"end": 5.32
 	},
 	{
 		"words": [
 			{
 				"text": "You ",
 				"start": 0,
-				"end": 0.64,
+				"end": 0.24,
 				"index": 6
 			},
 			{
 				"text": "play ",
-				"start": 0.64,
-				"end": 1,
+				"start": 0.26,
+				"end": 0.6,
 				"index": 7
 			},
 			{
 				"text": "for ",
-				"start": 1,
-				"end": 1.24,
+				"start": 0.7,
+				"end": 0.84,
 				"index": 8
 			},
 			{
 				"text": "the ",
-				"start": 1.24,
-				"end": 1.52,
+				"start": 0.86,
+				"end": 1.02,
 				"index": 9
 			},
 			{
 				"text": "Lakers ",
-				"start": 1.52,
-				"end": 2.04,
+				"start": 1.18,
+				"end": 1.62,
 				"index": 10
 			},
 			{
 				"text": "and ",
-				"start": 2.04,
-				"end": 2.6,
+				"start": 1.98,
+				"end": 2.08,
 				"index": 11
 			},
 			{
 				"text": "you ",
-				"start": 2.6,
-				"end": 2.78,
+				"start": 2.14,
+				"end": 2.38,
 				"index": 12
 			},
 			{
 				"text": "know ",
-				"start": 2.78,
-				"end": 3.1,
+				"start": 2.4,
+				"end": 2.63,
 				"index": 13
 			},
 			{
 				"text": "how ",
-				"start": 3.1,
-				"end": 3.32,
+				"start": 2.64,
+				"end": 2.87,
 				"index": 14
 			},
 			{
 				"text": "to ",
-				"start": 3.32,
-				"end": 3.5,
+				"start": 2.95,
+				"end": 3.15,
 				"index": 15
 			},
 			{
 				"text": "ball",
-				"start": 3.5,
-				"end": 3.88,
+				"start": 3.17,
+				"end": 3.97,
 				"index": 16
 			}
 		],
-		"start": 5,
-		"end": 8.88
+		"start": 5.68,
+		"end": 9.65
 	},
 	{
 		"words": [
 			{
-				"text": "Oh ",
+				"text": "Oh, ",
 				"start": 0,
-				"end": 0.4,
+				"end": 0.18,
 				"index": 17
 			},
 			{
 				"text": "Mr ",
-				"start": 0.5,
-				"end": 0.78,
+				"start": 0.2,
+				"end": 0.64,
 				"index": 18
 			},
 			{
-				"text": "LeBron ",
-				"start": 0.94,
-				"end": 1.74,
+				"text": "Lebron ",
+				"start": 0.72,
+				"end": 1.96,
 				"index": 19
 			},
 			{
 				"text": "from ",
-				"start": 1.74,
-				"end": 2.52,
+				"start": 2.66,
+				"end": 2.74,
 				"index": 20
 			},
 			{
-				"text": "Ohio, ",
-				"start": 2.52,
-				"end": 3.06,
+				"text": "Ohio",
+				"start": 2.76,
+				"end": 3.91,
 				"index": 21
-			},
-			{
-				"text": "you ",
-				"start": 3.74,
-				"end": 4.62,
-				"index": 22
-			},
-			{
-				"text": "play ",
-				"start": 4.62,
-				"end": 4.96,
-				"index": 23
-			},
-			{
-				"text": "basketball, ",
-				"start": 4.96,
-				"end": 5.5,
-				"index": 24
-			},
-			{
-				"text": "what ",
-				"start": 5.96,
-				"end": 6.8,
-				"index": 25
-			},
-			{
-				"text": "you ",
-				"start": 6.8,
-				"end": 7,
-				"index": 26
-			},
-			{
-				"text": "waiting ",
-				"start": 7,
-				"end": 7.46,
-				"index": 27
-			},
-			{
-				"text": "for?",
-				"start": 7.46,
-				"end": 7.82,
-				"index": 28
 			}
 		],
-		"start": 9.46,
-		"end": 17.28
-	},
-	{
-		"words": [
-			{
-				"text": "Oh ",
-				"start": 0,
-				"end": 0.62,
-				"index": 29
-			},
-			{
-				"text": "Mr ",
-				"start": 0.74,
-				"end": 1.02,
-				"index": 30
-			},
-			{
-				"text": "LeBron ",
-				"start": 1.32,
-				"end": 2.14,
-				"index": 31
-			},
-			{
-				"text": "from ",
-				"start": 2.14,
-				"end": 2.58,
-				"index": 32
-			},
-			{
-				"text": "the ",
-				"start": 2.58,
-				"end": 2.82,
-				"index": 33
-			},
-			{
-				"text": "L",
-				"start": 2.82,
-				"end": 3,
-				"index": 34
-			}
-		],
-		"start": 17.58,
-		"end": 20.58
+		"start": 9.95,
+		"end": 13.86
 	},
 	{
 		"words": [
 			{
 				"text": "You ",
 				"start": 0,
-				"end": 0.8,
-				"index": 35
+				"end": 0.16,
+				"index": 22
 			},
 			{
-				"text": "know ",
-				"start": 2.11,
-				"end": 2.53,
-				"index": 36
+				"text": "play ",
+				"start": 0.4,
+				"end": 0.48,
+				"index": 23
 			},
 			{
-				"text": "the ",
-				"start": 2.53,
-				"end": 2.75,
-				"index": 37
+				"text": "basketball, ",
+				"start": 0.62,
+				"end": 1.86,
+				"index": 24
 			},
 			{
-				"text": "drama ",
-				"start": 2.75,
-				"end": 3.17,
-				"index": 38
-			},
-			{
-				"text": "and ",
-				"start": 3.17,
-				"end": 3.85,
-				"index": 39
+				"text": "what ",
+				"start": 2.1,
+				"end": 2.3,
+				"index": 25
 			},
 			{
 				"text": "you ",
-				"start": 3.85,
-				"end": 4.01,
-				"index": 40
+				"start": 2.36,
+				"end": 2.58,
+				"index": 26
+			},
+			{
+				"text": "waiting ",
+				"start": 2.78,
+				"end": 4.17,
+				"index": 27
+			},
+			{
+				"text": "for?",
+				"start": 4.19,
+				"end": 4.27,
+				"index": 28
+			}
+		],
+		"start": 14.15,
+		"end": 18.42
+	},
+	{
+		"words": [
+			{
+				"text": "Oh, ",
+				"start": 0,
+				"end": 0.06,
+				"index": 29
+			},
+			{
+				"text": "Mr ",
+				"start": 0.12,
+				"end": 0.54,
+				"index": 30
+			},
+			{
+				"text": "Lebron ",
+				"start": 0.62,
+				"end": 1.64,
+				"index": 31
+			},
+			{
+				"text": "from ",
+				"start": 1.9,
+				"end": 1.98,
+				"index": 32
+			},
+			{
+				"text": "the",
+				"start": 2.22,
+				"end": 3.03,
+				"index": 33
+			}
+		],
+		"start": 18.44,
+		"end": 21.47
+	},
+	{
+		"words": [
+			{
+				"text": "NBA",
+				"start": 0,
+				"end": 0.06,
+				"index": 34
+			}
+		],
+		"start": 22.47,
+		"end": 22.53
+	},
+	{
+		"words": [
+			{
+				"text": "You're ",
+				"start": 0,
+				"end": 0.46,
+				"index": 35
+			},
+			{
+				"text": "not ",
+				"start": 0.5,
+				"end": 0.98,
+				"index": 36
+			},
+			{
+				"text": "Obama, ",
+				"start": 1,
+				"end": 1.47,
+				"index": 37
+			},
+			{
+				"text": "and ",
+				"start": 1.93,
+				"end": 2.05,
+				"index": 38
+			},
+			{
+				"text": "you ",
+				"start": 2.07,
+				"end": 2.29,
+				"index": 39
 			},
 			{
 				"text": "don't ",
-				"start": 4.01,
-				"end": 4.51,
-				"index": 41
+				"start": 2.33,
+				"end": 2.85,
+				"index": 40
 			},
 			{
 				"text": "regret ",
-				"start": 4.51,
-				"end": 4.81,
-				"index": 42
+				"start": 3.07,
+				"end": 3.81,
+				"index": 41
 			},
 			{
 				"text": "it",
-				"start": 4.81,
-				"end": 5.49,
-				"index": 43
+				"start": 3.84,
+				"end": 3.88,
+				"index": 42
 			}
 		],
-		"start": 20.58,
-		"end": 26.07
+		"start": 22.51,
+		"end": 26.39
 	},
 	{
 		"words": [
 			{
 				"text": "Oh ",
 				"start": 0,
-				"end": 0.28,
-				"index": 44
+				"end": 0.12,
+				"index": 43
 			},
 			{
 				"text": "Mr",
-				"start": 0.38,
-				"end": 0.68,
-				"index": 45
+				"start": 0.18,
+				"end": 0.64,
+				"index": 44
 			}
 		],
-		"start": 26.37,
-		"end": 27.05
+		"start": 26.76,
+		"end": 27.4
 	},
 	{
 		"words": [
 			{
-				"text": "LeBron",
+				"text": "LeBron, ",
 				"start": 0,
-				"end": 0.76,
+				"end": 0.16,
+				"index": 45
+			},
+			{
+				"text": "with ",
+				"start": 0.18,
+				"end": 0.78,
 				"index": 46
+			},
+			{
+				"text": "50k ",
+				"start": 0.8,
+				"end": 1.04,
+				"index": 47
+			},
+			{
+				"text": "points ",
+				"start": 1.06,
+				"end": 1.32,
+				"index": 48
+			},
+			{
+				"text": "you ",
+				"start": 1.38,
+				"end": 1.61,
+				"index": 49
+			},
+			{
+				"text": "can ",
+				"start": 1.83,
+				"end": 2.03,
+				"index": 50
+			},
+			{
+				"text": "get ",
+				"start": 2.15,
+				"end": 4.24,
+				"index": 51
+			},
+			{
+				"text": "two ",
+				"start": 5.64,
+				"end": 5.96,
+				"index": 52
+			},
+			{
+				"text": "bottles",
+				"start": 5.98,
+				"end": 6.34,
+				"index": 53
 			}
 		],
-		"start": 31.29,
-		"end": 32.05
+		"start": 29.01,
+		"end": 35.35
+	},
+	{
+		"words": [
+			{
+				"text": "You ",
+				"start": 0,
+				"end": 0.06,
+				"index": 54
+			},
+			{
+				"text": "ready?",
+				"start": 0.22,
+				"end": 1.12,
+				"index": 55
+			}
+		],
+		"start": 35.38,
+		"end": 36.5
 	}
 ]

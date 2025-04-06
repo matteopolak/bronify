@@ -167,12 +167,18 @@
 		lastSearch = global.search;
 	});
 
-	beforeNavigate(({ type, from, to }) => {
+	beforeNavigate(({ type, from, to, cancel }) => {
 		if (
 			type === 'leave' ||
 			(from?.url.pathname === to?.url.pathname && from?.url?.search === to?.url?.search)
 		)
 			return;
+
+		if (from?.url.searchParams.has('track') && !to?.url.searchParams.has('track')) {
+			cancel();
+			goto(to!.url.pathname + `?track=${from.url.searchParams.get('track')}`);
+			return;
+		}
 
 		if (comingSoonModal.open) {
 			comingSoonModal.close();
@@ -388,7 +394,7 @@
 	</Sidebar>
 
 	<div class="bg-base-100 border-base-200 hidden md:block">
-		<Controls maxVolume={0.5} />
+		<Controls />
 	</div>
 
 	{#if $page.url.pathname !== '/immersive'}

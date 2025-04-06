@@ -2,25 +2,541 @@
 	{
 		"words": [
 			{
-				"text": "I'm ",
+				"text": "Who ",
 				"start": 0,
-				"end": 0.08,
+				"end": 0.44,
 				"index": 0
 			},
 			{
-				"text": "King ",
-				"start": 0.08,
-				"end": 0.14,
+				"text": "you ",
+				"start": 0.46,
+				"end": 0.52,
 				"index": 1
 			},
 			{
-				"text": "James",
-				"start": 0.14,
-				"end": 0.5,
+				"text": "know ",
+				"start": 0.54,
+				"end": 0.82,
 				"index": 2
+			},
+			{
+				"text": "can ",
+				"start": 0.96,
+				"end": 1.08,
+				"index": 3
+			},
+			{
+				"text": "bring ",
+				"start": 1.1,
+				"end": 1.38,
+				"index": 4
+			},
+			{
+				"text": "that ",
+				"start": 1.48,
+				"end": 1.62,
+				"index": 5
+			},
+			{
+				"text": "fire?",
+				"start": 1.66,
+				"end": 2.22,
+				"index": 6
 			}
 		],
-		"start": 8.27,
-		"end": 8.77
+		"start": 2.09,
+		"end": 4.31
+	},
+	{
+		"words": [
+			{
+				"text": "Ooh, ",
+				"start": 0,
+				"end": 0.48,
+				"index": 7
+			},
+			{
+				"text": "ain't ",
+				"start": 0.5,
+				"end": 0.6,
+				"index": 8
+			},
+			{
+				"text": "no ",
+				"start": 0.64,
+				"end": 0.86,
+				"index": 9
+			},
+			{
+				"text": "one ",
+				"start": 1,
+				"end": 1.12,
+				"index": 10
+			},
+			{
+				"text": "better ",
+				"start": 1.16,
+				"end": 1.7,
+				"index": 11
+			},
+			{
+				"text": "than ",
+				"start": 1.72,
+				"end": 1.9,
+				"index": 12
+			},
+			{
+				"text": "King ",
+				"start": 1.92,
+				"end": 2.18,
+				"index": 13
+			},
+			{
+				"text": "James",
+				"start": 2.24,
+				"end": 3.19,
+				"index": 14
+			}
+		],
+		"start": 6.42,
+		"end": 9.61
+	},
+	{
+		"words": [
+			{
+				"text": "Now ",
+				"start": 0,
+				"end": 0.22,
+				"index": 15
+			},
+			{
+				"text": "the ",
+				"start": 0.26,
+				"end": 0.46,
+				"index": 16
+			},
+			{
+				"text": "Lakers ",
+				"start": 0.48,
+				"end": 1.02,
+				"index": 17
+			},
+			{
+				"text": "goin' ",
+				"start": 1.08,
+				"end": 1.54,
+				"index": 18
+			},
+			{
+				"text": "higher ",
+				"start": 1.6,
+				"end": 2.4,
+				"index": 19
+			},
+			{
+				"text": "than ",
+				"start": 2.44,
+				"end": 2.68,
+				"index": 20
+			},
+			{
+				"text": "they've ",
+				"start": 2.72,
+				"end": 2.96,
+				"index": 21
+			},
+			{
+				"text": "ever, ",
+				"start": 2.98,
+				"end": 3.35,
+				"index": 22
+			},
+			{
+				"text": "ever, ",
+				"start": 3.99,
+				"end": 4.47,
+				"index": 23
+			},
+			{
+				"text": "ever ",
+				"start": 5.15,
+				"end": 5.91,
+				"index": 24
+			},
+			{
+				"text": "been, ",
+				"start": 5.97,
+				"end": 6.47,
+				"index": 25
+			},
+			{
+				"text": "baby",
+				"start": 6.49,
+				"end": 7.13,
+				"index": 26
+			}
+		],
+		"start": 10.84,
+		"end": 17.97
+	},
+	{
+		"words": [
+			{
+				"text": "Cause ",
+				"start": 0,
+				"end": 0.22,
+				"index": 27
+			},
+			{
+				"text": "Bron ",
+				"start": 0.28,
+				"end": 0.64,
+				"index": 28
+			},
+			{
+				"text": "is ",
+				"start": 0.7,
+				"end": 0.8,
+				"index": 29
+			},
+			{
+				"text": "gon' ",
+				"start": 0.84,
+				"end": 1.12,
+				"index": 30
+			},
+			{
+				"text": "get ",
+				"start": 1.16,
+				"end": 1.36,
+				"index": 31
+			},
+			{
+				"text": "Bron-y ",
+				"start": 1.42,
+				"end": 1.96,
+				"index": 32
+			},
+			{
+				"text": "a ",
+				"start": 2.1,
+				"end": 2.2,
+				"index": 33
+			},
+			{
+				"text": "ring, ",
+				"start": 2.26,
+				"end": 3.29,
+				"index": 34
+			},
+			{
+				"text": "yeah",
+				"start": 4.53,
+				"end": 4.61,
+				"index": 35
+			}
+		],
+		"start": 24.17,
+		"end": 28.78
+	},
+	{
+		"words": [
+			{
+				"text": "Forever ",
+				"start": 0,
+				"end": 0.84,
+				"index": 36
+			},
+			{
+				"text": "he ",
+				"start": 0.94,
+				"end": 1.24,
+				"index": 37
+			},
+			{
+				"text": "is ",
+				"start": 1.26,
+				"end": 1.38,
+				"index": 38
+			},
+			{
+				"text": "our ",
+				"start": 1.54,
+				"end": 1.64,
+				"index": 39
+			},
+			{
+				"text": "king, ",
+				"start": 1.68,
+				"end": 3.84,
+				"index": 40
+			},
+			{
+				"text": "yeah",
+				"start": 3.87,
+				"end": 3.95,
+				"index": 41
+			}
+		],
+		"start": 28.96,
+		"end": 32.91
+	},
+	{
+		"words": [
+			{
+				"text": "Lil ",
+				"start": 0,
+				"end": 0.24,
+				"index": 42
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.4,
+				"end": 0.64,
+				"index": 43
+			},
+			{
+				"text": "I'd ",
+				"start": 0.66,
+				"end": 0.78,
+				"index": 44
+			},
+			{
+				"text": "do ",
+				"start": 0.8,
+				"end": 1.42,
+				"index": 45
+			},
+			{
+				"text": "anything ",
+				"start": 1.58,
+				"end": 2.44,
+				"index": 46
+			},
+			{
+				"text": "for ",
+				"start": 2.64,
+				"end": 2.76,
+				"index": 47
+			},
+			{
+				"text": "ya",
+				"start": 3.32,
+				"end": 3.37,
+				"index": 48
+			}
+		],
+		"start": 33.34,
+		"end": 36.71
+	},
+	{
+		"words": [
+			{
+				"text": "I'd ",
+				"start": 0,
+				"end": 0.14,
+				"index": 49
+			},
+			{
+				"text": "root ",
+				"start": 0.18,
+				"end": 0.44,
+				"index": 50
+			},
+			{
+				"text": "for ",
+				"start": 0.58,
+				"end": 0.7,
+				"index": 51
+			},
+			{
+				"text": "whatever ",
+				"start": 1.14,
+				"end": 1.5,
+				"index": 52
+			},
+			{
+				"text": "team ",
+				"start": 2.06,
+				"end": 2.3,
+				"index": 53
+			},
+			{
+				"text": "for ",
+				"start": 2.36,
+				"end": 2.66,
+				"index": 54
+			},
+			{
+				"text": "ya",
+				"start": 2.68,
+				"end": 3.22,
+				"index": 55
+			}
+		],
+		"start": 37.79,
+		"end": 41.01
+	},
+	{
+		"words": [
+			{
+				"text": "Oh, ",
+				"start": 0,
+				"end": 0.4,
+				"index": 56
+			},
+			{
+				"text": "I ",
+				"start": 0.54,
+				"end": 0.62,
+				"index": 57
+			},
+			{
+				"text": "would ",
+				"start": 1.12,
+				"end": 1.22,
+				"index": 58
+			},
+			{
+				"text": "give ",
+				"start": 1.24,
+				"end": 1.84,
+				"index": 59
+			},
+			{
+				"text": "you ",
+				"start": 1.86,
+				"end": 1.92,
+				"index": 60
+			},
+			{
+				"text": "everything",
+				"start": 2.22,
+				"end": 3.97,
+				"index": 61
+			}
+		],
+		"start": 43.28,
+		"end": 47.25
+	},
+	{
+		"words": [
+			{
+				"text": "Every ",
+				"start": 0,
+				"end": 0.1,
+				"index": 62
+			},
+			{
+				"text": "single ",
+				"start": 0.12,
+				"end": 0.5,
+				"index": 63
+			},
+			{
+				"text": "part ",
+				"start": 0.54,
+				"end": 0.88,
+				"index": 64
+			},
+			{
+				"text": "of ",
+				"start": 1.24,
+				"end": 1.34,
+				"index": 65
+			},
+			{
+				"text": "me",
+				"start": 1.36,
+				"end": 2.84,
+				"index": 66
+			}
+		],
+		"start": 48.86,
+		"end": 51.7
+	},
+	{
+		"words": [
+			{
+				"text": "Lil ",
+				"start": 0,
+				"end": 0.06,
+				"index": 67
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.08,
+				"end": 0.4,
+				"index": 68
+			},
+			{
+				"text": "you're ",
+				"start": 0.42,
+				"end": 0.86,
+				"index": 69
+			},
+			{
+				"text": "all ",
+				"start": 0.88,
+				"end": 1.24,
+				"index": 70
+			},
+			{
+				"text": "that ",
+				"start": 1.26,
+				"end": 1.52,
+				"index": 71
+			},
+			{
+				"text": "I ",
+				"start": 1.64,
+				"end": 2.6,
+				"index": 72
+			},
+			{
+				"text": "need",
+				"start": 2.62,
+				"end": 2.78,
+				"index": 73
+			}
+		],
+		"start": 51.73,
+		"end": 54.51
+	},
+	{
+		"words": [
+			{
+				"text": "Bring ",
+				"start": 0,
+				"end": 0.14,
+				"index": 74
+			},
+			{
+				"text": "home ",
+				"start": 0.16,
+				"end": 0.38,
+				"index": 75
+			},
+			{
+				"text": "that ",
+				"start": 0.4,
+				"end": 0.56,
+				"index": 76
+			},
+			{
+				"text": "fifth ",
+				"start": 0.62,
+				"end": 1.24,
+				"index": 77
+			},
+			{
+				"text": "ring",
+				"start": 1.26,
+				"end": 1.8,
+				"index": 78
+			}
+		],
+		"start": 55.25,
+		"end": 57.05
 	}
 ]

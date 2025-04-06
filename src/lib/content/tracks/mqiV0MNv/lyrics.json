@@ -2,361 +2,811 @@
 	{
 		"words": [
 			{
-				"text": "LeBron",
+				"text": "Have ",
 				"start": 0,
-				"end": 0.72,
+				"end": 3.19,
 				"index": 0
 			},
 			{
-				"text": "-bron",
-				"start": 0.72,
-				"end": 1.2,
+				"text": "you ",
+				"start": 4.99,
+				"end": 12.28,
 				"index": 1
 			},
 			{
-				"text": "-bron",
-				"start": 1.2,
-				"end": 1.42,
+				"text": "ever ",
+				"start": 12.38,
+				"end": 12.56,
 				"index": 2
 			},
 			{
-				"text": "-bron",
-				"start": 1.42,
-				"end": 1.9,
+				"text": "seen ",
+				"start": 12.62,
+				"end": 12.8,
 				"index": 3
 			},
 			{
-				"text": "-bron",
-				"start": 1.9,
-				"end": 2.1,
+				"text": "a ",
+				"start": 12.9,
+				"end": 12.96,
 				"index": 4
 			},
 			{
-				"text": "-bron",
-				"start": 2.1,
-				"end": 2.46,
+				"text": "player ",
+				"start": 13,
+				"end": 13.76,
 				"index": 5
 			},
 			{
-				"text": "-bron",
-				"start": 2.46,
-				"end": 2.74,
+				"text": "with ",
+				"start": 13.8,
+				"end": 14.08,
 				"index": 6
 			},
 			{
-				"text": "-bron",
-				"start": 2.74,
-				"end": 2.8,
+				"text": "that ",
+				"start": 14.26,
+				"end": 14.44,
 				"index": 7
 			},
 			{
-				"text": "-bron",
-				"start": 2.8,
-				"end": 3.12,
+				"text": "pure ",
+				"start": 14.48,
+				"end": 14.8,
 				"index": 8
 			},
 			{
-				"text": "-bron",
-				"start": 3.12,
-				"end": 3.66,
+				"text": "control?",
+				"start": 14.82,
+				"end": 16.06,
 				"index": 9
-			},
+			}
+		],
+		"start": 0.03,
+		"end": 16.09
+	},
+	{
+		"words": [
 			{
-				"text": "-bron",
-				"start": 3.66,
-				"end": 4.02,
+				"text": "Every ",
+				"start": 0,
+				"end": 0.8,
 				"index": 10
 			},
 			{
-				"text": "-bron",
-				"start": 4.02,
-				"end": 4.2,
+				"text": "pass, ",
+				"start": 0.84,
+				"end": 1.26,
 				"index": 11
 			},
 			{
-				"text": "-bron",
-				"start": 4.2,
-				"end": 4.6,
+				"text": "every ",
+				"start": 1.32,
+				"end": 1.52,
 				"index": 12
 			},
 			{
-				"text": "-bron",
-				"start": 4.6,
-				"end": 4.86,
+				"text": "shot, ",
+				"start": 1.58,
+				"end": 2,
 				"index": 13
 			},
 			{
-				"text": "-bron",
-				"start": 4.86,
-				"end": 5.22,
+				"text": "he's ",
+				"start": 2.04,
+				"end": 2.34,
 				"index": 14
 			},
 			{
-				"text": "-bron",
-				"start": 5.22,
-				"end": 5.62,
+				"text": "reaching ",
+				"start": 2.42,
+				"end": 3.1,
 				"index": 15
 			},
 			{
-				"text": "-bron",
-				"start": 5.62,
-				"end": 5.64,
+				"text": "every ",
+				"start": 3.34,
+				"end": 3.75,
 				"index": 16
 			},
 			{
-				"text": "-bron",
-				"start": 5.64,
-				"end": 6.02,
+				"text": "goal",
+				"start": 3.84,
+				"end": 5.25,
 				"index": 17
-			},
+			}
+		],
+		"start": 17.3,
+		"end": 22.55
+	},
+	{
+		"words": [
 			{
-				"text": "-bron",
-				"start": 6.02,
-				"end": 6.44,
+				"text": "In ",
+				"start": 0,
+				"end": 0.08,
 				"index": 18
 			},
 			{
-				"text": "-bron",
-				"start": 6.44,
-				"end": 7.52,
+				"text": "every ",
+				"start": 0.16,
+				"end": 0.36,
 				"index": 19
 			},
 			{
-				"text": "-bron",
-				"start": 7.52,
-				"end": 8.26,
+				"text": "game, ",
+				"start": 0.4,
+				"end": 0.62,
 				"index": 20
 			},
 			{
-				"text": "-bron",
-				"start": 8.26,
-				"end": 8.58,
+				"text": "he ",
+				"start": 0.64,
+				"end": 0.74,
 				"index": 21
 			},
 			{
-				"text": "-bron",
-				"start": 8.58,
-				"end": 8.64,
+				"text": "dominates ",
+				"start": 0.78,
+				"end": 1.52,
 				"index": 22
 			},
 			{
-				"text": "-bron-bron",
-				"start": 8.64,
-				"end": 8.94,
+				"text": "the ",
+				"start": 1.54,
+				"end": 1.64,
 				"index": 23
 			},
 			{
-				"text": "-bron",
-				"start": 8.94,
-				"end": 8.96,
+				"text": "floor",
+				"start": 1.68,
+				"end": 2.4,
 				"index": 24
-			},
+			}
+		],
+		"start": 23.59,
+		"end": 25.99
+	},
+	{
+		"words": [
 			{
-				"text": "-bron",
-				"start": 8.96,
-				"end": 8.98,
+				"text": "And ",
+				"start": 0,
+				"end": 0.24,
 				"index": 25
 			},
 			{
-				"text": "-bron",
-				"start": 8.98,
-				"end": 9.06,
+				"text": "you ",
+				"start": 0.26,
+				"end": 0.36,
 				"index": 26
 			},
 			{
-				"text": "-bron",
-				"start": 9.06,
-				"end": 9.08,
+				"text": "can't ",
+				"start": 0.4,
+				"end": 0.6,
 				"index": 27
 			},
 			{
-				"text": "-bron",
-				"start": 9.08,
-				"end": 9.36,
+				"text": "believe ",
+				"start": 0.64,
+				"end": 0.94,
 				"index": 28
 			},
 			{
-				"text": "-bron",
-				"start": 9.36,
-				"end": 9.86,
+				"text": "he's ",
+				"start": 0.98,
+				"end": 1.1,
 				"index": 29
 			},
 			{
-				"text": "-bron",
-				"start": 9.86,
-				"end": 10.44,
+				"text": "scoring ",
+				"start": 1.12,
+				"end": 1.62,
 				"index": 30
 			},
 			{
-				"text": "-bron",
-				"start": 10.44,
-				"end": 10.94,
+				"text": "more",
+				"start": 1.7,
+				"end": 2.42,
 				"index": 31
-			},
+			}
+		],
+		"start": 26.47,
+		"end": 28.89
+	},
+	{
+		"words": [
 			{
-				"text": "-bron",
-				"start": 10.94,
-				"end": 11.1,
+				"text": "But ",
+				"start": 0,
+				"end": 0.18,
 				"index": 32
 			},
 			{
-				"text": "-bron-bron",
-				"start": 11.1,
-				"end": 11.66,
+				"text": "I ",
+				"start": 0.24,
+				"end": 0.36,
 				"index": 33
 			},
 			{
-				"text": "-bron-bron-bron-bron-bron-bron",
-				"start": 11.66,
-				"end": 11.68,
+				"text": "overheard ",
+				"start": 0.48,
+				"end": 0.92,
 				"index": 34
 			},
 			{
-				"text": "-bron-bron-bron-bron-bron-bron-bron-bron-bron-bron-bron-bron-bron-bron-bron-bron-bron-bron-bron-bron",
-				"start": 11.68,
-				"end": 11.78,
+				"text": "the ",
+				"start": 0.94,
+				"end": 1.02,
 				"index": 35
 			},
 			{
-				"text": "-bron-bron-bron-bron-bron-bron",
-				"start": 11.78,
-				"end": 12.08,
+				"text": "crowd ",
+				"start": 1.08,
+				"end": 1.52,
 				"index": 36
 			},
 			{
-				"text": "-bron",
-				"start": 12.08,
-				"end": 12.54,
+				"text": "and ",
+				"start": 1.68,
+				"end": 1.78,
 				"index": 37
 			},
 			{
-				"text": "-bron",
-				"start": 12.54,
-				"end": 13.72,
+				"text": "this ",
+				"start": 1.88,
+				"end": 2.14,
 				"index": 38
 			},
 			{
-				"text": "-bron-bron",
-				"start": 13.72,
-				"end": 14.02,
+				"text": "is ",
+				"start": 2.46,
+				"end": 2.6,
 				"index": 39
 			},
 			{
-				"text": "-bron",
-				"start": 14.02,
-				"end": 14.7,
+				"text": "what ",
+				"start": 2.76,
+				"end": 2.9,
 				"index": 40
 			},
 			{
-				"text": "-bron",
-				"start": 14.7,
-				"end": 18.8,
+				"text": "they ",
+				"start": 2.96,
+				"end": 3.28,
 				"index": 41
 			},
 			{
-				"text": "- ",
-				"start": 18.8,
-				"end": 18.82,
+				"text": "say",
+				"start": 3.34,
+				"end": 3.91,
 				"index": 42
-			},
+			}
+		],
+		"start": 29.48,
+		"end": 33.39
+	},
+	{
+		"words": [
 			{
-				"text": "bron",
-				"start": 57.78,
-				"end": 58.96,
+				"text": "Looking ",
+				"start": 0,
+				"end": 0.16,
 				"index": 43
 			},
 			{
-				"text": "-bron",
-				"start": 58.96,
-				"end": 59.6,
+				"text": "for ",
+				"start": 0.18,
+				"end": 0.54,
 				"index": 44
 			},
 			{
-				"text": "-bron",
-				"start": 59.6,
-				"end": 60.04,
+				"text": "a, ",
+				"start": 0.8,
+				"end": 0.84,
 				"index": 45
 			},
 			{
-				"text": "-bron",
-				"start": 60.04,
-				"end": 60.42,
+				"text": "looking ",
+				"start": 0.86,
+				"end": 1,
 				"index": 46
 			},
 			{
-				"text": "-bron",
-				"start": 60.42,
-				"end": 60.96,
+				"text": "for ",
+				"start": 1.06,
+				"end": 1.16,
 				"index": 47
 			},
 			{
-				"text": "-bron",
-				"start": 60.96,
-				"end": 61.2,
+				"text": "a, ",
+				"start": 1.18,
+				"end": 1.26,
 				"index": 48
 			},
 			{
-				"text": "-bron",
-				"start": 61.2,
-				"end": 63.34,
+				"text": "looking ",
+				"start": 1.28,
+				"end": 1.54,
 				"index": 49
 			},
 			{
-				"text": "-bron",
-				"start": 63.34,
-				"end": 63.98,
+				"text": "for ",
+				"start": 1.6,
+				"end": 1.86,
 				"index": 50
 			},
 			{
-				"text": "-bron-bron-bron-bron",
-				"start": 63.98,
-				"end": 64.16,
+				"text": "a ",
+				"start": 1.9,
+				"end": 1.92,
 				"index": 51
 			},
 			{
-				"text": "-bron",
-				"start": 64.16,
-				"end": 64.52,
+				"text": "legend",
+				"start": 1.98,
+				"end": 2.76,
 				"index": 52
-			},
+			}
+		],
+		"start": 33.69,
+		"end": 36.45
+	},
+	{
+		"words": [
 			{
-				"text": "-bron",
-				"start": 64.52,
-				"end": 65.54,
+				"text": "I ",
+				"start": 0,
+				"end": 0.12,
 				"index": 53
 			},
 			{
-				"text": "-bron",
-				"start": 65.54,
-				"end": 66.22,
+				"text": "see ",
+				"start": 0.2,
+				"end": 0.56,
 				"index": 54
 			},
 			{
-				"text": "-bron",
-				"start": 66.22,
-				"end": 66.48,
+				"text": "that, ",
+				"start": 0.64,
+				"end": 1.04,
 				"index": 55
 			},
 			{
-				"text": "-bron",
-				"start": 66.48,
-				"end": 66.82,
+				"text": "give ",
+				"start": 1.38,
+				"end": 1.54,
 				"index": 56
 			},
 			{
-				"text": "-bron",
-				"start": 66.82,
-				"end": 68.98,
+				"text": "him ",
+				"start": 1.56,
+				"end": 1.68,
 				"index": 57
 			},
 			{
-				"text": "-bron",
-				"start": 68.98,
-				"end": 70.58,
+				"text": "time, ",
+				"start": 1.72,
+				"end": 2.1,
 				"index": 58
+			},
+			{
+				"text": "you ",
+				"start": 2.12,
+				"end": 2.22,
+				"index": 59
+			},
+			{
+				"text": "know ",
+				"start": 2.26,
+				"end": 2.48,
+				"index": 60
+			},
+			{
+				"text": "he's ",
+				"start": 2.68,
+				"end": 2.84,
+				"index": 61
+			},
+			{
+				"text": "always ",
+				"start": 2.92,
+				"end": 3.19,
+				"index": 62
+			},
+			{
+				"text": "been ",
+				"start": 3.23,
+				"end": 3.55,
+				"index": 63
+			},
+			{
+				"text": "that",
+				"start": 3.59,
+				"end": 3.91,
+				"index": 64
 			}
 		],
-		"start": 0,
-		"end": 70.58
+		"start": 36.91,
+		"end": 40.82
+	},
+	{
+		"words": [
+			{
+				"text": "Don't ",
+				"start": 0,
+				"end": 0.18,
+				"index": 65
+			},
+			{
+				"text": "be ",
+				"start": 0.22,
+				"end": 0.3,
+				"index": 66
+			},
+			{
+				"text": "scared ",
+				"start": 0.34,
+				"end": 0.74,
+				"index": 67
+			},
+			{
+				"text": "to ",
+				"start": 0.76,
+				"end": 0.8,
+				"index": 68
+			},
+			{
+				"text": "cheer, ",
+				"start": 0.9,
+				"end": 1.44,
+				"index": 69
+			},
+			{
+				"text": "don't ",
+				"start": 1.5,
+				"end": 1.66,
+				"index": 70
+			},
+			{
+				"text": "be ",
+				"start": 1.68,
+				"end": 1.76,
+				"index": 71
+			},
+			{
+				"text": "scared ",
+				"start": 1.8,
+				"end": 2.16,
+				"index": 72
+			},
+			{
+				"text": "to ",
+				"start": 2.28,
+				"end": 2.32,
+				"index": 73
+			},
+			{
+				"text": "blaze",
+				"start": 2.36,
+				"end": 2.8,
+				"index": 74
+			}
+		],
+		"start": 41.2,
+		"end": 44
+	},
+	{
+		"words": [
+			{
+				"text": "Cause ",
+				"start": 0,
+				"end": 0.18,
+				"index": 75
+			},
+			{
+				"text": "the ",
+				"start": 0.2,
+				"end": 0.3,
+				"index": 76
+			},
+			{
+				"text": "king ",
+				"start": 0.36,
+				"end": 0.7,
+				"index": 77
+			},
+			{
+				"text": "is ",
+				"start": 0.78,
+				"end": 0.88,
+				"index": 78
+			},
+			{
+				"text": "always ",
+				"start": 1.32,
+				"end": 1.82,
+				"index": 79
+			},
+			{
+				"text": "amazed, ",
+				"start": 1.84,
+				"end": 2.6,
+				"index": 80
+			},
+			{
+				"text": "his ",
+				"start": 2.92,
+				"end": 3.22,
+				"index": 81
+			},
+			{
+				"text": "fandom",
+				"start": 3.27,
+				"end": 4.23,
+				"index": 82
+			}
+		],
+		"start": 44.12,
+		"end": 48.35
+	},
+	{
+		"words": [
+			{
+				"text": "We ",
+				"start": 0,
+				"end": 0.46,
+				"index": 83
+			},
+			{
+				"text": "ride ",
+				"start": 0.52,
+				"end": 0.86,
+				"index": 84
+			},
+			{
+				"text": "hard, ",
+				"start": 0.9,
+				"end": 1.32,
+				"index": 85
+			},
+			{
+				"text": "we ",
+				"start": 1.62,
+				"end": 1.8,
+				"index": 86
+			},
+			{
+				"text": "don't ",
+				"start": 1.82,
+				"end": 2,
+				"index": 87
+			},
+			{
+				"text": "play ",
+				"start": 2.02,
+				"end": 2.36,
+				"index": 88
+			},
+			{
+				"text": "about ",
+				"start": 2.44,
+				"end": 2.94,
+				"index": 89
+			},
+			{
+				"text": "our ",
+				"start": 3,
+				"end": 3.06,
+				"index": 90
+			},
+			{
+				"text": "King ",
+				"start": 3.1,
+				"end": 3.44,
+				"index": 91
+			},
+			{
+				"text": "LeBron",
+				"start": 3.46,
+				"end": 4.27,
+				"index": 92
+			}
+		],
+		"start": 48.33,
+		"end": 52.6
+	},
+	{
+		"words": [
+			{
+				"text": "Don't ",
+				"start": 0,
+				"end": 0.18,
+				"index": 93
+			},
+			{
+				"text": "be ",
+				"start": 0.2,
+				"end": 0.28,
+				"index": 94
+			},
+			{
+				"text": "scared ",
+				"start": 0.34,
+				"end": 0.74,
+				"index": 95
+			},
+			{
+				"text": "to ",
+				"start": 0.76,
+				"end": 0.8,
+				"index": 96
+			},
+			{
+				"text": "cheer, ",
+				"start": 0.9,
+				"end": 1.44,
+				"index": 97
+			},
+			{
+				"text": "don't ",
+				"start": 1.48,
+				"end": 1.66,
+				"index": 98
+			},
+			{
+				"text": "be ",
+				"start": 1.68,
+				"end": 1.76,
+				"index": 99
+			},
+			{
+				"text": "scared ",
+				"start": 1.8,
+				"end": 2.16,
+				"index": 100
+			},
+			{
+				"text": "to ",
+				"start": 2.2,
+				"end": 2.32,
+				"index": 101
+			},
+			{
+				"text": "glaze",
+				"start": 2.34,
+				"end": 2.8,
+				"index": 102
+			}
+		],
+		"start": 52.89,
+		"end": 55.69
+	},
+	{
+		"words": [
+			{
+				"text": "Cause ",
+				"start": 0,
+				"end": 0.2,
+				"index": 103
+			},
+			{
+				"text": "the ",
+				"start": 0.24,
+				"end": 0.32,
+				"index": 104
+			},
+			{
+				"text": "King ",
+				"start": 0.38,
+				"end": 0.74,
+				"index": 105
+			},
+			{
+				"text": "will ",
+				"start": 0.76,
+				"end": 0.94,
+				"index": 106
+			},
+			{
+				"text": "always ",
+				"start": 1.4,
+				"end": 1.88,
+				"index": 107
+			},
+			{
+				"text": "amaze ",
+				"start": 2.04,
+				"end": 2.66,
+				"index": 108
+			},
+			{
+				"text": "LeBron, ",
+				"start": 2.98,
+				"end": 3.64,
+				"index": 109
+			},
+			{
+				"text": "LeBron, ",
+				"start": 3.66,
+				"end": 3.92,
+				"index": 110
+			},
+			{
+				"text": "LeBron, ",
+				"start": 4.06,
+				"end": 4.77,
+				"index": 111
+			},
+			{
+				"text": "LeBron ",
+				"start": 4.79,
+				"end": 5.51,
+				"index": 112
+			},
+			{
+				"text": "James ",
+				"start": 5.55,
+				"end": 5.95,
+				"index": 113
+			},
+			{
+				"text": "LeBron, ",
+				"start": 5.99,
+				"end": 6.63,
+				"index": 114
+			},
+			{
+				"text": "LeBron, ",
+				"start": 6.65,
+				"end": 6.93,
+				"index": 115
+			},
+			{
+				"text": "LeBron, ",
+				"start": 6.97,
+				"end": 7.65,
+				"index": 116
+			},
+			{
+				"text": "LeBron ",
+				"start": 7.69,
+				"end": 8.37,
+				"index": 117
+			},
+			{
+				"text": "James ",
+				"start": 8.43,
+				"end": 8.81,
+				"index": 118
+			},
+			{
+				"text": "LeBron, ",
+				"start": 8.87,
+				"end": 9.85,
+				"index": 119
+			},
+			{
+				"text": "LeBron, ",
+				"start": 9.91,
+				"end": 10.61,
+				"index": 120
+			},
+			{
+				"text": "LeBron, ",
+				"start": 10.65,
+				"end": 12.77,
+				"index": 121
+			},
+			{
+				"text": "LeBron",
+				"start": 12.81,
+				"end": 15.74,
+				"index": 122
+			}
+		],
+		"start": 55.8,
+		"end": 71.54
 	}
 ]

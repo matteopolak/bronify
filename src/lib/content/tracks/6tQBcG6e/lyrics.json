@@ -4,323 +4,629 @@
 			{
 				"text": "I've ",
 				"start": 0,
-				"end": 0.64,
+				"end": 6.03,
 				"index": 0
 			},
 			{
 				"text": "been ",
-				"start": 0.64,
-				"end": 0.8,
+				"start": 6.05,
+				"end": 6.21,
 				"index": 1
 			},
 			{
-				"text": "thinking ",
-				"start": 0.8,
-				"end": 1.1,
+				"text": "thinkin' ",
+				"start": 6.25,
+				"end": 6.57,
 				"index": 2
 			},
 			{
 				"text": "bout ",
-				"start": 1.1,
-				"end": 1.36,
+				"start": 6.61,
+				"end": 6.81,
 				"index": 3
 			},
 			{
-				"text": "LeBron",
-				"start": 1.36,
-				"end": 1.84,
+				"text": "LeBron, ",
+				"start": 6.83,
+				"end": 7.37,
 				"index": 4
+			},
+			{
+				"text": "bringin' ",
+				"start": 7.71,
+				"end": 7.99,
+				"index": 5
+			},
+			{
+				"text": "home ",
+				"start": 8.01,
+				"end": 8.15,
+				"index": 6
+			},
+			{
+				"text": "that ",
+				"start": 8.27,
+				"end": 8.43,
+				"index": 7
+			},
+			{
+				"text": "ring",
+				"start": 8.47,
+				"end": 8.75,
+				"index": 8
 			}
 		],
-		"start": 5.34,
-		"end": 7.18
+		"start": 0.03,
+		"end": 8.78
 	},
 	{
 		"words": [
 			{
-				"text": "I've ",
+				"text": "Carryin' ",
 				"start": 0,
-				"end": 0.86,
-				"index": 5
-			},
-			{
-				"text": "been ",
-				"start": 0.86,
-				"end": 1.48,
-				"index": 6
-			},
-			{
-				"text": "thinking ",
-				"start": 1.48,
-				"end": 2.58,
-				"index": 7
-			},
-			{
-				"text": "bout ",
-				"start": 2.58,
-				"end": 2.9,
-				"index": 8
-			},
-			{
-				"text": "LeBron ",
-				"start": 2.9,
-				"end": 3.18,
+				"end": 0.48,
 				"index": 9
 			},
 			{
-				"text": "I've been ",
-				"start": 3.18,
-				"end": 3.88,
+				"text": "the ",
+				"start": 0.5,
+				"end": 0.72,
 				"index": 10
 			},
 			{
-				"text": "thinking bout ",
-				"start": 3.88,
-				"end": 4.08,
+				"text": "Lakers, ",
+				"start": 0.76,
+				"end": 1.48,
 				"index": 11
 			},
 			{
-				"text": "LeBron ",
-				"start": 4.08,
-				"end": 10.72,
+				"text": "throwin' ",
+				"start": 1.54,
+				"end": 1.8,
 				"index": 12
 			},
 			{
-				"text": "I've ",
-				"start": 10.72,
-				"end": 10.86,
+				"text": "out ",
+				"start": 1.88,
+				"end": 2,
 				"index": 13
 			},
 			{
-				"text": "been ",
-				"start": 10.86,
-				"end": 10.94,
+				"text": "the ",
+				"start": 2.04,
+				"end": 2.24,
 				"index": 14
 			},
 			{
-				"text": "thinking bout ",
-				"start": 10.94,
-				"end": 11.14,
+				"text": "threes",
+				"start": 2.28,
+				"end": 2.72,
 				"index": 15
-			},
+			}
+		],
+		"start": 9.21,
+		"end": 11.93
+	},
+	{
+		"words": [
 			{
-				"text": "LeBron ",
-				"start": 11.14,
-				"end": 13.16,
+				"text": "Can't ",
+				"start": 0,
+				"end": 0.24,
 				"index": 16
 			},
 			{
-				"text": "I've ",
-				"start": 13.16,
-				"end": 13.38,
+				"text": "take ",
+				"start": 0.26,
+				"end": 0.44,
 				"index": 17
 			},
 			{
-				"text": "been thinking bout ",
-				"start": 13.38,
-				"end": 13.52,
+				"text": "him ",
+				"start": 0.58,
+				"end": 0.7,
 				"index": 18
 			},
 			{
-				"text": "LeBron ",
-				"start": 13.52,
-				"end": 13.88,
+				"text": "out, ",
+				"start": 0.9,
+				"end": 1.36,
 				"index": 19
 			},
 			{
-				"text": "I've been thinking bout ",
-				"start": 13.88,
-				"end": 14.28,
+				"text": "no ",
+				"start": 1.38,
+				"end": 1.6,
 				"index": 20
 			},
 			{
-				"text": "LeBron ",
-				"start": 14.28,
-				"end": 14.6,
+				"text": "injury ",
+				"start": 1.72,
+				"end": 2.46,
 				"index": 21
 			},
 			{
-				"text": "I've been thinking bout LeBron ",
-				"start": 14.6,
-				"end": 24.6,
+				"text": "40 ",
+				"start": 2.48,
+				"end": 2.98,
 				"index": 22
 			},
 			{
-				"text": "I've been thinking bout LeBron I've been thinking bout LeBron I've been thinking bout LeBron ",
-				"start": 14.64,
-				"end": 24.66,
+				"text": "years ",
+				"start": 3.06,
+				"end": 3.55,
 				"index": 23
 			},
 			{
-				"text": "I've been thinking bout ",
-				"start": 14.7,
-				"end": 14.9,
+				"text": "old, ",
+				"start": 3.69,
+				"end": 3.91,
 				"index": 24
 			},
 			{
-				"text": "LeBron ",
-				"start": 14.9,
-				"end": 15.3,
+				"text": "still ",
+				"start": 3.99,
+				"end": 4.11,
 				"index": 25
 			},
 			{
-				"text": "I've been ",
-				"start": 15.3,
-				"end": 15.68,
+				"text": "the ",
+				"start": 4.13,
+				"end": 4.25,
 				"index": 26
 			},
 			{
-				"text": "thinking bout ",
-				"start": 15.68,
-				"end": 15.84,
+				"text": "best ",
+				"start": 4.29,
+				"end": 4.63,
 				"index": 27
 			},
 			{
-				"text": "LeBron ",
-				"start": 15.84,
-				"end": 18.32,
+				"text": "in ",
+				"start": 4.73,
+				"end": 4.83,
 				"index": 28
 			},
 			{
-				"text": "I've been ",
-				"start": 18.32,
-				"end": 18.4,
+				"text": "the ",
+				"start": 4.85,
+				"end": 5.03,
 				"index": 29
 			},
 			{
-				"text": "thinking ",
-				"start": 18.4,
-				"end": 18.86,
+				"text": "league, ",
+				"start": 5.09,
+				"end": 6.17,
 				"index": 30
 			},
 			{
-				"text": "bout ",
-				"start": 18.86,
-				"end": 19.12,
+				"text": "uh-huh",
+				"start": 6.19,
+				"end": 6.31,
 				"index": 31
-			},
+			}
+		],
+		"start": 12.21,
+		"end": 18.52
+	},
+	{
+		"words": [
 			{
-				"text": "LeBron ",
-				"start": 19.12,
-				"end": 19.62,
+				"text": "Down, ",
+				"start": 0,
+				"end": 0.48,
 				"index": 32
 			},
 			{
-				"text": "I've been thinking ",
-				"start": 19.62,
-				"end": 19.9,
+				"text": "you're ",
+				"start": 1.14,
+				"end": 1.28,
 				"index": 33
 			},
 			{
-				"text": "bout ",
-				"start": 19.9,
-				"end": 20.04,
+				"text": "at ",
+				"start": 1.34,
+				"end": 1.44,
 				"index": 34
 			},
 			{
-				"text": "LeBron ",
-				"start": 20.04,
-				"end": 20.32,
+				"text": "four ",
+				"start": 1.48,
+				"end": 1.74,
 				"index": 35
 			},
 			{
-				"text": "I've ",
-				"start": 20.32,
-				"end": 20.88,
+				"text": "rings, ",
+				"start": 1.84,
+				"end": 2.24,
 				"index": 36
 			},
 			{
-				"text": "been thinking bout ",
-				"start": 20.88,
-				"end": 21.24,
+				"text": "let's ",
+				"start": 2.26,
+				"end": 2.36,
 				"index": 37
 			},
 			{
-				"text": "LeBron I've ",
-				"start": 21.24,
-				"end": 50.98,
+				"text": "go ",
+				"start": 2.38,
+				"end": 2.58,
 				"index": 38
 			},
 			{
-				"text": "been ",
-				"start": 21.4,
-				"end": 21.78,
+				"text": "make ",
+				"start": 2.6,
+				"end": 2.74,
 				"index": 39
 			},
 			{
-				"text": "thinking ",
-				"start": 21.78,
-				"end": 21.8,
+				"text": "it ",
+				"start": 2.8,
+				"end": 2.86,
 				"index": 40
 			},
 			{
-				"text": "bout ",
-				"start": 21.8,
-				"end": 22.28,
+				"text": "five",
+				"start": 2.92,
+				"end": 3.32,
 				"index": 41
-			},
+			}
+		],
+		"start": 18.62,
+		"end": 21.94
+	},
+	{
+		"words": [
 			{
-				"text": "LeBron ",
-				"start": 22.28,
-				"end": 22.98,
+				"text": "Find ",
+				"start": 0,
+				"end": 0.2,
 				"index": 42
 			},
 			{
-				"text": "I've been ",
-				"start": 22.98,
-				"end": 23.04,
+				"text": "the ",
+				"start": 0.22,
+				"end": 0.36,
 				"index": 43
 			},
 			{
-				"text": "thinking ",
-				"start": 23.04,
-				"end": 23.24,
+				"text": "best ",
+				"start": 0.38,
+				"end": 0.68,
 				"index": 44
 			},
 			{
-				"text": "bout ",
-				"start": 23.24,
-				"end": 23.38,
+				"text": "to ",
+				"start": 0.7,
+				"end": 0.74,
 				"index": 45
 			},
 			{
-				"text": "LeBron ",
-				"start": 23.38,
-				"end": 26.72,
+				"text": "do ",
+				"start": 0.78,
+				"end": 1.02,
 				"index": 46
 			},
 			{
-				"text": "I've ",
-				"start": 26.72,
-				"end": 27.04,
+				"text": "it, ",
+				"start": 1.04,
+				"end": 1.2,
 				"index": 47
 			},
 			{
-				"text": "been ",
-				"start": 27.04,
-				"end": 27.16,
+				"text": "ain't ",
+				"start": 1.22,
+				"end": 1.32,
 				"index": 48
 			},
 			{
-				"text": "thinking ",
-				"start": 27.16,
-				"end": 27.18,
+				"text": "nobody ",
+				"start": 1.34,
+				"end": 1.8,
 				"index": 49
 			},
 			{
-				"text": "bout ",
-				"start": 27.18,
-				"end": 27.44,
+				"text": "puttin' ",
+				"start": 1.84,
+				"end": 2.18,
 				"index": 50
 			},
 			{
-				"text": "LeBron",
-				"start": 27.44,
-				"end": 30.86,
+				"text": "fights ",
+				"start": 2.22,
+				"end": 2.86,
 				"index": 51
+			},
+			{
+				"text": "up ",
+				"start": 3.16,
+				"end": 3.21,
+				"index": 52
+			},
+			{
+				"text": "Michael ",
+				"start": 3.18,
+				"end": 3.59,
+				"index": 53
+			},
+			{
+				"text": "Jordan, ",
+				"start": 3.63,
+				"end": 3.91,
+				"index": 54
+			},
+			{
+				"text": "she ",
+				"start": 4.11,
+				"end": 4.29,
+				"index": 55
+			},
+			{
+				"text": "better ",
+				"start": 4.33,
+				"end": 4.59,
+				"index": 56
+			},
+			{
+				"text": "call ",
+				"start": 4.65,
+				"end": 4.89,
+				"index": 57
+			},
+			{
+				"text": "for ",
+				"start": 4.93,
+				"end": 4.99,
+				"index": 58
+			},
+			{
+				"text": "backup",
+				"start": 5.05,
+				"end": 5.65,
+				"index": 59
 			}
 		],
-		"start": 9.96,
-		"end": 60.94
+		"start": 22.21,
+		"end": 27.86
+	},
+	{
+		"words": [
+			{
+				"text": "Damn, ",
+				"start": 0,
+				"end": 0.4,
+				"index": 60
+			},
+			{
+				"text": "he ",
+				"start": 0.74,
+				"end": 0.9,
+				"index": 61
+			},
+			{
+				"text": "needs ",
+				"start": 0.92,
+				"end": 1.06,
+				"index": 62
+			},
+			{
+				"text": "Scottie ",
+				"start": 1.08,
+				"end": 1.4,
+				"index": 63
+			},
+			{
+				"text": "Pippen",
+				"start": 1.44,
+				"end": 1.94,
+				"index": 64
+			}
+		],
+		"start": 28,
+		"end": 29.94
+	},
+	{
+		"words": [
+			{
+				"text": "But ",
+				"start": 0,
+				"end": 0.16,
+				"index": 65
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.2,
+				"end": 0.58,
+				"index": 66
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.88,
+				"end": 1.24,
+				"index": 67
+			},
+			{
+				"text": "he ",
+				"start": 1.62,
+				"end": 1.76,
+				"index": 68
+			},
+			{
+				"text": "don't ",
+				"start": 1.78,
+				"end": 1.98,
+				"index": 69
+			},
+			{
+				"text": "need ",
+				"start": 2.04,
+				"end": 2.2,
+				"index": 70
+			},
+			{
+				"text": "one, ",
+				"start": 2.22,
+				"end": 2.34,
+				"index": 71
+			},
+			{
+				"text": "no ",
+				"start": 2.39,
+				"end": 2.58,
+				"index": 72
+			},
+			{
+				"text": "one",
+				"start": 2.71,
+				"end": 3.05,
+				"index": 73
+			}
+		],
+		"start": 30,
+		"end": 33.05
+	},
+	{
+		"words": [
+			{
+				"text": "Dunkin' ",
+				"start": 0,
+				"end": 0.42,
+				"index": 74
+			},
+			{
+				"text": "on ",
+				"start": 0.54,
+				"end": 0.6,
+				"index": 75
+			},
+			{
+				"text": "him, ",
+				"start": 0.62,
+				"end": 0.7,
+				"index": 76
+			},
+			{
+				"text": "dunkin' ",
+				"start": 0.72,
+				"end": 1,
+				"index": 77
+			},
+			{
+				"text": "on ",
+				"start": 1.06,
+				"end": 1.2,
+				"index": 78
+			},
+			{
+				"text": "him, ",
+				"start": 1.22,
+				"end": 1.42,
+				"index": 79
+			},
+			{
+				"text": "get ",
+				"start": 1.46,
+				"end": 1.58,
+				"index": 80
+			},
+			{
+				"text": "the ",
+				"start": 1.6,
+				"end": 1.68,
+				"index": 81
+			},
+			{
+				"text": "foul, ",
+				"start": 1.72,
+				"end": 2.36,
+				"index": 82
+			},
+			{
+				"text": "hit ",
+				"start": 2.38,
+				"end": 2.44,
+				"index": 83
+			},
+			{
+				"text": "one",
+				"start": 2.59,
+				"end": 2.85,
+				"index": 84
+			}
+		],
+		"start": 33.09,
+		"end": 35.94
+	},
+	{
+		"words": [
+			{
+				"text": "Damn, ",
+				"start": 0,
+				"end": 0.52,
+				"index": 85
+			},
+			{
+				"text": "LeBron, ",
+				"start": 0.54,
+				"end": 1.04,
+				"index": 86
+			},
+			{
+				"text": "he's ",
+				"start": 1.06,
+				"end": 1.24,
+				"index": 87
+			},
+			{
+				"text": "a ",
+				"start": 1.32,
+				"end": 1.36,
+				"index": 88
+			},
+			{
+				"text": "father, ",
+				"start": 1.42,
+				"end": 1.78,
+				"index": 89
+			},
+			{
+				"text": "he's ",
+				"start": 1.8,
+				"end": 2.01,
+				"index": 90
+			},
+			{
+				"text": "a ",
+				"start": 2.06,
+				"end": 2.11,
+				"index": 91
+			},
+			{
+				"text": "GOAT, ",
+				"start": 2.16,
+				"end": 2.59,
+				"index": 92
+			},
+			{
+				"text": "and ",
+				"start": 2.61,
+				"end": 2.73,
+				"index": 93
+			},
+			{
+				"text": "he's ",
+				"start": 2.75,
+				"end": 2.89,
+				"index": 94
+			},
+			{
+				"text": "handsome",
+				"start": 2.91,
+				"end": 4.07,
+				"index": 95
+			}
+		],
+		"start": 35.98,
+		"end": 40.05
 	}
 ]

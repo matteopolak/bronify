@@ -61,7 +61,9 @@ const wordReplacements = {
 	bonnie: 'Bronny',
 	glace: 'glaze',
 	bronya: 'Bron ya',
-	raymo: 'Raymond'
+	raymo: 'Raymond',
+	mj: 'MJ',
+	james: 'James'
 };
 
 const wordReplacementsRegex = {};
@@ -164,7 +166,7 @@ for (const track of tracks) {
 		const canStart = canStartLine(word.text);
 		const mustStart = mustStartLine(word.text);
 
-		if (canStart && noSpace && words.length > 0) {
+		if (noSpace && words.length > 0) {
 			// add space to previouis word
 			const lastWord = words[words.length - 1];
 			lastWord.text += ' ';

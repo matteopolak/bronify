@@ -4,953 +4,809 @@
 			{
 				"text": "If ",
 				"start": 0,
-				"end": 0.46,
+				"end": 0.26,
 				"index": 0
 			},
 			{
 				"text": "this ",
 				"start": 0.46,
-				"end": 0.88,
+				"end": 0.66,
 				"index": 1
 			},
 			{
 				"text": "league ",
-				"start": 0.88,
-				"end": 1.4,
+				"start": 0.86,
+				"end": 1.54,
 				"index": 2
 			},
 			{
 				"text": "was ",
-				"start": 1.4,
-				"end": 1.98,
+				"start": 1.58,
+				"end": 1.72,
 				"index": 3
 			},
 			{
-				"text": "bronze",
-				"start": 1.98,
-				"end": 2.44,
+				"text": "Bron's",
+				"start": 1.8,
+				"end": 2.79,
 				"index": 4
 			}
 		],
-		"start": 9.58,
-		"end": 12.02
+		"start": 9.92,
+		"end": 12.71
 	},
 	{
 		"words": [
 			{
-				"text": "Hey ",
+				"text": "Eddie ",
 				"start": 0,
-				"end": 0.6,
+				"end": 0.2,
 				"index": 5
 			},
 			{
 				"text": "Roman ",
-				"start": 0.74,
-				"end": 1.16,
+				"start": 0.3,
+				"end": 0.72,
 				"index": 6
 			},
 			{
 				"text": "numeral ",
-				"start": 1.16,
-				"end": 1.68,
+				"start": 0.78,
+				"end": 1.14,
 				"index": 7
 			},
 			{
-				"text": "twenty",
-				"start": 1.68,
-				"end": 2.04,
+				"text": "23 ",
+				"start": 1.16,
+				"end": 1.54,
 				"index": 8
 			},
 			{
-				"text": "-three, ",
-				"start": 2.04,
-				"end": 2.46,
+				"text": "and ",
+				"start": 1.94,
+				"end": 2.02,
 				"index": 9
 			},
 			{
 				"text": "my ",
-				"start": 2.5,
-				"end": 2.72,
+				"start": 2.06,
+				"end": 2.2,
 				"index": 10
 			},
 			{
 				"text": "king ",
-				"start": 2.72,
-				"end": 2.96,
+				"start": 2.24,
+				"end": 2.48,
 				"index": 11
 			},
 			{
 				"text": "is ",
-				"start": 2.96,
-				"end": 3.24,
+				"start": 2.56,
+				"end": 2.66,
 				"index": 12
 			},
 			{
-				"text": "LeBron",
-				"start": 3.24,
-				"end": 3.72,
+				"text": "Lebron",
+				"start": 2.76,
+				"end": 3.27,
 				"index": 13
 			}
 		],
-		"start": 12.02,
-		"end": 15.74
+		"start": 12.73,
+		"end": 16
 	},
 	{
 		"words": [
 			{
 				"text": "If ",
 				"start": 0,
-				"end": 0.36,
+				"end": 0.08,
 				"index": 14
 			},
 			{
 				"text": "the ",
-				"start": 0.36,
-				"end": 0.56,
+				"start": 0.12,
+				"end": 0.26,
 				"index": 15
 			},
 			{
 				"text": "ball ",
-				"start": 0.56,
-				"end": 0.86,
+				"start": 0.32,
+				"end": 0.62,
 				"index": 16
 			},
 			{
 				"text": "was ",
-				"start": 0.86,
-				"end": 1.08,
+				"start": 0.64,
+				"end": 0.82,
 				"index": 17
 			},
 			{
-				"text": "his, ",
-				"start": 1.08,
-				"end": 1.28,
+				"text": "his ",
+				"start": 0.84,
+				"end": 0.96,
 				"index": 18
 			},
 			{
 				"text": "he'd ",
-				"start": 1.34,
-				"end": 1.48,
+				"start": 1,
+				"end": 1.14,
 				"index": 19
 			},
 			{
 				"text": "take ",
-				"start": 1.48,
-				"end": 1.68,
+				"start": 1.18,
+				"end": 1.38,
 				"index": 20
 			},
 			{
 				"text": "the ",
-				"start": 1.68,
-				"end": 1.84,
+				"start": 1.4,
+				"end": 1.52,
 				"index": 21
 			},
 			{
 				"text": "score ",
-				"start": 1.84,
-				"end": 2.12,
+				"start": 1.54,
+				"end": 1.86,
 				"index": 22
 			},
 			{
 				"text": "and ",
-				"start": 2.12,
-				"end": 2.34,
+				"start": 1.92,
+				"end": 1.98,
 				"index": 23
 			},
 			{
 				"text": "make ",
-				"start": 2.34,
-				"end": 2.56,
+				"start": 2.02,
+				"end": 2.26,
 				"index": 24
 			},
 			{
 				"text": "him ",
-				"start": 2.56,
-				"end": 2.78,
+				"start": 2.32,
+				"end": 2.42,
 				"index": 25
 			},
 			{
-				"text": "all ",
-				"start": 2.78,
-				"end": 2.94,
+				"text": "off ",
+				"start": 2.54,
+				"end": 2.7,
 				"index": 26
 			},
 			{
 				"text": "the ",
-				"start": 2.94,
-				"end": 3.1,
+				"start": 2.72,
+				"end": 2.89,
 				"index": 27
 			},
 			{
-				"text": "fly",
-				"start": 3.1,
-				"end": 3.4,
+				"text": "fly ",
+				"start": 2.91,
+				"end": 3.11,
 				"index": 28
-			}
-		],
-		"start": 15.74,
-		"end": 19.14
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Forty ",
-				"start": 0,
-				"end": 0.64,
+				"text": "40,000 ",
+				"start": 3.13,
+				"end": 4.17,
 				"index": 29
 			},
 			{
-				"text": "thousand ",
-				"start": 0.64,
-				"end": 0.92,
+				"text": "points ",
+				"start": 4.23,
+				"end": 4.47,
 				"index": 30
 			},
 			{
-				"text": "points ",
-				"start": 0.92,
-				"end": 1.34,
+				"text": "and ",
+				"start": 4.55,
+				"end": 4.65,
 				"index": 31
 			},
 			{
-				"text": "and ",
-				"start": 1.34,
-				"end": 1.54,
+				"text": "he's ",
+				"start": 4.69,
+				"end": 4.85,
 				"index": 32
 			},
 			{
-				"text": "he's ",
-				"start": 1.54,
-				"end": 1.78,
+				"text": "still ",
+				"start": 4.87,
+				"end": 5.07,
 				"index": 33
 			},
 			{
-				"text": "still ",
-				"start": 1.78,
-				"end": 1.94,
+				"text": "going ",
+				"start": 5.11,
+				"end": 5.49,
 				"index": 34
 			},
 			{
-				"text": "going ",
-				"start": 1.94,
-				"end": 2.3,
+				"text": "greatest ",
+				"start": 5.51,
+				"end": 5.93,
 				"index": 35
 			},
 			{
-				"text": "greatest ",
-				"start": 2.3,
-				"end": 2.74,
+				"text": "of ",
+				"start": 6.07,
+				"end": 6.23,
 				"index": 36
 			},
 			{
-				"text": "of ",
-				"start": 2.74,
-				"end": 3.06,
+				"text": "all ",
+				"start": 6.25,
+				"end": 6.37,
 				"index": 37
 			},
 			{
-				"text": "all ",
-				"start": 3.06,
-				"end": 3.26,
-				"index": 38
-			},
-			{
 				"text": "time",
-				"start": 3.26,
-				"end": 3.56,
-				"index": 39
+				"start": 6.39,
+				"end": 6.63,
+				"index": 38
 			}
 		],
-		"start": 19.14,
-		"end": 22.7
+		"start": 16.19,
+		"end": 22.82
 	},
 	{
 		"words": [
 			{
 				"text": "There's ",
 				"start": 0,
-				"end": 0.46,
-				"index": 40
+				"end": 0.24,
+				"index": 39
 			},
 			{
 				"text": "a ",
-				"start": 0.46,
-				"end": 0.48,
-				"index": 41
+				"start": 0.34,
+				"end": 0.38,
+				"index": 40
 			},
 			{
 				"text": "reason ",
-				"start": 0.48,
-				"end": 0.94,
-				"index": 42
+				"start": 0.44,
+				"end": 0.8,
+				"index": 41
 			},
 			{
 				"text": "my ",
-				"start": 0.94,
-				"end": 1.18,
-				"index": 43
+				"start": 0.84,
+				"end": 1.06,
+				"index": 42
 			},
 			{
 				"text": "guy ",
-				"start": 1.18,
-				"end": 1.42,
-				"index": 44
+				"start": 1.08,
+				"end": 1.24,
+				"index": 43
 			},
 			{
 				"text": "Shannon",
-				"start": 1.42,
-				"end": 1.76,
-				"index": 45
+				"start": 1.28,
+				"end": 1.68,
+				"index": 44
 			}
 		],
-		"start": 22.7,
-		"end": 24.46
+		"start": 23.05,
+		"end": 24.73
 	},
 	{
 		"words": [
 			{
 				"text": "Sharp ",
 				"start": 0,
-				"end": 0.32,
-				"index": 46
+				"end": 0.26,
+				"index": 45
 			},
 			{
 				"text": "has ",
 				"start": 0.32,
-				"end": 0.58,
-				"index": 47
+				"end": 0.44,
+				"index": 46
 			},
 			{
 				"text": "Lakers ",
-				"start": 0.58,
-				"end": 0.98,
-				"index": 48
+				"start": 0.5,
+				"end": 0.88,
+				"index": 47
 			},
 			{
 				"text": "winning ",
-				"start": 0.98,
-				"end": 1.26,
+				"start": 0.92,
+				"end": 1.28,
+				"index": 48
+			},
+			{
+				"text": "five ",
+				"start": 1.32,
+				"end": 2.39,
 				"index": 49
 			},
 			{
-				"text": "five",
-				"start": 1.26,
-				"end": 1.66,
+				"text": "5-5, ",
+				"start": 2.36,
+				"end": 2.91,
 				"index": 50
-			}
-		],
-		"start": 24.46,
-		"end": 26.12
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Five, ",
-				"start": 0,
-				"end": 1.38,
+				"text": "5-5-5, ",
+				"start": 2.93,
+				"end": 3.37,
 				"index": 51
 			},
 			{
-				"text": "five",
-				"start": 1.4,
-				"end": 1.76,
+				"text": "5-5-5",
+				"start": 3.39,
+				"end": 4.53,
 				"index": 52
 			}
 		],
-		"start": 26.12,
-		"end": 27.88
+		"start": 24.75,
+		"end": 29.28
 	},
 	{
 		"words": [
 			{
-				"text": "Five, ",
+				"text": "Hey",
 				"start": 0,
-				"end": 1.24,
+				"end": 2.4,
 				"index": 53
-			},
+			}
+		],
+		"start": 29.44,
+		"end": 31.84
+	},
+	{
+		"words": [
 			{
-				"text": "five, ",
-				"start": 1.32,
-				"end": 1.54,
+				"text": "Roman ",
+				"start": 0,
+				"end": 0.38,
 				"index": 54
 			},
 			{
-				"text": "five",
-				"start": 1.54,
-				"end": 1.8,
+				"text": "numeral ",
+				"start": 0.42,
+				"end": 0.8,
 				"index": 55
-			}
-		],
-		"start": 27.88,
-		"end": 29.68
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "Five, ",
-				"start": 0,
-				"end": 1.32,
+				"text": "23, ",
+				"start": 0.82,
+				"end": 1.24,
 				"index": 56
 			},
 			{
-				"text": "five, ",
-				"start": 1.32,
-				"end": 1.82,
+				"text": "my ",
+				"start": 1.72,
+				"end": 1.88,
 				"index": 57
 			},
 			{
-				"text": "five",
-				"start": 1.82,
-				"end": 2.82,
-				"index": 58
-			}
-		],
-		"start": 29.68,
-		"end": 32.5
-	},
-	{
-		"words": [
-			{
-				"text": "Hey ",
-				"start": 0,
-				"end": 0.8,
-				"index": 59
-			},
-			{
-				"text": "Roman ",
-				"start": 1.14,
-				"end": 1.54,
-				"index": 60
-			},
-			{
-				"text": "numeral ",
-				"start": 1.54,
-				"end": 2.06,
-				"index": 61
-			},
-			{
-				"text": "twenty",
-				"start": 2.06,
-				"end": 2.34,
-				"index": 62
-			},
-			{
-				"text": "-three, ",
-				"start": 2.34,
-				"end": 2.82,
-				"index": 63
-			},
-			{
-				"text": "my ",
-				"start": 2.86,
-				"end": 3.1,
-				"index": 64
-			},
-			{
 				"text": "king ",
-				"start": 3.1,
-				"end": 3.34,
-				"index": 65
+				"start": 1.9,
+				"end": 2.14,
+				"index": 58
 			},
 			{
 				"text": "is ",
-				"start": 3.34,
-				"end": 3.62,
-				"index": 66
+				"start": 2.22,
+				"end": 2.32,
+				"index": 59
 			},
 			{
 				"text": "LeBron",
-				"start": 3.62,
-				"end": 4.08,
-				"index": 67
+				"start": 2.36,
+				"end": 2.92,
+				"index": 60
 			}
 		],
-		"start": 32.5,
-		"end": 36.58
+		"start": 33.92,
+		"end": 36.84
 	},
 	{
 		"words": [
 			{
 				"text": "If ",
 				"start": 0,
-				"end": 0.38,
-				"index": 68
+				"end": 0.1,
+				"index": 61
 			},
 			{
 				"text": "the ",
-				"start": 0.38,
-				"end": 0.56,
-				"index": 69
+				"start": 0.14,
+				"end": 0.32,
+				"index": 62
 			},
 			{
 				"text": "ball ",
-				"start": 0.56,
-				"end": 0.86,
-				"index": 70
+				"start": 0.34,
+				"end": 0.56,
+				"index": 63
 			},
 			{
 				"text": "was ",
-				"start": 0.86,
-				"end": 1.08,
-				"index": 71
+				"start": 0.58,
+				"end": 0.76,
+				"index": 64
 			},
 			{
 				"text": "his, ",
-				"start": 1.08,
-				"end": 1.3,
-				"index": 72
+				"start": 0.86,
+				"end": 1.02,
+				"index": 65
 			},
 			{
 				"text": "he'd ",
-				"start": 1.34,
-				"end": 1.52,
-				"index": 73
+				"start": 1.04,
+				"end": 1.14,
+				"index": 66
 			},
 			{
 				"text": "take ",
-				"start": 1.52,
-				"end": 1.7,
-				"index": 74
+				"start": 1.18,
+				"end": 1.36,
+				"index": 67
 			},
 			{
 				"text": "the ",
-				"start": 1.7,
-				"end": 1.84,
-				"index": 75
+				"start": 1.4,
+				"end": 1.5,
+				"index": 68
 			},
 			{
 				"text": "score ",
-				"start": 1.84,
-				"end": 2.12,
-				"index": 76
+				"start": 1.54,
+				"end": 1.88,
+				"index": 69
 			},
 			{
 				"text": "and ",
-				"start": 2.12,
-				"end": 2.34,
-				"index": 77
+				"start": 1.9,
+				"end": 1.98,
+				"index": 70
 			},
 			{
 				"text": "make ",
+				"start": 2.02,
+				"end": 2.32,
+				"index": 71
+			},
+			{
+				"text": "it ",
 				"start": 2.34,
-				"end": 2.56,
-				"index": 78
+				"end": 2.4,
+				"index": 72
 			},
 			{
-				"text": "him ",
-				"start": 2.56,
-				"end": 2.76,
-				"index": 79
+				"text": "multiply ",
+				"start": 2.46,
+				"end": 3.14,
+				"index": 73
 			},
 			{
-				"text": "all the fly",
-				"start": 2.76,
-				"end": 2.98,
-				"index": 80
-			}
-		],
-		"start": 36.58,
-		"end": 39.56
-	},
-	{
-		"words": [
-			{
-				"text": "Forty ",
-				"start": 0,
-				"end": 0.52,
-				"index": 81
-			},
-			{
-				"text": "thousand ",
-				"start": 0.52,
-				"end": 0.76,
-				"index": 82
+				"text": "40,000 ",
+				"start": 3.16,
+				"end": 4.18,
+				"index": 74
 			},
 			{
 				"text": "points ",
-				"start": 0.76,
-				"end": 1.16,
-				"index": 83
+				"start": 4.22,
+				"end": 4.48,
+				"index": 75
 			},
 			{
 				"text": "and ",
-				"start": 1.16,
-				"end": 1.36,
-				"index": 84
+				"start": 4.56,
+				"end": 4.64,
+				"index": 76
 			},
 			{
 				"text": "he's ",
-				"start": 1.36,
-				"end": 1.6,
-				"index": 85
+				"start": 4.7,
+				"end": 4.86,
+				"index": 77
 			},
 			{
 				"text": "still ",
-				"start": 1.6,
-				"end": 1.76,
-				"index": 86
+				"start": 4.88,
+				"end": 5.09,
+				"index": 78
 			},
 			{
-				"text": "going ",
-				"start": 1.76,
-				"end": 2.08,
-				"index": 87
+				"text": "going, ",
+				"start": 5.11,
+				"end": 5.51,
+				"index": 79
 			},
 			{
 				"text": "greatest ",
-				"start": 2.08,
-				"end": 2.6,
-				"index": 88
+				"start": 5.53,
+				"end": 5.93,
+				"index": 80
 			},
 			{
 				"text": "of ",
-				"start": 2.6,
-				"end": 2.9,
-				"index": 89
+				"start": 6.07,
+				"end": 6.17,
+				"index": 81
 			},
 			{
 				"text": "all ",
-				"start": 2.9,
-				"end": 3.08,
-				"index": 90
+				"start": 6.25,
+				"end": 6.37,
+				"index": 82
 			},
 			{
 				"text": "time",
-				"start": 3.08,
-				"end": 3.34,
-				"index": 91
+				"start": 6.39,
+				"end": 6.65,
+				"index": 83
 			}
 		],
-		"start": 40.18,
-		"end": 43.52
+		"start": 37.04,
+		"end": 43.69
 	},
 	{
 		"words": [
 			{
-				"text": "There's a ",
+				"text": "There's ",
 				"start": 0,
-				"end": 0.6,
-				"index": 92
+				"end": 0.22,
+				"index": 84
+			},
+			{
+				"text": "a ",
+				"start": 0.32,
+				"end": 0.38,
+				"index": 85
 			},
 			{
 				"text": "reason ",
-				"start": 0.6,
-				"end": 0.96,
-				"index": 93
+				"start": 0.44,
+				"end": 0.78,
+				"index": 86
 			},
 			{
 				"text": "my ",
-				"start": 0.96,
-				"end": 1.24,
-				"index": 94
+				"start": 0.84,
+				"end": 1.06,
+				"index": 87
 			},
 			{
 				"text": "guy ",
-				"start": 1.24,
-				"end": 1.44,
-				"index": 95
+				"start": 1.14,
+				"end": 1.24,
+				"index": 88
 			},
 			{
 				"text": "Shannon",
-				"start": 1.44,
-				"end": 1.8,
-				"index": 96
+				"start": 1.26,
+				"end": 1.66,
+				"index": 89
 			}
 		],
-		"start": 43.52,
-		"end": 45.32
+		"start": 43.91,
+		"end": 45.57
 	},
 	{
 		"words": [
 			{
 				"text": "Sharp ",
 				"start": 0,
-				"end": 0.36,
-				"index": 97
+				"end": 0.24,
+				"index": 90
 			},
 			{
 				"text": "has ",
-				"start": 0.36,
-				"end": 0.58,
-				"index": 98
+				"start": 0.34,
+				"end": 0.48,
+				"index": 91
 			},
 			{
 				"text": "Lakers ",
-				"start": 0.58,
-				"end": 1.02,
-				"index": 99
+				"start": 0.52,
+				"end": 0.9,
+				"index": 92
 			},
 			{
 				"text": "winning ",
-				"start": 1.02,
-				"end": 1.28,
-				"index": 100
+				"start": 0.94,
+				"end": 1.26,
+				"index": 93
 			},
 			{
 				"text": "five",
-				"start": 1.28,
-				"end": 1.74,
-				"index": 101
+				"start": 1.32,
+				"end": 1.66,
+				"index": 94
 			}
 		],
-		"start": 45.32,
-		"end": 47.06
+		"start": 45.59,
+		"end": 47.25
 	},
 	{
 		"words": [
 			{
-				"text": "If ",
+				"text": "It's ",
 				"start": 0,
-				"end": 0.28,
-				"index": 102
+				"end": 0.12,
+				"index": 95
+			},
+			{
+				"text": "LeBron, ",
+				"start": 0.16,
+				"end": 0.7,
+				"index": 96
+			},
+			{
+				"text": "he's ",
+				"start": 0.82,
+				"end": 1,
+				"index": 97
 			},
 			{
 				"text": "the ",
-				"start": 0.28,
-				"end": 0.48,
+				"start": 1.04,
+				"end": 1.14,
+				"index": 98
+			},
+			{
+				"text": "king, ",
+				"start": 1.2,
+				"end": 1.56,
+				"index": 99
+			},
+			{
+				"text": "he ",
+				"start": 1.68,
+				"end": 1.8,
+				"index": 100
+			},
+			{
+				"text": "don't ",
+				"start": 1.84,
+				"end": 2.02,
+				"index": 101
+			},
+			{
+				"text": "stop",
+				"start": 2.06,
+				"end": 2.4,
+				"index": 102
+			}
+		],
+		"start": 47.43,
+		"end": 49.83
+	},
+	{
+		"words": [
+			{
+				"text": "Four-time ",
+				"start": 0,
+				"end": 0.32,
 				"index": 103
 			},
 			{
-				"text": "ball ",
-				"start": 0.48,
-				"end": 0.66,
+				"text": "champ, ",
+				"start": 0.34,
+				"end": 0.78,
 				"index": 104
 			},
 			{
-				"text": "was ",
-				"start": 0.66,
-				"end": 1.02,
+				"text": "he's ",
+				"start": 0.8,
+				"end": 0.96,
 				"index": 105
 			},
 			{
-				"text": "his, he'd ",
-				"start": 1.02,
-				"end": 1.28,
+				"text": "on ",
+				"start": 1.06,
+				"end": 1.16,
 				"index": 106
 			},
 			{
-				"text": "take ",
-				"start": 1.28,
-				"end": 1.44,
+				"text": "top, ",
+				"start": 1.18,
+				"end": 1.54,
 				"index": 107
 			},
 			{
-				"text": "the ",
-				"start": 1.44,
-				"end": 1.7,
+				"text": "he ",
+				"start": 1.66,
+				"end": 1.8,
 				"index": 108
 			},
 			{
-				"text": "score ",
-				"start": 1.7,
-				"end": 2,
+				"text": "just ",
+				"start": 1.82,
+				"end": 1.98,
 				"index": 109
 			},
 			{
-				"text": "and ",
-				"start": 2,
-				"end": 3,
+				"text": "wanna ",
+				"start": 2.12,
+				"end": 2.42,
 				"index": 110
 			},
 			{
-				"text": "make ",
-				"start": 3,
-				"end": 3.24,
+				"text": "shoot ",
+				"start": 2.46,
+				"end": 2.66,
 				"index": 111
 			},
 			{
-				"text": "him ",
-				"start": 3.24,
-				"end": 3.28,
+				"text": "his ",
+				"start": 2.74,
+				"end": 2.86,
 				"index": 112
 			},
 			{
-				"text": "all ",
-				"start": 3.28,
-				"end": 3.92,
+				"text": "shot",
+				"start": 2.9,
+				"end": 3.26,
 				"index": 113
-			},
+			}
+		],
+		"start": 50.04,
+		"end": 53.3
+	},
+	{
+		"words": [
 			{
-				"text": "the ",
-				"start": 3.92,
-				"end": 4.12,
+				"text": "Now, ",
+				"start": 0,
+				"end": 0.36,
 				"index": 114
 			},
 			{
-				"text": "fly",
-				"start": 4.12,
-				"end": 4.26,
+				"text": "in ",
+				"start": 0.38,
+				"end": 0.42,
 				"index": 115
-			}
-		],
-		"start": 47.06,
-		"end": 51.32
-	},
-	{
-		"words": [
+			},
 			{
-				"text": "If ",
-				"start": 0,
-				"end": 0.18,
+				"text": "this ",
+				"start": 0.52,
+				"end": 0.82,
 				"index": 116
 			},
 			{
-				"text": "the ball was his, ",
-				"start": 0.18,
-				"end": 0.38,
+				"text": "world ",
+				"start": 0.96,
+				"end": 1.38,
 				"index": 117
 			},
 			{
-				"text": "he'd ",
-				"start": 0.38,
-				"end": 0.42,
+				"text": "Bron ",
+				"start": 1.36,
+				"end": 2.7,
 				"index": 118
 			},
 			{
-				"text": "take the score and ",
-				"start": 0.42,
-				"end": 0.8,
+				"text": "is ",
+				"start": 2.79,
+				"end": 2.89,
 				"index": 119
 			},
 			{
-				"text": "make him all the fly",
-				"start": 0.8,
-				"end": 1.06,
-				"index": 120
-			}
-		],
-		"start": 51.32,
-		"end": 52.38
-	},
-	{
-		"words": [
-			{
-				"text": "If the ball was his, ",
-				"start": 0,
-				"end": 0.08,
-				"index": 121
-			},
-			{
-				"text": "he'd take the ",
-				"start": 0.16,
-				"end": 0.24,
-				"index": 122
-			},
-			{
-				"text": "score ",
-				"start": 0.24,
-				"end": 0.58,
-				"index": 123
-			},
-			{
-				"text": "and ",
-				"start": 0.58,
-				"end": 0.96,
-				"index": 124
-			},
-			{
-				"text": "make ",
-				"start": 0.96,
-				"end": 1.02,
-				"index": 125
-			},
-			{
-				"text": "him ",
-				"start": 1.02,
-				"end": 1.14,
-				"index": 126
-			},
-			{
-				"text": "all ",
-				"start": 1.14,
-				"end": 1.16,
-				"index": 127
-			},
-			{
-				"text": "the fly",
-				"start": 1.16,
-				"end": 1.28,
-				"index": 128
-			}
-		],
-		"start": 52.38,
-		"end": 53.66
-	},
-	{
-		"words": [
-			{
-				"text": "If the ",
-				"start": 0,
-				"end": 0.22,
-				"index": 129
-			},
-			{
-				"text": "ball was ",
-				"start": 0.22,
-				"end": 1.1,
-				"index": 130
-			},
-			{
-				"text": "his, ",
-				"start": 1.1,
-				"end": 1.12,
-				"index": 131
-			},
-			{
-				"text": "he'd take the score ",
-				"start": 1.12,
-				"end": 2.04,
-				"index": 132
-			},
-			{
-				"text": "and ",
-				"start": 2.04,
-				"end": 2.1,
-				"index": 133
-			},
-			{
-				"text": "make ",
-				"start": 2.1,
-				"end": 2.44,
-				"index": 134
-			},
-			{
-				"text": "him ",
-				"start": 2.44,
-				"end": 2.68,
-				"index": 135
-			},
-			{
-				"text": "all ",
-				"start": 2.68,
-				"end": 3.02,
-				"index": 136
-			},
-			{
 				"text": "the ",
-				"start": 3.02,
-				"end": 3.32,
-				"index": 137
+				"start": 2.93,
+				"end": 3.05,
+				"index": 120
 			},
 			{
-				"text": "fly ",
-				"start": 3.32,
-				"end": 3.62,
-				"index": 138
-			},
-			{
-				"text": "you ",
-				"start": 3.62,
-				"end": 3.64,
-				"index": 139
-			},
-			{
-				"text": "you you you you you you you you you you you you you you you",
-				"start": 3.64,
-				"end": 3.7,
-				"index": 140
+				"text": "good",
+				"start": 3.09,
+				"end": 4.05,
+				"index": 121
 			}
 		],
-		"start": 53.66,
-		"end": 57.36
+		"start": 53.38,
+		"end": 57.43
 	}
 ]

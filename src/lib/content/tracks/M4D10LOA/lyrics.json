@@ -2,1261 +2,1315 @@
 	{
 		"words": [
 			{
-				"text": "bitch ",
-				"start": 1.18,
-				"end": 1.58,
+				"text": "Bitch ",
+				"start": 0,
+				"end": 0.78,
 				"index": 0
 			},
 			{
 				"text": "LeBron ",
-				"start": 1.58,
-				"end": 1.92,
+				"start": 0.8,
+				"end": 1.08,
 				"index": 1
 			},
 			{
 				"text": "is ",
-				"start": 1.92,
-				"end": 2.18,
+				"start": 1.22,
+				"end": 1.3,
 				"index": 2
 			},
 			{
 				"text": "better ",
-				"start": 2.18,
-				"end": 2.52,
+				"start": 1.42,
+				"end": 1.7,
 				"index": 3
 			},
 			{
 				"text": "and ",
-				"start": 2.52,
-				"end": 2.78,
+				"start": 1.78,
+				"end": 1.84,
 				"index": 4
 			},
 			{
 				"text": "it's ",
-				"start": 2.78,
-				"end": 3.04,
+				"start": 1.9,
+				"end": 2.2,
 				"index": 5
 			},
 			{
 				"text": "all ",
-				"start": 3.04,
-				"end": 3.12,
+				"start": 2.22,
+				"end": 2.28,
 				"index": 6
 			},
 			{
-				"text": "facts, ",
-				"start": 3.12,
-				"end": 3.44,
+				"text": "facts",
+				"start": 2.32,
+				"end": 2.63,
 				"index": 7
-			},
+			}
+		],
+		"start": 0.03,
+		"end": 2.66
+	},
+	{
+		"words": [
 			{
-				"text": "go ",
-				"start": 3.64,
-				"end": 3.98,
+				"text": "Go ",
+				"start": 0,
+				"end": 0.12,
 				"index": 8
 			},
 			{
 				"text": "for ",
-				"start": 3.98,
-				"end": 4.14,
+				"start": 0.14,
+				"end": 0.3,
 				"index": 9
 			},
 			{
-				"text": "dunks, ",
-				"start": 4.14,
-				"end": 4.56,
+				"text": "dunks ",
+				"start": 0.34,
+				"end": 0.66,
 				"index": 10
 			},
 			{
-				"text": "you ",
-				"start": 4.56,
-				"end": 4.7,
+				"text": "and ",
+				"start": 0.68,
+				"end": 0.74,
 				"index": 11
 			},
 			{
-				"text": "know ",
-				"start": 4.7,
-				"end": 4.94,
+				"text": "you ",
+				"start": 0.78,
+				"end": 0.9,
 				"index": 12
 			},
 			{
-				"text": "he ",
-				"start": 4.94,
-				"end": 5.1,
+				"text": "know ",
+				"start": 0.94,
+				"end": 1.08,
 				"index": 13
 			},
 			{
-				"text": "finna ",
-				"start": 5.1,
-				"end": 5.38,
+				"text": "he ",
+				"start": 1.1,
+				"end": 1.18,
 				"index": 14
 			},
 			{
-				"text": "pack ",
-				"start": 5.38,
-				"end": 5.64,
+				"text": "finna ",
+				"start": 1.2,
+				"end": 1.5,
 				"index": 15
 			},
 			{
-				"text": "that, ",
-				"start": 5.64,
-				"end": 5.88,
+				"text": "pack ",
+				"start": 1.56,
+				"end": 1.8,
 				"index": 16
 			},
 			{
-				"text": "shoot ",
-				"start": 6.02,
-				"end": 6.5,
+				"text": "that",
+				"start": 1.82,
+				"end": 2.08,
 				"index": 17
-			},
+			}
+		],
+		"start": 3,
+		"end": 5.08
+	},
+	{
+		"words": [
 			{
-				"text": "for ",
-				"start": 6.5,
-				"end": 6.68,
+				"text": "Shoot ",
+				"start": 0,
+				"end": 0.14,
 				"index": 18
 			},
 			{
-				"text": "three, ",
-				"start": 6.68,
-				"end": 6.86,
+				"text": "for ",
+				"start": 0.16,
+				"end": 0.32,
 				"index": 19
 			},
 			{
-				"text": "you ",
-				"start": 6.88,
-				"end": 7,
+				"text": "three, ",
+				"start": 0.34,
+				"end": 0.52,
 				"index": 20
 			},
 			{
-				"text": "know ",
-				"start": 7,
-				"end": 7.2,
+				"text": "you ",
+				"start": 0.54,
+				"end": 0.62,
 				"index": 21
 			},
 			{
-				"text": "he ",
-				"start": 7.2,
-				"end": 7.48,
+				"text": "know ",
+				"start": 0.66,
+				"end": 0.88,
 				"index": 22
 			},
 			{
-				"text": "keep ",
-				"start": 7.48,
-				"end": 7.7,
+				"text": "he ",
+				"start": 0.96,
+				"end": 1.2,
 				"index": 23
 			},
 			{
-				"text": "a ",
-				"start": 7.7,
-				"end": 7.88,
+				"text": "keep ",
+				"start": 1.22,
+				"end": 1.42,
 				"index": 24
 			},
 			{
-				"text": "big ",
-				"start": 7.88,
-				"end": 8.12,
+				"text": "a ",
+				"start": 1.48,
+				"end": 1.54,
 				"index": 25
 			},
 			{
-				"text": "strap, ",
-				"start": 8.12,
-				"end": 8.36,
+				"text": "big ",
+				"start": 1.6,
+				"end": 1.78,
 				"index": 26
 			},
 			{
-				"text": "keep ",
-				"start": 8.62,
-				"end": 9.02,
+				"text": "strap",
+				"start": 1.8,
+				"end": 2.48,
 				"index": 27
-			},
+			}
+		],
+		"start": 5.48,
+		"end": 7.96
+	},
+	{
+		"words": [
 			{
-				"text": "on ",
-				"start": 9.02,
-				"end": 9.2,
+				"text": "Keep ",
+				"start": 0,
+				"end": 0.18,
 				"index": 28
 			},
 			{
-				"text": "saying ",
-				"start": 9.2,
-				"end": 9.42,
+				"text": "on ",
+				"start": 0.26,
+				"end": 0.3,
 				"index": 29
 			},
 			{
-				"text": "MJ ",
-				"start": 9.42,
-				"end": 9.72,
+				"text": "saying ",
+				"start": 0.32,
+				"end": 0.62,
 				"index": 30
 			},
 			{
-				"text": "better ",
-				"start": 9.72,
-				"end": 10,
+				"text": "MJ ",
+				"start": 0.7,
+				"end": 0.92,
 				"index": 31
 			},
 			{
-				"text": "and ",
-				"start": 10,
-				"end": 10.2,
+				"text": "better ",
+				"start": 0.96,
+				"end": 1.2,
 				"index": 32
 			},
 			{
-				"text": "it's ",
-				"start": 10.2,
-				"end": 10.46,
+				"text": "and ",
+				"start": 1.26,
+				"end": 1.34,
 				"index": 33
 			},
 			{
-				"text": "all ",
-				"start": 10.46,
-				"end": 10.52,
+				"text": "it's ",
+				"start": 1.4,
+				"end": 1.5,
 				"index": 34
 			},
 			{
-				"text": "cap, ",
-				"start": 10.52,
-				"end": 10.8,
+				"text": "all ",
+				"start": 1.62,
+				"end": 1.76,
 				"index": 35
 			},
 			{
-				"text": "there's ",
-				"start": 11.06,
-				"end": 11.54,
+				"text": "cap",
+				"start": 1.78,
+				"end": 2.47,
 				"index": 36
-			},
+			}
+		],
+		"start": 7.99,
+		"end": 10.46
+	},
+	{
+		"words": [
 			{
-				"text": "no ",
-				"start": 11.54,
-				"end": 11.6,
+				"text": "There's ",
+				"start": 0,
+				"end": 0.18,
 				"index": 37
 			},
 			{
-				"text": "glaze ",
-				"start": 11.6,
-				"end": 11.92,
+				"text": "no ",
+				"start": 0.2,
+				"end": 0.3,
 				"index": 38
 			},
 			{
-				"text": "to ",
-				"start": 11.92,
-				"end": 12.08,
+				"text": "glaze ",
+				"start": 0.34,
+				"end": 0.58,
 				"index": 39
 			},
 			{
-				"text": "the ",
-				"start": 12.08,
-				"end": 12.24,
+				"text": "to ",
+				"start": 0.62,
+				"end": 0.76,
 				"index": 40
 			},
 			{
-				"text": "king, ",
-				"start": 12.24,
-				"end": 12.5,
+				"text": "the ",
+				"start": 0.78,
+				"end": 0.88,
 				"index": 41
 			},
 			{
-				"text": "I'm just ",
-				"start": 12.64,
-				"end": 12.84,
+				"text": "king, ",
+				"start": 0.92,
+				"end": 1.22,
 				"index": 42
 			},
 			{
-				"text": "big ",
-				"start": 12.84,
-				"end": 13.06,
+				"text": "I'm ",
+				"start": 1.24,
+				"end": 1.3,
 				"index": 43
 			},
 			{
-				"text": "mad, ",
-				"start": 13.06,
-				"end": 13.32,
+				"text": "just ",
+				"start": 1.32,
+				"end": 1.56,
 				"index": 44
 			},
 			{
-				"text": "MJ, ",
-				"start": 13.6,
-				"end": 14.1,
+				"text": "big ",
+				"start": 1.62,
+				"end": 1.76,
 				"index": 45
 			},
 			{
-				"text": "shut ",
-				"start": 14.28,
-				"end": 14.88,
+				"text": "mad",
+				"start": 1.8,
+				"end": 2.13,
 				"index": 46
-			},
+			}
+		],
+		"start": 10.47,
+		"end": 12.6
+	},
+	{
+		"words": [
 			{
-				"text": "the ",
-				"start": 14.88,
-				"end": 15.08,
+				"text": "MJ, ",
+				"start": 0,
+				"end": 0.28,
 				"index": 47
 			},
 			{
-				"text": "fuck ",
-				"start": 15.08,
-				"end": 15.32,
+				"text": "shut ",
+				"start": 0.82,
+				"end": 0.98,
 				"index": 48
 			},
 			{
-				"text": "up, ",
-				"start": 15.32,
-				"end": 15.64,
+				"text": "the ",
+				"start": 1,
+				"end": 1.12,
 				"index": 49
 			},
 			{
-				"text": "tell ",
-				"start": 15.66,
-				"end": 15.88,
+				"text": "fuck ",
+				"start": 1.14,
+				"end": 1.42,
 				"index": 50
 			},
 			{
-				"text": "your ",
-				"start": 15.88,
-				"end": 16.2,
+				"text": "up",
+				"start": 1.7,
+				"end": 1.76,
 				"index": 51
-			},
+			}
+		],
+		"start": 13.08,
+		"end": 14.84
+	},
+	{
+		"words": [
 			{
-				"text": "friend ",
-				"start": 16.2,
-				"end": 16.54,
+				"text": "Tell ",
+				"start": 0,
+				"end": 0.28,
 				"index": 52
 			},
 			{
-				"text": "Dennis, ",
-				"start": 16.54,
-				"end": 16.86,
+				"text": "your ",
+				"start": 0.32,
+				"end": 0.56,
 				"index": 53
 			},
 			{
-				"text": "shut ",
-				"start": 17.1,
-				"end": 17.4,
+				"text": "friend ",
+				"start": 0.6,
+				"end": 0.9,
 				"index": 54
 			},
 			{
-				"text": "the ",
-				"start": 17.4,
-				"end": 17.62,
+				"text": "Dennis, ",
+				"start": 0.94,
+				"end": 1.54,
 				"index": 55
 			},
 			{
-				"text": "fuck ",
-				"start": 17.62,
-				"end": 17.82,
+				"text": "shut ",
+				"start": 1.56,
+				"end": 1.72,
 				"index": 56
 			},
 			{
-				"text": "up, ",
-				"start": 17.82,
-				"end": 18.18,
+				"text": "the ",
+				"start": 1.74,
+				"end": 1.86,
 				"index": 57
 			},
 			{
-				"text": "ayy",
-				"start": 18.2,
-				"end": 18.4,
+				"text": "fuck ",
+				"start": 1.88,
+				"end": 2.25,
 				"index": 58
+			},
+			{
+				"text": "up",
+				"start": 2.27,
+				"end": 2.56,
+				"index": 59
 			}
 		],
-		"start": -1,
-		"end": 17.4
+		"start": 14.86,
+		"end": 17.42
+	},
+	{
+		"words": [
+			{
+				"text": "Ayy",
+				"start": 0,
+				"end": 0.04,
+				"index": 60
+			}
+		],
+		"start": 17.45,
+		"end": 17.49
 	},
 	{
 		"words": [
 			{
 				"text": "CP3, ",
 				"start": 0,
-				"end": 0.78,
-				"index": 59
-			},
-			{
-				"text": "shut ",
-				"start": 0.98,
-				"end": 1.42,
-				"index": 60
-			},
-			{
-				"text": "the ",
-				"start": 1.42,
-				"end": 1.6,
+				"end": 0.32,
 				"index": 61
 			},
 			{
-				"text": "fuck ",
-				"start": 1.6,
-				"end": 1.86,
+				"text": "shut ",
+				"start": 0.34,
+				"end": 0.42,
 				"index": 62
 			},
 			{
-				"text": "up, ",
-				"start": 1.86,
-				"end": 2.12,
+				"text": "the ",
+				"start": 0.44,
+				"end": 0.56,
 				"index": 63
 			},
 			{
-				"text": "tell ",
-				"start": 2.16,
-				"end": 2.36,
+				"text": "fuck ",
+				"start": 1,
+				"end": 1.12,
 				"index": 64
 			},
 			{
-				"text": "your ",
-				"start": 2.36,
-				"end": 2.62,
+				"text": "up ",
+				"start": 1.14,
+				"end": 1.2,
 				"index": 65
 			},
 			{
-				"text": "friend ",
-				"start": 2.62,
-				"end": 3.04,
+				"text": "fuck ",
+				"start": 1.18,
+				"end": 1.46,
 				"index": 66
 			},
 			{
-				"text": "Katie, ",
-				"start": 3.04,
-				"end": 3.36,
+				"text": "up ",
+				"start": 1.7,
+				"end": 1.84,
 				"index": 67
 			},
 			{
-				"text": "shut ",
-				"start": 3.62,
-				"end": 3.9,
+				"text": "tell ",
+				"start": 1.96,
+				"end": 2.12,
 				"index": 68
 			},
 			{
-				"text": "the ",
-				"start": 3.9,
-				"end": 4.04,
+				"text": "yo ",
+				"start": 2.16,
+				"end": 2.36,
 				"index": 69
 			},
 			{
-				"text": "fuck ",
-				"start": 4.04,
-				"end": 4.36,
+				"text": "friend ",
+				"start": 2.43,
+				"end": 2.73,
 				"index": 70
 			},
 			{
-				"text": "up, ",
-				"start": 4.36,
-				"end": 4.56,
+				"text": "Katie ",
+				"start": 2.77,
+				"end": 3.11,
 				"index": 71
 			},
 			{
-				"text": "ayy, ",
-				"start": 4.68,
-				"end": 5.04,
+				"text": "shut ",
+				"start": 3.45,
+				"end": 3.59,
 				"index": 72
 			},
 			{
-				"text": "ayy, ",
-				"start": 5.04,
-				"end": 5.72,
+				"text": "the ",
+				"start": 3.61,
+				"end": 3.69,
 				"index": 73
 			},
 			{
-				"text": "LeBron, ",
-				"start": 5.72,
-				"end": 6.2,
+				"text": "fuck ",
+				"start": 3.73,
+				"end": 3.97,
 				"index": 74
 			},
 			{
-				"text": "he ",
-				"start": 6.24,
-				"end": 6.44,
+				"text": "up ",
+				"start": 4.17,
+				"end": 4.29,
 				"index": 75
 			},
 			{
-				"text": "really ",
-				"start": 6.44,
-				"end": 6.76,
+				"text": "ay ",
+				"start": 5.15,
+				"end": 5.27,
 				"index": 76
 			},
 			{
-				"text": "did ",
-				"start": 6.76,
-				"end": 7.04,
+				"text": "ay ",
+				"start": 5.41,
+				"end": 5.45,
 				"index": 77
 			},
 			{
-				"text": "that, ",
-				"start": 7.04,
-				"end": 7.32,
+				"text": "Lebron ",
+				"start": 5.47,
+				"end": 6.01,
 				"index": 78
 			},
 			{
-				"text": "who ",
-				"start": 7.54,
-				"end": 7.62,
+				"text": "he ",
+				"start": 6.07,
+				"end": 6.17,
 				"index": 79
 			},
 			{
-				"text": "the ",
-				"start": 7.62,
-				"end": 7.78,
+				"text": "really ",
+				"start": 6.21,
+				"end": 6.45,
 				"index": 80
 			},
 			{
-				"text": "fuck ",
-				"start": 7.78,
-				"end": 8.02,
+				"text": "did ",
+				"start": 6.55,
+				"end": 6.73,
 				"index": 81
 			},
 			{
-				"text": "won't ",
-				"start": 8.02,
-				"end": 8.34,
+				"text": "that ",
+				"start": 6.77,
+				"end": 7.07,
 				"index": 82
 			},
 			{
-				"text": "smoke, ",
-				"start": 8.34,
-				"end": 8.48,
+				"text": "who ",
+				"start": 7.11,
+				"end": 7.31,
 				"index": 83
 			},
 			{
-				"text": "you ",
-				"start": 8.68,
-				"end": 8.74,
+				"text": "the ",
+				"start": 7.34,
+				"end": 7.43,
 				"index": 84
 			},
 			{
-				"text": "finna ",
-				"start": 8.74,
-				"end": 9,
+				"text": "fuck ",
+				"start": 7.45,
+				"end": 7.7,
 				"index": 85
 			},
 			{
-				"text": "get ",
-				"start": 9,
-				"end": 9.2,
+				"text": "won't ",
+				"start": 7.72,
+				"end": 7.94,
 				"index": 86
 			},
 			{
-				"text": "bitch ",
-				"start": 9.2,
-				"end": 9.56,
+				"text": "smoke ",
+				"start": 7.98,
+				"end": 8.24,
 				"index": 87
 			},
 			{
-				"text": "slapped, ",
-				"start": 9.56,
-				"end": 9.8,
+				"text": "you ",
+				"start": 8.26,
+				"end": 8.36,
 				"index": 88
 			},
 			{
-				"text": "Kyrie ",
-				"start": 10.06,
-				"end": 10.34,
+				"text": "finally ",
+				"start": 8.4,
+				"end": 8.72,
 				"index": 89
 			},
 			{
-				"text": "in ",
-				"start": 10.34,
-				"end": 10.5,
+				"text": "get ",
+				"start": 8.74,
+				"end": 8.96,
 				"index": 90
 			},
 			{
-				"text": "the ",
-				"start": 10.5,
-				"end": 10.62,
+				"text": "bitch ",
+				"start": 9.02,
+				"end": 9.22,
 				"index": 91
 			},
 			{
-				"text": "back ",
-				"start": 10.62,
-				"end": 10.9,
+				"text": "slapped ",
+				"start": 9.24,
+				"end": 9.6,
 				"index": 92
 			},
 			{
-				"text": "in ",
-				"start": 10.9,
-				"end": 11.14,
+				"text": "Kyrie ",
+				"start": 9.68,
+				"end": 10.06,
 				"index": 93
 			},
 			{
-				"text": "the ",
-				"start": 11.14,
-				"end": 11.22,
+				"text": "in ",
+				"start": 10.08,
+				"end": 10.14,
 				"index": 94
 			},
 			{
-				"text": "car ",
-				"start": 11.22,
-				"end": 11.5,
+				"text": "the ",
+				"start": 10.18,
+				"end": 10.3,
 				"index": 95
 			},
 			{
-				"text": "shooting ",
-				"start": 11.5,
-				"end": 11.78,
+				"text": "back ",
+				"start": 10.34,
+				"end": 10.56,
 				"index": 96
 			},
 			{
-				"text": "big ",
-				"start": 11.78,
-				"end": 12.04,
+				"text": "in ",
+				"start": 10.68,
+				"end": 10.74,
 				"index": 97
 			},
 			{
-				"text": "packs, ",
-				"start": 12.04,
-				"end": 12.32,
+				"text": "the ",
+				"start": 10.8,
+				"end": 10.9,
 				"index": 98
 			},
 			{
-				"text": "go send ",
-				"start": 13.68,
-				"end": 13.94,
+				"text": "car ",
+				"start": 10.94,
+				"end": 11.2,
 				"index": 99
 			},
 			{
-				"text": "him ",
-				"start": 13.94,
-				"end": 14.08,
+				"text": "shooting ",
+				"start": 11.22,
+				"end": 11.52,
 				"index": 100
 			},
 			{
-				"text": "to ",
-				"start": 14.08,
-				"end": 14.24,
+				"text": "big ",
+				"start": 11.56,
+				"end": 11.72,
 				"index": 101
 			},
 			{
-				"text": "the ",
-				"start": 14.24,
-				"end": 14.38,
+				"text": "packs ",
+				"start": 11.76,
+				"end": 12.12,
 				"index": 102
 			},
 			{
-				"text": "lost ",
-				"start": 14.38,
-				"end": 14.6,
+				"text": "cross ",
+				"start": 12.22,
+				"end": 12.45,
 				"index": 103
 			},
 			{
-				"text": "maps, ",
-				"start": 14.6,
-				"end": 14.86,
+				"text": "a ",
+				"start": 12.47,
+				"end": 12.55,
 				"index": 104
 			},
 			{
-				"text": "fuck ",
-				"start": 15.16,
-				"end": 15.5,
+				"text": "nigga ",
+				"start": 12.61,
+				"end": 12.89,
 				"index": 105
 			},
 			{
-				"text": "Kat, ",
-				"start": 15.5,
-				"end": 15.88,
+				"text": "over ",
+				"start": 12.95,
+				"end": 13.11,
 				"index": 106
 			},
 			{
-				"text": "fuck ",
-				"start": 15.94,
-				"end": 16.16,
+				"text": "he ",
+				"start": 13.13,
+				"end": 13.23,
 				"index": 107
 			},
 			{
-				"text": "Dilly ",
-				"start": 16.16,
-				"end": 16.54,
+				"text": "gon' ",
+				"start": 13.25,
+				"end": 13.43,
 				"index": 108
 			},
 			{
-				"text": "and ",
-				"start": 16.54,
-				"end": 16.78,
+				"text": "send ",
+				"start": 13.47,
+				"end": 13.61,
 				"index": 109
 			},
 			{
-				"text": "Draymond, ",
-				"start": 16.78,
-				"end": 17.28,
+				"text": "him ",
+				"start": 13.65,
+				"end": 13.75,
 				"index": 110
 			},
 			{
-				"text": "one ",
-				"start": 17.54,
-				"end": 18,
+				"text": "to ",
+				"start": 13.77,
+				"end": 13.91,
 				"index": 111
 			},
 			{
-				"text": "more ",
-				"start": 18,
-				"end": 18.16,
+				"text": "the ",
+				"start": 13.93,
+				"end": 14.01,
 				"index": 112
 			},
 			{
-				"text": "foul ",
-				"start": 18.16,
-				"end": 18.36,
+				"text": "lost ",
+				"start": 14.07,
+				"end": 14.29,
 				"index": 113
 			},
 			{
-				"text": "and ",
-				"start": 18.36,
-				"end": 18.76,
+				"text": "maps ",
+				"start": 14.33,
+				"end": 14.69,
 				"index": 114
 			},
 			{
-				"text": "y",
-				"start": 18.76,
-				"end": 18.92,
+				"text": "fuck ",
+				"start": 15.03,
+				"end": 15.29,
 				"index": 115
 			},
 			{
-				"text": "'all ",
-				"start": 18.92,
-				"end": 19.04,
+				"text": "Kat ",
+				"start": 15.33,
+				"end": 15.63,
 				"index": 116
 			},
 			{
-				"text": "niggas ",
-				"start": 19.04,
-				"end": 19.26,
+				"text": "fuck",
+				"start": 15.65,
+				"end": 15.93,
 				"index": 117
-			},
-			{
-				"text": "gon' ",
-				"start": 19.26,
-				"end": 19.44,
-				"index": 118
-			},
-			{
-				"text": "be ",
-				"start": 19.48,
-				"end": 19.68,
-				"index": 119
-			},
-			{
-				"text": "gone, ",
-				"start": 19.68,
-				"end": 19.9,
-				"index": 120
-			},
-			{
-				"text": "fuck ",
-				"start": 20.18,
-				"end": 20.62,
-				"index": 121
-			},
-			{
-				"text": "Adams, ",
-				"start": 20.62,
-				"end": 21,
-				"index": 122
-			},
-			{
-				"text": "fuck ",
-				"start": 21.1,
-				"end": 21.28,
-				"index": 123
-			},
-			{
-				"text": "Ben, ",
-				"start": 21.28,
-				"end": 21.56,
-				"index": 124
-			},
-			{
-				"text": "fuck ",
-				"start": 21.64,
-				"end": 21.96,
-				"index": 125
-			},
-			{
-				"text": "Giannis, ",
-				"start": 21.96,
-				"end": 22.46,
-				"index": 126
-			},
-			{
-				"text": "y",
-				"start": 22.56,
-				"end": 22.94,
-				"index": 127
-			},
-			{
-				"text": "'all ",
-				"start": 22.94,
-				"end": 23.02,
-				"index": 128
-			},
-			{
-				"text": "niggas ",
-				"start": 23.02,
-				"end": 23.26,
-				"index": 129
-			},
-			{
-				"text": "keep ",
-				"start": 23.26,
-				"end": 23.44,
-				"index": 130
-			},
-			{
-				"text": "airballing ",
-				"start": 23.44,
-				"end": 24.08,
-				"index": 131
-			},
-			{
-				"text": "to ",
-				"start": 24.08,
-				"end": 24.2,
-				"index": 132
-			},
-			{
-				"text": "be ",
-				"start": 24.2,
-				"end": 24.36,
-				"index": 133
-			},
-			{
-				"text": "honest, ",
-				"start": 24.36,
-				"end": 24.88,
-				"index": 134
-			},
-			{
-				"text": "bitch ",
-				"start": 25.26,
-				"end": 25.62,
-				"index": 135
-			},
-			{
-				"text": "LeBron ",
-				"start": 25.62,
-				"end": 25.96,
-				"index": 136
-			},
-			{
-				"text": "is ",
-				"start": 25.96,
-				"end": 26.2,
-				"index": 137
-			},
-			{
-				"text": "better ",
-				"start": 26.2,
-				"end": 26.54,
-				"index": 138
-			},
-			{
-				"text": "and ",
-				"start": 26.54,
-				"end": 26.8,
-				"index": 139
-			},
-			{
-				"text": "it's ",
-				"start": 26.8,
-				"end": 27.02,
-				"index": 140
-			},
-			{
-				"text": "all ",
-				"start": 27.02,
-				"end": 27.18,
-				"index": 141
-			},
-			{
-				"text": "facts, ",
-				"start": 27.18,
-				"end": 27.46,
-				"index": 142
-			},
-			{
-				"text": "go ",
-				"start": 27.7,
-				"end": 28.06,
-				"index": 143
-			},
-			{
-				"text": "for ",
-				"start": 28.06,
-				"end": 28.16,
-				"index": 144
-			},
-			{
-				"text": "dunks, ",
-				"start": 28.16,
-				"end": 28.64,
-				"index": 145
-			},
-			{
-				"text": "you ",
-				"start": 28.64,
-				"end": 28.8,
-				"index": 146
-			},
-			{
-				"text": "know ",
-				"start": 28.8,
-				"end": 29.02,
-				"index": 147
-			},
-			{
-				"text": "he ",
-				"start": 29.02,
-				"end": 29.18,
-				"index": 148
-			},
-			{
-				"text": "finna ",
-				"start": 29.18,
-				"end": 29.46,
-				"index": 149
-			},
-			{
-				"text": "pack ",
-				"start": 29.46,
-				"end": 29.74,
-				"index": 150
-			},
-			{
-				"text": "that, ",
-				"start": 29.74,
-				"end": 29.96,
-				"index": 151
-			},
-			{
-				"text": "shoot ",
-				"start": 30.06,
-				"end": 30.66,
-				"index": 152
-			},
-			{
-				"text": "for ",
-				"start": 30.66,
-				"end": 30.82,
-				"index": 153
-			},
-			{
-				"text": "three, ",
-				"start": 30.82,
-				"end": 30.98,
-				"index": 154
-			},
-			{
-				"text": "you ",
-				"start": 31.02,
-				"end": 31.12,
-				"index": 155
-			},
-			{
-				"text": "know ",
-				"start": 31.12,
-				"end": 31.4,
-				"index": 156
-			},
-			{
-				"text": "he ",
-				"start": 31.4,
-				"end": 31.64,
-				"index": 157
-			},
-			{
-				"text": "keep ",
-				"start": 31.64,
-				"end": 31.86,
-				"index": 158
-			},
-			{
-				"text": "a ",
-				"start": 31.86,
-				"end": 32.06,
-				"index": 159
-			},
-			{
-				"text": "big ",
-				"start": 32.06,
-				"end": 32.3,
-				"index": 160
-			},
-			{
-				"text": "strap, ",
-				"start": 32.3,
-				"end": 32.56,
-				"index": 161
-			},
-			{
-				"text": "keep ",
-				"start": 32.96,
-				"end": 33.2,
-				"index": 162
-			},
-			{
-				"text": "on ",
-				"start": 33.2,
-				"end": 33.42,
-				"index": 163
-			},
-			{
-				"text": "saying ",
-				"start": 33.42,
-				"end": 33.64,
-				"index": 164
-			},
-			{
-				"text": "MJ ",
-				"start": 33.64,
-				"end": 33.94,
-				"index": 165
-			},
-			{
-				"text": "better ",
-				"start": 33.94,
-				"end": 34.24,
-				"index": 166
-			},
-			{
-				"text": "and ",
-				"start": 34.24,
-				"end": 34.44,
-				"index": 167
-			},
-			{
-				"text": "it's ",
-				"start": 34.44,
-				"end": 34.66,
-				"index": 168
-			},
-			{
-				"text": "all ",
-				"start": 34.66,
-				"end": 34.8,
-				"index": 169
-			},
-			{
-				"text": "cap, ",
-				"start": 34.8,
-				"end": 35.02,
-				"index": 170
-			},
-			{
-				"text": "there's ",
-				"start": 35.2,
-				"end": 35.8,
-				"index": 171
-			},
-			{
-				"text": "no ",
-				"start": 35.8,
-				"end": 35.88,
-				"index": 172
-			},
-			{
-				"text": "glaze ",
-				"start": 35.88,
-				"end": 36.2,
-				"index": 173
-			},
-			{
-				"text": "to ",
-				"start": 36.2,
-				"end": 36.36,
-				"index": 174
-			},
-			{
-				"text": "the ",
-				"start": 36.36,
-				"end": 36.52,
-				"index": 175
-			},
-			{
-				"text": "king, ",
-				"start": 36.52,
-				"end": 36.8,
-				"index": 176
-			},
-			{
-				"text": "I'm ",
-				"start": 36.9,
-				"end": 37.08,
-				"index": 177
-			},
-			{
-				"text": "just ",
-				"start": 37.08,
-				"end": 37.18,
-				"index": 178
-			},
-			{
-				"text": "big ",
-				"start": 37.18,
-				"end": 37.38,
-				"index": 179
-			},
-			{
-				"text": "mad",
-				"start": 37.38,
-				"end": 37.58,
-				"index": 180
 			}
 		],
-		"start": 17.5,
-		"end": 55.08
+		"start": 17.97,
+		"end": 33.9
 	},
 	{
 		"words": [
 			{
-				"text": "MJ, ",
+				"text": "Dylan ",
 				"start": 0,
-				"end": 0.22,
-				"index": 181
+				"end": 0.48,
+				"index": 118
 			},
 			{
-				"text": "shut ",
-				"start": 0.36,
-				"end": 1.06,
-				"index": 182
+				"text": "and ",
+				"start": 0.5,
+				"end": 0.56,
+				"index": 119
+			},
+			{
+				"text": "Draymond ",
+				"start": 0.58,
+				"end": 1.12,
+				"index": 120
+			},
+			{
+				"text": "one ",
+				"start": 1.64,
+				"end": 1.8,
+				"index": 121
+			},
+			{
+				"text": "more ",
+				"start": 1.92,
+				"end": 2.04,
+				"index": 122
+			},
+			{
+				"text": "foul ",
+				"start": 2.06,
+				"end": 2.16,
+				"index": 123
+			},
+			{
+				"text": "and ",
+				"start": 2.38,
+				"end": 2.46,
+				"index": 124
+			},
+			{
+				"text": "y'all ",
+				"start": 2.51,
+				"end": 2.69,
+				"index": 125
+			},
+			{
+				"text": "niggas ",
+				"start": 2.71,
+				"end": 2.95,
+				"index": 126
+			},
+			{
+				"text": "gon' ",
+				"start": 2.97,
+				"end": 3.17,
+				"index": 127
+			},
+			{
+				"text": "be ",
+				"start": 3.19,
+				"end": 3.35,
+				"index": 128
+			},
+			{
+				"text": "gone",
+				"start": 3.37,
+				"end": 3.91,
+				"index": 129
+			}
+		],
+		"start": 33.96,
+		"end": 37.87
+	},
+	{
+		"words": [
+			{
+				"text": "Fuck ",
+				"start": 0,
+				"end": 0.48,
+				"index": 130
+			},
+			{
+				"text": "Adams, ",
+				"start": 0.6,
+				"end": 0.82,
+				"index": 131
+			},
+			{
+				"text": "fuck ",
+				"start": 0.84,
+				"end": 1.08,
+				"index": 132
+			},
+			{
+				"text": "Ben, ",
+				"start": 1.14,
+				"end": 1.42,
+				"index": 133
+			},
+			{
+				"text": "fuck ",
+				"start": 1.44,
+				"end": 1.8,
+				"index": 134
+			},
+			{
+				"text": "Giannis",
+				"start": 1.94,
+				"end": 2.22,
+				"index": 135
+			}
+		],
+		"start": 37.85,
+		"end": 40.07
+	},
+	{
+		"words": [
+			{
+				"text": "That ",
+				"start": 0,
+				"end": 0.14,
+				"index": 136
+			},
+			{
+				"text": "nigga's ",
+				"start": 0.16,
+				"end": 0.38,
+				"index": 137
+			},
+			{
+				"text": "T-Bear ",
+				"start": 0.42,
+				"end": 0.88,
+				"index": 138
+			},
+			{
+				"text": "ballin' ",
+				"start": 0.94,
+				"end": 1.22,
+				"index": 139
+			},
+			{
+				"text": "to ",
+				"start": 1.28,
+				"end": 1.4,
+				"index": 140
+			},
+			{
+				"text": "be ",
+				"start": 1.42,
+				"end": 1.62,
+				"index": 141
+			},
+			{
+				"text": "honest",
+				"start": 1.82,
+				"end": 2.2,
+				"index": 142
+			}
+		],
+		"start": 40.47,
+		"end": 42.67
+	},
+	{
+		"words": [
+			{
+				"text": "Bitch ",
+				"start": 0,
+				"end": 0.22,
+				"index": 143
+			},
+			{
+				"text": "LeBron ",
+				"start": 0.24,
+				"end": 0.54,
+				"index": 144
+			},
+			{
+				"text": "is ",
+				"start": 0.68,
+				"end": 0.78,
+				"index": 145
+			},
+			{
+				"text": "better ",
+				"start": 0.9,
+				"end": 1.16,
+				"index": 146
+			},
+			{
+				"text": "in ",
+				"start": 1.26,
+				"end": 1.32,
+				"index": 147
 			},
 			{
 				"text": "the ",
-				"start": 1.06,
+				"start": 1.34,
+				"end": 1.44,
+				"index": 148
+			},
+			{
+				"text": "softbacks",
+				"start": 1.48,
+				"end": 2.1,
+				"index": 149
+			}
+		],
+		"start": 43.1,
+		"end": 45.2
+	},
+	{
+		"words": [
+			{
+				"text": "Go ",
+				"start": 0,
+				"end": 0.1,
+				"index": 150
+			},
+			{
+				"text": "for ",
+				"start": 0.12,
+				"end": 0.28,
+				"index": 151
+			},
+			{
+				"text": "dunks, ",
+				"start": 0.32,
+				"end": 0.68,
+				"index": 152
+			},
+			{
+				"text": "you ",
+				"start": 0.7,
+				"end": 0.9,
+				"index": 153
+			},
+			{
+				"text": "know ",
+				"start": 0.92,
+				"end": 1.06,
+				"index": 154
+			},
+			{
+				"text": "he ",
+				"start": 1.08,
+				"end": 1.26,
+				"index": 155
+			},
+			{
+				"text": "finna ",
+				"start": 1.28,
+				"end": 1.5,
+				"index": 156
+			},
+			{
+				"text": "pack ",
+				"start": 1.56,
+				"end": 1.8,
+				"index": 157
+			},
+			{
+				"text": "that",
+				"start": 1.88,
+				"end": 2.48,
+				"index": 158
+			}
+		],
+		"start": 45.6,
+		"end": 48.08
+	},
+	{
+		"words": [
+			{
+				"text": "Shoot ",
+				"start": 0,
+				"end": 0.16,
+				"index": 159
+			},
+			{
+				"text": "for ",
+				"start": 0.18,
+				"end": 0.32,
+				"index": 160
+			},
+			{
+				"text": "three, ",
+				"start": 0.34,
+				"end": 0.52,
+				"index": 161
+			},
+			{
+				"text": "you ",
+				"start": 0.54,
+				"end": 0.64,
+				"index": 162
+			},
+			{
+				"text": "know ",
+				"start": 0.68,
+				"end": 0.86,
+				"index": 163
+			},
+			{
+				"text": "he ",
+				"start": 0.98,
+				"end": 1.22,
+				"index": 164
+			},
+			{
+				"text": "keep ",
+				"start": 1.26,
+				"end": 1.42,
+				"index": 165
+			},
+			{
+				"text": "a ",
+				"start": 1.48,
+				"end": 1.58,
+				"index": 166
+			},
+			{
+				"text": "big ",
+				"start": 1.62,
+				"end": 2.08,
+				"index": 167
+			},
+			{
+				"text": "strap",
+				"start": 2.1,
+				"end": 2.2,
+				"index": 168
+			}
+		],
+		"start": 48.12,
+		"end": 50.32
+	},
+	{
+		"words": [
+			{
+				"text": "Keep ",
+				"start": 0,
+				"end": 0.16,
+				"index": 169
+			},
+			{
+				"text": "on ",
+				"start": 0.24,
+				"end": 0.6,
+				"index": 170
+			},
+			{
+				"text": "sayin' ",
+				"start": 0.62,
+				"end": 0.76,
+				"index": 171
+			},
+			{
+				"text": "MJ ",
+				"start": 0.9,
+				"end": 0.94,
+				"index": 172
+			},
+			{
+				"text": "better ",
+				"start": 0.96,
+				"end": 1.2,
+				"index": 173
+			},
+			{
+				"text": "and ",
+				"start": 1.28,
+				"end": 1.36,
+				"index": 174
+			},
+			{
+				"text": "it's ",
+				"start": 1.42,
+				"end": 1.52,
+				"index": 175
+			},
+			{
+				"text": "all ",
+				"start": 1.64,
+				"end": 1.76,
+				"index": 176
+			},
+			{
+				"text": "cap",
+				"start": 1.8,
+				"end": 2.52,
+				"index": 177
+			}
+		],
+		"start": 50.71,
+		"end": 53.23
+	},
+	{
+		"words": [
+			{
+				"text": "There's ",
+				"start": 0,
+				"end": 0.16,
+				"index": 178
+			},
+			{
+				"text": "no ",
+				"start": 0.18,
+				"end": 0.3,
+				"index": 179
+			},
+			{
+				"text": "place ",
+				"start": 0.34,
+				"end": 0.6,
+				"index": 180
+			},
+			{
+				"text": "to ",
+				"start": 0.64,
+				"end": 0.76,
+				"index": 181
+			},
+			{
+				"text": "the ",
+				"start": 0.8,
+				"end": 0.86,
+				"index": 182
+			},
+			{
+				"text": "king, ",
+				"start": 0.94,
 				"end": 1.26,
 				"index": 183
 			},
 			{
-				"text": "fuck ",
-				"start": 1.26,
-				"end": 1.5,
+				"text": "y'all ",
+				"start": 1.32,
+				"end": 1.44,
 				"index": 184
 			},
 			{
-				"text": "up, ",
-				"start": 1.5,
-				"end": 1.84,
+				"text": "just ",
+				"start": 1.46,
+				"end": 1.58,
 				"index": 185
 			},
 			{
-				"text": "tell ",
-				"start": 1.9,
-				"end": 2.1,
+				"text": "be ",
+				"start": 1.62,
+				"end": 1.76,
 				"index": 186
 			},
 			{
-				"text": "your ",
-				"start": 2.1,
-				"end": 2.4,
+				"text": "mad ",
+				"start": 1.84,
+				"end": 2.3,
 				"index": 187
 			},
 			{
-				"text": "friend ",
-				"start": 2.4,
-				"end": 2.72,
+				"text": "MJ, ",
+				"start": 2.66,
+				"end": 2.96,
 				"index": 188
-			},
-			{
-				"text": "Dennis, ",
-				"start": 2.72,
-				"end": 3.16,
-				"index": 189
-			},
-			{
-				"text": "shut ",
-				"start": 3.32,
-				"end": 3.7,
-				"index": 190
-			},
-			{
-				"text": "the ",
-				"start": 3.7,
-				"end": 3.86,
-				"index": 191
-			},
-			{
-				"text": "fuck ",
-				"start": 3.86,
-				"end": 4.08,
-				"index": 192
-			},
-			{
-				"text": "up, ",
-				"start": 4.08,
-				"end": 4.48,
-				"index": 193
-			},
-			{
-				"text": "ayy",
-				"start": 4.7,
-				"end": 4.76,
-				"index": 194
-			}
-		],
-		"start": 55.72,
-		"end": 60.48
-	},
-	{
-		"words": [
-			{
-				"text": "CP3, shut the fuck up, tell your friend ",
-				"start": 0,
-				"end": 0.58,
-				"index": 195
-			},
-			{
-				"text": "Dennis, shut the fuck up, ayy, CP3, shut the fuck up, tell your friend Dennis, shut the fuck up, ayy, CP3, shut the fuck up, tell your friend Dennis, shut the fuck up, ayy, CP3, shut the fuck up, tell your friend Dennis, shut the fuck up, ",
-				"start": 0.58,
-				"end": 61.74,
-				"index": 196
-			},
-			{
-				"text": "tell ",
-				"start": 1.26,
-				"end": 1.94,
-				"index": 197
-			},
-			{
-				"text": "your ",
-				"start": 1.94,
-				"end": 2.6,
-				"index": 198
-			},
-			{
-				"text": "friend ",
-				"start": 2.6,
-				"end": 3,
-				"index": 199
-			},
-			{
-				"text": "Katie, ",
-				"start": 3,
-				"end": 3.34,
-				"index": 200
 			},
 			{
 				"text": "shut ",
 				"start": 3.52,
-				"end": 3.88,
-				"index": 201
+				"end": 3.7,
+				"index": 189
 			},
 			{
 				"text": "the ",
-				"start": 3.88,
-				"end": 4.1,
-				"index": 202
+				"start": 3.73,
+				"end": 3.83,
+				"index": 190
 			},
 			{
 				"text": "fuck ",
-				"start": 4.1,
-				"end": 4.34,
-				"index": 203
+				"start": 3.85,
+				"end": 4.15,
+				"index": 191
 			},
 			{
-				"text": "up, ",
-				"start": 4.34,
-				"end": 4.72,
-				"index": 204
-			},
-			{
-				"text": "ayy",
-				"start": 4.72,
-				"end": 4.92,
-				"index": 205
+				"text": "up",
+				"start": 4.31,
+				"end": 4.47,
+				"index": 192
 			}
 		],
-		"start": 60.58,
-		"end": 122.32
+		"start": 53.25,
+		"end": 57.72
+	},
+	{
+		"words": [
+			{
+				"text": "Tell ",
+				"start": 0,
+				"end": 0.3,
+				"index": 193
+			},
+			{
+				"text": "your ",
+				"start": 0.34,
+				"end": 0.56,
+				"index": 194
+			},
+			{
+				"text": "friend ",
+				"start": 0.64,
+				"end": 0.92,
+				"index": 195
+			},
+			{
+				"text": "Dennis, ",
+				"start": 0.96,
+				"end": 1.32,
+				"index": 196
+			},
+			{
+				"text": "shut ",
+				"start": 1.62,
+				"end": 1.8,
+				"index": 197
+			},
+			{
+				"text": "the ",
+				"start": 1.82,
+				"end": 1.9,
+				"index": 198
+			},
+			{
+				"text": "fuck ",
+				"start": 1.94,
+				"end": 2.2,
+				"index": 199
+			},
+			{
+				"text": "up",
+				"start": 2.36,
+				"end": 2.4,
+				"index": 200
+			}
+		],
+		"start": 57.76,
+		"end": 60.16
 	}
 ]

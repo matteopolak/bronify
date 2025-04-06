@@ -43,7 +43,6 @@ function buildIndex(): InvertedIndex {
 
 	for (const trackId of trackDirs) {
 		const track = trackData.find((t: { id: string }) => t.id === trackId);
-		console.log(track, trackId);
 		const lyricsPath = join(TRACKS_DIR, trackId, 'lyrics.json');
 		if (!existsSync(lyricsPath)) continue;
 
@@ -80,8 +79,6 @@ function writeIndexToFile(
 	for (const [word, songIds] of index.entries()) {
 		output[word] = [...songIds];
 	}
-
-	console.log(output);
 
 	writeFileSync(outPath, JSON.stringify(output), 'utf-8');
 	console.log(`✔ Inverted index written to ${outPath}`);
