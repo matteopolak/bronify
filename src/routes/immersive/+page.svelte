@@ -1,5 +1,6 @@
 <script lang="ts">
 	import Artists from '$lib/components/artists.svelte';
+	import Karaoke from '$lib/components/buttons/karaoke.svelte';
 	import ControlsImmersive from '$lib/components/controls-immersive.svelte';
 	import Lyrics from '$lib/components/lyrics.svelte';
 	import { trackData, trackThumbnail } from '$lib/get';
@@ -31,12 +32,16 @@
 
 	<img src={url} class="z-20 w-full rounded-lg" alt="Album Art" />
 
-	<div class="relative z-10 overflow-visible pb-0">
-		<h1 class="text-3xl font-bold text-white">
-			{player.track.title}
-		</h1>
+	<div class="relative z-10 flex flex-row overflow-visible pb-0">
+		<div>
+			<h1 class="text-3xl font-bold text-white">
+				{player.track.title}
+			</h1>
 
-		<Artists artistIds={player.track.artists} />
+			<Artists artistIds={player.track.artists} />
+		</div>
+
+		<Karaoke size="1.7em" class="ml-auto self-start" />
 
 		<div
 			class="pointer-events-none absolute -bottom-7 left-0 -z-10 h-8 w-full bg-red-400 sm:hidden"

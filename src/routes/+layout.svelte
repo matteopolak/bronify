@@ -365,7 +365,7 @@
 	{/if}
 
 	<Sidebar id="sidebar">
-		{#if player.lyrics && settings.lyrics === 'on'}
+		{#if player.lyrics && settings.lyrics === 'on' && $page.url.pathname !== '/immersive'}
 			<div
 				class="flex w-full overflow-y-auto rounded-lg py-8 {DYNAMIC_HEIGHT_CLASS} sm:pb-0 md:place-content-center"
 				style="background-color: {player.track.colour}"

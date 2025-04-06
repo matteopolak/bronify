@@ -6,6 +6,7 @@
 	import { formatSeconds } from '$lib/util';
 	import { player, settings } from '$lib/player.svelte';
 	import {
+		AudioLines,
 		MicVocal,
 		Pause,
 		Play,
@@ -20,6 +21,7 @@
 	} from '@lucide/svelte';
 	import ProgressBar from './progress-bar.svelte';
 	import Artists from './artists.svelte';
+	import Karaoke from './buttons/karaoke.svelte';
 
 	let {
 		maxVolume = 0.5
@@ -242,6 +244,8 @@
 				{/if}
 			</button>
 
+			<Karaoke />
+
 			<button
 				onclick={() => (settings.lyrics = settings.lyrics === 'off' ? 'on' : 'off')}
 				class="absolute right-4 bottom-[1.2rem] cursor-pointer self-end text-left transition-all duration-100 ease-in-out md:bottom-[1.9rem] lg:hidden"
@@ -266,6 +270,8 @@
 		</div>
 	</div>
 	<div class="lg:navbar-end hidden gap-5 pr-4">
+		<Karaoke />
+
 		<button
 			onclick={() => (settings.lyrics = settings.lyrics === 'off' ? 'on' : 'off')}
 			class="cursor-pointer text-left transition-all duration-100 ease-in-out"

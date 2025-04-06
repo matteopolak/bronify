@@ -93,6 +93,14 @@ const TRACK_AUDIO: Record<string, { default: string }> = import.meta.glob(
 	}
 );
 
+const TRACK_KARAOKE: Record<string, { default: string }> = import.meta.glob(
+	'/src/lib/content/tracks/*/karaoke.mp3',
+	{
+		eager: true,
+		query: '?url'
+	}
+);
+
 const artistMap: Map<string, Artist> = new Map();
 
 for (const artist of artistData) {
@@ -126,7 +134,6 @@ export function getArtist(id: string): Artist {
 }
 
 export function getAlbum(id: string): Album {
-	console.log('Album ID:', id);
 	return albumMap.get(id)!;
 }
 
@@ -181,6 +188,12 @@ export function trackLyrics(id: string): Promise<Lyrics> | undefined {
 export function trackAudio(id: string): string {
 	const value = TRACK_AUDIO[`/src/lib/content/tracks/${id}/audio.mp3`];
 	if (!value) console.error(`Track audio not found for ${id}`);
+	return value?.default ?? '';
+}
+
+export function trackKaraoke(id: string): string {
+	const value = TRACK_KARAOKE[`/src/lib/content/tracks/${id}/karaoke.mp3`];
+	if (!value) console.error(`Track karaoke not found for ${id}`);
 	return value?.default ?? '';
 }
 

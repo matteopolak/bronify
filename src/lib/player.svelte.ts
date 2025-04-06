@@ -1,9 +1,10 @@
-import { trackData } from './get';
+import { trackData, trackKaraoke } from './get';
 
 import { trackAudio, trackLyrics } from './get';
 import type { Lyrics, Track, TrackSettings } from './types';
 import { browser } from '$app/environment';
 import { randomElement } from './util';
+import { untrack } from 'svelte';
 
 const LYRICS_PLACEHOLDER: Lyrics = [
 	{
@@ -48,6 +49,7 @@ export class Player {
 	currentSeconds = $state(0);
 	volume = $state(1);
 	paused = $state(true);
+	karaoke = $state(false);
 
 	lyrics: Lyrics | null = $state(null);
 
@@ -86,12 +88,30 @@ export class Player {
 			localStorage.setItem('volume', this.volume.toString());
 		});
 
+		$effect(() => {
+			const _ = this.karaoke;
+
+			untrack(() => {
+				const oldTime = this.audio.currentTime;
+				const paused = this.audio.paused;
+
+				this.audio.src = this.karaoke ? trackKaraoke(this.track.id) : trackAudio(this.track.id);
+				this.audio.currentTime = oldTime;
+
+				if (paused) {
+					this.audio.pause();
+				} else {
+					this.audio.play();
+				}
+			});
+		});
+
 		return this.load(this.track);
 	}
 
 	// load from a URL
 	async load(track: Track) {
-		const src = trackAudio(track.id);
+		const src = this.karaoke ? trackKaraoke(track.id) : trackAudio(track.id);
 
 		console.info(`Loading track ${track.id} from ${src}`);
 
