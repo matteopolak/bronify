@@ -50,49 +50,43 @@
 	{
 		"words": [
 			{
-				"text": "Got",
+				"text": "Got ",
 				"start": 0,
 				"end": 0.42,
 				"index": 7
-			}
-		],
-		"start": 1.56,
-		"end": 1.98
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "LeKing ",
-				"start": 0,
-				"end": 0.3,
+				"start": 0.42,
+				"end": 0.72,
 				"index": 8
 			},
 			{
 				"text": "up ",
-				"start": 0.3,
-				"end": 0.64,
+				"start": 0.72,
+				"end": 1.06,
 				"index": 9
 			},
 			{
 				"text": "in ",
-				"start": 0.64,
-				"end": 0.82,
+				"start": 1.06,
+				"end": 1.24,
 				"index": 10
 			},
 			{
 				"text": "my ",
-				"start": 0.82,
-				"end": 1.04,
+				"start": 1.24,
+				"end": 1.46,
 				"index": 11
 			},
 			{
 				"text": "head",
-				"start": 1.04,
-				"end": 1.34,
+				"start": 1.46,
+				"end": 1.76,
 				"index": 12
 			}
 		],
-		"start": 1.98,
+		"start": 1.56,
 		"end": 3.32
 	},
 	{
@@ -212,43 +206,37 @@
 				"index": 29
 			},
 			{
-				"text": "far",
+				"text": "far ",
 				"start": 1.44,
 				"end": 1.64,
 				"index": 30
-			}
-		],
-		"start": 7.32,
-		"end": 8.96
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "LeRadio ",
-				"start": 0,
-				"end": 0.22,
+				"start": 1.84,
+				"end": 2.06,
 				"index": 31
 			},
 			{
 				"text": "in ",
-				"start": 0.78,
-				"end": 1.28,
+				"start": 2.62,
+				"end": 3.12,
 				"index": 32
 			},
 			{
 				"text": "the ",
-				"start": 1.28,
-				"end": 1.46,
+				"start": 3.12,
+				"end": 3.3,
 				"index": 33
 			},
 			{
 				"text": "car",
-				"start": 1.46,
-				"end": 1.7,
+				"start": 3.3,
+				"end": 3.54,
 				"index": 34
 			}
 		],
-		"start": 9.16,
+		"start": 7.32,
 		"end": 10.86
 	},
 	{

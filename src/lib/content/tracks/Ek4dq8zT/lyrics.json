@@ -50,7 +50,7 @@
 				"index": 7
 			},
 			{
-				"text": "can ",
+				"text": "could ",
 				"start": 2.76,
 				"end": 2.96,
 				"index": 8
@@ -122,7 +122,7 @@
 				"index": 19
 			},
 			{
-				"text": "a ",
+				"text": "the ",
 				"start": 6.24,
 				"end": 6.26,
 				"index": 20
@@ -158,7 +158,7 @@
 				"index": 24
 			},
 			{
-				"text": "out ",
+				"text": "off ",
 				"start": 0.86,
 				"end": 1.08,
 				"index": 25
@@ -278,12 +278,6 @@
 				"index": 43
 			},
 			{
-				"text": "you ",
-				"start": 1.18,
-				"end": 1.6,
-				"index": 44
-			},
-			{
 				"text": "now, ",
 				"start": 1.6,
 				"end": 2.22,
@@ -368,13 +362,13 @@
 				"index": 57
 			},
 			{
-				"text": "out ",
+				"text": "all ",
 				"start": 1.08,
 				"end": 1.26,
 				"index": 58
 			},
 			{
-				"text": "there ",
+				"text": "they ",
 				"start": 1.26,
 				"end": 1.38,
 				"index": 59
@@ -386,7 +380,7 @@
 				"index": 60
 			},
 			{
-				"text": "us ",
+				"text": "is ",
 				"start": 1.68,
 				"end": 1.82,
 				"index": 61

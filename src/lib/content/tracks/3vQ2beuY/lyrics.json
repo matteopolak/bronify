@@ -248,43 +248,37 @@
 				"index": 36
 			},
 			{
-				"text": "to",
+				"text": "to ",
 				"start": 1.24,
 				"end": 1.54,
 				"index": 37
-			}
-		],
-		"start": 18.74,
-		"end": 20.28
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "LeRadio ",
-				"start": 0,
-				"end": 0.88,
+				"start": 1.54,
+				"end": 2.42,
 				"index": 38
 			},
 			{
 				"text": "this ",
-				"start": 0.88,
-				"end": 1.38,
+				"start": 2.42,
+				"end": 2.92,
 				"index": 39
 			},
 			{
 				"text": "whole ",
-				"start": 1.38,
-				"end": 1.7,
+				"start": 2.92,
+				"end": 3.24,
 				"index": 40
 			},
 			{
 				"text": "time",
-				"start": 1.7,
-				"end": 2.26,
+				"start": 3.24,
+				"end": 3.8,
 				"index": 41
 			}
 		],
-		"start": 20.28,
+		"start": 18.74,
 		"end": 22.54
 	},
 	{

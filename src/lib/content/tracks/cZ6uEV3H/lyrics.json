@@ -428,31 +428,25 @@
 				"index": 64
 			},
 			{
-				"text": "will",
+				"text": "will ",
 				"start": 0.92,
 				"end": 1.16,
 				"index": 65
-			}
-		],
-		"start": 33.37,
-		"end": 34.53
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "Bernie ",
-				"start": 0,
-				"end": 0.5,
+				"start": 1.16,
+				"end": 1.66,
 				"index": 66
 			},
 			{
 				"text": "be?",
-				"start": 0.5,
-				"end": 0.76,
+				"start": 1.66,
+				"end": 1.92,
 				"index": 67
 			}
 		],
-		"start": 34.53,
+		"start": 33.37,
 		"end": 35.29
 	},
 	{
