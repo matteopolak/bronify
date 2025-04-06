@@ -95,6 +95,7 @@
 		if (activeIndex === lastActiveIndex) {
 			return;
 		}
+
 		lastActiveIndex = activeIndex;
 		const activeElement = lyricElements[activeIndex] ?? lyricElements[0];
 
@@ -119,16 +120,18 @@
 <!-- Scrollable lyrics container -->
 <div
 	class="hide-scrollbar flex w-full max-w-2xl flex-col items-start space-y-2 overflow-y-visible text-2xl font-bold text-white/50 sm:space-y-4 sm:px-4 sm:text-4xl {klass}"
+	class:text-3xl={player.karaoke}
 >
 	<!-- 50vh of padding on top and bottom -->
 	<div class="p-[25vh]"></div>
 
 	{#each lyrics as lyric (lyric.start)}
-		<span class="line">
+		<span class="line" class:leading-normal={player.karaoke}>
 			{#each lyric.words as word (word.start)}
 				<button
 					class:active={word.index <= activeIndex}
 					class="word"
+					class:leading-9={player.karaoke}
 					bind:this={lyricElements[word.index]}
 					onclick={() => onLyricClick(word.start - OFFSET + lyric.start)}
 				>

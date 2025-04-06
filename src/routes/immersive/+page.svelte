@@ -6,12 +6,30 @@
 	import { trackData, trackThumbnail } from '$lib/get';
 	import { player } from '$lib/player.svelte';
 	import { ChevronDown } from '@lucide/svelte';
+	import { onMount } from 'svelte';
 
 	let url = $derived(trackThumbnail(player.track.id));
 
 	$effect(() => {
 		if (player.queue.length === 0) {
 			player.queue = trackData;
+		}
+	});
+
+	let thumbnail: HTMLImageElement = $state()!;
+	let height = $state(0);
+
+	onMount(() => {
+		height = thumbnail.clientHeight;
+	});
+
+	$effect(() => {
+		if (!height) return;
+
+		if (!player.karaoke) {
+			thumbnail.style.height = `${height}px`;
+		} else {
+			thumbnail.style.height = '0px';
 		}
 	});
 </script>
@@ -30,7 +48,12 @@
 
 	<span class="pt-3 pb-6 text-center text-sm font-bold"> Now Playing </span>
 
-	<img src={url} class="z-20 w-full rounded-lg" alt="Album Art" />
+	<img
+		bind:this={thumbnail}
+		src={url}
+		class="z-20 w-full rounded-lg object-cover transition-all duration-200"
+		alt="Album Art"
+	/>
 
 	<div class="relative z-10 flex flex-row overflow-visible pb-0">
 		<div>
@@ -41,7 +64,7 @@
 			<Artists artistIds={player.track.artists} />
 		</div>
 
-		<Karaoke size="1.7em" class="ml-auto self-start" />
+		<Karaoke size="1.7em" class="mt-2 ml-auto self-start" />
 
 		<div
 			class="pointer-events-none absolute -bottom-7 left-0 -z-10 h-8 w-full bg-red-400 sm:hidden"
@@ -59,9 +82,9 @@
 		{/if}
 	</div>
 
-	<div class="relative z-10">
+	<div class="relative z-10 sm:hidden">
 		<div
-			class="pointer-events-none absolute -top-8 left-0 -z-10 h-8 w-full sm:hidden"
+			class="pointer-events-none absolute -top-8 left-0 -z-10 h-8 w-full"
 			style="background: linear-gradient(0deg, {player.track.colour} 80%, rgba(0, 0, 0, 0) 100%);"
 		></div>
 
