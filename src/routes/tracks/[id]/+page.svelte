@@ -1,12 +1,11 @@
 <script lang="ts">
 	import { page } from '$app/state';
 	import LyricsComponent from '$lib/components/lyrics.svelte';
-	import { trackData, getTrack, trackThumbnail } from '$lib/get';
+	import { trackData, getTrack } from '$lib/get';
 	import { player, resolveLyrics } from '$lib/player.svelte';
 	import type { Lyrics } from '$lib/types';
 
 	let track = $derived(getTrack(page.params.id));
-	let thumbnail = $derived(trackThumbnail(track.id));
 	let lyrics: Lyrics | null = $state(null);
 
 	$effect(() => {
