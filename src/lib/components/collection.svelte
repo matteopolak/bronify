@@ -39,11 +39,6 @@
 		<p class="text-md text-neutral-300">
 			{content.subtitle}
 
-			{#if artist?.tiktok}
-				&bull;
-				<a href="https://tiktok.com/@{artist.tiktok}" class="hover:underline"> TikTok </a>
-			{/if}
-
 			{#if artist?.soundcloud}
 				&bull;
 				<a href="https://soundcloud.com/{artist.soundcloud}" class="hover:underline">
@@ -56,6 +51,16 @@
 				<a href="https://open.spotify.com/artist/{artist.spotify}" class="hover:underline">
 					Spotify
 				</a>
+			{/if}
+
+			{#if artist?.tiktok}
+				&bull;
+				<a href="https://tiktok.com/@{artist.tiktok}" class="hover:underline"> TikTok </a>
+			{/if}
+
+			{#if artist?.instagram}
+				&bull;
+				<a href="https://instagram.com/{artist.instagram}" class="hover:underline"> Instagram </a>
 			{/if}
 		</p>
 	</div>

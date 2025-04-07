@@ -146,91 +146,85 @@
 				"index": 21
 			},
 			{
-				"text": "bring",
+				"text": "bring ",
 				"start": 1.2,
 				"end": 1.52,
 				"index": 22
-			}
-		],
-		"start": 9.29,
-		"end": 10.81
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "God ",
-				"start": 0,
-				"end": 0.14,
+				"start": 1.61,
+				"end": 1.75,
 				"index": 23
 			},
 			{
 				"text": "told ",
-				"start": 0.16,
-				"end": 0.34,
+				"start": 1.77,
+				"end": 1.95,
 				"index": 24
 			},
 			{
 				"text": "her ",
-				"start": 0.36,
-				"end": 0.44,
+				"start": 1.97,
+				"end": 2.05,
 				"index": 25
 			},
 			{
 				"text": "that ",
-				"start": 0.48,
-				"end": 0.58,
+				"start": 2.09,
+				"end": 2.19,
 				"index": 26
 			},
 			{
 				"text": "he ",
-				"start": 0.6,
-				"end": 0.72,
+				"start": 2.21,
+				"end": 2.33,
 				"index": 27
 			},
 			{
 				"text": "finna ",
-				"start": 0.74,
-				"end": 1,
+				"start": 2.35,
+				"end": 2.61,
 				"index": 28
 			},
 			{
 				"text": "bring ",
-				"start": 1.04,
-				"end": 1.32,
+				"start": 2.65,
+				"end": 2.93,
 				"index": 29
 			},
 			{
 				"text": "Bron ",
-				"start": 1.36,
-				"end": 1.54,
+				"start": 2.97,
+				"end": 3.15,
 				"index": 30
 			},
 			{
 				"text": "into ",
-				"start": 1.58,
-				"end": 1.79,
+				"start": 3.19,
+				"end": 3.4,
 				"index": 31
 			},
 			{
 				"text": "the ",
-				"start": 1.8,
-				"end": 1.87,
+				"start": 3.41,
+				"end": 3.48,
 				"index": 32
 			},
 			{
 				"text": "team, ",
-				"start": 1.91,
-				"end": 2.51,
+				"start": 3.52,
+				"end": 4.12,
 				"index": 33
 			},
 			{
 				"text": "yeah",
-				"start": 2.53,
-				"end": 2.85,
+				"start": 4.14,
+				"end": 4.46,
 				"index": 34
 			}
 		],
-		"start": 10.9,
+		"start": 9.29,
 		"end": 13.75
 	},
 	{

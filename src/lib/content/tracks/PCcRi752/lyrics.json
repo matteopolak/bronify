@@ -284,79 +284,73 @@
 				"index": 42
 			},
 			{
-				"text": "dollars",
+				"text": "dollars ",
 				"start": 11.92,
 				"end": 12.14,
 				"index": 43
-			}
-		],
-		"start": 25.07,
-		"end": 37.21
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "God ",
-				"start": 0,
-				"end": 0.28,
+				"start": 12.36,
+				"end": 12.64,
 				"index": 44
 			},
 			{
 				"text": "damn ",
-				"start": 0.3,
-				"end": 0.46,
+				"start": 12.66,
+				"end": 12.82,
 				"index": 45
 			},
 			{
 				"text": "he ",
-				"start": 0.5,
-				"end": 0.72,
+				"start": 12.86,
+				"end": 13.08,
 				"index": 46
 			},
 			{
 				"text": "is ",
-				"start": 0.74,
-				"end": 0.8,
+				"start": 13.1,
+				"end": 13.16,
 				"index": 47
 			},
 			{
 				"text": "amazing, ",
-				"start": 0.88,
-				"end": 1.42,
+				"start": 13.24,
+				"end": 13.78,
 				"index": 48
 			},
 			{
 				"text": "damn ",
-				"start": 1.62,
-				"end": 1.94,
+				"start": 13.98,
+				"end": 14.3,
 				"index": 49
 			},
 			{
 				"text": "he ",
-				"start": 1.98,
-				"end": 2.16,
+				"start": 14.34,
+				"end": 14.52,
 				"index": 50
 			},
 			{
 				"text": "in ",
-				"start": 2.24,
-				"end": 2.34,
+				"start": 14.6,
+				"end": 14.7,
 				"index": 51
 			},
 			{
 				"text": "the ",
-				"start": 2.4,
-				"end": 2.52,
+				"start": 14.76,
+				"end": 14.88,
 				"index": 52
 			},
 			{
 				"text": "matrix",
-				"start": 2.54,
-				"end": 2.87,
+				"start": 14.9,
+				"end": 15.23,
 				"index": 53
 			}
 		],
-		"start": 37.43,
+		"start": 25.07,
 		"end": 40.3
 	},
 	{

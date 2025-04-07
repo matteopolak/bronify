@@ -284,55 +284,49 @@
 				"index": 40
 			},
 			{
-				"text": "my",
+				"text": "my ",
 				"start": 0.14,
 				"end": 0.3,
 				"index": 41
-			}
-		],
-		"start": 12.58,
-		"end": 12.88
-	},
-	{
-		"words": [
+			},
 			{
 				"text": "God, ",
-				"start": 0,
-				"end": 0.24,
+				"start": 0.38,
+				"end": 0.62,
 				"index": 42
 			},
 			{
 				"text": "LeBron ",
-				"start": 0.3,
-				"end": 0.66,
+				"start": 0.68,
+				"end": 1.04,
 				"index": 43
 			},
 			{
 				"text": "has ",
-				"start": 0.7,
-				"end": 0.82,
+				"start": 1.08,
+				"end": 1.2,
 				"index": 44
 			},
 			{
 				"text": "so ",
-				"start": 0.86,
-				"end": 1.04,
+				"start": 1.24,
+				"end": 1.42,
 				"index": 45
 			},
 			{
 				"text": "much ",
-				"start": 1.08,
-				"end": 1.24,
+				"start": 1.46,
+				"end": 1.62,
 				"index": 46
 			},
 			{
 				"text": "class",
-				"start": 1.28,
-				"end": 1.58,
+				"start": 1.66,
+				"end": 1.96,
 				"index": 47
 			}
 		],
-		"start": 12.96,
+		"start": 12.58,
 		"end": 14.54
 	},
 	{

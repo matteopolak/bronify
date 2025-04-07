@@ -2,6 +2,7 @@ import crypto from 'node:crypto';
 import fs from 'node:fs';
 import ffmpeg from 'fluent-ffmpeg';
 import { execFileSync } from 'node:child_process';
+import path from 'node:path';
 
 let input = process.argv[2];
 
@@ -22,6 +23,15 @@ async function main() {
 		input = output;
 	}
 
+	try {
+		fs.unlinkSync('normalized.mp3');
+	} catch (err) {
+		// file does not exist
+	}
+
+	// get absolute path
+	input = path.resolve(input);
+
 	execFileSync(
 		'uv',
 		[
@@ -29,7 +39,7 @@ async function main() {
 			'ffmpeg-normalize',
 			input,
 			'-o',
-			'normalized.mp3',
+			'../normalized.mp3',
 			'-c:a',
 			'libmp3lame',
 			'-b:a',

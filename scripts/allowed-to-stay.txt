@@ -237,7 +237,7 @@
 -wouldn
 -hooper
 -ot
--god
++god
 -heat
 -got
 -better
@@ -1021,3 +1021,5 @@
 +cranberry
 +sprite
 -hairline
+-begging
+-carey
