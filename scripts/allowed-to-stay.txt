@@ -1017,3 +1017,7 @@
 -kingsleaf
 -gladers
 -sing
+-whatever
++cranberry
++sprite
+-hairline
