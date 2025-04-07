@@ -174,7 +174,11 @@
 		)
 			return;
 
-		if (from?.url.searchParams.has('track') && !to?.url.searchParams.has('track')) {
+		if (
+			from?.url.searchParams.has('track') &&
+			!to?.url.searchParams.has('track') &&
+			from?.url.hostname === to?.url.hostname
+		) {
 			cancel();
 			goto(to!.url.pathname + `?track=${from.url.searchParams.get('track')}`);
 			return;
