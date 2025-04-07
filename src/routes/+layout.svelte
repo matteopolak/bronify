@@ -234,12 +234,6 @@
 	});
 
 	$effect(() => {
-		if (updated) {
-			window.location.reload();
-		}
-	});
-
-	$effect(() => {
 		document.documentElement.setAttribute('data-sveltekit-reload', updated ? 'on' : 'off');
 	});
 </script>
