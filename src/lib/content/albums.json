@@ -32,7 +32,14 @@
 		"id": "r-and-bron",
 		"title": "R&Bron",
 		"artist": "Bronify",
-		"trackIds": ["1-f2aZaI", "MpYLxWTp", "EK9uKq3P", "s2OiQnp8", "nQE8v0ae", "nE1XNBoO"]
+		"trackIds": [
+			"1-f2aZaI",
+			"MpYLxWTp",
+			"EK9uKq3P",
+			"s2OiQnp8",
+			"nQE8v0ae",
+			"nE1XNBoO"
+		]
 	},
 	{
 		"id": "b-pop",

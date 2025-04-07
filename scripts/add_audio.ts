@@ -1,6 +1,7 @@
 import crypto from 'node:crypto';
 import fs from 'node:fs';
 import ffmpeg from 'fluent-ffmpeg';
+import { execFileSync } from 'node:child_process';
 
 let input = process.argv[2];
 
@@ -20,6 +21,26 @@ async function main() {
 
 		input = output;
 	}
+
+	execFileSync(
+		'uv',
+		[
+			'run',
+			'ffmpeg-normalize',
+			input,
+			'-o',
+			'normalized.mp3',
+			'-c:a',
+			'libmp3lame',
+			'-b:a',
+			'192k'
+		],
+		{
+			cwd: 'scripts'
+		}
+	);
+
+	input = 'normalized.mp3';
 
 	const hash = crypto.createHash('sha256');
 	const audio = fs.readFileSync(input);
