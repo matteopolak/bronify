@@ -296,6 +296,22 @@
 		"colour": "#1B0A12"
 	},
 	{
+		"id": "2_VOzu4x",
+		"artists": [
+			"zIxev3C1"
+		],
+		"title": "Everybron Talks",
+		"durationSeconds": 44,
+		"tags": [
+			"pop",
+			"rock",
+			"country"
+		],
+		"colour": "#2C1010",
+		"index": 291,
+		"createdAt": 1744060551058
+	},
+	{
 		"id": "2Eon-EOK",
 		"title": "LeYamz",
 		"durationSeconds": 53,
@@ -1014,6 +1030,24 @@
 		"colour": "#18090C"
 	},
 	{
+		"id": "AkwsMiQq",
+		"artists": [
+			"Hn2kjHWj"
+		],
+		"title": "Glaze Pain",
+		"durationSeconds": 39,
+		"tags": [
+			"soul",
+			"happy",
+			"tender",
+			"blues",
+			"pop"
+		],
+		"colour": "#3F3650",
+		"index": 292,
+		"createdAt": 1744060551058
+	},
+	{
 		"id": "ap8Qjr-1",
 		"title": "Change The LeGame",
 		"durationSeconds": 77,
@@ -1134,6 +1168,24 @@
 		"colour": "#5D1713"
 	},
 	{
+		"id": "BA7iY9CU",
+		"artists": [
+			"_QoPvKUI"
+		],
+		"title": "Bronny James",
+		"durationSeconds": 100,
+		"tags": [
+			"rap",
+			"hip_hop",
+			"funk",
+			"pop",
+			"blues"
+		],
+		"colour": "#5C4D3B",
+		"index": 293,
+		"createdAt": 1744060551058
+	},
+	{
 		"id": "bBYtEgQE",
 		"title": "LeBillionaire",
 		"durationSeconds": 47,
@@ -1252,6 +1304,25 @@
 			"zIxev3C1"
 		],
 		"colour": "#607B7D"
+	},
+	{
+		"id": "CAko0YOh",
+		"artists": [
+			"sLVzZsIi"
+		],
+		"title": "BronLacy",
+		"durationSeconds": 58,
+		"tags": [
+			"blues",
+			"soul",
+			"reggae",
+			"funk",
+			"tender",
+			"hip_hop"
+		],
+		"colour": "#14081A",
+		"index": 294,
+		"createdAt": 1744060551058
 	},
 	{
 		"id": "CAxCoY01",
@@ -1977,6 +2048,25 @@
 		"colour": "#211114"
 	},
 	{
+		"id": "GXuPkhfP",
+		"artists": [
+			"Jz73xFw2"
+		],
+		"title": "Bronny",
+		"durationSeconds": 49,
+		"tags": [
+			"soul",
+			"funk",
+			"reggae",
+			"blues",
+			"ska",
+			"pop"
+		],
+		"colour": "#1F0D0F",
+		"index": 295,
+		"createdAt": 1744060551058
+	},
+	{
 		"id": "h1N_hNH3",
 		"title": "King LeBron Walking",
 		"durationSeconds": 66,
@@ -2364,6 +2454,21 @@
 			"zIxev3C1"
 		],
 		"colour": "#5C1914"
+	},
+	{
+		"id": "JlVJDJJ3",
+		"artists": [
+			"pbb4YDhW"
+		],
+		"title": "Bron Now",
+		"durationSeconds": 28,
+		"tags": [
+			"tender",
+			"blues"
+		],
+		"colour": "#232325",
+		"index": 296,
+		"createdAt": 1744060551058
 	},
 	{
 		"id": "jrtijl9P",
@@ -3973,6 +4078,25 @@
 			"_InHxL5g"
 		],
 		"colour": "#060307"
+	},
+	{
+		"id": "Tq6QL2C5",
+		"artists": [
+			"Q9rkVp4U"
+		],
+		"title": "LeSorry",
+		"durationSeconds": 59,
+		"tags": [
+			"blues",
+			"reggae",
+			"soul",
+			"tender",
+			"funk",
+			"soundtrack"
+		],
+		"colour": "#655646",
+		"index": 297,
+		"createdAt": 1744060551058
 	},
 	{
 		"id": "Ts5zjdOQ",

@@ -28,7 +28,7 @@
 		"stats": "node --experimental-strip-types scripts/stats.ts",
 		"add-album-art": "node --experimental-strip-types scripts/add_album_art.ts",
 		"pre-build": "node --experimental-strip-types scripts/pre_build.ts && node --experimental-strip-types scripts/lyrics_index.ts && node --experimental-strip-types scripts/karaoke.ts",
-		"sync": "pnpm collect && pnpm lyrics && pnpm tag && pnpm pre-build",
+		"sync": "pnpm collect && pnpm tag && pnpm pre-build && pnpm capitals",
 		"capitals": "node --experimental-strip-types scripts/capitals.ts"
 	},
 	"devDependencies": {

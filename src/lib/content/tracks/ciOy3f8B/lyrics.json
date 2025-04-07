@@ -1148,7 +1148,7 @@
 	{
 		"words": [
 			{
-				"text": "Lebron ",
+				"text": "LeBron ",
 				"start": 0,
 				"end": 0.64,
 				"index": 168
@@ -1328,7 +1328,7 @@
 				"index": 195
 			},
 			{
-				"text": "Lebron, ",
+				"text": "LeBron, ",
 				"start": 0.98,
 				"end": 1.64,
 				"index": 196
@@ -1340,7 +1340,7 @@
 				"index": 197
 			},
 			{
-				"text": "Lebron ",
+				"text": "LeBron ",
 				"start": 2.22,
 				"end": 2.68,
 				"index": 198
@@ -1508,7 +1508,7 @@
 	{
 		"words": [
 			{
-				"text": "Lebron ",
+				"text": "LeBron ",
 				"start": 0,
 				"end": 2.36,
 				"index": 223

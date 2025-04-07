@@ -71,7 +71,8 @@ const wordReplacements = {
 	bronified: 'Bronify',
 	lepron: 'LeBron',
 	bronnie: 'Bronny',
-	lombron: 'LeBron'
+	lombron: 'LeBron',
+	lebron: 'LeBron'
 };
 
 const wordReplacementsRegex = {};

@@ -1,0 +1,338 @@
+[
+	{
+		"words": [
+			{
+				"text": "Fire's ",
+				"start": 0,
+				"end": 0.64,
+				"index": 0
+			},
+			{
+				"text": "still ",
+				"start": 0.68,
+				"end": 1.12,
+				"index": 1
+			},
+			{
+				"text": "burning, ",
+				"start": 1.18,
+				"end": 2.14,
+				"index": 2
+			},
+			{
+				"text": "my ",
+				"start": 2.34,
+				"end": 2.68,
+				"index": 3
+			},
+			{
+				"text": "king ",
+				"start": 2.7,
+				"end": 3.08,
+				"index": 4
+			},
+			{
+				"text": "can't ",
+				"start": 3.12,
+				"end": 3.44,
+				"index": 5
+			},
+			{
+				"text": "fall ",
+				"start": 3.52,
+				"end": 4.1,
+				"index": 6
+			},
+			{
+				"text": "out ",
+				"start": 4.13,
+				"end": 4.25,
+				"index": 7
+			},
+			{
+				"text": "the ",
+				"start": 4.39,
+				"end": 4.71,
+				"index": 8
+			},
+			{
+				"text": "league ",
+				"start": 4.77,
+				"end": 5.15,
+				"index": 9
+			},
+			{
+				"text": "I ",
+				"start": 5.43,
+				"end": 5.55,
+				"index": 10
+			},
+			{
+				"text": "don't ",
+				"start": 5.61,
+				"end": 5.87,
+				"index": 11
+			},
+			{
+				"text": "know ",
+				"start": 5.99,
+				"end": 6.27,
+				"index": 12
+			},
+			{
+				"text": "how ",
+				"start": 6.37,
+				"end": 6.73,
+				"index": 13
+			},
+			{
+				"text": "much ",
+				"start": 6.79,
+				"end": 6.99,
+				"index": 14
+			},
+			{
+				"text": "more, ",
+				"start": 7.13,
+				"end": 7.49,
+				"index": 15
+			},
+			{
+				"text": "but ",
+				"start": 7.55,
+				"end": 7.99,
+				"index": 16
+			},
+			{
+				"text": "I'm ",
+				"start": 8.09,
+				"end": 8.23,
+				"index": 17
+			},
+			{
+				"text": "here ",
+				"start": 8.31,
+				"end": 8.71,
+				"index": 18
+			},
+			{
+				"text": "till ",
+				"start": 8.73,
+				"end": 9.71,
+				"index": 19
+			},
+			{
+				"text": "the ",
+				"start": 9.73,
+				"end": 9.79,
+				"index": 20
+			},
+			{
+				"text": "end",
+				"start": 9.81,
+				"end": 9.93,
+				"index": 21
+			}
+		],
+		"start": 0.66,
+		"end": 10.59
+	},
+	{
+		"words": [
+			{
+				"text": "With ",
+				"start": 0,
+				"end": 0.28,
+				"index": 22
+			},
+			{
+				"text": "the ",
+				"start": 0.4,
+				"end": 0.78,
+				"index": 23
+			},
+			{
+				"text": "Lakers, ",
+				"start": 0.8,
+				"end": 2.14,
+				"index": 24
+			},
+			{
+				"text": "I ",
+				"start": 2.16,
+				"end": 2.3,
+				"index": 25
+			},
+			{
+				"text": "got ",
+				"start": 2.58,
+				"end": 2.68,
+				"index": 26
+			},
+			{
+				"text": "the ",
+				"start": 3,
+				"end": 3.2,
+				"index": 27
+			},
+			{
+				"text": "Lakers ",
+				"start": 3.22,
+				"end": 4,
+				"index": 28
+			},
+			{
+				"text": "in ",
+				"start": 4.11,
+				"end": 4.22,
+				"index": 29
+			},
+			{
+				"text": "five",
+				"start": 4.35,
+				"end": 4.77,
+				"index": 30
+			}
+		],
+		"start": 10.63,
+		"end": 15.39
+	},
+	{
+		"words": [
+			{
+				"text": "Cause ",
+				"start": 0,
+				"end": 0.34,
+				"index": 31
+			},
+			{
+				"text": "my ",
+				"start": 0.4,
+				"end": 0.66,
+				"index": 32
+			},
+			{
+				"text": "glorious ",
+				"start": 0.74,
+				"end": 1.84,
+				"index": 33
+			},
+			{
+				"text": "king ",
+				"start": 1.92,
+				"end": 2.38,
+				"index": 34
+			},
+			{
+				"text": "gets ",
+				"start": 2.5,
+				"end": 2.76,
+				"index": 35
+			},
+			{
+				"text": "the ",
+				"start": 2.78,
+				"end": 3.12,
+				"index": 36
+			},
+			{
+				"text": "win ",
+				"start": 3.2,
+				"end": 3.6,
+				"index": 37
+			},
+			{
+				"text": "every ",
+				"start": 3.89,
+				"end": 4.29,
+				"index": 38
+			},
+			{
+				"text": "time ",
+				"start": 4.35,
+				"end": 4.91,
+				"index": 39
+			},
+			{
+				"text": "LeBron",
+				"start": 5.23,
+				"end": 6.69,
+				"index": 40
+			}
+		],
+		"start": 15.43,
+		"end": 22.22
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron",
+				"start": 0,
+				"end": 1.82,
+				"index": 41
+			}
+		],
+		"start": 23.04,
+		"end": 24.87
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron, ",
+				"start": 0,
+				"end": 1.14,
+				"index": 42
+			},
+			{
+				"text": "LeBron, ",
+				"start": 1.24,
+				"end": 2.36,
+				"index": 43
+			},
+			{
+				"text": "LeBron",
+				"start": 2.46,
+				"end": 3.79,
+				"index": 44
+			}
+		],
+		"start": 25.43,
+		"end": 29.21
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron",
+				"start": 0,
+				"end": 1.51,
+				"index": 45
+			}
+		],
+		"start": 30.07,
+		"end": 31.68
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron",
+				"start": 0,
+				"end": 1.67,
+				"index": 46
+			}
+		],
+		"start": 32.58,
+		"end": 34.35
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron",
+				"start": 0,
+				"end": 3.84,
+				"index": 47
+			}
+		],
+		"start": 35.01,
+		"end": 38.85
+	}
+]

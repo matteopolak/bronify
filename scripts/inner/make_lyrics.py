@@ -68,7 +68,7 @@ if need_demucs:
 
 PROMPT = """\
 LeBron and Luka Don, the NBA's finest
-Watching the NBA on Bronify
+Watching the NBA on Bronify, he's the GOAT
 """
 
 def transcribe_audio(result):

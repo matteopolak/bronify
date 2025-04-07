@@ -1,4 +1,2 @@
-pnpm collect # add new
-
-pnpm lyrics # collect lyrics
-pnpm tag # tag songs
+pnpm sync # add new
+pnpm lyrics # add lyrics
