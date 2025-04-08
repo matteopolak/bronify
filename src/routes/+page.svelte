@@ -153,8 +153,8 @@
 			<div class="p-3">
 				<h1 class="p-2 text-2xl font-bold text-neutral-100">Matching lyrics</h1>
 
-				<Scrollable class="gap-0" childrenCount={tracksLyrics.length}>
-					{#each tracksLyrics as track (track.id)}
+				<Scrollable items={tracksLyrics} key="id">
+					{#snippet item(track)}
 						<div transition:fade={{ duration: ANIMATION_TIME }}>
 							<VerticalCover
 								{track}
@@ -164,7 +164,7 @@
 								}}
 							/>
 						</div>
-					{/each}
+					{/snippet}
 				</Scrollable>
 			</div>
 		{/if}
@@ -173,8 +173,8 @@
 			<div class="p-3">
 				<h1 class="p-2 text-2xl font-semibold text-neutral-100">All tracks</h1>
 
-				<Scrollable class="gap-0" childrenCount={newReleases.length}>
-					{#each tracks as track (track.id)}
+				<Scrollable items={tracks} key="id">
+					{#snippet item(track)}
 						<div transition:fade={{ duration: ANIMATION_TIME }}>
 							<VerticalCover
 								{track}
@@ -184,7 +184,7 @@
 								}}
 							/>
 						</div>
-					{/each}
+					{/snippet}
 				</Scrollable>
 			</div>
 		{/if}
@@ -194,8 +194,8 @@
 			<div class="p-3">
 				<h1 class="p-2 text-2xl font-bold text-neutral-100">Newest releases</h1>
 
-				<Scrollable class="gap-0" childrenCount={newReleases.length}>
-					{#each newReleases as track (track.id)}
+				<Scrollable items={newReleases} key="id">
+					{#snippet item(track)}
 						<div transition:fade={{ duration: ANIMATION_TIME }}>
 							<VerticalCover
 								{track}
@@ -205,7 +205,7 @@
 								}}
 							/>
 						</div>
-					{/each}
+					{/snippet}
 				</Scrollable>
 			</div>
 		{/if}
@@ -215,12 +215,12 @@
 			<div class="p-3">
 				<h1 class="p-2 text-2xl font-semibold text-neutral-100">Featured albums</h1>
 
-				<Scrollable class="gap-0" childrenCount={albums.length}>
-					{#each albums as album (album.id)}
+				<Scrollable items={albums} key="id">
+					{#snippet item(album)}
 						<div transition:fade={{ duration: ANIMATION_TIME }}>
 							<VerticalAlbum {album} />
 						</div>
-					{/each}
+					{/snippet}
 				</Scrollable>
 			</div>
 		{/if}
@@ -228,8 +228,8 @@
 		{#if categories.length}
 			<div class="p-3">
 				<h1 class="p-2 text-2xl font-semibold text-neutral-100">Popular categories</h1>
-				<Scrollable class="gap-1" childrenCount={categories.length}>
-					{#each categories as [key, title] (key)}
+				<Scrollable items={categories} key="0">
+					{#snippet item([key, title])}
 						<div transition:fade={{ duration: ANIMATION_TIME }}>
 							{@render collection({
 								id: key,
@@ -239,7 +239,7 @@
 								type: 'tag'
 							})}
 						</div>
-					{/each}
+					{/snippet}
 				</Scrollable>
 			</div>
 		{/if}
@@ -247,12 +247,12 @@
 		{#if artists.length}
 			<div class="p-3">
 				<h1 class="p-2 text-2xl font-semibold text-neutral-100">Top artists</h1>
-				<Scrollable class="gap-1" childrenCount={artists.length}>
-					{#each artists as artist (artist.id)}
+				<Scrollable items={artists} key="id">
+					{#snippet item(artist)}
 						<div transition:fade={{ duration: ANIMATION_TIME }}>
 							<VerticalArtist {artist} />
 						</div>
-					{/each}
+					{/snippet}
 				</Scrollable>
 			</div>
 		{/if}

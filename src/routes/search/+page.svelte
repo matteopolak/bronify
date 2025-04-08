@@ -56,8 +56,8 @@
 	<div class="p-3">
 		<h1 class="p-2 text-2xl font-bold text-neutral-100">Matching lyrics</h1>
 
-		<Scrollable class="gap-0" childrenCount={tracksLyrics.length}>
-			{#each tracksLyrics as track (track.id)}
+		<Scrollable class="gap-0" items={tracksLyrics} key="id">
+			{#snippet item(track)}
 				<div transition:fade={{ duration: 300 }}>
 					<VerticalCover
 						{track}
@@ -67,7 +67,7 @@
 						}}
 					/>
 				</div>
-			{/each}
+			{/snippet}
 		</Scrollable>
 	</div>
 {/if}

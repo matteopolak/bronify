@@ -1,21 +1,30 @@
-<script lang="ts">
+<script lang="ts" generics="T">
 	import { ArrowLeft, ArrowRight } from '@lucide/svelte';
 	import { type Snippet } from 'svelte';
+	import { VirtualScroll } from './virtual-scroll';
 
 	let {
-		children,
-		childrenCount,
+		items,
+		item,
+		vertical = false,
+		key,
 		class: klass = ''
-	}: { children: Snippet; childrenCount: number; class?: string } = $props();
+	}: {
+		items: T[];
+		item: Snippet<[T]>;
+		vertical?: boolean;
+		key: keyof T & string;
+		class?: string;
+	} = $props();
 
-	let container: HTMLDivElement = $state()!;
+	let scroller: VirtualScroll = $state()!;
 
 	function left() {
-		container.scrollBy({ left: -400, behavior: 'smooth' });
+		scroller.scrollToOffset(scroller.getOffset() - 400);
 	}
 
 	function right() {
-		container.scrollBy({ left: 400, behavior: 'smooth' });
+		scroller.scrollToOffset(scroller.getOffset() + 400);
 	}
 
 	let clientWidth = $state(0);
@@ -26,32 +35,38 @@
 	let canRight = $derived(scrollWidth - clientWidth > scrollLeft + 10);
 
 	$effect(() => {
-		childrenCount;
-		clientWidth;
+		items;
 
-		scrollLeft = container.scrollLeft;
-		scrollWidth = container.scrollWidth;
+		scrollWidth = scroller.getScrollSize();
 	});
 </script>
 
 <div class="relative">
-	<button class="arrow left-1" class:opacity-0={!canLeft} onclick={left}>
-		<ArrowLeft />
-	</button>
-	<div
-		class="flex flex-row flex-nowrap overflow-x-auto {klass}"
-		bind:this={container}
-		bind:clientWidth
-		onscroll={() => {
-			scrollLeft = container.scrollLeft;
-			scrollWidth = container.scrollWidth;
-		}}
-	>
-		{@render children()}
+	{#if !vertical && canLeft}
+		<button class="arrow left-1" onclick={left}>
+			<ArrowLeft />
+		</button>
+	{/if}
+	<div class:v={vertical} class:h={!vertical}>
+		<VirtualScroll
+			data={items}
+			let:data
+			isHorizontal={!vertical}
+			{key}
+			bind:this={scroller}
+			class={klass}
+			on:scroll={(e) => {
+				scrollLeft = e.detail.event.originalTarget.scrollLeft + 500;
+			}}
+		>
+			{@render item(data)}
+		</VirtualScroll>
 	</div>
-	<button class="arrow right-1" class:opacity-0={!canRight} onclick={right}>
-		<ArrowRight />
-	</button>
+	{#if !vertical && canRight}
+		<button class="arrow right-1" onclick={right}>
+			<ArrowRight />
+		</button>
+	{/if}
 </div>
 
 <style>
@@ -59,5 +74,21 @@
 
 	.arrow {
 		@apply bg-base-300/80 hover:bg-base-300 absolute top-1/2 z-10 hidden -translate-y-1/2 cursor-pointer rounded-full p-2 shadow transition-all duration-100 ease-in-out md:block;
+	}
+
+	.h :global(.virtual-scroll-wrapper) {
+		@apply flex flex-row gap-2 scroll-smooth;
+	}
+
+	.h :global(.virtual-scroll-root) {
+		@apply flex flex-row;
+	}
+
+	.v :global(.virtual-scroll-wrapper) {
+		@apply flex flex-col gap-2 scroll-smooth;
+	}
+
+	.v :global(.virtual-scroll-root) {
+		@apply flex flex-col;
 	}
 </style>
