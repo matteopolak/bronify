@@ -1,0 +1,284 @@
+[
+	{
+		"words": [
+			{
+				"text": "La ",
+				"start": 0,
+				"end": 0.2,
+				"index": 0
+			},
+			{
+				"text": "la ",
+				"start": 0.24,
+				"end": 0.38,
+				"index": 1
+			},
+			{
+				"text": "la ",
+				"start": 0.42,
+				"end": 0.6,
+				"index": 2
+			},
+			{
+				"text": "la ",
+				"start": 0.62,
+				"end": 0.8,
+				"index": 3
+			},
+			{
+				"text": "Bron, ",
+				"start": 0.82,
+				"end": 1.64,
+				"index": 4
+			},
+			{
+				"text": "ch-ch-ch-ch-chames",
+				"start": 1.66,
+				"end": 3.15,
+				"index": 5
+			}
+		],
+		"start": 1.92,
+		"end": 5.07
+	},
+	{
+		"words": [
+			{
+				"text": "The ",
+				"start": 0,
+				"end": 0.72,
+				"index": 6
+			},
+			{
+				"text": "NBA, ",
+				"start": 0.74,
+				"end": 1.36,
+				"index": 7
+			},
+			{
+				"text": "he's ",
+				"start": 1.38,
+				"end": 1.54,
+				"index": 8
+			},
+			{
+				"text": "the ",
+				"start": 1.56,
+				"end": 1.68,
+				"index": 9
+			},
+			{
+				"text": "best ",
+				"start": 1.72,
+				"end": 1.92,
+				"index": 10
+			},
+			{
+				"text": "in ",
+				"start": 2.05,
+				"end": 2.13,
+				"index": 11
+			},
+			{
+				"text": "the ",
+				"start": 2.14,
+				"end": 2.29,
+				"index": 12
+			},
+			{
+				"text": "game",
+				"start": 2.3,
+				"end": 2.81,
+				"index": 13
+			}
+		],
+		"start": 5.41,
+		"end": 8.22
+	},
+	{
+		"words": [
+			{
+				"text": "Ooh, ",
+				"start": 0,
+				"end": 0.08,
+				"index": 14
+			},
+			{
+				"text": "watch ",
+				"start": 0.1,
+				"end": 0.28,
+				"index": 15
+			},
+			{
+				"text": "him ",
+				"start": 0.3,
+				"end": 0.4,
+				"index": 16
+			},
+			{
+				"text": "dunk ",
+				"start": 0.44,
+				"end": 0.6,
+				"index": 17
+			},
+			{
+				"text": "it, ",
+				"start": 0.7,
+				"end": 0.8,
+				"index": 18
+			},
+			{
+				"text": "now ",
+				"start": 0.82,
+				"end": 0.98,
+				"index": 19
+			},
+			{
+				"text": "you're ",
+				"start": 1,
+				"end": 1.14,
+				"index": 20
+			},
+			{
+				"text": "screamin' ",
+				"start": 1.16,
+				"end": 1.6,
+				"index": 21
+			},
+			{
+				"text": "his ",
+				"start": 1.64,
+				"end": 1.75,
+				"index": 22
+			},
+			{
+				"text": "name",
+				"start": 1.81,
+				"end": 2.11,
+				"index": 23
+			}
+		],
+		"start": 9,
+		"end": 11.11
+	},
+	{
+		"words": [
+			{
+				"text": "Purple ",
+				"start": 0,
+				"end": 0.26,
+				"index": 24
+			},
+			{
+				"text": "and ",
+				"start": 0.28,
+				"end": 0.36,
+				"index": 25
+			},
+			{
+				"text": "gold ",
+				"start": 0.4,
+				"end": 0.6,
+				"index": 26
+			},
+			{
+				"text": "with ",
+				"start": 0.84,
+				"end": 1.12,
+				"index": 27
+			},
+			{
+				"text": "23 ",
+				"start": 1.16,
+				"end": 1.38,
+				"index": 28
+			},
+			{
+				"text": "on ",
+				"start": 1.5,
+				"end": 1.56,
+				"index": 29
+			},
+			{
+				"text": "his ",
+				"start": 1.62,
+				"end": 1.7,
+				"index": 30
+			},
+			{
+				"text": "back",
+				"start": 1.76,
+				"end": 2.27,
+				"index": 31
+			}
+		],
+		"start": 12.09,
+		"end": 14.36
+	},
+	{
+		"words": [
+			{
+				"text": "Win ",
+				"start": 0,
+				"end": 0.42,
+				"index": 32
+			},
+			{
+				"text": "it ",
+				"start": 0.52,
+				"end": 0.62,
+				"index": 33
+			},
+			{
+				"text": "all ",
+				"start": 0.72,
+				"end": 0.8,
+				"index": 34
+			},
+			{
+				"text": "in ",
+				"start": 0.86,
+				"end": 0.92,
+				"index": 35
+			},
+			{
+				"text": "five, ",
+				"start": 1.04,
+				"end": 1.26,
+				"index": 36
+			},
+			{
+				"text": "yeah, ",
+				"start": 1.28,
+				"end": 1.38,
+				"index": 37
+			},
+			{
+				"text": "it's ",
+				"start": 1.44,
+				"end": 1.52,
+				"index": 38
+			},
+			{
+				"text": "the ",
+				"start": 1.56,
+				"end": 1.68,
+				"index": 39
+			},
+			{
+				"text": "Lakers' ",
+				"start": 1.7,
+				"end": 2.27,
+				"index": 40
+			},
+			{
+				"text": "time",
+				"start": 2.29,
+				"end": 4.51,
+				"index": 41
+			}
+		],
+		"start": 14.59,
+		"end": 19.1
+	}
+]

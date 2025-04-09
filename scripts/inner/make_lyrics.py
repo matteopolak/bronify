@@ -154,7 +154,7 @@ for id in ids:
     else:
         print(f"File {file_path} does not exist")
 
-subprocess.run(["uv", "run", "whisperx", *map(lambda x: f"vocals/{x}.mp3", ids), "--model", "large-v3", "--device", "cuda", "--compute_type", "float16", "--language", "en", "--task", "transcribe", "--output_format", "json", "--output_dir", "transcripts", "--print_progress", "True", "--align_model", "WAV2VEC2_ASR_LARGE_LV60K_960H", "--initial_prompt", PROMPT])
+subprocess.run(["uv", "run", "whisperx", *map(lambda x: f"vocals/{x}.mp3", ids), "--model", "large-v3", "--device", "cuda", "--compute_type", "float16", "--task", "transcribe", "--output_format", "json", "--output_dir", "transcripts", "--print_progress", "True", "--align_model", "WAV2VEC2_ASR_LARGE_LV60K_960H", "--initial_prompt", PROMPT])
 
 # iterate over ids
 for id in ids:

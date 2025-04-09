@@ -7,7 +7,7 @@ export default defineConfig({
 	plugins: [enhancedImages(), tailwindcss(), sveltekit()],
 	server: {
 		watch: {
-			ignored: ['**/scripts/**', '**/ios/**', '**/android/**']
+			ignored: ['**/scripts/**', '**/ios/**', '**/android/**', '**/server/**']
 		}
 	}
 });

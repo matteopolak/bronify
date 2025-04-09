@@ -806,19 +806,25 @@
 				"index": 117
 			},
 			{
-				"text": "la ",
+				"text": "la",
 				"start": 0.88,
 				"end": 1.06,
 				"index": 118
-			},
-			{
-				"text": "Bron",
-				"start": 1.45,
-				"end": 2.61,
-				"index": 119
 			}
 		],
 		"start": 98.26,
+		"end": 99.32
+	},
+	{
+		"words": [
+			{
+				"text": "Bron",
+				"start": 0,
+				"end": 1.16,
+				"index": 119
+			}
+		],
+		"start": 99.71,
 		"end": 100.87
 	},
 	{

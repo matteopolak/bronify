@@ -18,6 +18,24 @@
 		"colour": "#120F10"
 	},
 	{
+		"id": "_ekpdEZ_",
+		"artists": [
+			"sjtQHC3I"
+		],
+		"title": "Differences",
+		"durationSeconds": 50,
+		"tags": [
+			"blues",
+			"soul",
+			"lullaby",
+			"tender",
+			"sad"
+		],
+		"colour": "#251A17",
+		"index": 299,
+		"createdAt": 1744239549300
+	},
+	{
 		"id": "_HlyX0V-",
 		"title": "Luka & Bron",
 		"durationSeconds": 51,
@@ -63,6 +81,24 @@
 			"nRGgvnc2"
 		],
 		"colour": "#363941"
+	},
+	{
+		"id": "-KaZGl94",
+		"artists": [
+			"xw9hMQDJ"
+		],
+		"title": "Hold 'Bron",
+		"durationSeconds": 56,
+		"tags": [
+			"reggae",
+			"hip_hop",
+			"blues",
+			"soul",
+			"funk"
+		],
+		"colour": "#53422C",
+		"index": 300,
+		"createdAt": 1744239549300
 	},
 	{
 		"id": "-LfNcibj",
@@ -385,6 +421,21 @@
 		"colour": "#0F080A"
 	},
 	{
+		"id": "39Cqe-yW",
+		"artists": [
+			"xw9hMQDJ"
+		],
+		"title": "Cora'Bron Sin Cara",
+		"durationSeconds": 59,
+		"tags": [
+			"reggae",
+			"blues"
+		],
+		"colour": "#7A6B63",
+		"index": 301,
+		"createdAt": 1744239549300
+	},
+	{
 		"id": "3lw39d-t",
 		"title": "Bronder Your Spell",
 		"durationSeconds": 39,
@@ -643,6 +694,21 @@
 			"f7x78AAY"
 		],
 		"colour": "#1A1018"
+	},
+	{
+		"id": "7rxmUztP",
+		"artists": [
+			"xw9hMQDJ"
+		],
+		"title": "LEBOMBOCLAAT",
+		"durationSeconds": 68,
+		"tags": [
+			"reggae",
+			"hip_hop"
+		],
+		"colour": "#262D2D",
+		"index": 302,
+		"createdAt": 1744239549300
 	},
 	{
 		"id": "8_bhOOwU",
@@ -2921,6 +2987,24 @@
 		"colour": "#1E1127"
 	},
 	{
+		"id": "mbXiN-sO",
+		"artists": [
+			"Jz73xFw2"
+		],
+		"title": "BronQuake",
+		"durationSeconds": 65,
+		"tags": [
+			"soul",
+			"blues",
+			"reggae",
+			"hip_hop",
+			"funk"
+		],
+		"colour": "#331013",
+		"index": 303,
+		"createdAt": 1744239549300
+	},
+	{
 		"id": "MDpZ3yxJ",
 		"title": "LeBron Never Looked So Good",
 		"durationSeconds": 60,
@@ -3024,6 +3108,22 @@
 			"Gh3mCSZX"
 		],
 		"colour": "#48423F"
+	},
+	{
+		"id": "mpt33wV0",
+		"artists": [
+			"zIxev3C1"
+		],
+		"title": "Bron's Lava Chicken",
+		"durationSeconds": 19,
+		"tags": [
+			"funk",
+			"pop",
+			"blues"
+		],
+		"colour": "#15090B",
+		"index": 304,
+		"createdAt": 1744239549300
 	},
 	{
 		"id": "MpYLxWTp",
@@ -4490,6 +4590,23 @@
 			"i2P4YycH"
 		],
 		"colour": "#0E1417"
+	},
+	{
+		"id": "vxBxAqoW",
+		"artists": [
+			"xw9hMQDJ"
+		],
+		"title": "LeBroncito",
+		"durationSeconds": 89,
+		"tags": [
+			"reggae",
+			"blues",
+			"funk",
+			"hip_hop"
+		],
+		"colour": "#6A5062",
+		"index": 305,
+		"createdAt": 1744239549300
 	},
 	{
 		"id": "vZwO3hOZ",

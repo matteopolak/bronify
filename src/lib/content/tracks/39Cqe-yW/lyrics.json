@@ -1,0 +1,674 @@
+[
+	{
+		"words": [
+			{
+				"text": "Y ",
+				"start": 0,
+				"end": 0.44,
+				"index": 0
+			},
+			{
+				"text": "ya ",
+				"start": 0.46,
+				"end": 0.52,
+				"index": 1
+			},
+			{
+				"text": "me ",
+				"start": 0.6,
+				"end": 0.68,
+				"index": 2
+			},
+			{
+				"text": "contaron ",
+				"start": 0.76,
+				"end": 1.5,
+				"index": 3
+			},
+			{
+				"text": "que ",
+				"start": 1.54,
+				"end": 2.38,
+				"index": 4
+			},
+			{
+				"text": "te ",
+				"start": 2.46,
+				"end": 2.62,
+				"index": 5
+			},
+			{
+				"text": "comparas ",
+				"start": 2.64,
+				"end": 3.46,
+				"index": 6
+			},
+			{
+				"text": "con ",
+				"start": 3.7,
+				"end": 3.91,
+				"index": 7
+			},
+			{
+				"text": "Jordan ",
+				"start": 3.94,
+				"end": 4.51,
+				"index": 8
+			},
+			{
+				"text": "y ",
+				"start": 7.77,
+				"end": 7.91,
+				"index": 9
+			},
+			{
+				"text": "mira ",
+				"start": 7.99,
+				"end": 8.29,
+				"index": 10
+			},
+			{
+				"text": "el ",
+				"start": 8.31,
+				"end": 8.41,
+				"index": 11
+			},
+			{
+				"text": "espejo ",
+				"start": 8.43,
+				"end": 8.99,
+				"index": 12
+			},
+			{
+				"text": "tu ",
+				"start": 9.01,
+				"end": 9.05,
+				"index": 13
+			},
+			{
+				"text": "tienes ",
+				"start": 9.87,
+				"end": 10.35,
+				"index": 14
+			},
+			{
+				"text": "hielo ",
+				"start": 10.51,
+				"end": 10.95,
+				"index": 15
+			},
+			{
+				"text": "en ",
+				"start": 11.13,
+				"end": 11.21,
+				"index": 16
+			},
+			{
+				"text": "tus ",
+				"start": 11.25,
+				"end": 11.45,
+				"index": 17
+			},
+			{
+				"text": "venas ",
+				"start": 11.55,
+				"end": 12.03,
+				"index": 18
+			},
+			{
+				"text": "y ",
+				"start": 12.05,
+				"end": 12.07,
+				"index": 19
+			},
+			{
+				"text": "si ",
+				"start": 14.84,
+				"end": 15.04,
+				"index": 20
+			},
+			{
+				"text": "eres ",
+				"start": 15.5,
+				"end": 15.8,
+				"index": 21
+			},
+			{
+				"text": "cabo ",
+				"start": 15.82,
+				"end": 16.22,
+				"index": 22
+			},
+			{
+				"text": "Lakers ",
+				"start": 16.24,
+				"end": 16.66,
+				"index": 23
+			},
+			{
+				"text": "todo ",
+				"start": 16.74,
+				"end": 17,
+				"index": 24
+			},
+			{
+				"text": "eso ",
+				"start": 17.2,
+				"end": 17.58,
+				"index": 25
+			},
+			{
+				"text": "no ",
+				"start": 17.64,
+				"end": 17.74,
+				"index": 26
+			},
+			{
+				"text": "importa ",
+				"start": 17.82,
+				"end": 18.62,
+				"index": 27
+			},
+			{
+				"text": "a ",
+				"start": 18.64,
+				"end": 18.86,
+				"index": 28
+			},
+			{
+				"text": "mi ",
+				"start": 18.88,
+				"end": 22.22,
+				"index": 29
+			},
+			{
+				"text": "y ",
+				"start": 22.24,
+				"end": 22.32,
+				"index": 30
+			},
+			{
+				"text": "tampoco ",
+				"start": 22.44,
+				"end": 23.28,
+				"index": 31
+			},
+			{
+				"text": "soy ",
+				"start": 23.3,
+				"end": 23.55,
+				"index": 32
+			},
+			{
+				"text": "perfecto ",
+				"start": 23.65,
+				"end": 24.27,
+				"index": 33
+			},
+			{
+				"text": "solo ",
+				"start": 24.29,
+				"end": 24.51,
+				"index": 34
+			},
+			{
+				"text": "se ",
+				"start": 24.57,
+				"end": 24.89,
+				"index": 35
+			},
+			{
+				"text": "que ",
+				"start": 24.91,
+				"end": 25.07,
+				"index": 36
+			},
+			{
+				"text": "yo ",
+				"start": 25.09,
+				"end": 25.15,
+				"index": 37
+			},
+			{
+				"text": "te ",
+				"start": 25.23,
+				"end": 25.45,
+				"index": 38
+			},
+			{
+				"text": "quiero ",
+				"start": 25.47,
+				"end": 26.49,
+				"index": 39
+			},
+			{
+				"text": "asi",
+				"start": 26.63,
+				"end": 27.95,
+				"index": 40
+			}
+		],
+		"start": 0.03,
+		"end": 27.98
+	},
+	{
+		"words": [
+			{
+				"text": "Yo ",
+				"start": 0,
+				"end": 0.42,
+				"index": 41
+			},
+			{
+				"text": "soy ",
+				"start": 0.54,
+				"end": 0.6,
+				"index": 42
+			},
+			{
+				"text": "LeBron, ",
+				"start": 0.62,
+				"end": 1.04,
+				"index": 43
+			},
+			{
+				"text": "tú ",
+				"start": 1.9,
+				"end": 2.02,
+				"index": 44
+			},
+			{
+				"text": "eres ",
+				"start": 2.04,
+				"end": 2.38,
+				"index": 45
+			},
+			{
+				"text": "la ",
+				"start": 2.44,
+				"end": 2.52,
+				"index": 46
+			},
+			{
+				"text": "cabra",
+				"start": 2.6,
+				"end": 3.02,
+				"index": 47
+			}
+		],
+		"start": 29.75,
+		"end": 32.77
+	},
+	{
+		"words": [
+			{
+				"text": "Y ",
+				"start": 0,
+				"end": 0.02,
+				"index": 48
+			},
+			{
+				"text": "te ",
+				"start": 1,
+				"end": 1.12,
+				"index": 49
+			},
+			{
+				"text": "prometo ",
+				"start": 1.14,
+				"end": 1.76,
+				"index": 50
+			},
+			{
+				"text": "que ",
+				"start": 1.92,
+				"end": 2,
+				"index": 51
+			},
+			{
+				"text": "lo ",
+				"start": 2.06,
+				"end": 2.14,
+				"index": 52
+			},
+			{
+				"text": "nuestro ",
+				"start": 2.22,
+				"end": 2.86,
+				"index": 53
+			},
+			{
+				"text": "nunca ",
+				"start": 3.06,
+				"end": 3.16,
+				"index": 54
+			},
+			{
+				"text": "va ",
+				"start": 3.18,
+				"end": 3.32,
+				"index": 55
+			},
+			{
+				"text": "a ",
+				"start": 3.34,
+				"end": 3.36,
+				"index": 56
+			},
+			{
+				"text": "terminar ",
+				"start": 3.68,
+				"end": 4.53,
+				"index": 57
+			},
+			{
+				"text": "El ",
+				"start": 4.63,
+				"end": 4.97,
+				"index": 58
+			},
+			{
+				"text": "jugador ",
+				"start": 4.99,
+				"end": 5.45,
+				"index": 59
+			},
+			{
+				"text": "vive ",
+				"start": 6.51,
+				"end": 6.81,
+				"index": 60
+			},
+			{
+				"text": "en ",
+				"start": 6.83,
+				"end": 6.91,
+				"index": 61
+			},
+			{
+				"text": "la ",
+				"start": 6.95,
+				"end": 7.05,
+				"index": 62
+			},
+			{
+				"text": "cancha",
+				"start": 7.13,
+				"end": 7.55,
+				"index": 63
+			}
+		],
+		"start": 32.79,
+		"end": 40.34
+	},
+	{
+		"words": [
+			{
+				"text": "Ni ",
+				"start": 0,
+				"end": 0.12,
+				"index": 64
+			},
+			{
+				"text": "con ",
+				"start": 0.22,
+				"end": 0.4,
+				"index": 65
+			},
+			{
+				"text": "un ",
+				"start": 0.48,
+				"end": 0.54,
+				"index": 66
+			},
+			{
+				"text": "deseo ",
+				"start": 0.6,
+				"end": 1.22,
+				"index": 67
+			},
+			{
+				"text": "sabes ",
+				"start": 1.24,
+				"end": 1.68,
+				"index": 68
+			},
+			{
+				"text": "que ",
+				"start": 1.72,
+				"end": 1.86,
+				"index": 69
+			},
+			{
+				"text": "nada ",
+				"start": 1.9,
+				"end": 2.42,
+				"index": 70
+			},
+			{
+				"text": "de ",
+				"start": 2.5,
+				"end": 2.62,
+				"index": 71
+			},
+			{
+				"text": "ti ",
+				"start": 2.7,
+				"end": 3.04,
+				"index": 72
+			},
+			{
+				"text": "va ",
+				"start": 3.06,
+				"end": 3.18,
+				"index": 73
+			},
+			{
+				"text": "a ",
+				"start": 3.2,
+				"end": 3.22,
+				"index": 74
+			},
+			{
+				"text": "cambiar",
+				"start": 3.42,
+				"end": 4.06,
+				"index": 75
+			}
+		],
+		"start": 40.88,
+		"end": 44.94
+	},
+	{
+		"words": [
+			{
+				"text": "Prende ",
+				"start": 0,
+				"end": 0.4,
+				"index": 76
+			},
+			{
+				"text": "una ",
+				"start": 0.44,
+				"end": 0.6,
+				"index": 77
+			},
+			{
+				"text": "vela, ",
+				"start": 0.68,
+				"end": 1,
+				"index": 78
+			},
+			{
+				"text": "reza ",
+				"start": 1.9,
+				"end": 2.34,
+				"index": 79
+			},
+			{
+				"text": "al ",
+				"start": 2.36,
+				"end": 2.42,
+				"index": 80
+			},
+			{
+				"text": "adiós",
+				"start": 2.44,
+				"end": 2.84,
+				"index": 81
+			}
+		],
+		"start": 44.97,
+		"end": 47.81
+	},
+	{
+		"words": [
+			{
+				"text": "Y ",
+				"start": 0,
+				"end": 0.1,
+				"index": 82
+			},
+			{
+				"text": "dale ",
+				"start": 0.22,
+				"end": 0.48,
+				"index": 83
+			},
+			{
+				"text": "gracias ",
+				"start": 0.52,
+				"end": 1.08,
+				"index": 84
+			},
+			{
+				"text": "que ",
+				"start": 1.16,
+				"end": 1.26,
+				"index": 85
+			},
+			{
+				"text": "tenemos ",
+				"start": 1.34,
+				"end": 1.98,
+				"index": 86
+			},
+			{
+				"text": "ese ",
+				"start": 2.12,
+				"end": 2.42,
+				"index": 87
+			},
+			{
+				"text": "lindo ",
+				"start": 2.46,
+				"end": 3.1,
+				"index": 88
+			},
+			{
+				"text": "rey ",
+				"start": 3.12,
+				"end": 3.26,
+				"index": 89
+			},
+			{
+				"text": "LeBron",
+				"start": 3.34,
+				"end": 3.98,
+				"index": 90
+			}
+		],
+		"start": 48.76,
+		"end": 52.74
+	},
+	{
+		"words": [
+			{
+				"text": "Prende ",
+				"start": 0,
+				"end": 0.26,
+				"index": 91
+			},
+			{
+				"text": "una ",
+				"start": 0.3,
+				"end": 0.42,
+				"index": 92
+			},
+			{
+				"text": "vela, ",
+				"start": 0.52,
+				"end": 0.82,
+				"index": 93
+			},
+			{
+				"text": "pide ",
+				"start": 1.64,
+				"end": 2.46,
+				"index": 94
+			},
+			{
+				"text": "perdón ",
+				"start": 2.48,
+				"end": 3.27,
+				"index": 95
+			},
+			{
+				"text": "and ",
+				"start": 3.25,
+				"end": 3.63,
+				"index": 96
+			},
+			{
+				"text": "for ",
+				"start": 3.73,
+				"end": 3.86,
+				"index": 97
+			},
+			{
+				"text": "creer ",
+				"start": 3.94,
+				"end": 4.3,
+				"index": 98
+			},
+			{
+				"text": "que ",
+				"start": 4.4,
+				"end": 4.55,
+				"index": 99
+			},
+			{
+				"text": "perderás, ",
+				"start": 4.65,
+				"end": 5.46,
+				"index": 100
+			},
+			{
+				"text": "te ",
+				"start": 5.68,
+				"end": 5.79,
+				"index": 101
+			},
+			{
+				"text": "digo ",
+				"start": 5.81,
+				"end": 6.38,
+				"index": 102
+			},
+			{
+				"text": "esta ",
+				"start": 6.46,
+				"end": 6.76,
+				"index": 103
+			},
+			{
+				"text": "canción",
+				"start": 6.78,
+				"end": 7.05,
+				"index": 104
+			}
+		],
+		"start": 52.76,
+		"end": 59.81
+	}
+]

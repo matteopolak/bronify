@@ -18,7 +18,7 @@
 		"lint": "prettier --check . && eslint .",
 		"collect": "node --experimental-strip-types scripts/collect.ts",
 		"tag": "cd scripts && uv run classify.py && cd .. && node --experimental-strip-types scripts/apply_tags.ts",
-		"lyrics": "cd scripts/inner && uv run make_lyrics.py && cd ../.. && pnpm fix-lyrics && node --experimental-strip-types scripts/lyrics_index.ts",
+		"lyrics": "cd scripts/inner && uv run make_lyrics.py && cd ../.. && pnpm fix-lyrics && node --experimental-strip-types scripts/lyrics_index.ts && pnpm capitals",
 		"hash": "node --experimental-strip-types scripts/hash_file.ts",
 		"add-thumb": "node --experimental-strip-types scripts/add_thumb.ts",
 		"missing-lyrics": "node --experimental-strip-types scripts/missing_lyrics.ts",
@@ -28,7 +28,7 @@
 		"stats": "node --experimental-strip-types scripts/stats.ts",
 		"add-album-art": "node --experimental-strip-types scripts/add_album_art.ts",
 		"pre-build": "node --experimental-strip-types scripts/pre_build.ts && node --experimental-strip-types scripts/lyrics_index.ts && node --experimental-strip-types scripts/karaoke.ts",
-		"sync": "pnpm collect && pnpm tag && pnpm pre-build && pnpm capitals",
+		"sync": "pnpm collect && pnpm tag && pnpm pre-build",
 		"capitals": "node --experimental-strip-types scripts/capitals.ts"
 	},
 	"devDependencies": {
@@ -65,9 +65,7 @@
 		"vite": "^6.0.0"
 	},
 	"pnpm": {
-		"onlyBuiltDependencies": [
-			"esbuild"
-		]
+		"onlyBuiltDependencies": ["esbuild"]
 	},
 	"dependencies": {
 		"@capacitor/android": "^7.1.0",

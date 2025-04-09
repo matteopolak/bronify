@@ -1,0 +1,1310 @@
+[
+	{
+		"words": [
+			{
+				"text": "come ",
+				"start": 3.77,
+				"end": 4.01,
+				"index": 0
+			},
+			{
+				"text": "over ",
+				"start": 4.09,
+				"end": 4.35,
+				"index": 1
+			},
+			{
+				"text": "and ",
+				"start": 4.49,
+				"end": 4.59,
+				"index": 2
+			},
+			{
+				"text": "play ",
+				"start": 4.65,
+				"end": 4.81,
+				"index": 3
+			},
+			{
+				"text": "for ",
+				"start": 4.85,
+				"end": 4.97,
+				"index": 4
+			},
+			{
+				"text": "the",
+				"start": 5.01,
+				"end": 5.15,
+				"index": 5
+			}
+		],
+		"start": -1,
+		"end": 4.15
+	},
+	{
+		"words": [
+			{
+				"text": "Knicks, ",
+				"start": 0,
+				"end": 0.3,
+				"index": 6
+			},
+			{
+				"text": "Bron ",
+				"start": 0.32,
+				"end": 0.66,
+				"index": 7
+			},
+			{
+				"text": "and ",
+				"start": 1.38,
+				"end": 1.48,
+				"index": 8
+			},
+			{
+				"text": "if ",
+				"start": 1.56,
+				"end": 1.62,
+				"index": 9
+			},
+			{
+				"text": "you ",
+				"start": 1.68,
+				"end": 1.8,
+				"index": 10
+			},
+			{
+				"text": "don't, ",
+				"start": 1.86,
+				"end": 2.12,
+				"index": 11
+			},
+			{
+				"text": "Lakers ",
+				"start": 2.14,
+				"end": 2.5,
+				"index": 12
+			},
+			{
+				"text": "and",
+				"start": 2.56,
+				"end": 2.64,
+				"index": 13
+			}
+		],
+		"start": 4.21,
+		"end": 6.85
+	},
+	{
+		"words": [
+			{
+				"text": "Six, ",
+				"start": 0,
+				"end": 0.32,
+				"index": 14
+			},
+			{
+				"text": "uh ",
+				"start": 0.56,
+				"end": 0.68,
+				"index": 15
+			},
+			{
+				"text": "turn ",
+				"start": 1.14,
+				"end": 1.38,
+				"index": 16
+			},
+			{
+				"text": "every ",
+				"start": 1.46,
+				"end": 1.68,
+				"index": 17
+			},
+			{
+				"text": "arena ",
+				"start": 1.78,
+				"end": 2.22,
+				"index": 18
+			},
+			{
+				"text": "into ",
+				"start": 2.28,
+				"end": 2.54,
+				"index": 19
+			},
+			{
+				"text": "a ",
+				"start": 2.6,
+				"end": 2.68,
+				"index": 20
+			},
+			{
+				"text": "sitcom, ",
+				"start": 2.72,
+				"end": 3.39,
+				"index": 21
+			},
+			{
+				"text": "yeah ",
+				"start": 3.4,
+				"end": 3.93,
+				"index": 22
+			},
+			{
+				"text": "oh, ",
+				"start": 4.55,
+				"end": 5.11,
+				"index": 23
+			},
+			{
+				"text": "oh, ",
+				"start": 5.13,
+				"end": 5.29,
+				"index": 24
+			},
+			{
+				"text": "you ",
+				"start": 5.43,
+				"end": 5.69,
+				"index": 25
+			},
+			{
+				"text": "are ",
+				"start": 6.19,
+				"end": 6.31,
+				"index": 26
+			},
+			{
+				"text": "my ",
+				"start": 6.93,
+				"end": 7.11,
+				"index": 27
+			},
+			{
+				"text": "sunshine ",
+				"start": 7.19,
+				"end": 7.71,
+				"index": 28
+			},
+			{
+				"text": "on ",
+				"start": 7.81,
+				"end": 7.87,
+				"index": 29
+			},
+			{
+				"text": "the ",
+				"start": 7.93,
+				"end": 8.05,
+				"index": 30
+			},
+			{
+				"text": "darkest ",
+				"start": 8.13,
+				"end": 8.99,
+				"index": 31
+			},
+			{
+				"text": "days ",
+				"start": 9.01,
+				"end": 9.23,
+				"index": 32
+			},
+			{
+				"text": "you're ",
+				"start": 9.64,
+				"end": 9.85,
+				"index": 33
+			},
+			{
+				"text": "the ",
+				"start": 9.92,
+				"end": 10.06,
+				"index": 34
+			},
+			{
+				"text": "GOAT ",
+				"start": 10.12,
+				"end": 10.4,
+				"index": 35
+			},
+			{
+				"text": "I ",
+				"start": 10.5,
+				"end": 10.6,
+				"index": 36
+			},
+			{
+				"text": "will ",
+				"start": 10.62,
+				"end": 10.82,
+				"index": 37
+			},
+			{
+				"text": "always ",
+				"start": 11.12,
+				"end": 11.5,
+				"index": 38
+			},
+			{
+				"text": "glaze ",
+				"start": 11.54,
+				"end": 12.02,
+				"index": 39
+			},
+			{
+				"text": "make ",
+				"start": 12.18,
+				"end": 12.34,
+				"index": 40
+			},
+			{
+				"text": "me ",
+				"start": 12.36,
+				"end": 12.46,
+				"index": 41
+			},
+			{
+				"text": "wanna ",
+				"start": 12.5,
+				"end": 12.8,
+				"index": 42
+			},
+			{
+				"text": "savor ",
+				"start": 12.84,
+				"end": 13.2,
+				"index": 43
+			},
+			{
+				"text": "every ",
+				"start": 13.28,
+				"end": 13.52,
+				"index": 44
+			},
+			{
+				"text": "highlight",
+				"start": 13.58,
+				"end": 14.42,
+				"index": 45
+			}
+		],
+		"start": 6.89,
+		"end": 21.31
+	},
+	{
+		"words": [
+			{
+				"text": "Your ",
+				"start": 0,
+				"end": 0.18,
+				"index": 46
+			},
+			{
+				"text": "crown ",
+				"start": 0.22,
+				"end": 0.42,
+				"index": 47
+			},
+			{
+				"text": "is ",
+				"start": 0.48,
+				"end": 0.54,
+				"index": 48
+			},
+			{
+				"text": "tailor-made, ",
+				"start": 0.56,
+				"end": 1.12,
+				"index": 49
+			},
+			{
+				"text": "love ",
+				"start": 1.14,
+				"end": 1.26,
+				"index": 50
+			},
+			{
+				"text": "how ",
+				"start": 1.3,
+				"end": 1.42,
+				"index": 51
+			},
+			{
+				"text": "you ",
+				"start": 1.44,
+				"end": 1.56,
+				"index": 52
+			},
+			{
+				"text": "put ",
+				"start": 1.62,
+				"end": 1.8,
+				"index": 53
+			},
+			{
+				"text": "it ",
+				"start": 1.9,
+				"end": 1.96,
+				"index": 54
+			},
+			{
+				"text": "on ",
+				"start": 2.22,
+				"end": 2.3,
+				"index": 55
+			},
+			{
+				"text": "6 ",
+				"start": 2.32,
+				"end": 3.12,
+				"index": 56
+			},
+			{
+				"text": "to ",
+				"start": 3.16,
+				"end": 3.26,
+				"index": 57
+			},
+			{
+				"text": "23, ",
+				"start": 3.28,
+				"end": 3.76,
+				"index": 58
+			},
+			{
+				"text": "you'll ",
+				"start": 3.81,
+				"end": 3.94,
+				"index": 59
+			},
+			{
+				"text": "always ",
+				"start": 4,
+				"end": 4.23,
+				"index": 60
+			},
+			{
+				"text": "be ",
+				"start": 4.27,
+				"end": 4.41,
+				"index": 61
+			},
+			{
+				"text": "LeBron",
+				"start": 4.43,
+				"end": 5.01,
+				"index": 62
+			}
+		],
+		"start": 24.2,
+		"end": 29.21
+	},
+	{
+		"words": [
+			{
+				"text": "The ",
+				"start": 0,
+				"end": 0.14,
+				"index": 63
+			},
+			{
+				"text": "way ",
+				"start": 0.2,
+				"end": 0.36,
+				"index": 64
+			},
+			{
+				"text": "you ",
+				"start": 0.38,
+				"end": 0.5,
+				"index": 65
+			},
+			{
+				"text": "dribble ",
+				"start": 0.54,
+				"end": 0.88,
+				"index": 66
+			},
+			{
+				"text": "down ",
+				"start": 0.96,
+				"end": 1.06,
+				"index": 67
+			},
+			{
+				"text": "the ",
+				"start": 1.08,
+				"end": 1.16,
+				"index": 68
+			},
+			{
+				"text": "court, ",
+				"start": 1.22,
+				"end": 1.58,
+				"index": 69
+			},
+			{
+				"text": "every ",
+				"start": 1.62,
+				"end": 1.84,
+				"index": 70
+			},
+			{
+				"text": "ticket ",
+				"start": 1.86,
+				"end": 2.2,
+				"index": 71
+			},
+			{
+				"text": "I ",
+				"start": 2.3,
+				"end": 2.4,
+				"index": 72
+			},
+			{
+				"text": "afford",
+				"start": 2.46,
+				"end": 2.94,
+				"index": 73
+			}
+		],
+		"start": 29.32,
+		"end": 32.26
+	},
+	{
+		"words": [
+			{
+				"text": "Wait ",
+				"start": 0,
+				"end": 0.2,
+				"index": 74
+			},
+			{
+				"text": "till ",
+				"start": 0.24,
+				"end": 0.34,
+				"index": 75
+			},
+			{
+				"text": "Bryce ",
+				"start": 0.36,
+				"end": 0.58,
+				"index": 76
+			},
+			{
+				"text": "and ",
+				"start": 0.6,
+				"end": 0.68,
+				"index": 77
+			},
+			{
+				"text": "Bronny ",
+				"start": 0.7,
+				"end": 1.04,
+				"index": 78
+			},
+			{
+				"text": "on ",
+				"start": 1.12,
+				"end": 1.18,
+				"index": 79
+			},
+			{
+				"text": "the ",
+				"start": 1.22,
+				"end": 1.32,
+				"index": 80
+			},
+			{
+				"text": "team ",
+				"start": 1.36,
+				"end": 1.68,
+				"index": 81
+			},
+			{
+				"text": "run",
+				"start": 1.98,
+				"end": 2.06,
+				"index": 82
+			}
+		],
+		"start": 32.53,
+		"end": 34.59
+	},
+	{
+		"words": [
+			{
+				"text": "Oh, ",
+				"start": 0,
+				"end": 0.06,
+				"index": 83
+			},
+			{
+				"text": "tú, ",
+				"start": 0.08,
+				"end": 0.24,
+				"index": 84
+			},
+			{
+				"text": "tú ",
+				"start": 0.52,
+				"end": 0.62,
+				"index": 85
+			},
+			{
+				"text": "eres ",
+				"start": 0.64,
+				"end": 0.88,
+				"index": 86
+			},
+			{
+				"text": "la ",
+				"start": 0.9,
+				"end": 1.14,
+				"index": 87
+			},
+			{
+				"text": "cabra ",
+				"start": 1.18,
+				"end": 1.6,
+				"index": 88
+			},
+			{
+				"text": "y ",
+				"start": 1.68,
+				"end": 1.78,
+				"index": 89
+			},
+			{
+				"text": "yo ",
+				"start": 1.8,
+				"end": 1.94,
+				"index": 90
+			},
+			{
+				"text": "soy ",
+				"start": 1.98,
+				"end": 2.3,
+				"index": 91
+			},
+			{
+				"text": "el ",
+				"start": 2.32,
+				"end": 2.46,
+				"index": 92
+			},
+			{
+				"text": "fan",
+				"start": 2.52,
+				"end": 2.94,
+				"index": 93
+			}
+		],
+		"start": 34.69,
+		"end": 37.63
+	},
+	{
+		"words": [
+			{
+				"text": "Siempre ",
+				"start": 0,
+				"end": 0.36,
+				"index": 94
+			},
+			{
+				"text": "está ",
+				"start": 0.38,
+				"end": 0.48,
+				"index": 95
+			},
+			{
+				"text": "en ",
+				"start": 0.5,
+				"end": 0.56,
+				"index": 96
+			},
+			{
+				"text": "la ",
+				"start": 0.6,
+				"end": 0.72,
+				"index": 97
+			},
+			{
+				"text": "cancha ",
+				"start": 0.74,
+				"end": 1.14,
+				"index": 98
+			},
+			{
+				"text": "y ",
+				"start": 1.16,
+				"end": 1.2,
+				"index": 99
+			},
+			{
+				"text": "está ",
+				"start": 1.22,
+				"end": 1.32,
+				"index": 100
+			},
+			{
+				"text": "armando ",
+				"start": 1.34,
+				"end": 1.82,
+				"index": 101
+			},
+			{
+				"text": "el ",
+				"start": 1.84,
+				"end": 1.96,
+				"index": 102
+			},
+			{
+				"text": "plan",
+				"start": 2,
+				"end": 2.48,
+				"index": 103
+			}
+		],
+		"start": 37.85,
+		"end": 40.33
+	},
+	{
+		"words": [
+			{
+				"text": "Pa' ",
+				"start": 0,
+				"end": 0.2,
+				"index": 104
+			},
+			{
+				"text": "cualquier ",
+				"start": 0.22,
+				"end": 0.56,
+				"index": 105
+			},
+			{
+				"text": "equipo ",
+				"start": 0.6,
+				"end": 1.02,
+				"index": 106
+			},
+			{
+				"text": "patearle ",
+				"start": 1.06,
+				"end": 1.8,
+				"index": 107
+			},
+			{
+				"text": "el ",
+				"start": 1.82,
+				"end": 1.9,
+				"index": 108
+			},
+			{
+				"text": "culo",
+				"start": 1.94,
+				"end": 3.56,
+				"index": 109
+			}
+		],
+		"start": 40.6,
+		"end": 44.16
+	},
+	{
+		"words": [
+			{
+				"text": "Oh ",
+				"start": 0,
+				"end": 0.5,
+				"index": 110
+			},
+			{
+				"text": "yeah, ",
+				"start": 0.52,
+				"end": 0.86,
+				"index": 111
+			},
+			{
+				"text": "yeah, ",
+				"start": 1.18,
+				"end": 1.58,
+				"index": 112
+			},
+			{
+				"text": "se ",
+				"start": 1.82,
+				"end": 2.02,
+				"index": 113
+			},
+			{
+				"text": "está ",
+				"start": 2.04,
+				"end": 2.14,
+				"index": 114
+			},
+			{
+				"text": "preparando ",
+				"start": 2.18,
+				"end": 2.84,
+				"index": 115
+			},
+			{
+				"text": "pa' ",
+				"start": 2.88,
+				"end": 3.16,
+				"index": 116
+			},
+			{
+				"text": "ir ",
+				"start": 3.18,
+				"end": 3.38,
+				"index": 117
+			},
+			{
+				"text": "a ",
+				"start": 3.4,
+				"end": 3.48,
+				"index": 118
+			},
+			{
+				"text": "jugar",
+				"start": 3.64,
+				"end": 4.16,
+				"index": 119
+			}
+		],
+		"start": 44.14,
+		"end": 48.3
+	},
+	{
+		"words": [
+			{
+				"text": "Se ",
+				"start": 0,
+				"end": 0.16,
+				"index": 120
+			},
+			{
+				"text": "le ",
+				"start": 0.18,
+				"end": 0.32,
+				"index": 121
+			},
+			{
+				"text": "ve ",
+				"start": 0.36,
+				"end": 0.42,
+				"index": 122
+			},
+			{
+				"text": "en ",
+				"start": 0.44,
+				"end": 0.52,
+				"index": 123
+			},
+			{
+				"text": "la ",
+				"start": 0.54,
+				"end": 0.66,
+				"index": 124
+			},
+			{
+				"text": "cara ",
+				"start": 0.72,
+				"end": 1.02,
+				"index": 125
+			},
+			{
+				"text": "de ",
+				"start": 1.06,
+				"end": 1.18,
+				"index": 126
+			},
+			{
+				"text": "que ",
+				"start": 1.22,
+				"end": 1.4,
+				"index": 127
+			},
+			{
+				"text": "va ",
+				"start": 1.42,
+				"end": 1.66,
+				"index": 128
+			},
+			{
+				"text": "a ",
+				"start": 1.68,
+				"end": 1.7,
+				"index": 129
+			},
+			{
+				"text": "ganar",
+				"start": 1.72,
+				"end": 2.38,
+				"index": 130
+			}
+		],
+		"start": 48.69,
+		"end": 51.07
+	},
+	{
+		"words": [
+			{
+				"text": "Hoy ",
+				"start": 0,
+				"end": 0.1,
+				"index": 131
+			},
+			{
+				"text": "mete ",
+				"start": 0.14,
+				"end": 0.44,
+				"index": 132
+			},
+			{
+				"text": "más ",
+				"start": 0.46,
+				"end": 0.6,
+				"index": 133
+			},
+			{
+				"text": "de ",
+				"start": 0.64,
+				"end": 0.74,
+				"index": 134
+			},
+			{
+				"text": "40, ",
+				"start": 0.78,
+				"end": 1.28,
+				"index": 135
+			},
+			{
+				"text": "te ",
+				"start": 1.32,
+				"end": 1.44,
+				"index": 136
+			},
+			{
+				"text": "lo ",
+				"start": 1.48,
+				"end": 1.72,
+				"index": 137
+			},
+			{
+				"text": "aseguro",
+				"start": 1.76,
+				"end": 3.16,
+				"index": 138
+			}
+		],
+		"start": 51.29,
+		"end": 54.45
+	},
+	{
+		"words": [
+			{
+				"text": "Lebroncito, ",
+				"start": 0,
+				"end": 2.24,
+				"index": 139
+			},
+			{
+				"text": "eres ",
+				"start": 2.5,
+				"end": 2.8,
+				"index": 140
+			},
+			{
+				"text": "el ",
+				"start": 2.82,
+				"end": 2.92,
+				"index": 141
+			},
+			{
+				"text": "mejor ",
+				"start": 2.94,
+				"end": 3.24,
+				"index": 142
+			},
+			{
+				"text": "de ",
+				"start": 3.26,
+				"end": 3.4,
+				"index": 143
+			},
+			{
+				"text": "todos ",
+				"start": 3.42,
+				"end": 3.7,
+				"index": 144
+			},
+			{
+				"text": "Lebroncito ",
+				"start": 3.82,
+				"end": 4.78,
+				"index": 145
+			},
+			{
+				"text": "El ",
+				"start": 4.96,
+				"end": 5.06,
+				"index": 146
+			},
+			{
+				"text": "jugador ",
+				"start": 5.1,
+				"end": 5.6,
+				"index": 147
+			},
+			{
+				"text": "más ",
+				"start": 5.62,
+				"end": 5.76,
+				"index": 148
+			},
+			{
+				"text": "palpable ",
+				"start": 5.78,
+				"end": 6.44,
+				"index": 149
+			},
+			{
+				"text": "del ",
+				"start": 6.48,
+				"end": 6.86,
+				"index": 150
+			},
+			{
+				"text": "equipo ",
+				"start": 6.88,
+				"end": 7.52,
+				"index": 151
+			},
+			{
+				"text": "Tú ",
+				"start": 7.78,
+				"end": 7.92,
+				"index": 152
+			},
+			{
+				"text": "no ",
+				"start": 7.94,
+				"end": 8.02,
+				"index": 153
+			},
+			{
+				"text": "estás ",
+				"start": 8.04,
+				"end": 8.28,
+				"index": 154
+			},
+			{
+				"text": "con ",
+				"start": 8.3,
+				"end": 8.46,
+				"index": 155
+			},
+			{
+				"text": "Lakers, ",
+				"start": 8.48,
+				"end": 8.97,
+				"index": 156
+			},
+			{
+				"text": "ellos ",
+				"start": 8.99,
+				"end": 9.11,
+				"index": 157
+			},
+			{
+				"text": "están ",
+				"start": 9.19,
+				"end": 9.34,
+				"index": 158
+			},
+			{
+				"text": "contigo ",
+				"start": 9.37,
+				"end": 11.05,
+				"index": 159
+			},
+			{
+				"text": "lebroncito, ",
+				"start": 11.03,
+				"end": 13.03,
+				"index": 160
+			},
+			{
+				"text": "el ",
+				"start": 13.31,
+				"end": 13.45,
+				"index": 161
+			},
+			{
+				"text": "campeon ",
+				"start": 13.49,
+				"end": 14.06,
+				"index": 162
+			},
+			{
+				"text": "de ",
+				"start": 14.08,
+				"end": 14.16,
+				"index": 163
+			},
+			{
+				"text": "todos ",
+				"start": 14.17,
+				"end": 14.58,
+				"index": 164
+			},
+			{
+				"text": "lebroncito ",
+				"start": 14.62,
+				"end": 15.56,
+				"index": 165
+			},
+			{
+				"text": "ellos ",
+				"start": 15.94,
+				"end": 16.18,
+				"index": 166
+			},
+			{
+				"text": "tienen ",
+				"start": 16.2,
+				"end": 16.5,
+				"index": 167
+			},
+			{
+				"text": "miedo ",
+				"start": 16.52,
+				"end": 16.84,
+				"index": 168
+			},
+			{
+				"text": "porque ",
+				"start": 16.88,
+				"end": 17.22,
+				"index": 169
+			},
+			{
+				"text": "no ",
+				"start": 17.24,
+				"end": 17.36,
+				"index": 170
+			},
+			{
+				"text": "estan ",
+				"start": 17.42,
+				"end": 17.76,
+				"index": 171
+			},
+			{
+				"text": "listo ",
+				"start": 17.78,
+				"end": 18.27,
+				"index": 172
+			},
+			{
+				"text": "yo ",
+				"start": 18.53,
+				"end": 18.79,
+				"index": 173
+			},
+			{
+				"text": "a ",
+				"start": 18.81,
+				"end": 18.85,
+				"index": 174
+			},
+			{
+				"text": "ti ",
+				"start": 18.87,
+				"end": 19.03,
+				"index": 175
+			},
+			{
+				"text": "te ",
+				"start": 19.07,
+				"end": 19.21,
+				"index": 176
+			},
+			{
+				"text": "quiero ",
+				"start": 19.23,
+				"end": 19.61,
+				"index": 177
+			},
+			{
+				"text": "hasta ",
+				"start": 19.63,
+				"end": 19.99,
+				"index": 178
+			},
+			{
+				"text": "el ",
+				"start": 20.01,
+				"end": 20.07,
+				"index": 179
+			},
+			{
+				"text": "infinito ",
+				"start": 20.11,
+				"end": 21.57,
+				"index": 180
+			},
+			{
+				"text": "se ",
+				"start": 23.28,
+				"end": 23.46,
+				"index": 181
+			},
+			{
+				"text": "que ",
+				"start": 23.48,
+				"end": 23.58,
+				"index": 182
+			},
+			{
+				"text": "estas ",
+				"start": 23.6,
+				"end": 23.84,
+				"index": 183
+			},
+			{
+				"text": "perdiendo ",
+				"start": 23.86,
+				"end": 24.46,
+				"index": 184
+			},
+			{
+				"text": "el ",
+				"start": 24.48,
+				"end": 24.52,
+				"index": 185
+			},
+			{
+				"text": "pelo ",
+				"start": 24.56,
+				"end": 24.98,
+				"index": 186
+			},
+			{
+				"text": "pero ",
+				"start": 25.04,
+				"end": 25.48,
+				"index": 187
+			},
+			{
+				"text": "no ",
+				"start": 25.5,
+				"end": 25.56,
+				"index": 188
+			},
+			{
+				"text": "es ",
+				"start": 25.58,
+				"end": 25.64,
+				"index": 189
+			},
+			{
+				"text": "el ",
+				"start": 25.77,
+				"end": 25.89,
+				"index": 190
+			},
+			{
+				"text": "mismo ",
+				"start": 25.91,
+				"end": 26.43,
+				"index": 191
+			},
+			{
+				"text": "se ",
+				"start": 27.33,
+				"end": 27.49,
+				"index": 192
+			},
+			{
+				"text": "que ",
+				"start": 27.51,
+				"end": 27.67,
+				"index": 193
+			},
+			{
+				"text": "por ",
+				"start": 27.69,
+				"end": 27.87,
+				"index": 194
+			},
+			{
+				"text": "siempre ",
+				"start": 27.89,
+				"end": 28.35,
+				"index": 195
+			},
+			{
+				"text": "tu ",
+				"start": 28.37,
+				"end": 28.57,
+				"index": 196
+			},
+			{
+				"text": "seras ",
+				"start": 28.59,
+				"end": 29.53,
+				"index": 197
+			},
+			{
+				"text": "mi ",
+				"start": 30.06,
+				"end": 30.28,
+				"index": 198
+			},
+			{
+				"text": "jugador ",
+				"start": 30.3,
+				"end": 30.86,
+				"index": 199
+			},
+			{
+				"text": "favorito ",
+				"start": 30.9,
+				"end": 32.24,
+				"index": 200
+			},
+			{
+				"text": "favorito ",
+				"start": 32.26,
+				"end": 32.74,
+				"index": 201
+			},
+			{
+				"text": "favorito ",
+				"start": 32.78,
+				"end": 33.4,
+				"index": 202
+			},
+			{
+				"text": "bron ",
+				"start": 33.44,
+				"end": 33.79,
+				"index": 203
+			},
+			{
+				"text": "bron",
+				"start": 33.81,
+				"end": 34.17,
+				"index": 204
+			}
+		],
+		"start": 54.9,
+		"end": 89.07
+	}
+]
