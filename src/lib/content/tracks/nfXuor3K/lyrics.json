@@ -1,0 +1,788 @@
+[
+	{
+		"words": [
+			{
+				"text": "Does ",
+				"start": 0,
+				"end": 0.2,
+				"index": 0
+			},
+			{
+				"text": "LeBron ",
+				"start": 0.22,
+				"end": 0.92,
+				"index": 1
+			},
+			{
+				"text": "really ",
+				"start": 0.96,
+				"end": 1.18,
+				"index": 2
+			},
+			{
+				"text": "play ",
+				"start": 1.22,
+				"end": 1.54,
+				"index": 3
+			},
+			{
+				"text": "through ",
+				"start": 1.58,
+				"end": 1.78,
+				"index": 4
+			},
+			{
+				"text": "all ",
+				"start": 1.94,
+				"end": 2.11,
+				"index": 5
+			},
+			{
+				"text": "this?",
+				"start": 2.17,
+				"end": 2.37,
+				"index": 6
+			}
+		],
+		"start": 3.15,
+		"end": 5.52
+	},
+	{
+		"words": [
+			{
+				"text": "Every ",
+				"start": 0,
+				"end": 0.2,
+				"index": 7
+			},
+			{
+				"text": "capitol ",
+				"start": 0.26,
+				"end": 0.76,
+				"index": 8
+			},
+			{
+				"text": "and ",
+				"start": 0.84,
+				"end": 0.92,
+				"index": 9
+			},
+			{
+				"text": "state ",
+				"start": 1.06,
+				"end": 1.52,
+				"index": 10
+			},
+			{
+				"text": "balling",
+				"start": 1.56,
+				"end": 2.1,
+				"index": 11
+			}
+		],
+		"start": 6.7,
+		"end": 8.81
+	},
+	{
+		"words": [
+			{
+				"text": "Is ",
+				"start": 0,
+				"end": 0.06,
+				"index": 12
+			},
+			{
+				"text": "there ",
+				"start": 0.08,
+				"end": 0.32,
+				"index": 13
+			},
+			{
+				"text": "a ",
+				"start": 0.34,
+				"end": 0.36,
+				"index": 14
+			},
+			{
+				"text": "reason ",
+				"start": 0.38,
+				"end": 0.84,
+				"index": 15
+			},
+			{
+				"text": "why ",
+				"start": 0.86,
+				"end": 1.04,
+				"index": 16
+			},
+			{
+				"text": "he ",
+				"start": 1.06,
+				"end": 1.16,
+				"index": 17
+			},
+			{
+				"text": "stayed ",
+				"start": 1.2,
+				"end": 1.56,
+				"index": 18
+			},
+			{
+				"text": "the ",
+				"start": 1.58,
+				"end": 1.68,
+				"index": 19
+			},
+			{
+				"text": "longest?",
+				"start": 1.74,
+				"end": 2.61,
+				"index": 20
+			}
+		],
+		"start": 9.85,
+		"end": 12.46
+	},
+	{
+		"words": [
+			{
+				"text": "And ",
+				"start": 0,
+				"end": 0.06,
+				"index": 21
+			},
+			{
+				"text": "then ",
+				"start": 0.78,
+				"end": 0.96,
+				"index": 22
+			},
+			{
+				"text": "you ",
+				"start": 1.02,
+				"end": 1.1,
+				"index": 23
+			},
+			{
+				"text": "walk ",
+				"start": 1.14,
+				"end": 1.46,
+				"index": 24
+			},
+			{
+				"text": "out, ",
+				"start": 1.63,
+				"end": 1.89,
+				"index": 25
+			},
+			{
+				"text": "you're ",
+				"start": 1.91,
+				"end": 2.03,
+				"index": 26
+			},
+			{
+				"text": "greater ",
+				"start": 2.05,
+				"end": 3.89,
+				"index": 27
+			},
+			{
+				"text": "still ",
+				"start": 4.44,
+				"end": 4.93,
+				"index": 28
+			},
+			{
+				"text": "tryna ",
+				"start": 4.97,
+				"end": 5.29,
+				"index": 29
+			},
+			{
+				"text": "ride ",
+				"start": 5.31,
+				"end": 5.79,
+				"index": 30
+			},
+			{
+				"text": "your ",
+				"start": 5.81,
+				"end": 6.61,
+				"index": 31
+			},
+			{
+				"text": "arms ",
+				"start": 6.63,
+				"end": 6.95,
+				"index": 32
+			},
+			{
+				"text": "with ",
+				"start": 7.75,
+				"end": 8.01,
+				"index": 33
+			},
+			{
+				"text": "you ",
+				"start": 8.05,
+				"end": 8.33,
+				"index": 34
+			},
+			{
+				"text": "is ",
+				"start": 8.41,
+				"end": 8.47,
+				"index": 35
+			},
+			{
+				"text": "what ",
+				"start": 8.51,
+				"end": 8.63,
+				"index": 36
+			},
+			{
+				"text": "lies ",
+				"start": 8.67,
+				"end": 9.37,
+				"index": 37
+			},
+			{
+				"text": "alone ",
+				"start": 9.48,
+				"end": 10.3,
+				"index": 38
+			},
+			{
+				"text": "you've ",
+				"start": 10.76,
+				"end": 10.92,
+				"index": 39
+			},
+			{
+				"text": "been ",
+				"start": 10.94,
+				"end": 11.08,
+				"index": 40
+			},
+			{
+				"text": "crowned ",
+				"start": 11.1,
+				"end": 11.62,
+				"index": 41
+			},
+			{
+				"text": "from ",
+				"start": 11.64,
+				"end": 11.78,
+				"index": 42
+			},
+			{
+				"text": "the ",
+				"start": 11.8,
+				"end": 11.88,
+				"index": 43
+			},
+			{
+				"text": "GOAT ",
+				"start": 11.94,
+				"end": 12.2,
+				"index": 44
+			},
+			{
+				"text": "and ",
+				"start": 12.56,
+				"end": 12.62,
+				"index": 45
+			},
+			{
+				"text": "perfection's ",
+				"start": 12.64,
+				"end": 13.28,
+				"index": 46
+			},
+			{
+				"text": "what ",
+				"start": 13.32,
+				"end": 13.46,
+				"index": 47
+			},
+			{
+				"text": "you ",
+				"start": 13.5,
+				"end": 13.6,
+				"index": 48
+			},
+			{
+				"text": "want ",
+				"start": 13.66,
+				"end": 14.08,
+				"index": 49
+			},
+			{
+				"text": "but ",
+				"start": 14.16,
+				"end": 14.26,
+				"index": 50
+			},
+			{
+				"text": "that's ",
+				"start": 14.28,
+				"end": 14.48,
+				"index": 51
+			},
+			{
+				"text": "nothing ",
+				"start": 14.52,
+				"end": 15.03,
+				"index": 52
+			},
+			{
+				"text": "cause ",
+				"start": 15.1,
+				"end": 15.23,
+				"index": 53
+			},
+			{
+				"text": "you ",
+				"start": 15.25,
+				"end": 15.37,
+				"index": 54
+			},
+			{
+				"text": "might ",
+				"start": 15.41,
+				"end": 16.19,
+				"index": 55
+			},
+			{
+				"text": "go ",
+				"start": 16.29,
+				"end": 17.07,
+				"index": 56
+			},
+			{
+				"text": "swear ",
+				"start": 17.73,
+				"end": 18.11,
+				"index": 57
+			},
+			{
+				"text": "by ",
+				"start": 18.15,
+				"end": 18.45,
+				"index": 58
+			},
+			{
+				"text": "you ",
+				"start": 18.49,
+				"end": 18.59,
+				"index": 59
+			},
+			{
+				"text": "might ",
+				"start": 18.63,
+				"end": 19.47,
+				"index": 60
+			},
+			{
+				"text": "go ",
+				"start": 19.53,
+				"end": 20.12,
+				"index": 61
+			},
+			{
+				"text": "all ",
+				"start": 20.16,
+				"end": 21.06,
+				"index": 62
+			},
+			{
+				"text": "the ",
+				"start": 21.1,
+				"end": 21.16,
+				"index": 63
+			},
+			{
+				"text": "rings ",
+				"start": 21.22,
+				"end": 21.76,
+				"index": 64
+			},
+			{
+				"text": "that ",
+				"start": 21.78,
+				"end": 21.9,
+				"index": 65
+			},
+			{
+				"text": "you ",
+				"start": 21.94,
+				"end": 22.04,
+				"index": 66
+			},
+			{
+				"text": "went ",
+				"start": 22.1,
+				"end": 22.34,
+				"index": 67
+			},
+			{
+				"text": "through ",
+				"start": 22.36,
+				"end": 22.76,
+				"index": 68
+			},
+			{
+				"text": "four ",
+				"start": 22.78,
+				"end": 23.14,
+				"index": 69
+			},
+			{
+				"text": "now ",
+				"start": 23.18,
+				"end": 23.4,
+				"index": 70
+			},
+			{
+				"text": "and ",
+				"start": 23.48,
+				"end": 23.54,
+				"index": 71
+			},
+			{
+				"text": "a ",
+				"start": 23.6,
+				"end": 23.64,
+				"index": 72
+			},
+			{
+				"text": "fifth ",
+				"start": 23.68,
+				"end": 24,
+				"index": 73
+			},
+			{
+				"text": "too ",
+				"start": 24.12,
+				"end": 24.5,
+				"index": 74
+			},
+			{
+				"text": "winning ",
+				"start": 24.52,
+				"end": 25.04,
+				"index": 75
+			},
+			{
+				"text": "LA ",
+				"start": 25.24,
+				"end": 25.39,
+				"index": 76
+			},
+			{
+				"text": "twice, ",
+				"start": 25.91,
+				"end": 26.19,
+				"index": 77
+			},
+			{
+				"text": "no",
+				"start": 26.25,
+				"end": 27.13,
+				"index": 78
+			}
+		],
+		"start": 12.48,
+		"end": 39.61
+	},
+	{
+		"words": [
+			{
+				"text": "Have ",
+				"start": 0,
+				"end": 0.24,
+				"index": 79
+			},
+			{
+				"text": "you ",
+				"start": 0.26,
+				"end": 0.36,
+				"index": 80
+			},
+			{
+				"text": "ever ",
+				"start": 0.42,
+				"end": 0.56,
+				"index": 81
+			},
+			{
+				"text": "seen ",
+				"start": 0.62,
+				"end": 0.76,
+				"index": 82
+			},
+			{
+				"text": "a ",
+				"start": 0.8,
+				"end": 0.82,
+				"index": 83
+			},
+			{
+				"text": "player ",
+				"start": 0.88,
+				"end": 1.14,
+				"index": 84
+			},
+			{
+				"text": "ride ",
+				"start": 1.22,
+				"end": 1.76,
+				"index": 85
+			},
+			{
+				"text": "this ",
+				"start": 1.8,
+				"end": 1.92,
+				"index": 86
+			},
+			{
+				"text": "long?",
+				"start": 2,
+				"end": 2.95,
+				"index": 87
+			}
+		],
+		"start": 39.97,
+		"end": 42.92
+	},
+	{
+		"words": [
+			{
+				"text": "Cause ",
+				"start": 0,
+				"end": 0.22,
+				"index": 88
+			},
+			{
+				"text": "Bron's ",
+				"start": 0.24,
+				"end": 0.48,
+				"index": 89
+			},
+			{
+				"text": "the ",
+				"start": 0.5,
+				"end": 0.58,
+				"index": 90
+			},
+			{
+				"text": "only ",
+				"start": 0.72,
+				"end": 0.94,
+				"index": 91
+			},
+			{
+				"text": "one ",
+				"start": 1.28,
+				"end": 1.44,
+				"index": 92
+			},
+			{
+				"text": "that ",
+				"start": 1.48,
+				"end": 1.62,
+				"index": 93
+			},
+			{
+				"text": "I ",
+				"start": 1.86,
+				"end": 1.92,
+				"index": 94
+			},
+			{
+				"text": "know",
+				"start": 2.02,
+				"end": 2.54,
+				"index": 95
+			}
+		],
+		"start": 43.48,
+		"end": 46.03
+	},
+	{
+		"words": [
+			{
+				"text": "All ",
+				"start": 0,
+				"end": 0.82,
+				"index": 96
+			},
+			{
+				"text": "the ",
+				"start": 0.84,
+				"end": 0.92,
+				"index": 97
+			},
+			{
+				"text": "rings ",
+				"start": 0.98,
+				"end": 1.5,
+				"index": 98
+			},
+			{
+				"text": "that ",
+				"start": 1.52,
+				"end": 1.64,
+				"index": 99
+			},
+			{
+				"text": "you ",
+				"start": 1.66,
+				"end": 1.78,
+				"index": 100
+			},
+			{
+				"text": "went ",
+				"start": 1.82,
+				"end": 2.1,
+				"index": 101
+			},
+			{
+				"text": "through, ",
+				"start": 2.13,
+				"end": 2.56,
+				"index": 102
+			},
+			{
+				"text": "four ",
+				"start": 2.69,
+				"end": 3.07,
+				"index": 103
+			},
+			{
+				"text": "down ",
+				"start": 3.25,
+				"end": 3.45,
+				"index": 104
+			},
+			{
+				"text": "and ",
+				"start": 3.47,
+				"end": 3.53,
+				"index": 105
+			},
+			{
+				"text": "a ",
+				"start": 3.57,
+				"end": 3.63,
+				"index": 106
+			},
+			{
+				"text": "fifth ",
+				"start": 3.67,
+				"end": 4.45,
+				"index": 107
+			},
+			{
+				"text": "to",
+				"start": 4.47,
+				"end": 4.51,
+				"index": 108
+			}
+		],
+		"start": 46.05,
+		"end": 50.55
+	},
+	{
+		"words": [
+			{
+				"text": "Win ",
+				"start": 0,
+				"end": 0.42,
+				"index": 109
+			},
+			{
+				"text": "in ",
+				"start": 0.44,
+				"end": 0.6,
+				"index": 110
+			},
+			{
+				"text": "LA ",
+				"start": 0.78,
+				"end": 0.92,
+				"index": 111
+			},
+			{
+				"text": "twice, ",
+				"start": 0.94,
+				"end": 1.76,
+				"index": 112
+			},
+			{
+				"text": "no, ",
+				"start": 1.88,
+				"end": 2.7,
+				"index": 113
+			},
+			{
+				"text": "no",
+				"start": 2.76,
+				"end": 3.93,
+				"index": 114
+			}
+		],
+		"start": 50.65,
+		"end": 54.58
+	},
+	{
+		"words": [
+			{
+				"text": "Could ",
+				"start": 0,
+				"end": 0.36,
+				"index": 115
+			},
+			{
+				"text": "it ",
+				"start": 0.38,
+				"end": 0.5,
+				"index": 116
+			},
+			{
+				"text": "be ",
+				"start": 0.72,
+				"end": 0.76,
+				"index": 117
+			},
+			{
+				"text": "you, ",
+				"start": 0.82,
+				"end": 1.1,
+				"index": 118
+			},
+			{
+				"text": "calling ",
+				"start": 1.62,
+				"end": 2.24,
+				"index": 119
+			},
+			{
+				"text": "me ",
+				"start": 2.28,
+				"end": 2.48,
+				"index": 120
+			},
+			{
+				"text": "down?",
+				"start": 2.55,
+				"end": 3.17,
+				"index": 121
+			}
+		],
+		"start": 55.32,
+		"end": 58.49
+	}
+]
