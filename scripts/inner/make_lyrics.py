@@ -67,8 +67,10 @@ if need_demucs:
     ])
 
 PROMPT = """\
-LeBron and Luka Don, the NBA's finest
-Watching the NBA on Bronify, he's the GOAT
+LeBron can still dunk
+LeBron can shoot threes
+He's just having fun
+Carrying his team
 """
 
 def transcribe_audio(result):

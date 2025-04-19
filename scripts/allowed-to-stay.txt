@@ -1040,3 +1040,5 @@
 -ni
 -prende
 -glazing
+-dismal
+-word

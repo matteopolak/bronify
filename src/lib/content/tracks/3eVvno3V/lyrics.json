@@ -1,0 +1,212 @@
+[
+	{
+		"words": [
+			{
+				"text": "LeBron ",
+				"start": 0,
+				"end": 0.6,
+				"index": 0
+			},
+			{
+				"text": "can ",
+				"start": 0.6,
+				"end": 0.9,
+				"index": 1
+			},
+			{
+				"text": "still ",
+				"start": 0.9,
+				"end": 1.2,
+				"index": 2
+			},
+			{
+				"text": "dunk",
+				"start": 1.2,
+				"end": 2,
+				"index": 3
+			}
+		],
+		"start": 3.9,
+		"end": 5.9
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron ",
+				"start": 0,
+				"end": 0.5,
+				"index": 4
+			},
+			{
+				"text": "can ",
+				"start": 0.5,
+				"end": 0.8,
+				"index": 5
+			},
+			{
+				"text": "shoot ",
+				"start": 0.8,
+				"end": 1.1,
+				"index": 6
+			},
+			{
+				"text": "threes",
+				"start": 1.1,
+				"end": 2.1,
+				"index": 7
+			}
+		],
+		"start": 6.8,
+		"end": 8.9
+	},
+	{
+		"words": [
+			{
+				"text": "He's ",
+				"start": 0,
+				"end": 0.3,
+				"index": 8
+			},
+			{
+				"text": "just ",
+				"start": 0.3,
+				"end": 0.6,
+				"index": 9
+			},
+			{
+				"text": "having ",
+				"start": 0.6,
+				"end": 1,
+				"index": 10
+			},
+			{
+				"text": "fun",
+				"start": 1,
+				"end": 2,
+				"index": 11
+			}
+		],
+		"start": 9.1,
+		"end": 11.1
+	},
+	{
+		"words": [
+			{
+				"text": "Carrying ",
+				"start": 0,
+				"end": 0.5,
+				"index": 12
+			},
+			{
+				"text": "his ",
+				"start": 0.5,
+				"end": 0.8,
+				"index": 13
+			},
+			{
+				"text": "team",
+				"start": 0.8,
+				"end": 1.1,
+				"index": 14
+			}
+		],
+		"start": 12.1,
+		"end": 13.2
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron ",
+				"start": 0,
+				"end": 0.5,
+				"index": 15
+			},
+			{
+				"text": "can ",
+				"start": 0.5,
+				"end": 0.8,
+				"index": 16
+			},
+			{
+				"text": "ball ",
+				"start": 0.8,
+				"end": 1.1,
+				"index": 17
+			},
+			{
+				"text": "out",
+				"start": 1.1,
+				"end": 2.1,
+				"index": 18
+			}
+		],
+		"start": 14.1,
+		"end": 16.2
+	},
+	{
+		"words": [
+			{
+				"text": "That's ",
+				"start": 0,
+				"end": 0.3,
+				"index": 19
+			},
+			{
+				"text": "why ",
+				"start": 0.3,
+				"end": 0.6,
+				"index": 20
+			},
+			{
+				"text": "he's ",
+				"start": 0.6,
+				"end": 0.9,
+				"index": 21
+			},
+			{
+				"text": "the ",
+				"start": 0.9,
+				"end": 1.2,
+				"index": 22
+			},
+			{
+				"text": "king",
+				"start": 1.2,
+				"end": 1.5,
+				"index": 23
+			}
+		],
+		"start": 16.8,
+		"end": 18.3
+	},
+	{
+		"words": [
+			{
+				"text": "Wearing ",
+				"start": 0,
+				"end": 1,
+				"index": 24
+			},
+			{
+				"text": "number ",
+				"start": 1,
+				"end": 2.1,
+				"index": 25
+			},
+			{
+				"text": "twenty ",
+				"start": 2.1,
+				"end": 3.2,
+				"index": 26
+			},
+			{
+				"text": "three",
+				"start": 3.2,
+				"end": 4.3,
+				"index": 27
+			}
+		],
+		"start": 18.8,
+		"end": 23.1
+	}
+]
