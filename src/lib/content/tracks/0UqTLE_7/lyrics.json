@@ -1,0 +1,788 @@
+[
+	{
+		"words": [
+			{
+				"text": "baby ",
+				"start": 5.06,
+				"end": 5.37,
+				"index": 0
+			},
+			{
+				"text": "Bron ",
+				"start": 5.41,
+				"end": 6.13,
+				"index": 1
+			},
+			{
+				"text": "baby ",
+				"start": 9.64,
+				"end": 9.92,
+				"index": 2
+			},
+			{
+				"text": "bron ",
+				"start": 9.94,
+				"end": 10.7,
+				"index": 3
+			},
+			{
+				"text": "baby ",
+				"start": 14.18,
+				"end": 14.48,
+				"index": 4
+			},
+			{
+				"text": "bron ",
+				"start": 14.52,
+				"end": 15.58,
+				"index": 5
+			},
+			{
+				"text": "baby ",
+				"start": 19.8,
+				"end": 20.12,
+				"index": 6
+			},
+			{
+				"text": "bron ",
+				"start": 20.16,
+				"end": 20.88,
+				"index": 7
+			},
+			{
+				"text": "let ",
+				"start": 21,
+				"end": 21.12,
+				"index": 8
+			},
+			{
+				"text": "me ",
+				"start": 21.14,
+				"end": 21.22,
+				"index": 9
+			},
+			{
+				"text": "see ",
+				"start": 21.28,
+				"end": 21.38,
+				"index": 10
+			},
+			{
+				"text": "you ",
+				"start": 21.42,
+				"end": 21.56,
+				"index": 11
+			},
+			{
+				"text": "do ",
+				"start": 21.6,
+				"end": 21.7,
+				"index": 12
+			},
+			{
+				"text": "your ",
+				"start": 21.72,
+				"end": 21.82,
+				"index": 13
+			},
+			{
+				"text": "dance ",
+				"start": 21.86,
+				"end": 22.14,
+				"index": 14
+			},
+			{
+				"text": "let ",
+				"start": 22.16,
+				"end": 22.26,
+				"index": 15
+			},
+			{
+				"text": "me ",
+				"start": 22.28,
+				"end": 22.38,
+				"index": 16
+			},
+			{
+				"text": "see ",
+				"start": 22.4,
+				"end": 22.48,
+				"index": 17
+			},
+			{
+				"text": "you ",
+				"start": 22.52,
+				"end": 22.64,
+				"index": 18
+			},
+			{
+				"text": "shine ",
+				"start": 22.68,
+				"end": 23.08,
+				"index": 19
+			},
+			{
+				"text": "shoot ",
+				"start": 23.14,
+				"end": 23.4,
+				"index": 20
+			},
+			{
+				"text": "a ",
+				"start": 23.44,
+				"end": 23.5,
+				"index": 21
+			},
+			{
+				"text": "three ",
+				"start": 23.54,
+				"end": 23.78,
+				"index": 22
+			},
+			{
+				"text": "buzz ",
+				"start": 23.84,
+				"end": 24,
+				"index": 23
+			},
+			{
+				"text": "a ",
+				"start": 24.04,
+				"end": 24.1,
+				"index": 24
+			},
+			{
+				"text": "beat ",
+				"start": 24.14,
+				"end": 24.34,
+				"index": 25
+			},
+			{
+				"text": "but ",
+				"start": 24.38,
+				"end": 24.48,
+				"index": 26
+			},
+			{
+				"text": "your ",
+				"start": 24.52,
+				"end": 24.68,
+				"index": 27
+			},
+			{
+				"text": "own ",
+				"start": 24.88,
+				"end": 24.94,
+				"index": 28
+			},
+			{
+				"text": "time ",
+				"start": 24.96,
+				"end": 25.46,
+				"index": 29
+			},
+			{
+				"text": "you ",
+				"start": 25.5,
+				"end": 25.7,
+				"index": 30
+			},
+			{
+				"text": "will ",
+				"start": 25.72,
+				"end": 25.8,
+				"index": 31
+			},
+			{
+				"text": "leave ",
+				"start": 25.82,
+				"end": 26.04,
+				"index": 32
+			},
+			{
+				"text": "from ",
+				"start": 26.08,
+				"end": 26.22,
+				"index": 33
+			},
+			{
+				"text": "the ",
+				"start": 26.26,
+				"end": 26.34,
+				"index": 34
+			},
+			{
+				"text": "deep ",
+				"start": 26.38,
+				"end": 26.79,
+				"index": 35
+			},
+			{
+				"text": "on ",
+				"start": 26.81,
+				"end": 26.97,
+				"index": 36
+			},
+			{
+				"text": "my ",
+				"start": 27.19,
+				"end": 27.25,
+				"index": 37
+			},
+			{
+				"text": "mind ",
+				"start": 27.27,
+				"end": 27.97,
+				"index": 38
+			},
+			{
+				"text": "and ",
+				"start": 28.23,
+				"end": 28.75,
+				"index": 39
+			},
+			{
+				"text": "he ",
+				"start": 28.97,
+				"end": 29.05,
+				"index": 40
+			},
+			{
+				"text": "the ",
+				"start": 29.07,
+				"end": 29.19,
+				"index": 41
+			},
+			{
+				"text": "best ",
+				"start": 29.23,
+				"end": 29.63,
+				"index": 42
+			},
+			{
+				"text": "seed ",
+				"start": 29.65,
+				"end": 29.73,
+				"index": 43
+			},
+			{
+				"text": "imma ",
+				"start": 30.09,
+				"end": 30.33,
+				"index": 44
+			},
+			{
+				"text": "watch ",
+				"start": 30.35,
+				"end": 30.61,
+				"index": 45
+			},
+			{
+				"text": "all ",
+				"start": 30.65,
+				"end": 30.71,
+				"index": 46
+			},
+			{
+				"text": "his ",
+				"start": 30.73,
+				"end": 30.89,
+				"index": 47
+			},
+			{
+				"text": "games ",
+				"start": 30.91,
+				"end": 31.15,
+				"index": 48
+			},
+			{
+				"text": "get ",
+				"start": 31.23,
+				"end": 31.29,
+				"index": 49
+			},
+			{
+				"text": "the ",
+				"start": 31.31,
+				"end": 31.45,
+				"index": 50
+			},
+			{
+				"text": "best ",
+				"start": 31.49,
+				"end": 31.85,
+				"index": 51
+			},
+			{
+				"text": "seed ",
+				"start": 31.87,
+				"end": 31.97,
+				"index": 52
+			},
+			{
+				"text": "he ",
+				"start": 32.29,
+				"end": 32.43,
+				"index": 53
+			},
+			{
+				"text": "the ",
+				"start": 32.45,
+				"end": 32.85,
+				"index": 54
+			},
+			{
+				"text": "MVP ",
+				"start": 32.87,
+				"end": 33.13,
+				"index": 55
+			},
+			{
+				"text": "like",
+				"start": 33.43,
+				"end": 33.67,
+				"index": 56
+			}
+		],
+		"start": -1,
+		"end": 32.67
+	},
+	{
+		"words": [
+			{
+				"text": "Messi ",
+				"start": 0,
+				"end": 0.5,
+				"index": 57
+			},
+			{
+				"text": "hit ",
+				"start": 0.9,
+				"end": 1,
+				"index": 58
+			},
+			{
+				"text": "the ",
+				"start": 1.02,
+				"end": 1.12,
+				"index": 59
+			},
+			{
+				"text": "dance ",
+				"start": 1.16,
+				"end": 1.42,
+				"index": 60
+			},
+			{
+				"text": "floor ",
+				"start": 1.46,
+				"end": 1.72,
+				"index": 61
+			},
+			{
+				"text": "get ",
+				"start": 2.02,
+				"end": 2.22,
+				"index": 62
+			},
+			{
+				"text": "nasty ",
+				"start": 2.28,
+				"end": 2.8,
+				"index": 63
+			},
+			{
+				"text": "make ",
+				"start": 3.16,
+				"end": 3.38,
+				"index": 64
+			},
+			{
+				"text": "brony ",
+				"start": 3.42,
+				"end": 3.92,
+				"index": 65
+			},
+			{
+				"text": "baby ",
+				"start": 4.24,
+				"end": 4.51,
+				"index": 66
+			},
+			{
+				"text": "bron ",
+				"start": 4.57,
+				"end": 5.29,
+				"index": 67
+			},
+			{
+				"text": "let ",
+				"start": 5.41,
+				"end": 5.53,
+				"index": 68
+			},
+			{
+				"text": "me ",
+				"start": 5.55,
+				"end": 5.63,
+				"index": 69
+			},
+			{
+				"text": "see ",
+				"start": 5.67,
+				"end": 5.79,
+				"index": 70
+			},
+			{
+				"text": "you ",
+				"start": 5.83,
+				"end": 5.95,
+				"index": 71
+			},
+			{
+				"text": "do ",
+				"start": 5.99,
+				"end": 6.09,
+				"index": 72
+			},
+			{
+				"text": "your ",
+				"start": 6.11,
+				"end": 6.23,
+				"index": 73
+			},
+			{
+				"text": "dance ",
+				"start": 6.27,
+				"end": 6.55,
+				"index": 74
+			},
+			{
+				"text": "let ",
+				"start": 6.57,
+				"end": 6.65,
+				"index": 75
+			},
+			{
+				"text": "me ",
+				"start": 6.69,
+				"end": 6.79,
+				"index": 76
+			},
+			{
+				"text": "see ",
+				"start": 6.81,
+				"end": 6.91,
+				"index": 77
+			},
+			{
+				"text": "you ",
+				"start": 6.93,
+				"end": 7.05,
+				"index": 78
+			},
+			{
+				"text": "shine ",
+				"start": 7.09,
+				"end": 7.49,
+				"index": 79
+			},
+			{
+				"text": "shoot ",
+				"start": 7.61,
+				"end": 7.79,
+				"index": 80
+			},
+			{
+				"text": "a ",
+				"start": 7.85,
+				"end": 7.91,
+				"index": 81
+			},
+			{
+				"text": "three ",
+				"start": 7.95,
+				"end": 8.19,
+				"index": 82
+			},
+			{
+				"text": "buzz ",
+				"start": 8.23,
+				"end": 8.41,
+				"index": 83
+			},
+			{
+				"text": "a ",
+				"start": 8.43,
+				"end": 8.51,
+				"index": 84
+			},
+			{
+				"text": "beat ",
+				"start": 8.53,
+				"end": 8.75,
+				"index": 85
+			},
+			{
+				"text": "but ",
+				"start": 8.79,
+				"end": 8.89,
+				"index": 86
+			},
+			{
+				"text": "your ",
+				"start": 8.93,
+				"end": 9.09,
+				"index": 87
+			},
+			{
+				"text": "own ",
+				"start": 9.19,
+				"end": 9.33,
+				"index": 88
+			},
+			{
+				"text": "time ",
+				"start": 9.37,
+				"end": 9.87,
+				"index": 89
+			},
+			{
+				"text": "you ",
+				"start": 9.91,
+				"end": 10.11,
+				"index": 90
+			},
+			{
+				"text": "will ",
+				"start": 10.13,
+				"end": 10.21,
+				"index": 91
+			},
+			{
+				"text": "leave ",
+				"start": 10.23,
+				"end": 10.45,
+				"index": 92
+			},
+			{
+				"text": "from ",
+				"start": 10.49,
+				"end": 10.63,
+				"index": 93
+			},
+			{
+				"text": "the ",
+				"start": 10.65,
+				"end": 10.75,
+				"index": 94
+			},
+			{
+				"text": "deep ",
+				"start": 10.79,
+				"end": 11.19,
+				"index": 95
+			},
+			{
+				"text": "on ",
+				"start": 11.21,
+				"end": 11.37,
+				"index": 96
+			},
+			{
+				"text": "my ",
+				"start": 11.6,
+				"end": 11.66,
+				"index": 97
+			},
+			{
+				"text": "mind",
+				"start": 11.67,
+				"end": 12.58,
+				"index": 98
+			}
+		],
+		"start": 32.73,
+		"end": 45.31
+	},
+	{
+		"words": [
+			{
+				"text": "And ",
+				"start": 0,
+				"end": 0.58,
+				"index": 99
+			},
+			{
+				"text": "he ",
+				"start": 0.73,
+				"end": 0.85,
+				"index": 100
+			},
+			{
+				"text": "the ",
+				"start": 0.91,
+				"end": 1.01,
+				"index": 101
+			},
+			{
+				"text": "best ",
+				"start": 1.05,
+				"end": 1.43,
+				"index": 102
+			},
+			{
+				"text": "seed, ",
+				"start": 1.45,
+				"end": 1.89,
+				"index": 103
+			},
+			{
+				"text": "I'ma ",
+				"start": 1.91,
+				"end": 2.13,
+				"index": 104
+			},
+			{
+				"text": "watch ",
+				"start": 2.18,
+				"end": 2.44,
+				"index": 105
+			},
+			{
+				"text": "all ",
+				"start": 2.52,
+				"end": 2.62,
+				"index": 106
+			},
+			{
+				"text": "his ",
+				"start": 2.64,
+				"end": 2.72,
+				"index": 107
+			},
+			{
+				"text": "games",
+				"start": 2.74,
+				"end": 3,
+				"index": 108
+			}
+		],
+		"start": 45.29,
+		"end": 48.29
+	},
+	{
+		"words": [
+			{
+				"text": "Get ",
+				"start": 0,
+				"end": 0.1,
+				"index": 109
+			},
+			{
+				"text": "the ",
+				"start": 0.12,
+				"end": 0.22,
+				"index": 110
+			},
+			{
+				"text": "best ",
+				"start": 0.26,
+				"end": 0.77,
+				"index": 111
+			},
+			{
+				"text": "seed, ",
+				"start": 1.13,
+				"end": 1.47,
+				"index": 112
+			},
+			{
+				"text": "he ",
+				"start": 1.49,
+				"end": 1.53,
+				"index": 113
+			},
+			{
+				"text": "the ",
+				"start": 1.57,
+				"end": 1.67,
+				"index": 114
+			},
+			{
+				"text": "MVP ",
+				"start": 1.71,
+				"end": 1.91,
+				"index": 115
+			},
+			{
+				"text": "like",
+				"start": 2.34,
+				"end": 2.5,
+				"index": 116
+			}
+		],
+		"start": 48.33,
+		"end": 50.83
+	},
+	{
+		"words": [
+			{
+				"text": "Messi",
+				"start": 0,
+				"end": 0.5,
+				"index": 117
+			}
+		],
+		"start": 50.87,
+		"end": 51.37
+	},
+	{
+		"words": [
+			{
+				"text": "Hit ",
+				"start": 0,
+				"end": 0.12,
+				"index": 118
+			},
+			{
+				"text": "the ",
+				"start": 0.14,
+				"end": 0.24,
+				"index": 119
+			},
+			{
+				"text": "dancefloor, ",
+				"start": 0.26,
+				"end": 0.89,
+				"index": 120
+			},
+			{
+				"text": "get ",
+				"start": 1.21,
+				"end": 1.35,
+				"index": 121
+			},
+			{
+				"text": "nasty, ",
+				"start": 1.41,
+				"end": 1.95,
+				"index": 122
+			},
+			{
+				"text": "make ",
+				"start": 2.28,
+				"end": 2.52,
+				"index": 123
+			},
+			{
+				"text": "Bronny",
+				"start": 2.56,
+				"end": 3.54,
+				"index": 124
+			}
+		],
+		"start": 51.76,
+		"end": 55.3
+	}
+]

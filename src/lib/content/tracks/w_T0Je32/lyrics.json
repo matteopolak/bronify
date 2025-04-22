@@ -1,0 +1,314 @@
+[
+	{
+		"words": [
+			{
+				"text": "What ",
+				"start": 0,
+				"end": 0.28,
+				"index": 0
+			},
+			{
+				"text": "good ",
+				"start": 0.3,
+				"end": 0.54,
+				"index": 1
+			},
+			{
+				"text": "would ",
+				"start": 0.58,
+				"end": 0.72,
+				"index": 2
+			},
+			{
+				"text": "the",
+				"start": 0.74,
+				"end": 0.8,
+				"index": 3
+			}
+		],
+		"start": 0.66,
+		"end": 1.46
+	},
+	{
+		"words": [
+			{
+				"text": "Leafs ",
+				"start": 0,
+				"end": 0.52,
+				"index": 4
+			},
+			{
+				"text": "be ",
+				"start": 0.58,
+				"end": 0.92,
+				"index": 5
+			},
+			{
+				"text": "if ",
+				"start": 1.26,
+				"end": 1.34,
+				"index": 6
+			},
+			{
+				"text": "the ",
+				"start": 1.38,
+				"end": 1.52,
+				"index": 7
+			},
+			{
+				"text": "angels ",
+				"start": 1.68,
+				"end": 1.96,
+				"index": 8
+			},
+			{
+				"text": "came ",
+				"start": 2.02,
+				"end": 2.26,
+				"index": 9
+			},
+			{
+				"text": "for ",
+				"start": 2.3,
+				"end": 2.46,
+				"index": 10
+			},
+			{
+				"text": "Bron ",
+				"start": 2.52,
+				"end": 2.88,
+				"index": 11
+			},
+			{
+				"text": "I'd ",
+				"start": 2.9,
+				"end": 3.04,
+				"index": 12
+			},
+			{
+				"text": "tell ",
+				"start": 3.18,
+				"end": 3.44,
+				"index": 13
+			},
+			{
+				"text": "them ",
+				"start": 3.46,
+				"end": 3.55,
+				"index": 14
+			},
+			{
+				"text": "no",
+				"start": 3.57,
+				"end": 5.07,
+				"index": 15
+			}
+		],
+		"start": 1.5,
+		"end": 6.57
+	},
+	{
+		"words": [
+			{
+				"text": "He ",
+				"start": 0,
+				"end": 0.3,
+				"index": 16
+			},
+			{
+				"text": "won't ",
+				"start": 0.32,
+				"end": 0.64,
+				"index": 17
+			},
+			{
+				"text": "leave ",
+				"start": 0.66,
+				"end": 0.76,
+				"index": 18
+			},
+			{
+				"text": "his ",
+				"start": 0.8,
+				"end": 0.94,
+				"index": 19
+			},
+			{
+				"text": "son ",
+				"start": 1,
+				"end": 1.46,
+				"index": 20
+			},
+			{
+				"text": "Bronny ",
+				"start": 1.52,
+				"end": 2.04,
+				"index": 21
+			},
+			{
+				"text": "alone",
+				"start": 2.08,
+				"end": 4.05,
+				"index": 22
+			}
+		],
+		"start": 6.58,
+		"end": 10.63
+	},
+	{
+		"words": [
+			{
+				"text": "There's ",
+				"start": 0,
+				"end": 0.26,
+				"index": 23
+			},
+			{
+				"text": "nobody ",
+				"start": 0.32,
+				"end": 1,
+				"index": 24
+			},
+			{
+				"text": "else ",
+				"start": 1.14,
+				"end": 1.28,
+				"index": 25
+			},
+			{
+				"text": "like",
+				"start": 1.38,
+				"end": 1.5,
+				"index": 26
+			}
+		],
+		"start": 10.65,
+		"end": 12.15
+	},
+	{
+		"words": [
+			{
+				"text": "Blaze ",
+				"start": 0,
+				"end": 0.42,
+				"index": 27
+			},
+			{
+				"text": "I ",
+				"start": 0.54,
+				"end": 0.66,
+				"index": 28
+			},
+			{
+				"text": "told ",
+				"start": 1.1,
+				"end": 1.72,
+				"index": 29
+			},
+			{
+				"text": "you",
+				"start": 1.74,
+				"end": 1.96,
+				"index": 30
+			}
+		],
+		"start": 12.25,
+		"end": 14.21
+	},
+	{
+		"words": [
+			{
+				"text": "Last ",
+				"start": 0,
+				"end": 0.16,
+				"index": 31
+			},
+			{
+				"text": "three ",
+				"start": 0.18,
+				"end": 0.44,
+				"index": 32
+			},
+			{
+				"text": "points, ",
+				"start": 0.48,
+				"end": 0.96,
+				"index": 33
+			},
+			{
+				"text": "he'll ",
+				"start": 1.12,
+				"end": 2.12,
+				"index": 34
+			},
+			{
+				"text": "be ",
+				"start": 2.14,
+				"end": 2.18,
+				"index": 35
+			},
+			{
+				"text": "best ",
+				"start": 2.24,
+				"end": 2.52,
+				"index": 36
+			},
+			{
+				"text": "to ",
+				"start": 2.68,
+				"end": 2.8,
+				"index": 37
+			},
+			{
+				"text": "ever ",
+				"start": 2.92,
+				"end": 3.46,
+				"index": 38
+			},
+			{
+				"text": "play",
+				"start": 3.48,
+				"end": 3.96,
+				"index": 39
+			}
+		],
+		"start": 14.81,
+		"end": 18.77
+	},
+	{
+		"words": [
+			{
+				"text": "LeBron ",
+				"start": 0,
+				"end": 0.52,
+				"index": 40
+			},
+			{
+				"text": "is ",
+				"start": 0.54,
+				"end": 0.68,
+				"index": 41
+			},
+			{
+				"text": "his ",
+				"start": 0.76,
+				"end": 0.9,
+				"index": 42
+			},
+			{
+				"text": "name, ",
+				"start": 0.96,
+				"end": 1.7,
+				"index": 43
+			},
+			{
+				"text": "no",
+				"start": 1.82,
+				"end": 3.48,
+				"index": 44
+			}
+		],
+		"start": 19.18,
+		"end": 22.66
+	}
+]

@@ -223,6 +223,24 @@
 		"colour": "#5C4546"
 	},
 	{
+		"id": "0UqTLE_7",
+		"artists": [
+			"VbIDcJc2"
+		],
+		"title": "LeKia",
+		"durationSeconds": 55,
+		"tags": [
+			"blues",
+			"hip_hop",
+			"soundtrack",
+			"tender",
+			"rap"
+		],
+		"colour": "#140C11",
+		"index": 309,
+		"createdAt": 1745366010642
+	},
+	{
 		"title": "Let LeBron Know",
 		"tags": [
 			"blues",
@@ -3228,6 +3246,20 @@
 		"colour": "#501311"
 	},
 	{
+		"id": "N-WclZWz",
+		"artists": [
+			"yCBV73kZ"
+		],
+		"title": "LeBronian Rhapsody",
+		"durationSeconds": 67,
+		"tags": [
+			"lullaby"
+		],
+		"colour": "#785B57",
+		"index": 312,
+		"createdAt": 1745366199838
+	},
+	{
 		"id": "n1Fotgn1",
 		"title": "Upside Bron",
 		"durationSeconds": 61,
@@ -4681,6 +4713,25 @@
 		"colour": "#0D050A"
 	},
 	{
+		"id": "w_T0Je32",
+		"artists": [
+			"RYFVA3EJ"
+		],
+		"title": "LeBron Can Wait",
+		"durationSeconds": 23,
+		"tags": [
+			"blues",
+			"pop",
+			"soul",
+			"hip_hop",
+			"tender",
+			"soundtrack"
+		],
+		"colour": "#1A0A0D",
+		"index": 310,
+		"createdAt": 1745366010642
+	},
+	{
 		"id": "wAFTrt45",
 		"title": "Moon",
 		"durationSeconds": 80,
@@ -4834,6 +4885,25 @@
 			"t8el_So4"
 		],
 		"colour": "#15090D"
+	},
+	{
+		"id": "XC4VC39d",
+		"artists": [
+			"yVjj7w08"
+		],
+		"title": "Le-Fayette",
+		"durationSeconds": 41,
+		"tags": [
+			"hip_hop",
+			"rap",
+			"reggae",
+			"funk",
+			"soul",
+			"pop"
+		],
+		"colour": "#3A2C31",
+		"index": 311,
+		"createdAt": 1745366010642
 	},
 	{
 		"id": "xEHftABV",
